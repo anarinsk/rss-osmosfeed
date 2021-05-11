@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-11T03:17:32.003Z</updated>
+    <updated>2021-05-11T03:59:57.128Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -1256,6 +1256,17 @@ Chapter 01. 프로그램 선택 및 설치하기
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Windows Package Manager v0.3 Preview]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=6636</id>
+        <link href="https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/"/>
+        <updated>2021-04-22T21:15:09.000Z</updated>
+        <summary type="html"><![CDATA[We have been hard at work building new experimental features for the Windows Package Manager. We have just released the Windows Package Manager v0.3 Preview. I would like to share the first major feature to exit experimental status. I also have the privilege of announcing support for Group Policy.
+The post Windows Package Manager v0.3 Preview appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Demitrius Nelon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[분노의 절약/복거일 지음/자유기업원]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=270040937</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=270040937"/>
@@ -1304,6 +1315,17 @@ Chapter 01. 프로그램 선택 및 설치하기
 1장 …]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=6619</id>
+        <link href="https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/"/>
+        <updated>2021-04-21T17:07:23.000Z</updated>
+        <summary type="html"><![CDATA[A year ago at BUILD 2020 we introduced our goal to bring Linux GUI applications to the Windows Subsystem for Linux (WSL) to run Linux GUI applications. We are proud to announce the first preview of this highly anticipated and open source feature!
+The post The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Craig Loewen</name>
         </author>
     </entry>
     <entry>
@@ -1483,6 +1505,17 @@ ___변수 선…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WSLg Architecture]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=6609</id>
+        <link href="https://devblogs.microsoft.com/commandline/wslg-architecture/"/>
+        <updated>2021-04-20T04:06:05.000Z</updated>
+        <summary type="html"><![CDATA[If you landed on this blog, you’ve probably seen our announcement for GUI applications support in the Windows Subsystem for Linux being available to Windows Insiders and looking for more details on how WSLg was built. If so, you’ve come to the right place!
+The post WSLg Architecture appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Steve Pronovost</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Calling in election fraud]]></title>
         <id>https://www.aeaweb.org/research/afghanistan-cell-phone-election-fraud</id>
         <link href="https://www.aeaweb.org/research/afghanistan-cell-phone-election-fraud"/>
@@ -1590,6 +1623,17 @@ CHAPTER 2 스레드에 관한 진실
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=6589</id>
+        <link href="https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/"/>
+        <updated>2021-04-16T20:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Note: This blog post is co-authored by the awesome WSL dev Pierre Boulay. Thanks Pierre! 😊
+The post Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Craig Loewen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[고성능 파이썬/미샤 고렐릭.이안 오스발트 지음, 오현석 옮김/한빛미디어]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=269676691</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=269676691"/>
@@ -1653,6 +1697,17 @@ __배치 처리의 역사
 1.2 우리가 자…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Terminal Preview 1.8 Release]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=6574</id>
+        <link href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-8-release/"/>
+        <updated>2021-04-14T17:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to another release of Windows Terminal! This release updates Windows Terminal Preview to version 1.8 and moves Windows Terminal to version 1.7. Both builds can be installed from the Microsoft Store as well as the GitHub releases page. Let&#8217;s jump into what&#8217;s new!
+The post Windows Terminal Preview 1.8 Release appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Kayla Cinnamon</name>
         </author>
     </entry>
     <entry>

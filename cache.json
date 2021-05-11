@@ -986,6 +986,58 @@
           "title": "쿼커스 쿡북/알렉스 소토 부에노.제이슨 포터 지음, 유동환 옮김/한빛미디어"
         }
       ]
+    },
+    {
+      "title": "Windows Command Line",
+      "feedUrl": "https://devblogs.microsoft.com/commandline/feed/",
+      "siteUrl": "https://devblogs.microsoft.com/commandline",
+      "articles": [
+        {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6636",
+          "author": "Demitrius Nelon",
+          "description": "We have been hard at work building new experimental features for the Windows Package Manager. We have just released the Windows Package Manager v0.3 Preview. I would like to share the first major feature to exit experimental status. I also have the privilege of announcing support for Group Policy.\nThe post Windows Package Manager v0.3 Preview appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/",
+          "publishedOn": "2021-04-22T21:15:09.000Z",
+          "wordCount": 1664,
+          "title": "Windows Package Manager v0.3 Preview"
+        },
+        {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6619",
+          "author": "Craig Loewen",
+          "description": "A year ago at BUILD 2020 we introduced our goal to bring Linux GUI applications to the Windows Subsystem for Linux (WSL) to run Linux GUI applications. We are proud to announce the first preview of this highly anticipated and open source feature!\nThe post The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/",
+          "publishedOn": "2021-04-21T17:07:23.000Z",
+          "wordCount": 2643,
+          "title": "The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux"
+        },
+        {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6609",
+          "author": "Steve Pronovost",
+          "description": "If you landed on this blog, you’ve probably seen our announcement for GUI applications support in the Windows Subsystem for Linux being available to Windows Insiders and looking for more details on how WSLg was built. If so, you’ve come to the right place!\nThe post WSLg Architecture appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/wslg-architecture/",
+          "publishedOn": "2021-04-20T04:06:05.000Z",
+          "wordCount": 5340,
+          "title": "WSLg Architecture"
+        },
+        {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6589",
+          "author": "Craig Loewen",
+          "description": "Note: This blog post is co-authored by the awesome WSL dev Pierre Boulay. Thanks Pierre! 😊\nThe post Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/",
+          "publishedOn": "2021-04-16T20:59:42.000Z",
+          "wordCount": 1281,
+          "title": "Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel"
+        },
+        {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6574",
+          "author": "Kayla Cinnamon",
+          "description": "Welcome back to another release of Windows Terminal! This release updates Windows Terminal Preview to version 1.8 and moves Windows Terminal to version 1.7. Both builds can be installed from the Microsoft Store as well as the GitHub releases page. Let&#8217;s jump into what&#8217;s new!\nThe post Windows Terminal Preview 1.8 Release appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-8-release/",
+          "publishedOn": "2021-04-14T17:00:46.000Z",
+          "wordCount": 1584,
+          "title": "Windows Terminal Preview 1.8 Release"
+        }
+      ]
     }
   ],
   "cliVersion": "1.6.0"
