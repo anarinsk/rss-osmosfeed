@@ -98,99 +98,455 @@
       ]
     },
     {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
+      "title": "National Bureau of Economic Research Working Papers",
+      "feedUrl": "https://back.nber.org/rss/new.xml",
+      "siteUrl": "http://www.nber.org/new.html",
       "articles": [
         {
-          "id": "605cf4879618b008528a77e2",
-          "author": "",
-          "description": "\"It's not about what you know, it's about whom you know.\" \"70-80% of jobs are found via someone's network.\" Most of us have heard cliches and stats like the above. And I think most of us intuitively know that having a network of people that can help us find opportunities",
-          "link": "https://www.freecodecamp.org/news/networking-for-aspiring-developers/",
-          "publishedOn": "2021-05-11T01:38:36.000Z",
-          "wordCount": 3119,
-          "title": "How to Get Your First Developer Job through Intelligent, Genuine Networking"
+          "id": "https://www.nber.org/papers/w28778#fromrss",
+          "author": null,
+          "description": "We open the black box of the M&A decision process by constructing a comprehensive sample of US firms with specialized M&A staff. We investigate whether specialized M&A staff improves acquisition performance or facilitates managerial empire building instead. We find that firms with specialized M&A staff make better acquisitions when acquisition performance is measured by stock price reactions to announcements, long-run stock returns, operating performance, divestitures, and analyst earnings forecasts. This e…",
+          "link": "https://www.nber.org/papers/w28778#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.926Z",
+          "wordCount": 826,
+          "title": "Do Firms with Specialized M&A Staff Make Better Acquisitions? -- by Sinan Gokkaya, Xi Liu, René M. Stulz"
         },
         {
-          "id": "60953e202cd0545b5e943a8b",
-          "author": "",
-          "description": "Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you",
-          "link": "https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/",
-          "publishedOn": "2021-05-10T17:04:31.000Z",
-          "wordCount": 1254,
-          "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
+          "id": "https://www.nber.org/papers/w28781#fromrss",
+          "author": null,
+          "description": "We define high cost lenders as lenders that issue a disproportionate number of high cost loans. We develop a shift-share measure to capture the market representation of these high cost lenders in housing submarkets. After conditioning on housing submarket fixed effects, origination year fixed effects and trends over origination years based on housing submarket attributes, the magnitude of the estimated relationship is very stable as detailed controls for borrower attributes, credit score and loan terms are …",
+          "link": "https://www.nber.org/papers/w28781#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.902Z",
+          "wordCount": 1028,
+          "title": "High Cost Lenders and the Geographic Concentration of Foreclosures -- by Stephen L. Ross, Yuan Wang"
         },
         {
-          "id": "609558382cd0545b5e943c6f",
-          "author": "",
-          "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
-          "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
-          "publishedOn": "2021-05-07T21:07:57.000Z",
-          "wordCount": 1065,
-          "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
+          "id": "https://www.nber.org/papers/w28769#fromrss",
+          "author": null,
+          "description": "Previous research suggests creative ability peaks in the age decades of the 30s and early 40s, and declines thereafter, with some variation across fields. Building from the cognitive aging literature, we expect differences in the rate of creation and qualitative nature of creative works by age. Cognitive processes show aging-related changes with increases in experience-based knowledge (pragmatics or crystallized abilities) and decreases in the ability to process novel information quickly and efficiently (me…",
+          "link": "https://www.nber.org/papers/w28769#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.791Z",
+          "wordCount": 992,
+          "title": "Invention and the Life Course: Age Differences in Patenting -- by Mary Kaltenberg, Adam B. Jaffe, Margie E. Lachman"
         },
         {
-          "id": "609551f02cd0545b5e943bc0",
-          "author": "",
-          "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
-          "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
-          "publishedOn": "2021-05-07T16:59:53.000Z",
-          "wordCount": 1278,
-          "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
+          "id": "https://www.nber.org/papers/w28784#fromrss",
+          "author": null,
+          "description": "The poor live paycheck to paycheck and are repeatedly exposed to strong cyclical income fluctuations. We investigate whether such income fluctuations affect risk preference among the poor. If risk preference temporarily changes around payday, optimal decisions made before payday may no longer be optimal afterward, which could reinforce poverty. By exploiting Social Security payday cycles in the US, we find that risk preference among the poor relying heavily on Social Security changes around payday. Rather t…",
+          "link": "https://www.nber.org/papers/w28784#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.554Z",
+          "wordCount": 888,
+          "title": "Temporal Instability of Risk Preference among the Poor: Evidence from Payday Cycles -- by Mika Akesaka, Peter Eibich, Chie Hanaoka, Hitoshi Shigeoka"
         },
         {
-          "id": "609409c201fc34080ef81f97",
-          "author": "",
-          "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
-          "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
-          "publishedOn": "2021-05-06T21:41:34.000Z",
-          "wordCount": 1339,
-          "title": "What Is &quot;Lifting State Up&quot; in React?"
+          "id": "https://www.nber.org/papers/w28752#fromrss",
+          "author": null,
+          "description": "By age 77 a plurality of women in wealthy Western societies are widows. Comparing older (aged 70+) married women to widows in the American Time Use Survey 2003-18 and linking the data to the Current Population Survey allow inferring the short- and longer-term effects of an arguably exogenous shock—husband’s death—and measuring the paths of adjustment of time use to it. Widows differ from otherwise similar married women, especially from married women with working husbands, by cutting back on home production,…",
+          "link": "https://www.nber.org/papers/w28752#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.544Z",
+          "wordCount": 861,
+          "title": "Widows’ Time, Time Stress and Happiness: Adjusting to Loss -- by Daniel S. Hamermesh, Michał Myck, Monika Oczkowska"
         },
         {
-          "id": "609415eb2cd0545b5e943534",
-          "author": "",
-          "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
-          "publishedOn": "2021-05-06T16:26:08.000Z",
-          "wordCount": 426,
-          "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
+          "id": "https://www.nber.org/papers/w28754#fromrss",
+          "author": null,
+          "description": "We provide a general non-parametric characterization of how welfare responds to changes in budget and production possibility sets when preferences are non-homothetic or subject to shocks, in both partial and general equilibrium. We generalize Hulten’s theorem, which is the basis for constructing aggregate quantities, to this context. We identify a new bias in measures of real consumption that depends on the covariance of price changes and expenditure changes due to income effects or preference shocks. We ap…",
+          "link": "https://www.nber.org/papers/w28754#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.334Z",
+          "wordCount": 853,
+          "title": "Welfare and Output with Income Effects and Demand Instability -- by David Baqaee, Ariel Burstein"
         },
         {
-          "id": "60939bde01fc34080ef81a19",
-          "author": "",
-          "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
-          "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
-          "publishedOn": "2021-05-06T16:06:35.000Z",
-          "wordCount": 1775,
-          "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
+          "id": "https://www.nber.org/papers/w28779#fromrss",
+          "author": null,
+          "description": "We study the welfare effects of offering choice over financial coverage levels––\"vertical choice''––in regulated health insurance markets. Though the efficient level of coverage, which trades off the value of risk protection and the social cost from moral hazard, likely varies across consumers, we emphasize that this variation alone is not sufficient to motivate choice. When premiums cannot reflect individual costs, consumers may not select their efficient coverage level. We show that vertical choice is eff…",
+          "link": "https://www.nber.org/papers/w28779#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.982Z",
+          "wordCount": 866,
+          "title": "Should There Be Vertical Choice in Health Insurance Markets? -- by Victoria R. Marone, Adrienne Sabety"
         },
         {
-          "id": "609307e801fc34080ef8191e",
-          "author": "",
-          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
-          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
-          "publishedOn": "2021-05-05T21:11:40.000Z",
-          "wordCount": 352,
-          "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
+          "id": "https://www.nber.org/papers/w28783#fromrss",
+          "author": null,
+          "description": "In the absence of first-best climate policy, we demonstrate that existing government institutions and policy established for reasons unrelated to climate change may induce climate adaptation. We examine the impact of temperature on ambient ozone concentration in the United States from 1980-2013, and the role of institution-induced adaptation. Ozone is formed under warm temperatures, and regulated by the Clean Air Act institution. Adaptation in counties out of attainment with air quality standards is 107 per…",
+          "link": "https://www.nber.org/papers/w28783#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.972Z",
+          "wordCount": 838,
+          "title": "Time is of the Essence: Climate Adaptation Induced by Existing Institutions -- by Antonio Bento, Noah S. Miller, Mehreen Mookerjee, Edson R. Severnini"
         },
         {
-          "id": "609011fd8eb3fb07cf09a034",
-          "author": "",
-          "description": "A complete guide to Node.js async await",
-          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
-          "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2241,
-          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
+          "id": "https://www.nber.org/papers/w28757#fromrss",
+          "author": null,
+          "description": "This paper studies the evolution of individual earnings inequality and dynamics in Canada from 1983 to 2016 using tax files and administrative records.  Linking these individuals to their employers (and rich administrative records on firms) beginning in 2001, it also documents the relationship between the earnings dynamics of workers and the size and growth of their employers.  It highlights three main patterns over this period:  First, with a few exceptions (sharp increase in top 1% and declining gender ga…",
+          "link": "https://www.nber.org/papers/w28757#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.925Z",
+          "wordCount": 854,
+          "title": "Four Decades of Canadian Earnings Inequality and Dynamics across Workers and Firms -- by Audra Bowlus, Émilien Gouin-Bonenfant, Huju Liu, Lance Lochner, Youngmin Park"
         },
         {
-          "id": "608f5ad48eb3fb07cf099ddb",
-          "author": "",
-          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
-          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
-          "publishedOn": "2021-05-04T15:33:12.000Z",
-          "wordCount": 1018,
-          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
+          "id": "https://www.nber.org/papers/w28775#fromrss",
+          "author": null,
+          "description": "We examine the extent to which the labor market facilitates the diffusion of tax planning knowledge across firms. Using a novel dataset of tax department employee movements between S&P 1500 firms, we find that firms experience an increase in their tax planning after hiring a tax employee from a tax aggressive firm. This finding is robust to various research designs and specifications. Consistent with tax planning knowledge driving this result, we find that the tax planning benefit of hiring an employee from…",
+          "link": "https://www.nber.org/papers/w28775#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.900Z",
+          "wordCount": 927,
+          "title": "Tax Planning Knowledge Diffusion via the Labor Market -- by John M. Barrios, John Gallemore"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28785#fromrss",
+          "author": null,
+          "description": "We exploit novel data from brain-training games to examine the impacts of air pollution on a comprehensive set of cognitive skills of adults. We find that exposure to particulate matter (PM2.5) impairs adult cognitive function, and that these effects are largest for those in prime working age. These results confirm a hypothesized mechanism for the impacts of air pollution on productivity. We also find that the cognitive effects are largest for new tasks and for those with low ability, suggesting that air po…",
+          "link": "https://www.nber.org/papers/w28785#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.851Z",
+          "wordCount": 757,
+          "title": "Air Pollution and Adult Cognition: Evidence from Brain Training -- by Andrea La Nauze, Edson R. Severnini"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28764#fromrss",
+          "author": null,
+          "description": "Regulatory debates about centralized trading assume security design is immune to market structure. We consider a regulator who introduces an exchange to increase liquidity, understanding that security design is endogenous. For a given security, investors would like to trade in a larger market and, for a given market structure, they would like to trade a safer security. We show that financial intermediaries design riskier securities after the exchange is introduced, even when the exchange leads to the origin…",
+          "link": "https://www.nber.org/papers/w28764#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.820Z",
+          "wordCount": 748,
+          "title": "Regulation and Security Design in Concentrated Markets -- by Ana Babus, Kinda Cheryl Hachem"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28776#fromrss",
+          "author": null,
+          "description": "The “debt-overhang hypothesis” – that households cut back more on their spending in a crisis when they have higher levels of outstanding mortgage debt (Dynan, 2012) – seems to be taken for granted by macroprudential authorities in several countries in their policy decisions, as well as by the international organizations that evaluate and comment on countries’ macroprudential policy. New results for Australian microdata are presented that reject the debt-overhang hypothesis. The results instead support the “…",
+          "link": "https://www.nber.org/papers/w28776#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.808Z",
+          "wordCount": 925,
+          "title": "Household Debt Overhang Did Hardly Cause a Larger Spending Fall during the Financial Crisis in Australia -- by Lars E.O. Svensson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28766#fromrss",
+          "author": null,
+          "description": "Large-scale increases in discrimination can lead to dismissals of highly qualified managers. We investigate how expulsions of senior Jewish managers, due to rising discrimination in Nazi Germany, affected large corporations. Firms that lost Jewish managers experienced persistent reductions in stock prices, dividends, and returns on assets. Aggregate market value fell by roughly 1.8 percent of German GNP because of the expulsions. Managers who served as key connectors to other firms and managers who were hig…",
+          "link": "https://www.nber.org/papers/w28766#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.785Z",
+          "wordCount": 874,
+          "title": "Discrimination, Managers, and Firm Performance: Evidence from “Aryanizations” in Nazi Germany -- by Kilian Huber, Volker Lindenthal, Fabian Waldinger"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28782#fromrss",
+          "author": null,
+          "description": "Children exposed to pollutants like lead are more disruptive and have lower achievement. However, little is known about whether lead-exposed children affect the long-run outcomes of their peers. We estimate these spillover effects using new data on preschool blood lead levels (BLLs) matched to education data for all students in North Carolina public schools. We compare siblings whose school-grade cohorts differ in the proportion of children with elevated BLLs, holding constant school and peers’ demographics…",
+          "link": "https://www.nber.org/papers/w28782#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.760Z",
+          "wordCount": 889,
+          "title": "The Long-Run Spillover Effects of Pollution: How Exposure to Lead Affects Everyone in the Classroom -- by Ludovica Gazze, Claudia Persico, Sandra Spirovska"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28771#fromrss",
+          "author": null,
+          "description": "In recessions, unemployment increases despite the—perhaps counterintuitive—fact that the number of unemployed workers finding jobs expands. We propose a theory of unemployment fluctuations resting on this countercyclicality of gross flows from unemployment into employment. In recessions, the abundance of new hires “congests” the jobs the unemployed fill—diminishing their marginal product and discouraging further job creation. Countercyclical congestion explains 30-40% of US unemployment fluctuations. Additi…",
+          "link": "https://www.nber.org/papers/w28771#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.744Z",
+          "wordCount": 845,
+          "title": "A Congestion Theory of Unemployment Fluctuations -- by Yusuf Mercan, Benjamin Schoefer, Petr Sedláček"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28756#fromrss",
+          "author": null,
+          "description": "We use admissions lotteries to estimate the effects of large-scale public preschool in Boston on college-going, college preparation, standardized test scores, and behavioral outcomes. Preschool enrollment boosts college attendance, as well as SAT test-taking and high school graduation. Preschool also decreases several disciplinary measures including juvenile incarceration, but has no detectable impact on state achievement test scores. An analysis of subgroups shows that effects on college enrollment, SAT-ta…",
+          "link": "https://www.nber.org/papers/w28756#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.721Z",
+          "wordCount": 787,
+          "title": "The Long-Term Effects of Universal Preschool in Boston -- by Guthrie Gray-Lobe, Parag A. Pathak, Christopher R. Walters"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28758#fromrss",
+          "author": null,
+          "description": "We show that the specific factors model can be used to derive a rigorous link between movements in stock prices and productivity, wages, employment, output, and welfare. We also prove that the commonly used measure of the effective rate of protection equals the dual measure of revenue TFP, providing a theoretical foundation for why many studies have found that trade liberalization significantly increases firm-level productivity. Our method enables us to trace a tariff announcement's effect on TFP through it…",
+          "link": "https://www.nber.org/papers/w28758#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.708Z",
+          "wordCount": 880,
+          "title": "Trade Protection, Stock-Market Returns, and Welfare -- by Mary Amiti, Sang Hoon Kong, David Weinstein"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28763#fromrss",
+          "author": null,
+          "description": "Gun buyback programs (GBPs), which use public funds to purchase civilians' privately-owned firearms, aim to reduce gun violence.  However, little is known about their effects on firearm-related crime or deaths. Using data from the National Incident Based Reporting System, we find no evidence that GBPs reduce gun crime. Given our estimated null findings, with 95 percent confidence, we can rule out decreases in firearm-related crime of greater than 1.3 percent during the year following a buyback.  Using data …",
+          "link": "https://www.nber.org/papers/w28763#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.684Z",
+          "wordCount": 797,
+          "title": "Have U.S. Gun Buyback Programs Misfired? -- by Toshio Ferrazares, Joseph J. Sabia, D. Mark Anderson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28753#fromrss",
+          "author": null,
+          "description": "This paper examines the effect of fall 2020 school reopenings in Texas on county-level COVID-19 cases and fatalities. Previous evidence suggests that schools can be reopened safely if community spread is low and public health guidelines are followed. However, in Texas, reopenings often occurred alongside high community spread and at near capacity, making it difficult to meet social distancing recommendations. Using event-study models and hand-collected instruction modality and start dates for all school dis…",
+          "link": "https://www.nber.org/papers/w28753#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.667Z",
+          "wordCount": 884,
+          "title": "School Reopenings, Mobility, and COVID-19 Spread: Evidence from Texas -- by Charles J. Courtemanche, Anh H. Le, Aaron Yelowitz, Ron Zimmer"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28770#fromrss",
+          "author": null,
+          "description": "We measure extensive-margin labor supply (employment) preferences in two representative surveys of the U.S. and German populations. We elicit reservation raises: the percent wage change that renders a given individual indifferent between employment and nonemployment. It is equal to her reservation wage divided by her actual, or potential, wage. The reservation raise distribution is the nonparametric aggregate labor supply curve. Locally, the curve exhibits large short-run elasticities above 3, consistent wi…",
+          "link": "https://www.nber.org/papers/w28770#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.653Z",
+          "wordCount": 964,
+          "title": "Reservation Raises: The Aggregate Labor Supply Curve at the Extensive Margin -- by Preston Mui, Benjamin Schoefer"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28755#fromrss",
+          "author": null,
+          "description": "Pharmaceutical innovation policy involves managing a tradeoff between high prices for new products in the short-term and stronger incentives to develop products for the future. Prior research has documented a causal relationship between market size and pharmaceutical research and development (R&D) activities. The existing literature, however, provides no evidence of how this relationship varies across markets. We investigate whether recent expansions in state Medicaid programs caused an increase in R&D. We …",
+          "link": "https://www.nber.org/papers/w28755#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.582Z",
+          "wordCount": 839,
+          "title": "Which Markets (Don't) Drive Pharmaceutical Innovation?  Evidence From U.S. Medicaid Expansions -- by Craig Garthwaite, Rebecca Sachs, Ariel Dora Stern"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28768#fromrss",
+          "author": null,
+          "description": "This paper overviews the data collection procedures and resulting data for inventor ages and associated death dates. We use information about inventors from patents (name and location) and search for age and date of death information from publicly available online web directories and build a scoring system to indicate the quality of information that we collect.  After applying a variety of heuristics and robustness checks, we are confident of 1,508,676 inventor ages associated with patents granted between 1…",
+          "link": "https://www.nber.org/papers/w28768#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.565Z",
+          "wordCount": 850,
+          "title": "The Age of Invention: Matching Inventor Ages to Patents Based on Web-scraped Sources -- by Mary Kaltenberg, Adam B. Jaffe, Margie Lachman"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28774#fromrss",
+          "author": null,
+          "description": "This essay is the introduction to a book of the same title, forthcoming in summer of 2021 from Oxford University Press.  The purpose is to document the ways in which patent systems are products of battles over the economic surplus from innovation.  The features of these systems take shape as interests at different points in the production chain seek advantage in any way they can, and consequently, they are riven with imperfections. The interesting historical question is why US-style patent systems with all …",
+          "link": "https://www.nber.org/papers/w28774#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.552Z",
+          "wordCount": 940,
+          "title": "The Battle Over Patents: History and the Politics of Innovation -- by Stephen H. Haber, Naomi R. Lamoreaux"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28750#fromrss",
+          "author": null,
+          "description": "This paper investigates whether education weakens the relationship between early-life disadvantages and later-life SES. We use three proxies for advantage that we show are independently associated with SES in middle-age. Besides early, favorable family and neighborhood conditions, we argue that the genes a child inherits also represent a source of advantages. Using a regression discontinuity design and data for over 110,000 individuals, we study a compulsory schooling reform in the UK that generated exogeno…",
+          "link": "https://www.nber.org/papers/w28750#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.493Z",
+          "wordCount": 952,
+          "title": "The Effect of Education on the Relationship between Genetics, Early-Life Disadvantages, and Later-Life SES -- by Silvia H. Barcellos, Leandro Carvalho, Patrick Turley"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28772#fromrss",
+          "author": null,
+          "description": "Why do cities differ so much in productivity? Using a split-sample IV strategy, we document that up to three quarters of the large measured dispersion in productivity across US cities is spurious and reflects the \"luck of the draw\" of idiosyncratically heterogeneous plants. Due to this granularity bias, economies with randomly reallocated plants exhibit nearly as high a variance as the empirical economy. For new plants, four fifths of the raw dispersion reflects granularity bias, and their productivity is o…",
+          "link": "https://www.nber.org/papers/w28772#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.449Z",
+          "wordCount": 880,
+          "title": "Productivity, Place, and Plants -- by Benjamin Schoefer, Oren Ziv"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28780#fromrss",
+          "author": null,
+          "description": "Despite growing interest in improving early-childhood education in developing countries, there is little evidence on cost-effective ways of doing so at scale. We use a large-scale randomized experiment to study the impact of adding an extra worker focused on pre-school education (for children aged 3-5) in the world’s largest public early-childhood program: India’s Integrated Child Development Services (ICDS). Adding a worker doubled net instructional time and led to 0.29 and 0.46 standard deviation increase…",
+          "link": "https://www.nber.org/papers/w28780#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.421Z",
+          "wordCount": 874,
+          "title": "Augmenting State Capacity for Child Development: Experimental Evidence from India -- by Alejandro J. Ganimian, Karthik Muralidharan, Christopher R. Walters"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28773#fromrss",
+          "author": null,
+          "description": "Immigrant founders of venture capital-backed companies have been critical to the entrepreneurial ecosystem. We document the channels through which immigrant founders find their way to the United States and how those channels have changed over time. Immigrants have been an important source of founders for venture capital-backed startups accounting for roughly 20% of all founders over the past 30 years. Immigrants coming to the United States for their education have been the primary source of founders with th…",
+          "link": "https://www.nber.org/papers/w28773#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.384Z",
+          "wordCount": 821,
+          "title": "Getting Schooled: The Role of Universities in Attracting Immigrant Entrepreneurs -- by Natee Amornsiripanitch, Paul A. Gompers, George Hu, Kaushik Vasudevan"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28767#fromrss",
+          "author": null,
+          "description": "The effects of large banks on the real economy are theoretically ambiguous and politically controversial. I identify quasi-exogenous increases in bank size in postwar Germany. I show that firms did not grow faster after their relationship banks became bigger. In fact, opaque borrowers grew more slowly. The enlarged banks did not increase profits or efficiency, but worked with riskier borrowers. Bank managers benefited through higher salaries and media attention. The paper presents newly digitized microdata …",
+          "link": "https://www.nber.org/papers/w28767#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.349Z",
+          "wordCount": 896,
+          "title": "Are Bigger Banks Better? Firm-Level Evidence from Germany -- by Kilian Huber"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28759#fromrss",
+          "author": null,
+          "description": "The racial and ethnic composition of home buyers varies across geographic locations. For example, Asians and Hispanics are much more likely to buy homes in California than Blacks and Blacks are more likely to buy homes in Georgia than other demographic groups. Home prices grow at different rates across geographic units such as counties or zip codes. Hedonic bundling inhibits buyers from purchasing shares of different homes and forming a spatially diversified housing portfolio.  Spatial variation in purchase…",
+          "link": "https://www.nber.org/papers/w28759#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.319Z",
+          "wordCount": 819,
+          "title": "Racial and Ethnic Differences in the Financial Returns to Home Purchases from 2007 to 2020 -- by Matthew E. Kahn"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28760#fromrss",
+          "author": null,
+          "description": "I use a model of private and public behavior to mitigate disease transmission during the COVID pandemic over the past year in the United States to address two questions: What dynamics of infections and deaths should we expect to see from a pandemic? What are our options for mitigating the impact of a pandemic on public health? I find that behavior turns what would be a short and extremely sharp epidemic into a long, drawn out one. Absent the development of a technological solution such as vaccines or life-s…",
+          "link": "https://www.nber.org/papers/w28760#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.301Z",
+          "wordCount": 800,
+          "title": "Behavior and the Dynamics of Epidemics -- by Andrew Atkeson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28761#fromrss",
+          "author": null,
+          "description": "We propose a general equilibrium economy with oligopolistic output markets in which two channels can cause a change in market power: (i) technology, via changes to productivity shocks and the cost of entry, (ii) market structure, via changes to the number of potential competitors. First, we disentangle these narratives by matching time-series on markups, labor reallocation and costs between 1980 and 2016, finding that both channels are necessary to account for the data. Second, we show that changes in techn…",
+          "link": "https://www.nber.org/papers/w28761#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.282Z",
+          "wordCount": 833,
+          "title": "Quantifying Market Power and Business Dynamism in the Macroeconomy -- by Jan De Loecker, Jan Eeckhout, Simon Mongey"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28762#fromrss",
+          "author": null,
+          "description": "Recent expansions of Medicaid eligibility have come with increased experimentation with enrollee cost-sharing. In this paper, we exploit a discontinuous premium increase at the federal poverty level in Michigan’s Medicaid expansion program to test low-income individuals’ sensitivity to premiums using linked enrollment and claims data. At the cutoff, average premiums increase by $3.15 and the probability of disenrollment increases by 2.3 percentage points. Increased disenrollment occurs among those with fewe…",
+          "link": "https://www.nber.org/papers/w28762#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.227Z",
+          "wordCount": 944,
+          "title": "Adverse Selection in Medicaid: Evidence from Discontinuous Program Rules -- by Betsy Q. Cliff, Sarah Miller, Jeffrey T. Kullgren, John Z. Ayanian, Richard Hirth"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28765#fromrss",
+          "author": null,
+          "description": "Inspired by the field experiment in Bertrand and Morse (2011), the state of Texas adopted an information disclosure for consumers taking out payday loans starting in January, 2012. The disclosure compares the cost of payday loans with other credit products, and presents their likelihood of renewal in easy-to-understand terms. Simultaneously, Austin and Dallas implemented stricter supply restrictions through city ordinances. We analyze both types of regulations, and find that the statewide disclosures led to…",
+          "link": "https://www.nber.org/papers/w28765#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.206Z",
+          "wordCount": 974,
+          "title": "The Effects of Disclosure and Enforcement on Payday Lending in Texas -- by Jialan Wang, Kathleen Burke"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28751#fromrss",
+          "author": null,
+          "description": "This paper investigates the role of private equity (PE) in failed bank resolutions after the 2008 financial crisis, using proprietary FDIC failed bank acquisition data. PE investors made substantial investments in underperforming and riskier failed banks, particularly in geographies where local banks were also distressed, filling the gap created by a weak, undercapitalized banking sector. Using a quasi-random empirical design based on detailed bidding information, we show PE-acquired banks performed better …",
+          "link": "https://www.nber.org/papers/w28751#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.163Z",
+          "wordCount": 914,
+          "title": "Private Equity and Financial Stability: Evidence from Failed Bank Resolution in the Crisis -- by Emily Johnston-Ross, Song Ma, Manju Puri"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28777#fromrss",
+          "author": null,
+          "description": "The covered interest rate parity (CIP) condition is a fundamental arbitrage relationship in international finance. In this chapter, we review its breakdown during the Global Financial Crisis and its continued failure in the subsequent decade. We review how to measure CIP deviations, discuss the drivers of CIP deviations, and the implications of CIP deviations for global financial markets.",
+          "link": "https://www.nber.org/papers/w28777#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.125Z",
+          "wordCount": 736,
+          "title": "CIP Deviations, the Dollar, and Frictions in International Capital Markets -- by Wenxin Du, Jesse Schreger"
+        }
+      ]
+    },
+    {
+      "title": "Microeconomic Insights",
+      "feedUrl": "https://microeconomicinsights.org/feed/",
+      "siteUrl": "https://microeconomicinsights.org",
+      "articles": [
+        {
+          "id": "https://microeconomicinsights.org/?p=2935",
+          "author": "Alex Catling",
+          "description": "The international response to the COVID-19 pandemic has emphasised working from home, especially for office workers tasked with the generation and processing of information. Compliance has generally been very high, with most companies not just encouraging, but mandating, their employees to work from home. This has led to an emptying of city centres and financial [&#8230;]\nThe post Face-to-Face Communication in Organizations appeared first on Microeconomic Insights.",
+          "link": "https://microeconomicinsights.org/face-to-face-communication-in-organizations/",
+          "publishedOn": "2021-05-04T09:16:27.000Z",
+          "wordCount": 3383,
+          "title": "Face-to-Face Communication in Organizations"
+        },
+        {
+          "id": "https://microeconomicinsights.org/?p=2922",
+          "author": "Alex Catling",
+          "description": "What roles do moral values play in election outcomes? What are the key moral frameworks that voters maintain? How do politicians appeal to these different moral frameworks? This article summarizes a recent research paper which examines these questions, by introducing a core aspect of modern moral psychology into the study of political economy. Universalist versus [&#8230;]\nThe post Moral Values and Voting appeared first on Microeconomic Insights.",
+          "link": "https://microeconomicinsights.org/moral-values-and-voting/",
+          "publishedOn": "2021-04-19T11:41:21.000Z",
+          "wordCount": 3177,
+          "title": "Moral Values and Voting"
+        }
+      ]
+    },
+    {
+      "title": "VOX, CEPR Policy Portal",
+      "feedUrl": "https://voxeu.org/rss.xml",
+      "siteUrl": "https://voxeu.org/",
+      "articles": [
+        {
+          "id": "https://voxeu.org/article/special-issue-economic-policy-stereotypes-attitudes-and-discrimination",
+          "author": "Barbara Petrongolo, Ghazala Azmat, Roberto Galbiati, Tommaso Monacelli, Moritz Schularick",
+          "description": "Recent campaigns such as Black Lives Matter and #MeToo highlight the urgent need for a deeper understanding of persistent economic differences across different social groups. In an increasingly diverse society, insight into what underpins gaps along lines of race, ethnicity and gender, and the role of perceptions in driving conduct, is imperative. Similarly, the assessment of policies designed to tackle these issues is essential. With the aim of informing this discussion, the Managing Editors of Economic Po…",
+          "link": "https://voxeu.org/article/special-issue-economic-policy-stereotypes-attitudes-and-discrimination",
+          "publishedOn": "2021-05-10T00:00:00.000Z",
+          "wordCount": 1126,
+          "title": "Special Issue of Economic Policy on stereotypes, attitudes and discrimination"
+        },
+        {
+          "id": "https://voxeu.org/article/corruption-under-austerity",
+          "author": "Gianmarco Daniele, Tommaso Giommoni",
+          "description": "Austerity measures have been widely adopted around the world with mixed results in terms of public debt reduction and adverse political effects. This column examines the effect of fiscal austerity policies on corruption in Italian municipalities. The budget rules have led to a decrease in both recorded corruption rates and corruption charges per euro spent, without a clear effect on local public service provision. The drop in corruption emerges mostly in pre-electoral years for mayors eligible for reelectio…",
+          "link": "https://voxeu.org/article/corruption-under-austerity",
+          "publishedOn": "2021-05-10T00:00:00.000Z",
+          "wordCount": 2056,
+          "title": "Corruption under austerity"
+        },
+        {
+          "id": "https://voxeu.org/article/high-speed-rail-may-hurt-intermediate-places",
+          "author": "Hans Koster, Takatoshi Tabuchi, Jacques-François Thisse",
+          "description": "Modern transportation infrastructure can help foster cheaper travel and a better-connected economy. This column shows that improvements in transportation can affect the location choices of firms in ways that are often beneficial to large regions, but may be detrimental to small intermediate regions through job losses. Using data from Japan’s high speed rail network, the authors confirm that ‘in-between’ municipalities that are connected to the network witness a sizeable decrease in employment.",
+          "link": "https://voxeu.org/article/high-speed-rail-may-hurt-intermediate-places",
+          "publishedOn": "2021-05-09T00:00:00.000Z",
+          "wordCount": 1849,
+          "title": "High-speed rail may hurt intermediate places"
+        },
+        {
+          "id": "https://voxeu.org/article/opening-military-innovation",
+          "author": "Sabrina Howell, Jason Rathje, John Van Reenen, Jun Wong",
+          "description": "In recent decades, US defence R&D seems to have lost its lustre. To combat the declining innovation, in 2018 the US Air Force reformed its contracting procedures to allow applicants more freedom to suggest projects with potential military benefits. This column uses data on applications and winners from such competitions to assess the effects of the reform. It finds that the ‘open’ programme attracts new and younger firms, increases future venture capital investment, and increases patenting. Government R&D c…",
+          "link": "https://voxeu.org/article/opening-military-innovation",
+          "publishedOn": "2021-05-08T00:00:00.000Z",
+          "wordCount": 1878,
+          "title": "OPENing up military innovation"
+        },
+        {
+          "id": "https://voxeu.org/article/school-closures-did-not-contribute-spread-coronavirus-germany",
+          "author": "Clara von Bismarck-Osten, Kirill Borusyak, Uta Schӧnberg",
+          "description": "Deciding whether to close schools to contain the spread of Covid-19 requires balancing the harm such closures inflict on families against their effectiveness in stopping the spread of disease. This column provides evidence from Germany that school closures did not contain infections among young people or adults in the summer of 2020 – when infection rates were low – or during the pandemic’s autumn resurgence. Thus, the benefits of school closures may not outweigh their costs to children and parents, particu…",
+          "link": "https://voxeu.org/article/school-closures-did-not-contribute-spread-coronavirus-germany",
+          "publishedOn": "2021-05-08T00:00:00.000Z",
+          "wordCount": 1931,
+          "title": "School closures did not contain the spread of the coronavirus in Germany"
+        },
+        {
+          "id": "https://voxeu.org/vox-talks/parental-age-and-child-health",
+          "author": "Hans Hvide",
+          "description": "As more of us wait to have children, more of us also worry if that's best for the health of our babies. Empirical evidence has been inconclusive so far but, based on new evidence, Hans Hvide tells Tim Phillips that this might be a problem with the way the research has been done.",
+          "link": "https://voxeu.org/vox-talks/parental-age-and-child-health",
+          "publishedOn": "2021-05-07T00:00:00.000Z",
+          "wordCount": 506,
+          "title": "Parental age and child health"
+        },
+        {
+          "id": "https://voxeu.org/article/us-inflation-set-take",
+          "author": "Laurence Ball, Gita Gopinath, Daniel Leigh, Prachi Mishra, Antonio Spilimbergo",
+          "description": "How high is the ongoing US fiscal expansion likely to push inflation? This column presents new evidence that underlying (weighted median) CPI inflation has so far steadily declined since the start of the COVID-19 crisis, broadly as predicted by its historical Phillips curve relation. If the ongoing fiscal expansion reduces unemployment to 1.5-3.5%, as some predict, underlying inflation could rise to about 2.5-3% by 2023. If the fiscal expansion is temporary and monetary policy remains clearly communicated a…",
+          "link": "https://voxeu.org/article/us-inflation-set-take",
+          "publishedOn": "2021-05-07T00:00:00.000Z",
+          "wordCount": 2654,
+          "title": "US inflation: Set for take-off?"
+        },
+        {
+          "id": "https://voxeu.org/article/pricing-carbon-within-and-border-europe",
+          "author": "Christoph Schmidt, Marcel Fratzscher, Nicola Fuchs-Schündeln, Clemens Fuest, Christian  Gollier, Philippe Martin, Isabelle Mejean, Xavier Ragot, Katheline Schubert, Beatrice Weder di Mauro",
+          "description": "The EU has announced reaching carbon neutrality by 2050 as the key target of its Green Deal strategy. The best coordination signal in this endeavour would be a uniform and encompassing price on carbon. To ascertain that all goods consumed in the EU face the same carbon price, it would be sensible to credibly prepare the implementation of border carbon adjustments  applied to imported goods. This column argues, however, that the EU should refrain from exempting exports from carbon pricing, and should conside…",
+          "link": "https://voxeu.org/article/pricing-carbon-within-and-border-europe",
+          "publishedOn": "2021-05-06T00:00:00.000Z",
+          "wordCount": 3457,
+          "title": "Pricing of carbon within and at the border of Europe"
+        },
+        {
+          "id": "https://voxeu.org/article/modern-infectious-diseases-macroeconomic-impacts-and-policy-responses",
+          "author": "David Bloom, Michael Kuhn, Klaus Prettner",
+          "description": "In addition to the devastating human toll, the economic upheaval wrought by the COVID-19 pandemic illustrates the inextricable relationship between physical and economic health. This column presents an overview of the macroeconomic effects of the infectious disease epidemics of the 20th and early 21st centuries through the lens of recent COVID-19 research and explores the epidemic–economics nexus. It concludes that preventive policies, containment strategies, and early responses are more efficient, cost-eff…",
+          "link": "https://voxeu.org/article/modern-infectious-diseases-macroeconomic-impacts-and-policy-responses",
+          "publishedOn": "2021-05-06T00:00:00.000Z",
+          "wordCount": 2836,
+          "title": "Modern infectious diseases: Macroeconomic impacts and policy responses"
+        },
+        {
+          "id": "https://voxeu.org/article/janus-face-europe-s-new-social-rulebook",
+          "author": "László Andor, Robin Huguenot-Noël",
+          "description": "In the midst of a third wave of the Covid-19 pandemic affecting the European continent, the European Commission released the Social Pillar Action Plan, setting concrete targets on employment, skills, and poverty reduction to be reached by 2030. This new ‘social rulebook’ represents a welcome initiative from the EU to set itself long-term development goals. Yet setting new ambitions without the necessary means may risk backfiring. This column argues that to act as a game-changer, the Action Plan should place…",
+          "link": "https://voxeu.org/article/janus-face-europe-s-new-social-rulebook",
+          "publishedOn": "2021-05-05T00:00:00.000Z",
+          "wordCount": 2952,
+          "title": "The Janus' face of Europe’s new social rulebook"
         }
       ]
     }
