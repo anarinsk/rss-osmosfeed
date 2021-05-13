@@ -6,6 +6,15 @@
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
         {
+          "id": "https://www.aeaweb.org/research/private-prisons-time-served-recidivism-mississippi",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Inmates sent to private prisons serve 90 extra days on average, according to a paper in the American Economic Journal: Economic Policy. We spoke author Anita Mukherjee about why that is and how private prison contracting could be reformed.",
+          "link": "https://www.aeaweb.org/research/private-prisons-time-served-recidivism-mississippi",
+          "publishedOn": "2021-05-12T15:00:00.000Z",
+          "wordCount": 1531,
+          "title": "American capitalism and incarceration"
+        },
+        {
           "id": "https://www.aeaweb.org/research/charts/state-education-spending-recession-impact",
           "author": "Chris Fleisher (research.highlights@aeapubs.org)",
           "description": "Recession-induced cuts to school spending had lasting ill-effects on test scores and college enrollment, especially in states where schools rely more heavily on state aid, according to a paper in the American Economic Journal: Economic Policy.",
@@ -85,15 +94,6 @@
           "publishedOn": "2021-04-14T15:00:00.000Z",
           "wordCount": 1592,
           "title": "Why the United States has the best research universities"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/research-development-spillover-tradeoff",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "Firms have to balance the benefits of spending on scientific research against the costs from that science \"spilling out\" to rivals. A paper in the American Economic Review investigates how this tradeoff affects R&D investment.",
-          "link": "https://www.aeaweb.org/research/charts/research-development-spillover-tradeoff",
-          "publishedOn": "2021-04-12T15:00:00.000Z",
-          "wordCount": 434,
-          "title": "The risk of research"
         }
       ]
     },
@@ -459,6 +459,51 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/gender-role-norms-and-mothers-labour-supply",
+          "author": "Danilo  Cavapozzi, Marco Francesconi, Cheti  Nicoletti",
+          "description": "Despite a significant reduction in gender differences in the labour market over the last 40 years, they are still present in most advanced economies and do not appear likely to vanish soon. This column analyses the impact of culture, defined by women’s gender role attitudes, on maternal labour market decisions. It finds that social pressure is at least as strong as social learning in influencing labour market behaviour. Once these channels are accounted for, there is no direct effect of peers’ gender identi…",
+          "link": "https://voxeu.org/article/gender-role-norms-and-mothers-labour-supply",
+          "publishedOn": "2021-05-13T00:00:00.000Z",
+          "wordCount": 2129,
+          "title": "Gender role norms and mothers' labour supply"
+        },
+        {
+          "id": "https://voxeu.org/article/cooperation-among-people-different-cognitive-skill-levels",
+          "author": "Eugenio Proto, Aldo Rustichini, Andis Sofianos",
+          "description": "A large part of social interaction occurs among very different individuals. Characteristics such as trust, altruism, and intelligence can have important effects on strategic behaviour. This column studies how interactions between groups with different cognitive skill levels affect cooperation. Using an indefinitely repeated Prisoner’s Dilemma game, it finds that integrating players with different abilities leads to higher cooperation rates and higher aggregate payoffs than when they play separately. This is…",
+          "link": "https://voxeu.org/article/cooperation-among-people-different-cognitive-skill-levels",
+          "publishedOn": "2021-05-13T00:00:00.000Z",
+          "wordCount": 2027,
+          "title": "Cooperation among people with different cognitive skill levels"
+        },
+        {
+          "id": "https://voxeu.org/article/central-banks-shifting-world-takeaways-ecb-s-sintra-forum",
+          "author": "Philipp Hartmann, Glenn Schepens",
+          "description": "The 2020 ECB Forum on Central Banking addressed some key issues from the ongoing monetary policy strategy review and embedded them in discussions of major structural changes in advanced economies and the post-COVID recovery. In this column, two of the organisers highlight some of the main points from the papers and debates, including whether globalisation is reversing, implications of climate change, options for formulating the ECB's inflation aim, challenges with informal monetary policy communication, rel…",
+          "link": "https://voxeu.org/article/central-banks-shifting-world-takeaways-ecb-s-sintra-forum",
+          "publishedOn": "2021-05-12T00:00:00.000Z",
+          "wordCount": 4187,
+          "title": "Central banks in a shifting world: Takeaways from the ECB’s Sintra Forum"
+        },
+        {
+          "id": "https://voxeu.org/article/social-and-economic-costs-covid-19",
+          "author": "Eduardo Levy Yeyati, Federico Filippini",
+          "description": "The long-term social and economic consequences of Covid-19 are uncertain. This column provides a preliminary assessment of the variation in costs across countries and regions, and suggests that developing economies will suffer the most lasting damage. The pandemic has exposed the differential capacity of governments to mitigate health and economic crises and to allocate scarce resources efficiently, while some labour market structures have inhibited government efforts to attenuate the pandemic’s impact – im…",
+          "link": "https://voxeu.org/article/social-and-economic-costs-covid-19",
+          "publishedOn": "2021-05-12T00:00:00.000Z",
+          "wordCount": 2167,
+          "title": "The social and economic costs of Covid-19"
+        },
+        {
+          "id": "https://voxeu.org/article/central-bank-communication-remember-who-s-talking",
+          "author": "In Do Hwang, Thomas Lustenberger, Enzo Rossi",
+          "description": "Central bank communication has become an important policy tool over the past 20 years. This column uses survey data to show that business executives tend to associate a greater volume of speeches from the central bank with the central bank having less of an impact on the economy. Importantly, this effect stems not from speeches given by governors, but by other board members.",
+          "link": "https://voxeu.org/article/central-bank-communication-remember-who-s-talking",
+          "publishedOn": "2021-05-12T00:00:00.000Z",
+          "wordCount": 2220,
+          "title": "Central bank communication: Remember who’s talking"
+        },
+        {
           "id": "https://voxeu.org/content/gender-and-employment-during-covid-19-evidence-she-cessions",
           "author": "Francesca  Caselli",
           "description": "Francesca Caselli of the IMF talks to Tim Phillips about evidence for the extent and persistence of pandemic-induced she-cessions, drawing on quarterly data from 38 advanced and emerging market economies, which uncovers significant heterogeneity across countries. In two-thirds of the countries studied, women’s employment rates declined more than men’s, but the differences were short-lived – lasting only a quarter or two on average – and strongly correlated to specific sectors of the economy.",
@@ -573,6 +618,33 @@
       "feedUrl": "http://www.aladin.co.kr/rss/new_all/3057",
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=3057&rssType=2&type=title",
       "articles": [
+        {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271311320",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "반전의 경제학\n최병서 지음 / 나무나무 / 2021년 05월 / ISBN:9788998529260\n정가: 17,000원 / 판매가: 15,300원 / 마일리지: 60원\n이벤트: 5월 특별 선물! 본투리드 폰지 3단 우양산+파우치(이벤트 도서 포함, 국내서.외서 5만원 이상)\n\n\n\n\n우리가 알고 있는 상식을 팩트를 사용해서 뒤집는다. 각 꼭지의 길이는 단숨에 읽을 수 있는 정도의 양이며, 짧은 글에 핵심만 정리했고 경제학자의 눈으로 본 ‘세상이 움직이는 방식’을 냉철하게 보여준다. 또한 우리가 아는 상식과는 다른 이유로 세상이 움직이는 다양한 사례를 제시한다. 당연한 것 같은 이야기 뒷면에 숨어 있는 당연하지 않은 의외성이 돋보인다.\n\n책머리에 경제학은 인간 본성을 탐구한다\r\n1부 사람의 목숨값은 얼마일까\r\n01 한국의 부모가 자녀와 만나는 횟수를 늘리는 유일한 변수는 ‘돈’이다\r\n02 우리는 당신들(부모)의 빚을 갚지 않겠다\r\n03 섹스와 소득의 상관관계 \r\n04 비아그라 효과와 브라질 연금\r\n05 인도…",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=271311320",
+          "publishedOn": "2021-05-11T06:47:00.000Z",
+          "wordCount": 18,
+          "title": "반전의 경제학/최병서 지음/나무나무"
+        },
+        {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271300550",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "케인스는 어떻게 재정을 파탄냈는가\n제임스 뷰캐넌.존 버튼.리차드 와그너 지음, 옥동석 옮김 / 자유기업원 / 2021년 05월 / ISBN:9788984291935\n정가: 14,000원 / 판매가: 14,000원 / 마일리지: 69원\n이벤트: 수험서.외국어.컴퓨터.대학교재-오거나이저+스티커/텀블러/젤펜/펜 파우치\n\n\n\n\n케인스가 주장한 수정자본주의의 문제점을 낱낱이 해체하고, 재정준칙이라는 견제 장치의 도입을 통해 ‘정치의 경제학’에 대한 방향성을 제시하는 책이다. 정부의 경제 개입은 재정 적자의 남용과 포퓰리즘을 야기한다는 케인스 재정이론의 숨겨진 이면을 폭로하고 정부를 견제할 재정준칙 도입을 호소하고 있다.\n\n역자 서문\r\n추천사\r\n요약\r\n\r\n제Ⅰ부 케인시안 재정, 대체 무엇이 문제였나?\r\n1. 케인시안, 고전파의 세계관을 바꾸다\r\n2. 현실과 동떨어진 재정정책\r\n3. 민주주의에 대한 무지\r\n4. 케인시안 정치곡해의 파멸적 결과\r\n5. 케인시안은 민주주의를 병들게 한다\r\n\r\n제Ⅱ부 `위대한 영국`에서 …",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=271300550",
+          "publishedOn": "2021-05-11T05:12:00.000Z",
+          "wordCount": 18,
+          "title": "케인스는 어떻게 재정을 파탄냈는가/제임스 뷰캐넌.존 버튼.리차드 와그너 지음, 옥동석 옮김/자유기업원"
+        },
+        {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271297891",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "대한민국 경제혁신 핏팅 코리아\n정영록 지음 / 하다(HadA) / 2021년 05월 / ISBN:9788997170630\n정가: 15,000원 / 판매가: 13,500원 / 마일리지: 58원\n이벤트: 5월 특별 선물! 본투리드 폰지 3단 우양산+파우치(이벤트 도서 포함, 국내서.외서 5만원 이상)\n\n\n\n\n현재 대한민국과 주변국의 정세를 살피며 현 상황에 꼭 맞는 획기적인 경제정책을 제시한다. 이성적인 판단으로 명분이나 이해관계보다는 실리를 추구한다. 대한민국만의 미래 전략 자산과 생애주기형 정책, 청년 세대를 위한 사회공공서비스 등 우리 사회에 필요한 정책에 더해 타당성 여부까지 논하며 신뢰성을 더한다. 이와 함께 세대별 역할을 제시하고, 이를 통한 갈등 완화, 우리 사회가 나아가야 할 바람직한 방향을 살펴본다.\n\n대한민국 살리는 동발적 경제정책 제안\r\n국민국가를 넘어 알짜국가로 ‘대한민국 4.0을 위하여’\r\n\r\nPART 01 중국은 미국을 뛰어넘을 수 있을까\r\n1_ 국민국가 경쟁 300년\r\n세계적 대전…",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=271297891",
+          "publishedOn": "2021-05-11T04:45:00.000Z",
+          "wordCount": 18,
+          "title": "대한민국 경제혁신 핏팅 코리아/정영록 지음/하다(HadA)"
+        },
         {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271243201",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
@@ -1089,6 +1161,105 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/8cqiCRIPMY4/thursday-unemployment-claims-ppi.html",
+          "author": null,
+          "description": "Thursday:\n• At 8:30 AM ET, The initial weekly unemployment claims report will be released.&nbsp; The consensus is for a decrease to 480 thousand from 498 thousand last week.\n• Also at 8:30 AM, The Producer Price Index for April from the BLS.  The consensus is for a 0.3% increase in PPI, and a 0.4% increase in core PPI.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/8cqiCRIPMY4/thursday-unemployment-claims-ppi.html",
+          "publishedOn": "2021-05-13T01:02:00.001Z",
+          "wordCount": 840,
+          "title": "Thursday: Unemployment Claims, PPI"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/w953_ryPGxs/may-12th-covid-19-new-cases.html",
+          "author": null,
+          "description": "According to the CDC, on Vaccinations.  Total administered: 264,680,844, as of yesterday: 263,132,561.  Day: 1.55 million.&nbsp; (U.S. Capacity is around 4 million per day)\n&nbsp; \n1) 58.7% of the population over 18 has had at least one dose (70% goal by July 4th).\n2) 116.4 million Americans are fully vaccinated (160 million goal)\nNote:&nbsp;I'll stop posting this daily once all three of these criteria are met:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) new cases are under…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/w953_ryPGxs/may-12th-covid-19-new-cases.html",
+          "publishedOn": "2021-05-12T20:00:00.003Z",
+          "wordCount": 1055,
+          "title": "May 12th COVID-19 New Cases, Hospitalizations; Vaccinations at 40% of Capacity"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ARsbefoas1c/colorado-real-estate-in-april-sales-up.html",
+          "author": null,
+          "description": "Note: Remember sales were weak in April 2020 due to the pandemic, so the YoY comparison is easy. I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.\nFrom the Colorado Association of REALTORS® for the entire state:\nClosed sales for Single Family and Townhouse-Condo in April 2021 were 11,022, up 40.5% from 7,843 in April 2020.\nActive Listings for Single Family and Townhouse-Condo in April 2021 were 7,872, down 65.9% from 23,106 in April 202…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ARsbefoas1c/colorado-real-estate-in-april-sales-up.html",
+          "publishedOn": "2021-05-12T18:29:00.000Z",
+          "wordCount": 913,
+          "title": "Colorado Real Estate in April: Sales Up 41% YoY, Inventory Down 66% YoY"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/l9ZMt0GX44k/houston-real-estate-in-april-sales-up.html",
+          "author": null,
+          "description": "From the HAR: Houston Real Estate Tears Through April at a Record Pace\nLow interest rates inspired consumers to snap up high-end homes in April at a pace never before seen, sending prices to new highs while keeping home inventory at historic lows. It must be noted that, as in March, some figures contained in this latest housing report are distorted because they compare to the same month last year when real estate was just beginning its recovery from coronavirus-related lockdown orders that halted most of th…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/l9ZMt0GX44k/houston-real-estate-in-april-sales-up.html",
+          "publishedOn": "2021-05-12T18:06:00.001Z",
+          "wordCount": 1088,
+          "title": "Houston Real Estate in April: Sales Up 58% YoY, Inventory Down 43% YoY"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/GL7ZQUl8hEw/ny-fed-q1-report-total-household-debt.html",
+          "author": null,
+          "description": "From the NY Fed: Credit Card Balances See Second Largest Quarterly Decline in Series’ History, Driven by Paydowns Among Borrowers and Constrained Consumption Opportunities\nThe Federal Reserve Bank of New York's Center for Microeconomic Data today issued its Quarterly Report on Household Debt and Credit. The report shows that total household debt increased by $85 billion (0.6%) to $14.64 trillion in the first quarter of 2021. The total debt balance is now $344 billion higher than the year prior. While mortga…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/GL7ZQUl8hEw/ny-fed-q1-report-total-household-debt.html",
+          "publishedOn": "2021-05-12T15:37:00.004Z",
+          "wordCount": 1446,
+          "title": "NY Fed Q1 Report: Total Household Debt Increased in Q1 2021, Mortgage Origination Credit Scores Edged Up"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/D48CFjDT1VE/cleveland-fed-key-measures-show.html",
+          "author": null,
+          "description": "The Cleveland Fed released the median CPI and the trimmed-mean CPI this morning:\nAccording to the Federal Reserve Bank of Cleveland, the median Consumer Price Index rose 0.2% April. The 16% trimmed-mean Consumer Price Index rose 0.4% in April. \"The median CPI and 16% trimmed-mean CPI are measures of core inflation calculated by the Federal Reserve Bank of Cleveland based on data released in the Bureau of Labor Statistics’ (BLS) monthly CPI report\".\nNote: The Cleveland Fed released the median CPI details for…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/D48CFjDT1VE/cleveland-fed-key-measures-show.html",
+          "publishedOn": "2021-05-12T15:17:00.002Z",
+          "wordCount": 994,
+          "title": "Cleveland Fed: Key Measures Show Inflation Increased in April"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/n1wXq-65Hak/south-carolina-real-estate-in-april.html",
+          "author": null,
+          "description": "Note: Remember sales were weak in April 2020 due to the pandemic, so the YoY comparison is easy.  I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.\nFrom the South Carolina Realtors for the entire state:\nClosed sales in April 2021 were 9,900, up 41.4% from 7,000 in April 2020.\nActive Listings in April 2021 were 12,019, down 55.5% from 27,024 in April 2020.\nInventory in April was down less than 1% from last month.\nMonths of Supply was 1.…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/n1wXq-65Hak/south-carolina-real-estate-in-april.html",
+          "publishedOn": "2021-05-12T13:48:00.001Z",
+          "wordCount": 906,
+          "title": "South Carolina Real Estate in April: Sales Up 41% YoY, Inventory Down 56% YoY"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZaGp8iB8Wr8/bls-cpi-increased-08-in-april-core-cpi.html",
+          "author": null,
+          "description": "From the BLS: \nThe Consumer Price Index for All Urban Consumers (CPI-U) increased 0.8 percent in April on a seasonally adjusted basis after rising 0.6 percent in March, the U.S. Bureau of Labor Statistics reported today. Over the last 12 months, the all items index increased 4.2 percent before seasonal adjustment. This is the largest 12-month increase since a 4.9-percent increase for the period ending September 2008.\n...\nThe index for all items less food and energy rose 0.9 percent in April, its largest mon…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZaGp8iB8Wr8/bls-cpi-increased-08-in-april-core-cpi.html",
+          "publishedOn": "2021-05-12T12:32:00.001Z",
+          "wordCount": 1030,
+          "title": "BLS: CPI increased 0.8% in April, Core CPI increased 0.9%"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/zd1_TaMPVOI/mba-mortgage-applications-increase-in.html",
+          "author": null,
+          "description": "From the MBA: Mortgage Applications Increase in Latest MBA Weekly Survey\nMortgage applications increased 2.1 percent from one week earlier, according to data from the Mortgage Bankers Association’s (MBA) Weekly Mortgage Applications Survey for the week ending May 7, 2021.\n... The Refinance Index increased 3 percent from the previous week and was 12 percent lower than the same week one year ago. The seasonally adjusted Purchase Index increased 1 percent from one week earlier. The unadjusted Purchase Index in…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/zd1_TaMPVOI/mba-mortgage-applications-increase-in.html",
+          "publishedOn": "2021-05-12T11:00:00.011Z",
+          "wordCount": 1181,
+          "title": "MBA: Mortgage Applications Increase in Latest Weekly Survey"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/8PBgh5pUr7s/portland-real-estate-in-april-sales-up.html",
+          "author": null,
+          "description": "Note: Remember sales were weak in April 2020 due to the pandemic. I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.\nFor Portland, OR:\nClosed sales in April 2021 were 2,946, up 46.2% from 2,015 in April 2020.\nActive Listings in April 2021 were 2,222, down 53.3% from 4,757 in April 2020.\nInventory in April was up 14.4% from last month.\nMonths of Supply was 0.8 Months in April 2021, compared to 2.4 Months in April 2020.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/8PBgh5pUr7s/portland-real-estate-in-april-sales-up.html",
+          "publishedOn": "2021-05-12T01:54:00.000Z",
+          "wordCount": 890,
+          "title": "Portland Real Estate in April: Sales Up 46% YoY, Inventory Down 53% YoY"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Lvea-GjfKbM/wednesday-cpi-q1-quarterly-report-on.html",
+          "author": null,
+          "description": "Wednesday:\n• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.\n• At 8:30 AM, The Consumer Price Index for April from the BLS.  The consensus is for 0.2% increase in CPI, and a 0.3% increase in core CPI.\n• At 11:00 AM, NY Fed: Q1 Quarterly Report on Household Debt and Credit",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Lvea-GjfKbM/wednesday-cpi-q1-quarterly-report-on.html",
+          "publishedOn": "2021-05-12T01:00:00.001Z",
+          "wordCount": 858,
+          "title": "Wednesday: CPI, Q1 Quarterly Report on Household Debt and Credit"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/TgrjWCMVdMk/may-11th-covid-19-vaccinations-new.html",
           "author": null,
