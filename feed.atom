@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-14T16:28:34.488Z</updated>
+    <updated>2021-05-14T20:15:02.040Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LA Area Port Traffic: Strong Imports in April]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/gXe1i-X-NiI/la-area-port-traffic-strong-imports-in.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/gXe1i-X-NiI/la-area-port-traffic-strong-imports-in.html"/>
+        <updated>2021-05-14T17:33:00.001Z</updated>
+        <summary type="html"><![CDATA[Note1: Import traffic was heavy in February and March - ships were backed up waiting to unload in LA. "some vessels are spending almost as much time at anchor as it takes to traverse the Pacific Ocean."  They were still backed up in April!
+Note2: The expansion to the Panama Canal was completed in 2016 (As I noted a few years ago), and some of the traffic that used the ports of Los Angeles and Long Beach is probably going through the canal. This might be impacting TEUs on the West Coast.
+Container traffic gi…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Q2 GDP Forecasts: Around 10%]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/CE18F3JW-qw/q2-gdp-forecasts-around-10.html</id>
@@ -2743,30 +2755,6 @@ The post Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel appeared
 1장. 배치와 스프링
 __배치 처리의 역사
 …]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자료구조와 알고리즘을 함께 Java!/손상우 지음/비제이퍼블릭]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=269588719</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=269588719"/>
-        <updated>2021-04-15T05:57:00.000Z</updated>
-        <summary type="html"><![CDATA[자료구조와 알고리즘을 함께 Java!
-손상우 지음 / 비제이퍼블릭 / 2021년 04월 / ISBN:9791165920579
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 104원
-이벤트: 수험서.외국어.컴퓨터.대학교재-오거나이저+스티커/텀블러/젤펜/펜 파우치
-
-
-
-
-예비 및 신입 개발자라면 프로그래밍을 하는 과정에서 데이터의 처리 속도와 효율적으로 관리하기 위해 반드시 알아야 하는 지식이다. 개발 과정에서 자주 사용되는 내용을 담고 있으므로 실무에서 어떤 문제를 마주하더라도 데이터 처리를 위한 자료구조 및 알고리즘 선택의 폭이 넓어질 수 있도록 돕는다.
-
-자료구조와 알고리즘을 처음 입문하는 독자는 챕터를 차례대로 학습하여 본문을 실습할 수 있도록 예제 코드를 구성하였다. 예제 코드만으로 어떻게 동작하고 짜였는지 알 수 있겠지만 프로그램을 시각화한 이미지를 먼저 학습한다면 쉽게 이해하는 데 도움이 될 것이다.
-
-1 자료구조와 알고리즘
-1.1 자료구조는 무엇일까요?
-1.2 우리가 자…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
