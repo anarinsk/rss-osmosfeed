@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-14T04:23:15.365Z</updated>
+    <updated>2021-05-14T08:17:32.401Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -2715,17 +2715,6 @@ __배치 처리의 역사
 1.2 우리가 자…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Terminal Preview 1.8 Release]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6574</id>
-        <link href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-8-release/"/>
-        <updated>2021-04-14T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back to another release of Windows Terminal! This release updates Windows Terminal Preview to version 1.8 and moves Windows Terminal to version 1.7. Both builds can be installed from the Microsoft Store as well as the GitHub releases page. Let&#8217;s jump into what&#8217;s new!
-The post Windows Terminal Preview 1.8 Release appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Kayla Cinnamon</name>
         </author>
     </entry>
 </feed>
