@@ -1,425 +1,6 @@
 {
   "sources": [
     {
-      "title": "AEA Research Highlights",
-      "feedUrl": "https://www.aeaweb.org/research/rss-feed",
-      "siteUrl": "https://www.aeaweb.org/research",
-      "articles": [
-        {
-          "id": "https://www.aeaweb.org/research/private-prisons-time-served-recidivism-mississippi",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Inmates sent to private prisons serve 90 extra days on average, according to a paper in the American Economic Journal: Economic Policy. We spoke author Anita Mukherjee about why that is and how private prison contracting could be reformed.",
-          "link": "https://www.aeaweb.org/research/private-prisons-time-served-recidivism-mississippi",
-          "publishedOn": "2021-05-12T15:00:00.000Z",
-          "wordCount": 1531,
-          "title": "American capitalism and incarceration"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/state-education-spending-recession-impact",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "Recession-induced cuts to school spending had lasting ill-effects on test scores and college enrollment, especially in states where schools rely more heavily on state aid, according to a paper in the American Economic Journal: Economic Policy.",
-          "link": "https://www.aeaweb.org/research/charts/state-education-spending-recession-impact",
-          "publishedOn": "2021-05-10T15:00:00.000Z",
-          "wordCount": 465,
-          "title": "School spending matters"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/jerusalem-city-prices-supermarkets",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "Why do the poor pay more? A paper in the American Economic Journal: Economic Policy investigates how socioeconomic standing interacts with spatial frictions among supermarket shoppers in Jerusalem.",
-          "link": "https://www.aeaweb.org/research/jerusalem-city-prices-supermarkets",
-          "publishedOn": "2021-05-07T15:00:00.000Z",
-          "wordCount": 983,
-          "title": "Captive shoppers"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/oil-supply-news-opec-announcements",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Production announcements from OPEC have a profound impact on oil prices and the US economy, even when current oil supplies don’t change, according to a paper in the American Economic Reviewg.",
-          "link": "https://www.aeaweb.org/research/charts/oil-supply-news-opec-announcements",
-          "publishedOn": "2021-05-05T15:00:00.000Z",
-          "wordCount": 543,
-          "title": "Decomposing news shocks"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/mortgage-refinances-debt-default-spending-harp",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Relaxing borrowing constraints on underwater homeowners was an important tool for relieving households after the Great Recession, according to a paper in the American Economic Journal: Macroeconomics. It may have made monetary policy more effective as well",
-          "link": "https://www.aeaweb.org/research/mortgage-refinances-debt-default-spending-harp",
-          "publishedOn": "2021-05-03T15:00:00.000Z",
-          "wordCount": 936,
-          "title": "The effectiveness of HARP"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/dean-yang-africa-green-revolution",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "The Green Revolution of the mid-20th century left sub-Saharan Africa behind. We spoke with Dean Yang about his paper in the American Economic Journal: Applied Economics that measured the potential effects from temporary subsidies to help farmers boost crop yields.",
-          "link": "https://www.aeaweb.org/research/dean-yang-africa-green-revolution",
-          "publishedOn": "2021-04-28T15:00:00.000Z",
-          "wordCount": 1749,
-          "title": "Creating Africa's own Green Revolution"
-        },
-        {
-          "id": "https://www.aeaweb.org/news/charts/lottery-wins-college-decisions",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "Winning the lottery boosts the odds that a family will send a child to college, but only if they win big, according to a  paper in the American Economic Review.",
-          "link": "https://www.aeaweb.org/news/charts/lottery-wins-college-decisions",
-          "publishedOn": "2021-04-26T15:00:00.000Z",
-          "wordCount": 558,
-          "title": "Money and matriculation"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/intergenerational-spillovers-disability-insurance-netherlands",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "A paper in the American Economic Journal: Applied Economics found that kids in the Netherlands whose parents had their disability support reduced in the 1990s were less likely to use disability insurance as adults and completed more schooling.",
-          "link": "https://www.aeaweb.org/research/charts/intergenerational-spillovers-disability-insurance-netherlands",
-          "publishedOn": "2021-04-21T15:00:00.000Z",
-          "wordCount": 522,
-          "title": "Welfare reform and the next generation"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/afghanistan-cell-phone-election-fraud",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "Cell phone access empowered voters in Afghanistan to get more involved with poll monitoring and potentially deterred fraud, highlighting how communication infrastructure can help improve election oversight, according to a paper in the American Economic Journal: Applied Economics.",
-          "link": "https://www.aeaweb.org/research/afghanistan-cell-phone-election-fraud",
-          "publishedOn": "2021-04-19T15:00:00.000Z",
-          "wordCount": 1010,
-          "title": "Calling in election fraud"
-        }
-      ]
-    },
-    {
-      "title": "National Bureau of Economic Research Working Papers",
-      "feedUrl": "https://back.nber.org/rss/new.xml",
-      "siteUrl": "http://www.nber.org/new.html",
-      "articles": [
-        {
-          "id": "https://www.nber.org/papers/w28778#fromrss",
-          "author": null,
-          "description": "We open the black box of the M&A decision process by constructing a comprehensive sample of US firms with specialized M&A staff. We investigate whether specialized M&A staff improves acquisition performance or facilitates managerial empire building instead. We find that firms with specialized M&A staff make better acquisitions when acquisition performance is measured by stock price reactions to announcements, long-run stock returns, operating performance, divestitures, and analyst earnings forecasts. This e…",
-          "link": "https://www.nber.org/papers/w28778#fromrss",
-          "publishedOn": "2021-05-11T02:43:40.926Z",
-          "wordCount": 826,
-          "title": "Do Firms with Specialized M&A Staff Make Better Acquisitions? -- by Sinan Gokkaya, Xi Liu, René M. Stulz"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28781#fromrss",
-          "author": null,
-          "description": "We define high cost lenders as lenders that issue a disproportionate number of high cost loans. We develop a shift-share measure to capture the market representation of these high cost lenders in housing submarkets. After conditioning on housing submarket fixed effects, origination year fixed effects and trends over origination years based on housing submarket attributes, the magnitude of the estimated relationship is very stable as detailed controls for borrower attributes, credit score and loan terms are …",
-          "link": "https://www.nber.org/papers/w28781#fromrss",
-          "publishedOn": "2021-05-11T02:43:40.902Z",
-          "wordCount": 1028,
-          "title": "High Cost Lenders and the Geographic Concentration of Foreclosures -- by Stephen L. Ross, Yuan Wang"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28769#fromrss",
-          "author": null,
-          "description": "Previous research suggests creative ability peaks in the age decades of the 30s and early 40s, and declines thereafter, with some variation across fields. Building from the cognitive aging literature, we expect differences in the rate of creation and qualitative nature of creative works by age. Cognitive processes show aging-related changes with increases in experience-based knowledge (pragmatics or crystallized abilities) and decreases in the ability to process novel information quickly and efficiently (me…",
-          "link": "https://www.nber.org/papers/w28769#fromrss",
-          "publishedOn": "2021-05-11T02:43:40.791Z",
-          "wordCount": 992,
-          "title": "Invention and the Life Course: Age Differences in Patenting -- by Mary Kaltenberg, Adam B. Jaffe, Margie E. Lachman"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28784#fromrss",
-          "author": null,
-          "description": "The poor live paycheck to paycheck and are repeatedly exposed to strong cyclical income fluctuations. We investigate whether such income fluctuations affect risk preference among the poor. If risk preference temporarily changes around payday, optimal decisions made before payday may no longer be optimal afterward, which could reinforce poverty. By exploiting Social Security payday cycles in the US, we find that risk preference among the poor relying heavily on Social Security changes around payday. Rather t…",
-          "link": "https://www.nber.org/papers/w28784#fromrss",
-          "publishedOn": "2021-05-11T02:43:40.554Z",
-          "wordCount": 888,
-          "title": "Temporal Instability of Risk Preference among the Poor: Evidence from Payday Cycles -- by Mika Akesaka, Peter Eibich, Chie Hanaoka, Hitoshi Shigeoka"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28752#fromrss",
-          "author": null,
-          "description": "By age 77 a plurality of women in wealthy Western societies are widows. Comparing older (aged 70+) married women to widows in the American Time Use Survey 2003-18 and linking the data to the Current Population Survey allow inferring the short- and longer-term effects of an arguably exogenous shock—husband’s death—and measuring the paths of adjustment of time use to it. Widows differ from otherwise similar married women, especially from married women with working husbands, by cutting back on home production,…",
-          "link": "https://www.nber.org/papers/w28752#fromrss",
-          "publishedOn": "2021-05-11T02:43:40.544Z",
-          "wordCount": 861,
-          "title": "Widows’ Time, Time Stress and Happiness: Adjusting to Loss -- by Daniel S. Hamermesh, Michał Myck, Monika Oczkowska"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28754#fromrss",
-          "author": null,
-          "description": "We provide a general non-parametric characterization of how welfare responds to changes in budget and production possibility sets when preferences are non-homothetic or subject to shocks, in both partial and general equilibrium. We generalize Hulten’s theorem, which is the basis for constructing aggregate quantities, to this context. We identify a new bias in measures of real consumption that depends on the covariance of price changes and expenditure changes due to income effects or preference shocks. We ap…",
-          "link": "https://www.nber.org/papers/w28754#fromrss",
-          "publishedOn": "2021-05-11T02:43:40.334Z",
-          "wordCount": 853,
-          "title": "Welfare and Output with Income Effects and Demand Instability -- by David Baqaee, Ariel Burstein"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28779#fromrss",
-          "author": null,
-          "description": "We study the welfare effects of offering choice over financial coverage levels––\"vertical choice''––in regulated health insurance markets. Though the efficient level of coverage, which trades off the value of risk protection and the social cost from moral hazard, likely varies across consumers, we emphasize that this variation alone is not sufficient to motivate choice. When premiums cannot reflect individual costs, consumers may not select their efficient coverage level. We show that vertical choice is eff…",
-          "link": "https://www.nber.org/papers/w28779#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.982Z",
-          "wordCount": 866,
-          "title": "Should There Be Vertical Choice in Health Insurance Markets? -- by Victoria R. Marone, Adrienne Sabety"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28783#fromrss",
-          "author": null,
-          "description": "In the absence of first-best climate policy, we demonstrate that existing government institutions and policy established for reasons unrelated to climate change may induce climate adaptation. We examine the impact of temperature on ambient ozone concentration in the United States from 1980-2013, and the role of institution-induced adaptation. Ozone is formed under warm temperatures, and regulated by the Clean Air Act institution. Adaptation in counties out of attainment with air quality standards is 107 per…",
-          "link": "https://www.nber.org/papers/w28783#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.972Z",
-          "wordCount": 838,
-          "title": "Time is of the Essence: Climate Adaptation Induced by Existing Institutions -- by Antonio Bento, Noah S. Miller, Mehreen Mookerjee, Edson R. Severnini"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28757#fromrss",
-          "author": null,
-          "description": "This paper studies the evolution of individual earnings inequality and dynamics in Canada from 1983 to 2016 using tax files and administrative records.  Linking these individuals to their employers (and rich administrative records on firms) beginning in 2001, it also documents the relationship between the earnings dynamics of workers and the size and growth of their employers.  It highlights three main patterns over this period:  First, with a few exceptions (sharp increase in top 1% and declining gender ga…",
-          "link": "https://www.nber.org/papers/w28757#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.925Z",
-          "wordCount": 854,
-          "title": "Four Decades of Canadian Earnings Inequality and Dynamics across Workers and Firms -- by Audra Bowlus, Émilien Gouin-Bonenfant, Huju Liu, Lance Lochner, Youngmin Park"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28775#fromrss",
-          "author": null,
-          "description": "We examine the extent to which the labor market facilitates the diffusion of tax planning knowledge across firms. Using a novel dataset of tax department employee movements between S&P 1500 firms, we find that firms experience an increase in their tax planning after hiring a tax employee from a tax aggressive firm. This finding is robust to various research designs and specifications. Consistent with tax planning knowledge driving this result, we find that the tax planning benefit of hiring an employee from…",
-          "link": "https://www.nber.org/papers/w28775#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.900Z",
-          "wordCount": 927,
-          "title": "Tax Planning Knowledge Diffusion via the Labor Market -- by John M. Barrios, John Gallemore"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28785#fromrss",
-          "author": null,
-          "description": "We exploit novel data from brain-training games to examine the impacts of air pollution on a comprehensive set of cognitive skills of adults. We find that exposure to particulate matter (PM2.5) impairs adult cognitive function, and that these effects are largest for those in prime working age. These results confirm a hypothesized mechanism for the impacts of air pollution on productivity. We also find that the cognitive effects are largest for new tasks and for those with low ability, suggesting that air po…",
-          "link": "https://www.nber.org/papers/w28785#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.851Z",
-          "wordCount": 757,
-          "title": "Air Pollution and Adult Cognition: Evidence from Brain Training -- by Andrea La Nauze, Edson R. Severnini"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28764#fromrss",
-          "author": null,
-          "description": "Regulatory debates about centralized trading assume security design is immune to market structure. We consider a regulator who introduces an exchange to increase liquidity, understanding that security design is endogenous. For a given security, investors would like to trade in a larger market and, for a given market structure, they would like to trade a safer security. We show that financial intermediaries design riskier securities after the exchange is introduced, even when the exchange leads to the origin…",
-          "link": "https://www.nber.org/papers/w28764#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.820Z",
-          "wordCount": 748,
-          "title": "Regulation and Security Design in Concentrated Markets -- by Ana Babus, Kinda Cheryl Hachem"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28776#fromrss",
-          "author": null,
-          "description": "The “debt-overhang hypothesis” – that households cut back more on their spending in a crisis when they have higher levels of outstanding mortgage debt (Dynan, 2012) – seems to be taken for granted by macroprudential authorities in several countries in their policy decisions, as well as by the international organizations that evaluate and comment on countries’ macroprudential policy. New results for Australian microdata are presented that reject the debt-overhang hypothesis. The results instead support the “…",
-          "link": "https://www.nber.org/papers/w28776#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.808Z",
-          "wordCount": 925,
-          "title": "Household Debt Overhang Did Hardly Cause a Larger Spending Fall during the Financial Crisis in Australia -- by Lars E.O. Svensson"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28766#fromrss",
-          "author": null,
-          "description": "Large-scale increases in discrimination can lead to dismissals of highly qualified managers. We investigate how expulsions of senior Jewish managers, due to rising discrimination in Nazi Germany, affected large corporations. Firms that lost Jewish managers experienced persistent reductions in stock prices, dividends, and returns on assets. Aggregate market value fell by roughly 1.8 percent of German GNP because of the expulsions. Managers who served as key connectors to other firms and managers who were hig…",
-          "link": "https://www.nber.org/papers/w28766#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.785Z",
-          "wordCount": 874,
-          "title": "Discrimination, Managers, and Firm Performance: Evidence from “Aryanizations” in Nazi Germany -- by Kilian Huber, Volker Lindenthal, Fabian Waldinger"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28782#fromrss",
-          "author": null,
-          "description": "Children exposed to pollutants like lead are more disruptive and have lower achievement. However, little is known about whether lead-exposed children affect the long-run outcomes of their peers. We estimate these spillover effects using new data on preschool blood lead levels (BLLs) matched to education data for all students in North Carolina public schools. We compare siblings whose school-grade cohorts differ in the proportion of children with elevated BLLs, holding constant school and peers’ demographics…",
-          "link": "https://www.nber.org/papers/w28782#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.760Z",
-          "wordCount": 889,
-          "title": "The Long-Run Spillover Effects of Pollution: How Exposure to Lead Affects Everyone in the Classroom -- by Ludovica Gazze, Claudia Persico, Sandra Spirovska"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28771#fromrss",
-          "author": null,
-          "description": "In recessions, unemployment increases despite the—perhaps counterintuitive—fact that the number of unemployed workers finding jobs expands. We propose a theory of unemployment fluctuations resting on this countercyclicality of gross flows from unemployment into employment. In recessions, the abundance of new hires “congests” the jobs the unemployed fill—diminishing their marginal product and discouraging further job creation. Countercyclical congestion explains 30-40% of US unemployment fluctuations. Additi…",
-          "link": "https://www.nber.org/papers/w28771#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.744Z",
-          "wordCount": 845,
-          "title": "A Congestion Theory of Unemployment Fluctuations -- by Yusuf Mercan, Benjamin Schoefer, Petr Sedláček"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28756#fromrss",
-          "author": null,
-          "description": "We use admissions lotteries to estimate the effects of large-scale public preschool in Boston on college-going, college preparation, standardized test scores, and behavioral outcomes. Preschool enrollment boosts college attendance, as well as SAT test-taking and high school graduation. Preschool also decreases several disciplinary measures including juvenile incarceration, but has no detectable impact on state achievement test scores. An analysis of subgroups shows that effects on college enrollment, SAT-ta…",
-          "link": "https://www.nber.org/papers/w28756#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.721Z",
-          "wordCount": 787,
-          "title": "The Long-Term Effects of Universal Preschool in Boston -- by Guthrie Gray-Lobe, Parag A. Pathak, Christopher R. Walters"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28758#fromrss",
-          "author": null,
-          "description": "We show that the specific factors model can be used to derive a rigorous link between movements in stock prices and productivity, wages, employment, output, and welfare. We also prove that the commonly used measure of the effective rate of protection equals the dual measure of revenue TFP, providing a theoretical foundation for why many studies have found that trade liberalization significantly increases firm-level productivity. Our method enables us to trace a tariff announcement's effect on TFP through it…",
-          "link": "https://www.nber.org/papers/w28758#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.708Z",
-          "wordCount": 880,
-          "title": "Trade Protection, Stock-Market Returns, and Welfare -- by Mary Amiti, Sang Hoon Kong, David Weinstein"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28763#fromrss",
-          "author": null,
-          "description": "Gun buyback programs (GBPs), which use public funds to purchase civilians' privately-owned firearms, aim to reduce gun violence.  However, little is known about their effects on firearm-related crime or deaths. Using data from the National Incident Based Reporting System, we find no evidence that GBPs reduce gun crime. Given our estimated null findings, with 95 percent confidence, we can rule out decreases in firearm-related crime of greater than 1.3 percent during the year following a buyback.  Using data …",
-          "link": "https://www.nber.org/papers/w28763#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.684Z",
-          "wordCount": 797,
-          "title": "Have U.S. Gun Buyback Programs Misfired? -- by Toshio Ferrazares, Joseph J. Sabia, D. Mark Anderson"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28753#fromrss",
-          "author": null,
-          "description": "This paper examines the effect of fall 2020 school reopenings in Texas on county-level COVID-19 cases and fatalities. Previous evidence suggests that schools can be reopened safely if community spread is low and public health guidelines are followed. However, in Texas, reopenings often occurred alongside high community spread and at near capacity, making it difficult to meet social distancing recommendations. Using event-study models and hand-collected instruction modality and start dates for all school dis…",
-          "link": "https://www.nber.org/papers/w28753#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.667Z",
-          "wordCount": 884,
-          "title": "School Reopenings, Mobility, and COVID-19 Spread: Evidence from Texas -- by Charles J. Courtemanche, Anh H. Le, Aaron Yelowitz, Ron Zimmer"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28770#fromrss",
-          "author": null,
-          "description": "We measure extensive-margin labor supply (employment) preferences in two representative surveys of the U.S. and German populations. We elicit reservation raises: the percent wage change that renders a given individual indifferent between employment and nonemployment. It is equal to her reservation wage divided by her actual, or potential, wage. The reservation raise distribution is the nonparametric aggregate labor supply curve. Locally, the curve exhibits large short-run elasticities above 3, consistent wi…",
-          "link": "https://www.nber.org/papers/w28770#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.653Z",
-          "wordCount": 964,
-          "title": "Reservation Raises: The Aggregate Labor Supply Curve at the Extensive Margin -- by Preston Mui, Benjamin Schoefer"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28755#fromrss",
-          "author": null,
-          "description": "Pharmaceutical innovation policy involves managing a tradeoff between high prices for new products in the short-term and stronger incentives to develop products for the future. Prior research has documented a causal relationship between market size and pharmaceutical research and development (R&D) activities. The existing literature, however, provides no evidence of how this relationship varies across markets. We investigate whether recent expansions in state Medicaid programs caused an increase in R&D. We …",
-          "link": "https://www.nber.org/papers/w28755#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.582Z",
-          "wordCount": 839,
-          "title": "Which Markets (Don't) Drive Pharmaceutical Innovation?  Evidence From U.S. Medicaid Expansions -- by Craig Garthwaite, Rebecca Sachs, Ariel Dora Stern"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28768#fromrss",
-          "author": null,
-          "description": "This paper overviews the data collection procedures and resulting data for inventor ages and associated death dates. We use information about inventors from patents (name and location) and search for age and date of death information from publicly available online web directories and build a scoring system to indicate the quality of information that we collect.  After applying a variety of heuristics and robustness checks, we are confident of 1,508,676 inventor ages associated with patents granted between 1…",
-          "link": "https://www.nber.org/papers/w28768#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.565Z",
-          "wordCount": 850,
-          "title": "The Age of Invention: Matching Inventor Ages to Patents Based on Web-scraped Sources -- by Mary Kaltenberg, Adam B. Jaffe, Margie Lachman"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28774#fromrss",
-          "author": null,
-          "description": "This essay is the introduction to a book of the same title, forthcoming in summer of 2021 from Oxford University Press.  The purpose is to document the ways in which patent systems are products of battles over the economic surplus from innovation.  The features of these systems take shape as interests at different points in the production chain seek advantage in any way they can, and consequently, they are riven with imperfections. The interesting historical question is why US-style patent systems with all …",
-          "link": "https://www.nber.org/papers/w28774#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.552Z",
-          "wordCount": 940,
-          "title": "The Battle Over Patents: History and the Politics of Innovation -- by Stephen H. Haber, Naomi R. Lamoreaux"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28750#fromrss",
-          "author": null,
-          "description": "This paper investigates whether education weakens the relationship between early-life disadvantages and later-life SES. We use three proxies for advantage that we show are independently associated with SES in middle-age. Besides early, favorable family and neighborhood conditions, we argue that the genes a child inherits also represent a source of advantages. Using a regression discontinuity design and data for over 110,000 individuals, we study a compulsory schooling reform in the UK that generated exogeno…",
-          "link": "https://www.nber.org/papers/w28750#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.493Z",
-          "wordCount": 952,
-          "title": "The Effect of Education on the Relationship between Genetics, Early-Life Disadvantages, and Later-Life SES -- by Silvia H. Barcellos, Leandro Carvalho, Patrick Turley"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28772#fromrss",
-          "author": null,
-          "description": "Why do cities differ so much in productivity? Using a split-sample IV strategy, we document that up to three quarters of the large measured dispersion in productivity across US cities is spurious and reflects the \"luck of the draw\" of idiosyncratically heterogeneous plants. Due to this granularity bias, economies with randomly reallocated plants exhibit nearly as high a variance as the empirical economy. For new plants, four fifths of the raw dispersion reflects granularity bias, and their productivity is o…",
-          "link": "https://www.nber.org/papers/w28772#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.449Z",
-          "wordCount": 880,
-          "title": "Productivity, Place, and Plants -- by Benjamin Schoefer, Oren Ziv"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28780#fromrss",
-          "author": null,
-          "description": "Despite growing interest in improving early-childhood education in developing countries, there is little evidence on cost-effective ways of doing so at scale. We use a large-scale randomized experiment to study the impact of adding an extra worker focused on pre-school education (for children aged 3-5) in the world’s largest public early-childhood program: India’s Integrated Child Development Services (ICDS). Adding a worker doubled net instructional time and led to 0.29 and 0.46 standard deviation increase…",
-          "link": "https://www.nber.org/papers/w28780#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.421Z",
-          "wordCount": 874,
-          "title": "Augmenting State Capacity for Child Development: Experimental Evidence from India -- by Alejandro J. Ganimian, Karthik Muralidharan, Christopher R. Walters"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28773#fromrss",
-          "author": null,
-          "description": "Immigrant founders of venture capital-backed companies have been critical to the entrepreneurial ecosystem. We document the channels through which immigrant founders find their way to the United States and how those channels have changed over time. Immigrants have been an important source of founders for venture capital-backed startups accounting for roughly 20% of all founders over the past 30 years. Immigrants coming to the United States for their education have been the primary source of founders with th…",
-          "link": "https://www.nber.org/papers/w28773#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.384Z",
-          "wordCount": 821,
-          "title": "Getting Schooled: The Role of Universities in Attracting Immigrant Entrepreneurs -- by Natee Amornsiripanitch, Paul A. Gompers, George Hu, Kaushik Vasudevan"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28767#fromrss",
-          "author": null,
-          "description": "The effects of large banks on the real economy are theoretically ambiguous and politically controversial. I identify quasi-exogenous increases in bank size in postwar Germany. I show that firms did not grow faster after their relationship banks became bigger. In fact, opaque borrowers grew more slowly. The enlarged banks did not increase profits or efficiency, but worked with riskier borrowers. Bank managers benefited through higher salaries and media attention. The paper presents newly digitized microdata …",
-          "link": "https://www.nber.org/papers/w28767#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.349Z",
-          "wordCount": 896,
-          "title": "Are Bigger Banks Better? Firm-Level Evidence from Germany -- by Kilian Huber"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28759#fromrss",
-          "author": null,
-          "description": "The racial and ethnic composition of home buyers varies across geographic locations. For example, Asians and Hispanics are much more likely to buy homes in California than Blacks and Blacks are more likely to buy homes in Georgia than other demographic groups. Home prices grow at different rates across geographic units such as counties or zip codes. Hedonic bundling inhibits buyers from purchasing shares of different homes and forming a spatially diversified housing portfolio.  Spatial variation in purchase…",
-          "link": "https://www.nber.org/papers/w28759#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.319Z",
-          "wordCount": 819,
-          "title": "Racial and Ethnic Differences in the Financial Returns to Home Purchases from 2007 to 2020 -- by Matthew E. Kahn"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28760#fromrss",
-          "author": null,
-          "description": "I use a model of private and public behavior to mitigate disease transmission during the COVID pandemic over the past year in the United States to address two questions: What dynamics of infections and deaths should we expect to see from a pandemic? What are our options for mitigating the impact of a pandemic on public health? I find that behavior turns what would be a short and extremely sharp epidemic into a long, drawn out one. Absent the development of a technological solution such as vaccines or life-s…",
-          "link": "https://www.nber.org/papers/w28760#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.301Z",
-          "wordCount": 800,
-          "title": "Behavior and the Dynamics of Epidemics -- by Andrew Atkeson"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28761#fromrss",
-          "author": null,
-          "description": "We propose a general equilibrium economy with oligopolistic output markets in which two channels can cause a change in market power: (i) technology, via changes to productivity shocks and the cost of entry, (ii) market structure, via changes to the number of potential competitors. First, we disentangle these narratives by matching time-series on markups, labor reallocation and costs between 1980 and 2016, finding that both channels are necessary to account for the data. Second, we show that changes in techn…",
-          "link": "https://www.nber.org/papers/w28761#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.282Z",
-          "wordCount": 833,
-          "title": "Quantifying Market Power and Business Dynamism in the Macroeconomy -- by Jan De Loecker, Jan Eeckhout, Simon Mongey"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28762#fromrss",
-          "author": null,
-          "description": "Recent expansions of Medicaid eligibility have come with increased experimentation with enrollee cost-sharing. In this paper, we exploit a discontinuous premium increase at the federal poverty level in Michigan’s Medicaid expansion program to test low-income individuals’ sensitivity to premiums using linked enrollment and claims data. At the cutoff, average premiums increase by $3.15 and the probability of disenrollment increases by 2.3 percentage points. Increased disenrollment occurs among those with fewe…",
-          "link": "https://www.nber.org/papers/w28762#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.227Z",
-          "wordCount": 944,
-          "title": "Adverse Selection in Medicaid: Evidence from Discontinuous Program Rules -- by Betsy Q. Cliff, Sarah Miller, Jeffrey T. Kullgren, John Z. Ayanian, Richard Hirth"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28765#fromrss",
-          "author": null,
-          "description": "Inspired by the field experiment in Bertrand and Morse (2011), the state of Texas adopted an information disclosure for consumers taking out payday loans starting in January, 2012. The disclosure compares the cost of payday loans with other credit products, and presents their likelihood of renewal in easy-to-understand terms. Simultaneously, Austin and Dallas implemented stricter supply restrictions through city ordinances. We analyze both types of regulations, and find that the statewide disclosures led to…",
-          "link": "https://www.nber.org/papers/w28765#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.206Z",
-          "wordCount": 974,
-          "title": "The Effects of Disclosure and Enforcement on Payday Lending in Texas -- by Jialan Wang, Kathleen Burke"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28751#fromrss",
-          "author": null,
-          "description": "This paper investigates the role of private equity (PE) in failed bank resolutions after the 2008 financial crisis, using proprietary FDIC failed bank acquisition data. PE investors made substantial investments in underperforming and riskier failed banks, particularly in geographies where local banks were also distressed, filling the gap created by a weak, undercapitalized banking sector. Using a quasi-random empirical design based on detailed bidding information, we show PE-acquired banks performed better …",
-          "link": "https://www.nber.org/papers/w28751#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.163Z",
-          "wordCount": 914,
-          "title": "Private Equity and Financial Stability: Evidence from Failed Bank Resolution in the Crisis -- by Emily Johnston-Ross, Song Ma, Manju Puri"
-        },
-        {
-          "id": "https://www.nber.org/papers/w28777#fromrss",
-          "author": null,
-          "description": "The covered interest rate parity (CIP) condition is a fundamental arbitrage relationship in international finance. In this chapter, we review its breakdown during the Global Financial Crisis and its continued failure in the subsequent decade. We review how to measure CIP deviations, discuss the drivers of CIP deviations, and the implications of CIP deviations for global financial markets.",
-          "link": "https://www.nber.org/papers/w28777#fromrss",
-          "publishedOn": "2021-05-11T02:43:39.125Z",
-          "wordCount": 736,
-          "title": "CIP Deviations, the Dollar, and Frictions in International Capital Markets -- by Wenxin Du, Jesse Schreger"
-        }
-      ]
-    },
-    {
       "title": "Microeconomic Insights",
       "feedUrl": "https://microeconomicinsights.org/feed/",
       "siteUrl": "https://microeconomicinsights.org",
@@ -445,197 +26,19 @@
       ]
     },
     {
-      "title": "VOX, CEPR Policy Portal",
-      "feedUrl": "https://voxeu.org/rss.xml",
-      "siteUrl": "https://voxeu.org/",
-      "articles": [
-        {
-          "id": "https://voxeu.org/article/brexit-deterred-international-students-applying-uk-universities",
-          "author": "Catalina Amuedo-Dorantes, Agnese Romiti",
-          "description": "Attracting international students is critical for public universities in the UK increasingly facing funding cuts and a diminishing domestic youth population. This column discusses how Brexit may have affected students’ willingness to study in the UK and the factors likely driving the students’ choices. Brexit significantly lowered applications from EU students, especially for science, technology, engineering and mathematics subjects and for more selective institutions. International student enrolments also …",
-          "link": "https://voxeu.org/article/brexit-deterred-international-students-applying-uk-universities",
-          "publishedOn": "2021-05-15T00:00:00.000Z",
-          "wordCount": 2378,
-          "title": "Brexit deterred international students from applying to UK universities"
-        },
-        {
-          "id": "https://voxeu.org/article/government-effective-venture-capitalist",
-          "author": "Jessica Bai, Shai Bernstein, Abhishek Dev, Josh Lerner",
-          "description": "Government funding to boost innovation has seen an uplift since the unfolding of the COVID crisis. Using extensive global data, this column examines how government funding programmes focused on early-stage companies interact with private capital markets, and finds a positive relationship between government funding at this business stage and private capital allocation. Increased reliance on private capital markets enabled governments to mitigate investment frictions, improve capital allocation, and thereby i…",
-          "link": "https://voxeu.org/article/government-effective-venture-capitalist",
-          "publishedOn": "2021-05-14T00:00:00.000Z",
-          "wordCount": 2295,
-          "title": "The government as an (effective) venture capitalist"
-        },
-        {
-          "id": "https://voxeu.org/article/free-trade-agreements-do-not-always-ensure-free-trade",
-          "author": "Jan I. Haaland, Ian  Wooton",
-          "description": "The changes in the UK’s trading relationship with the EU are likely to have widespread effects, many of which are yet to be understood in full. This column introduces the issue of compliance with rules of origin requirements within free trade agreements. The authors argue that complying with these rules can present firms with additional production costs that would not have been present had the UK remained a part of the EU.",
-          "link": "https://voxeu.org/article/free-trade-agreements-do-not-always-ensure-free-trade",
-          "publishedOn": "2021-05-14T00:00:00.000Z",
-          "wordCount": 2176,
-          "title": "Free trade agreements do not always ensure free trade"
-        },
-        {
-          "id": "https://voxeu.org/article/gender-role-norms-and-mothers-labour-supply",
-          "author": "Danilo  Cavapozzi, Marco Francesconi, Cheti  Nicoletti",
-          "description": "Despite a significant reduction in gender differences in the labour market over the last 40 years, they are still present in most advanced economies and do not appear likely to vanish soon. This column analyses the impact of culture, defined by women’s gender role attitudes, on maternal labour market decisions. It finds that social pressure is at least as strong as social learning in influencing labour market behaviour. Once these channels are accounted for, there is no direct effect of peers’ gender identi…",
-          "link": "https://voxeu.org/article/gender-role-norms-and-mothers-labour-supply",
-          "publishedOn": "2021-05-13T00:00:00.000Z",
-          "wordCount": 2129,
-          "title": "Gender role norms and mothers' labour supply"
-        },
-        {
-          "id": "https://voxeu.org/article/cooperation-among-people-different-cognitive-skill-levels",
-          "author": "Eugenio Proto, Aldo Rustichini, Andis Sofianos",
-          "description": "A large part of social interaction occurs among very different individuals. Characteristics such as trust, altruism, and intelligence can have important effects on strategic behaviour. This column studies how interactions between groups with different cognitive skill levels affect cooperation. Using an indefinitely repeated Prisoner’s Dilemma game, it finds that integrating players with different abilities leads to higher cooperation rates and higher aggregate payoffs than when they play separately. This is…",
-          "link": "https://voxeu.org/article/cooperation-among-people-different-cognitive-skill-levels",
-          "publishedOn": "2021-05-13T00:00:00.000Z",
-          "wordCount": 2027,
-          "title": "Cooperation among people with different cognitive skill levels"
-        },
-        {
-          "id": "https://voxeu.org/article/central-banks-shifting-world-takeaways-ecb-s-sintra-forum",
-          "author": "Philipp Hartmann, Glenn Schepens",
-          "description": "The 2020 ECB Forum on Central Banking addressed some key issues from the ongoing monetary policy strategy review and embedded them in discussions of major structural changes in advanced economies and the post-COVID recovery. In this column, two of the organisers highlight some of the main points from the papers and debates, including whether globalisation is reversing, implications of climate change, options for formulating the ECB's inflation aim, challenges with informal monetary policy communication, rel…",
-          "link": "https://voxeu.org/article/central-banks-shifting-world-takeaways-ecb-s-sintra-forum",
-          "publishedOn": "2021-05-12T00:00:00.000Z",
-          "wordCount": 4187,
-          "title": "Central banks in a shifting world: Takeaways from the ECB’s Sintra Forum"
-        },
-        {
-          "id": "https://voxeu.org/article/social-and-economic-costs-covid-19",
-          "author": "Eduardo Levy Yeyati, Federico Filippini",
-          "description": "The long-term social and economic consequences of Covid-19 are uncertain. This column provides a preliminary assessment of the variation in costs across countries and regions, and suggests that developing economies will suffer the most lasting damage. The pandemic has exposed the differential capacity of governments to mitigate health and economic crises and to allocate scarce resources efficiently, while some labour market structures have inhibited government efforts to attenuate the pandemic’s impact – im…",
-          "link": "https://voxeu.org/article/social-and-economic-costs-covid-19",
-          "publishedOn": "2021-05-12T00:00:00.000Z",
-          "wordCount": 2167,
-          "title": "The social and economic costs of Covid-19"
-        },
-        {
-          "id": "https://voxeu.org/article/central-bank-communication-remember-who-s-talking",
-          "author": "In Do Hwang, Thomas Lustenberger, Enzo Rossi",
-          "description": "Central bank communication has become an important policy tool over the past 20 years. This column uses survey data to show that business executives tend to associate a greater volume of speeches from the central bank with the central bank having less of an impact on the economy. Importantly, this effect stems not from speeches given by governors, but by other board members.",
-          "link": "https://voxeu.org/article/central-bank-communication-remember-who-s-talking",
-          "publishedOn": "2021-05-12T00:00:00.000Z",
-          "wordCount": 2220,
-          "title": "Central bank communication: Remember who’s talking"
-        },
-        {
-          "id": "https://voxeu.org/content/gender-and-employment-during-covid-19-evidence-she-cessions",
-          "author": "Francesca  Caselli",
-          "description": "Francesca Caselli of the IMF talks to Tim Phillips about evidence for the extent and persistence of pandemic-induced she-cessions, drawing on quarterly data from 38 advanced and emerging market economies, which uncovers significant heterogeneity across countries. In two-thirds of the countries studied, women’s employment rates declined more than men’s, but the differences were short-lived – lasting only a quarter or two on average – and strongly correlated to specific sectors of the economy.",
-          "link": "https://voxeu.org/content/gender-and-employment-during-covid-19-evidence-she-cessions",
-          "publishedOn": "2021-05-11T00:00:00.000Z",
-          "wordCount": 557,
-          "title": "Gender and employment during COVID-19: The evidence for 'she-cessions'"
-        },
-        {
-          "id": "https://voxeu.org/article/independent-ireland-centennial-perspective",
-          "author": "Cormac Ó Gráda, Kevin O'Rourke",
-          "description": "Depending on the period, Ireland’s economy has served as a model to be followed or a sobering lesson in failure. This column reviews the performance of the Irish economy from a long-run perspective and suggests that contrary to the common discourse, Ireland’s growth trajectory since independence has been far from exceptional. Rather, it should be seen as volatile.",
-          "link": "https://voxeu.org/article/independent-ireland-centennial-perspective",
-          "publishedOn": "2021-05-11T00:00:00.000Z",
-          "wordCount": 2419,
-          "title": "Independent Ireland: A centennial perspective"
-        },
-        {
-          "id": "https://voxeu.org/article/special-issue-economic-policy-stereotypes-attitudes-and-discrimination",
-          "author": "Barbara Petrongolo, Ghazala Azmat, Roberto Galbiati, Tommaso Monacelli, Moritz Schularick",
-          "description": "Recent campaigns such as Black Lives Matter and #MeToo highlight the urgent need for a deeper understanding of persistent economic differences across different social groups. In an increasingly diverse society, insight into what underpins gaps along lines of race, ethnicity and gender, and the role of perceptions in driving conduct, is imperative. Similarly, the assessment of policies designed to tackle these issues is essential. With the aim of informing this discussion, the Managing Editors of Economic Po…",
-          "link": "https://voxeu.org/article/special-issue-economic-policy-stereotypes-attitudes-and-discrimination",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 1126,
-          "title": "Special Issue of Economic Policy on stereotypes, attitudes and discrimination"
-        },
-        {
-          "id": "https://voxeu.org/article/corruption-under-austerity",
-          "author": "Gianmarco Daniele, Tommaso Giommoni",
-          "description": "Austerity measures have been widely adopted around the world with mixed results in terms of public debt reduction and adverse political effects. This column examines the effect of fiscal austerity policies on corruption in Italian municipalities. The budget rules have led to a decrease in both recorded corruption rates and corruption charges per euro spent, without a clear effect on local public service provision. The drop in corruption emerges mostly in pre-electoral years for mayors eligible for reelectio…",
-          "link": "https://voxeu.org/article/corruption-under-austerity",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 2056,
-          "title": "Corruption under austerity"
-        },
-        {
-          "id": "https://voxeu.org/article/high-speed-rail-may-hurt-intermediate-places",
-          "author": "Hans Koster, Takatoshi Tabuchi, Jacques-François Thisse",
-          "description": "Modern transportation infrastructure can help foster cheaper travel and a better-connected economy. This column shows that improvements in transportation can affect the location choices of firms in ways that are often beneficial to large regions, but may be detrimental to small intermediate regions through job losses. Using data from Japan’s high speed rail network, the authors confirm that ‘in-between’ municipalities that are connected to the network witness a sizeable decrease in employment.",
-          "link": "https://voxeu.org/article/high-speed-rail-may-hurt-intermediate-places",
-          "publishedOn": "2021-05-09T00:00:00.000Z",
-          "wordCount": 1849,
-          "title": "High-speed rail may hurt intermediate places"
-        },
-        {
-          "id": "https://voxeu.org/article/opening-military-innovation",
-          "author": "Sabrina Howell, Jason Rathje, John Van Reenen, Jun Wong",
-          "description": "In recent decades, US defence R&D seems to have lost its lustre. To combat the declining innovation, in 2018 the US Air Force reformed its contracting procedures to allow applicants more freedom to suggest projects with potential military benefits. This column uses data on applications and winners from such competitions to assess the effects of the reform. It finds that the ‘open’ programme attracts new and younger firms, increases future venture capital investment, and increases patenting. Government R&D c…",
-          "link": "https://voxeu.org/article/opening-military-innovation",
-          "publishedOn": "2021-05-08T00:00:00.000Z",
-          "wordCount": 1878,
-          "title": "OPENing up military innovation"
-        },
-        {
-          "id": "https://voxeu.org/article/school-closures-did-not-contribute-spread-coronavirus-germany",
-          "author": "Clara von Bismarck-Osten, Kirill Borusyak, Uta Schӧnberg",
-          "description": "Deciding whether to close schools to contain the spread of Covid-19 requires balancing the harm such closures inflict on families against their effectiveness in stopping the spread of disease. This column provides evidence from Germany that school closures did not contain infections among young people or adults in the summer of 2020 – when infection rates were low – or during the pandemic’s autumn resurgence. Thus, the benefits of school closures may not outweigh their costs to children and parents, particu…",
-          "link": "https://voxeu.org/article/school-closures-did-not-contribute-spread-coronavirus-germany",
-          "publishedOn": "2021-05-08T00:00:00.000Z",
-          "wordCount": 1931,
-          "title": "School closures did not contain the spread of the coronavirus in Germany"
-        },
-        {
-          "id": "https://voxeu.org/vox-talks/parental-age-and-child-health",
-          "author": "Hans Hvide",
-          "description": "As more of us wait to have children, more of us also worry if that's best for the health of our babies. Empirical evidence has been inconclusive so far but, based on new evidence, Hans Hvide tells Tim Phillips that this might be a problem with the way the research has been done.",
-          "link": "https://voxeu.org/vox-talks/parental-age-and-child-health",
-          "publishedOn": "2021-05-07T00:00:00.000Z",
-          "wordCount": 506,
-          "title": "Parental age and child health"
-        },
-        {
-          "id": "https://voxeu.org/article/us-inflation-set-take",
-          "author": "Laurence Ball, Gita Gopinath, Daniel Leigh, Prachi Mishra, Antonio Spilimbergo",
-          "description": "How high is the ongoing US fiscal expansion likely to push inflation? This column presents new evidence that underlying (weighted median) CPI inflation has so far steadily declined since the start of the COVID-19 crisis, broadly as predicted by its historical Phillips curve relation. If the ongoing fiscal expansion reduces unemployment to 1.5-3.5%, as some predict, underlying inflation could rise to about 2.5-3% by 2023. If the fiscal expansion is temporary and monetary policy remains clearly communicated a…",
-          "link": "https://voxeu.org/article/us-inflation-set-take",
-          "publishedOn": "2021-05-07T00:00:00.000Z",
-          "wordCount": 2654,
-          "title": "US inflation: Set for take-off?"
-        },
-        {
-          "id": "https://voxeu.org/article/pricing-carbon-within-and-border-europe",
-          "author": "Christoph Schmidt, Marcel Fratzscher, Nicola Fuchs-Schündeln, Clemens Fuest, Christian  Gollier, Philippe Martin, Isabelle Mejean, Xavier Ragot, Katheline Schubert, Beatrice Weder di Mauro",
-          "description": "The EU has announced reaching carbon neutrality by 2050 as the key target of its Green Deal strategy. The best coordination signal in this endeavour would be a uniform and encompassing price on carbon. To ascertain that all goods consumed in the EU face the same carbon price, it would be sensible to credibly prepare the implementation of border carbon adjustments  applied to imported goods. This column argues, however, that the EU should refrain from exempting exports from carbon pricing, and should conside…",
-          "link": "https://voxeu.org/article/pricing-carbon-within-and-border-europe",
-          "publishedOn": "2021-05-06T00:00:00.000Z",
-          "wordCount": 3457,
-          "title": "Pricing of carbon within and at the border of Europe"
-        },
-        {
-          "id": "https://voxeu.org/article/modern-infectious-diseases-macroeconomic-impacts-and-policy-responses",
-          "author": "David Bloom, Michael Kuhn, Klaus Prettner",
-          "description": "In addition to the devastating human toll, the economic upheaval wrought by the COVID-19 pandemic illustrates the inextricable relationship between physical and economic health. This column presents an overview of the macroeconomic effects of the infectious disease epidemics of the 20th and early 21st centuries through the lens of recent COVID-19 research and explores the epidemic–economics nexus. It concludes that preventive policies, containment strategies, and early responses are more efficient, cost-eff…",
-          "link": "https://voxeu.org/article/modern-infectious-diseases-macroeconomic-impacts-and-policy-responses",
-          "publishedOn": "2021-05-06T00:00:00.000Z",
-          "wordCount": 2836,
-          "title": "Modern infectious diseases: Macroeconomic impacts and policy responses"
-        },
-        {
-          "id": "https://voxeu.org/article/janus-face-europe-s-new-social-rulebook",
-          "author": "László Andor, Robin Huguenot-Noël",
-          "description": "In the midst of a third wave of the Covid-19 pandemic affecting the European continent, the European Commission released the Social Pillar Action Plan, setting concrete targets on employment, skills, and poverty reduction to be reached by 2030. This new ‘social rulebook’ represents a welcome initiative from the EU to set itself long-term development goals. Yet setting new ambitions without the necessary means may risk backfiring. This column argues that to act as a game-changer, the Action Plan should place…",
-          "link": "https://voxeu.org/article/janus-face-europe-s-new-social-rulebook",
-          "publishedOn": "2021-05-05T00:00:00.000Z",
-          "wordCount": 2952,
-          "title": "The Janus' face of Europe’s new social rulebook"
-        }
-      ]
-    },
-    {
       "title": "분야별 신간 - 경제학/경제일반",
       "feedUrl": "http://www.aladin.co.kr/rss/new_all/3057",
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=3057&rssType=2&type=title",
       "articles": [
+        {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271497020",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "금융소비자보호\n조남희 지음 / 연암사 / 2021년 05월 / ISBN:9791155580950\n정가: 28,000원 / 판매가: 28,000원 / 마일리지: 130원\n이벤트: 수험서.외국어.컴퓨터.대학교재-오거나이저+스티커/텀블러/젤펜/펜 파우치\n\n\n\n\n2021년 3월 25일 시행된 금융소비자보호법(금소법) 관련 정책과 규정, 사례 등을 집대성한 책이다. 금융소비자에 대한 올바른 인식과 종합적인 보호체계를 수립하는 데 도움이 될 수 있도록 집필하였다. 금융소비자보호를 위한 막연한 논쟁 대신 금융당국, 금융회사, 금융소비자가 구체적으로 무엇을 해야 하는지를 명쾌하게 보여준다.\n\n머리말 _ 5\r\n\r\n제 1 장 금융소비자란 누구인가?\r\n\r\n1. 금융소비자 정의 _ 17\r\n2. 금융소비자보호 필요성 _ 20\r\n3. 금융소비자보호 영역 _ 22\r\n4. 금융소비자보호 체계 _ 23\r\n5. 주요 선진국 금융소비자보호 기구 _ 26\r\n6. 우리나라 금융소비자보호 기구 _ 32\r\n7. 금융소비자보호 추세 _ 34\r\n\r…",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=271497020",
+          "publishedOn": "2021-05-14T05:30:00.000Z",
+          "wordCount": 18,
+          "title": "금융소비자보호/조남희 지음/연암사"
+        },
         {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271457429",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
@@ -1193,526 +596,6 @@
       ]
     },
     {
-      "title": "Calculated Risk",
-      "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
-      "siteUrl": "http://www.calculatedriskblog.com/",
-      "articles": [
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/FzwgVrrK4l8/schedule-for-week-of-may-16-2021.html",
-          "author": null,
-          "description": "The key reports this week are April Housing Starts and Existing Home Sales.\nFor manufacturing, the May NY and Philly Fed manufacturing surveys will be released.\n----- Monday, May 17th -----\n8:30 AM: The New York Fed Empire State manufacturing survey for May.  The consensus is for a reading of 23.9, down from 26.3.\n10:00 AM: The May NAHB homebuilder survey. The consensus is for a reading of 83 unchanged from 83 last month .  Any number above 50 indicates that more builders view sales conditions as good than …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/FzwgVrrK4l8/schedule-for-week-of-may-16-2021.html",
-          "publishedOn": "2021-05-15T12:11:00.046Z",
-          "wordCount": 1048,
-          "title": "Schedule for Week of May 16, 2021"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/v5qbbwNRg60/fannie-and-freddie-reo-inventory.html",
-          "author": null,
-          "description": "Fannie and Freddie earlier reported results two weeks ago for Q1 2021.  Here is some information on Real Estate Owned (REOs).&nbsp;\n\nNote that COVID is impacting foreclosure activity, from Freddie: \"The volume of foreclosures declined significantly, year-over-year, primarily due to the foreclosure moratorium that will remain in effect through June 30, 2021.\" emphasis added\n\n\nFreddie Mac reported the number of REO declined to 1,604 at the end of Q1 2021 compared to 4,168 at the end of Q1 2020.\nFor Freddie, t…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/v5qbbwNRg60/fannie-and-freddie-reo-inventory.html",
-          "publishedOn": "2021-05-14T21:19:00.002Z",
-          "wordCount": 974,
-          "title": "Fannie and Freddie: REO inventory declined in Q1, Down 58% Year-over-year"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/H6mT2tJ5hIw/may-14th-covid-19-new-cases.html",
-          "author": null,
-          "description": "Personal comment: At the recent pace of improvement, it is possible to achieve all 3 of my criteria before July 4th.&nbsp; &nbsp;Hopefully everyone is part of the solution and is getting vaccinated!\n\n\nAccording to the CDC, on Vaccinations.  Total administered: 268,438,666, as of yesterday: 266,596,486.  Day: 1.84 million.&nbsp; (U.S. Capacity is around 4 million per day)\n&nbsp; \n1) 59.1% of the population over 18 has had at least one dose (70% goal by July 4th).\n2) 120.3 million Americans are fully vaccinat…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/H6mT2tJ5hIw/may-14th-covid-19-new-cases.html",
-          "publishedOn": "2021-05-14T20:28:00.003Z",
-          "wordCount": 1065,
-          "title": "May 14th COVID-19 New Cases, Hospitalizations; 7-Day Average Cases Lowest Since June 25, 2020"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/gXe1i-X-NiI/la-area-port-traffic-strong-imports-in.html",
-          "author": null,
-          "description": "Note1: Import traffic was heavy in February and March - ships were backed up waiting to unload in LA. \"some vessels are spending almost as much time at anchor as it takes to traverse the Pacific Ocean.\"  They were still backed up in April!\nNote2: The expansion to the Panama Canal was completed in 2016 (As I noted a few years ago), and some of the traffic that used the ports of Los Angeles and Long Beach is probably going through the canal. This might be impacting TEUs on the West Coast.\nContainer traffic gi…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/gXe1i-X-NiI/la-area-port-traffic-strong-imports-in.html",
-          "publishedOn": "2021-05-14T17:33:00.001Z",
-          "wordCount": 1083,
-          "title": "LA Area Port Traffic: Strong Imports in April"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/CE18F3JW-qw/q2-gdp-forecasts-around-10.html",
-          "author": null,
-          "description": "From Merrill Lynch: \nWe look for growth of 10.0% qoq saar in 2Q. [May 14 estimate]\nemphasis added\nFrom Goldman Sachs: \nWe left our Q2 GDP tracking estimate unchanged at +10.5% (qoq ar). [May 14 estimate]\nFrom the NY Fed Nowcasting Report\nThe New York Fed Staff Nowcast stands at 4.9% for 2021:Q2. [May 14 estimate]\nAnd from the Altanta Fed: GDPNow\nThe GDPNow model estimate for real GDP growth (seasonally adjusted annual rate) in the second quarter of 2021 is 10.5 percent on May 14, down from 11.0 percent on M…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/CE18F3JW-qw/q2-gdp-forecasts-around-10.html",
-          "publishedOn": "2021-05-14T16:03:00.002Z",
-          "wordCount": 878,
-          "title": "Q2 GDP Forecasts: Around 10%"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/mDQRGbPPLGM/black-knight-number-of-homeowners-in_14.html",
-          "author": null,
-          "description": "Note: Both Black Knight and the MBA (Mortgage Bankers Association) are putting out weekly estimates of mortgages in forbearance.\nThis data is as of May 11th.\nFrom Black Knight: Forbearance Volumes Continue to Decline\nWe saw another week of good news in terms of forbearance volumes, which fell by 61,000 (-2.7%), continuing the strong trend of early-in-the-month improvements. Declines were seen across the board this week, with GSE forbearance volumes falling by 13K (-1.9%), FHA/VA plan volumes improving by 19…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/mDQRGbPPLGM/black-knight-number-of-homeowners-in_14.html",
-          "publishedOn": "2021-05-14T14:50:00.000Z",
-          "wordCount": 1016,
-          "title": "Black Knight: Number of Homeowners in COVID-19-Related Forbearance Plans Decreased"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/uVfQNSjb7Os/industrial-production-increased-07.html",
-          "author": null,
-          "description": "From the Fed: Industrial Production and Capacity Utilization\nTotal industrial production increased 0.7 percent in April. The indexes for mining and utilities increased 0.7 percent and 2.6 percent, respectively; the index for manufacturing rose 0.4 percent despite a drop in motor vehicle assemblies that principally resulted from shortages of semiconductors. An important contributor to the gain in factory output was the return to operation of plants that were damaged by February's severe weather in the south …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/uVfQNSjb7Os/industrial-production-increased-07.html",
-          "publishedOn": "2021-05-14T13:22:00.001Z",
-          "wordCount": 1056,
-          "title": "Industrial Production Increased 0.7 Percent in April"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/-6jWFt6gjCA/retail-sales-unchanged-in-april.html",
-          "author": null,
-          "description": "On a monthly basis, retail sales were unchanged from March to April (seasonally adjusted), and sales were up 51.2 percent from April 2020.\nFrom the Census Bureau report:\nAdvance estimates of U.S. retail and food services sales for April 2021, adjusted for seasonal variation and holiday and trading-day differences, but not for price changes, were $619.9 billion, virtually unchanged from the previous month, and 51.2 percent above April 2020. ... The February 2021 to March 2021 percent change was revised from …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/-6jWFt6gjCA/retail-sales-unchanged-in-april.html",
-          "publishedOn": "2021-05-14T12:43:00.001Z",
-          "wordCount": 966,
-          "title": "Retail Sales Unchanged in April"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Ids4zas7mw0/friday-retail-sales-industrial.html",
-          "author": null,
-          "description": "Friday:\n• At 8:30 AM ET, Retail sales for April is scheduled to be released. &nbsp;The consensus is for 1.0% increase in retail sales.\n• At 9:15 AM, The Fed will release Industrial Production and Capacity Utilization for April.  The consensus is for a 1.2% increase in Industrial Production, and for Capacity Utilization to increase to 75.2%.\n• At 10:00 AM, University of Michigan's Consumer sentiment index (Preliminary for May).",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Ids4zas7mw0/friday-retail-sales-industrial.html",
-          "publishedOn": "2021-05-14T01:00:00.001Z",
-          "wordCount": 853,
-          "title": "Friday: Retail Sales, Industrial Production"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/6zgnQDjF1TI/may-13th-covid-19-new-cases.html",
-          "author": null,
-          "description": "From the CDC: \n\"If you’ve been fully vaccinated: You can resume activities that you did prior to the pandemic.  You can resume activities without wearing a mask or staying 6 feet apart, except where required by federal, state, local, tribal, or territorial laws, rules, and regulations, including local business and workplace guidance.\"\nGet vaccinated!\n\nAccording to the CDC, on Vaccinations.  Total administered: 266,596,486, as of yesterday: 264,680,844.  Day: 1.92 million.&nbsp; (U.S. Capacity is around 4 mi…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/6zgnQDjF1TI/may-13th-covid-19-new-cases.html",
-          "publishedOn": "2021-05-13T21:27:00.001Z",
-          "wordCount": 1078,
-          "title": "May 13th COVID-19 New Cases, Hospitalizations"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/7m2zZGNqSeo/existing-home-inventory-might-have.html",
-          "author": null,
-          "description": "I'm gathering existing home data for many local markets, and I'm watching inventory very closely this year.\nAs I noted in Some thoughts on Housing Inventory \nThe key for housing in 2021 will be inventory. If inventory stays extremely low, there will be more housing starts and a larger increase in house prices. However, if inventory increases significantly, there will be fewer starts and less price appreciation.\nThe table below shows some early data for April.\nAlthough inventory in these areas is down about …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/7m2zZGNqSeo/existing-home-inventory-might-have.html",
-          "publishedOn": "2021-05-13T20:04:00.000Z",
-          "wordCount": 924,
-          "title": "Existing Home Inventory Might Have Bottomed"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/F2qzkgK5WwE/sacramento-real-estate-in-april-sales.html",
-          "author": null,
-          "description": "Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.&nbsp; Remember sales were weak in April 2020 due to the pandemic, so the YoY sales comparison is easy.&nbsp;\nFrom SacRealtor.org: County median sales price nears $490,000, sales volume up 19%\nApril ended with 1,540 sales, up 19.2% from the 1,292 sales in March. Compared to one year ago (1,013), the current figure is up 52%. \n...\nThe Active Listing Inventory increased 9.6% from Marc…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/F2qzkgK5WwE/sacramento-real-estate-in-april-sales.html",
-          "publishedOn": "2021-05-13T17:03:00.000Z",
-          "wordCount": 1043,
-          "title": "Sacramento Real Estate in April: Sales up 52% YoY, Active Inventory down 45% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/S9zuO8bOZmo/hotels-occupancy-rate-down-17-compared_13.html",
-          "author": null,
-          "description": "Note: The year-over-year occupancy comparisons are easy, since occupancy declined sharply at the onset of the pandemic.  However, occupancy is still down significantly from normal levels.\nThe occupancy rate is down 17% compared to the same week in 2019.\n\nFrom CoStar: STR: Increased Supply Leads to Lower US Hotel Occupancy in First Week of May\nDue to more supply in the marketplace, U.S. hotel occupancy fell slightly from the previous week, according to STR's latest data through May 8.\nMay 2-8, 2021:\n• Occupa…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/S9zuO8bOZmo/hotels-occupancy-rate-down-17-compared_13.html",
-          "publishedOn": "2021-05-13T14:51:00.000Z",
-          "wordCount": 1008,
-          "title": "Hotels: Occupancy Rate Down 17% Compared to Same Week in 2019"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/wt4bN_41rDA/maryland-real-estate-in-april-sales-up.html",
-          "author": null,
-          "description": "Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.&nbsp; Remember sales were weak in April 2020 due to the pandemic, so the YoY sales comparison is easy.&nbsp;\nFrom the Maryland Realtors for the entire state:\nClosed sales in April 2021 were 8,566, up 27.1% from 6,739 in April 2020.\nActive Listings in April 2021 were 7,167, down 61.4% from 18,563 in April 2020.\nInventory in April was up 15.6% from last month.\nMonths of Supply was 0.…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/wt4bN_41rDA/maryland-real-estate-in-april-sales-up.html",
-          "publishedOn": "2021-05-13T14:21:00.000Z",
-          "wordCount": 902,
-          "title": "Maryland Real Estate in April: Sales Up 27% YoY, Inventory Down 61% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/80KSG_mYDXQ/weekly-initial-unemployment-claims_13.html",
-          "author": null,
-          "description": "The DOL reported:\nIn the week ending May 8, the advance figure for seasonally adjusted initial claims was 473,000, a decrease of 34,000  from the previous week's revised level. This is the lowest level for initial claims since March 14, 2020 when it was  256,000. The previous week's level was revised up by 9,000 from 498,000 to 507,000. The 4-week moving average was  534,000, a decrease of 28,250 from the previous week's revised average. This is the lowest level for this average since  March 14, 2020 when i…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/80KSG_mYDXQ/weekly-initial-unemployment-claims_13.html",
-          "publishedOn": "2021-05-13T12:38:00.004Z",
-          "wordCount": 1038,
-          "title": "Weekly Initial Unemployment Claims decrease to 473,000"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/8cqiCRIPMY4/thursday-unemployment-claims-ppi.html",
-          "author": null,
-          "description": "Thursday:\n• At 8:30 AM ET, The initial weekly unemployment claims report will be released.&nbsp; The consensus is for a decrease to 480 thousand from 498 thousand last week.\n• Also at 8:30 AM, The Producer Price Index for April from the BLS.  The consensus is for a 0.3% increase in PPI, and a 0.4% increase in core PPI.",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/8cqiCRIPMY4/thursday-unemployment-claims-ppi.html",
-          "publishedOn": "2021-05-13T01:02:00.001Z",
-          "wordCount": 840,
-          "title": "Thursday: Unemployment Claims, PPI"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/w953_ryPGxs/may-12th-covid-19-new-cases.html",
-          "author": null,
-          "description": "According to the CDC, on Vaccinations.  Total administered: 264,680,844, as of yesterday: 263,132,561.  Day: 1.55 million.&nbsp; (U.S. Capacity is around 4 million per day)\n&nbsp; \n1) 58.7% of the population over 18 has had at least one dose (70% goal by July 4th).\n2) 116.4 million Americans are fully vaccinated (160 million goal)\nNote:&nbsp;I'll stop posting this daily once all three of these criteria are met:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) new cases are under…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/w953_ryPGxs/may-12th-covid-19-new-cases.html",
-          "publishedOn": "2021-05-12T20:00:00.003Z",
-          "wordCount": 1055,
-          "title": "May 12th COVID-19 New Cases, Hospitalizations; Vaccinations at 40% of Capacity"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ARsbefoas1c/colorado-real-estate-in-april-sales-up.html",
-          "author": null,
-          "description": "Note: Remember sales were weak in April 2020 due to the pandemic, so the YoY comparison is easy. I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.\nFrom the Colorado Association of REALTORS® for the entire state:\nClosed sales for Single Family and Townhouse-Condo in April 2021 were 11,022, up 40.5% from 7,843 in April 2020.\nActive Listings for Single Family and Townhouse-Condo in April 2021 were 7,872, down 65.9% from 23,106 in April 202…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ARsbefoas1c/colorado-real-estate-in-april-sales-up.html",
-          "publishedOn": "2021-05-12T18:29:00.000Z",
-          "wordCount": 913,
-          "title": "Colorado Real Estate in April: Sales Up 41% YoY, Inventory Down 66% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/l9ZMt0GX44k/houston-real-estate-in-april-sales-up.html",
-          "author": null,
-          "description": "From the HAR: Houston Real Estate Tears Through April at a Record Pace\nLow interest rates inspired consumers to snap up high-end homes in April at a pace never before seen, sending prices to new highs while keeping home inventory at historic lows. It must be noted that, as in March, some figures contained in this latest housing report are distorted because they compare to the same month last year when real estate was just beginning its recovery from coronavirus-related lockdown orders that halted most of th…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/l9ZMt0GX44k/houston-real-estate-in-april-sales-up.html",
-          "publishedOn": "2021-05-12T18:06:00.001Z",
-          "wordCount": 1088,
-          "title": "Houston Real Estate in April: Sales Up 58% YoY, Inventory Down 43% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/GL7ZQUl8hEw/ny-fed-q1-report-total-household-debt.html",
-          "author": null,
-          "description": "From the NY Fed: Credit Card Balances See Second Largest Quarterly Decline in Series’ History, Driven by Paydowns Among Borrowers and Constrained Consumption Opportunities\nThe Federal Reserve Bank of New York's Center for Microeconomic Data today issued its Quarterly Report on Household Debt and Credit. The report shows that total household debt increased by $85 billion (0.6%) to $14.64 trillion in the first quarter of 2021. The total debt balance is now $344 billion higher than the year prior. While mortga…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/GL7ZQUl8hEw/ny-fed-q1-report-total-household-debt.html",
-          "publishedOn": "2021-05-12T15:37:00.004Z",
-          "wordCount": 1446,
-          "title": "NY Fed Q1 Report: Total Household Debt Increased in Q1 2021, Mortgage Origination Credit Scores Edged Up"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/D48CFjDT1VE/cleveland-fed-key-measures-show.html",
-          "author": null,
-          "description": "The Cleveland Fed released the median CPI and the trimmed-mean CPI this morning:\nAccording to the Federal Reserve Bank of Cleveland, the median Consumer Price Index rose 0.2% April. The 16% trimmed-mean Consumer Price Index rose 0.4% in April. \"The median CPI and 16% trimmed-mean CPI are measures of core inflation calculated by the Federal Reserve Bank of Cleveland based on data released in the Bureau of Labor Statistics’ (BLS) monthly CPI report\".\nNote: The Cleveland Fed released the median CPI details for…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/D48CFjDT1VE/cleveland-fed-key-measures-show.html",
-          "publishedOn": "2021-05-12T15:17:00.002Z",
-          "wordCount": 994,
-          "title": "Cleveland Fed: Key Measures Show Inflation Increased in April"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/n1wXq-65Hak/south-carolina-real-estate-in-april.html",
-          "author": null,
-          "description": "Note: Remember sales were weak in April 2020 due to the pandemic, so the YoY comparison is easy.  I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.\nFrom the South Carolina Realtors for the entire state:\nClosed sales in April 2021 were 9,900, up 41.4% from 7,000 in April 2020.\nActive Listings in April 2021 were 12,019, down 55.5% from 27,024 in April 2020.\nInventory in April was down less than 1% from last month.\nMonths of Supply was 1.…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/n1wXq-65Hak/south-carolina-real-estate-in-april.html",
-          "publishedOn": "2021-05-12T13:48:00.001Z",
-          "wordCount": 906,
-          "title": "South Carolina Real Estate in April: Sales Up 41% YoY, Inventory Down 56% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZaGp8iB8Wr8/bls-cpi-increased-08-in-april-core-cpi.html",
-          "author": null,
-          "description": "From the BLS: \nThe Consumer Price Index for All Urban Consumers (CPI-U) increased 0.8 percent in April on a seasonally adjusted basis after rising 0.6 percent in March, the U.S. Bureau of Labor Statistics reported today. Over the last 12 months, the all items index increased 4.2 percent before seasonal adjustment. This is the largest 12-month increase since a 4.9-percent increase for the period ending September 2008.\n...\nThe index for all items less food and energy rose 0.9 percent in April, its largest mon…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZaGp8iB8Wr8/bls-cpi-increased-08-in-april-core-cpi.html",
-          "publishedOn": "2021-05-12T12:32:00.001Z",
-          "wordCount": 1030,
-          "title": "BLS: CPI increased 0.8% in April, Core CPI increased 0.9%"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/zd1_TaMPVOI/mba-mortgage-applications-increase-in.html",
-          "author": null,
-          "description": "From the MBA: Mortgage Applications Increase in Latest MBA Weekly Survey\nMortgage applications increased 2.1 percent from one week earlier, according to data from the Mortgage Bankers Association’s (MBA) Weekly Mortgage Applications Survey for the week ending May 7, 2021.\n... The Refinance Index increased 3 percent from the previous week and was 12 percent lower than the same week one year ago. The seasonally adjusted Purchase Index increased 1 percent from one week earlier. The unadjusted Purchase Index in…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/zd1_TaMPVOI/mba-mortgage-applications-increase-in.html",
-          "publishedOn": "2021-05-12T11:00:00.011Z",
-          "wordCount": 1181,
-          "title": "MBA: Mortgage Applications Increase in Latest Weekly Survey"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/8PBgh5pUr7s/portland-real-estate-in-april-sales-up.html",
-          "author": null,
-          "description": "Note: Remember sales were weak in April 2020 due to the pandemic. I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.\nFor Portland, OR:\nClosed sales in April 2021 were 2,946, up 46.2% from 2,015 in April 2020.\nActive Listings in April 2021 were 2,222, down 53.3% from 4,757 in April 2020.\nInventory in April was up 14.4% from last month.\nMonths of Supply was 0.8 Months in April 2021, compared to 2.4 Months in April 2020.",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/8PBgh5pUr7s/portland-real-estate-in-april-sales-up.html",
-          "publishedOn": "2021-05-12T01:54:00.000Z",
-          "wordCount": 890,
-          "title": "Portland Real Estate in April: Sales Up 46% YoY, Inventory Down 53% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Lvea-GjfKbM/wednesday-cpi-q1-quarterly-report-on.html",
-          "author": null,
-          "description": "Wednesday:\n• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.\n• At 8:30 AM, The Consumer Price Index for April from the BLS.  The consensus is for 0.2% increase in CPI, and a 0.3% increase in core CPI.\n• At 11:00 AM, NY Fed: Q1 Quarterly Report on Household Debt and Credit",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Lvea-GjfKbM/wednesday-cpi-q1-quarterly-report-on.html",
-          "publishedOn": "2021-05-12T01:00:00.001Z",
-          "wordCount": 858,
-          "title": "Wednesday: CPI, Q1 Quarterly Report on Household Debt and Credit"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/TgrjWCMVdMk/may-11th-covid-19-vaccinations-new.html",
-          "author": null,
-          "description": "President Biden has set two vaccinations goals to achieve by July 4th:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) 160 million Americans fully vaccinated.\nAccording to the CDC, on Vaccinations.  Total administered: 263,132,561, as of yesterday: 261,599,381.  Day: 1.53 million.&nbsp; (U.S. Capacity is around 4 million per day)\n&nbsp; \n1) 58.5% of the population over 18 has had at least one dose.\n2) 115.4 million Americans are fully vaccinated.\nNote:&nbsp;I'll stop posting th…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/TgrjWCMVdMk/may-11th-covid-19-vaccinations-new.html",
-          "publishedOn": "2021-05-11T19:58:00.000Z",
-          "wordCount": 1071,
-          "title": "May 11th COVID-19 Vaccinations, New Cases, Hospitalizations"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/sL_v4Ss0-XU/new-hampshire-real-estate-in-april.html",
-          "author": null,
-          "description": "Note: Remember sales were weak in April 2020 due to the pandemic.  I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.\nFrom the New Hampshire Realtors for the entire state:\n\nClosed sales Single family and Condos in April 2021 were 1,679, up 13.0% from 1,486 in April 2020.\n\n\nActive Listings Single family and Condos in April 2021 were 1,852, down 56.9% from 4,295 in April 2020.\nInventory in April was up 17.5% from last month.\n\nMonths of Sup…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/sL_v4Ss0-XU/new-hampshire-real-estate-in-april.html",
-          "publishedOn": "2021-05-11T17:18:00.002Z",
-          "wordCount": 909,
-          "title": "New Hampshire Real Estate in April: Sales Up 13% YoY, Inventory Down 57% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZHs-njglS3U/boston-real-estate-in-april-sales-up-35.html",
-          "author": null,
-          "description": "Note: Remember sales were weak in April 2020 due to the pandemic.&nbsp; I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.\nFor Boston (single family and condos):\n\nClosed sales in April 2021 were 2,226, up 34.5% from 1,655 in April 2020.\n\n\nActive Listings in April 2021 were 3,788, up 9.3% from 3,467 in April 2020.&nbsp;&nbsp;\n\n\nInventory in April was up 18.0% from last month.",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZHs-njglS3U/boston-real-estate-in-april-sales-up-35.html",
-          "publishedOn": "2021-05-11T16:26:00.000Z",
-          "wordCount": 876,
-          "title": "Boston Real Estate in April: Sales Up 35% YoY, Inventory Up 9% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/RjEDzhwTFUs/leading-index-for-commercial-real.html",
-          "author": null,
-          "description": "From Dodge Data Analytics: Dodge Momentum Index Increases In April\nThe Dodge Momentum Index posted an 8.6% gain in April, climbing to 162.4 (2000=100) from the revised reading of 149.5 in March. The Momentum Index, issued by Dodge Data &amp; Analytics, is a monthly measure of the first (or initial) report for nonresidential building projects in planning, which have been shown to lead construction spending for nonresidential buildings by a full year. April’s gain marks the fifth consecutive monthly increase,…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/RjEDzhwTFUs/leading-index-for-commercial-real.html",
-          "publishedOn": "2021-05-11T15:56:00.002Z",
-          "wordCount": 1051,
-          "title": "Leading Index for Commercial Real Estate Increased in April"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/xFYHsHL5bKQ/bls-job-openings-increased-to-record-81.html",
-          "author": null,
-          "description": "From the BLS: Job Openings and Labor Turnover Summary \nThe number of job openings reached a series high of 8.1 million on the last business day of March, the  U.S. Bureau of Labor Statistics reported today. Hires were little changed at 6.0 million. Total  separations were little changed at 5.3 million. Within separations, the quits rate was unchanged at 2.4  percent while the layoffs and discharges rate decreased to a series low of 1.0 percent. \nemphasis added\nThe following graph shows job openings (yellow …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/xFYHsHL5bKQ/bls-job-openings-increased-to-record-81.html",
-          "publishedOn": "2021-05-11T14:08:00.000Z",
-          "wordCount": 1085,
-          "title": "BLS: Job Openings Increased to Record 8.1 Million in March"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Ey7Zc1vNSZA/small-business-optimism-increased-in.html",
-          "author": null,
-          "description": "Most of this survey is noise, but sometimes there is some information.\nFrom the National Federation of Independent Business (NFIB): April 2021 Report\nThe NFIB Small Business Optimism Index rose to 99.8 in April, an increase of 1.6 points from March. The Optimism Index has increased 4.8 points over the past three months since January but a record 44% of owners reported job openings they could not be filled.\n...\nStrong job growth continued for small businesses in April. Firms increased employment by 0.31 work…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Ey7Zc1vNSZA/small-business-optimism-increased-in.html",
-          "publishedOn": "2021-05-11T12:34:00.000Z",
-          "wordCount": 918,
-          "title": "Small Business Optimism Increased in April"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/HFOd8vJUY2o/tuesday-job-openings.html",
-          "author": null,
-          "description": "From Matthew Graham at Mortgage News Daily: MBS RECAP: Heavy Issuance Weighs on Bonds\nWe knew bonds would be skittish about Treasury auctions this week, but the defensiveness began early owing to a big glut of corporate bond offerings ... The damage was minimal, all things considered, with MBS only losing an eighth of a point as of 4pm ET and 10yr yields up 2bps to 1.60%.  [30 year fixed 3.03%]\nemphasis added\nTuesday:\n• At 6:00 AM ET, NFIB Small Business Optimism Index for April.\n• At 10:00 AM, Job Openings…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/HFOd8vJUY2o/tuesday-job-openings.html",
-          "publishedOn": "2021-05-11T01:00:00.007Z",
-          "wordCount": 880,
-          "title": "Tuesday: Job Openings"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/nR9FCVgWDQk/may-10th-covid-19-vaccinations-new.html",
-          "author": null,
-          "description": "Progress!  Imagine if another 20% of the population was vaccinated.   We have the capacity to administer 4 million shots per day (about double the current rate).\nPresident Biden has set two vaccinations goals to achieve by July 4th:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) 160 million Americans fully vaccinated.\nAccording to the CDC, on Vaccinations.  Total administered: 261,599,381, as of yesterday: 259,716,989.  Day: 1.88 million.&nbsp; (U.S. Capacity is around 4 milli…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/nR9FCVgWDQk/may-10th-covid-19-vaccinations-new.html",
-          "publishedOn": "2021-05-10T20:08:00.000Z",
-          "wordCount": 1107,
-          "title": "May 10th COVID-19 Vaccinations, New Cases, Hospitalizations; Lowest Cases Since September"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/rpS4oqRzZyE/mba-survey-share-of-mortgage-loans-in_0783406785.html",
-          "author": null,
-          "description": "Note: This is as of May 2nd.\nFrom the MBA: Share of Mortgage Loans in Forbearance Decreases to 4.36%%\nThe Mortgage Bankers Association’s (MBA) latest Forbearance  and Call Volume Survey revealed that the total number of loans now in forbearance decreased by 11 basis points from 4.47% of servicers’ portfolio volume in the prior week to 4.36% as of May 2, 2021. According to MBA’s estimate, 2.2 million homeowners are in forbearance plans.\n  \nThe share of Fannie Mae and Freddie Mac loans in forbearance decrease…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/rpS4oqRzZyE/mba-survey-share-of-mortgage-loans-in_0783406785.html",
-          "publishedOn": "2021-05-10T20:00:00.018Z",
-          "wordCount": 1146,
-          "title": "MBA Survey: \"Share of Mortgage Loans in Forbearance Decreases to 4.36%\""
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZeAob69A-2A/atlanta-real-estate-in-april-sales-up.html",
-          "author": null,
-          "description": "Note: Remember, sales were weak in April last year, so the year-over-year comparison is especially strong this month.  I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.\nFrom the GAMLS&nbsp;for Atlanta:\nTotal Residential Units Sold in April 2021 were 8,925, up 31.9% from 6,766 in April 2020.\nActive Residential Listings in April 2021 were 6,964, down 64.6% from 19,697 in April 2020.  Inventory was down 6.1% from 7,418 last month.\nMonths …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZeAob69A-2A/atlanta-real-estate-in-april-sales-up.html",
-          "publishedOn": "2021-05-10T17:38:00.001Z",
-          "wordCount": 944,
-          "title": "Atlanta Real Estate in April: Sales Up 32% YoY, Inventory Down 65% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/VGZStIw4ghU/nmhc-rent-payment-tracker-shows.html",
-          "author": null,
-          "description": "From the NMHC: NMHC Rent Payment Tracker Finds 80.0 Percent of Apartment Households Paid Rent as of May 6\nThe National Multifamily Housing Council (NMHC)’s Rent Payment Tracker found 80.0 percent of apartment households made a full or partial rent payment by May 6 in its survey of 11.7 million units of professionally managed apartment units across the country.\n  \nThis is a 0.1 percentage point decrease from the share who paid rent through May 6, 2020 and compares to 81.7 percent that had been paid by May 6,…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/VGZStIw4ghU/nmhc-rent-payment-tracker-shows.html",
-          "publishedOn": "2021-05-10T16:09:00.000Z",
-          "wordCount": 1087,
-          "title": "NMHC: Rent Payment Tracker Shows Households Paying Rent Decreased Slightly YoY in Early May"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/VZFLBOBSN7o/housing-inventory-may-10th-update.html",
-          "author": null,
-          "description": "One of the key questions for 2021 is: Will inventory increase as the pandemic subsides, or will inventory decrease further in 2021?\nTracking inventory will be very important this year.\nClick on graph for larger image in graph gallery.\nThis inventory graph is courtesy of Altos Research.\n\nAs of May 7th, inventory was at 310 thousand (7 day average), compared to 732 thousand the same week a year ago.&nbsp; That is a decline of 57.6%.\n\n\nA week ago, inventory was at 307 thousand, and was down 58.4% YoY.&nbsp; Se…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/VZFLBOBSN7o/housing-inventory-may-10th-update.html",
-          "publishedOn": "2021-05-10T14:38:00.000Z",
-          "wordCount": 906,
-          "title": "Housing Inventory May 10th Update: Slight Increase Week-to-Week"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/QpZWvN4OD7U/seven-high-frequency-indicators-for_10.html",
-          "author": null,
-          "description": "These indicators are mostly for travel and entertainment.&nbsp; &nbsp; It will interesting to watch these sectors recover as the vaccine is distributed.&nbsp; &nbsp;\n\nIMPORTANT: Be safe now - if all goes well, everyone could be vaccinated by June.\n\n----- Airlines: Transportation Security Administration -----\nThe TSA is providing daily travel numbers.\n Click on graph for larger image.\nThis data shows the seven day average of daily total traveler throughput from the TSA for 2019 (Light Blue), 2020 (Blue) and …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/QpZWvN4OD7U/seven-high-frequency-indicators-for_10.html",
-          "publishedOn": "2021-05-10T12:27:00.001Z",
-          "wordCount": 1681,
-          "title": "Seven High Frequency Indicators for the Economy"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fAjShQkmOxo/sunday-night-futures.html",
-          "author": null,
-          "description": "Weekend:\n• Schedule for Week of May 9, 2021\n• Second Home Market: South Lake Tahoe in April\n• North Texas Real Estate in April: Sales Up 33% YoY, Inventory Down 65% YoY\nMonday:\n• No major economic releases scheduled.\nFrom CNBC: Pre-Market Data and Bloomberg futures S&amp;P 500 are up 4, and DOW futures are up 34 (fair value).\nOil prices were up over the last week with WTI futures at $65.41 per barrel and Brent at $68.88 per barrel.  A year ago, WTI was at $24, and Brent was at $25 - so WTI oil prices are UP…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fAjShQkmOxo/sunday-night-futures.html",
-          "publishedOn": "2021-05-09T23:45:00.001Z",
-          "wordCount": 927,
-          "title": "Sunday Night Futures"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/eIV0kzzL67Q/may-9th-covid-19-vaccinations-new-cases.html",
-          "author": null,
-          "description": "President Biden has set two vaccinations goals to achieve by July 4th:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) 160 million Americans fully vaccinated.\nAccording to the CDC, on Vaccinations.  Total administered: 259,716,989.  Yesterday: 257,347,205.  Daily: 2.37 million.\n&nbsp; \n1) 58.0% of the population over 18 has had at least one dose.\n2) 113.2 million Americans are fully vaccinated.\nNote:&nbsp;I'll stop posting this daily once all three of these criteria are met:\n1)…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/eIV0kzzL67Q/may-9th-covid-19-vaccinations-new-cases.html",
-          "publishedOn": "2021-05-09T19:50:00.002Z",
-          "wordCount": 1063,
-          "title": "May 9th COVID-19 Vaccinations, New Cases, Hospitalizations"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/gptRNF67z_s/second-home-market-south-lake-tahoe-in.html",
-          "author": null,
-          "description": "Two months ago, from Jann Swanson at MortgageNewsDaily:&nbsp;Fannie Warns Lenders on Investment Properties and 2nd Homes.  This action will result in higher interest rates on 2nd home and investment property mortgages.\nI'm looking at data for some second home markets - and will track those markets to see if there is an impact from the lending changes.\nThis graph is for South Lake Tahoe since 2004 through April 2021, and shows inventory (blue), and the year-over-year change in the median price (12 month aver…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/gptRNF67z_s/second-home-market-south-lake-tahoe-in.html",
-          "publishedOn": "2021-05-09T14:18:00.000Z",
-          "wordCount": 983,
-          "title": "Second Home Market: South Lake Tahoe in April"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/DtfCLmyXhzc/north-texas-real-estate-in-april-sales.html",
-          "author": null,
-          "description": "Note: Remember, sales were weak in April last year.  I'm posting data for many local markets around the U.S.   The story is the same everywhere ... inventory is very low.\nFrom the NTREIS&nbsp;for North Texas (including Dallas/Ft. Worth):\nSingle Family Homes sold in April 2021 were 10,152, up 28.3% from 7,913 in April 2020.&nbsp;\n\nCondos and Townhomes sold in April 2021 were 925, up 124.5% from 412 in April 2020.\nCombined, sales were up 33.1% year-over-year.\nSingle Family Active Listings in April 2021 were 6…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/DtfCLmyXhzc/north-texas-real-estate-in-april-sales.html",
-          "publishedOn": "2021-05-09T00:13:00.003Z",
-          "wordCount": 933,
-          "title": "North Texas Real Estate in April: Sales Up 33% YoY, Inventory Down 65% YoY"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/rTOlEPEQTI0/may-8th-covid-19-vaccinations-new-cases.html",
-          "author": null,
-          "description": "President Biden has set two vaccinations goals to achieve by July 4th:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) 160 million Americans fully vaccinated.\nAccording to the CDC, on Vaccinations.  Total administered: 257,347,205.\n1) 57.7% of the population over 18 has had at least one dose.\n2) 111.6 million Americans are fully vaccinated.\nNote:&nbsp;I'll stop posting this daily once all three of these criteria are met:\n1) 70% of the population over 18 has had at least one dos…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/rTOlEPEQTI0/may-8th-covid-19-vaccinations-new-cases.html",
-          "publishedOn": "2021-05-08T23:49:00.001Z",
-          "wordCount": 1072,
-          "title": "May 8th COVID-19 Vaccinations, New Cases, Hospitalizations; Lowest 7-Day Average Cases Since Sept 2020"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Hl5ggpeQ12Q/schedule-for-week-of-may-9-2021.html",
-          "author": null,
-          "description": "The key reports this week are April CPI and retail sales.\nFor manufacturing, the April Industrial Production report will be released on Friday.\n----- Monday, May 10th -----\nNo major economic releases scheduled.\n----- Tuesday, May 11th -----\n6:00 AM ET: NFIB Small Business Optimism Index for April.\n10:00 AM: Job Openings and Labor Turnover Survey for March from the BLS. \nThis graph shows job openings (yellow line), hires (purple), Layoff, Discharges and other (red column), and Quits (light blue column) from …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Hl5ggpeQ12Q/schedule-for-week-of-may-9-2021.html",
-          "publishedOn": "2021-05-08T12:11:00.051Z",
-          "wordCount": 1133,
-          "title": "Schedule for Week of May 9, 2021"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/LuOmvWlJwew/may-7th-covid-19-vaccinations-new-cases.html",
-          "author": null,
-          "description": "President Biden has set two vaccinations goals to achieve by July 4th:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) 160 million Americans fully vaccinated.\nAccording to the CDC, on Vaccinations\n1) 57.4% of the population over 18 has had at least one dose.\n2) 109.9 million Americans are fully vaccinated.\nNote:&nbsp;I'll stop posting this daily once all three of these criteria are met:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) new cases are …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/LuOmvWlJwew/may-7th-covid-19-vaccinations-new-cases.html",
-          "publishedOn": "2021-05-07T21:20:00.001Z",
-          "wordCount": 1054,
-          "title": "May 7th COVID-19 Vaccinations, New Cases, Hospitalizations"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/x5w2LJJIaKc/aar-april-rail-carloads-down-101.html",
-          "author": null,
-          "description": "From the Association of American Railroads (AAR) Rail Time Indicators.  Graphs and excerpts reprinted with permission. \nNumerous U.S. rail traffic categories have completely recovered the ground lost during the  pandemic or are very close to doing so.\n  \nFor example, April saw a new all-time record for U.S. intermodal shipments, driven by surging  international trade and strong consumer spending. The weekly average for intermodal for April was  293,488 containers and trailers, breaking the record of 293,305…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/x5w2LJJIaKc/aar-april-rail-carloads-down-101.html",
-          "publishedOn": "2021-05-07T19:17:00.000Z",
-          "wordCount": 1111,
-          "title": "AAR: April Rail Carloads down 10.1%, Intermodal Up 10.4% Compared to 2019"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/znXLCdGgoaU/black-knight-number-of-homeowners-in.html",
-          "author": null,
-          "description": "Note: Both Black Knight and the MBA (Mortgage Bankers Association) are putting out weekly estimates of mortgages in forbearance.\nThis data is as of May 4th.\nFrom Black Knight: Forbearance Volumes Fall by More Than 100K\nMay continued the strong trend of early forbearance improvements seen each month – the first week of the month saw volumes fall by 105,000 (-4.5%). Declines were seen across the board, with GSE forbearance volumes falling by 39,000 (-5.3%), FHA/VA plan volumes improving by 44,000 (-4.7%) and …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/znXLCdGgoaU/black-knight-number-of-homeowners-in.html",
-          "publishedOn": "2021-05-07T17:07:00.001Z",
-          "wordCount": 987,
-          "title": "Black Knight: Number of Homeowners in COVID-19-Related Forbearance Plans Decreased"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/YLnjf4hrCCA/mba-mortgage-delinquencies-decrease-in.html",
-          "author": null,
-          "description": "From the MBA: Mortgage Delinquencies Decrease in the First Quarter of 2021\nThe delinquency rate for mortgage loans on one-to-four-unit residential properties decreased to a seasonally adjusted rate of 6.38 percent of all loans outstanding at the end of the first quarter of 2021, according to the Mortgage Bankers Association's (MBA) National Delinquency Survey.\n  \nFor the purposes of the survey, MBA asks servicers to report loans in forbearance as delinquent if the payment was not made based on the original …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/YLnjf4hrCCA/mba-mortgage-delinquencies-decrease-in.html",
-          "publishedOn": "2021-05-07T15:13:00.001Z",
-          "wordCount": 1302,
-          "title": "MBA: \"Mortgage Delinquencies Decrease in the First Quarter of 2021\""
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/k1TRENMt7RU/comments-on-april-employment-report.html",
-          "author": null,
-          "description": "The headline jobs number in the April employment report was well below expectations, and employment for the previous two months was revised down.&nbsp;&nbsp;\n\nLeisure and hospitality gained 331 thousand jobs.&nbsp; In March and April of 2020, leisure and hospitality lost 8.2 million jobs, and are now down 2.85 million jobs since February 2020.&nbsp; So leisure and hospitality has now added back about 65% of the jobs lost in March and April 2020.\n\n\nConstruction employment was unchanged in April, and State an…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/k1TRENMt7RU/comments-on-april-employment-report.html",
-          "publishedOn": "2021-05-07T13:17:00.002Z",
-          "wordCount": 1340,
-          "title": "Comments on April Employment Report"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/QErVcQBRVbo/april-employment-report-266-thousand.html",
-          "author": null,
-          "description": "From the BLS: \nTotal nonfarm payroll employment rose by 266,000 in April, and the unemployment rate was little changed at 6.1 percent, the U.S. Bureau of Labor Statistics reported today. Notable job gains in leisure and hospitality, other services, and local government education were partially offset by employment declines in temporary help services and in couriers and messengers.\n...\nThe change in total nonfarm payroll employment for February was revised up by 68,000, from +468,000 to +536,000, and the cha…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/QErVcQBRVbo/april-employment-report-266-thousand.html",
-          "publishedOn": "2021-05-07T12:41:00.000Z",
-          "wordCount": 1110,
-          "title": "April Employment Report: 266 Thousand Jobs, 6.1% Unemployment Rate"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/x_I-z1O0KRQ/friday-employment-report.html",
-          "author": null,
-          "description": "My April Employment Preview\nGoldman April Payrolls Preview\nFriday:\n• At 8:30 AM ET, Employment Report for April. &nbsp; The consensus is for 978,000 jobs added, and for the unemployment rate to decrease to 5.7%.",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/x_I-z1O0KRQ/friday-employment-report.html",
-          "publishedOn": "2021-05-07T00:59:00.002Z",
-          "wordCount": 815,
-          "title": "Friday: Employment Report"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/l12ITaqz34g/may-6th-covid-19-vaccinations-new-cases.html",
-          "author": null,
-          "description": "President Biden has set two vaccinations goals to achieve by July 4th:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) 160 million Americans fully vaccinated.\nAccording to the CDC, on Vaccinations\n1) 57.0% of the population over 18 has had at least one dose.\n2) 108.1 million Americans are fully vaccinated.\nNote:&nbsp;I'll stop posting this daily once all three of these criteria are met:\n1) 70% of the population over 18 has had at least one dose of vaccine, and\n2) new cases are …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/l12ITaqz34g/may-6th-covid-19-vaccinations-new-cases.html",
-          "publishedOn": "2021-05-06T22:16:00.003Z",
-          "wordCount": 1054,
-          "title": "May 6th COVID-19 Vaccinations, New Cases, Hospitalizations"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/dh_eM1dqdr8/goldman-april-payrolls-preview.html",
-          "author": null,
-          "description": "A few brief excerpts from a note by Goldman Sachs economist Spencer Hill:\nWe estimate nonfarm payrolls rose 1,300k in April (mom sa) ... We estimate a five-tenths decline in the unemployment rate to 5.5%, reflecting rapid job gains partially offset by an expected rise in the participation rate.\nemphasis added\nCR Note: The consensus is for 978 thousand jobs added, and for the unemployment rate to decrease to 5.7%.",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/dh_eM1dqdr8/goldman-april-payrolls-preview.html",
-          "publishedOn": "2021-05-06T19:54:00.000Z",
-          "wordCount": 852,
-          "title": "Goldman April Payrolls Preview"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/CfVG7qIL6Dk/hotels-occupancy-rate-down-17-compared.html",
-          "author": null,
-          "description": "Note: The year-over-year occupancy comparisons are easy, since occupancy declined sharply at the onset of the pandemic.  However, occupancy is still down significantly from normal levels.\nThe occupancy rate is down 17% compared to the same week in 2019.\n\nFrom CoStar: STR: US Hotels End April With Positive Weekend Occupancy Streak\nU.S. hotel occupancy remained relatively flat compared with the previous week, according to STR‘s latest data through May 1.\nApril 25 through May 1, 2021:\n• Occupancy: 57.1%\n• Aver…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/CfVG7qIL6Dk/hotels-occupancy-rate-down-17-compared.html",
-          "publishedOn": "2021-05-06T17:07:00.000Z",
-          "wordCount": 1005,
-          "title": "Hotels: Occupancy Rate Down 17% Compared to Same Week in 2019"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/B8mjhv-Lv3k/april-employment-preview.html",
-          "author": null,
-          "description": "On Friday at 8:30 AM ET, the BLS will release the employment report for April.  The consensus is for 978 thousand jobs added, and for the unemployment rate to decrease to 5.7%.\nSome analysts think this will be a very strong report with maybe 1.5 to 2.1 million jobs added.\n• First, currently there are still about 8.4 million fewer jobs than in February 2020 (before the pandemic).\nThis graph shows the job losses from the start of the employment recession, in percentage terms.\nThe current employment recession …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/B8mjhv-Lv3k/april-employment-preview.html",
-          "publishedOn": "2021-05-06T16:31:00.000Z",
-          "wordCount": 1295,
-          "title": "April Employment Preview"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/HAP0fik_xEs/las-vegas-real-estate-in-april-sales-up.html",
-          "author": null,
-          "description": "This report is for closed sales in April; sales are counted at the close of escrow, so the contracts for these homes were mostly signed in February and March.\nThe Las Vegas Realtors reported Another month, another record for Southern Nevada home prices; LVR housing statistics for April 2021\n“These April statistics benefit from a comparison to the same month last year, when our housing market was hit hard by the beginning of this pandemic,” said 2021 LVR President Aldo Martinez. “It’s still striking to see h…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/HAP0fik_xEs/las-vegas-real-estate-in-april-sales-up.html",
-          "publishedOn": "2021-05-06T14:12:00.000Z",
-          "wordCount": 1230,
-          "title": "Las Vegas Real Estate in April: Sales up 89% YoY, Inventory down 70% YoY"
-        }
-      ]
-    },
-    {
       "title": "A Fine Theorem",
       "feedUrl": "https://afinetheorem.wordpress.com/feed/",
       "siteUrl": "https://afinetheorem.wordpress.com",
@@ -1725,6 +608,799 @@
           "publishedOn": "2021-04-20T19:55:24.000Z",
           "wordCount": 3382,
           "title": "Statistics for Strategic Scientists – A Clark for Isaiah Andrews"
+        }
+      ]
+    },
+    {
+      "title": "VOX, CEPR Policy Portal",
+      "feedUrl": "https://voxeu.org/rss.xml",
+      "siteUrl": "https://voxeu.org/",
+      "articles": [
+        {
+          "id": "https://voxeu.org/article/brexit-deterred-international-students-applying-uk-universities",
+          "author": "Catalina Amuedo-Dorantes, Agnese Romiti",
+          "description": "Attracting international students is critical for public universities in the UK increasingly facing funding cuts and a diminishing domestic youth population. This column discusses how Brexit may have affected students’ willingness to study in the UK and the factors likely driving the students’ choices. Brexit significantly lowered applications from EU students, especially for science, technology, engineering and mathematics subjects and for more selective institutions. International student enrolments also …",
+          "link": "https://voxeu.org/article/brexit-deterred-international-students-applying-uk-universities",
+          "publishedOn": "2021-05-15T00:00:00.000Z",
+          "wordCount": 2378,
+          "title": "Brexit deterred international students from applying to UK universities"
+        },
+        {
+          "id": "https://voxeu.org/article/government-effective-venture-capitalist",
+          "author": "Jessica Bai, Shai Bernstein, Abhishek Dev, Josh Lerner",
+          "description": "Government funding to boost innovation has seen an uplift since the unfolding of the COVID crisis. Using extensive global data, this column examines how government funding programmes focused on early-stage companies interact with private capital markets, and finds a positive relationship between government funding at this business stage and private capital allocation. Increased reliance on private capital markets enabled governments to mitigate investment frictions, improve capital allocation, and thereby i…",
+          "link": "https://voxeu.org/article/government-effective-venture-capitalist",
+          "publishedOn": "2021-05-14T00:00:00.000Z",
+          "wordCount": 2295,
+          "title": "The government as an (effective) venture capitalist"
+        },
+        {
+          "id": "https://voxeu.org/article/free-trade-agreements-do-not-always-ensure-free-trade",
+          "author": "Jan I. Haaland, Ian  Wooton",
+          "description": "The changes in the UK’s trading relationship with the EU are likely to have widespread effects, many of which are yet to be understood in full. This column introduces the issue of compliance with rules of origin requirements within free trade agreements. The authors argue that complying with these rules can present firms with additional production costs that would not have been present had the UK remained a part of the EU.",
+          "link": "https://voxeu.org/article/free-trade-agreements-do-not-always-ensure-free-trade",
+          "publishedOn": "2021-05-14T00:00:00.000Z",
+          "wordCount": 2176,
+          "title": "Free trade agreements do not always ensure free trade"
+        },
+        {
+          "id": "https://voxeu.org/article/gender-role-norms-and-mothers-labour-supply",
+          "author": "Danilo  Cavapozzi, Marco Francesconi, Cheti  Nicoletti",
+          "description": "Despite a significant reduction in gender differences in the labour market over the last 40 years, they are still present in most advanced economies and do not appear likely to vanish soon. This column analyses the impact of culture, defined by women’s gender role attitudes, on maternal labour market decisions. It finds that social pressure is at least as strong as social learning in influencing labour market behaviour. Once these channels are accounted for, there is no direct effect of peers’ gender identi…",
+          "link": "https://voxeu.org/article/gender-role-norms-and-mothers-labour-supply",
+          "publishedOn": "2021-05-13T00:00:00.000Z",
+          "wordCount": 2129,
+          "title": "Gender role norms and mothers' labour supply"
+        },
+        {
+          "id": "https://voxeu.org/article/cooperation-among-people-different-cognitive-skill-levels",
+          "author": "Eugenio Proto, Aldo Rustichini, Andis Sofianos",
+          "description": "A large part of social interaction occurs among very different individuals. Characteristics such as trust, altruism, and intelligence can have important effects on strategic behaviour. This column studies how interactions between groups with different cognitive skill levels affect cooperation. Using an indefinitely repeated Prisoner’s Dilemma game, it finds that integrating players with different abilities leads to higher cooperation rates and higher aggregate payoffs than when they play separately. This is…",
+          "link": "https://voxeu.org/article/cooperation-among-people-different-cognitive-skill-levels",
+          "publishedOn": "2021-05-13T00:00:00.000Z",
+          "wordCount": 2027,
+          "title": "Cooperation among people with different cognitive skill levels"
+        },
+        {
+          "id": "https://voxeu.org/article/central-banks-shifting-world-takeaways-ecb-s-sintra-forum",
+          "author": "Philipp Hartmann, Glenn Schepens",
+          "description": "The 2020 ECB Forum on Central Banking addressed some key issues from the ongoing monetary policy strategy review and embedded them in discussions of major structural changes in advanced economies and the post-COVID recovery. In this column, two of the organisers highlight some of the main points from the papers and debates, including whether globalisation is reversing, implications of climate change, options for formulating the ECB's inflation aim, challenges with informal monetary policy communication, rel…",
+          "link": "https://voxeu.org/article/central-banks-shifting-world-takeaways-ecb-s-sintra-forum",
+          "publishedOn": "2021-05-12T00:00:00.000Z",
+          "wordCount": 4187,
+          "title": "Central banks in a shifting world: Takeaways from the ECB’s Sintra Forum"
+        },
+        {
+          "id": "https://voxeu.org/article/social-and-economic-costs-covid-19",
+          "author": "Eduardo Levy Yeyati, Federico Filippini",
+          "description": "The long-term social and economic consequences of Covid-19 are uncertain. This column provides a preliminary assessment of the variation in costs across countries and regions, and suggests that developing economies will suffer the most lasting damage. The pandemic has exposed the differential capacity of governments to mitigate health and economic crises and to allocate scarce resources efficiently, while some labour market structures have inhibited government efforts to attenuate the pandemic’s impact – im…",
+          "link": "https://voxeu.org/article/social-and-economic-costs-covid-19",
+          "publishedOn": "2021-05-12T00:00:00.000Z",
+          "wordCount": 2167,
+          "title": "The social and economic costs of Covid-19"
+        },
+        {
+          "id": "https://voxeu.org/article/central-bank-communication-remember-who-s-talking",
+          "author": "In Do Hwang, Thomas Lustenberger, Enzo Rossi",
+          "description": "Central bank communication has become an important policy tool over the past 20 years. This column uses survey data to show that business executives tend to associate a greater volume of speeches from the central bank with the central bank having less of an impact on the economy. Importantly, this effect stems not from speeches given by governors, but by other board members.",
+          "link": "https://voxeu.org/article/central-bank-communication-remember-who-s-talking",
+          "publishedOn": "2021-05-12T00:00:00.000Z",
+          "wordCount": 2220,
+          "title": "Central bank communication: Remember who’s talking"
+        },
+        {
+          "id": "https://voxeu.org/content/gender-and-employment-during-covid-19-evidence-she-cessions",
+          "author": "Francesca  Caselli",
+          "description": "Francesca Caselli of the IMF talks to Tim Phillips about evidence for the extent and persistence of pandemic-induced she-cessions, drawing on quarterly data from 38 advanced and emerging market economies, which uncovers significant heterogeneity across countries. In two-thirds of the countries studied, women’s employment rates declined more than men’s, but the differences were short-lived – lasting only a quarter or two on average – and strongly correlated to specific sectors of the economy.",
+          "link": "https://voxeu.org/content/gender-and-employment-during-covid-19-evidence-she-cessions",
+          "publishedOn": "2021-05-11T00:00:00.000Z",
+          "wordCount": 557,
+          "title": "Gender and employment during COVID-19: The evidence for 'she-cessions'"
+        },
+        {
+          "id": "https://voxeu.org/article/independent-ireland-centennial-perspective",
+          "author": "Cormac Ó Gráda, Kevin O'Rourke",
+          "description": "Depending on the period, Ireland’s economy has served as a model to be followed or a sobering lesson in failure. This column reviews the performance of the Irish economy from a long-run perspective and suggests that contrary to the common discourse, Ireland’s growth trajectory since independence has been far from exceptional. Rather, it should be seen as volatile.",
+          "link": "https://voxeu.org/article/independent-ireland-centennial-perspective",
+          "publishedOn": "2021-05-11T00:00:00.000Z",
+          "wordCount": 2419,
+          "title": "Independent Ireland: A centennial perspective"
+        },
+        {
+          "id": "https://voxeu.org/article/special-issue-economic-policy-stereotypes-attitudes-and-discrimination",
+          "author": "Barbara Petrongolo, Ghazala Azmat, Roberto Galbiati, Tommaso Monacelli, Moritz Schularick",
+          "description": "Recent campaigns such as Black Lives Matter and #MeToo highlight the urgent need for a deeper understanding of persistent economic differences across different social groups. In an increasingly diverse society, insight into what underpins gaps along lines of race, ethnicity and gender, and the role of perceptions in driving conduct, is imperative. Similarly, the assessment of policies designed to tackle these issues is essential. With the aim of informing this discussion, the Managing Editors of Economic Po…",
+          "link": "https://voxeu.org/article/special-issue-economic-policy-stereotypes-attitudes-and-discrimination",
+          "publishedOn": "2021-05-10T00:00:00.000Z",
+          "wordCount": 1126,
+          "title": "Special Issue of Economic Policy on stereotypes, attitudes and discrimination"
+        },
+        {
+          "id": "https://voxeu.org/article/corruption-under-austerity",
+          "author": "Gianmarco Daniele, Tommaso Giommoni",
+          "description": "Austerity measures have been widely adopted around the world with mixed results in terms of public debt reduction and adverse political effects. This column examines the effect of fiscal austerity policies on corruption in Italian municipalities. The budget rules have led to a decrease in both recorded corruption rates and corruption charges per euro spent, without a clear effect on local public service provision. The drop in corruption emerges mostly in pre-electoral years for mayors eligible for reelectio…",
+          "link": "https://voxeu.org/article/corruption-under-austerity",
+          "publishedOn": "2021-05-10T00:00:00.000Z",
+          "wordCount": 2056,
+          "title": "Corruption under austerity"
+        },
+        {
+          "id": "https://voxeu.org/article/high-speed-rail-may-hurt-intermediate-places",
+          "author": "Hans Koster, Takatoshi Tabuchi, Jacques-François Thisse",
+          "description": "Modern transportation infrastructure can help foster cheaper travel and a better-connected economy. This column shows that improvements in transportation can affect the location choices of firms in ways that are often beneficial to large regions, but may be detrimental to small intermediate regions through job losses. Using data from Japan’s high speed rail network, the authors confirm that ‘in-between’ municipalities that are connected to the network witness a sizeable decrease in employment.",
+          "link": "https://voxeu.org/article/high-speed-rail-may-hurt-intermediate-places",
+          "publishedOn": "2021-05-09T00:00:00.000Z",
+          "wordCount": 1849,
+          "title": "High-speed rail may hurt intermediate places"
+        },
+        {
+          "id": "https://voxeu.org/article/opening-military-innovation",
+          "author": "Sabrina Howell, Jason Rathje, John Van Reenen, Jun Wong",
+          "description": "In recent decades, US defence R&D seems to have lost its lustre. To combat the declining innovation, in 2018 the US Air Force reformed its contracting procedures to allow applicants more freedom to suggest projects with potential military benefits. This column uses data on applications and winners from such competitions to assess the effects of the reform. It finds that the ‘open’ programme attracts new and younger firms, increases future venture capital investment, and increases patenting. Government R&D c…",
+          "link": "https://voxeu.org/article/opening-military-innovation",
+          "publishedOn": "2021-05-08T00:00:00.000Z",
+          "wordCount": 1878,
+          "title": "OPENing up military innovation"
+        },
+        {
+          "id": "https://voxeu.org/article/school-closures-did-not-contribute-spread-coronavirus-germany",
+          "author": "Clara von Bismarck-Osten, Kirill Borusyak, Uta Schӧnberg",
+          "description": "Deciding whether to close schools to contain the spread of Covid-19 requires balancing the harm such closures inflict on families against their effectiveness in stopping the spread of disease. This column provides evidence from Germany that school closures did not contain infections among young people or adults in the summer of 2020 – when infection rates were low – or during the pandemic’s autumn resurgence. Thus, the benefits of school closures may not outweigh their costs to children and parents, particu…",
+          "link": "https://voxeu.org/article/school-closures-did-not-contribute-spread-coronavirus-germany",
+          "publishedOn": "2021-05-08T00:00:00.000Z",
+          "wordCount": 1931,
+          "title": "School closures did not contain the spread of the coronavirus in Germany"
+        },
+        {
+          "id": "https://voxeu.org/vox-talks/parental-age-and-child-health",
+          "author": "Hans Hvide",
+          "description": "As more of us wait to have children, more of us also worry if that's best for the health of our babies. Empirical evidence has been inconclusive so far but, based on new evidence, Hans Hvide tells Tim Phillips that this might be a problem with the way the research has been done.",
+          "link": "https://voxeu.org/vox-talks/parental-age-and-child-health",
+          "publishedOn": "2021-05-07T00:00:00.000Z",
+          "wordCount": 506,
+          "title": "Parental age and child health"
+        },
+        {
+          "id": "https://voxeu.org/article/us-inflation-set-take",
+          "author": "Laurence Ball, Gita Gopinath, Daniel Leigh, Prachi Mishra, Antonio Spilimbergo",
+          "description": "How high is the ongoing US fiscal expansion likely to push inflation? This column presents new evidence that underlying (weighted median) CPI inflation has so far steadily declined since the start of the COVID-19 crisis, broadly as predicted by its historical Phillips curve relation. If the ongoing fiscal expansion reduces unemployment to 1.5-3.5%, as some predict, underlying inflation could rise to about 2.5-3% by 2023. If the fiscal expansion is temporary and monetary policy remains clearly communicated a…",
+          "link": "https://voxeu.org/article/us-inflation-set-take",
+          "publishedOn": "2021-05-07T00:00:00.000Z",
+          "wordCount": 2654,
+          "title": "US inflation: Set for take-off?"
+        },
+        {
+          "id": "https://voxeu.org/article/pricing-carbon-within-and-border-europe",
+          "author": "Christoph Schmidt, Marcel Fratzscher, Nicola Fuchs-Schündeln, Clemens Fuest, Christian  Gollier, Philippe Martin, Isabelle Mejean, Xavier Ragot, Katheline Schubert, Beatrice Weder di Mauro",
+          "description": "The EU has announced reaching carbon neutrality by 2050 as the key target of its Green Deal strategy. The best coordination signal in this endeavour would be a uniform and encompassing price on carbon. To ascertain that all goods consumed in the EU face the same carbon price, it would be sensible to credibly prepare the implementation of border carbon adjustments  applied to imported goods. This column argues, however, that the EU should refrain from exempting exports from carbon pricing, and should conside…",
+          "link": "https://voxeu.org/article/pricing-carbon-within-and-border-europe",
+          "publishedOn": "2021-05-06T00:00:00.000Z",
+          "wordCount": 3457,
+          "title": "Pricing of carbon within and at the border of Europe"
+        },
+        {
+          "id": "https://voxeu.org/article/modern-infectious-diseases-macroeconomic-impacts-and-policy-responses",
+          "author": "David Bloom, Michael Kuhn, Klaus Prettner",
+          "description": "In addition to the devastating human toll, the economic upheaval wrought by the COVID-19 pandemic illustrates the inextricable relationship between physical and economic health. This column presents an overview of the macroeconomic effects of the infectious disease epidemics of the 20th and early 21st centuries through the lens of recent COVID-19 research and explores the epidemic–economics nexus. It concludes that preventive policies, containment strategies, and early responses are more efficient, cost-eff…",
+          "link": "https://voxeu.org/article/modern-infectious-diseases-macroeconomic-impacts-and-policy-responses",
+          "publishedOn": "2021-05-06T00:00:00.000Z",
+          "wordCount": 2836,
+          "title": "Modern infectious diseases: Macroeconomic impacts and policy responses"
+        },
+        {
+          "id": "https://voxeu.org/article/janus-face-europe-s-new-social-rulebook",
+          "author": "László Andor, Robin Huguenot-Noël",
+          "description": "In the midst of a third wave of the Covid-19 pandemic affecting the European continent, the European Commission released the Social Pillar Action Plan, setting concrete targets on employment, skills, and poverty reduction to be reached by 2030. This new ‘social rulebook’ represents a welcome initiative from the EU to set itself long-term development goals. Yet setting new ambitions without the necessary means may risk backfiring. This column argues that to act as a game-changer, the Action Plan should place…",
+          "link": "https://voxeu.org/article/janus-face-europe-s-new-social-rulebook",
+          "publishedOn": "2021-05-05T00:00:00.000Z",
+          "wordCount": 2952,
+          "title": "The Janus' face of Europe’s new social rulebook"
+        }
+      ]
+    },
+    {
+      "title": "National Bureau of Economic Research Working Papers",
+      "feedUrl": "https://back.nber.org/rss/new.xml",
+      "siteUrl": "http://www.nber.org/new.html",
+      "articles": [
+        {
+          "id": "https://www.nber.org/papers/w28778#fromrss",
+          "author": null,
+          "description": "We open the black box of the M&A decision process by constructing a comprehensive sample of US firms with specialized M&A staff. We investigate whether specialized M&A staff improves acquisition performance or facilitates managerial empire building instead. We find that firms with specialized M&A staff make better acquisitions when acquisition performance is measured by stock price reactions to announcements, long-run stock returns, operating performance, divestitures, and analyst earnings forecasts. This e…",
+          "link": "https://www.nber.org/papers/w28778#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.926Z",
+          "wordCount": 826,
+          "title": "Do Firms with Specialized M&A Staff Make Better Acquisitions? -- by Sinan Gokkaya, Xi Liu, René M. Stulz"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28781#fromrss",
+          "author": null,
+          "description": "We define high cost lenders as lenders that issue a disproportionate number of high cost loans. We develop a shift-share measure to capture the market representation of these high cost lenders in housing submarkets. After conditioning on housing submarket fixed effects, origination year fixed effects and trends over origination years based on housing submarket attributes, the magnitude of the estimated relationship is very stable as detailed controls for borrower attributes, credit score and loan terms are …",
+          "link": "https://www.nber.org/papers/w28781#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.902Z",
+          "wordCount": 1028,
+          "title": "High Cost Lenders and the Geographic Concentration of Foreclosures -- by Stephen L. Ross, Yuan Wang"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28769#fromrss",
+          "author": null,
+          "description": "Previous research suggests creative ability peaks in the age decades of the 30s and early 40s, and declines thereafter, with some variation across fields. Building from the cognitive aging literature, we expect differences in the rate of creation and qualitative nature of creative works by age. Cognitive processes show aging-related changes with increases in experience-based knowledge (pragmatics or crystallized abilities) and decreases in the ability to process novel information quickly and efficiently (me…",
+          "link": "https://www.nber.org/papers/w28769#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.791Z",
+          "wordCount": 992,
+          "title": "Invention and the Life Course: Age Differences in Patenting -- by Mary Kaltenberg, Adam B. Jaffe, Margie E. Lachman"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28784#fromrss",
+          "author": null,
+          "description": "The poor live paycheck to paycheck and are repeatedly exposed to strong cyclical income fluctuations. We investigate whether such income fluctuations affect risk preference among the poor. If risk preference temporarily changes around payday, optimal decisions made before payday may no longer be optimal afterward, which could reinforce poverty. By exploiting Social Security payday cycles in the US, we find that risk preference among the poor relying heavily on Social Security changes around payday. Rather t…",
+          "link": "https://www.nber.org/papers/w28784#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.554Z",
+          "wordCount": 888,
+          "title": "Temporal Instability of Risk Preference among the Poor: Evidence from Payday Cycles -- by Mika Akesaka, Peter Eibich, Chie Hanaoka, Hitoshi Shigeoka"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28752#fromrss",
+          "author": null,
+          "description": "By age 77 a plurality of women in wealthy Western societies are widows. Comparing older (aged 70+) married women to widows in the American Time Use Survey 2003-18 and linking the data to the Current Population Survey allow inferring the short- and longer-term effects of an arguably exogenous shock—husband’s death—and measuring the paths of adjustment of time use to it. Widows differ from otherwise similar married women, especially from married women with working husbands, by cutting back on home production,…",
+          "link": "https://www.nber.org/papers/w28752#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.544Z",
+          "wordCount": 861,
+          "title": "Widows’ Time, Time Stress and Happiness: Adjusting to Loss -- by Daniel S. Hamermesh, Michał Myck, Monika Oczkowska"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28754#fromrss",
+          "author": null,
+          "description": "We provide a general non-parametric characterization of how welfare responds to changes in budget and production possibility sets when preferences are non-homothetic or subject to shocks, in both partial and general equilibrium. We generalize Hulten’s theorem, which is the basis for constructing aggregate quantities, to this context. We identify a new bias in measures of real consumption that depends on the covariance of price changes and expenditure changes due to income effects or preference shocks. We ap…",
+          "link": "https://www.nber.org/papers/w28754#fromrss",
+          "publishedOn": "2021-05-11T02:43:40.334Z",
+          "wordCount": 853,
+          "title": "Welfare and Output with Income Effects and Demand Instability -- by David Baqaee, Ariel Burstein"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28779#fromrss",
+          "author": null,
+          "description": "We study the welfare effects of offering choice over financial coverage levels––\"vertical choice''––in regulated health insurance markets. Though the efficient level of coverage, which trades off the value of risk protection and the social cost from moral hazard, likely varies across consumers, we emphasize that this variation alone is not sufficient to motivate choice. When premiums cannot reflect individual costs, consumers may not select their efficient coverage level. We show that vertical choice is eff…",
+          "link": "https://www.nber.org/papers/w28779#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.982Z",
+          "wordCount": 866,
+          "title": "Should There Be Vertical Choice in Health Insurance Markets? -- by Victoria R. Marone, Adrienne Sabety"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28783#fromrss",
+          "author": null,
+          "description": "In the absence of first-best climate policy, we demonstrate that existing government institutions and policy established for reasons unrelated to climate change may induce climate adaptation. We examine the impact of temperature on ambient ozone concentration in the United States from 1980-2013, and the role of institution-induced adaptation. Ozone is formed under warm temperatures, and regulated by the Clean Air Act institution. Adaptation in counties out of attainment with air quality standards is 107 per…",
+          "link": "https://www.nber.org/papers/w28783#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.972Z",
+          "wordCount": 838,
+          "title": "Time is of the Essence: Climate Adaptation Induced by Existing Institutions -- by Antonio Bento, Noah S. Miller, Mehreen Mookerjee, Edson R. Severnini"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28757#fromrss",
+          "author": null,
+          "description": "This paper studies the evolution of individual earnings inequality and dynamics in Canada from 1983 to 2016 using tax files and administrative records.  Linking these individuals to their employers (and rich administrative records on firms) beginning in 2001, it also documents the relationship between the earnings dynamics of workers and the size and growth of their employers.  It highlights three main patterns over this period:  First, with a few exceptions (sharp increase in top 1% and declining gender ga…",
+          "link": "https://www.nber.org/papers/w28757#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.925Z",
+          "wordCount": 854,
+          "title": "Four Decades of Canadian Earnings Inequality and Dynamics across Workers and Firms -- by Audra Bowlus, Émilien Gouin-Bonenfant, Huju Liu, Lance Lochner, Youngmin Park"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28775#fromrss",
+          "author": null,
+          "description": "We examine the extent to which the labor market facilitates the diffusion of tax planning knowledge across firms. Using a novel dataset of tax department employee movements between S&P 1500 firms, we find that firms experience an increase in their tax planning after hiring a tax employee from a tax aggressive firm. This finding is robust to various research designs and specifications. Consistent with tax planning knowledge driving this result, we find that the tax planning benefit of hiring an employee from…",
+          "link": "https://www.nber.org/papers/w28775#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.900Z",
+          "wordCount": 927,
+          "title": "Tax Planning Knowledge Diffusion via the Labor Market -- by John M. Barrios, John Gallemore"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28785#fromrss",
+          "author": null,
+          "description": "We exploit novel data from brain-training games to examine the impacts of air pollution on a comprehensive set of cognitive skills of adults. We find that exposure to particulate matter (PM2.5) impairs adult cognitive function, and that these effects are largest for those in prime working age. These results confirm a hypothesized mechanism for the impacts of air pollution on productivity. We also find that the cognitive effects are largest for new tasks and for those with low ability, suggesting that air po…",
+          "link": "https://www.nber.org/papers/w28785#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.851Z",
+          "wordCount": 757,
+          "title": "Air Pollution and Adult Cognition: Evidence from Brain Training -- by Andrea La Nauze, Edson R. Severnini"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28764#fromrss",
+          "author": null,
+          "description": "Regulatory debates about centralized trading assume security design is immune to market structure. We consider a regulator who introduces an exchange to increase liquidity, understanding that security design is endogenous. For a given security, investors would like to trade in a larger market and, for a given market structure, they would like to trade a safer security. We show that financial intermediaries design riskier securities after the exchange is introduced, even when the exchange leads to the origin…",
+          "link": "https://www.nber.org/papers/w28764#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.820Z",
+          "wordCount": 748,
+          "title": "Regulation and Security Design in Concentrated Markets -- by Ana Babus, Kinda Cheryl Hachem"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28776#fromrss",
+          "author": null,
+          "description": "The “debt-overhang hypothesis” – that households cut back more on their spending in a crisis when they have higher levels of outstanding mortgage debt (Dynan, 2012) – seems to be taken for granted by macroprudential authorities in several countries in their policy decisions, as well as by the international organizations that evaluate and comment on countries’ macroprudential policy. New results for Australian microdata are presented that reject the debt-overhang hypothesis. The results instead support the “…",
+          "link": "https://www.nber.org/papers/w28776#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.808Z",
+          "wordCount": 925,
+          "title": "Household Debt Overhang Did Hardly Cause a Larger Spending Fall during the Financial Crisis in Australia -- by Lars E.O. Svensson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28766#fromrss",
+          "author": null,
+          "description": "Large-scale increases in discrimination can lead to dismissals of highly qualified managers. We investigate how expulsions of senior Jewish managers, due to rising discrimination in Nazi Germany, affected large corporations. Firms that lost Jewish managers experienced persistent reductions in stock prices, dividends, and returns on assets. Aggregate market value fell by roughly 1.8 percent of German GNP because of the expulsions. Managers who served as key connectors to other firms and managers who were hig…",
+          "link": "https://www.nber.org/papers/w28766#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.785Z",
+          "wordCount": 874,
+          "title": "Discrimination, Managers, and Firm Performance: Evidence from “Aryanizations” in Nazi Germany -- by Kilian Huber, Volker Lindenthal, Fabian Waldinger"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28782#fromrss",
+          "author": null,
+          "description": "Children exposed to pollutants like lead are more disruptive and have lower achievement. However, little is known about whether lead-exposed children affect the long-run outcomes of their peers. We estimate these spillover effects using new data on preschool blood lead levels (BLLs) matched to education data for all students in North Carolina public schools. We compare siblings whose school-grade cohorts differ in the proportion of children with elevated BLLs, holding constant school and peers’ demographics…",
+          "link": "https://www.nber.org/papers/w28782#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.760Z",
+          "wordCount": 889,
+          "title": "The Long-Run Spillover Effects of Pollution: How Exposure to Lead Affects Everyone in the Classroom -- by Ludovica Gazze, Claudia Persico, Sandra Spirovska"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28771#fromrss",
+          "author": null,
+          "description": "In recessions, unemployment increases despite the—perhaps counterintuitive—fact that the number of unemployed workers finding jobs expands. We propose a theory of unemployment fluctuations resting on this countercyclicality of gross flows from unemployment into employment. In recessions, the abundance of new hires “congests” the jobs the unemployed fill—diminishing their marginal product and discouraging further job creation. Countercyclical congestion explains 30-40% of US unemployment fluctuations. Additi…",
+          "link": "https://www.nber.org/papers/w28771#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.744Z",
+          "wordCount": 845,
+          "title": "A Congestion Theory of Unemployment Fluctuations -- by Yusuf Mercan, Benjamin Schoefer, Petr Sedláček"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28756#fromrss",
+          "author": null,
+          "description": "We use admissions lotteries to estimate the effects of large-scale public preschool in Boston on college-going, college preparation, standardized test scores, and behavioral outcomes. Preschool enrollment boosts college attendance, as well as SAT test-taking and high school graduation. Preschool also decreases several disciplinary measures including juvenile incarceration, but has no detectable impact on state achievement test scores. An analysis of subgroups shows that effects on college enrollment, SAT-ta…",
+          "link": "https://www.nber.org/papers/w28756#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.721Z",
+          "wordCount": 787,
+          "title": "The Long-Term Effects of Universal Preschool in Boston -- by Guthrie Gray-Lobe, Parag A. Pathak, Christopher R. Walters"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28758#fromrss",
+          "author": null,
+          "description": "We show that the specific factors model can be used to derive a rigorous link between movements in stock prices and productivity, wages, employment, output, and welfare. We also prove that the commonly used measure of the effective rate of protection equals the dual measure of revenue TFP, providing a theoretical foundation for why many studies have found that trade liberalization significantly increases firm-level productivity. Our method enables us to trace a tariff announcement's effect on TFP through it…",
+          "link": "https://www.nber.org/papers/w28758#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.708Z",
+          "wordCount": 880,
+          "title": "Trade Protection, Stock-Market Returns, and Welfare -- by Mary Amiti, Sang Hoon Kong, David Weinstein"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28763#fromrss",
+          "author": null,
+          "description": "Gun buyback programs (GBPs), which use public funds to purchase civilians' privately-owned firearms, aim to reduce gun violence.  However, little is known about their effects on firearm-related crime or deaths. Using data from the National Incident Based Reporting System, we find no evidence that GBPs reduce gun crime. Given our estimated null findings, with 95 percent confidence, we can rule out decreases in firearm-related crime of greater than 1.3 percent during the year following a buyback.  Using data …",
+          "link": "https://www.nber.org/papers/w28763#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.684Z",
+          "wordCount": 797,
+          "title": "Have U.S. Gun Buyback Programs Misfired? -- by Toshio Ferrazares, Joseph J. Sabia, D. Mark Anderson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28753#fromrss",
+          "author": null,
+          "description": "This paper examines the effect of fall 2020 school reopenings in Texas on county-level COVID-19 cases and fatalities. Previous evidence suggests that schools can be reopened safely if community spread is low and public health guidelines are followed. However, in Texas, reopenings often occurred alongside high community spread and at near capacity, making it difficult to meet social distancing recommendations. Using event-study models and hand-collected instruction modality and start dates for all school dis…",
+          "link": "https://www.nber.org/papers/w28753#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.667Z",
+          "wordCount": 884,
+          "title": "School Reopenings, Mobility, and COVID-19 Spread: Evidence from Texas -- by Charles J. Courtemanche, Anh H. Le, Aaron Yelowitz, Ron Zimmer"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28770#fromrss",
+          "author": null,
+          "description": "We measure extensive-margin labor supply (employment) preferences in two representative surveys of the U.S. and German populations. We elicit reservation raises: the percent wage change that renders a given individual indifferent between employment and nonemployment. It is equal to her reservation wage divided by her actual, or potential, wage. The reservation raise distribution is the nonparametric aggregate labor supply curve. Locally, the curve exhibits large short-run elasticities above 3, consistent wi…",
+          "link": "https://www.nber.org/papers/w28770#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.653Z",
+          "wordCount": 964,
+          "title": "Reservation Raises: The Aggregate Labor Supply Curve at the Extensive Margin -- by Preston Mui, Benjamin Schoefer"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28755#fromrss",
+          "author": null,
+          "description": "Pharmaceutical innovation policy involves managing a tradeoff between high prices for new products in the short-term and stronger incentives to develop products for the future. Prior research has documented a causal relationship between market size and pharmaceutical research and development (R&D) activities. The existing literature, however, provides no evidence of how this relationship varies across markets. We investigate whether recent expansions in state Medicaid programs caused an increase in R&D. We …",
+          "link": "https://www.nber.org/papers/w28755#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.582Z",
+          "wordCount": 839,
+          "title": "Which Markets (Don't) Drive Pharmaceutical Innovation?  Evidence From U.S. Medicaid Expansions -- by Craig Garthwaite, Rebecca Sachs, Ariel Dora Stern"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28768#fromrss",
+          "author": null,
+          "description": "This paper overviews the data collection procedures and resulting data for inventor ages and associated death dates. We use information about inventors from patents (name and location) and search for age and date of death information from publicly available online web directories and build a scoring system to indicate the quality of information that we collect.  After applying a variety of heuristics and robustness checks, we are confident of 1,508,676 inventor ages associated with patents granted between 1…",
+          "link": "https://www.nber.org/papers/w28768#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.565Z",
+          "wordCount": 850,
+          "title": "The Age of Invention: Matching Inventor Ages to Patents Based on Web-scraped Sources -- by Mary Kaltenberg, Adam B. Jaffe, Margie Lachman"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28774#fromrss",
+          "author": null,
+          "description": "This essay is the introduction to a book of the same title, forthcoming in summer of 2021 from Oxford University Press.  The purpose is to document the ways in which patent systems are products of battles over the economic surplus from innovation.  The features of these systems take shape as interests at different points in the production chain seek advantage in any way they can, and consequently, they are riven with imperfections. The interesting historical question is why US-style patent systems with all …",
+          "link": "https://www.nber.org/papers/w28774#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.552Z",
+          "wordCount": 940,
+          "title": "The Battle Over Patents: History and the Politics of Innovation -- by Stephen H. Haber, Naomi R. Lamoreaux"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28750#fromrss",
+          "author": null,
+          "description": "This paper investigates whether education weakens the relationship between early-life disadvantages and later-life SES. We use three proxies for advantage that we show are independently associated with SES in middle-age. Besides early, favorable family and neighborhood conditions, we argue that the genes a child inherits also represent a source of advantages. Using a regression discontinuity design and data for over 110,000 individuals, we study a compulsory schooling reform in the UK that generated exogeno…",
+          "link": "https://www.nber.org/papers/w28750#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.493Z",
+          "wordCount": 952,
+          "title": "The Effect of Education on the Relationship between Genetics, Early-Life Disadvantages, and Later-Life SES -- by Silvia H. Barcellos, Leandro Carvalho, Patrick Turley"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28772#fromrss",
+          "author": null,
+          "description": "Why do cities differ so much in productivity? Using a split-sample IV strategy, we document that up to three quarters of the large measured dispersion in productivity across US cities is spurious and reflects the \"luck of the draw\" of idiosyncratically heterogeneous plants. Due to this granularity bias, economies with randomly reallocated plants exhibit nearly as high a variance as the empirical economy. For new plants, four fifths of the raw dispersion reflects granularity bias, and their productivity is o…",
+          "link": "https://www.nber.org/papers/w28772#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.449Z",
+          "wordCount": 880,
+          "title": "Productivity, Place, and Plants -- by Benjamin Schoefer, Oren Ziv"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28780#fromrss",
+          "author": null,
+          "description": "Despite growing interest in improving early-childhood education in developing countries, there is little evidence on cost-effective ways of doing so at scale. We use a large-scale randomized experiment to study the impact of adding an extra worker focused on pre-school education (for children aged 3-5) in the world’s largest public early-childhood program: India’s Integrated Child Development Services (ICDS). Adding a worker doubled net instructional time and led to 0.29 and 0.46 standard deviation increase…",
+          "link": "https://www.nber.org/papers/w28780#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.421Z",
+          "wordCount": 874,
+          "title": "Augmenting State Capacity for Child Development: Experimental Evidence from India -- by Alejandro J. Ganimian, Karthik Muralidharan, Christopher R. Walters"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28773#fromrss",
+          "author": null,
+          "description": "Immigrant founders of venture capital-backed companies have been critical to the entrepreneurial ecosystem. We document the channels through which immigrant founders find their way to the United States and how those channels have changed over time. Immigrants have been an important source of founders for venture capital-backed startups accounting for roughly 20% of all founders over the past 30 years. Immigrants coming to the United States for their education have been the primary source of founders with th…",
+          "link": "https://www.nber.org/papers/w28773#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.384Z",
+          "wordCount": 821,
+          "title": "Getting Schooled: The Role of Universities in Attracting Immigrant Entrepreneurs -- by Natee Amornsiripanitch, Paul A. Gompers, George Hu, Kaushik Vasudevan"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28767#fromrss",
+          "author": null,
+          "description": "The effects of large banks on the real economy are theoretically ambiguous and politically controversial. I identify quasi-exogenous increases in bank size in postwar Germany. I show that firms did not grow faster after their relationship banks became bigger. In fact, opaque borrowers grew more slowly. The enlarged banks did not increase profits or efficiency, but worked with riskier borrowers. Bank managers benefited through higher salaries and media attention. The paper presents newly digitized microdata …",
+          "link": "https://www.nber.org/papers/w28767#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.349Z",
+          "wordCount": 896,
+          "title": "Are Bigger Banks Better? Firm-Level Evidence from Germany -- by Kilian Huber"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28759#fromrss",
+          "author": null,
+          "description": "The racial and ethnic composition of home buyers varies across geographic locations. For example, Asians and Hispanics are much more likely to buy homes in California than Blacks and Blacks are more likely to buy homes in Georgia than other demographic groups. Home prices grow at different rates across geographic units such as counties or zip codes. Hedonic bundling inhibits buyers from purchasing shares of different homes and forming a spatially diversified housing portfolio.  Spatial variation in purchase…",
+          "link": "https://www.nber.org/papers/w28759#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.319Z",
+          "wordCount": 819,
+          "title": "Racial and Ethnic Differences in the Financial Returns to Home Purchases from 2007 to 2020 -- by Matthew E. Kahn"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28760#fromrss",
+          "author": null,
+          "description": "I use a model of private and public behavior to mitigate disease transmission during the COVID pandemic over the past year in the United States to address two questions: What dynamics of infections and deaths should we expect to see from a pandemic? What are our options for mitigating the impact of a pandemic on public health? I find that behavior turns what would be a short and extremely sharp epidemic into a long, drawn out one. Absent the development of a technological solution such as vaccines or life-s…",
+          "link": "https://www.nber.org/papers/w28760#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.301Z",
+          "wordCount": 800,
+          "title": "Behavior and the Dynamics of Epidemics -- by Andrew Atkeson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28761#fromrss",
+          "author": null,
+          "description": "We propose a general equilibrium economy with oligopolistic output markets in which two channels can cause a change in market power: (i) technology, via changes to productivity shocks and the cost of entry, (ii) market structure, via changes to the number of potential competitors. First, we disentangle these narratives by matching time-series on markups, labor reallocation and costs between 1980 and 2016, finding that both channels are necessary to account for the data. Second, we show that changes in techn…",
+          "link": "https://www.nber.org/papers/w28761#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.282Z",
+          "wordCount": 833,
+          "title": "Quantifying Market Power and Business Dynamism in the Macroeconomy -- by Jan De Loecker, Jan Eeckhout, Simon Mongey"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28762#fromrss",
+          "author": null,
+          "description": "Recent expansions of Medicaid eligibility have come with increased experimentation with enrollee cost-sharing. In this paper, we exploit a discontinuous premium increase at the federal poverty level in Michigan’s Medicaid expansion program to test low-income individuals’ sensitivity to premiums using linked enrollment and claims data. At the cutoff, average premiums increase by $3.15 and the probability of disenrollment increases by 2.3 percentage points. Increased disenrollment occurs among those with fewe…",
+          "link": "https://www.nber.org/papers/w28762#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.227Z",
+          "wordCount": 944,
+          "title": "Adverse Selection in Medicaid: Evidence from Discontinuous Program Rules -- by Betsy Q. Cliff, Sarah Miller, Jeffrey T. Kullgren, John Z. Ayanian, Richard Hirth"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28765#fromrss",
+          "author": null,
+          "description": "Inspired by the field experiment in Bertrand and Morse (2011), the state of Texas adopted an information disclosure for consumers taking out payday loans starting in January, 2012. The disclosure compares the cost of payday loans with other credit products, and presents their likelihood of renewal in easy-to-understand terms. Simultaneously, Austin and Dallas implemented stricter supply restrictions through city ordinances. We analyze both types of regulations, and find that the statewide disclosures led to…",
+          "link": "https://www.nber.org/papers/w28765#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.206Z",
+          "wordCount": 974,
+          "title": "The Effects of Disclosure and Enforcement on Payday Lending in Texas -- by Jialan Wang, Kathleen Burke"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28751#fromrss",
+          "author": null,
+          "description": "This paper investigates the role of private equity (PE) in failed bank resolutions after the 2008 financial crisis, using proprietary FDIC failed bank acquisition data. PE investors made substantial investments in underperforming and riskier failed banks, particularly in geographies where local banks were also distressed, filling the gap created by a weak, undercapitalized banking sector. Using a quasi-random empirical design based on detailed bidding information, we show PE-acquired banks performed better …",
+          "link": "https://www.nber.org/papers/w28751#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.163Z",
+          "wordCount": 914,
+          "title": "Private Equity and Financial Stability: Evidence from Failed Bank Resolution in the Crisis -- by Emily Johnston-Ross, Song Ma, Manju Puri"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28777#fromrss",
+          "author": null,
+          "description": "The covered interest rate parity (CIP) condition is a fundamental arbitrage relationship in international finance. In this chapter, we review its breakdown during the Global Financial Crisis and its continued failure in the subsequent decade. We review how to measure CIP deviations, discuss the drivers of CIP deviations, and the implications of CIP deviations for global financial markets.",
+          "link": "https://www.nber.org/papers/w28777#fromrss",
+          "publishedOn": "2021-05-11T02:43:39.125Z",
+          "wordCount": 736,
+          "title": "CIP Deviations, the Dollar, and Frictions in International Capital Markets -- by Wenxin Du, Jesse Schreger"
+        }
+      ]
+    },
+    {
+      "title": "AEA Research Highlights",
+      "feedUrl": "https://www.aeaweb.org/research/rss-feed",
+      "siteUrl": "https://www.aeaweb.org/research",
+      "articles": [
+        {
+          "id": "https://www.aeaweb.org/research/private-prisons-time-served-recidivism-mississippi",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Inmates sent to private prisons serve 90 extra days on average, according to a paper in the American Economic Journal: Economic Policy. We spoke author Anita Mukherjee about why that is and how private prison contracting could be reformed.",
+          "link": "https://www.aeaweb.org/research/private-prisons-time-served-recidivism-mississippi",
+          "publishedOn": "2021-05-12T15:00:00.000Z",
+          "wordCount": 1531,
+          "title": "American capitalism and incarceration"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/charts/state-education-spending-recession-impact",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "Recession-induced cuts to school spending had lasting ill-effects on test scores and college enrollment, especially in states where schools rely more heavily on state aid, according to a paper in the American Economic Journal: Economic Policy.",
+          "link": "https://www.aeaweb.org/research/charts/state-education-spending-recession-impact",
+          "publishedOn": "2021-05-10T15:00:00.000Z",
+          "wordCount": 465,
+          "title": "School spending matters"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/jerusalem-city-prices-supermarkets",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "Why do the poor pay more? A paper in the American Economic Journal: Economic Policy investigates how socioeconomic standing interacts with spatial frictions among supermarket shoppers in Jerusalem.",
+          "link": "https://www.aeaweb.org/research/jerusalem-city-prices-supermarkets",
+          "publishedOn": "2021-05-07T15:00:00.000Z",
+          "wordCount": 983,
+          "title": "Captive shoppers"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/charts/oil-supply-news-opec-announcements",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Production announcements from OPEC have a profound impact on oil prices and the US economy, even when current oil supplies don’t change, according to a paper in the American Economic Reviewg.",
+          "link": "https://www.aeaweb.org/research/charts/oil-supply-news-opec-announcements",
+          "publishedOn": "2021-05-05T15:00:00.000Z",
+          "wordCount": 543,
+          "title": "Decomposing news shocks"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/mortgage-refinances-debt-default-spending-harp",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Relaxing borrowing constraints on underwater homeowners was an important tool for relieving households after the Great Recession, according to a paper in the American Economic Journal: Macroeconomics. It may have made monetary policy more effective as well",
+          "link": "https://www.aeaweb.org/research/mortgage-refinances-debt-default-spending-harp",
+          "publishedOn": "2021-05-03T15:00:00.000Z",
+          "wordCount": 936,
+          "title": "The effectiveness of HARP"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/dean-yang-africa-green-revolution",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "The Green Revolution of the mid-20th century left sub-Saharan Africa behind. We spoke with Dean Yang about his paper in the American Economic Journal: Applied Economics that measured the potential effects from temporary subsidies to help farmers boost crop yields.",
+          "link": "https://www.aeaweb.org/research/dean-yang-africa-green-revolution",
+          "publishedOn": "2021-04-28T15:00:00.000Z",
+          "wordCount": 1749,
+          "title": "Creating Africa's own Green Revolution"
+        },
+        {
+          "id": "https://www.aeaweb.org/news/charts/lottery-wins-college-decisions",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "Winning the lottery boosts the odds that a family will send a child to college, but only if they win big, according to a  paper in the American Economic Review.",
+          "link": "https://www.aeaweb.org/news/charts/lottery-wins-college-decisions",
+          "publishedOn": "2021-04-26T15:00:00.000Z",
+          "wordCount": 558,
+          "title": "Money and matriculation"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/charts/intergenerational-spillovers-disability-insurance-netherlands",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "A paper in the American Economic Journal: Applied Economics found that kids in the Netherlands whose parents had their disability support reduced in the 1990s were less likely to use disability insurance as adults and completed more schooling.",
+          "link": "https://www.aeaweb.org/research/charts/intergenerational-spillovers-disability-insurance-netherlands",
+          "publishedOn": "2021-04-21T15:00:00.000Z",
+          "wordCount": 522,
+          "title": "Welfare reform and the next generation"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/afghanistan-cell-phone-election-fraud",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "Cell phone access empowered voters in Afghanistan to get more involved with poll monitoring and potentially deterred fraud, highlighting how communication infrastructure can help improve election oversight, according to a paper in the American Economic Journal: Applied Economics.",
+          "link": "https://www.aeaweb.org/research/afghanistan-cell-phone-election-fraud",
+          "publishedOn": "2021-04-19T15:00:00.000Z",
+          "wordCount": 1010,
+          "title": "Calling in election fraud"
+        }
+      ]
+    },
+    {
+      "title": "Wiley: Econometrica: Table of Contents",
+      "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss",
+      "siteUrl": "https://onlinelibrary.wiley.com/journal/14680262?af=R",
+      "articles": [
+        {
+          "id": "10.3982/ECTA893FM",
+          "author": "",
+          "description": "Econometrica, Volume 89, Issue 3, Page i-ii, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA893FM?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Frontmatter of Econometrica Vol. 89 Iss. 3"
+        },
+        {
+          "id": "10.3982/ECTA893FORTH",
+          "author": "",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1507-1507, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA893FORTH?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Forthcoming Papers"
+        },
+        {
+          "id": "10.3982/ECTA893BM",
+          "author": "",
+          "description": "Econometrica, Volume 89, Issue 3, Page iii-v, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA893BM?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Backmatter of Econometrica Vol. 89 Iss. 3"
+        },
+        {
+          "id": "10.3982/ECTA893PRES",
+          "author": "",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1509-1518, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA893PRES?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "The Econometric Society 2020 Annual Report of the President"
+        },
+        {
+          "id": "10.3982/ECTA18868",
+          "author": "José Azar, \nXavier Vives",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1061-1063, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18868?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Reply to: Comments on “General Equilibrium Oligopoly and Ownership Structure”"
+        },
+        {
+          "id": "10.3982/ECTA18810",
+          "author": "Jan Eeckhout",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1049-1053, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18810?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "A Comment on: “General Equilibrium Oligopoly and Ownership Structure” by José Azar and Xavier Vives"
+        },
+        {
+          "id": "10.3982/ECTA18862",
+          "author": "Thomas Philippon",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1055-1059, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18862?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "A Comment on: “General Equilibrium Oligopoly and Ownership Structure” by José Azar and Xavier Vives"
+        },
+        {
+          "id": "10.3982/ECTA12576",
+          "author": "Anton Badev",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1179-1206, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA12576?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Nash Equilibria on (Un)Stable Networks"
+        },
+        {
+          "id": "10.3982/ECTA16438",
+          "author": "Vadim Elenev, \nTim Landvoigt, \nStijn Van Nieuwerburgh",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1361-1418, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16438?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "A Macroeconomic Model With Financially Constrained Producers and Intermediaries"
+        },
+        {
+          "id": "10.3982/ECTA17906",
+          "author": "José Azar, \nXavier Vives",
+          "description": "Econometrica, Volume 89, Issue 3, Page 999-1048, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA17906?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "General Equilibrium Oligopoly and Ownership Structure"
+        },
+        {
+          "id": "10.3982/ECTA18508",
+          "author": "Drew Fudenberg, \nGiacomo Lanzani, \nPhilipp Strack",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1065-1098, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18508?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Limit Points of Endogenous Misspecified Learning"
+        },
+        {
+          "id": "10.3982/ECTA17969",
+          "author": "Matthew A. Masten, \nAlexandre Poirier",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1449-1469, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA17969?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Salvaging Falsified Instrumental Variable Models"
+        },
+        {
+          "id": "10.3982/ECTA16297",
+          "author": "Benjamin Brooks, \nSongzi Du",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1313-1360, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16297?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Optimal Auction Design With Common Values: An Informationally Robust Approach"
+        },
+        {
+          "id": "10.3982/ECTA15142",
+          "author": "Hengjie Ai, \nAnmol Bhandari",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1471-1505, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA15142?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Asset Pricing With Endogenously Uninsurable Tail Risk"
+        },
+        {
+          "id": "10.3982/ECTA16535",
+          "author": "Matteo Burzoni, \nFrank Riedel, \nH. Mete Soner",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1207-1234, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16535?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Viability and Arbitrage Under Knightian Uncertainty"
+        },
+        {
+          "id": "10.3982/ECTA17344",
+          "author": "Isaac Baley, \nAndrés Blanco",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1235-1264, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA17344?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Aggregate Dynamics in Lumpy Economies"
+        },
+        {
+          "id": "10.3982/ECTA17016",
+          "author": "Hector Chade, \nJeroen Swinkels",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1265-1311, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA17016?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Screening in Vertical Oligopolies"
+        },
+        {
+          "id": "10.3982/ECTA16274",
+          "author": "Bruce E. Hansen, \nSeojeong Lee",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1419-1447, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16274?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Inference for Iterated GMM Under Misspecification"
+        },
+        {
+          "id": "10.3982/ECTA14929",
+          "author": "Sebastian Di Tella, \nYuliy Sannikov",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1099-1139, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA14929?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Optimal Asset Management Contracts With Hidden Savings"
+        },
+        {
+          "id": "10.3982/ECTA16907",
+          "author": "Timothy B. Armstrong, \nMichal Kolesár",
+          "description": "Econometrica, Volume 89, Issue 3, Page 1141-1177, May 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16907?af=R",
+          "publishedOn": "2021-05-14T02:56:03.000Z",
+          "wordCount": null,
+          "title": "Finite‐Sample Optimal Estimation and Inference on Average Treatment Effects Under Unconfoundedness"
         }
       ]
     }
