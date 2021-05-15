@@ -1155,15 +1155,6 @@
           "publishedOn": "2021-04-16T08:01:00.000Z",
           "wordCount": 18,
           "title": "고성능 파이썬/미샤 고렐릭.이안 오스발트 지음, 오현석 옮김/한빛미디어"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=269630446",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "스프링 배치 완벽 가이드 2/e\n마이클 미넬라 지음, 서경석 외 옮김 / 에이콘출판 / 2021년 04월 / ISBN:9791161755168\n정가: 40,000원 / 판매가: 36,000원 / 마일리지: 172원\n이벤트: 수험서.외국어.컴퓨터.대학교재-오거나이저+스티커/텀블러/젤펜/펜 파우치\n\n\n\n\n스프링 배치의 \"Hello, World!\"부터 최근 플랫폼의 발전에 따른 클라우드 네이티브 기술을 활용한 배치까지 폭넓은 스프링 배치 활용 방법과 이와 관련된 유용한 내용을 다룬다. 또한 스프링 프레임워크 5와 스프링 부트 2를 기반으로 제공되는 배치 예제는 책의 내용을 쉽게 이해할 수 있도록 돕고, 미션 크리티컬한 기업용 배치 처리 개발에 활용할 수 있도록 다양한 시나리오 기반으로 작성돼 있어서 실제 프로젝트에 적용하기에도 매우 유용할 것이다. 배치 처리에 스프링 배치를 사용하는 것을 고려한다면 이 책을 통해서 더욱 쉽고 효율적으로 사용할 수 있을 것이다.\n\n1장. 배치와 스프링\r\n__배치 처리의 역사\r\n…",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=269630446",
-          "publishedOn": "2021-04-15T23:52:00.000Z",
-          "wordCount": 18,
-          "title": "스프링 배치 완벽 가이드 2/e/마이클 미넬라 지음, 서경석 외 옮김/에이콘출판"
         }
       ]
     },
@@ -1215,6 +1206,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/FzwgVrrK4l8/schedule-for-week-of-may-16-2021.html",
+          "author": null,
+          "description": "The key reports this week are April Housing Starts and Existing Home Sales.\nFor manufacturing, the May NY and Philly Fed manufacturing surveys will be released.\n----- Monday, May 17th -----\n8:30 AM: The New York Fed Empire State manufacturing survey for May.  The consensus is for a reading of 23.9, down from 26.3.\n10:00 AM: The May NAHB homebuilder survey. The consensus is for a reading of 83 unchanged from 83 last month .  Any number above 50 indicates that more builders view sales conditions as good than …",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/FzwgVrrK4l8/schedule-for-week-of-may-16-2021.html",
+          "publishedOn": "2021-05-15T12:11:00.046Z",
+          "wordCount": 1048,
+          "title": "Schedule for Week of May 16, 2021"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/v5qbbwNRg60/fannie-and-freddie-reo-inventory.html",
           "author": null,
@@ -1738,5 +1738,5 @@
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }
