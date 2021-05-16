@@ -1,31 +1,6 @@
 {
   "sources": [
     {
-      "title": "Microeconomic Insights",
-      "feedUrl": "https://microeconomicinsights.org/feed/",
-      "siteUrl": "https://microeconomicinsights.org",
-      "articles": [
-        {
-          "id": "https://microeconomicinsights.org/?p=2935",
-          "author": "Alex Catling",
-          "description": "The international response to the COVID-19 pandemic has emphasised working from home, especially for office workers tasked with the generation and processing of information. Compliance has generally been very high, with most companies not just encouraging, but mandating, their employees to work from home. This has led to an emptying of city centres and financial [&#8230;]\nThe post Face-to-Face Communication in Organizations appeared first on Microeconomic Insights.",
-          "link": "https://microeconomicinsights.org/face-to-face-communication-in-organizations/",
-          "publishedOn": "2021-05-04T09:16:27.000Z",
-          "wordCount": 3383,
-          "title": "Face-to-Face Communication in Organizations"
-        },
-        {
-          "id": "https://microeconomicinsights.org/?p=2922",
-          "author": "Alex Catling",
-          "description": "What roles do moral values play in election outcomes? What are the key moral frameworks that voters maintain? How do politicians appeal to these different moral frameworks? This article summarizes a recent research paper which examines these questions, by introducing a core aspect of modern moral psychology into the study of political economy. Universalist versus [&#8230;]\nThe post Moral Values and Voting appeared first on Microeconomic Insights.",
-          "link": "https://microeconomicinsights.org/moral-values-and-voting/",
-          "publishedOn": "2021-04-19T11:41:21.000Z",
-          "wordCount": 3177,
-          "title": "Moral Values and Voting"
-        }
-      ]
-    },
-    {
       "title": "분야별 신간 - 경제학/경제일반",
       "feedUrl": "http://www.aladin.co.kr/rss/new_all/3057",
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=3057&rssType=2&type=title",
@@ -1227,6 +1202,31 @@
       ]
     },
     {
+      "title": "Microeconomic Insights",
+      "feedUrl": "https://microeconomicinsights.org/feed/",
+      "siteUrl": "https://microeconomicinsights.org",
+      "articles": [
+        {
+          "id": "https://microeconomicinsights.org/?p=2935",
+          "author": "Alex Catling",
+          "description": "The international response to the COVID-19 pandemic has emphasised working from home, especially for office workers tasked with the generation and processing of information. Compliance has generally been very high, with most companies not just encouraging, but mandating, their employees to work from home. This has led to an emptying of city centres and financial [&#8230;]\nThe post Face-to-Face Communication in Organizations appeared first on Microeconomic Insights.",
+          "link": "https://microeconomicinsights.org/face-to-face-communication-in-organizations/",
+          "publishedOn": "2021-05-04T09:16:27.000Z",
+          "wordCount": 3383,
+          "title": "Face-to-Face Communication in Organizations"
+        },
+        {
+          "id": "https://microeconomicinsights.org/?p=2922",
+          "author": "Alex Catling",
+          "description": "What roles do moral values play in election outcomes? What are the key moral frameworks that voters maintain? How do politicians appeal to these different moral frameworks? This article summarizes a recent research paper which examines these questions, by introducing a core aspect of modern moral psychology into the study of political economy. Universalist versus [&#8230;]\nThe post Moral Values and Voting appeared first on Microeconomic Insights.",
+          "link": "https://microeconomicinsights.org/moral-values-and-voting/",
+          "publishedOn": "2021-04-19T11:41:21.000Z",
+          "wordCount": 3177,
+          "title": "Moral Values and Voting"
+        }
+      ]
+    },
+    {
       "title": "Wiley: Econometrica: Table of Contents",
       "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14680262?af=R",
@@ -1424,6 +1424,94 @@
       "feedUrl": "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom%20",
       "siteUrl": "https://www.annualreviews.org/loi/economics?ai=67b7&mi=3fndc3&af=A",
       "articles": []
+    },
+    {
+      "title": "The University of Chicago Press: Journal of Political Economy: Table of Contents",
+      "feedUrl": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe",
+      "siteUrl": "https://www.journals.uchicago.edu/loi/jpe?af=R",
+      "articles": [
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/714090?af=R",
+          "author": "Stefano Giglio",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/714090?af=R",
+          "publishedOn": "2021-05-10T03:50:14.000Z",
+          "wordCount": 127,
+          "title": "Asset Pricing with Omitted Factors"
+        },
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/713745?af=R",
+          "author": "Miltiadis Makris",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/713745?af=R",
+          "publishedOn": "2021-05-05T04:14:50.000Z",
+          "wordCount": 127,
+          "title": "Taxation under Learning by Doing"
+        },
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/713733?af=R",
+          "author": "E. Somanathan",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/713733?af=R",
+          "publishedOn": "2021-04-30T04:31:54.000Z",
+          "wordCount": 127,
+          "title": "The Impact of Temperature on Productivity and Labor Supply: Evidence from Indian Manufacturing"
+        },
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/713732?af=R",
+          "author": "Carlos Alós-Ferrer",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/713732?af=R",
+          "publishedOn": "2021-04-28T01:47:16.000Z",
+          "wordCount": 127,
+          "title": "Time Will Tell: Recovering Preferences When Choices Are Noisy"
+        },
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/714580?af=R",
+          "author": null,
+          "description": "Journal of Political Economy, Volume 129, Issue 5, Page 1666-1666, May 2021.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/714580?af=R",
+          "publishedOn": "2021-04-26T09:12:49.000Z",
+          "wordCount": 127,
+          "title": "JPE Turnaround Times, Previous Two Years"
+        },
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715047?af=R",
+          "author": null,
+          "description": "Journal of Political Economy, Volume 129, Issue 5, May 2021.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/715047?af=R",
+          "publishedOn": "2021-04-26T09:11:48.000Z",
+          "wordCount": 127,
+          "title": "Back Cover"
+        },
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715046?af=R",
+          "author": null,
+          "description": "Journal of Political Economy, Volume 129, Issue 5, May 2021.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/715046?af=R",
+          "publishedOn": "2021-04-26T09:11:47.000Z",
+          "wordCount": 127,
+          "title": "Front Matter"
+        },
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/713729?af=R",
+          "author": "Francisco Costa",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/713729?af=R",
+          "publishedOn": "2021-04-23T03:50:52.000Z",
+          "wordCount": 127,
+          "title": "Hysteresis and the Welfare Effect of Corrective Policies: Theory and Evidence from an Energy-Saving Program"
+        },
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/713731?af=R",
+          "author": "Mariassunta Giannetti",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/713731?af=R",
+          "publishedOn": "2021-04-23T03:50:42.000Z",
+          "wordCount": 127,
+          "title": "Cheap Trade Credit and Competition in Downstream Markets"
+        }
+      ]
     }
   ],
   "cliVersion": "1.7.0"
