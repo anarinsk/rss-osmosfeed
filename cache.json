@@ -617,6 +617,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/human-capital-working-time-flexibility-and-discrimination-gender-wage-gap",
+          "author": "Gabriele Ciminelli, Cyrille Schwellnus",
+          "description": "Despite progress in recent decades, women in Europe still earn roughly 15% less per hour than similarly qualified men. This column uses individual-level data to analyse the drivers of gender wage gaps and finds that in Northern and Western Europe the gap is largely a consequence of childbirth (a ‘glass ceiling’), while in Central and Eastern Europe it is due more to social norms, gender stereotyping, and discrimination (or ‘sticky floors’). Closing gender wage gaps will thus require policies tailored to the…",
+          "link": "https://voxeu.org/article/human-capital-working-time-flexibility-and-discrimination-gender-wage-gap",
+          "publishedOn": "2021-05-16T00:00:00.000Z",
+          "wordCount": 3071,
+          "title": "Human capital, working time flexibility and discrimination in the gender wage gap"
+        },
+        {
           "id": "https://voxeu.org/article/brexit-deterred-international-students-applying-uk-universities",
           "author": "Catalina Amuedo-Dorantes, Agnese Romiti",
           "description": "Attracting international students is critical for public universities in the UK increasingly facing funding cuts and a diminishing domestic youth population. This column discusses how Brexit may have affected students’ willingness to study in the UK and the factors likely driving the students’ choices. Brexit significantly lowered applications from EU students, especially for science, technology, engineering and mathematics subjects and for more selective institutions. International student enrolments also …",
@@ -1403,6 +1412,18 @@
           "title": "Finite‐Sample Optimal Estimation and Inference on Average Treatment Effects Under Unconfoundedness"
         }
       ]
+    },
+    {
+      "title": "The Quarterly Journal of Economics Current Issue",
+      "feedUrl": "https://academic.oup.com/rss/site_5504/3365.xml",
+      "siteUrl": "http://academic.oup.com/qje",
+      "articles": []
+    },
+    {
+      "title": "Annual Reviews: Annual Review of Economics: Table of Contents",
+      "feedUrl": "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom%20",
+      "siteUrl": "https://www.annualreviews.org/loi/economics?ai=67b7&mi=3fndc3&af=A",
+      "articles": []
     }
   ],
   "cliVersion": "1.7.0"
