@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-16T04:25:23.086Z</updated>
+    <updated>2021-05-16T20:14:24.496Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -2017,17 +2017,6 @@ CHAPTER 2 스레드에 관한 진실
 2.3 사례 연구…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6589</id>
-        <link href="https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/"/>
-        <updated>2021-04-16T20:59:42.000Z</updated>
-        <summary type="html"><![CDATA[Note: This blog post is co-authored by the awesome WSL dev Pierre Boulay. Thanks Pierre! 😊
-The post Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Craig Loewen</name>
         </author>
     </entry>
 </feed>
