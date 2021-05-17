@@ -466,6 +466,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/default-expectations-and-currency-movements",
+          "author": "Pasquale Della Corte, Lucio  Sarno, Maik Schmeling, Christian Wagner",
+          "description": "In fixed exchange rate systems, default risks tend to have devastating effects on currencies, usually leading to sharp devaluations. However, little is known about the relationship between default expectations and exchange rates in floating rate regimes. This column uses data from a broad set of currencies to uncover a strong link between exchange rate movements and sovereign risk across all exchange rate regimes. This relationship is largely caused by countries’ exposure to global sovereign risk factors an…",
+          "link": "https://voxeu.org/article/default-expectations-and-currency-movements",
+          "publishedOn": "2021-05-17T00:00:00.000Z",
+          "wordCount": 2417,
+          "title": "Default expectations and currency movements"
+        },
+        {
           "id": "https://voxeu.org/article/human-capital-working-time-flexibility-and-discrimination-gender-wage-gap",
           "author": "Gabriele Ciminelli, Cyrille Schwellnus",
           "description": "Despite progress in recent decades, women in Europe still earn roughly 15% less per hour than similarly qualified men. This column uses individual-level data to analyse the drivers of gender wage gaps and finds that in Northern and Western Europe the gap is largely a consequence of childbirth (a ‘glass ceiling’), while in Central and Eastern Europe it is due more to social norms, gender stereotyping, and discrimination (or ‘sticky floors’). Closing gender wage gaps will thus require policies tailored to the…",
@@ -562,6 +571,267 @@
       "feedUrl": "https://back.nber.org/rss/new.xml",
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
+        {
+          "id": "https://www.nber.org/papers/w28814#fromrss",
+          "author": null,
+          "description": "The downsides of density, including traffic congestion, contagious disease and crime, were common in Victorian London and classical Rome, just as they are today in Sao Paulo and Lagos. Our urban past provides lessons for developing world cities today. The first lesson, that I highlight, is that political power, not commerce, has long driven the growth of the world’s largest cities, and that fact remains true for many developing world mega-cities today.  The second lesson is that while market access fundamen…",
+          "link": "https://www.nber.org/papers/w28814#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.811Z",
+          "wordCount": 867,
+          "title": "What Can Developing Cities Today Learn From the Urban Past? -- by Edward L. Glaeser"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28816#fromrss",
+          "author": null,
+          "description": "This paper develops the first quantitative framework for analyzing distributional effects of incentive schemes in public education. The analysis is built around a hump-shaped effort function, estimated semi-parametrically using exogenous incentive variation and rich administrative data. We identify key primitives that rationalize this effort function by estimating a flexible teacher effort-choice model. Both the model and parameter estimates are necessary components in our counterfactual framework for traci…",
+          "link": "https://www.nber.org/papers/w28816#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.795Z",
+          "wordCount": 865,
+          "title": "A Quantitative Framework for Analyzing the Distributional Effects of Incentive Schemes -- by Hugh Macartney, Robert McMillan, Uros Petronijevic"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28804#fromrss",
+          "author": null,
+          "description": "During the first four months of 2021, the United States distributed approximately 250 million doses of COVID-19 vaccinations, which resulted in the complete vaccination of nearly 45 percent of the adult population.  In the midst of this mass vaccination effort, Texas became the first state to abolish its statewide mask mandate and fully lift capacity constraints for all businesses.  Governor Greg Abbott’s order was met with (i) concern by public health officials that an early reopening would lead to a resur…",
+          "link": "https://www.nber.org/papers/w28804#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.657Z",
+          "wordCount": 926,
+          "title": "Statewide Reopening During Mass Vaccination: Evidence on Mobility, Public Health and Economic Activity from Texas -- by Dhaval M. Dave, Joseph J. Sabia, Samuel Safford"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28815#fromrss",
+          "author": null,
+          "description": "The widespread and growing use of equity-based compensation has transformed high-skilled labor from a pure labor input to a class of \"human capitalists.\" We show that high-skilled labor earns substantial income in the form of equity claims to firms' future dividends and capital gains. Equity-based compensation has dramatically increased since the 1980s, representing forty percent of total compensation to high-skilled labor in recent years. Ignoring equity income causes incorrect measurement of the returns t…",
+          "link": "https://www.nber.org/papers/w28815#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.629Z",
+          "wordCount": 904,
+          "title": "Human Capitalists -- by Andrea L. Eisfeldt, Antonio Falato, Mindy Z. Xiaolan"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28811#fromrss",
+          "author": null,
+          "description": "Analyses of AI adoption focus on its adoption at the individual task level. What has received significantly less attention is how AI adoption is shaped by the fact that organisations are composed of many interacting tasks. AI adoption may, therefore, require system-wide change which is both a constraint and an opportunity. We provide the first formal analysis where multiple tasks may be part of a modular or non-modular system. We find that reliance on AI, a prediction tool, increases decision variation whic…",
+          "link": "https://www.nber.org/papers/w28811#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.615Z",
+          "wordCount": 826,
+          "title": "AI Adoption and System-Wide Change -- by Ajay K. Agrawal, Joshua S. Gans, Avi Goldfarb"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28810#fromrss",
+          "author": null,
+          "description": "Although the mobilization of savings is an important function of banks and other financial institutions, there is remarkably little evidence that bears on how and how well the financial sector mobilized household savings in the nineteenth and early twentieth century. This paper documents financial wealth accumulated by working-class Americans to see whether their behaviors followed the predictions of the life-cycle hypothesis. Hand-coded data from an Upstate New York savings bank matched to federal and stat…",
+          "link": "https://www.nber.org/papers/w28810#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.594Z",
+          "wordCount": 807,
+          "title": "Were Late-Nineteenth-Century, Small-Town Americans Life-Cycle Savers? -- by Howard Bodenhorn"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28806#fromrss",
+          "author": null,
+          "description": "The “debt-overhang hypothesis” – that households cut back more on their spending in a crisis when they have higher levels of outstanding mortgage debt (Dynan, 2012) – seems to be taken for granted by macroprudential authorities in several countries in their policy decisions, as well as by the international organizations that evaluate and comment on countries’ macroprudential policy. Results are presented for UK microdata that reject the debt-overhang hypothesis. The results instead support the “spending-nor…",
+          "link": "https://www.nber.org/papers/w28806#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.579Z",
+          "wordCount": 980,
+          "title": "Household Debt Overhang Did Hardly Cause a Larger Spending Fall during the Financial Crisis in the UK -- by Lars E.O. Svensson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28799#fromrss",
+          "author": null,
+          "description": "It is often argued that people might take on too much high-cost debt because they are present focused and/or overoptimistic about how soon they will repay. We measure borrowers' present focus and overoptimism using an experiment with a large payday lender. Although the most inexperienced quartile of borrowers underestimate their likelihood of future borrowing, the more experienced three quartiles predict correctly on average. This finding contrasts sharply with priors we elicited from 103 payday lending and…",
+          "link": "https://www.nber.org/papers/w28799#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.565Z",
+          "wordCount": 1007,
+          "title": "Are High-Interest Loans Predatory? Theory and Evidence from Payday Lending -- by Hunt Allcott, Joshua J. Kim, Dmitry Taubinsky, Jonathan Zinman"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28800#fromrss",
+          "author": null,
+          "description": "An AI analyst we build to digest corporate financial information, qualitative disclosure and macroeconomic indicators is able to beat the majority of human analysts in stock price forecasts and generate excess returns compared to following human analyst. In the contest of “man vs machine,” the relative advantage of the AI Analyst is stronger when the firm is complex, and when information is high-dimensional, transparent and voluminous. Human analysts remain competitive when critical information requires ins…",
+          "link": "https://www.nber.org/papers/w28800#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.554Z",
+          "wordCount": 822,
+          "title": "From Man vs. Machine to Man + Machine: The Art and AI of Stock Analyses -- by Sean Cao, Wei Jiang, Junbo L. Wang, Baozhong Yang"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28812#fromrss",
+          "author": null,
+          "description": "Immigrant distribution--the geographic dispersion of immigrants in the destination country--was a major issue in the United States in the late Age of Mass Migration. Policy debates were influenced by the widely held view that the new immigrants were generally less geographically mobile within the United States and specifically less likely to leave urban areas than were natives and earlier immigrants. I build new linked census datasets to investigate these claims by studying the rates of, selection into, and…",
+          "link": "https://www.nber.org/papers/w28812#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.511Z",
+          "wordCount": 906,
+          "title": "Immigrant Distribution in the United States during the Age of Mass Migration -- by Ariell Zimran"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28795#fromrss",
+          "author": null,
+          "description": "We analyze the quantitative labor market and aggregate effects of a carbon tax in a framework with pollution externalities and equilibrium unemployment. Our model incorporates endogenous labor force participation and two margins of adjustment influenced by carbon taxes: (1) firm creation and (2) green production-technology adoption.  A carbon-tax policy that reduces carbon emissions by 35 percent – roughly the emissions reductions that will be required under the Biden Administration's new commitment under t…",
+          "link": "https://www.nber.org/papers/w28795#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.483Z",
+          "wordCount": 851,
+          "title": "The Macroeconomic Effects of a Carbon Tax to Meet the U.S. Paris Agreement Target: The Role of Firm Creation and Technology Adoption -- by Alan Finkelstein Shapiro, Gilbert E. Metcalf"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28809#fromrss",
+          "author": null,
+          "description": "Using a randomized field experiment, we show that health care specialists cream-skim patients by their expected profitability. In the German two-tier system, outpatient reimbursement rates for both public and private insurance are centrally determined but are significantly higher for the privately insured. In our field experiment, following a standardized protocol, the same hypothetical patient called 991 private practices in 36 German counties to schedule appointments for allergy tests, hearing tests and g…",
+          "link": "https://www.nber.org/papers/w28809#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.468Z",
+          "wordCount": 1049,
+          "title": "Cream Skimming by Health Care Providers and Inequality in Health Care Access: Evidence from a Randomized Field Experiment -- by Anna Werbeck, Ansgar  Wübker, Nicolas R. Ziebarth"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28807#fromrss",
+          "author": null,
+          "description": "A distinct feature of MNCs is a three-tier organizational structure: foreign managers (FMs) supervise domestic managers (DMs) who supervise production workers. Language barriers between FMs and DMs could impede transfers of management knowledge. We develop a model in which DMs learn general management by communicating with FMs, but communication effort is non-contractible. These conditions generate sub-optimal communication within the MNC. If communication is complementary with language skills, the planner …",
+          "link": "https://www.nber.org/papers/w28807#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.443Z",
+          "wordCount": 1001,
+          "title": "Language Barriers in Multinationals and Knowledge Transfers -- by Louise Guillouet, Amit Khandelwal, Rocco Macchiavello, Matthieu Teachout"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28791#fromrss",
+          "author": null,
+          "description": "According to the World Health Organization, obesity is one of the greatest public-health challenges of the 21st century. Body weight is also known to affect individuals’ self-esteem and interpersonal relationships, including romantic ones. We estimate “utility-maximizing” Body Mass Index (BMI) and calculate the implied monetary value of changes in both individual and spousal BMI, using the compensating income variation method and data from the Swiss Household Panel. Two-stage least squares models are estima…",
+          "link": "https://www.nber.org/papers/w28791#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.428Z",
+          "wordCount": 902,
+          "title": "The Value of a Slender Spouse: Couples Agree that Keeping the Wife Svelte is more Valuable than Keeping the Husband Fit -- by Kristjana Baldursdottir, Paul McNamee, Edward C. Norton, Tinna Laufey Asgeirsdóttir"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28796#fromrss",
+          "author": null,
+          "description": "Estimates of loss aversion in housing sales prices may be biased because expected losses correlate with housing and borrower unobservables. We provide new evidence of loss aversion in sales price by differencing loss aversion estimates between sellers who exhibit focal point bias in their initial mortgage amount and those who do not. Although focal point bias and loss aversion are associated with different families of behaviors, recent evidence suggests links between these biases. Revisiting experimental da…",
+          "link": "https://www.nber.org/papers/w28796#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.416Z",
+          "wordCount": 862,
+          "title": "Loss Aversion in Housing Sales Prices: Evidence from Focal Point Bias -- by Stephen L. Ross, Tingyu Zhou"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28798#fromrss",
+          "author": null,
+          "description": "We study how ownership structure, in particular public listing status, affects workplace safety and productivity tradeoffs. Theory offers competing hypotheses on how listing related frictions affect these tradeoffs. We exploit detailed asset-level data in the U.S. coal industry and find that workplace safety deteriorates dramatically under public firm ownership, primarily in mines that experience the largest productivity increases. We find evidence consistent with information asymmetry between managers and …",
+          "link": "https://www.nber.org/papers/w28798#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.388Z",
+          "wordCount": 810,
+          "title": "Is Public Equity Deadly? Evidence from Workplace Safety and Productivity Tradeoffs in the Coal Industry -- by Erik P. Gilje, Michael D. Wittry"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28801#fromrss",
+          "author": null,
+          "description": "Unlike random sampling, selective sampling draws units based on the outcome values, such as over-sampling rare events in choice outcomes and extreme activities on continuous and count outcomes. Despite high cost effectiveness for marketing research, such endogenously selected samples must be carefully analyzed to avoid selection bias. We introduce a unified and efficient approach based on semiparametric odds ratio (SOR) models applicable for categorical, continuous and count response data collected using se…",
+          "link": "https://www.nber.org/papers/w28801#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.373Z",
+          "wordCount": 910,
+          "title": "Simplifying Bias Correction for Selective Sampling: A Unified Distribution-Free Approach to Handling Endogenously Selected Samples -- by Yi Qian, Hui Xie"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28790#fromrss",
+          "author": null,
+          "description": "We examine the effect of attending stand-alone technical high schools on student short- and long-term outcomes using a regression discontinuity design. Male students are 10 percentage points more likely to graduate from high school and have half a semester less time enrolled in college, although effects on college fade-out. Male students have 32% higher quarterly earnings. Earnings effects may in part reflect general skills: male students have higher attendance rates and test scores, and industry fixed effe…",
+          "link": "https://www.nber.org/papers/w28790#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.360Z",
+          "wordCount": 1125,
+          "title": "The Effects of Career and Technical Education: Evidence from the Connecticut Technical High School System -- by Eric Brunner, Shaun Dougherty, Stephen L. Ross"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28805#fromrss",
+          "author": null,
+          "description": "Compared to the federal government, the average citizen in the U.S. has far greater interaction with city governments, including policing, health services, zoning laws, utilities, schooling, and transportation.  At the regional level, it is city governments that provide the infrastructure and services that facilitate agglomeration economies in urban areas.  However, there is relatively little empirical evidence on the operations of city governments as economic entities.  To overcome deficiencies in traditio…",
+          "link": "https://www.nber.org/papers/w28805#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.332Z",
+          "wordCount": 857,
+          "title": "The Business of City Hall -- by Kenneth R. Ahern"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28803#fromrss",
+          "author": null,
+          "description": "An emerging literature documents the many challenges faced by college students during the COVID-19 pandemic. Little is known, however, about how students responded to the adversity. Focusing on two large Canadian universities, we provide some of the first evidence on the coping strategies students reported and the relationships between their endorsement of specific coping strategies and their subsequent well-being. Students focused on compensating for a lack of structure by creating new routines, maintainin…",
+          "link": "https://www.nber.org/papers/w28803#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.320Z",
+          "wordCount": 849,
+          "title": "Experiences and Coping Strategies of College Students During the COVID-19 Pandemic -- by Christine Logel, Philip Oreopoulos, Uros Petronijevic"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28786#fromrss",
+          "author": null,
+          "description": "The relationship between history and economics as academic disciplines is methodologically subtle and sociologically contested. If the Cliometric revolution can be characterized as an acquisition of economics by history, the most recent trends in Historical Economics appear to turn this relationship on its head. In this Introduction we read the chapters of the Handbook as a forceful argument in favor of a merger between the two disciplines rather than the acquisition of one by the other; a merger which comb…",
+          "link": "https://www.nber.org/papers/w28786#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.296Z",
+          "wordCount": 731,
+          "title": "Merger or Acquisition? Introduction to the Handbook of Historical Economics -- by Alberto Bisin, Giovanni Federico"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28789#fromrss",
+          "author": null,
+          "description": "African-American motorists may adjust their driving in response to increased scrutiny by police. In daylight, when their race is more easily observable, minority motorists are the only group less likely to have fatal motor vehicle accidents. In Massachusetts and Tennessee, we find that African-Americans are the only group of stopped motorists with slower speeds in daylight. Consistent with an illustrative model, these speed shifts are concentrated at higher percentiles of the distribution. Calibration of th…",
+          "link": "https://www.nber.org/papers/w28789#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.284Z",
+          "wordCount": 952,
+          "title": "Endogenous Driving Behavior in Tests of Racial Profiling -- by Jesse Kalinowski, Matthew B. Ross, Stephen L. Ross"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28802#fromrss",
+          "author": null,
+          "description": "Do recessions speed up or impede productivity-enhancing reallocation? To investigate this question, we use U.S. linked employer-employee data to examine how worker flows contribute to productivity growth over the business cycle. We find that in expansions high-productivity firms grow faster primarily by hiring workers away from lower-productivity firms. The rate at which job-to-job flows move workers up the productivity ladder is highly procyclical. Productivity growth slows during recessions when this job …",
+          "link": "https://www.nber.org/papers/w28802#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.268Z",
+          "wordCount": 899,
+          "title": "Cyclical Worker Flows: Cleansing vs. Sullying -- by John C. Haltiwanger, Henry R. Hyatt, Erika McEntarfer, Matthew Staiger"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28788#fromrss",
+          "author": null,
+          "description": "This paper estimates the cross-sectional distribution of Epstein-Zin preference parameters in a large administrative panel of Swedish households. We consider life-cycle model of saving and portfolio choice that incorporates risky labor income, safe and risky financial assets inside and outside retirement accounts, and real estate. We study middle-aged stock-owning households grouped by education, industry of employment, and birth cohort as well as by their accumulated wealth and risky portfolio shares. We f…",
+          "link": "https://www.nber.org/papers/w28788#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.239Z",
+          "wordCount": 944,
+          "title": "The Cross-Section of Household Preferences -- by Laurent E. Calvet, John Y. Campbell, Francisco Gomes, Paolo Sodini"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28792#fromrss",
+          "author": null,
+          "description": "We develop a general equilibrium model of frictional labor reallocation across firms and regions, and use it to quantify the aggregate and distributional effects of spatial frictions that hinder worker mobility across regions in Germany. The model leverages matched employer-employee data to unpack spatial frictions into different types while isolating them from labor market frictions that operate also within region. The estimated model shows sizable spatial frictions between East and West Germany, especiall…",
+          "link": "https://www.nber.org/papers/w28792#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.225Z",
+          "wordCount": 962,
+          "title": "The Aggregate and Distributional Effects of Spatial Frictions -- by Sebastian Heise, Tommaso Porzio"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28813#fromrss",
+          "author": null,
+          "description": "Standard measures of bodyweight (overweight and obese, for example) fail to reflect technological progress over time - and in particular, recent progress disproportionately promoting longevity at higher bodyweights (and differences in access to it). This paper builds on the pioneering work of HansWaaler (Waaler, 1984) and Robert Fogel (Fogel, 1994) to empirically estimate how technological progress, and differential access to it, have fundamentally transformed the relationship between body mass index (BMI) …",
+          "link": "https://www.nber.org/papers/w28813#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.212Z",
+          "wordCount": 794,
+          "title": "The Changing Relationship between Bodyweight and Longevity in High- and Low-Income Countries -- by Joanna Aleksandra Kopinska, Vincenzo Atella, Jay Bhattacharya, Grant Miller"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28797#fromrss",
+          "author": null,
+          "description": "How should international economic policy address climate change? Does trade cause deforestation and endangered species depletion? How does globalization affect air and water pollution? Do trade and investment create a race to the bottom in environmental policy? How important are environmental impacts of transporting goods? We review theory and empirical work linking international trade and the environment with a focus on recent work and methods.  We discuss the literature linking trade to local and global p…",
+          "link": "https://www.nber.org/papers/w28797#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.179Z",
+          "wordCount": 785,
+          "title": "Globalization and the Environment -- by Brian R. Copeland, Joseph S. Shapiro, M. Scott Taylor"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28808#fromrss",
+          "author": null,
+          "description": "The onset of a disability or major health shock can affect the labor supply of not only those experiencing the event but also their family members. Potential caregivers face a tradeoff between time spent earning income for the family and providing care for their spouse, which could be affected by the availability of paid leave. We examine caregiving and labor supply decisions after a spouse’s disability or health shock and the role of paid leave laws implemented in California and New Jersey in the response …",
+          "link": "https://www.nber.org/papers/w28808#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.166Z",
+          "wordCount": 873,
+          "title": "The Role of Paid Family Leave in Labor Supply Responses to a Spouse’s Disability or Health Shock -- by Priyanka Anand, Laura Dague, Kathryn L. Wagner"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28794#fromrss",
+          "author": null,
+          "description": "We assemble new data on the British and French concessions in Shanghai between 1845 and 1936 to assess the legal origins view of financial development. During this period, two regime changes altered the degree to which the British common and French civil law traditions held jurisdiction over the respective concessions: the 1869 formation of the Mixed Courts strengthened Western legal jurisdiction, while the 1926 rendition agreement returned those courts to Chinese control. By examining the changing applicat…",
+          "link": "https://www.nber.org/papers/w28794#fromrss",
+          "publishedOn": "2021-05-17T04:23:16.152Z",
+          "wordCount": 764,
+          "title": "The Legal Origins of Financial Development: Evidence from the Shanghai Concessions -- by Ross Levine, Chen Lin, Chicheng Ma, Yuchen Xu"
+        },
         {
           "id": "https://www.nber.org/papers/w28778#fromrss",
           "author": null,
