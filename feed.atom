@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-17T08:16:08.842Z</updated>
+    <updated>2021-05-17T12:20:59.593Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Well-being and poverty]]></title>
+        <id>https://www.aeaweb.org/research/povety-well-being-work-incentives</id>
+        <link href="https://www.aeaweb.org/research/povety-well-being-work-incentives"/>
+        <updated>2021-05-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Policymakers often evaluate anti-poverty programs by just one measure—income. A paper in the American Economic Journal: Microeconomics says well-being is important to consider, too.]]></summary>
+        <author>
+            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Can Developing Cities Today Learn From the Urban Past? -- by Edward L. Glaeser]]></title>
         <id>https://www.nber.org/papers/w28814#fromrss</id>
