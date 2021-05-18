@@ -389,24 +389,6 @@
           "publishedOn": "2021-04-19T05:16:00.000Z",
           "wordCount": 18,
           "title": "주머니 속의 머신러닝/매트 해리슨 지음, 박찬성 옮김/제이펍"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=269811504",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "파이썬으로 배우는 머신러닝 입문\n오제키 마사유키 지음, 김성훈 옮김 / 성안당 / 2021년 04월 / ISBN:9788931589412\n정가: 19,800원 / 판매가: 17,820원 / 마일리지: 78원\n이벤트: 수험서.외국어.컴퓨터.대학교재-오거나이저+스티커/텀블러/젤펜/펜 파우치\n\n\n\n\n동화같은 유럽풍 판타지 원단의 스토리를 따라가면서 파이썬으로 머신러닝 프로그래밍을 다루는 입문서로 등장 인물의 파이썬 학습 노트에 적혀 있는 샘플 코드와 설명을 읽어보며 즐기면서 프로그래밍을 할 수 있다. 또한 쉽게 이해할 수 있도록 각 작업 과정과 필요한 라이브러리를 정리하여 프로그램을 모듈화하고 있으며, 실제로 코딩하면서 이해할 수 있는 구성이다.\n\n제1장 마법 거울과의 만남\r\n1-1 신비한 언어 파이썬?\r\n1-2 고대 문명과 마법 거울\r\n1-3 깊은 숲속에서\r\n1-4 마법의 의식\r\n1-5 난수 발생시키기\r\n1-6 그래프로 결과 표시하기\r\n1-7 두 종류의 다른 데이터\r\n 두 종류의 데이터를 준비한다\r\n\r\n제2…",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=269811504",
-          "publishedOn": "2021-04-19T02:35:00.000Z",
-          "wordCount": 18,
-          "title": "파이썬으로 배우는 머신러닝 입문/오제키 마사유키 지음, 김성훈 옮김/성안당"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=269805857",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "파이썬 비동기 라이브러리 Asyncio\n케일럽 해팅 지음, 동동구 옮김 / 한빛미디어 / 2021년 05월 / ISBN:9791162244197\n정가: 18,000원 / 판매가: 16,200원 / 마일리지: 70원\n이벤트: 수험서.외국어.컴퓨터.대학교재-오거나이저+스티커/텀블러/젤펜/펜 파우치\n\n\n\n\n비동기 프로그래밍을 위한 파이썬 라이브러리 Asyncio를 다루는 실용서다. 대규모 동시성 작업과 높은 안전을 보장하는 Asyncio를 다양한 사례로 소개한다. 예제를 통해 파이썬의 기존 방식과 새로운 비동기 방식의 차이점을 실용적인 관점에서 설명하고 async/await 언어의 새로 도입된 문법과 Asyncio와 호환되는 인기 있는 라이브러리를 소개한다.\n\nCHAPTER 1 Asyncio 소개\r\n1.1 ThreadsBot 식당 이야기\r\n1.2 에필로그\r\n1.3 Asyncio로 해결할 수 있는 것은?\r\n\r\nCHAPTER 2 스레드에 관한 진실\r\n2.1 스레딩의 장점\r\n2.2 스레딩의 단점\r\n2.3 사례 연구…",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=269805857",
-          "publishedOn": "2021-04-19T01:26:00.000Z",
-          "wordCount": 18,
-          "title": "파이썬 비동기 라이브러리 Asyncio/케일럽 해팅 지음, 동동구 옮김/한빛미디어"
         }
       ]
     },
@@ -1511,6 +1493,15 @@
       "feedUrl": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe",
       "siteUrl": "https://www.journals.uchicago.edu/loi/jpe?af=R",
       "articles": [
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/714120?af=R",
+          "author": "Kilian Huber",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/714120?af=R",
+          "publishedOn": "2021-05-18T02:21:30.000Z",
+          "wordCount": 127,
+          "title": "Are Bigger Banks Better? Firm-Level Evidence from Germany"
+        },
         {
           "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/714090?af=R",
           "author": "Stefano Giglio",
