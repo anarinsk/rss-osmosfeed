@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-18T00:47:52.588Z</updated>
+    <updated>2021-05-18T04:24:28.305Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why global uncertainty is declining]]></title>
+        <id>https://voxeu.org/article/why-global-uncertainty-declining</id>
+        <link href="https://voxeu.org/article/why-global-uncertainty-declining"/>
+        <updated>2021-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The latest update of the World Uncertainty Index indicates that global uncertainty has fallen back to its long-run average after reaching a historical high in 2020. This column describes how this is driven by a significant decline in two key drivers of global uncertainty over the last few years: US–China trade tensions and Brexit negotiations. A sub-index of the World Uncertainty Index, the World Pandemic Uncertainty Index, reveals that uncertainty related to COVID-19 is also starting to subside, especially…]]></summary>
+        <author>
+            <name>Hites Ahir, Nicholas Bloom, Davide Furceri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ‘Global Sanctions Data Base’: Mapping international sanction policies from 1950-2019]]></title>
+        <id>https://voxeu.org/article/global-sanctions-data-base-mapping-international-sanction-policies-1950-2019</id>
+        <link href="https://voxeu.org/article/global-sanctions-data-base-mapping-international-sanction-policies-1950-2019"/>
+        <updated>2021-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While the world experienced a golden age of international economic integration in the 1990s and the 2000s, in the more recent past there has been an emergence of interstate political conflicts, political polarisation, and extensive use of coercive sanctions intended to limit the international movement of goods, assets, and people. This column presents findings from the newly updated Global Sanctions Data Base, which now includes the years of the Trump presidency and provides a more comprehensive coverage of…]]></summary>
+        <author>
+            <name>Gabriel  Felbermayr, Aleksandra Kirilakha, Constantinos Syropoulos, Erdal Yalcin, Yoto  Yotov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Well-being and poverty]]></title>
         <id>https://www.aeaweb.org/research/povety-well-being-work-incentives</id>
