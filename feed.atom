@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-19T01:56:34.813Z</updated>
+    <updated>2021-05-19T04:20:47.793Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -294,6 +294,16 @@
         <summary type="html"><![CDATA[This paper estimates the cross-sectional distribution of Epstein-Zin preference parameters in a large administrative panel of Swedish households. We consider life-cycle model of saving and portfolio choice that incorporates risky labor income, safe and risky financial assets inside and outside retirement accounts, and real estate. We study middle-aged stock-owning households grouped by education, industry of employment, and birth cohort as well as by their accumulated wealth and risky portfolio shares. We f…]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ghost of Smoot-Hawley tells why America isn’t too big to avoid retaliation]]></title>
+        <id>https://voxeu.org/article/ghost-smoot-hawley-tells-why-america-isn-t-too-big-avoid-retaliation</id>
+        <link href="https://voxeu.org/article/ghost-smoot-hawley-tells-why-america-isn-t-too-big-avoid-retaliation"/>
+        <updated>2021-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Trump administration’s pursuit of protectionist trade policies was predicated to some extent on the belief that America was too lucrative a market to face retaliation. Using the most detailed data set of bilateral trade flows constructed to date for the interwar period, this column shows that in fact the US faced substantial and widespread retaliation from trade partners in response to protectionist measures employed in the wake of the Great Depression. Exports to retaliating countries fell by as much a…]]></summary>
+        <author>
+            <name>Kris Mitchener, Kevin O'Rourke, Kirsten Wandschneider</name>
         </author>
     </entry>
     <entry>
@@ -1931,16 +1941,6 @@ ___상…]]></summary>
 The post WSLg Architecture appeared first on Windows Command Line.]]></summary>
         <author>
             <name>Steve Pronovost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calling in election fraud]]></title>
-        <id>https://www.aeaweb.org/research/afghanistan-cell-phone-election-fraud</id>
-        <link href="https://www.aeaweb.org/research/afghanistan-cell-phone-election-fraud"/>
-        <updated>2021-04-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cell phone access empowered voters in Afghanistan to get more involved with poll monitoring and potentially deterred fraud, highlighting how communication infrastructure can help improve election oversight, according to a paper in the American Economic Journal: Applied Economics.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
