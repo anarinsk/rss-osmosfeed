@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-19T12:20:35.349Z</updated>
+    <updated>2021-05-19T16:27:36.805Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trickle down corruption]]></title>
+        <id>https://www.aeaweb.org/research/charts/corruption-test-cheating-mexico</id>
+        <link href="https://www.aeaweb.org/research/charts/corruption-test-cheating-mexico"/>
+        <updated>2021-05-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Political corruption isn’t just bad governance. It may also erode ethical standards in the rest of society, according to a paper in the American Economic Journal: Applied Economicsg.]]></summary>
+        <author>
+            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loss Aversion in Housing Sales Prices: Evidence from Focal Point Bias -- by Stephen L. Ross, Tingyu Zhou]]></title>
         <id>https://www.nber.org/papers/w28796#fromrss</id>
@@ -1940,17 +1950,6 @@ ___상…]]></summary>
  1장 파이썬 개발…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WSLg Architecture]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6609</id>
-        <link href="https://devblogs.microsoft.com/commandline/wslg-architecture/"/>
-        <updated>2021-04-20T04:06:05.000Z</updated>
-        <summary type="html"><![CDATA[If you landed on this blog, you’ve probably seen our announcement for GUI applications support in the Windows Subsystem for Linux being available to Windows Insiders and looking for more details on how WSLg was built. If so, you’ve come to the right place!
-The post WSLg Architecture appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Steve Pronovost</name>
         </author>
     </entry>
 </feed>
