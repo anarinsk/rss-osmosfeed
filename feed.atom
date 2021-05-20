@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-20T04:22:19.558Z</updated>
+    <updated>2021-05-20T08:16:57.649Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Public debt and economic recovery]]></title>
+        <id>https://voxeu.org/article/public-debt-and-economic-recovery</id>
+        <link href="https://voxeu.org/article/public-debt-and-economic-recovery"/>
+        <updated>2021-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Debt-financed fiscal expansions have been a critical feature in many countries’ policy response to Covid-19. This column revisits the role of public debt in stimulating economic recovery. The authors identify both short-run and long-run effects, highlighting that higher public debt has small effects on the capital stock but leads to a sizable decline of the liquidity premium, which increases the fiscal burden of debt. Further, the revenue-maximising level of public debt is positive and has increased to 60% …]]></summary>
+        <author>
+            <name>Christian Bayer, Benjamin Born, Ralph Luetticke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to improve tax compliance]]></title>
+        <id>https://voxeu.org/article/how-improve-tax-compliance</id>
+        <link href="https://voxeu.org/article/how-improve-tax-compliance"/>
+        <updated>2021-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tax compliance lies at the heart of well-functioning societies, but the US and Europe lose vast sums annually to tax avoidance. This column discusses the results of population-wide experiments run in collaboration with the Belgium tax authority beginning in 2014. It finds that simplifying communication from tax administrators can improve tax compliance, nudge taxpayers to pay on time, and make late filers comply more swiftly. Communication – an inherent part of any tax administration – merits more attention…]]></summary>
+        <author>
+            <name>Jan-Emmanuel De Neve, Clément Imbert, Johannes Spinnewijn, Teodora Tsankova, Maarten Luts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slowdown in business dynamics during the COVID pandemic]]></title>
+        <id>https://voxeu.org/article/slowdown-business-dynamics-during-covid-pandemic</id>
+        <link href="https://voxeu.org/article/slowdown-business-dynamics-during-covid-pandemic"/>
+        <updated>2021-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The COVID-19 crisis may affect future productivity through its impact on business dynamics. This column argues that business dynamics – in particular business entries, exits, and bankruptcies – are slowing down, which can have adverse effects on long-term productivity. Over the course of 2020, fewer new businesses were established than in any ‘normal’ year and fewer closed down than during the Global Crisis in 2009. Most new entrants are self-employed and online businesses, especially in the wholesale and r…]]></summary>
+        <author>
+            <name>Fozan  Fareed, Bastiaan Overvest</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trickle down corruption]]></title>
         <id>https://www.aeaweb.org/research/charts/corruption-test-cheating-mexico</id>
@@ -1914,16 +1944,6 @@ CHAPTER 2 데이터와 표본분포
 2.10 …]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistics for Strategic Scientists – A Clark for Isaiah Andrews]]></title>
-        <id>http://afinetheorem.wordpress.com/?p=2029</id>
-        <link href="https://afinetheorem.wordpress.com/2021/04/20/statistics-that-takes-strategic-behavior-seriously-a-clark-for-isaiah-andrews/"/>
-        <updated>2021-04-20T19:55:24.000Z</updated>
-        <summary type="html"><![CDATA[Today’s 2021 Clark Medal goes to the Harvard econometrician Isaiah Andrews, and no surprise. Few young econometricians have produced such a volume of work so quickly. And while Andrews has a number of papers on traditional econometric topics – how to do high-powered inference on non-linear models, for instance – I want to focus here […]]]></summary>
-        <author>
-            <name>afinetheorem</name>
         </author>
     </entry>
 </feed>

@@ -412,23 +412,40 @@
       "title": "A Fine Theorem",
       "feedUrl": "https://afinetheorem.wordpress.com/feed/",
       "siteUrl": "https://afinetheorem.wordpress.com",
-      "articles": [
-        {
-          "id": "http://afinetheorem.wordpress.com/?p=2029",
-          "author": "afinetheorem",
-          "description": "Today’s 2021 Clark Medal goes to the Harvard econometrician Isaiah Andrews, and no surprise. Few young econometricians have produced such a volume of work so quickly. And while Andrews has a number of papers on traditional econometric topics – how to do high-powered inference on non-linear models, for instance – I want to focus here […]",
-          "link": "https://afinetheorem.wordpress.com/2021/04/20/statistics-that-takes-strategic-behavior-seriously-a-clark-for-isaiah-andrews/",
-          "publishedOn": "2021-04-20T19:55:24.000Z",
-          "wordCount": 3382,
-          "title": "Statistics for Strategic Scientists – A Clark for Isaiah Andrews"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "VOX, CEPR Policy Portal",
       "feedUrl": "https://voxeu.org/rss.xml",
       "siteUrl": "https://voxeu.org/",
       "articles": [
+        {
+          "id": "https://voxeu.org/article/public-debt-and-economic-recovery",
+          "author": "Christian Bayer, Benjamin Born, Ralph Luetticke",
+          "description": "Debt-financed fiscal expansions have been a critical feature in many countries’ policy response to Covid-19. This column revisits the role of public debt in stimulating economic recovery. The authors identify both short-run and long-run effects, highlighting that higher public debt has small effects on the capital stock but leads to a sizable decline of the liquidity premium, which increases the fiscal burden of debt. Further, the revenue-maximising level of public debt is positive and has increased to 60% …",
+          "link": "https://voxeu.org/article/public-debt-and-economic-recovery",
+          "publishedOn": "2021-05-20T00:00:00.000Z",
+          "wordCount": 2669,
+          "title": "Public debt and economic recovery"
+        },
+        {
+          "id": "https://voxeu.org/article/how-improve-tax-compliance",
+          "author": "Jan-Emmanuel De Neve, Clément Imbert, Johannes Spinnewijn, Teodora Tsankova, Maarten Luts",
+          "description": "Tax compliance lies at the heart of well-functioning societies, but the US and Europe lose vast sums annually to tax avoidance. This column discusses the results of population-wide experiments run in collaboration with the Belgium tax authority beginning in 2014. It finds that simplifying communication from tax administrators can improve tax compliance, nudge taxpayers to pay on time, and make late filers comply more swiftly. Communication – an inherent part of any tax administration – merits more attention…",
+          "link": "https://voxeu.org/article/how-improve-tax-compliance",
+          "publishedOn": "2021-05-20T00:00:00.000Z",
+          "wordCount": 2306,
+          "title": "How to improve tax compliance"
+        },
+        {
+          "id": "https://voxeu.org/article/slowdown-business-dynamics-during-covid-pandemic",
+          "author": "Fozan  Fareed, Bastiaan Overvest",
+          "description": "The COVID-19 crisis may affect future productivity through its impact on business dynamics. This column argues that business dynamics – in particular business entries, exits, and bankruptcies – are slowing down, which can have adverse effects on long-term productivity. Over the course of 2020, fewer new businesses were established than in any ‘normal’ year and fewer closed down than during the Global Crisis in 2009. Most new entrants are self-employed and online businesses, especially in the wholesale and r…",
+          "link": "https://voxeu.org/article/slowdown-business-dynamics-during-covid-pandemic",
+          "publishedOn": "2021-05-20T00:00:00.000Z",
+          "wordCount": 1891,
+          "title": "Slowdown in business dynamics during the COVID pandemic"
+        },
         {
           "id": "https://voxeu.org/article/eu-fiscal-policies-2020",
           "author": "Martin Larch, Janis Malzubris, Stefano Santacroce",
