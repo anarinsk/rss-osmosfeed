@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-21T04:24:08.130Z</updated>
+    <updated>2021-05-21T08:16:45.063Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -1914,17 +1914,6 @@ The post Windows Package Manager v0.3 Preview appeared first on Windows Command 
 1장 머신 러닝과 …]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6619</id>
-        <link href="https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/"/>
-        <updated>2021-04-21T17:07:23.000Z</updated>
-        <summary type="html"><![CDATA[A year ago at BUILD 2020 we introduced our goal to bring Linux GUI applications to the Windows Subsystem for Linux (WSL) to run Linux GUI applications. We are proud to announce the first preview of this highly anticipated and open source feature!
-The post The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Craig Loewen</name>
         </author>
     </entry>
 </feed>
