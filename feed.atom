@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-21T12:21:38.156Z</updated>
+    <updated>2021-05-21T16:28:42.328Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -14,6 +14,27 @@
         <summary type="html"><![CDATA[Disclosure theory says that businesses in competitive markets will reveal the quality of their products—good or bad. That often fails to happen because buyers aren’t skeptical enough, according to a paper in the American Economic Journal: Microeconomics.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Direction of Innovation]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714093?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714093?af=R"/>
+        <updated>2021-05-21T02:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Hugo Hopenhayn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are socially responsible banks more resilient?]]></title>
+        <id>https://voxeu.org/vox-talks/are-socially-responsible-banks-more-resilient</id>
+        <link href="https://voxeu.org/vox-talks/are-socially-responsible-banks-more-resilient"/>
+        <updated>2021-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ESG – Environmental, Social and Governance – measures of bank performance are getting a lot of attention from shareholders and policymakers. But might more investment in ESG make banks less resilient? Thomas Gehrig tells Tim Phillips what the first research on this topic reveals.
+Read More here: CEPR Discussion Paper, DP15816 Social Responsibility and Bank Resiliency by Thomas Gehrig, Maria Chiara Iannino, Stephan Unger]]></summary>
+        <author>
+            <name>Thomas Gehrig</name>
         </author>
     </entry>
     <entry>
@@ -1900,30 +1921,6 @@ Chapter 01. 프로그램 선택 및 설치하기
 The post Windows Package Manager v0.3 Preview appeared first on Windows Command Line.]]></summary>
         <author>
             <name>Demitrius Nelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥러닝 텐서플로 교과서/서지영 지음/길벗]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=270019355</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=270019355"/>
-        <updated>2021-04-22T01:59:00.000Z</updated>
-        <summary type="html"><![CDATA[딥러닝 텐서플로 교과서
-서지영 지음 / 길벗 / 2021년 04월 / ISBN:9791165215477
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 118원
-이벤트: 컴퓨터/IT 분야
- 3만원 이상 구매시, 손목 보호 쿠션
-
-
-
-
-기본기에 충실한 딥러닝 입문서. 기초부터 CNN, RNN, 시계열 분석, 자연어 처리, 강화 학습, 생성 모델까지 텐서플로 2로 구현하며 배운다! 머신 러닝 핵심 알고리즘부터 합성곱 신경망, 설명 가능한 CNN, 순환 신경망, LSTM 같은 딥러닝 알고리즘 이론을 이해하는 데 집중하며, 각 알고리즘을 언제, 어떤 상황에서 사용하면 좋은지도 함께 살펴본다. 
-
-또한, 기본 알고리즘 외에 전이 학습, 자연어 처리, 시계열 분석, 강화 학습, GAN 등 꼭 알아둬야 할 개념도 빠트리지 않고 충분히 설명한다. 각 개념을 학습한 뒤에는 텐서플로 2로 직접 구현해 보면서 딥러닝의 개념, 구현 방법, 적용 범위 등을 확실하게 이해할 수 있다.
-
-
-1장 머신 러닝과 …]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>

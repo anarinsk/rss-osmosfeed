@@ -362,15 +362,6 @@
           "publishedOn": "2021-04-23T05:42:00.000Z",
           "wordCount": null,
           "title": "딥러닝 개념과 활용/김의중 지음/미리어드스페이스"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=270019355",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "딥러닝 텐서플로 교과서\n서지영 지음 / 길벗 / 2021년 04월 / ISBN:9791165215477\n정가: 28,000원 / 판매가: 25,200원 / 마일리지: 118원\n이벤트: 컴퓨터/IT 분야\r\n 3만원 이상 구매시, 손목 보호 쿠션\n\n\n\n\n기본기에 충실한 딥러닝 입문서. 기초부터 CNN, RNN, 시계열 분석, 자연어 처리, 강화 학습, 생성 모델까지 텐서플로 2로 구현하며 배운다! 머신 러닝 핵심 알고리즘부터 합성곱 신경망, 설명 가능한 CNN, 순환 신경망, LSTM 같은 딥러닝 알고리즘 이론을 이해하는 데 집중하며, 각 알고리즘을 언제, 어떤 상황에서 사용하면 좋은지도 함께 살펴본다. \r\n\r\n또한, 기본 알고리즘 외에 전이 학습, 자연어 처리, 시계열 분석, 강화 학습, GAN 등 꼭 알아둬야 할 개념도 빠트리지 않고 충분히 설명한다. 각 개념을 학습한 뒤에는 텐서플로 2로 직접 구현해 보면서 딥러닝의 개념, 구현 방법, 적용 범위 등을 확실하게 이해할 수 있다.\r\n\n\n1장 머신 러닝과 …",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=270019355",
-          "publishedOn": "2021-04-22T01:59:00.000Z",
-          "wordCount": null,
-          "title": "딥러닝 텐서플로 교과서/서지영 지음/길벗"
         }
       ]
     },
@@ -401,6 +392,15 @@
       "feedUrl": "https://voxeu.org/rss.xml",
       "siteUrl": "https://voxeu.org/",
       "articles": [
+        {
+          "id": "https://voxeu.org/vox-talks/are-socially-responsible-banks-more-resilient",
+          "author": "Thomas Gehrig",
+          "description": "ESG – Environmental, Social and Governance – measures of bank performance are getting a lot of attention from shareholders and policymakers. But might more investment in ESG make banks less resilient? Thomas Gehrig tells Tim Phillips what the first research on this topic reveals.\nRead More here: CEPR Discussion Paper, DP15816 Social Responsibility and Bank Resiliency by Thomas Gehrig, Maria Chiara Iannino, Stephan Unger",
+          "link": "https://voxeu.org/vox-talks/are-socially-responsible-banks-more-resilient",
+          "publishedOn": "2021-05-21T00:00:00.000Z",
+          "wordCount": 565,
+          "title": "Are socially responsible banks more resilient?"
+        },
         {
           "id": "https://voxeu.org/article/distinctive-character-policy-driven-stock-market-jumps",
           "author": "Scott  Baker, Nicholas Bloom, Steven Davis, Marco Sammon",
@@ -1150,6 +1150,15 @@
       "feedUrl": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe",
       "siteUrl": "https://www.journals.uchicago.edu/loi/jpe?af=R",
       "articles": [
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/714093?af=R",
+          "author": "Hugo Hopenhayn",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/714093?af=R",
+          "publishedOn": "2021-05-21T02:09:39.000Z",
+          "wordCount": 127,
+          "title": "On the Direction of Innovation"
+        },
         {
           "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/714120?af=R",
           "author": "Kilian Huber",
