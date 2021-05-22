@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-22T08:16:11.952Z</updated>
+    <updated>2021-05-22T12:20:09.541Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -1975,17 +1975,6 @@ Chapter 01. 프로그램 선택 및 설치하기
         <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
         <author>
             <name>Mariassunta Giannetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Package Manager v0.3 Preview]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6636</id>
-        <link href="https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/"/>
-        <updated>2021-04-22T21:15:09.000Z</updated>
-        <summary type="html"><![CDATA[We have been hard at work building new experimental features for the Windows Package Manager. We have just released the Windows Package Manager v0.3 Preview. I would like to share the first major feature to exit experimental status. I also have the privilege of announcing support for Group Policy.
-The post Windows Package Manager v0.3 Preview appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Demitrius Nelon</name>
         </author>
     </entry>
 </feed>
