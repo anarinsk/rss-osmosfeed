@@ -6,6 +6,15 @@
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=3057&rssType=2&type=title",
       "articles": [
         {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271835163",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "더 나은 삶을 위한 경제학\n로버트 스키델스키 지음, 장진영 옮김 / 안타레스 / 2021년 05월 / ISBN:9791196950187\n정가: 18,000원 / 판매가: 16,200원 / 마일리지: 74원\n이벤트: 5월 특별 선물! 본투리드/어린왕자/둘리 티셔츠(이벤트 도서 포함, 국내서.외서 5만원 이상)\n\n\n\n\n영국의 경제사학자이자 『존 메이너드 케인스』 전기 3부작으로 세계적 명성을 얻은 원로 경제 석학 로버트 스키델스키 교수의 최신 화제작. 2008년 글로벌 금융 위기 예측 실패 이후 별다른 진보를 보이지 못한 ‘주류 경제학(신고전주의 경제학)’의 문제점을 총체적으로 진단하고 처방을 모색한다. 모두 13개 장을 할애해 ‘방법론적 결함’에서 ‘학문적 불완전성’까지 치밀하게 살핀다. 비판의 강도가 높고 범위도 넓다.\r\n\r\n이 책에서 스키델스키 교수는 작심하고 주류 경제학을 공격하지만, 그 의도는 경제학을 향한 깊은 믿음과 기대에 있다. 그가 보기에 경제학이야말로 인류에게 ‘더 나은 삶’을 열어줄 수 …",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=271835163",
+          "publishedOn": "2021-05-20T02:38:00.000Z",
+          "wordCount": 18,
+          "title": "더 나은 삶을 위한 경제학/로버트 스키델스키 지음, 장진영 옮김/안타레스"
+        },
+        {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271715863",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
           "description": "소프트뱅크 거액적자의 결말과 메가뱅크 위기\n구로카와 아쓰히코 지음, 강철구 옮김 / 어문학사 / 2021년 05월 / ISBN:9788961849982\n정가: 16,000원 / 판매가: 14,400원 / 마일리지: 59원\n이벤트: 5월 특별 선물! 본투리드/어린왕자/둘리 티셔츠(이벤트 도서 포함, 국내서.외서 5만원 이상)\n\n\n\n\n소프트뱅크와 메가뱅크를 중심으로 자본의 움직임에 주목한다. 최근 자본의 이동은 코로나 팬데믹으로 금융시장에 팽창을 일으키며 지금까지와는 전혀 다른 새로운 시대를 예견한다. 필자는 전 세계에 거품과 불황이 동시에 일어나는 코로나 쇼크를 우려하며 일본 경제를 진단하고 대책을 마련한다.\n\n시작하며 ? 본격적인 금융위기의 경고\r\n\r\n제1장 소프트뱅크 적자의 실상\r\n원자폭탄급 대적자 \r\n사라져 버린 수요 \r\n차라리 파산시키는 게 어떨까 \r\n피자 굽는 로봇회사의 예상 착오 \r\n“나는 투자의 신이다” \r\n분명 “투자회사”이기는 한데...\r\n쓰레기주 펀드 \r\n상장폐지를 검토한 이유 \r\n결국 …",
@@ -255,6 +264,15 @@
       "feedUrl": "http://www.aladin.co.kr/rss/new_all/437",
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=437&rssType=2&type=title",
       "articles": [
+        {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271824446",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "스프링 부트 실전 활용 마스터\n그렉 턴키스트 지음, 오명운 옮김, 이일민 감수 / 책만 / 2021년 05월 / ISBN:9791189909307\n정가: 28,000원 / 판매가: 25,200원 / 마일리지: 114원\n이벤트: 컴퓨터/IT 분야\r\n 3만원 이상 구매시, 손목 보호 쿠션\n\n\n\n\n간단한 장바구니 예제를 리액터(Reactor)를 활용한 논블로킹/비동기 방식으로 구현하며 비밀을 파헤쳐본다. 스프링 헤이티오스(HATEOS)를 적용해서 변경 여파를 최소화하면서 진화하는 API를 만들어보고, 스프링 레스트 독(REST Doc)을 사용해서 소스 코드와 일치하는 API 문서를 작성해본다. AMQP 메시징을 활용해서 느슨하게 연결된 이벤트 중심 아키텍처를 구현해보고, 양방향 리액티브 프로토콜인 R소켓을 사용해서 HTTP보다 효율적인 최신 네트워크 프로그래밍 기법도 익힌다.\n\n[1장] 스프링 부트 웹 애플리케이션 만들기\r\n스프링 부트란 무엇인가\r\n리액티브 프로그래밍 소개\r\n___리액터 타입\r\n스프링 웹플럭스…",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=271824446",
+          "publishedOn": "2021-05-20T00:10:00.000Z",
+          "wordCount": 18,
+          "title": "스프링 부트 실전 활용 마스터/그렉 턴키스트 지음, 오명운 옮김, 이일민 감수/책만"
+        },
         {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271640903",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
