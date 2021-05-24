@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-24T12:21:59.437Z</updated>
+    <updated>2021-05-24T16:33:51.346Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a family dynasty]]></title>
+        <id>https://www.aeaweb.org/research/charts/extended-family-dynasty-education</id>
+        <link href="https://www.aeaweb.org/research/charts/extended-family-dynasty-education"/>
+        <updated>2021-05-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's not just parents who have an impact on their children's educational outcomes. Extended family affect future generations as well, according to a paper in the American Economic Review.]]></summary>
+        <author>
+            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How is COVID Changing the Geography of Entrepreneurship? Evidence from the Startup Cartography Project -- by Catherine E. Fazio, Jorge Guzman, Yupeng Liu, Scott Stern]]></title>
         <id>https://www.nber.org/papers/w28787#fromrss</id>
