@@ -419,6 +419,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/jump-starting-investment-strong-and-even-recovery",
+          "author": "Debora  Revoltella, Rolf Strauch",
+          "description": "Jump-starting investment after Covid-19 is a crucial challenge for the sustainability of the recovery. This column highlights that incentives to re-launch investment remain crucial. Viable and new firms need to have access to additional new financing as we emerge from the crisis. Debt finance cannot be the only option. Incentives for recapitalisation of companies and access to equity or equity-type finance become increasingly important. The legacies of the pandemic in the financial sector need to be worked out quickly. European and government support complementing post-pandemic bank and capital market financing will be critical to a strong and sustained recovery.",
+          "link": "https://voxeu.org/article/jump-starting-investment-strong-and-even-recovery",
+          "publishedOn": "2021-05-24T00:00:00.000Z",
+          "wordCount": 2179,
+          "title": "Jump-starting investment for a strong and even recovery"
+        },
+        {
+          "id": "https://voxeu.org/article/gendered-laws-do-matter",
+          "author": "Simeon Djankov, Pinelopi Goldberg",
+          "description": "Despite the significant barriers to economic inclusion that many women face, there is a long history of scepticism regarding the relevance of laws that discriminate on the basis of gender. This column analyses global data on legal gender equality and shows that greater legal equality between men and women is associated with a narrower gender gap in opportunities and outcomes, fewer female workers in positions of vulnerable employment, and greater political representation for women. Country attributes that are significant predictors of legal gender equality (including religion, legal origin, and geography) evolve slowly, if at all. Nonetheless, considerable progress in legal gender equality took place in some parts of the world over the past five decades.",
+          "link": "https://voxeu.org/article/gendered-laws-do-matter",
+          "publishedOn": "2021-05-24T00:00:00.000Z",
+          "wordCount": 1833,
+          "title": "Gendered laws do matter"
+        },
+        {
           "id": "https://voxeu.org/article/how-monetary-policy-affects-distribution-income",
           "author": "Niklas Amberg, Thomas Jansson, Mathias Klein, Anna Rogantini Picco",
           "description": "Fully understanding the distributional consequences of monetary policy requires looking at its impact over the entire income distribution and not simply at summary inequality measures like the Gini coefficient. Using uncensored administrative income data for Sweden, this column shows that while a monetary policy loosening substantially affects incomes across the entire income distribution, it does so relatively more in the tails, providing a U-shaped response pattern. The effects in the bottom are primarily…",
@@ -632,6 +650,312 @@
       "feedUrl": "https://back.nber.org/rss/new.xml",
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
+        {
+          "id": "https://www.nber.org/papers/w28787#fromrss",
+          "author": null,
+          "description": "Leveraging data from eight U.S. states from the Startup Cartography Project, this paper provides new insight into the changing nature and geography of entrepreneurship in the wake of the COVID pandemic. Consistent with other data sources, following an initial decline, the overall level of state-level business registrations not only rebounds but increases across all eight states.  We focus here on the significant heterogeneity in this dynamic pattern of new firm formation across and within states.  Specifically, there are significant differences in the dynamics of new business registrants across neighborhoods in terms of race and socioeconomic status. Areas including a higher proportion of Black residents, and more specifically higher median income Black neighborhoods, are associated with higher growth in startup formation rates between 2019 and 2020.  Moreover, these dynamics are reflected in the passage of the major Federal relief packages.  Even though legislation such as the CARES Act did not directly support new business formation, the passage and implementation of relief packages was followed by a relative increase in start-up formation rates, particularly in neighborhoods with higher median incomes and a higher proportion of Black residents.",
+          "link": "https://www.nber.org/papers/w28787#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.562Z",
+          "wordCount": 931,
+          "title": "How is COVID Changing the Geography of Entrepreneurship? Evidence from the Startup Cartography Project -- by Catherine E. Fazio, Jorge Guzman, Yupeng Liu, Scott Stern"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28834#fromrss",
+          "author": null,
+          "description": "We investigate the heterogeneous boom and bust patterns across countries that emerge as a result of global shocks. Our analysis sheds light on the emergence of core and periphery countries, and the joint determination of the depth of recessions and tightness of credit markets across countries. The model implies that interest rates are similar across core and periphery countries in booms, with larger credit and output growth in periphery countries. However, a common global shock that leads to a credit crunch across the globe gives rise to a sharper spike in interest rates and a deeper recession in periphery countries, while a credit flight to the core alleviates the adverse consequences in these countries.  We explore the implication of the model about credit spreads, portfolio rebalancing, investment, non-performing debt and concentration of debt ownership during booms and busts, both in the time series and in the cross-section, and connect them to existing stylized facts. We further demonstrate how the anatomy of the global economy evolves as a result of aggregate demand and supply shocks to financing, such as a global saving glut.",
+          "link": "https://www.nber.org/papers/w28834#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.473Z",
+          "wordCount": 857,
+          "title": "Heterogeneous Global Booms and Busts -- by Maryam Farboodi, Péter Kondor"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28831#fromrss",
+          "author": null,
+          "description": "We show that a rise in the minimum wage accounts for a large decline in earnings inequality in Brazil since 1994. To this end, we combine rich administrative and survey data with an equilibrium model of the Brazilian labor market. Our results imply that the minimum wage has far-reaching spillover effects on wages higher up in the distribution, accounting for one-third of the 25.9 log point fall in the variance of log earnings in Brazil since 1994. At the same time, the minimum wage’s effects on employment and output are muted by reallocation of workers toward more productive firms.",
+          "link": "https://www.nber.org/papers/w28831#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.452Z",
+          "wordCount": 931,
+          "title": "Earnings Inequality and the Minimum Wage: Evidence from Brazil -- by Niklas Engbom, Christian Moser"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28830#fromrss",
+          "author": null,
+          "description": "We examine an indirect but potentially deadly consequence of the “missing girls” phenomenon. A shortage of brides causes many parents with sons of marriageable age to work harder and seek higher-paying but potentially dangerous jobs. In response, employers invest less in workplace safety, which in turn increases work-related mortality. Drawing from a broad range of data sets and taking advantage of large regional and temporal variations in sex ratios in China, we demonstrate that in areas with a more severe shortage of young women, the parents with unmarried sons suffer a significantly higher incidence of accidental injuries and workplace deaths.",
+          "link": "https://www.nber.org/papers/w28830#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.426Z",
+          "wordCount": 743,
+          "title": "Deadly Discrimination: Implications of \"Missing Girls\" for Workplace Safety -- by Zhibo Tan, Shang-Jin Wei, Xiaobo Zhang"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28840#fromrss",
+          "author": null,
+          "description": "Do upstream research shocks directly and contemporaneously impact related but disconnected downstream product markets? We explore this question using a natural experiment involving the New Delhi Metallo-Beta-Lactamase 1 superbug pathogenic outbreak in India. Using a difference-in-differences strategy, we find that this upstream research shock caused multinational firms selling antibiotics in India to reduce their market exposure. Surprisingly, this void was filled by domestic Indian firms. These results are bolstered by a concurrent decline in multinational prescriptions of focal products by Indian physicians relative to prescriptions for domestic firm products. We present a stylized model building on a Cournot differentiated duopoly model to explain these heterogeneous responses. Results are robust to alternate control groups, including synthetic controls, as well as placebo testing. Implications for health policy and innovation policy are discussed.",
+          "link": "https://www.nber.org/papers/w28840#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.411Z",
+          "wordCount": 848,
+          "title": "Research and Market Structure: Evidence from A Pathogenic Outbreak -- by Mayank Aggarwal, Anindya Chakrabarti, Chirantan Chatterjee, Matthew J. Higgins"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28843#fromrss",
+          "author": null,
+          "description": "We study the evolution of US mortgage credit supply during the COVID-19 pandemic. Although the mortgage market experienced a historic boom in 2020, we show there was also a large and sustained increase in intermediation markups that limited the pass-through of low rates to borrowers. Markups typically rise during periods of peak demand, but this historical relationship explains only part of the large increase during the pandemic. We present evidence that pandemic-related labor market frictions and operational bottlenecks contributed to unusually inelastic credit supply, and that technology-based lenders, likely less constrained by these frictions, gained market share. Rising forbearance and default risk did not significantly affect rates on “plain vanilla” conforming mortgages, but it did lead to higher spreads on mortgages without government guarantees and loans to the riskiest borrowers. Mortgage-backed securities purchases by the Federal Reserve also supported the flow of credit in the conforming segment.",
+          "link": "https://www.nber.org/papers/w28843#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.398Z",
+          "wordCount": 862,
+          "title": "How Resilient Is Mortgage Credit Supply?  Evidence from the COVID-19 Pandemic -- by Andreas Fuster, Aurel Hizmo, Lauren Lambie-Hanson, James Vickery, Paul S. Willen"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28828#fromrss",
+          "author": null,
+          "description": "While the savings of retired singles tend to fall with age, those of retired couples tend to rise. We estimate a rich model of retired singles and couples with bequest motives and uncertain longevity and medical expenses. Our estimates imply that while medical expenses are an important driver of the savings of middle-income singles, bequest motives matter for couples and high-income singles, and generate transfers  to non-spousal heirs whenever a household member dies. The interaction of medical expenses and bequest motives is a crucial determinant of savings for all retirees. Hence, to understand savings, it is important to model household structure, medical expenses, and bequest motives.",
+          "link": "https://www.nber.org/papers/w28828#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.385Z",
+          "wordCount": 840,
+          "title": "Why Do Couples and Singles Save During Retirement? -- by Mariacristina De Nardi, Eric French, John Bailey Jones, Rory McGee"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28837#fromrss",
+          "author": null,
+          "description": "This paper proposes a network model of the economy in which conglomerate firms transmit idiosyncratic shocks from one industry to another. The strength of inter-industry connections is determined by the conglomerate's share of total industry sales and by the industry's share of the conglomerate's total sales. The empirical results show that industry growth rates comove more strongly within industry pairs that are more closely connected in the conglomerate network. These results hold after controlling for industry-pair and year fixed effects, input-output connections, reverse causality, and in tests that exploit exogenous cross-sectional industry shocks from import tariff changes. Finally, our model also provides a new cross-industry extension for the widely-used Herfindahl index of concentration.",
+          "link": "https://www.nber.org/papers/w28837#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.318Z",
+          "wordCount": 745,
+          "title": "The Conglomerate Network -- by Kenneth R. Ahern, Lei Kong, Xinyan Yan"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28836#fromrss",
+          "author": null,
+          "description": "Introducing a new survey of U.S. firms’ inflation expectations, we document key stylized facts involving what U.S. firms know and expect about inflation and monetary policy. The resulting time series of firms’ inflation expectations displays unique dynamics, distinct from those of households and professional forecasters. By any typical definition of “anchored” expectations, the inflation expectations of U.S. managers appear far from anchored, much like those of households. And like households, U.S. managers are largely uninformed about recent aggregate inflation dynamics or monetary policy. These results complement existing evidence on firms’ inflation expectations from other countries and confirm that inattention to inflation and monetary policy is pervasive among U.S. firms as well.",
+          "link": "https://www.nber.org/papers/w28836#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.304Z",
+          "wordCount": 756,
+          "title": "The Inflation Expectations of U.S. Firms: Evidence from a new survey -- by Bernardo Candia, Olivier Coibion, Yuriy Gorodnichenko"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28835#fromrss",
+          "author": null,
+          "description": "As countries transition from facing COVID-19 vaccine supply shortfalls to requiring novel strategies to facilitate vaccination, modern retail chains—often designed and located to target particular demographic groups—are a potential vaccine delivery vehicle. Using geospatial data, we quantify the proximity to vaccines created by a U.S. federal program that distributes vaccines to commercial retail pharmacies. We then quantify the impact of a proposal to provide vaccines at Dollar General, a low-priced general merchandise retailer. We show that adding Dollar General to the federal program would substantially decrease the distance to vaccine sites for low-income and minority U.S. households.",
+          "link": "https://www.nber.org/papers/w28835#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.291Z",
+          "wordCount": 753,
+          "title": "Distributional Impacts of Retail Vaccine Availability -- by Judith A. Chevalier, Jason L. Schwartz, Yihua Su, Kevin R. Williams"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28844#fromrss",
+          "author": null,
+          "description": "We study social learning between spouses using an experiment in Chennai, India. We vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their 'own' and their husband's information the same. In sharp contrast, men's beliefs respond less than half as much to information that was discovered by their wife. This is not due to a lack of communication: husbands put less weight on their wife's signals even when perfectly informed of them. In a second experiment, when paired with mixed- and same-gender strangers, both men and women heavily discount their teammate's information relative to their own. We conclude that people have a tendency to underweight others' information relative to their own. The marital context creates a countervailing force for women, resulting in a gender difference in learning (only)  in the household.",
+          "link": "https://www.nber.org/papers/w28844#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.264Z",
+          "wordCount": 876,
+          "title": "Learning in the Household -- by John J. Conlon, Malavika Mani, Gautam Rao, Matthew W. Ridley, Frank Schilbach"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28842#fromrss",
+          "author": null,
+          "description": "We document that banks which cut lending more during the Great Recession were lending to riskier firms. To explain this  evidence, we build a competitive matching model of bank-firm relationships in which risky firms borrow from banks with low holding costs.  Based on default probabilities and equilibrium loan rates, we use our sorting model to recover  the latent bank holding cost distribution. The measure of banks with low holding costs dropped during the Great Recession. This credit supply shift conservatively accounted for around 50% of the decline in corporate loans over this period. Our attribution cannot be captured by panel regression estimates from the bank lending channel literature.",
+          "link": "https://www.nber.org/papers/w28842#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.246Z",
+          "wordCount": 796,
+          "title": "Sorting Out the Real Effects of Credit Supply -- by Briana Chang, Matthieu Gomez, Harrison Hong"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28838#fromrss",
+          "author": null,
+          "description": "This paper reassesses the general trade-off between ad valorem and specific taxation using an economic model that features love-of-variety preferences and encompasses a wide range of market conduct – including both quantity and price competition – while allowing for firm entry and exit. We derive formulas for efficiency and incidence of both types of taxes that depend on the responsiveness of product variety to taxes and the effect of a change in product variety on consumer surplus. We use our formulas to derive a desirability condition for when ad valorem taxes are more efficient than specific taxes and a condition for when ad valorem taxes lead to greater pass-through than specific taxes. We identify and estimate the model parameters using a quasi-experimental ``county border pair'' research design that uses state-level and county-level variation in sales taxes combined with detailed scanner data covering grocery stores in the U.S. Our empirical results indicate that sales taxes are slightly overshifted onto consumer prices, have a large effect on quantity demanded, and have a more modest effect on the variety of products available to consumers. Using the estimated parameters, we recover consumers' love-of-variety, infer whether or not product variety is socially optimal (at current tax rates), and implement our desirability condition. We find that specific taxes are more efficient at the margin than ad valorem taxes given the estimated love-of-variety. This suggests that policymakers should consider using specific taxes and tariffs in markets with substantial product differentiation.",
+          "link": "https://www.nber.org/papers/w28838#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.233Z",
+          "wordCount": 1069,
+          "title": "A Welfare Analysis of Tax Structures with Love-of-Variety Preferences -- by Kory Kroft, Jean-William P. Laliberté, René Leal Vizcaíno, Matthew J. Notowidigdo"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28829#fromrss",
+          "author": null,
+          "description": "Recent micro evidence of how workers search for jobs is shown to have critical implications for the macroeconomic propagation of labor market shocks. Unemployed workers send over 10 times as many job applications in a month as their employed peers, but are less than half as likely per application to make a move. I interpret these patterns as the unemployed applying for more jobs that they are less likely to be a good fit for. During periods of high unemployment, it consequently becomes harder for firms to assert who is a good fit for the job. By raising the cost of recruiting, a short-lived adverse shock has a persistent negative impact on the job finding rate. I provide evidence that firms spend more time on recruiting when unemployment is high, quantitatively consistent with the theory.",
+          "link": "https://www.nber.org/papers/w28829#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.203Z",
+          "wordCount": 823,
+          "title": "Contagious Unemployment -- by Niklas Engbom"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28833#fromrss",
+          "author": null,
+          "description": "This paper examines the long-term and spillover effects of management interventions on firm performance. Under the Training Within Industry (TWI) program, the U.S. government provided management training to firms involved in war production between 1940 and 1945. Using a newly collected panel dataset on all 11,575 U.S. firms that applied to the program, we find that the TWI training had positive and long-lasting effects on firm performance and the adoption of beneficial managerial practices. Moreover, it generated complementarities among different types of training and had positive spillover effects on the supply chain of trained firms.",
+          "link": "https://www.nber.org/papers/w28833#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.189Z",
+          "wordCount": 883,
+          "title": "The Dynamics and Spillovers of Management Interventions: Evidence from the Training Within Industry Program -- by Nicola Bianchi, Michela Giorcelli"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28847#fromrss",
+          "author": null,
+          "description": "Racial social isolation within and across workplaces may reduce firm productivity. We provide descriptive evidence that African-Americans feel socially isolated from Whites. To test whether isolation affects productivity, we estimate models of Total Factor Productivity for manufacturing firms allowing returns to local area concentrations of economic activity and human capital spillovers to vary with the racial and ethnic composition of both the establishment and the local area employment. Higher own-race exposure for establishment workers to workers at surrounding establishments strengthens the relationship between productivity and both employment density and concentrations of college educated workers. Effects for human capital spillovers are largest for firms with more patents and more research and development spending. Looming demographic changes suggest that this drag on productivity may increase over time.",
+          "link": "https://www.nber.org/papers/w28847#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.175Z",
+          "wordCount": 940,
+          "title": "Agglomeration Economies and Race Specific Spillovers -- by Elizabeth Ananat, Shihe Fu, Stephen Ross"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28846#fromrss",
+          "author": null,
+          "description": "This paper provides systematic empirical evidence for the distinctive role of universities on local entrepreneurial ecosystems.  Assessing the impact of research institutions on entrepreneurship is challenging, given that these institutions are often located in economic and innovation environments conducive to growth-oriented entrepreneurial activity, are themselves a source of local demand, and produce knowledge, which might serve as the foundation for new ventures.  To overcome this inference challenge, we first combine comprehensive business registration records with a predictive analytics approach to measure both the quantity and quality-adjusted quantity of entrepreneurship at the zip-code level on an annual basis.  We then link each location to the presence or absence of research-oriented universities or national laboratories.  Finally, we exploit significant changes over time in Federal commitments to both universities and national laboratories.  Our key finding is that changes in Federal research commitments to universities are uniquely linked to positively correlated changes in the quality-adjusted quantity of entrepreneurship.  In contrast, increases in non-research funding to universities and funding to national laboratories is associated with either a neutral or negative impact on the quality-adjusted quantity of entrepreneurship.  Research funding to universities seems to play a unique role in promoting the acceleration of local entrepreneurial ecosystems.",
+          "link": "https://www.nber.org/papers/w28846#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.148Z",
+          "wordCount": 1015,
+          "title": "More than an Ivory Tower: The Impact of Research Institutions on the Quantity and Quality of Entrepreneurship -- by Valentina Tartari, Scott Stern"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28845#fromrss",
+          "author": null,
+          "description": "We study the medium-term impacts of the Skills for Effective Entrepreneurship Development (SEED) program, an innovative in-residence 3-week mini-MBA program for high school students modeled after western business school curricula and adapted to the Ugandan context. The program featured two separate treatments: the hard-skills MBA features a mix of approximately 75% hard skills and 25% soft skills; the soft skills curriculum has the reverse mix. Using data on 4400 youth from a nationally representative sample in a 3-arm field experiment in Uganda, the 3.5 year follow-up demonstrated that training was effective in improving both hard and soft skills, but only soft skills were directly linked to improvements in self-efficacy, persuasion, and negotiation. The skill upgrade was rewarded in substantially higher earnings; 32.1% and 29.8% increases in earnings for those who attended hard- and soft-training, respectively, most of which, was generated through self-mployment. Furthermore, youth in both groups were more likely to start enterprises and more successful in ensuring their businesses' survival. The program led to significantly larger profits (24.2% and 27.2% for hard- and soft- treatment arms respectively) and larger business capital investments (38.4% and 32.6% for SEED hard and SEED soft, respectively). Both SEED curricula were very cost-effective; two months worth of the extra earnings caused by the training alone would exceed the cost of the program. These benefits abstract from the job- and business-creation benefits of the program, which were substantial: relative to the control group, SEED entrepreneurs created 985 additional jobs and 550 new businesses.",
+          "link": "https://www.nber.org/papers/w28845#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.135Z",
+          "wordCount": 1033,
+          "title": "Making Entrepreneurs: Returns to Training Youth in Hard Versus Soft Business Skills -- by Laura Chioda, David Contreras-Loya, Paul Gertler, Dana Carney"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28841#fromrss",
+          "author": null,
+          "description": "The second half of the twentieth century saw large-scale suburbanization in the United States, with the median share of residents who work in the same county where they live falling from 87 to 71 percent between 1970 and 2000. We introduce a new methodology for discriminating between the three leading explanations for this suburbanization (workplace attractiveness, residence attractiveness and bilateral commuting frictions). This methodology holds in the class of spatial models that are characterized by a structural gravity equation for commuting. We show that the increased openness of counties to commuting is mainly explained by reductions in bilateral commuting frictions, consistent with the expansion of the interstate highway network and the falling real cost of car ownership. We find that changes in workplace attractiveness and residence attractiveness are more important in explaining the observed shift in employment by workplace and employment by residence towards lower densities over time.",
+          "link": "https://www.nber.org/papers/w28841#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.098Z",
+          "wordCount": 886,
+          "title": "Suburbanization in the United States 1970-2010 -- by Stephen J. Redding"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28848#fromrss",
+          "author": null,
+          "description": "In 2001, a large and sustained supply shock halted a heroin epidemic in Australia. We use outpatient drug treatment records to identify individuals who accounted for nearly half of opioid overdoses prior to the shock, and examine how the reduced supply of heroin affected their health and criminal activity over the next eight years. Initially, the gains from fewer overdose deaths are offset by individuals substituting to other drugs and committing more violent crime, including homicides. Most adverse effects dissipate after one year, and are followed by further decreases in deaths and a large reduction in property crime. Our results demonstrate that reducing the supply of illicit opioids can lead to meaningful longer-term improvements, even when the short-term effects are ambiguous.",
+          "link": "https://www.nber.org/papers/w28848#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.081Z",
+          "wordCount": 900,
+          "title": "Opioid Use, Health and Crime: Insights from a Rapid Reduction in Heroin Supply -- by Timothy J. Moore, Kevin T. Schnepel"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28839#fromrss",
+          "author": null,
+          "description": "In this paper we describe the U.S. Census Bureau's redesign and production implementation of the Longitudinal Business Database (LBD) first introduced by Jarmin and Miranda (2002). The LBD is used to create the Business Dynamics Statistics (BDS), tabulations describing the entry, exit, expansion, and contraction of businesses. The new LBD and BDS also incorporate information formerly provided by the Statistics of U.S. Businesses program, which produced similar year-to-year measures of employment and establishment   flows. We describe in detail how the LBD is created from curation of the input administrative data, longitudinal matching, retiming of economic census-year births and deaths, creation of vintage consistent industry codes and noise factors, and the creation and cleaning of each year of LBD data. This documentation is intended to facilitate the proper use and understanding of the data by both researchers with approved projects accessing the LBD microdata and those using the BDS tabulations.",
+          "link": "https://www.nber.org/papers/w28839#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.062Z",
+          "wordCount": 868,
+          "title": "Redesigning the Longitudinal Business Database -- by Melissa C. Chow, Teresa C. Fort, Christopher Goetz, Nathan Goldschlag, James Lawrence, Elisabeth Ruth Perlman, Martha Stinson, T. Kirk White"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28832#fromrss",
+          "author": null,
+          "description": "This paper proposes a new framework for studying the interplay between culture and institutions. We follow the recent sociology literature and interpret culture as a \\repertoire\", which allows rich cultural responses to changes in the environment and shifts in political power. Specifically, we start with a culture set, which consists of attributes and the feasible connections between them. Combinations of attributes produce cultural configurations, which provide meaning, interpretation and justification for individual and group actions. Cultural figurations also legitimize and support different institutional arrangements. Culture matters as it shapes the set of feasible cultural figurations and via this channel institutions. Yet, changes in politics and institutions can cause a rewiring of…",
+          "link": "https://www.nber.org/papers/w28832#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.031Z",
+          "wordCount": 989,
+          "title": "Culture, Institutions and Social Equilibria: A Framework -- by Daron Acemoglu, James A. Robinson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28827#fromrss",
+          "author": null,
+          "description": "We quantify the role of global production linkages in explaining spillovers of  U.S. monetary policy shocks to stock returns across countries and sectors using a newly constructed dataset. Our estimation strategy is based on a standard open-economy production network model that delivers a spillover pattern consistent with a spatial autoregression (SAR) process. We  use the SAR model to decompose the overall impact of U.S. monetary policy on global stock returns into a direct and a  network effect. We find that nearly 70% of the total impact of  U.S. monetary policy shocks on  country-sector stock returns are due to the network effect of global production linkages. Our results are robust to changes in the definitions of stock returns and monetary policy shocks, to controlling for correlates of the global financial cycle, foreign monetary policy shocks, and to  alternative empirical specifications.",
+          "link": "https://www.nber.org/papers/w28827#fromrss",
+          "publishedOn": "2021-05-24T04:28:17.015Z",
+          "wordCount": 928,
+          "title": "Stock Market Spillovers via the Global Production Network: Transmission of U.S. Monetary Policy -- by Julian di Giovanni, Galina Hale"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28826#fromrss",
+          "author": null,
+          "description": "A recent literature has studied bunching at notches in tax systems; but work on the implications of bunching for welfare has been limited. We consider a setting where there are discrete changes in the enforcement of tax compliance at certain levels of reported income, creating notches that can lead to bunching. We find that greater levels of bunching can be associated with greater tax efficiency. A simulation exercise demonstrates that notches with greater bunching can be associated with higher welfare than notches with less bunching, and that a tax system with  bunching at a notch can generate higher overall social welfare than a revenue-equivalent no-evasion linear tax.",
+          "link": "https://www.nber.org/papers/w28826#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.997Z",
+          "wordCount": 758,
+          "title": "Tax Evasion, Efficiency, and Bunching in the Presence of Enforcement Notches -- by Daniel M. Hungerman"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28825#fromrss",
+          "author": null,
+          "description": "In the past several decades the experimental method has lent deep insights into economics.  One perhaps surprising area that has contributed is the experimental study of children, where advances as varied as the evolution of human behaviors that shape markets and institutions, to how early life influences shape later life outcomes, have been explored. We first develop a framework for economic preference measurement that provides a lens into how to interpret data from experiments with children. Next, we survey work that provides general empirical insights within our framework.  Finally, we provide 10 tips for pulling off experiments with children, including factors such as taking into account child competencies, causal identification, and logistical issues related to recruitment and implementation.  We envision the experimental study of children as a high growth research area in the coming decades as social scientists begin to more fully appreciate that children are active participants in markets who (might) respond predictably to economic incentives.",
+          "link": "https://www.nber.org/papers/w28825#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.966Z",
+          "wordCount": 860,
+          "title": "How Experiments with Children Inform Economics -- by John A. List, Ragan Petrie, Anya Samek"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28824#fromrss",
+          "author": null,
+          "description": "We provide evidence that the online discussion on the WSB subreddit had a substantial negative impact on the profitability of shorting strategies across a number of stocks — even those that  were neither heavily discussed on the subreddit, nor experienced an unusual increase in retail buying volume. We provide a model to explain how fears among short sellers can become self-fulfilling. In the model, the market for shares and the lending market must clear jointly. Despite standard assumptions, the model features multiple equilibria and \"run-type'' behavior by shorting agents.  More broadly, the model provides a tractable framework to interpret several empirical observations on the relation between short interest, lending fees, and expected returns.",
+          "link": "https://www.nber.org/papers/w28824#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.950Z",
+          "wordCount": 756,
+          "title": "A Long and a Short Leg Make For a Wobbly Equilibrium -- by Nicolae B. Gârleanu, Stavros Panageas, Geoffery X. Zheng"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28823#fromrss",
+          "author": null,
+          "description": "This study evaluates two interventions for residential water conservation. Comparing households across an enforcement algorithm’s cutoff using a regression discontinuity design, we find that automated irrigation violation warnings cause substantial water conservation but also shift some consumption from regulated to unregulated hours within the week. In contrast, we show using data from a randomized experiment with the same customers that normative Home Water Reports reduce water use by a much smaller amount, but that this social pressure is effective during all hours both before and after automating irrigation policy enforcement. Our findings highlight the merits of implementing multidimensional conservation programs.",
+          "link": "https://www.nber.org/papers/w28823#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.921Z",
+          "wordCount": 885,
+          "title": "Automated Enforcement of Irrigation Regulations and Social Pressure for Water Conservation -- by Jeremy D. West, Robert W. Fairlie, Bryan E. Pratt, Liam Rose"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28821#fromrss",
+          "author": null,
+          "description": "Societies worldwide spend substantial resources celebrating religious festivals. How do festivals influence economic and social outcomes? We study Catholic patron saint day festivals in Mexico, exploiting two features of the setting: (i) municipal festival dates vary across the calendar and were determined in the early history of towns after Spanish conquest, and (ii) there is considerable variation in the intra-annual timing of agricultural seasons. We compare municipalities with “agriculturally-coinciding” festivals (those that coincide with peak planting or harvest months) to other municipalities, examining differences in long-run economic development and social outcomes. Agriculturally-coinciding festivals have negative effects on household income and other development outcomes. They also lead to lower agricultural productivity and higher share of the labor force in agriculture, consistent with agriculturally-coinciding festivals inhibiting the structural transformation of the economy. Agriculturally-coinciding festivals also lead to higher religiosity and social capital, potentially explaining why such festivals persist in spite of their negative growth consequences.",
+          "link": "https://www.nber.org/papers/w28821#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.907Z",
+          "wordCount": 876,
+          "title": "Religious Festivals and Economic Development: Evidence from Catholic Saint Day Festivals in Mexico -- by Eduardo Montero, Dean Yang"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28822#fromrss",
+          "author": null,
+          "description": "This paper estimates the relationship between investments in five distributed generation technologies and hourly net injections to the distribution grid for over 2,000 substations in France between 2005 and 2018. We find that investments in distributed wind and solar capacity have little or no impact on the annual peak of hourly net injections to the distribution grid, while investments in hydroelectric and thermal distributed generation significantly reduce it. An optimistic analysis of battery storage suggests that high levels of investments are required for distributed wind and solar investments to deliver similar reductions in the annual peak of hourly net injections.",
+          "link": "https://www.nber.org/papers/w28822#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.891Z",
+          "wordCount": 761,
+          "title": "What Kinds of Distributed Generation Technologies Defer Network Expansions? Evidence from France -- by Nicolas Astier, Ram Rajagopal, Frank A. Wolak"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28820#fromrss",
+          "author": null,
+          "description": "To understand gender differences in the job search process, we collect rich information on job offers and acceptances from past and current undergraduates of Boston University's Questrom School of Business. We document two novel empirical facts: (1) there is a clear gender difference in the timing of job offer acceptance, with women accepting jobs substantially earlier than men, and (2) the gender earnings gap in accepted offers narrows in favor of women over the course of the job search period. Using survey data on risk preferences and beliefs about expected future earnings, we present empirical evidence that the patterns in job search can be partly explained by the higher levels of risk aversion displayed by women and the higher levels of overoptimism (and slower belief updating) displayed by men. We develop a job search model that incorporates these gender differences in risk aversion and (over)optimism about prospective offers. Our counterfactual exercises show that simple policies such as eliminating ``exploding offers\" by allowing students to hold onto offers for an additional month, or providing them with accurate information about the labor market, can reduce the gender gap significantly.",
+          "link": "https://www.nber.org/papers/w28820#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.857Z",
+          "wordCount": 968,
+          "title": "Gender Differences in Job Search and the Earnings Gap: Evidence from Business Majors -- by Patricia Cortés, Jessica Pan, Laura Pilossoph, Basit Zafar"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28819#fromrss",
+          "author": null,
+          "description": "Starting in 2009, the German state of Saxony distributed sports club membership vouchers among all 33,000 third graders in the state. The policy’s objective was to encourage them to develop a long-term habit of exercising. In 2018, we carried out a large register-based survey among several cohorts in Saxony and two neighboring states. Our difference-indifferences estimations show that, even after a decade, awareness of the voucher program was significantly higher in the treatment group. We also find that youth received and redeemed the vouchers. However, we do not find significant short- or long-term effects on sports club membership, physical activity, overweightness, or motor skills.",
+          "link": "https://www.nber.org/papers/w28819#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.841Z",
+          "wordCount": 948,
+          "title": "The Long-Run Effects of Sports Club Vouchers for Primary School Children -- by Jan Marcus, Thomas Siedler, Nicolas R. Ziebarth"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28818#fromrss",
+          "author": null,
+          "description": "Government transfer programs to distribute food, water, or electricity at low or no cost have been widespread during the COVID-19 global health crisis. How does program design affect the efficiency and distributional implications of these policies? And what design features determine their political popularity? We study these questions in the context of a program to distribute relief through the electric utility in Accra, Ghana, using data from 1,200 households surveyed during the COVID-19 crisis. We find that distributing relief through electricity transfers has significant advantages. It enables an immediate government response to the crisis because it leverages the existing financial infrastructure between the government utility and households. Moreover, theoretical efficiency concerns about in-kind transfers are mitigated because the transfers are inframarginal for most households and electricity credit can be stored, with many even preferring electricity transfers over cash. These advantages do not preclude delays in transfer receipt and the exclusion of some eligible households, and the program is regressive in both design and implementation. The households least likely to receive relief are those who use less electricity, pay a landlord or other intermediary for electricity, or share an electricity meter with other users – all common among low-income electricity consumers in urban settings. Finally, transfer receipt increases support for the governing party, but support for the program drops significantly if even a fraction of its costs are to be recovered through future electricity tariff increases. Concerns around disbursing relief through utility transfers in this context thus arise not from efficiency loss, but from regressivity, distributional challenges, and politicization.",
+          "link": "https://www.nber.org/papers/w28818#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.823Z",
+          "wordCount": 1005,
+          "title": "Disbursing Emergency Relief through Utilities: Evidence from Ghana -- by Susanna B. Berkouwer, Pierre E. Biscaye, Steven L. Puller, Catherine Wolfram"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28817#fromrss",
+          "author": null,
+          "description": "Unlike demand studies in other industries, models of provider demand in health care often must omit a price or any other factor that equilibrates the market. Estimates of the consumer response to quality may consequently be attenuated, if the limited capacity of individual providers prevents some consumers from obtaining higher quality. We propose a tractable method to address this problem by adding a congestion effect to standard discrete-choice models. We show analytically how this improves forecasts of the consumer response to quality. We then apply this method to the market for heart surgery, and find that the attenuation bias in estimated quality effects can be important empirically.",
+          "link": "https://www.nber.org/papers/w28817#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.789Z",
+          "wordCount": 785,
+          "title": "Measuring Quality Effects in Equilibrium -- by Seth Richards-Shubik, Mark S. Roberts, Julie M. Donohue"
+        },
+        {
+          "id": "https://www.nber.org/papers/w28793#fromrss",
+          "author": null,
+          "description": "How do the different elements in the standard bundle of property rights, including those of possession and transfer, influence the shape of cities? This paper incorporates insecure property rights into a standard model of urban land prices and density, and makes predictions about investment in land and property, informality, and the efficiency of land use. Our empirical analysis links data on institutions for land titling and transfer with multiple urban outcomes, in 190 countries. The evidence is generally consistent with the model’s predictions, and more broadly with the Demsetz’s (1967) approach to property rights institutions. Indeed, we document world-wide improvements in the quality of institutions facilitating property transfer over time.",
+          "link": "https://www.nber.org/papers/w28793#fromrss",
+          "publishedOn": "2021-05-24T04:28:16.770Z",
+          "wordCount": 793,
+          "title": "Property Rights and Urban Form -- by Simeon Djankov, Edward L. Glaeser, Valeria Perotti, Andrei Shleifer"
+        },
         {
           "id": "https://www.nber.org/papers/w28796#fromrss",
           "author": null,
