@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-26T04:47:27.611Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-26T08:28:45.200Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A new template for the European fiscal framework]]></title>
+        <id>https://voxeu.org/article/new-template-european-fiscal-framework</id>
+        <link href="https://voxeu.org/article/new-template-european-fiscal-framework"/>
+        <updated>2021-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The temporary suspension of the European fiscal rules to enable member states to take emergency measures against the Covid crisis offers an opportunity for an ambitious reform of a now clearly outdated fiscal framework. This column, part of the Vox debate on euro area reform, argues that the reactivation of the rules, now foreseen in 2023, should be made contingent on a political agreement on reforming the fiscal framework, and proposes a comprehensive reform in which the new European fiscal framework would prioritise externalities arising from debt sustainability risks and demand spillovers. Fiscal targets should be differentiated depending on country vulnerabilities and implemented in a more decentralised way.]]></summary>
+        <author>
+            <name>Philippe Martin, Jean Pisani-Ferry, Xavier Ragot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The heterogeneous impact of short-time work]]></title>
+        <id>https://voxeu.org/article/heterogeneous-impact-short-time-work</id>
+        <link href="https://voxeu.org/article/heterogeneous-impact-short-time-work"/>
+        <updated>2021-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Covid-19 crisis transformed short-time work into the first choice of policymakers across Europe. But this newfound enthusiasm should not obscure the dearth of studies addressing short-time work’s long-term consequences. Using detailed data covering the universe of French firms during the 2008-2009 Great Recession, this column finds that short-time work saved jobs in firms hit by powerful negative revenue shocks, but not in firms hit less severely. Still, short-time work remains a more cost-efficient way than wage subsidies to save jobs.]]></summary>
+        <author>
+            <name>Pierre Cahuc, Francis Kramarz, Sandra Nevoux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why shareholder capitalism benefits wider society]]></title>
+        <id>https://voxeu.org/article/why-shareholder-capitalism-benefits-wider-society</id>
+        <link href="https://voxeu.org/article/why-shareholder-capitalism-benefits-wider-society"/>
+        <updated>2021-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In 2020, the European Commission tasked EY to study directors’ duties and sustainable corporate governance, to identify why companies focus on “short-term shareholder value maximisation rather than the long-term interest of the company”. Leading academics and practitioners have questioned the study recommendations and issued a Call for Reflection. This column highlights some of the concerns raised. “Short-term shareholder value” is an oxymoron because shareholder value is an inherently long-term concept. If short-termism is the problem, the remedy is greater focus on (long-term) shareholder value rather than less.]]></summary>
+        <author>
+            <name>Alex Edmans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Experiments with Children Inform Economics -- by John A. List, Ragan Petrie, Anya Samek]]></title>
         <id>https://www.nber.org/papers/w28825#fromrss</id>

@@ -474,6 +474,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/new-template-european-fiscal-framework",
+          "author": "Philippe Martin, Jean Pisani-Ferry, Xavier Ragot",
+          "description": "The temporary suspension of the European fiscal rules to enable member states to take emergency measures against the Covid crisis offers an opportunity for an ambitious reform of a now clearly outdated fiscal framework. This column, part of the Vox debate on euro area reform, argues that the reactivation of the rules, now foreseen in 2023, should be made contingent on a political agreement on reforming the fiscal framework, and proposes a comprehensive reform in which the new European fiscal framework would prioritise externalities arising from debt sustainability risks and demand spillovers. Fiscal targets should be differentiated depending on country vulnerabilities and implemented in a more decentralised way.",
+          "link": "https://voxeu.org/article/new-template-european-fiscal-framework",
+          "publishedOn": "2021-05-26T00:00:00.000Z",
+          "wordCount": 2797,
+          "title": "A new template for the European fiscal framework"
+        },
+        {
+          "id": "https://voxeu.org/article/heterogeneous-impact-short-time-work",
+          "author": "Pierre Cahuc, Francis Kramarz, Sandra Nevoux",
+          "description": "The Covid-19 crisis transformed short-time work into the first choice of policymakers across Europe. But this newfound enthusiasm should not obscure the dearth of studies addressing short-time work’s long-term consequences. Using detailed data covering the universe of French firms during the 2008-2009 Great Recession, this column finds that short-time work saved jobs in firms hit by powerful negative revenue shocks, but not in firms hit less severely. Still, short-time work remains a more cost-efficient way than wage subsidies to save jobs.",
+          "link": "https://voxeu.org/article/heterogeneous-impact-short-time-work",
+          "publishedOn": "2021-05-26T00:00:00.000Z",
+          "wordCount": 2349,
+          "title": "The heterogeneous impact of short-time work"
+        },
+        {
+          "id": "https://voxeu.org/article/why-shareholder-capitalism-benefits-wider-society",
+          "author": "Alex Edmans",
+          "description": "In 2020, the European Commission tasked EY to study directors’ duties and sustainable corporate governance, to identify why companies focus on “short-term shareholder value maximisation rather than the long-term interest of the company”. Leading academics and practitioners have questioned the study recommendations and issued a Call for Reflection. This column highlights some of the concerns raised. “Short-term shareholder value” is an oxymoron because shareholder value is an inherently long-term concept. If short-termism is the problem, the remedy is greater focus on (long-term) shareholder value rather than less.",
+          "link": "https://voxeu.org/article/why-shareholder-capitalism-benefits-wider-society",
+          "publishedOn": "2021-05-26T00:00:00.000Z",
+          "wordCount": 2651,
+          "title": "Why shareholder capitalism benefits wider society"
+        },
+        {
           "id": "https://voxeu.org/content/resilience-financial-system-natural-disasters",
           "author": "Patrick Bolton, Marcin Kacperczyk, Harrison Hong, Xavier Vives",
           "description": "The Covid-19 pandemic has exposed severe vulnerabilities in the global financial system, and serves as a cautionary tale for the potentially devastating effects that future natural disasters and climate change could cause to the world economy. The third report in The Future of Banking series tests precisely how resilient the financial system is to natural disasters and discusses what can be done to make it more resilient.",
@@ -1270,5 +1297,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }
