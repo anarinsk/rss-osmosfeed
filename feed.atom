@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-26T00:56:47.432Z</updated>
+    <updated>2021-05-26T04:47:27.611Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -4316,16 +4316,6 @@ CHAPTER 7 앙상블 기법
         <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
         <author>
             <name>Carlos Alós-Ferrer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Money and matriculation]]></title>
-        <id>https://www.aeaweb.org/news/charts/lottery-wins-college-decisions</id>
-        <link href="https://www.aeaweb.org/news/charts/lottery-wins-college-decisions"/>
-        <updated>2021-04-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Winning the lottery boosts the odds that a family will send a child to college, but only if they win big, according to a  paper in the American Economic Review.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
