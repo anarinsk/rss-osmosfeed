@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-26T08:28:45.200Z</updated>
+    <updated>2021-05-26T12:25:34.125Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The pros and cons of collaboration]]></title>
+        <id>https://www.aeaweb.org/research/ben-jones-research-teams-pros-cons</id>
+        <link href="https://www.aeaweb.org/research/ben-jones-research-teams-pros-cons"/>
+        <updated>2021-05-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An increasing amount of research is being done by teams these days than by individuals. We spoke with Ben Jones about his paper in the Journal of Economic Perspectives on the pros and cons of collaboration and few reforms that could help ensure coauthors get fair credit for their work.]]></summary>
+        <author>
+            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A new template for the European fiscal framework]]></title>
         <id>https://voxeu.org/article/new-template-european-fiscal-framework</id>
