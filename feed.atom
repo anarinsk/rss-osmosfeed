@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-26T12:25:34.125Z</updated>
+    <updated>2021-05-26T16:43:08.083Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Package Manager 1.0]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=6715</id>
+        <link href="https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/"/>
+        <updated>2021-05-26T16:00:23.000Z</updated>
+        <summary type="html"><![CDATA[We started a journey to build a native package manager for Windows 10 when we announced the Windows Package Manager preview at Microsoft Build 2020. We released the project on GitHub as an open-source collaborative effort and the community engagement has been wonderful to experience!
+The post Windows Package Manager 1.0 appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Demitrius Nelon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The pros and cons of collaboration]]></title>
         <id>https://www.aeaweb.org/research/ben-jones-research-teams-pros-cons</id>

@@ -452,6 +452,15 @@
       "siteUrl": "https://devblogs.microsoft.com/commandline",
       "articles": [
         {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6715",
+          "author": "Demitrius Nelon",
+          "description": "We started a journey to build a native package manager for Windows 10 when we announced the Windows Package Manager preview at Microsoft Build 2020. We released the project on GitHub as an open-source collaborative effort and the community engagement has been wonderful to experience!\nThe post Windows Package Manager 1.0 appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/",
+          "publishedOn": "2021-05-26T16:00:23.000Z",
+          "wordCount": 1268,
+          "title": "Windows Package Manager 1.0"
+        },
+        {
           "id": "https://devblogs.microsoft.com/commandline/?p=6739",
           "author": "Kayla Cinnamon",
           "description": "Happy Microsoft Build 2021 and happy 2nd birthday to Windows Terminal! This release introduces version 1.9 to Windows Terminal Preview and migrates Windows Terminal to version 1.8. As always, you can install both builds from the Microsoft Store as well as from the GitHub releases page.\nThe post Windows Terminal Preview 1.9 Release appeared first on Windows Command Line.",
