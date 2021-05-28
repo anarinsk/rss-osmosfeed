@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-28T16:53:32.502Z</updated>
+    <updated>2021-05-28T20:35:32.106Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Financial integration and structure in EMU during the corona crisis]]></title>
+        <id>https://voxeu.org/article/financial-integration-and-structure-emu-during-corona-crisis</id>
+        <link href="https://voxeu.org/article/financial-integration-and-structure-emu-during-corona-crisis"/>
+        <updated>2021-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The coronavirus health crisis also had a strong impact on financial systems. This column discusses its effects on euro area financial integration and financial structure. It illustrates how decisive monetary, fiscal and prudential policy responses first contained and then reversed the initial sharp fragmentation in asset prices across member countries. Overall cross-border asset holdings, however, still have to recover. The emerging alignment between common monetary and fiscal measures through the adoption of the three European safety nets and the Next Generation EU recovery programme seem to have been a game-changer in this regard. The resilience of financial re-integration to potential future shocks to the Economic and Monetary Union, however, should be monitored going forward. The different phases of the pandemic also went along with sizeable shifts between different corporate financing tools and different financial intermediaries.]]></summary>
+        <author>
+            <name>Philipp Hartmann, Stefano Borgioli, Alina  Kempf, Philippe Molitor, Francesco Paolo Mongelli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter changes how the media reports conflict]]></title>
         <id>https://voxeu.org/vox-talks/twitter-changes-how-media-reports-conflict</id>
