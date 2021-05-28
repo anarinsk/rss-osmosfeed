@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-28T01:07:09.311Z</updated>
+    <updated>2021-05-28T05:30:07.840Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trade unions in America: The times they are a-changin’]]></title>
+        <id>https://voxeu.org/article/trade-unions-america-times-they-are-changin</id>
+        <link href="https://voxeu.org/article/trade-unions-america-times-they-are-changin"/>
+        <updated>2021-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The US labour market is producing too few jobs and those it is producing are often low paid and of poor quality. This is exacerbated by the fact that workers do not have the means to fix their problems at work because of a precipitous decline in union membership over the last half century, particularly in the private sector. Using panel data from the National Longitudinal Survey of Youth 1979 and 1997 cohorts and from the Bureau of Labor Statistics, this column shows that union density is now on the rise and that union workers are now more satisfied than non-union workers. Unions’ ability to help workers avoid underemployment suggests that what seems to have changed is the value attached to the insurance component of the union good.]]></summary>
+        <author>
+            <name>Benjamin Artz, David Blanchflower, Alex Bryson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The reliability of public debt forecasts]]></title>
+        <id>https://voxeu.org/article/reliability-public-debt-forecasts</id>
+        <link href="https://voxeu.org/article/reliability-public-debt-forecasts"/>
+        <updated>2021-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Public debt ratios have increased significantly in 2020 from already elevated levels. Current projections envisage a quick stabilisation and subsequent decline in debt ratios. This column assesses the likelihood of this projection by looking at past evidence on forecast accuracy, based on a new comprehensive dataset of medium-term debt forecasts. It finds that forecasts have systematically understated the actual evolution of debt. If the past is a guide to the future, rather than declining, debt ratios could be some 7% of GDP higher five years from now than they are today in emerging and developing countries.]]></summary>
+        <author>
+            <name>Julia Estefania Flores, Davide Furceri, Siddharth Kothari, Jonathan D. Ostry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The origin of the gender gap]]></title>
         <id>https://voxeu.org/article/origin-gender-gap</id>
@@ -5151,16 +5171,6 @@ CHAPTER 7 앙상블 기법
         <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
         <author>
             <name>E. Somanathan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Africa's own Green Revolution]]></title>
-        <id>https://www.aeaweb.org/research/dean-yang-africa-green-revolution</id>
-        <link href="https://www.aeaweb.org/research/dean-yang-africa-green-revolution"/>
-        <updated>2021-04-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Green Revolution of the mid-20th century left sub-Saharan Africa behind. We spoke with Dean Yang about his paper in the American Economic Journal: Applied Economics that measured the potential effects from temporary subsidies to help farmers boost crop yields.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>

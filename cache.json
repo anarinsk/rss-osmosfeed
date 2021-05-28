@@ -537,6 +537,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/trade-unions-america-times-they-are-changin",
+          "author": "Benjamin Artz, David Blanchflower, Alex Bryson",
+          "description": "The US labour market is producing too few jobs and those it is producing are often low paid and of poor quality. This is exacerbated by the fact that workers do not have the means to fix their problems at work because of a precipitous decline in union membership over the last half century, particularly in the private sector. Using panel data from the National Longitudinal Survey of Youth 1979 and 1997 cohorts and from the Bureau of Labor Statistics, this column shows that union density is now on the rise and that union workers are now more satisfied than non-union workers. Unions’ ability to help workers avoid underemployment suggests that what seems to have changed is the value attached to the insurance component of the union good.",
+          "link": "https://voxeu.org/article/trade-unions-america-times-they-are-changin",
+          "publishedOn": "2021-05-28T00:00:00.000Z",
+          "wordCount": 2074,
+          "title": "Trade unions in America: The times they are a-changin’"
+        },
+        {
+          "id": "https://voxeu.org/article/reliability-public-debt-forecasts",
+          "author": "Julia Estefania Flores, Davide Furceri, Siddharth Kothari, Jonathan D. Ostry",
+          "description": "Public debt ratios have increased significantly in 2020 from already elevated levels. Current projections envisage a quick stabilisation and subsequent decline in debt ratios. This column assesses the likelihood of this projection by looking at past evidence on forecast accuracy, based on a new comprehensive dataset of medium-term debt forecasts. It finds that forecasts have systematically understated the actual evolution of debt. If the past is a guide to the future, rather than declining, debt ratios could be some 7% of GDP higher five years from now than they are today in emerging and developing countries.",
+          "link": "https://voxeu.org/article/reliability-public-debt-forecasts",
+          "publishedOn": "2021-05-28T00:00:00.000Z",
+          "wordCount": 2485,
+          "title": "The reliability of public debt forecasts"
+        },
+        {
           "id": "https://voxeu.org/article/origin-gender-gap",
           "author": "Arash Nekoei, Fabian Sinn",
           "description": "The international differences in women’s status are striking. When and where did those differences first emerge? This column uses data from the Human Biological Record to explore women’s status over the last 5,000 years. Historically, elite women were either born into influential families or married into them. Only in the 17th century did the share of women among ‘self-mades’ rise, among writers. The return rate of family connections has fluctuated over history, but a gender gap in that return rate persisted. The rise of self-made women reflects a rise in the return on women’s skill.",
@@ -1080,15 +1098,6 @@
           "publishedOn": "2021-05-03T15:00:00.000Z",
           "wordCount": 936,
           "title": "The effectiveness of HARP"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/dean-yang-africa-green-revolution",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "The Green Revolution of the mid-20th century left sub-Saharan Africa behind. We spoke with Dean Yang about his paper in the American Economic Journal: Applied Economics that measured the potential effects from temporary subsidies to help farmers boost crop yields.",
-          "link": "https://www.aeaweb.org/research/dean-yang-africa-green-revolution",
-          "publishedOn": "2021-04-28T15:00:00.000Z",
-          "wordCount": 1749,
-          "title": "Creating Africa's own Green Revolution"
         }
       ]
     },
