@@ -2,10 +2,310 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-05-31T01:40:49.839Z</updated>
+    <updated>2021-05-31T05:44:33.501Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Common Agent or Double Agent? Pharmacy Benefit Managers in the Prescription Drug Market -- by Rena M. Conti, Brigham Frandsen, Michael L. Powell, James B. Rebitzer]]></title>
+        <id>https://www.nber.org/papers/w28866#fromrss</id>
+        <link href="https://www.nber.org/papers/w28866#fromrss"/>
+        <updated>2021-05-31T05:44:22.527Z</updated>
+        <summary type="html"><![CDATA[In the U.S., pharmacy benefit managers (PBMs) manage prescription drug purchases for payers. Firms selling branded pharmaceuticals bid for preferred slots on the PBM's formulary by offering rebates off of list price. We find that PBMs enhance efficiency, but the gains do not accrue to consumers or drug makers. Our analysis offers insights into otherwise puzzling questions. Why do drug makers pay rebates to PBMs? Why do payers delegate formulary operations to a few large PBMs? Why are list prices so high? Why might PBMs vertically integrate with payers? Our framework also offers insights into proposals for market reform.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Time is Not so Different: Income Dynamics During the COVID-19 Recession -- by Brian D. Bell, Nicholas Bloom, Jack Blundell]]></title>
+        <id>https://www.nber.org/papers/w28871#fromrss</id>
+        <link href="https://www.nber.org/papers/w28871#fromrss"/>
+        <updated>2021-05-31T05:44:22.500Z</updated>
+        <summary type="html"><![CDATA[We use a UK employer-employee administrative earnings dataset to investigate the response of earnings and hours to business cycles. Exploiting our long panel of data from 1975 to 2020 we find wide heterogeneity in the exposure of different types of workers to aggregate shocks. Employees who are younger, male, lower-skilled, non-union, and working in smaller private sector firms show the largest earnings response to recessions. The qualitative patterns of earnings changes across workers observed in the COVID-19 recession are broadly as predicted using the previously estimated exposures and size of the GDP shock. This suggests the COVID-19 recession in terms of its impact responses was relatively similar to those that have gone before, but the GDP shock was far larger in absolute size. Compared to aggregate shocks, we find a relatively small role of firm-specific shocks, suggesting macro shocks play an outsized role in individual earnings dynamics.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Donut Effect of Covid-19 on Cities -- by Arjun Ramani, Nicholas Bloom]]></title>
+        <id>https://www.nber.org/papers/w28876#fromrss</id>
+        <link href="https://www.nber.org/papers/w28876#fromrss"/>
+        <updated>2021-05-31T05:44:22.489Z</updated>
+        <summary type="html"><![CDATA[Using data from the US Postal Service and Zillow, we quantify the effect of Covid-19 on migration patterns and real estate markets within and across US cities. We find two key results. First, within large US cities, households, businesses, and real estate demand have moved from dense central business districts (CBDs) towards lower density suburban zip-codes. We label this the “Donut Effect” reflecting the movement of activity out of city centers to the suburban ring. Second, while this observed reallocation occurs within cities, we do not see major reallocation across cities. That is, there is less evidence for large-scale movement of activity from large US cities to smaller regional cities or towns. We rationalize these findings by noting that working patterns post pandemic will frequently be hybrid, with workers commuting to their business premises typically three days per week. This level of commuting is less than pre-pandemic, making suburbs relatively more popular, but too frequent to allow employees to leave the cities containing their employer.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning about Homelessness Using Linked Survey and Administrative Data -- by Bruce D. Meyer, Angela Wyse, Alexa Grunwaldt, Carla Medalia, Derek Wu]]></title>
+        <id>https://www.nber.org/papers/w28861#fromrss</id>
+        <link href="https://www.nber.org/papers/w28861#fromrss"/>
+        <updated>2021-05-31T05:44:22.448Z</updated>
+        <summary type="html"><![CDATA[Official poverty statistics and even the extreme poverty literature largely ignore people experiencing homelessness. In this paper, we examine the characteristics, labor market attachment, geographic mobility, earnings, and safety net utilization of this population in order to understand their economic well-being. This paper is the first to examine these outcomes at the national level using administrative data on income and government program receipt. It is part of the Comprehensive Income Dataset project, which combines household survey data with administrative records to improve estimates of income and related statistics. Specifically, we use restricted microdata from the 2010 Decennial Census, which enumerates both sheltered and unsheltered homeless people, the 2006-2016 American Community Survey (ACS), which surveys sheltered homeless people, and longitudinal shelter-use data from several major U.S. cities. We link these data to longitudinal administrative tax records as well as administrative data on the Supplemental Nutrition Assistance Program (SNAP), veterans’ benefits, Medicare, Medicaid, housing assistance, and mortality. Our approach benefits from large samples that offer a guide to national homelessness patterns and allow us to compare estimates between data sources, including the Department of Housing and Urban Development (HUD)’s point-in-time (PIT) counts. By shedding light on issues of data linkage and survey coverage among homeless people, this paper contributes to efforts to better incorporate this hard-to-survey population into income and poverty estimates.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Market Size and Research: Evidence from the Pharmaceutical Industry -- by Dennis Byrski, Fabian Gaessler, Matthew J. Higgins]]></title>
+        <id>https://www.nber.org/papers/w28858#fromrss</id>
+        <link href="https://www.nber.org/papers/w28858#fromrss"/>
+        <updated>2021-05-31T05:44:22.264Z</updated>
+        <summary type="html"><![CDATA[Prior literature has established a link between changes in market size and pharmaceutical innovation; whether a link exists with scientific research remains an open question. If upstream research is not responsive to these changes, the kinds of scientific discoveries that flow into future drug development could be disconnected from downstream demand. We explore this question by exploiting the effects of quasi-experimental variation in market size introduced by Medicare Part D. We find no causal relationship between market size and biomedical research in the decade following the implementation of Medicare Part D. While many factors have been shown to motivate scientists to conduct research, this result suggests that changes in market size provide no such incentive. We do find, however, limited support for a response by corporate scientists conducting applied research. Implications for pharmaceutical innovation policy are discussed.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreclosure Spillovers within broad Neighborhoods -- by Weiran Huang, Ashlyn Nelson, Stephen Ross]]></title>
+        <id>https://www.nber.org/papers/w28851#fromrss</id>
+        <link href="https://www.nber.org/papers/w28851#fromrss"/>
+        <updated>2021-05-31T05:44:21.831Z</updated>
+        <summary type="html"><![CDATA[Most evidence on foreclosure spillovers identifies localized effects that are modest in magnitude, but these effects could multiply to larger aggregate effects across broad neighborhoods. We test this proposition developing a proxy for the fraction of mortgages in negative equity during the foreclosure crisis and estimating a difference-in-differences model for foreclosure. This proxy exploits the timing of foreclosures in each tract, and this within tract variation is not predicted by mortgage attributes, housing attributes or sales prices. Our estimates suggest that 61 percent of the increase in across tract dispersion in foreclosure filings can be explained by these spillover effects.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Data Privacy Paradox and Digital Demand -- by Long Chen, Yadong Huang, Shumiao Ouyang, Wei Xiong]]></title>
+        <id>https://www.nber.org/papers/w28854#fromrss</id>
+        <link href="https://www.nber.org/papers/w28854#fromrss"/>
+        <updated>2021-05-31T05:44:21.728Z</updated>
+        <summary type="html"><![CDATA[A central issue in privacy governance is understanding how users balance their privacy preferences and data sharing to satisfy service demands. We combine survey and behavioral data of a sample of Alipay users to examine how data privacy preferences affect their data sharing with third-party mini-programs on the Alipay platform. We find that there is no relationship between the respondents’ self-stated privacy concerns and their number of data-sharing authorizations, confirming the puzzling data privacy paradox. Instead of attributing this paradox to the respondents’ unreliable survey responses, resignation from active protection of their data privacy, or behavioral factors in making their data-sharing choices, we show that this phenomenon can be explained by a curious finding that users with stronger privacy concerns tend to benefit more from using mini-programs. This positive relationship between privacy concerns and digital demands further suggests that consumers may develop data privacy concerns as a by-product of the process of using digital applications, not because such concerns are innate.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tackling the Substance Abuse Crisis: The Role of Access to Treatment Facilities -- by Adriana Corredor-Waldron, Janet Currie]]></title>
+        <id>https://www.nber.org/papers/w28862#fromrss</id>
+        <link href="https://www.nber.org/papers/w28862#fromrss"/>
+        <updated>2021-05-31T05:44:21.712Z</updated>
+        <summary type="html"><![CDATA[The continuing drug overdose crisis in the U.S. has highlighted the urgent need for greater access to treatment.  This paper examines the impact of openings and closings of substance abuse treatment facilities in New Jersey on emergency room visits for substance abuse issues among nearby residents.  We find that drug-related ER visits increase by 16.6% after a facility closure and decrease by 9.5% after an opening.  The effects are largest in relatively under-served areas, among Black residents, and among males.  They are smaller for the middle aged than for either younger or older people.   The results suggest that expanding access to treatment results in significant reductions in morbidity related to drug abuse.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Social Security Reform Indecision Affect Younger Cohorts? -- by John B. Shoven, Sita Slavov, John G. Watson]]></title>
+        <id>https://www.nber.org/papers/w28850#fromrss</id>
+        <link href="https://www.nber.org/papers/w28850#fromrss"/>
+        <updated>2021-05-31T05:44:21.665Z</updated>
+        <summary type="html"><![CDATA[The Social Security trust fund will be exhausted in the early 2030s. The U.S. government will need to make a choice about how to address the impending trust fund exhaustion, but it is unclear what it will choose to do. This indecision leaves young and middle-aged workers not knowing whether they will face Social Security benefit cuts, payroll tax increases, or an increase in the full retirement age. This uncertainty about what will happen in the future causes young and middle-aged cohorts who are saving for retirement to make mistakes that could be avoided if the government decided earlier what will happen when the trust fund runs dry. This paper examines the cost of government indecision on Social Security reform. We calculate the value that people in different income classes and different birth cohorts would receive if the government decided now what it will do when the trust funds are exhausted. We find that the cost of indecision can be large. In some cases, the value of knowing today what the policy change will be in 2035 is worth more than two months of labor market earnings.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heterogeneity and Aggregate Fluctuations -- by Minsu Chang, Xiaohong Chen, Frank Schorfheide]]></title>
+        <id>https://www.nber.org/papers/w28853#fromrss</id>
+        <link href="https://www.nber.org/papers/w28853#fromrss"/>
+        <updated>2021-05-31T05:44:21.599Z</updated>
+        <summary type="html"><![CDATA[We develop a state-space model with a state-transition equation that takes the form of a functional vector autoregression and stacks macroeconomic aggregates and a cross-sectional density. The measurement equation captures the error in estimating log densities from repeated cross-sectional samples. The log densities and the transition kernels in the law of motion of the states are approximated by sieves, which leads to a finite-dimensional representation in terms of macroeconomic aggregates and sieve coefficents. We use this model to study the joint dynamics of technology shocks, per capita GDP, employment rates, and the earnings distribution. We find that the estimated spillovers between aggregate and distributional dynamics are generally small, a positive technology shock tends to decrease inequality, and a shock that raises the inequality of earnings leads to a small but not significant increase in GDP.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Pain Lead to Job Loss? A Panel Study for Germany -- by Alan Piper, David G. Blanchflower, Alex Bryson]]></title>
+        <id>https://www.nber.org/papers/w28863#fromrss</id>
+        <link href="https://www.nber.org/papers/w28863#fromrss"/>
+        <updated>2021-05-31T05:44:21.584Z</updated>
+        <summary type="html"><![CDATA[The cross-sectional association between pain and unemployment is well-established.  But the absence of panel data containing data on pain and labor market status has meant less is known about the direction of any causal linkage.  Those longitudinal studies that do examine the link between pain and subsequent labor market transitions suggest results are sensitive to the measurement of pain and model specification. We contribute to this literature using large-scale panel data from the German Socio-Economic Panel (GSOEP) for the period 2002 to 2018.  We show that pain leads to job loss.  Workers suffering pain are more likely than others to leave their job for unemployment or economic inactivity.  This probability rises with the frequency of the pain suffered in the previous month.  The effect persists having accounted for fixed unobserved differences across workers, is apparent among those who otherwise report good general health and is robust to the inclusion of controls for mental health, life satisfaction and the employee’s occupation.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Resilience of the U.S. Corporate Bond Market During Financial Crises -- by Bo Becker, Efraim Benmelech]]></title>
+        <id>https://www.nber.org/papers/w28868#fromrss</id>
+        <link href="https://www.nber.org/papers/w28868#fromrss"/>
+        <updated>2021-05-31T05:44:21.532Z</updated>
+        <summary type="html"><![CDATA[Corporate bond markets proved remarkably resilient against a sharp contraction caused by the 2020 Covid-19 pandemic. We document three important findings: (1) bond issuance increased immediately when the contraction hit, whereas, in contrast, syndicated loan issuance was low; (2) Federal Reserve interventions increased bond issuance, while loan issuance also increased, but to a lesser degree; and (3) bond issuance was concentrated in the investment-grade segment for large and profitable issuers. We compare these results to previous crises and recessions and document similar patterns. We conclude that the U.S. bond market is an important and resilient source of funding for corporations.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reallocating Liquidity to Resolve a Crisis: Evidence from the Panic of 1873 -- by Haelim Anderson, Kinda Cheryl Hachem, Simpson Zhang]]></title>
+        <id>https://www.nber.org/papers/w28870#fromrss</id>
+        <link href="https://www.nber.org/papers/w28870#fromrss"/>
+        <updated>2021-05-31T05:44:21.493Z</updated>
+        <summary type="html"><![CDATA[We study financial stability with constraints on central bank intervention. We show that a forced reallocation of liquidity across banks can achieve fewer bank failures than a decentralized market for interbank loans, reflecting a pecuniary externality in the decentralized equilibrium. Importantly, this reallocation can be implemented through the issuance of clearinghouse loan certificates, such as those issued in New York City during the Panic of 1873. With a new dataset constructed from archival records, we demonstrate that the New York Clearinghouse issued loan certificates to member banks in the way our model suggests would have helped resolve the panic.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Do Environmental Externalities Have Electoral Consequences? Evidence from Fracking -- by Judson Boomhower]]></title>
+        <id>https://www.nber.org/papers/w28857#fromrss</id>
+        <link href="https://www.nber.org/papers/w28857#fromrss"/>
+        <updated>2021-05-31T05:44:21.448Z</updated>
+        <summary type="html"><![CDATA[The electoral salience of some issues may diminish when one politician has authority over many policy areas. This study measures the role of environmental regulation in concurrent elections for governors and specialized energy regulators in two U.S. states. I first show that while both offices can influence environmental and energy policies, quantitative analysis of campaign news coverage reveals clear differences in the importance of these issues in the two races. Next, I use geologic variation in earthquakes caused by oil and gas production to measure the electoral consequences of a costly environmental externality. There are measurable effects only in the energy regulator race. These results are consistent with theories of issue bundling. Finally, the unbundling effects that I measure appear to be themselves limited by voter attentiveness and partisanship.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Innovation Goes Wrong: Technological Regress and the Opioid Epidemic -- by David M. Cutler, Edward L. Glaeser]]></title>
+        <id>https://www.nber.org/papers/w28873#fromrss</id>
+        <link href="https://www.nber.org/papers/w28873#fromrss"/>
+        <updated>2021-05-31T05:44:21.377Z</updated>
+        <summary type="html"><![CDATA[The fivefold increase in opioid deaths between 2000 and 2017 rivals even the COVID-19 pandemic as a health crisis for America. Why did it happen? Measures of demand for pain relief – physical pain and despair – are high but largely unchanging. The primary shift is in supply, primarily of new forms of allegedly safer narcotics.  These new pain relievers flowed mostly to areas with more pain, but since their apparent safety was an illusion, opioid deaths followed. By the end of the 2000s, restrictions on legal opioids led to further supply-side innovations which created the burgeoning illegal market that accounts for the bulk of opioid deaths today. Because opioid use is easier to start than end, America’s opioid epidemic is likely to persist for some time.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Owning the Agent: Hospital Influence on Physician Behaviors -- by Haizhen Lin, Ian M. McCarthy, Michael R. Richards]]></title>
+        <id>https://www.nber.org/papers/w28859#fromrss</id>
+        <link href="https://www.nber.org/papers/w28859#fromrss"/>
+        <updated>2021-05-31T05:44:21.336Z</updated>
+        <summary type="html"><![CDATA[The organizational structure of U.S. health care has changed dramatically in recent years, with nearly half of physicians now employed by hospitals. This trend toward increasing vertical alignment between physicians and hospitals may alter physician behavior relative to physicians remaining in independent or group practices. We examine the effects of such vertical alignment using an instrumental variable strategy and a clinical context facilitating well-defined episodes of care. We find relatively modest positive effects (point estimates of 7% or lower) on total Medicare payments per episode, characterized by an increase in billable activity among other integrated physicians alongside a large decrease in activity among non-integrated providers. Acquiring hospitals ultimately capture more revenue following a physician practice acquisition; yet, the smaller overall bundle of care generates no net savings to Medicare due to location-based payment rules favorable to hospitals.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innovation and Health Disparities During an Epidemic: The Case of HIV -- by Barton Hamilton, Andrés Hincapié, Emma C. Kalish, Nicholas W. Papageorge]]></title>
+        <id>https://www.nber.org/papers/w28864#fromrss</id>
+        <link href="https://www.nber.org/papers/w28864#fromrss"/>
+        <updated>2021-05-31T05:44:21.223Z</updated>
+        <summary type="html"><![CDATA[We examine whether medical innovation can reinforce existing health disparities by disproportionately benefiting socioeconomically advantaged patients. The reason is that less advantaged patients often do not use new medications. This may be due to high costs of new drugs, but could also reflect differences in how side effects of new treatments interact with labor supply. To investigate, we develop a dynamic lifecycle model in which the effect of medical treatment on labor supply varies across sociodemographic groups. We estimate the model using rich data on treatment choices and employment decisions of men infected with HIV. In the model, treatments can improve long-run health, but can also cause immediate side effects that interact with the utility cost of work. Estimates indicate that HIV-infected men often forego medication to avoid side effects, in part to remain employed. This effect is stronger for people with fewer years of education, leading to lower use of treatment and worse health outcomes. As a result, while a breakthrough HIV treatment - known as HAART - improved lifetime utility for all patients, it disproportionately benefitted those with higher levels of completed education, thereby reinforcing existing inequality. A counterfactual subsidy that increases non-labor income reduces employment for all education groups, but only increases adoption of HAART and improves health among lower-education individuals, who face a starker health-work tradeoff.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evidence and Lessons on the Health Impacts of Public Health Funding from the Fight against HIV/AIDS -- by Marcus Dillender]]></title>
+        <id>https://www.nber.org/papers/w28867#fromrss</id>
+        <link href="https://www.nber.org/papers/w28867#fromrss"/>
+        <updated>2021-05-31T05:44:21.211Z</updated>
+        <summary type="html"><![CDATA[HIV/AIDS has been one of the largest public health crises in recent history, and the U.S. federal government has spent hundreds of billions of dollars fighting the disease. This study examines the impact of federal funding allocated to U.S. cities through the Ryan White CARE Act, which is the largest program for combating HIV/AIDS in the United States. The empirical approach identifies the impact of the funding by studying funding variation that comes from Ryan White policy features that resulted in large funding differences among cities that were originally on parallel HIV/AIDS trajectories and finds that Ryan White's city-level funding has improved HIV/AIDS outcomes in the cities receiving the funds. The estimates indicate that one HIV/AIDS death has been avoided for every $314,000 allocated through the program and that the program has saved approximately 60,000 lives through 2018. The estimates also indicate that funding differences across cities have contributed to the uneven progress in combating HIV/AIDS across the United States.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Impact of Selection into the Labor Force on the Gender Wage Gap -- by Francine D. Blau, Lawrence M. Kahn, Nikolai Boboshko, Matthew L. Comey]]></title>
+        <id>https://www.nber.org/papers/w28855#fromrss</id>
+        <link href="https://www.nber.org/papers/w28855#fromrss"/>
+        <updated>2021-05-31T05:44:21.118Z</updated>
+        <summary type="html"><![CDATA[We study the impact of selection bias on estimates of the gender pay gap, focusing on whether the gender pay gap has fallen since 1981.  Previous research has found divergent results across techniques, identification strategies, data sets, and time periods.  Using Michigan Panel Study of Income Dynamics data and a number of different identification strategies, we find robust evidence that, after controlling for selection, there were large declines in the raw and the unexplained gender wage gaps over the 1981-2015 period.  Under our preferred method of accounting for selection, we find that the raw median wage gap declined by 0.378 log points, while the median unexplained gap declined by a more modest but still substantial 0.204 log points.  These declines are larger than estimates that do not account for selection.  Our results suggest that women’s relative wage offers have increased over this period, even after controlling for their measured covariates, including education and actual labor market experience.  However, we note that substantial gender wage gaps remain. In 2015, at the median, the selectivity-corrected gaps were 0.242 log points (raw gap) and 0.206 log points (unexplained gap).]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family Background, Neighborhoods and Intergenerational Mobility -- by Magne Mogstad, Gaute Torsvik]]></title>
+        <id>https://www.nber.org/papers/w28874#fromrss</id>
+        <link href="https://www.nber.org/papers/w28874#fromrss"/>
+        <updated>2021-05-31T05:44:21.024Z</updated>
+        <summary type="html"><![CDATA[This paper reviews the literature on intergenerational mobility. While our review is centered around the large empirical literature on this topic, we also give a brief discussion of some of the relevant theory. We consider three strands of the empirical literature. First, we discuss how to measure intergenerational persistence in various socio-economic outcomes. We discuss both measurement challenges and some notable findings. We then turn to quantifying the importance of family environment and genetic factors for children's outcomes. We describe the pros and cons of various approaches as well as key findings. The third strand is concerned with drawing causal inferences about how children's outcomes are affected by specific features of their family environment. We discuss a wide range of environmental features, including the neighborhoods in which children grow up. We critically assess what conclusions one may and may not draw from certain celebrated studies of neighborhoods and intergenerational mobility.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetary Policy, Redistribution, and Risk Premia -- by Rohan Kekre, Moritz Lenel]]></title>
+        <id>https://www.nber.org/papers/w28869#fromrss</id>
+        <link href="https://www.nber.org/papers/w28869#fromrss"/>
+        <updated>2021-05-31T05:44:20.876Z</updated>
+        <summary type="html"><![CDATA[We study the transmission of monetary policy through risk premia in a heterogeneous agent New Keynesian environment.  Heterogeneity in households' marginal propensity to take risk (MPR) summarizes differences in portfolio choice on the margin.  An unexpected reduction in the nominal interest rate redistributes to households with high MPRs, lowering risk premia and amplifying the stimulus to the real economy.  Quantitatively, this mechanism rationalizes the role of news about future excess returns in driving the stock market response to monetary policy shocks and amplifies their real effects by 1.3-1.5 times.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exchange Rates and Monetary Policy with Heterogeneous Agents: Sizing up the Real Income Channel -- by Adrien Auclert, Matthew Rognlie, Martin Souchier, Ludwig Straub]]></title>
+        <id>https://www.nber.org/papers/w28872#fromrss</id>
+        <link href="https://www.nber.org/papers/w28872#fromrss"/>
+        <updated>2021-05-31T05:44:20.843Z</updated>
+        <summary type="html"><![CDATA[Introducing heterogeneous households to a New Keynesian small open economy model amplifies the real income channel of exchange rates: the rise in import prices from a depreciation lowers households’ real incomes, and leads them to cut back on spending. When the sum of import and export elasticities is one, this channel is offset by a larger Keynesian multiplier, heterogeneity is irrelevant, and expenditure switching drives the output response. With plausibly lower short-term elasticities, however, the real income channel dominates, and depreciation can be contractionary for output. This weakens monetary transmission and creates a dilemma for policymakers facing capital outflows. Delayed import price pass-through weakens the real income channel, while heterogeneous consumption baskets can strengthen it.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entrepreneurial Reluctance: Talent and Firm Creation in China -- by Chong-En Bai, Ruixue Jia, Hongbin Li, Xin Wang]]></title>
+        <id>https://www.nber.org/papers/w28865#fromrss</id>
+        <link href="https://www.nber.org/papers/w28865#fromrss"/>
+        <updated>2021-05-31T05:44:20.830Z</updated>
+        <summary type="html"><![CDATA[The theoretical literature has long noted that talent can be used in both the entrepreneurial and non-entrepreneurial sectors, and its allocation depends on the reward structure. We test these hypotheses by linking administrative college admissions data for 1.8 million individuals with the universe of firm registration records in China. Within a college, we find that individuals with higher college entrance exam scores – the most important measure of talent in this context – are less likely to create firms, but, when they do, their firms are more successful than those of their lower-score counterparts. Additional survey data suggest that higher-score individuals enjoy higher wages and are more likely to join the state sector. Moreover, the score-to-firm creation relationship varies greatly across industry, according to the size of the state sector. These findings suggest that the score is positively associated with both entrepreneurial ability and wage-job ability but higher-score individuals are attracted away by wage jobs, particularly those of the state sector.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Competition in Pricing Algorithms -- by Zach Y. Brown, Alexander MacKay]]></title>
+        <id>https://www.nber.org/papers/w28860#fromrss</id>
+        <link href="https://www.nber.org/papers/w28860#fromrss"/>
+        <updated>2021-05-31T05:44:20.817Z</updated>
+        <summary type="html"><![CDATA[Increasingly, retailers have access to better pricing technology, especially in online markets. Using hourly data from five major online retailers, we show that retailers set prices at regular intervals that differ across firms. In addition, faster firms appear to use automated pricing rules that are functions of rivals' prices. These features are inconsistent with the standard assumptions about pricing technology used in the empirical literature. Motivated by these facts, we consider a model of competition in which firms can differ in pricing frequency and choose pricing algorithms rather than prices. We demonstrate that, relative to the standard simultaneous price-setting model, pricing technology with these features can increase prices in Markov perfect equilibrium. A simple counterfactual simulation implies that pricing algorithms lead to meaningful increases in markups in our empirical setting, especially for firms with the fastest pricing technology.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankrupt Innovative Firms -- by Song Ma, Joy Tianjiao Tong, Wei Wang]]></title>
+        <id>https://www.nber.org/papers/w28856#fromrss</id>
+        <link href="https://www.nber.org/papers/w28856#fromrss"/>
+        <updated>2021-05-31T05:44:20.784Z</updated>
+        <summary type="html"><![CDATA[This paper studies how innovative firms manage their innovation portfolios after filing for Chapter 11 reorganization using three decades of data. We find that they sell off core (i.e., technologically critical and valuable), rather than peripheral, patents in bankruptcy. The selling pattern is driven almost entirely by firms with greater use of secured debt, and the mechanism is secured creditors exercising their control rights on collateralized patents. Creditor-driven patent sales in bankruptcy have implications for technology diffusion—the sold patents diffuse more slowly under new ownership and are more likely to be purchased by patent trolls.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Politics and the Distribution of Federal Funds: Evidence from Federal Legislation in Response to COVID-19 -- by Jeffrey Clemens, Stan Veuger]]></title>
+        <id>https://www.nber.org/papers/w28875#fromrss</id>
+        <link href="https://www.nber.org/papers/w28875#fromrss"/>
+        <updated>2021-05-31T05:44:20.759Z</updated>
+        <summary type="html"><![CDATA[COVID-19 relief legislation offers a unique setting to study how political representation shapes the distribution of federal assistance to state and local governments. We provide evidence of a substantial small-state bias: an additional Senator or Representative per million residents predicts an additional $670 dollars in aid per capita across the four relief packages. Alignment with the Democratic party predicts increases in states’ allocations through legislation designed after the January 2021 political transition. This benefit of partisan alignment operates through the American Rescue Plan Act’s sheer size, as well as the formulas through which it distributed transportation and general relief funds.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Effect of Social Media on Elections: Evidence from the United States -- by Thomas Fujiwara, Karsten Müller, Carlo Schwarz]]></title>
+        <id>https://www.nber.org/papers/w28849#fromrss</id>
+        <link href="https://www.nber.org/papers/w28849#fromrss"/>
+        <updated>2021-05-31T05:44:20.730Z</updated>
+        <summary type="html"><![CDATA[We study how social media affects election outcomes in the United States. We use variation in the number of Twitter users across counties induced by early adopters at the 2007 South by Southwest (SXSW) festival, a key event in Twitter's rise to popularity. We show that this variation is unrelated to observable county characteristics and electoral outcomes before the launch of Twitter. Our results indicate that Twitter lowered the Republican vote share in the 2016 and 2020 presidential elections, but had limited effects on Congress elections and previous presidential elections. Evidence from survey data, primary elections, and a text analysis of millions of tweets suggests that Twitter's relatively liberal content may have persuaded voters with moderate views to vote against Donald Trump.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Health: Non-Health Risk and the Value of Disability Insurance -- by Manasi Deshpande, Lee Lockwood]]></title>
+        <id>https://www.nber.org/papers/w28852#fromrss</id>
+        <link href="https://www.nber.org/papers/w28852#fromrss"/>
+        <updated>2021-05-31T05:44:20.712Z</updated>
+        <summary type="html"><![CDATA[The public debate over disability insurance has centered on concerns about individuals without severe health conditions receiving benefits. We go beyond health risk alone to quantify the overall insurance value of U.S. disability programs, including value from insuring non-health risk. We find that disability recipients, especially those with less-severe health conditions, are much more likely to have experienced a wide variety of non-health shocks than non-recipients. Selection into disability receipt on the basis of non-health shocks is so strong among individuals with less-severe health conditions that by many measures less-severe recipients are worse off than more-severe recipients. As a result, under baseline assumptions, benefits to less-severe recipients have an annual surplus value (insurance benefit less efficiency cost) over cost-equivalent tax cuts of $7,700 per recipient, about three-fourths that of benefits to more-severe recipients ($9,900). Insurance against non-health risk accounts for about one-half of the value of U.S. disability programs.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-evaluating the sources of the recent productivity slowdown]]></title>
+        <id>https://voxeu.org/article/re-evaluating-sources-recent-productivity-slowdown</id>
+        <link href="https://voxeu.org/article/re-evaluating-sources-recent-productivity-slowdown"/>
+        <updated>2021-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Labour productivity is a key determinant in improving living standards. But in recent years, productivity has stagnated, if not declined, in many countries around the world. This column re-evaluates the various reasons as to why this might be, applying three criteria to the existing explanations for the slowdown. It finds that the slowdown in productivity can be attributed to numerous factors, ranging from mismeasurement to changes in trade patterns.]]></summary>
+        <author>
+            <name>Ian Goldin, Pantelis Koutroumpis, François Lafond, Julian Winkler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The emerging fiscal union needs a solid foundation]]></title>
+        <id>https://voxeu.org/article/emerging-fiscal-union-needs-solid-foundation</id>
+        <link href="https://voxeu.org/article/emerging-fiscal-union-needs-solid-foundation"/>
+        <updated>2021-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The EU’s response to the COVID-19-induced economic crisis has been aggressive, but not without criticism. This column, part of the Vox debate on euro area reform, summarises some of the shortcomings of the way in which the EU’s Next Generation programme may play out, and suggests short- and longer-term considerations that need to be made in order to ensure that the programme strengthens the Union in the long run.]]></summary>
+        <author>
+            <name>Päivi Leino-Sandberg, Vesa  Vihriälä</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Regulating personal data: Linking different models to digital services trade]]></title>
         <id>https://voxeu.org/article/regulating-personal-data-linking-different-models-digital-services-trade</id>
