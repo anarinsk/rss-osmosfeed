@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-01T01:59:11.727Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-01T06:05:36.511Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding how central banks use their balance sheets]]></title>
+        <id>https://voxeu.org/article/understanding-how-central-banks-use-their-balance-sheets</id>
+        <link href="https://voxeu.org/article/understanding-how-central-banks-use-their-balance-sheets"/>
+        <updated>2021-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the Global Crisis, the size of central bank balance sheets has grown significantly. Traditional goals of price and financial stability are insufficient for assessing the success of modern central banking operations. This column introduces a new framework for categorising and understanding central bank balance sheet operations. Monetary policy decisions are separated from facilities for lender of last resort, market maker of last resort, providing selective credit, and ensuring emergency government financing. To maintain legitimacy and accountability, central banks should formally distinguish these operations by clearly setting out their purposes, objectives, and constraints.]]></summary>
+        <author>
+            <name>Stephen Cecchetti, Paul  Tucker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How public health failures boosted COVID-19 vaccine scepticism]]></title>
+        <id>https://voxeu.org/article/how-public-health-failures-boosted-covid-19-vaccine-scepticism</id>
+        <link href="https://voxeu.org/article/how-public-health-failures-boosted-covid-19-vaccine-scepticism"/>
+        <updated>2021-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As COVID-19 vaccination programmes accelerate across the industrialised world, vaccination hesitancy is rapidly emerging as a key challenge. This column explores the relationship between pre-pandemic intensive care unit capacity and attitudes towards the COVID-19 vaccine in the UK. Despite widespread pre-pandemic scepticism about vaccines in general, willingness to become vaccinated against COVID-19 overall was strikingly high, even amongst those who rejected vaccines before the pandemic. The results point to a surprising synergy: where the emergency care systems of public healthcare providers were less strained during the early days of the COVID-19 epidemic, vaccination hesitancy is systematically less today.]]></summary>
+        <author>
+            <name>Geraldine Blanchard-Rohner, Bruno Caprettini, Dominic Rohner, Hans-Joachim Voth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Common Agent or Double Agent? Pharmacy Benefit Managers in the Prescription Drug Market -- by Rena M. Conti, Brigham Frandsen, Michael L. Powell, James B. Rebitzer]]></title>
         <id>https://www.nber.org/papers/w28866#fromrss</id>

@@ -573,6 +573,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/understanding-how-central-banks-use-their-balance-sheets",
+          "author": "Stephen Cecchetti, Paul  Tucker",
+          "description": "Since the Global Crisis, the size of central bank balance sheets has grown significantly. Traditional goals of price and financial stability are insufficient for assessing the success of modern central banking operations. This column introduces a new framework for categorising and understanding central bank balance sheet operations. Monetary policy decisions are separated from facilities for lender of last resort, market maker of last resort, providing selective credit, and ensuring emergency government financing. To maintain legitimacy and accountability, central banks should formally distinguish these operations by clearly setting out their purposes, objectives, and constraints.",
+          "link": "https://voxeu.org/article/understanding-how-central-banks-use-their-balance-sheets",
+          "publishedOn": "2021-06-01T00:00:00.000Z",
+          "wordCount": 3119,
+          "title": "Understanding how central banks use their balance sheets"
+        },
+        {
+          "id": "https://voxeu.org/article/how-public-health-failures-boosted-covid-19-vaccine-scepticism",
+          "author": "Geraldine Blanchard-Rohner, Bruno Caprettini, Dominic Rohner, Hans-Joachim Voth",
+          "description": "As COVID-19 vaccination programmes accelerate across the industrialised world, vaccination hesitancy is rapidly emerging as a key challenge. This column explores the relationship between pre-pandemic intensive care unit capacity and attitudes towards the COVID-19 vaccine in the UK. Despite widespread pre-pandemic scepticism about vaccines in general, willingness to become vaccinated against COVID-19 overall was strikingly high, even amongst those who rejected vaccines before the pandemic. The results point to a surprising synergy: where the emergency care systems of public healthcare providers were less strained during the early days of the COVID-19 epidemic, vaccination hesitancy is systematically less today.",
+          "link": "https://voxeu.org/article/how-public-health-failures-boosted-covid-19-vaccine-scepticism",
+          "publishedOn": "2021-06-01T00:00:00.000Z",
+          "wordCount": 1989,
+          "title": "How public health failures boosted COVID-19 vaccine scepticism"
+        },
+        {
           "id": "https://voxeu.org/article/re-evaluating-sources-recent-productivity-slowdown",
           "author": "Ian Goldin, Pantelis Koutroumpis, François Lafond, Julian Winkler",
           "description": "Labour productivity is a key determinant in improving living standards. But in recent years, productivity has stagnated, if not declined, in many countries around the world. This column re-evaluates the various reasons as to why this might be, applying three criteria to the existing explanations for the slowdown. It finds that the slowdown in productivity can be attributed to numerous factors, ranging from mismeasurement to changes in trade patterns.",
@@ -1981,5 +1999,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
