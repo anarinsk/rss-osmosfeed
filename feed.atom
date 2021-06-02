@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-02T06:03:30.477Z</updated>
+    <updated>2021-06-02T09:46:19.080Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The differing effects of globalisation on trade versus migration]]></title>
+        <id>https://voxeu.org/article/differing-effects-globalisation-trade-versus-migration</id>
+        <link href="https://voxeu.org/article/differing-effects-globalisation-trade-versus-migration"/>
+        <updated>2021-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Better communications, enhanced transport links, integration agreements between governments, and other factors have all helped increase global economic interconnectedness over the past few decades. This column compares a state-of-the-art gravity model for trade versus migration to reveal that there are in fact important differences in the evolution of globalisation over time on flows of goods versus people. For trade, the boost from free trade agreements declines the farther apart signatories are, but for migration the boost increases with distance between signatories. Further, while both border and distance frictions have declined for trade over time, this is not the case for migration flows.]]></summary>
+        <author>
+            <name>Rebecca Freeman, John Lewis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why banks differ in the pace of adoption of new technology]]></title>
         <id>https://voxeu.org/article/why-banks-differ-pace-adoption-new-technology</id>
