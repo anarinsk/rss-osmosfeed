@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-03T01:45:09.652Z</updated>
+    <updated>2021-06-03T05:44:42.261Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FDI is in big trouble: Insights from the 27th Global Trade Alert report]]></title>
+        <id>https://voxeu.org/article/fdi-big-trouble-insights-27th-global-trade-alert-report</id>
+        <link href="https://voxeu.org/article/fdi-big-trouble-insights-27th-global-trade-alert-report"/>
+        <updated>2021-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Properly guided, foreign direct investment has transformed the prospects of certain firms, sectors, regions, and even economies. This column introduces the 27th Global Trade Alert report, which looks back over the past quarter of a century to put current FDI dynamics in perspective, assesses the degree to which governments continue to favour FDI, and points the spotlight on the limited contribution of FDI to advancing sustainable development in emerging markets.]]></summary>
+        <author>
+            <name>Simon Evenett, Johannes Fritz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiscal austerity intensifies the increase in inequality after pandemics]]></title>
+        <id>https://voxeu.org/article/fiscal-austerity-intensifies-increase-inequality-after-pandemics</id>
+        <link href="https://voxeu.org/article/fiscal-austerity-intensifies-increase-inequality-after-pandemics"/>
+        <updated>2021-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the aftermath of past pandemics, fiscal policy played an important role in reducing or amplifying income inequality. This column predicts the likely distributional effects of Covid-19 by analysing evidence from five previous outbreaks (SARS, H1N1, MERS, Ebola, and Zika). It finds that severe austerity measures were associated with inequality increases three times greater than expansive fiscal policy following a pandemic. Premature austerity is self-defeating from both a macro and an equity standpoint.]]></summary>
+        <author>
+            <name>Davide Furceri, Prakash Loungani, Jonathan D. Ostry, Pietro Pizzuto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boosting health coverage with better information]]></title>
         <id>https://www.aeaweb.org/research/charts/behavioral-frictions-health-insurance-marketplace</id>
