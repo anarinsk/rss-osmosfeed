@@ -501,6 +501,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/content/monetary-policy-and-central-banking-covid-era",
+          "author": "Bill English, Kristin Forbes, Ángel Ubide",
+          "description": "The abruptness and speed of the economic deterioration caused by the Covid-19 pandemic, the sharp increase in market volatility, and the blinding uncertainty over the impact of the pandemic motivated a central bank reaction that was unprecedented in terms of size, speed and scope. This CEPR eBook summarises the responses by sixteen central banks from both advanced and emerging economies – with chapters written by senior central bank officials and economists in each of the countries to explain the actions taken.",
+          "link": "https://voxeu.org/content/monetary-policy-and-central-banking-covid-era",
+          "publishedOn": "2021-06-03T00:00:00.000Z",
+          "wordCount": 921,
+          "title": "Monetary Policy and Central Banking in the Covid Era"
+        },
+        {
+          "id": "https://voxeu.org/article/monetary-policy-and-central-banking-covid-era-new-ebook",
+          "author": "Bill English, Kristin Forbes, Ángel Ubide",
+          "description": "As Covid-19 spread in early 2020, many central banks were still struggling to boost inflation. The abruptness and speed of the economic deterioration, the sharp increase in market volatility, and the blinding uncertainty over the impact of the pandemic motivated a central bank reaction that was unprecedented in terms of size, speed and scope. A new CEPR eBook summarises the responses by sixteen central banks from both advanced and emerging economies – with chapters written by senior central bank officials and economists in each of the countries to explain the actions taken. While responses varied across countries, there are several common threads: the size, speed and breadth of the responses; the reliance on a more multidimensional set of tools; and the ability of emerging markets to behave more like advanced economies.",
+          "link": "https://voxeu.org/article/monetary-policy-and-central-banking-covid-era-new-ebook",
+          "publishedOn": "2021-06-03T00:00:00.000Z",
+          "wordCount": 3543,
+          "title": "Monetary policy and central banking in the Covid era: A new eBook"
+        },
+        {
           "id": "https://voxeu.org/article/fdi-big-trouble-insights-27th-global-trade-alert-report",
           "author": "Simon Evenett, Johannes Fritz",
           "description": "Properly guided, foreign direct investment has transformed the prospects of certain firms, sectors, regions, and even economies. This column introduces the 27th Global Trade Alert report, which looks back over the past quarter of a century to put current FDI dynamics in perspective, assesses the degree to which governments continue to favour FDI, and points the spotlight on the limited contribution of FDI to advancing sustainable development in emerging markets.",
@@ -1967,15 +1985,6 @@
           "publishedOn": "2021-05-10T03:50:14.000Z",
           "wordCount": 127,
           "title": "Asset Pricing with Omitted Factors"
-        },
-        {
-          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/713745?af=R",
-          "author": "Miltiadis Makris",
-          "description": "Journal of Political Economy, Ahead of Print.",
-          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/713745?af=R",
-          "publishedOn": "2021-05-05T04:14:50.000Z",
-          "wordCount": 127,
-          "title": "Taxation under Learning by Doing"
         }
       ]
     }

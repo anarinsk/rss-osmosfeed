@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-03T12:42:35.229Z</updated>
+    <updated>2021-06-03T17:22:42.410Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monetary Policy and Central Banking in the Covid Era]]></title>
+        <id>https://voxeu.org/content/monetary-policy-and-central-banking-covid-era</id>
+        <link href="https://voxeu.org/content/monetary-policy-and-central-banking-covid-era"/>
+        <updated>2021-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The abruptness and speed of the economic deterioration caused by the Covid-19 pandemic, the sharp increase in market volatility, and the blinding uncertainty over the impact of the pandemic motivated a central bank reaction that was unprecedented in terms of size, speed and scope. This CEPR eBook summarises the responses by sixteen central banks from both advanced and emerging economies – with chapters written by senior central bank officials and economists in each of the countries to explain the actions taken.]]></summary>
+        <author>
+            <name>Bill English, Kristin Forbes, Ángel Ubide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetary policy and central banking in the Covid era: A new eBook]]></title>
+        <id>https://voxeu.org/article/monetary-policy-and-central-banking-covid-era-new-ebook</id>
+        <link href="https://voxeu.org/article/monetary-policy-and-central-banking-covid-era-new-ebook"/>
+        <updated>2021-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Covid-19 spread in early 2020, many central banks were still struggling to boost inflation. The abruptness and speed of the economic deterioration, the sharp increase in market volatility, and the blinding uncertainty over the impact of the pandemic motivated a central bank reaction that was unprecedented in terms of size, speed and scope. A new CEPR eBook summarises the responses by sixteen central banks from both advanced and emerging economies – with chapters written by senior central bank officials and economists in each of the countries to explain the actions taken. While responses varied across countries, there are several common threads: the size, speed and breadth of the responses; the reliance on a more multidimensional set of tools; and the ability of emerging markets to behave more like advanced economies.]]></summary>
+        <author>
+            <name>Bill English, Kristin Forbes, Ángel Ubide</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FDI is in big trouble: Insights from the 27th Global Trade Alert report]]></title>
         <id>https://voxeu.org/article/fdi-big-trouble-insights-27th-global-trade-alert-report</id>
@@ -5357,16 +5377,6 @@ CHAPTER 8 로봇 군주들
         <summary type="html"><![CDATA[Production announcements from OPEC have a profound impact on oil prices and the US economy, even when current oil supplies don’t change, according to a paper in the American Economic Reviewg.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxation under Learning by Doing]]></title>
-        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/713745?af=R</id>
-        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/713745?af=R"/>
-        <updated>2021-05-05T04:14:50.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
-        <author>
-            <name>Miltiadis Makris</name>
         </author>
     </entry>
 </feed>
