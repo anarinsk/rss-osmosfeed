@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-04T09:29:46.370Z</updated>
+    <updated>2021-06-04T12:56:00.007Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting the best election candidates]]></title>
+        <id>https://www.aeaweb.org/research/sierra-leone-elections-party-voters</id>
+        <link href="https://www.aeaweb.org/research/sierra-leone-elections-party-voters"/>
+        <updated>2021-06-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing a primary system in Sierra Leone boosted the likelihood that voters elected leaders who were more aligned with their preferences, especially in regional strongholds, according to a paper in the American Economic Review.]]></summary>
+        <author>
+            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bankrupt Innovative Firms -- by Song Ma, Joy Tianjiao Tong, Wei Wang]]></title>
         <id>https://www.nber.org/papers/w28856#fromrss</id>
