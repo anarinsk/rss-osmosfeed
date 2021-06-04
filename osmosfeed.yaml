@@ -12,10 +12,10 @@ sources:
   - href: https://microeconomicinsights.org/feed/
   #
   # Economics Journal 
-  - href: https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss
-  - href: https://academic.oup.com/rss/site_5504/3365.xml
-  - href: https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom%20
-  - href: https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe
+  #- href: https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss
+  #- href: https://academic.oup.com/rss/site_5504/3365.xml
+  #- href: https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom%20
+  #- href: https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe
   #- href: http://feeds.feedburner.com/CalculatedRis
 
 siteTitle: "anari: slimfeed"
