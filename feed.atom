@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-04T01:28:17.430Z</updated>
+    <updated>2021-06-04T05:34:18.248Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -3827,16 +3827,6 @@ Chapter 12 확장...
         <summary type="html"><![CDATA[Why do the poor pay more? A paper in the American Economic Journal: Economic Policy investigates how socioeconomic standing interacts with spatial frictions among supermarket shoppers in Jerusalem.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decomposing news shocks]]></title>
-        <id>https://www.aeaweb.org/research/charts/oil-supply-news-opec-announcements</id>
-        <link href="https://www.aeaweb.org/research/charts/oil-supply-news-opec-announcements"/>
-        <updated>2021-05-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Production announcements from OPEC have a profound impact on oil prices and the US economy, even when current oil supplies don’t change, according to a paper in the American Economic Reviewg.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
