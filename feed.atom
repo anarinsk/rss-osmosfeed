@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-05T20:25:43.869Z</updated>
+    <updated>2021-06-06T00:47:27.249Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -307,6 +307,98 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[파이썬을 활용한 데이터 분석과 응용/이성건.강현철 지음/자유아카데미]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=272861244</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=272861244"/>
+        <updated>2021-06-04T00:57:00.000Z</updated>
+        <summary type="html"><![CDATA[파이썬을 활용한 데이터 분석과 응용
+이성건.강현철 지음 / 자유아카데미 / 2021년 06월 / ISBN:9791158083083
+정가: 30,000원 / 판매가: 30,000원 / 마일리지: 146원
+이벤트: 컴퓨터/IT 분야
+ 3만원 이상 구매시, 손목 보호 쿠션
+
+
+
+
+파이썬을 이용하여 통계적 데이터 분석을 수행하고자 하는 다양한 분야의 독자들을 위한 압문서이다. 특히 통계분석의 기본 이론을 빠트리지 않고 서술하려고 노력하였으며, 실제적인 예제들에 대한 파이썬의 처리 과정을 쉽고 간단하게 설명하고 있다. 또한, 다양한 형태의 문제를 해결하기 위해서 필요한 몇 가지 고급기법들도 다루고 있기 때문에, 파이썬을 이용해 본 경험이 있는 독자들에게도 잘 몰랐던 부분을 새롭게 배우거나 쉽게 참조할 수 있는 참고서로써 유용하게 사용될 수 있을 것이다.
+
+제1장 파이썬의 기본 사용법 
+ 1.1 파이썬(Python)의 소개
+ 1.2 파이썬 설치와 실행
+ 1.3 파이썬 프로그래밍 − Spyder
+ 1.4 파이썬 프로그래밍 − 주피터 노트북
+ 1.5 파이썬 프로그래밍 − Google COLAB
+ 1.6 모률, 라이브러리, 패키지
+ 1.7 판다스 라이브러리
+ 1.8 연습문제
+
+제2장 데이터 프레임 
+ 2.1 데이터 프레임의 생성
+ 2.2 데이터 프레임에 함수 적용하기
+ 2.3 데이터 프레임의 가공
+ 2.4 도움말(help) 기능
+ 2.5 연습문제
+
+제3장 데이터의 요약 빛 표현
+ 3.1 자료의 형태
+ 3.2 모수와 통계량
+ 3.3 기술통계량
+ 3.4 그래프를 이용한 양적 데이터의 요약
+ 3.5 질적 데이터의 요약
+ 3.6 그래프를 이용한 질적 데이터의 요약
+ 3.7 이 장에서 사용된 주요 함수들
+ 3.8 연습문제
+
+제4장 확률변수와 분포함수 
+ 4.1 확률변수와 확률분포
+ 4.2 기댓값과 분산
+ 4.3 이산형 확률분포
+ 4.4 연속형 확률분포
+ 4.5 표본분포
+ 4.6 연습문제
+
+제5장 통계적 추정과 검정
+ 5.1 통계적 추정
+ 5.2 통계적 가설검정
+ 5.3 단일 모집단에 대한 검정
+ 5.4 이 장에서 사용된 주요 함수들
+ 5.5 연습문제
+
+제6장 두 모집단에 대한 비교 
+ 6.1 독립표본에 의한 두 모평균의 비교: 독립표본 t−검정
+ 6.2 대응표본에 의한 두 모평균의 비교: 대응표본 t−검정
+ 6.3 독립표본에 의한 두 모비율의 비교
+ 6.4 대응표본에 의한 두 모비율의 비교 − 맥니머 검정
+ 6.5 모분산의 동일성에 대한 검정
+ 6.6 이 장에서 사용된 주요 함수들
+6.7 연습문제
+
+제7장 상관분석 
+ 7.1 상관계수의 개념
+ 7.2 상관계수의 추정과 검정
+ 7.3 편상관계수
+ 7.4 측정도구의 신뢰도 분석
+ 7.5 이 장에서 사용된 주요 함수들
+ 7.6 연습문제
+
+제8장 질적변수들의 연관성 
+ 8.1 다항분포
+ 8.2 교차분석 − 카이제곱검정
+ 8.3 카이제곱 적합도 검정
+ 8.4 오즈비
+ 8.5 연관성의 측도
+ 8.6 이 장에서 사용된 주요 함수들
+ 8.7 연습문제
+
+제9장 회귀분석 
+ 9.1...
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How central banks saved us from Covid-19]]></title>
         <id>https://voxeu.org/vox-talks/how-central-banks-saved-us-covid-19</id>
         <link href="https://voxeu.org/vox-talks/how-central-banks-saved-us-covid-19"/>
@@ -344,6 +436,92 @@
         <summary type="html"><![CDATA[Monetary policy can stimulate credit provision – and as a result, economic activity – through the purchases of corporate bonds This column assesses euro area financing conditions and shows they have improved since the announcement of the ECB Corporate Sector Purchase Programme on 10 March 2016, with corporate bond spreads tightening and bond issuance increasing. Moreover, the unconventional monetary policy triggered a shift in bank loan supply in favour of firms that do not have access to bond-based financing.]]></summary>
         <author>
             <name>Frank  Betz, Roberto De Santis, Andrea Zaghini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈은 어떻게 움직이는가?/임경.권준석 지음/생각비행]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=272858235</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=272858235"/>
+        <updated>2021-06-03T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[돈은 어떻게 움직이는가?
+임경.권준석 지음 / 생각비행 / 2021년 06월 / ISBN:9791189576816
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 111원
+이벤트: 6월 특별 선물! 본투리드 선풍기, 미니 핸디 선풍기(이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+한국은행 금융안정국에서 ‘코로나19가 금융시장과 실물경제를 통해 금융시스템의 안정에 미치는 영향’을 심층 분석하는 업무를 담당했던 권준석 팀장이 공동 저자로 합류하여 코로나19로 위기에 직면한 세계 금융경제 환경에서 ‘돈의 흐름’을 더욱 명쾌하게 설명해준다.
+
+월요일에서 금요일까지 이어지는 강의 형식은 그대로 유지하고 책의 주제인 ‘원화와 외화의 흐름, 환율과 금리의 연결고리’를 쉽게 이해할 수 있도록 표와 그래프를 최근 데이터로 수정했다. 또한 ‘코로나19 이후 우리 경제의 변화’, ‘마이너스금리의 작동 원리’, ‘주요 중앙은행들의 디지털화폐 발행 의지’ 등 최근 많은 사람이 궁금해하는 문제들을 특강에서 심도 있게 풀어냈다.
+
+머리말_ 우리는 어디에 있으며 어디로 가고 있는가?
+
+월요일 돈의 흐름
+제1강 화두
+제2강 돈의 성격
+  1. 트랜스포머: 다른 모습으로 변하는 돈
+  2. 시간과 공간 속에서 두 가지의 변신 
+제3강 돈이 움직이는 이유 
+  1. 나를 믿는다: 전망에 기초한 투기 
+  2. 틈새를 노린다: 차익거래 
+  3. 위험을 이전하다: 위험회피 
+  4. 위험을 나눈다?: 위험분산의 함정
+  5. 내게 맞게 바꾼다: 조건의 교환
+  6. 일단 챙겨야 한다: 자금 가용성의 확보 
+  7. 친구 따라 강남 간다: 군집행동
+  8. 덩치가 커야 이긴다: 외형확대
+제4강 경계를 넘나드는 돈의 흐름 
+  1. 돈이 드나드는 길 
+ 2. 우리나라의 대외포지션
+  3. 결국 남거나 모자라는 돈 
+제5강 경계 안에서 외국돈의 흐름 
+  1. 원화와 외화 바꾸기 
+  2. 외화를 빌리고 빌려주기
+  3. 팔고 사기와 빌리고 빌려주기
+제6강 원화의 큰 흐름
+  1. 돈을 부르는 이름과 계산
+  2. 돈은 어디로 얼마나 흘러갔나? 
+  3. 돈이 흐르는 속도 
+  Q&A 
+
+화요일 환율과 금리 그리고 연계
+제7강 가격의 움직임과 운동장 
+  1. 수요와 공급의 힘
+  2. 환율과 환율제도
+  3. 금리와 채권시장
+제8강 외화의 흐름과 환율의 관계 
+  1. 무엇이 환율을 변동시키는가?
+  2. 환율변동은 어디에 영향을 미치는가?
+제9강 원화의 흐름과 금리의 관계
+  1. 무엇이 금리를 변동시키는가?
+  2. 금리변동은 어디에 영향을 미치는가? 
+제10강 삼불일치론에 대한 이해
+  1. 삼위일체는 가능한가? 
+  2. 삼불일치론과 정책조합의 선택
+  3. 삼불일치론에 대한 선행연구 
+  4. 비판과 반론 
+  Q&A 
+
+수요일 돈의 조절
+제11강 돈의 흐름과 조절
+  1. 연계거래의 복잡한 흐름 
+  2. 양과 흐름의 조절
+제12강 원화의 조절
+  1. 다목적 댐의 수문: 자금의 양
+  2. 닻을 내리다: 기준금리 
+  3. 세 가지 무기: 전통적 통화정책수단 
+  4. 새로운 무기: 비전통적 통화정책수단
+제13강 외화의 조절
+  1. 외화 유출입과 규제 
+  2. 거시경제정책수단 
+  3. 거시건전성정책수단 
+  4. 국...
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
+국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
@@ -1084,6 +1262,16 @@ __08-5 NAS, NASNet, ENAS 요약하기
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On Bunching and Identification of the Taxable Income Elasticity]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714446?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714446?af=R"/>
+        <updated>2021-05-28T03:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Sören Blomquist</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[파이썬 해킹 레시피/공재웅 지음/비제이퍼블릭]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=272396054</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=272396054"/>
@@ -1192,6 +1380,16 @@ CHAPTER 07 웹 애플리케이션 제작
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Difference-in-Differences Hedonics]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714442?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714442?af=R"/>
+        <updated>2021-05-27T05:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>H. Spencer Banzhaf</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미래 시나리오 2022/김광석 외 지음/와이즈베리]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=272326767</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=272326767"/>
@@ -1267,6 +1465,46 @@ The post Windows Package Manager 1.0 appeared first on Windows Command Line.]]><
         <summary type="html"><![CDATA[An increasing amount of research is being done by teams these days than by individuals. We spoke with Ben Jones about his paper in the Journal of Economic Perspectives on the pros and cons of collaboration and few reforms that could help ensure coauthors get fair credit for their work.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPE Turnaround Times, Previous Two Years]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714862?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714862?af=R"/>
+        <updated>2021-05-26T09:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 6, Page 1945-1945, June 2021.]]></summary>
+        <author>
+            <name>The University of Chicago Press: Journal of Political Economy: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front Matter]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/715535?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/715535?af=R"/>
+        <updated>2021-05-26T09:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 6, June 2021.]]></summary>
+        <author>
+            <name>The University of Chicago Press: Journal of Political Economy: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back Cover]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/715537?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/715537?af=R"/>
+        <updated>2021-05-26T09:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 6, June 2021.]]></summary>
+        <author>
+            <name>The University of Chicago Press: Journal of Political Economy: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent Referees]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/715536?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/715536?af=R"/>
+        <updated>2021-05-26T09:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 6, June 2021.]]></summary>
+        <author>
+            <name>The University of Chicago Press: Journal of Political Economy: Table of Contents</name>
         </author>
     </entry>
     <entry>
@@ -1349,6 +1587,36 @@ The post Windows Package Manager 1.0 appeared first on Windows Command Line.]]><
 국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steps of Reasoning in Children and Adolescents]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714118?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714118?af=R"/>
+        <updated>2021-05-26T05:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Isabelle Brocas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search, Information, and Prices]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714443?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714443?af=R"/>
+        <updated>2021-05-26T05:56:38.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Dirk Bergemann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy as a Public Good: A Case for Electronic Cash]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714133?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714133?af=R"/>
+        <updated>2021-05-26T05:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Rodney J. Garratt</name>
         </author>
     </entry>
     <entry>
@@ -1907,6 +2175,16 @@ __3.3.3 enumerate 함수로 인덱스 숫자 생성
 국내도서 > 역사 > 테마로 보는 역사 > 경제사]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planning Ahead for Better Neighborhoods: Long-Run Evidence from Tanzania]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714119?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714119?af=R"/>
+        <updated>2021-05-24T05:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Guy Michaels</name>
         </author>
     </entry>
     <entry>
@@ -2853,6 +3131,16 @@ CHAPTER 6 작업 단위 패턴
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On the Direction of Innovation]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714093?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714093?af=R"/>
+        <updated>2021-05-21T02:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Hugo Hopenhayn</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[더 나은 삶을 위한 경제학/로버트 스키델스키 지음, 장진영 옮김/안타레스]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271835163</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=271835163"/>
@@ -3107,6 +3395,16 @@ ANA의 최악의 결산
 국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 아시아 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Bigger Banks Better? Firm-Level Evidence from Germany]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714120?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714120?af=R"/>
+        <updated>2021-05-18T02:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Kilian Huber</name>
         </author>
     </entry>
     <entry>
@@ -3544,6 +3842,222 @@ Interview 박남춘 인천광역시장
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Frontmatter of Econometrica Vol. 89 Iss. 3]]></title>
+        <id>10.3982/ECTA893FM</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA893FM?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page i-ii, May 2021.]]></summary>
+        <author>
+            <name>Wiley: Econometrica: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forthcoming Papers]]></title>
+        <id>10.3982/ECTA893FORTH</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA893FORTH?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1507-1507, May 2021.]]></summary>
+        <author>
+            <name>Wiley: Econometrica: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backmatter of Econometrica Vol. 89 Iss. 3]]></title>
+        <id>10.3982/ECTA893BM</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA893BM?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page iii-v, May 2021.]]></summary>
+        <author>
+            <name>Wiley: Econometrica: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Econometric Society 2020 Annual Report of the President]]></title>
+        <id>10.3982/ECTA893PRES</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA893PRES?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1509-1518, May 2021.]]></summary>
+        <author>
+            <name>Wiley: Econometrica: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reply to: Comments on “General Equilibrium Oligopoly and Ownership Structure”]]></title>
+        <id>10.3982/ECTA18868</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA18868?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1061-1063, May 2021.]]></summary>
+        <author>
+            <name>José Azar, 
+Xavier Vives</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comment on: “General Equilibrium Oligopoly and Ownership Structure” by José Azar and Xavier Vives]]></title>
+        <id>10.3982/ECTA18810</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA18810?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1049-1053, May 2021.]]></summary>
+        <author>
+            <name>Jan Eeckhout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comment on: “General Equilibrium Oligopoly and Ownership Structure” by José Azar and Xavier Vives]]></title>
+        <id>10.3982/ECTA18862</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA18862?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1055-1059, May 2021.]]></summary>
+        <author>
+            <name>Thomas Philippon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nash Equilibria on (Un)Stable Networks]]></title>
+        <id>10.3982/ECTA12576</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA12576?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1179-1206, May 2021.]]></summary>
+        <author>
+            <name>Anton Badev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Macroeconomic Model With Financially Constrained Producers and Intermediaries]]></title>
+        <id>10.3982/ECTA16438</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16438?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1361-1418, May 2021.]]></summary>
+        <author>
+            <name>Vadim Elenev, 
+Tim Landvoigt, 
+Stijn Van Nieuwerburgh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General Equilibrium Oligopoly and Ownership Structure]]></title>
+        <id>10.3982/ECTA17906</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA17906?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 999-1048, May 2021.]]></summary>
+        <author>
+            <name>José Azar, 
+Xavier Vives</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limit Points of Endogenous Misspecified Learning]]></title>
+        <id>10.3982/ECTA18508</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA18508?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1065-1098, May 2021.]]></summary>
+        <author>
+            <name>Drew Fudenberg, 
+Giacomo Lanzani, 
+Philipp Strack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salvaging Falsified Instrumental Variable Models]]></title>
+        <id>10.3982/ECTA17969</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA17969?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1449-1469, May 2021.]]></summary>
+        <author>
+            <name>Matthew A. Masten, 
+Alexandre Poirier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal Auction Design With Common Values: An Informationally Robust Approach]]></title>
+        <id>10.3982/ECTA16297</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16297?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1313-1360, May 2021.]]></summary>
+        <author>
+            <name>Benjamin Brooks, 
+Songzi Du</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asset Pricing With Endogenously Uninsurable Tail Risk]]></title>
+        <id>10.3982/ECTA15142</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA15142?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1471-1505, May 2021.]]></summary>
+        <author>
+            <name>Hengjie Ai, 
+Anmol Bhandari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viability and Arbitrage Under Knightian Uncertainty]]></title>
+        <id>10.3982/ECTA16535</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16535?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1207-1234, May 2021.]]></summary>
+        <author>
+            <name>Matteo Burzoni, 
+Frank Riedel, 
+H. Mete Soner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aggregate Dynamics in Lumpy Economies]]></title>
+        <id>10.3982/ECTA17344</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA17344?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1235-1264, May 2021.]]></summary>
+        <author>
+            <name>Isaac Baley, 
+Andrés Blanco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Screening in Vertical Oligopolies]]></title>
+        <id>10.3982/ECTA17016</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA17016?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1265-1311, May 2021.]]></summary>
+        <author>
+            <name>Hector Chade, 
+Jeroen Swinkels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inference for Iterated GMM Under Misspecification]]></title>
+        <id>10.3982/ECTA16274</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16274?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1419-1447, May 2021.]]></summary>
+        <author>
+            <name>Bruce E. Hansen, 
+Seojeong Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal Asset Management Contracts With Hidden Savings]]></title>
+        <id>10.3982/ECTA14929</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA14929?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1099-1139, May 2021.]]></summary>
+        <author>
+            <name>Sebastian Di Tella, 
+Yuliy Sannikov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finite‐Sample Optimal Estimation and Inference on Average Treatment Effects Under Unconfoundedness]]></title>
+        <id>10.3982/ECTA16907</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16907?af=R"/>
+        <updated>2021-05-14T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 3, Page 1141-1177, May 2021.]]></summary>
+        <author>
+            <name>Timothy B. Armstrong, 
+Michal Kolesár</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[메이저리그 야구 통계학 2/e/김재민 지음/에이콘출판]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271461220</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=271461220"/>
@@ -3872,6 +4386,16 @@ Chapter 12 확장...
         <summary type="html"><![CDATA[Recession-induced cuts to school spending had lasting ill-effects on test scores and college enrollment, especially in states where schools rely more heavily on state aid, according to a paper in the American Economic Journal: Economic Policy.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asset Pricing with Omitted Factors]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714090?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714090?af=R"/>
+        <updated>2021-05-10T03:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Stefano Giglio</name>
         </author>
     </entry>
     <entry>
