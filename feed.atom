@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-08T04:47:00.975Z</updated>
+    <updated>2021-06-08T05:36:12.652Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -20,6 +20,26 @@ Tuesday:
 • At 10:00 AM, Job Openings and Labor Turnover Survey for April from the BLS.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How households self-insure against job loss]]></title>
+        <id>https://voxeu.org/article/how-households-self-insure-against-job-loss</id>
+        <link href="https://voxeu.org/article/how-households-self-insure-against-job-loss"/>
+        <updated>2021-06-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To what extent do households self-insure to avoid cutting back on consumption following income losses, and which self-insurance channels are most important? This column reviews evidence on household responses to job loss using comprehensive high-frequency data from multiple sources in Denmark. Over the two years following job loss, 30% of the decline in disposable income is accounted for by a drop in household spending, leaving a gap of 70% that reflects the effects of self-insurance. This gap is filled by lower accumulation of liquid assets (~50%), increases in private transfers and other inflows (~10%), higher spousal labour supply (~5%), and lower net debt repayments (~5%). Mortgage borrowing and refinancing play only a small role.]]></summary>
+        <author>
+            <name>Asger Lau Andersen, Amalie  Jensen, Niels Johannesen, Claus Thustrup Kreiner, Søren Leth-Petersen, Adam Sheridan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heterogenous effects of Covid-19 on households' financial situation and consumption]]></title>
+        <id>https://voxeu.org/article/heterogenous-effects-covid-19-households-financial-situation-and-consumption</id>
+        <link href="https://voxeu.org/article/heterogenous-effects-covid-19-households-financial-situation-and-consumption"/>
+        <updated>2021-06-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The coronavirus pandemic has generated a complex economic shock that has affected households across the euro area very differently. This column uses survey data from around 10,000 households across Europe to reveal substantial divergences in the pandemic-induced financial concerns of households across population subgroups and countries. Financial concerns are significantly greater for younger, female, and low-income individuals in countries where the first wave of Covid-19 was more severe.]]></summary>
+        <author>
+            <name>Dimitris Christelis, Dimitris Georgarakos, Tullio Jappelli, Geoff  Kenny</name>
         </author>
     </entry>
     <entry>
