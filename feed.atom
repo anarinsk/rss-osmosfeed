@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-11T04:16:25.735Z</updated>
+    <updated>2021-06-11T08:13:04.821Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Centralised bank supervision and the composition of firm investment]]></title>
+        <id>https://voxeu.org/article/centralised-bank-supervision-and-composition-firm-investment</id>
+        <link href="https://voxeu.org/article/centralised-bank-supervision-and-composition-firm-investment"/>
+        <updated>2021-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The trade-off between stability and growth has long been a subject of policy debate and informs views on the extent to which the supervision of banks should be centralised. This column presents analysis of the ECB’s Single Supervisory Mechanism, using the announcement of the mechanism and its implementation as a quasi-natural experiment. It finds that centralised bank supervision is associated with a decline in lending to firms, which is accompanied by a shift away from intangible investment and towards more cash holdings and higher investment in easily collateralisable physical assets.]]></summary>
+        <author>
+            <name>Miguel  Ampudia, Thorsten Beck, Alexander Popov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-performing boys are particularly affected by family environment]]></title>
+        <id>https://voxeu.org/article/low-performing-boys-are-particularly-affected-family-environment</id>
+        <link href="https://voxeu.org/article/low-performing-boys-are-particularly-affected-family-environment"/>
+        <updated>2021-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modest gender gaps emerge in primary school, with girls tending to perform better than boys in reading tests, for example, and less likely to experience disciplinary incidents that result in suspension. This column uses data from the US state of Florida to examine why these modest gaps translate into large gender differences in later educational attainment, such as completing secondary education and enrolling in and graduating from tertiary education. It finds that early childhood family environment has differential effects on boys, and particularly those at the lower tails of the academic test score and attendance distributions.]]></summary>
+        <author>
+            <name>David Autor, David Figlio, Krzysztof Karbownik, Jeffrey  Roth, Melanie Wasserman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[June 10th COVID-19 New Cases, Vaccinations, Hospitalizations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/r2ORO8mFZmY/june-10th-covid-19-new-cases.html</id>
