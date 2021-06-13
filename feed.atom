@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-13T00:39:28.567Z</updated>
+    <updated>2021-06-13T04:14:26.579Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -98,6 +98,16 @@ Inventory in May was essentially unchanged from the record low last month.
 Months of Supply was 1.2 Months in May 2021, compared to 3.1 Months in May 2020.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effect of calamities and shared identity on altruism and reciprocity]]></title>
+        <id>https://voxeu.org/article/effect-calamities-and-shared-identity-altruism-and-reciprocity</id>
+        <link href="https://voxeu.org/article/effect-calamities-and-shared-identity-altruism-and-reciprocity"/>
+        <updated>2021-06-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The evolution of altruism is an intensely studied phenomena in both the natural and social sciences. This column presents novel evidence from a large-scale survey conducted in August 2020 across nine European countries measuring how trust, reciprocity, and altruism are affected by economic interests, shared values, and a major health crisis. It finds that while altruism is enhanced by shared identities or crises, interpersonal trust is not. Common economic interests have little impact on altruism or reciprocity, suggesting that economic concerns alone cannot build social cohesion.]]></summary>
+        <author>
+            <name>Cevat Giray Aksoy, Antonio Cabrales, Mathias Dolls, Ruben Durante, Lisa Windsteiger</name>
         </author>
     </entry>
     <entry>
