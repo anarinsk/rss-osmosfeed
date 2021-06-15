@@ -564,6 +564,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/returning-office-will-be-hard",
+          "author": "Nicholas Bloom, Paul Mizen, Shivani Taneja",
+          "description": "The COVID-19 pandemic prompted a collective shift to working from home. This column argues that though the shift was surprisingly easy, returning to the office will be hard. New evidence from a survey of 2,500 employees in the UK shows a preference in favour of home working 2-3 days a week, with lingering concerns of overcrowded transport and offices. But allowing workers to choose when to work from home will leave empty offices Monday and Friday, and many tasks such as large group meetings are more effective in person than online. Hybrid working will be the solution.",
+          "link": "https://voxeu.org/article/returning-office-will-be-hard",
+          "publishedOn": "2021-06-15T00:00:00.000Z",
+          "wordCount": 2386,
+          "title": "Returning to the office will be hard"
+        },
+        {
+          "id": "https://voxeu.org/article/gross-exports-value-added-exports-income-exports",
+          "author": "Timon Bohn, Steven Brakman, Erik Dietzenbacher",
+          "description": "Global value chain analyses to examine the income gains from trade are particularly complicated by ownership relations between headquarters and subsidiaries. The consequence is that the value added generated within one country may well result in income in another country. This column presents the income perspective as a framework to deal with this complication. Trade deficits become smaller for wealthy countries and larger for developing countries. Discussions on ‘unfair’ trade should take the income perspective on board.",
+          "link": "https://voxeu.org/article/gross-exports-value-added-exports-income-exports",
+          "publishedOn": "2021-06-15T00:00:00.000Z",
+          "wordCount": 3234,
+          "title": "From gross exports to value-added exports to income exports"
+        },
+        {
           "id": "https://voxeu.org/article/trade-imbalances-and-preferential-trade-agreements",
           "author": "Giovanni Facchini, Peri  da Silva, Gerald Willmann",
           "description": "The creation of new preferential trade agreements remains a key driver in trade liberalisation, at least bilaterally. This column examines the creation of new agreements, highlighting the effects of pre-agreement bilateral imbalance and within-country income inequality on the likelihood of a preferential trade agreement being formed. The authors suggest that while the creation of preferential trade agreements continues to be an important avenue to liberalise trade, there are significant political constraints to be considered.",
@@ -1786,6 +1804,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/GXy3ZVJoSCE/tuesday-retail-sales-ppi-ny-fed-mfg.html",
+          "author": null,
+          "description": "From Matthew Graham at Mortgage News Daily: MBS RECAP: New Week, New Sense of Urgency\nThe new week wasted no time in differentiating itself from the previous week as bonds sold off somewhat briskly this morning. ... The bigger question of \"where do we go from here\" may depend on the incoming data and especially Wednesday afternoon's Fed announcement/forecasts.  Despite the early selling pressure, bonds offered some reassurance in the afternoon by holding calmly under 1.50%. [30 year fixed 3.05%]\nemphasis added\nTuesday:\n• At 8:30 AM ET, Retail sales for May is scheduled to be released.  The consensus is for 0.4% decrease in retail sales.\n• Also at 8:30 AM, The Producer Price Index for May from the BLS.  The consensus is for a 0.6% increase in PPI, and a 0.6% increase in core PPI.\n• Also at 8:30 AM, The New York Fed Empire State manufacturing survey for June.  The consensus is for a reading of 22.0, down from 24.3.\n• At 9:15 AM, The Fed will release Industrial Production and Capacity Utilization for May. The consensus is for a 0.6% increase in Industrial Production, and for Capacity Utilization to increase to 75.1%.\n• At 10:00 AM, The June NAHB homebuilder survey. The consensus is for a reading of 83, unchanged from 83 last month. Any number below 50 indicates that more builders view sales conditions as poor than good.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/GXy3ZVJoSCE/tuesday-retail-sales-ppi-ny-fed-mfg.html",
+          "publishedOn": "2021-06-15T01:00:00.006Z",
+          "wordCount": 1030,
+          "title": "Tuesday: Retail Sales, PPI, NY Fed Mfg, Industrial Production, Homebuilder Confidence"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/CKVlSphOSqw/mortgage-equity-withdrawal-in-q1-2021.html",
           "author": null,
