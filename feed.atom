@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-14T20:11:55.938Z</updated>
+    <updated>2021-06-15T00:37:41.082Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mortgage Equity Withdrawal in Q1 2021]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/CKVlSphOSqw/mortgage-equity-withdrawal-in-q1-2021.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/CKVlSphOSqw/mortgage-equity-withdrawal-in-q1-2021.html"/>
+        <updated>2021-06-14T20:31:00.002Z</updated>
+        <summary type="html"><![CDATA[Note: This is not Mortgage Equity Withdrawal (MEW) data from the Fed. The last MEW data from Fed economist Dr. Kennedy was for Q4 2008.
+The following data is calculated from the Fed's Flow of Funds data (released last week) and the BEA supplement data on single family structure investment. This is an aggregate number, and is a combination of homeowners extracting equity - hence the name "MEW" - and normal principal payments and debt cancellation (modifications, short sales, and foreclosures).
+For Q1 2021, the Net Equity Extraction was $41 billion, or 0.8% of Disposable Personal Income (DPI) .   This is nothing like the amount of equity extraction during the housing bubble as a percent of DPI.
+ Click on graph for larger image.
+This graph shows the net equity extraction, or mortgage equity withdrawal (MEW), results, using the Flow of Funds (and BEA data) compared to the Kennedy-Greenspan method. 
+MEW has been mostly positive for the last five years.
+The Fed's Flow of Funds report showed that the amount of mortgage debt outstanding increased by $117 billion in Q1.
+For reference:
+Dr. James Kennedy also has a simple method for calculating equity extraction: "A Simple Method for Estimating Gross Equity Extracted from Housing Wealth". Here is a companion spread sheet (the above uses my simple method).
+For those interested in the last Kennedy data included in the graph, the spreadsheet from the Fed is available here.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MBA Survey: "Share of Mortgage Loans in Forbearance Decreases to 4.04%"]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/uX-guhIst2I/mba-survey-share-of-mortgage-loans-in_01474925056.html</id>
