@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-16T00:38:06.099Z</updated>
+    <updated>2021-06-16T04:15:19.614Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wednesday: Housing Starts, FOMC Statement]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/Ti_PM1dItE0/wednesday-housing-starts-fomc-statement.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/Ti_PM1dItE0/wednesday-housing-starts-fomc-statement.html"/>
+        <updated>2021-06-16T00:48:00.001Z</updated>
+        <summary type="html"><![CDATA[Wednesday:
+• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.
+• At 8:30 AM, Housing Starts for May. The consensus is for 1.630 million SAAR, up from 1.569 million SAAR in April.
+• At 2:00 PM, FOMC Meeting Announcement.  No change to policy is expected at this meeting.
+• At 2:00 PM, FOMC Forecasts This will include the Federal Open Market Committee (FOMC) participants' projections of the appropriate target federal funds rate along with the quarterly economic projections. 
+• At 2:30 PM, Fed Chair Jerome Powell holds a press briefing following the FOMC announcement.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migration and risk sharing in currency unions]]></title>
+        <id>https://voxeu.org/article/migration-and-risk-sharing-currency-unions</id>
+        <link href="https://voxeu.org/article/migration-and-risk-sharing-currency-unions"/>
+        <updated>2021-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Labour mobility is a key criterion for assessing optimum currency areas. To smooth country-specific shocks or business cycles in currency unions, it is key that people migrate across the countries or regions of the union. This column argues that the ongoing discussion about risk sharing in the euro area neglects the issue of labour mobility. Relative to the US, migration rates in the euro area are significantly lower and migration contributes less to overall risk sharing. It calls for a renewed focus on the principle of labour mobility in order to enhance risk sharing in the euro area.]]></summary>
+        <author>
+            <name>Wilhelm Kohler, Gernot Müller, Susanne Wellmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Second Home Market: South Lake Tahoe in May]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/PZnXyh-cD7c/second-home-market-south-lake-tahoe-in.html</id>
@@ -7047,16 +7072,6 @@ Part 2. 부의 지도_그들은 돈이 흐르는 길목을 선점했다
 국내도서 > 경제경영 > 기업 경영 > 경영 일반]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Well-being and poverty]]></title>
-        <id>https://www.aeaweb.org/research/povety-well-being-work-incentives</id>
-        <link href="https://www.aeaweb.org/research/povety-well-being-work-incentives"/>
-        <updated>2021-05-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Policymakers often evaluate anti-poverty programs by just one measure—income. A paper in the American Economic Journal: Microeconomics says well-being is important to consider, too.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
