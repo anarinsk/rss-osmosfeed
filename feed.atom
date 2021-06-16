@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-15T20:11:45.380Z</updated>
+    <updated>2021-06-16T00:38:06.099Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -135,6 +135,16 @@ The second graph shows the year-over-year change in retail sales and food servi
 Sales in May were below expectations, however sales in March and April were revised up.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPE Turnaround Times, Previous Two Years]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/715584?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/715584?af=R"/>
+        <updated>2021-06-15T08:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 7, Page 2181-2181, July 2021.]]></summary>
+        <author>
+            <name>The University of Chicago Press: Journal of Political Economy: Table of Contents</name>
         </author>
     </entry>
     <entry>
@@ -563,6 +573,90 @@ The second graph shows the 7 day average of the year-over-year change in diners�
         <summary type="html"><![CDATA[The debate surrounding the drafting and implementation of the new Basel III accord has reignited the debate on the role of bank business models and lending technologies in banking activities, and the way these should be accounted for by regulators. This column explores how banks’ credit market experiences affect their decisions and moral hazards in lending. Banks' prior experience with borrowing firms and co-lenders reinforces their monitoring incentives allowing for a smaller lead share in the lending syndicate. Banks' sectoral experience, in contrast, appears to dilute monitoring incentives, calling for a larger lead share in the lending syndicate.]]></summary>
         <author>
             <name>Hans Degryse, Sotirios Kokas, Raoul Minetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈 되는 파이썬 인공지능 프로그래밍/아카이시 마사노리 지음, 심효섭 옮김/위키북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=273487776</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=273487776"/>
+        <updated>2021-06-13T23:59:00.000Z</updated>
+        <summary type="html"><![CDATA[돈 되는 파이썬 인공지능 프로그래밍
+아카이시 마사노리 지음, 심효섭 옮김 / 위키북스 / 2021년 06월 / ISBN:9791158392574
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 98원
+이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드
+
+
+
+
+업무에 유용한 '쓸모 있는 AI'를 만들려면 '업무를 보는 안목'과 '기술을 보는 안목'이 함께 필요하다. 업무에서 개선이 필요한 부분을 파악하고 그 개선 방안을 도출하는 '업무를 보는 안목'은 기존 IT 시스템 도입에도 필요한 능력이었지만, AI를 구축하려면 여기에 더해 업무 개선 방안을 AI를 이용해 구현 가능한지 판단하는 '기술을 보는 안목'이 필요하다. 이 책과 함께하는 파이썬 실습을 통해 'AI 기술을 보는 안목'을 키워 실질적으로 도움이 되는 유용한 AI를 직접 만들어 볼 수 있다.
+
+▣01장: 업무와 머신러닝 프로젝트 
+1.1 이 책의 목적 
+1.2 머신러닝 프로젝트의 주요 역할 및 대상 독자 
+1.3 머신러닝 개발 프로세스 
+1.4 앞으로 도메인 전문가에게 필요하게 될 스킬 
+1.5 이 책의 구성 
+ 
+▣02장: 머신러닝 모델의 처리 패턴 
+2.1 AI와 머신러닝의 관계 
+2.2 머신러닝의 세 가지 학습 방식 
+2.3 지도 학습에 속하는 처리 패턴 
+__2.3.1 분류 
+__2.3.2 회귀 
+__2.3.3 시계열 분석 
+2.4 비지도 학습에 속하는 처리 패턴 
+__2.4.1 연관 분석 
+__2.4.2 클러스터링 
+__2.4.3 차원축소 
+2.5 처리 패턴을 선택하는 방법 
+2.6 딥러닝과 구조화/비구조화 데이터 
+ 
+▣03장: 머신러닝 모델을 개발하는 순서 
+3.1 모델을 개발하는 순서 
+3.2 예제에 사용할 데이터와 모델의 목적 
+__3.2.1 예제에 사용할 데이터 
+__3.2.2 모델의 목적 
+3.3 모델 구현하기 
+__3.3.1 (1) 데이터 읽어 들이기 
+__3.3.2 (2) 데이터 확인 
+__3.3.3 (3) 데이터 전처리 
+__3.3.4 (4) 데이터 분류 
+__3.3.5 (5) 알고리즘 선택하기 
+__3.3.6 (6) 학습 
+__3.3.7 (7) 예측 
+__3.3.8 (8) 평가 
+__3.3.9 (9) 튜닝 
+ 
+▣04장: 머신러닝 모델 개발의 중요 포인트 
+4.1 데이터 확인 
+__4.1.1 수치적·통계적으로 분석하는 방법 
+__4.1.2. 시각적인 분석 및 데이터 확인 방법 
+4.2 데이터 전처리 
+__4.2.1 불필요한 필드 삭제하기 
+__4.2.2 누락 값 처리하기 
+__4.2.3 이진 레이블값 필드를 숫자 값 필드로 만들기 
+__4.2.4 다중 레이블값 필드를 숫자 값 필드로 만들기 
+__4.2.5 데이터 정규화 
+__4.2.6 그 외 데이터 전처리 기법 
+4.3 알고리즘 선택하기 
+__4.3.1 대표적인 분류 알고리즘과 특징 
+__4.3.2 예제 코드에서 사용할 데이터 
+__4.3.3 로지스틱 회귀 
+__4.3.4 서포트 벡터 머신 (커널) 
+__4.3.5 신경망 알고리즘 
+__4.3.6 결정 트리 
+__4.3.7 랜덤 포레스트 
+__4.3.8 XGBoost 
+__4.3.9 알고리즘을 선택하는 방법 
+4.4 평가 
+__4.4.1 혼동행렬 
+__4.4.2 정확도, 정밀도, 재현율, F-점수 
+__4.4.3 확률값과 역치 
+__4.4.4 PR 곡선...
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
