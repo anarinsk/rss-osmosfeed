@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-17T12:17:49.843Z</updated>
+    <updated>2021-06-17T16:21:57.286Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hotels: Occupancy Rate Down 10% Compared to Same Week in 2019]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/7mcZxtcYdWk/hotels-occupancy-rate-down-10-compared.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/7mcZxtcYdWk/hotels-occupancy-rate-down-10-compared.html"/>
+        <updated>2021-06-17T14:48:00.002Z</updated>
+        <summary type="html"><![CDATA[Note: The year-over-year occupancy comparisons are easy, since occupancy declined sharply at the onset of the pandemic.  So STR is comparing to the same week in 2019.
+The occupancy rate is down 10.3% compared to the same week in 2019.  Leisure (weekend) occupancy has recovered, but weekday (more business) is still down double digits.
+
+From CoStar: STR: US Hotel Occupancy at Highest Weekly Level Since November 2019
+U.S. hotel occupancy reached its highest weekly level since early November 2019, according to STR‘s latest data through June 12.
+June 6-12, 2021 (percentage change from comparable week in 2019*):
+• Occupancy: 66.0% (-10.3%)
+• Average daily rate (ADR): US$125.16 (-7.0%)
+• Revenue per available room (RevPAR): US$82.65 (-16.6%)
+ While weekday occupancy was still down double digits from the corresponding days in 2019, weekend occupancy was 0.2% (Friday) and 3.2% (Saturday) higher than the 2019 comparables. On a total-room-inventory basis, which includes those hotels temporarily closed due to the pandemic, total week occupancy was higher than 60% for the first time since the beginning of the pandemic. ADR and RevPAR were also the highest of the pandemic era on an absolute basis.
+   emphasis added
+The following graph shows the seasonal pattern for the hotel occupancy rate using the four week average.
+Click on graph for larger image.
+The red line is for 2021, black is 2020, blue is the median, dashed purple is 2019, and dashed light blue is for 2009 (the worst year on record for hotels prior to 2020).
+
+Occupancy is now above the horrible 2009 levels and weekend occupancy (leisure) has been solid.
+Note: Y-axis doesn't start at zero to better show the seasonal change.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix Real Estate in May: Sales Up 33% YoY, Active Inventory Down 54% YoY]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/4djXEVZ7Fas/phoenix-real-estate-in-may-sales-up-33.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/4djXEVZ7Fas/phoenix-real-estate-in-may-sales-up-33.html"/>
+        <updated>2021-06-17T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.  Remember sales were weak in April and May 2020 due to the pandemic, so the YoY sales comparison is easy.
+The Arizona Regional Multiple Listing Service (ARMLS) reports ("Stats Report"):
+1) Overall sales were at 9,127 in May, up 33.0% from 6,860 in May 2020.
+2) Active inventory was at 5,218, down 54.3% from 11,418 in May 2020.
+3) Months of supply decreased to 1.05 in May from 2.46 in May 2020. This is very low.
+Inventory in May was up 14.9% from last month.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Initial Unemployment Claims increase to 412,000]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/VfVk8I6EYOI/weekly-initial-unemployment-claims_17.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/VfVk8I6EYOI/weekly-initial-unemployment-claims_17.html"/>
+        <updated>2021-06-17T12:37:00.004Z</updated>
+        <summary type="html"><![CDATA[The DOL reported:
+In the week ending June 12, the advance figure for seasonally adjusted initial claims was 412,000, an increase of 37,000  from the previous week's revised level. The previous week's level was revised down by 1,000 from 376,000 to 375,000.  The 4-week moving average was 395,000, a decrease of 8,000 from the previous week's revised average. This is the  lowest level for this average since March 14, 2020 when it was 225,500. The previous week's average was revised up by  500 from 402,500 to 403,000. 
+emphasis added
+This does not include the 118,025 initial claims for Pandemic Unemployment Assistance (PUA) that was up from 71,303 the previous week.
+The following graph shows the 4-week moving average of weekly claims since 1971.
+Click on graph for larger image.
+The dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims decreased to 395,000.
+The previous week was revised down.
+Regular state continued claims increased to 3,518,000 (SA) from 3,517,000 (SA) the previous week.
+Note: There are an additional 6,120,596 receiving Pandemic Unemployment Assistance (PUA) that decreased from 6,374,514 the previous week (there are questions about these numbers).  This is a special program for business owners, self-employed, independent contractors or gig workers not receiving other unemployment insurance.   And an additional 5,157,445 receiving Pandemic Emergency Unemployment Compensation (PEUC) down from 5,231,952.
+Weekly claims were higher than the consensus forecast.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thursday: Unemployment Claims, Philly Fed Mfg]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/ogUupomuYf0/thursday-unemployment-claims-philly-fed.html</id>
