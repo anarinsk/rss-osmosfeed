@@ -546,6 +546,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/asymmetric-information-foreign-exchange-market",
+          "author": "Giovanni Cespa, Antonio Gargano, Steven Riddiough, Lucio  Sarno",
+          "description": "The extent that trade volume can reveal asymmetric information among foreign exchange market participants is the subject of debate among economists, as are the questions surrounding how the dispersion of information can affect currency returns. This column presents new evidence that foreign exchange volume reveals insights into both issues. The authors find that a high level of information asymmetry exists across foreign exchange market participants, and that this asymmetry is independent of currencies’ average level of liquidity, volatility and volume.",
+          "link": "https://voxeu.org/article/asymmetric-information-foreign-exchange-market",
+          "publishedOn": "2021-06-17T00:00:00.000Z",
+          "wordCount": 2242,
+          "title": "Asymmetric information in the foreign exchange market"
+        },
+        {
+          "id": "https://voxeu.org/article/swedish-school-lunch-reform-nutrition-and-lifetime-income",
+          "author": "Petter Lundborg, Dan-Olof Rooth",
+          "description": "School meal policies differ significantly between countries. Sweden and Finland serve healthy school lunches free of charge to all students, for instance, while children in neighbouring Norway and Denmark bring their own packed lunches from home. This column a programme that introduced free nutritious school lunches for all pupils in Swedish primary schools between 1959 and 1969, and finds that children who participated during their entire primary school period went on to have higher lifetime incomes.",
+          "link": "https://voxeu.org/article/swedish-school-lunch-reform-nutrition-and-lifetime-income",
+          "publishedOn": "2021-06-17T00:00:00.000Z",
+          "wordCount": 2464,
+          "title": "Swedish school lunch reform, nutrition, and lifetime income"
+        },
+        {
           "id": "https://voxeu.org/vox-talks/capitalism-after-covid",
           "author": "Luis Garicano",
           "description": "What's the future of capitalism? Luis Garicano asked this question to 21 of his fellow economists, and this week the interviews are published as a CEPR ebook. He tells Tim Phillips that Covid-19 may inspire us \"to rethink everything we are doing\".\nYou can download the new eBook 'Capitalism after Covid: Conversations with 21 economists' here",
@@ -1885,6 +1903,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ogUupomuYf0/thursday-unemployment-claims-philly-fed.html",
+          "author": null,
+          "description": "Thursday:\n• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 365 thousand from 376 thousand last week.\n• Also at 8:30 AM, the Philly Fed manufacturing survey for June.  The consensus is for a reading of 31.0, down from 31.5.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ogUupomuYf0/thursday-unemployment-claims-philly-fed.html",
+          "publishedOn": "2021-06-17T00:55:00.001Z",
+          "wordCount": 840,
+          "title": "Thursday: Unemployment Claims, Philly Fed Mfg"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/HgD7sSzrafc/alabama-real-estate-in-may-sales-up-28.html",
           "author": null,
