@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-19T12:16:51.552Z</updated>
+    <updated>2021-06-19T16:18:57.035Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -8297,97 +8297,6 @@ _ ...
 국내도서 > 컴퓨터/모바일 > 모바일 프로그래밍 > 안드로이드]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이썬으로 살펴보는 아키텍처 패턴/해리 J.W. 퍼시벌 & 밥 그레고리 지음, 오현석 옮김/한빛미디어]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=271944317</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=271944317"/>
-        <updated>2021-05-21T02:47:00.000Z</updated>
-        <summary type="html"><![CDATA[파이썬으로 살펴보는 아키텍처 패턴
-해리 J.W. 퍼시벌 & 밥 그레고리 지음, 오현석 옮김 / 한빛미디어 / 2021년 06월 / ISBN:9791162244319
-정가: 32,000원 / 판매가: 28,800원 / 마일리지: 1,600원
-이벤트: 컴퓨터/IT 분야
- 3만원 이상 구매시, 손목 보호 쿠션
-
-
-
-
-파이썬을 활용한 프로젝트의 규모가 커지면서 육각형/클린 아키텍처, 이벤트 기반 아키텍처, 도메인 주도 설계 등 고수준 디자인 패턴에 대한 관심이 높아지고 있다. 이 책은 검증된 예제와 아키텍처 디자인 패턴을 소개하며 애플리케이션의 복잡성, 의존성을 낮추고, 테스트 스위트에서 최선의 가치를 얻는 방법을 알려준다. 또한 자바나 C#보다 간단하고 우아한 파이썬 코드의 장점을 잘 살려 각 패턴을 설명한다.
-
-CHAPTER 0 도입
-0.1 설계가 왜 잘못되는가?
-0.2 캡슐화와 추상화
-0.3 계층화
-0.4 의존성 역전 원칙
-0.5 모든 비즈니스 로직을 위한 장소: 도메인 모델
-
-[PART I 도메인 모델링을 지원하는 아키텍처 구축]
-
-CHAPTER 1 도메인 모델링
-1.1 도메인 모델이란?
-1.2 도메인 언어 탐구
-1.3 도메인 모델 단위 테스트
-1.4 모든 것을 객체로 만들 필요는 없다: 도메인 서비스 함수
-
-CHAPTER 2 저장소 패턴
-2.1 도메인 모델 영속화
-2.2 의사코드: 무엇이 필요할까?
-2.3 데이터 접근에 DIP 적용하기
-2.4 기억 되살리기: 우리가 사용하는 모델
-2.5 저장소 패턴 소개
-2.6 테스트에 사용하는 가짜 저장소를 쉽게 만드는 방법
-2.7 파이썬에서 포트는 무엇이고, 어댑터란 무엇인가
-2.8 마치며
-
-CHAPTER 3 막간: 결합과 추상화
-3.1 추상적인 상태는 테스트를 더 쉽게 해준다
-3.2 올바른 추상화 선택
-3.3 선택한 추상화 구현
-3.4 마치며
-
-CHAPTER 4 첫 번째 유스 케이스: 플라스크 API와 서비스 계층
-4.1 애플리케이션을 실세계와 연결하기
-4.2 첫 번째 엔드투엔드 테스트
-4.3 직접 구현하기
-4.4 데이터베이스 검사가 필요한 오류 조건
-4.5 서비스 계층 소개와 서비스 계층 테스트용 FakeRepository 사용
-4.6 모든 것을 왜 서비스라고 부르는가?
-4.7 모든 요소를 폴더에 넣고 각 부분이 어떤 위치에 있는지 살펴보기
-4.8 마치며
-
-CHAPTER 5 높은 기어비와 낮은 기어비의 TDD
-5.1 테스트 피라미드는 어떻게 생겼는가?
-5.2 도메인 계층 테스트를 서비스 계층으로 옮겨야 하는가?
-5.3 어떤 종류의 테스트를 작성할지 결정하는 방법
-5.4 높은 기어비와 낮은 기어비
-5.5 서비스 계층 테스트를 도메인으로부터 완전히 분리하기
-5.6 E2E 테스트에 도달할 때까지 계속 개선하기
-5.7 마치며
-
-CHAPTER 6 작업 단위 패턴
-6.1 작업 단위는 저장소와 협력
-6.2 테스트-통합 테스트로 UoW 조정하기
-6.3 작업 단위와 작업 단위의 콘텍스트 관리자
-6.4 UoW를 서비스 계층에 사용하기
-6.5 커밋/롤백 동작에 대한 명시적인 테스트...
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 객체지향 프로그래밍/UML
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Direction of Innovation]]></title>
-        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714093?af=R</id>
-        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714093?af=R"/>
-        <updated>2021-05-21T02:09:39.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
-        <author>
-            <name>Hugo Hopenhayn</name>
         </author>
     </entry>
 </feed>
