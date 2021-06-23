@@ -546,6 +546,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/limits-private-climate-change-mitigation",
+          "author": "Dalya Elmalt, Deniz Igan, Divya  Kirti",
+          "description": "Sustainable investment incorporating environmental, social, and governance concerns is increasingly used as an emissions-reducing policy. However, little is known about its effectiveness. This column examines the relationship between ESG metrics and emission growth across 20 countries and finds little evidence to suggest that higher ESG metrics are associated with reduced emission growth.",
+          "link": "https://voxeu.org/article/limits-private-climate-change-mitigation",
+          "publishedOn": "2021-06-23T00:00:00.000Z",
+          "wordCount": 2822,
+          "title": "Limits to private climate change mitigation"
+        },
+        {
+          "id": "https://voxeu.org/article/understanding-global-value-chains-accounting-firm-heterogeneity-us-production-within-industries",
+          "author": "James Fetzer, Tina Highfill, Kassu Hossiso, Tom F. Howells III, Erich H.  Strassner, Jeffrey A. Young",
+          "description": "Research has shown that multinational enterprises located in the US account for roughly 90% of US exports of goods and for over 90% of exports of selected services. While these estimates show that multinationals clearly dominate trading activity of gross exports, they overstate the role of multinationals in US exports since non-multinationals are an important part of the production supply chain and make significant contributions to the value embodied in these exports. This column uses experimental Trade in Value Added statistics estimated from extended supply-use tables for the US for 2005 and 2012 to show that both multinational and non-multinational firms contribute significant amounts of content embodied in US exports.",
+          "link": "https://voxeu.org/article/understanding-global-value-chains-accounting-firm-heterogeneity-us-production-within-industries",
+          "publishedOn": "2021-06-23T00:00:00.000Z",
+          "wordCount": 2898,
+          "title": "Understanding global value chains by accounting for firm heterogeneity in US production within industries"
+        },
+        {
           "id": "https://voxeu.org/article/remembering-peter-neary-1950-2021",
           "author": "Patrick  Honohan, Cormac Ó Gráda",
           "description": "Peter Neary, former president of both the European Economic Association and the Royal Economic Society, passed away on 16 June 2021. This column pays tribute to one of the profession’s European leaders, both in terms of the depth and range of his research and in his role as a wizard of organisational development.",
@@ -1971,15 +1989,6 @@
           "publishedOn": "2021-05-26T15:00:00.000Z",
           "wordCount": 1785,
           "title": "The pros and cons of collaboration"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/extended-family-dynasty-education",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "It's not just parents who have an impact on their children's educational outcomes. Extended family affect future generations as well, according to a paper in the American Economic Review.",
-          "link": "https://www.aeaweb.org/research/charts/extended-family-dynasty-education",
-          "publishedOn": "2021-05-24T15:00:00.000Z",
-          "wordCount": 465,
-          "title": "Building a family dynasty"
         }
       ]
     },
@@ -2182,6 +2191,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/IxwryTl6mu8/wednesday-new-home-sales.html",
+          "author": null,
+          "description": "Wednesday:\n• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.\n• At 10:00 AM, New Home Sales for May from the Census Bureau. The consensus is for 880 thousand SAAR, up from 863 thousand in April.\n• During the day, The AIA's Architecture Billings Index for May (a leading indicator for commercial real estate).",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/IxwryTl6mu8/wednesday-new-home-sales.html",
+          "publishedOn": "2021-06-23T01:08:00.001Z",
+          "wordCount": 849,
+          "title": "Wednesday: New Home Sales"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/_cjJ9Ld20XU/june-22nd-covid-19-new-cases.html",
           "author": null,

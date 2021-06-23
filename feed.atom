@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-23T00:35:44.523Z</updated>
+    <updated>2021-06-23T04:13:57.996Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wednesday: New Home Sales]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/IxwryTl6mu8/wednesday-new-home-sales.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/IxwryTl6mu8/wednesday-new-home-sales.html"/>
+        <updated>2021-06-23T01:08:00.001Z</updated>
+        <summary type="html"><![CDATA[Wednesday:
+• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.
+• At 10:00 AM, New Home Sales for May from the Census Bureau. The consensus is for 880 thousand SAAR, up from 863 thousand in April.
+• During the day, The AIA's Architecture Billings Index for May (a leading indicator for commercial real estate).]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limits to private climate change mitigation]]></title>
+        <id>https://voxeu.org/article/limits-private-climate-change-mitigation</id>
+        <link href="https://voxeu.org/article/limits-private-climate-change-mitigation"/>
+        <updated>2021-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sustainable investment incorporating environmental, social, and governance concerns is increasingly used as an emissions-reducing policy. However, little is known about its effectiveness. This column examines the relationship between ESG metrics and emission growth across 20 countries and finds little evidence to suggest that higher ESG metrics are associated with reduced emission growth.]]></summary>
+        <author>
+            <name>Dalya Elmalt, Deniz Igan, Divya  Kirti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding global value chains by accounting for firm heterogeneity in US production within industries]]></title>
+        <id>https://voxeu.org/article/understanding-global-value-chains-accounting-firm-heterogeneity-us-production-within-industries</id>
+        <link href="https://voxeu.org/article/understanding-global-value-chains-accounting-firm-heterogeneity-us-production-within-industries"/>
+        <updated>2021-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Research has shown that multinational enterprises located in the US account for roughly 90% of US exports of goods and for over 90% of exports of selected services. While these estimates show that multinationals clearly dominate trading activity of gross exports, they overstate the role of multinationals in US exports since non-multinationals are an important part of the production supply chain and make significant contributions to the value embodied in these exports. This column uses experimental Trade in Value Added statistics estimated from extended supply-use tables for the US for 2005 and 2012 to show that both multinational and non-multinational firms contribute significant amounts of content embodied in US exports.]]></summary>
+        <author>
+            <name>James Fetzer, Tina Highfill, Kassu Hossiso, Tom F. Howells III, Erich H.  Strassner, Jeffrey A. Young</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[June 22nd COVID-19 New Cases, Vaccinations, Hospitalizations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/_cjJ9Ld20XU/june-22nd-covid-19-new-cases.html</id>
@@ -8558,16 +8591,6 @@ __3.3.3 enumerate 함수로 인덱스 숫자 생성
 국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a family dynasty]]></title>
-        <id>https://www.aeaweb.org/research/charts/extended-family-dynasty-education</id>
-        <link href="https://www.aeaweb.org/research/charts/extended-family-dynasty-education"/>
-        <updated>2021-05-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's not just parents who have an impact on their children's educational outcomes. Extended family affect future generations as well, according to a paper in the American Economic Review.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
