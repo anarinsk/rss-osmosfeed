@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-24T04:16:36.528Z</updated>
+    <updated>2021-06-24T08:14:25.501Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -19,6 +19,36 @@
 • At 4:30 PM, Federal Reserve releases Results from 2021 Bank Stress Tests]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A multilateral initiative to boost trade along global supply chains for least developed countries]]></title>
+        <id>https://voxeu.org/article/multilateral-initiative-boost-trade-along-global-supply-chains-least-developed-countries</id>
+        <link href="https://voxeu.org/article/multilateral-initiative-boost-trade-along-global-supply-chains-least-developed-countries"/>
+        <updated>2021-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many believe that the global trading system could offer little more to least developed countries beyond the various unilateral preferential schemes currently in place. This column argues that there is room for new multilateral initiatives to strengthen the participation of these countries in global value chains. It avocates for a new ‘GVCs for LDCs’ global preferential scheme based on least developed countries’ value added, thereby covering exports by these countries along the entire supply chain. Estimates suggest that such a scheme would increase global trade, improve least developed countries’ value added, and promote further value chain integration between these and other developing countries.]]></summary>
+        <author>
+            <name>Alessandro Antimiani, Lucian Cernat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fishy business in an expert product review]]></title>
+        <id>https://voxeu.org/article/fishy-business-expert-product-review</id>
+        <link href="https://voxeu.org/article/fishy-business-expert-product-review"/>
+        <updated>2021-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many expert product reviews are non-blind and influenced by cosy relationships between reviewers and producers that consumers are not aware of. The downside of biased reviews is largely unknown because of a lack of data and small sample sizes. Based on unique data for a long-running expert product review in the food-service industry, this column finds that a conflict of interests for reviewers led to a sizeable bias in ratings. This casts doubt on the value of non-blind expert product reviews that are not bound by very strict rules.]]></summary>
+        <author>
+            <name>Ben Vollaard, Jan  van Ours</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rich non-responders in surveys]]></title>
+        <id>https://voxeu.org/article/rich-non-responders-surveys</id>
+        <link href="https://voxeu.org/article/rich-non-responders-surveys"/>
+        <updated>2021-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Surveys are an often unreliable method for measuring top incomes, due largely to low compliance rates among rich households. This column proposes a way to correct for selective compliance. Using the geographic distribution of survey-response rates to calculate how the household-level probability of agreeing to be interviewed varies with own-income and other covariates, the method improves on ad hoc approaches to reweighting survey data. A behavioural micro model of compliance can more accurately reveal top income recipients, thereby updating tax records and refining redistributive policies.]]></summary>
+        <author>
+            <name>Martin Ravallion</name>
         </author>
     </entry>
     <entry>
