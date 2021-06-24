@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-24T00:29:46.235Z</updated>
+    <updated>2021-06-24T04:16:36.528Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thursday: GDP, Unemployment Claims, Durable Goods, Bank Stress Tests]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/fwZPHvD8Ilk/thursday-gdp-unemployment-claims.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/fwZPHvD8Ilk/thursday-gdp-unemployment-claims.html"/>
+        <updated>2021-06-24T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Thursday:
+• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 390 thousand from 412 thousand last week.
+• Also at 8:30 AM, Durable Goods Orders for May from the Census Bureau. The consensus is for a 3.0% increase in durable goods orders.
+• Also at 8:30 AM, Gross Domestic Product, 1st quarter 2020 (Third estimate). The consensus is that real GDP increased 6.4% annualized in Q1, unchanged from the second estimate of a 6.4% increase.
+• At 11:00 AM, the Kansas City Fed manufacturing survey for June.  This is the last of regional manufacturing surveys for June.
+• At 4:30 PM, Federal Reserve releases Results from 2021 Bank Stress Tests]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[June 23rd COVID-19 New Cases, Vaccinations, Hospitalizations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/esBgptky0Qg/june-23rd-covid-19-new-cases.html</id>
@@ -8456,17 +8471,6 @@ PART 06 차원 축소
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Terminal Preview 1.9 Release]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6739</id>
-        <link href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-9-release/"/>
-        <updated>2021-05-25T14:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Happy Microsoft Build 2021 and happy 2nd birthday to Windows Terminal! This release introduces version 1.9 to Windows Terminal Preview and migrates Windows Terminal to version 1.8. As always, you can install both builds from the Microsoft Store as well as from the GitHub releases page.
-The post Windows Terminal Preview 1.9 Release appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Kayla Cinnamon</name>
         </author>
     </entry>
 </feed>

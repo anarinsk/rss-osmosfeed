@@ -495,15 +495,6 @@
           "publishedOn": "2021-05-26T16:00:23.000Z",
           "wordCount": 1670,
           "title": "Windows Package Manager 1.0"
-        },
-        {
-          "id": "https://devblogs.microsoft.com/commandline/?p=6739",
-          "author": "Kayla Cinnamon",
-          "description": "Happy Microsoft Build 2021 and happy 2nd birthday to Windows Terminal! This release introduces version 1.9 to Windows Terminal Preview and migrates Windows Terminal to version 1.8. As always, you can install both builds from the Microsoft Store as well as from the GitHub releases page.\nThe post Windows Terminal Preview 1.9 Release appeared first on Windows Command Line.",
-          "link": "https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-9-release/",
-          "publishedOn": "2021-05-25T14:56:04.000Z",
-          "wordCount": 1946,
-          "title": "Windows Terminal Preview 1.9 Release"
         }
       ]
     },
@@ -2191,6 +2182,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fwZPHvD8Ilk/thursday-gdp-unemployment-claims.html",
+          "author": null,
+          "description": "Thursday:\n• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 390 thousand from 412 thousand last week.\n• Also at 8:30 AM, Durable Goods Orders for May from the Census Bureau. The consensus is for a 3.0% increase in durable goods orders.\n• Also at 8:30 AM, Gross Domestic Product, 1st quarter 2020 (Third estimate). The consensus is that real GDP increased 6.4% annualized in Q1, unchanged from the second estimate of a 6.4% increase.\n• At 11:00 AM, the Kansas City Fed manufacturing survey for June.  This is the last of regional manufacturing surveys for June.\n• At 4:30 PM, Federal Reserve releases Results from 2021 Bank Stress Tests",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fwZPHvD8Ilk/thursday-gdp-unemployment-claims.html",
+          "publishedOn": "2021-06-24T01:00:00.001Z",
+          "wordCount": 916,
+          "title": "Thursday: GDP, Unemployment Claims, Durable Goods, Bank Stress Tests"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/esBgptky0Qg/june-23rd-covid-19-new-cases.html",
           "author": null,
