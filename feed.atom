@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-25T04:15:23.901Z</updated>
+    <updated>2021-06-25T08:13:26.658Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -16,6 +16,36 @@
 • At 10:00 AM, University of Michigan's Consumer sentiment index (Final for June). The consensus is for a reading of 86.8.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immigration and the UK economy after Brexit]]></title>
+        <id>https://voxeu.org/article/immigration-and-uk-economy-after-brexit</id>
+        <link href="https://voxeu.org/article/immigration-and-uk-economy-after-brexit"/>
+        <updated>2021-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The tide on public sentiment towards immigration in the UK – and economists’ views on Brexit’s economic impact – may be turning. This column discusses the UK’s post-Brexit migration system introduced in January 2021. It argues that the new system, while ending free movement with the EU and hence being far more restrictive for EU citizens moving to the UK for work, is considerably less restrictive.]]></summary>
+        <author>
+            <name>Jonathan  Portes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A generation of Italian economists]]></title>
+        <id>https://voxeu.org/article/generation-italian-economists</id>
+        <link href="https://voxeu.org/article/generation-italian-economists"/>
+        <updated>2021-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the last 40 years, Italy has produced a large number of influential economists. This is somewhat surprising because economics is more likely to require technical training than other social sciences and, until the 1980s, Italy did not have any formal doctoral programme. This column examines how a large scholarship program contributed to the formation of a generation of Italian economists with a focus on gender and socioeconomic status, and on their interaction with social mobility.]]></summary>
+        <author>
+            <name>Enrico Nano, Ugo Panizza, Martina  Viarengo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Globalisation: A woman's best friend? Not for all]]></title>
+        <id>https://voxeu.org/article/globalisation-womans-best-friend-not-all</id>
+        <link href="https://voxeu.org/article/globalisation-womans-best-friend-not-all"/>
+        <updated>2021-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The rise in income inequality and, more prominently, in the wage gap between men and women has been one of the major concerns among policymakers and the public in recent years. This column presents new evidence from Germany on the impact of exports on the gender wage gap which shows that an increase in a plant’s exports significantly reduces the wage gap between male and female co-workers in white-collar occupations, but widens it for employees in blue-collar occupations. The findings suggest that designing policies that support women taking part in trade, especially in positions in which they would benefit from their comparative advantage, is crucial to maximise the potential benefits from globalisation.]]></summary>
+        <author>
+            <name>Alessandra Bonfiglioli, Federica De Pace</name>
         </author>
     </entry>
     <entry>
