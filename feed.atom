@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-25T08:13:26.658Z</updated>
+    <updated>2021-06-25T12:18:08.248Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -16,6 +16,16 @@
 • At 10:00 AM, University of Michigan's Consumer sentiment index (Final for June). The consensus is for a reading of 86.8.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatever happened to the 15-hour work week]]></title>
+        <id>https://voxeu.org/vox-talks/whatever-happened-15-hour-work-week</id>
+        <link href="https://voxeu.org/vox-talks/whatever-happened-15-hour-work-week"/>
+        <updated>2021-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[John Maynard Keynes famously predicted that no one would need to work for more than three hours a day by 2030. How did he get it so wrong? Nick Crafts tells Tim Phillips that, in one way, Keynes has underestimated the change in our work-life balance.]]></summary>
+        <author>
+            <name>Nicholas Crafts</name>
         </author>
     </entry>
     <entry>
