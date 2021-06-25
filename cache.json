@@ -477,17 +477,7 @@
       "title": "Windows Command Line",
       "feedUrl": "https://devblogs.microsoft.com/commandline/feed/",
       "siteUrl": "https://devblogs.microsoft.com/commandline",
-      "articles": [
-        {
-          "id": "https://devblogs.microsoft.com/commandline/?p=6715",
-          "author": "Demitrius Nelon",
-          "description": "We started a journey to build a native package manager for Windows 10 when we announced the Windows Package Manager preview at Microsoft Build 2020. We released the project on GitHub as an open-source collaborative effort and the community engagement has been wonderful to experience!\nThe post Windows Package Manager 1.0 appeared first on Windows Command Line.",
-          "link": "https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/",
-          "publishedOn": "2021-05-26T16:00:23.000Z",
-          "wordCount": 1670,
-          "title": "Windows Package Manager 1.0"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "A Fine Theorem",
@@ -1989,15 +1979,6 @@
           "publishedOn": "2021-06-01T15:00:00.000Z",
           "wordCount": 811,
           "title": "Welfare generosity and work"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/ben-jones-research-teams-pros-cons",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "An increasing amount of research is being done by teams these days than by individuals. We spoke with Ben Jones about his paper in the Journal of Economic Perspectives on the pros and cons of collaboration and few reforms that could help ensure coauthors get fair credit for their work.",
-          "link": "https://www.aeaweb.org/research/ben-jones-research-teams-pros-cons",
-          "publishedOn": "2021-05-26T15:00:00.000Z",
-          "wordCount": 1785,
-          "title": "The pros and cons of collaboration"
         }
       ]
     },
@@ -2137,6 +2118,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/qNQTQcy5ewc/friday-personal-income-and-outlays.html",
+          "author": null,
+          "description": "Friday:\n• At 8:30 AM ET, Personal Income and Outlays, May 2021.  The consensus is for a 2.5 decrease in personal income, and for a 0.3% increase in personal spending.  And for the Core PCE price index to increase 0.6% (3.4% YoY).\n• At 10:00 AM, University of Michigan's Consumer sentiment index (Final for June). The consensus is for a reading of 86.8.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/qNQTQcy5ewc/friday-personal-income-and-outlays.html",
+          "publishedOn": "2021-06-25T01:01:00.002Z",
+          "wordCount": 849,
+          "title": "Friday: Personal Income and Outlays"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/TmcEd5fjWNw/freddie-mac-mortgage-serious.html",
           "author": null,

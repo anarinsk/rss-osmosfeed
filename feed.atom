@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-25T00:41:12.023Z</updated>
+    <updated>2021-06-25T04:15:23.901Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Friday: Personal Income and Outlays]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/qNQTQcy5ewc/friday-personal-income-and-outlays.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/qNQTQcy5ewc/friday-personal-income-and-outlays.html"/>
+        <updated>2021-06-25T01:01:00.002Z</updated>
+        <summary type="html"><![CDATA[Friday:
+• At 8:30 AM ET, Personal Income and Outlays, May 2021.  The consensus is for a 2.5 decrease in personal income, and for a 0.3% increase in personal spending.  And for the Core PCE price index to increase 0.6% (3.4% YoY).
+• At 10:00 AM, University of Michigan's Consumer sentiment index (Final for June). The consensus is for a reading of 86.8.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freddie Mac: Mortgage Serious Delinquency Rate decreased in May]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/TmcEd5fjWNw/freddie-mac-mortgage-serious.html</id>
@@ -8530,27 +8542,6 @@ Part 4 정책 _박정호
 국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Package Manager 1.0]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6715</id>
-        <link href="https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/"/>
-        <updated>2021-05-26T16:00:23.000Z</updated>
-        <summary type="html"><![CDATA[We started a journey to build a native package manager for Windows 10 when we announced the Windows Package Manager preview at Microsoft Build 2020. We released the project on GitHub as an open-source collaborative effort and the community engagement has been wonderful to experience!
-The post Windows Package Manager 1.0 appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Demitrius Nelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The pros and cons of collaboration]]></title>
-        <id>https://www.aeaweb.org/research/ben-jones-research-teams-pros-cons</id>
-        <link href="https://www.aeaweb.org/research/ben-jones-research-teams-pros-cons"/>
-        <updated>2021-05-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An increasing amount of research is being done by teams these days than by individuals. We spoke with Ben Jones about his paper in the Journal of Economic Perspectives on the pros and cons of collaboration and few reforms that could help ensure coauthors get fair credit for their work.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
