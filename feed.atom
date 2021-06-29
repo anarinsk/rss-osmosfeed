@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-29T08:13:37.347Z</updated>
+    <updated>2021-06-29T12:18:33.682Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -19,6 +19,16 @@ Tuesday:
 • Also at 9:00 AM, FHFA House Price Index for April 2021. This was originally a GSE only repeat sales, however there is also an expanded index.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why has political economy been neglected?]]></title>
+        <id>https://voxeu.org/content/why-has-political-economy-been-neglected</id>
+        <link href="https://voxeu.org/content/why-has-political-economy-been-neglected"/>
+        <updated>2021-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago CEPR launched its Political Economy research group, led by Helios Herrera and Ronny Razin. As the group expands to become a programme area, they tell Tim Phillips how a lack of recognition for political economics in recent years has damaged both research and teaching — and how to repair the damage.]]></summary>
+        <author>
+            <name>Helios Herrera, Ronny Razin</name>
         </author>
     </entry>
     <entry>
