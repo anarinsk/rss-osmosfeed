@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-06-29T04:15:06.005Z</updated>
+    <updated>2021-06-29T08:13:37.347Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -19,6 +19,26 @@ Tuesday:
 • Also at 9:00 AM, FHFA House Price Index for April 2021. This was originally a GSE only repeat sales, however there is also an expanded index.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social value and incentives for vaccine uptake]]></title>
+        <id>https://voxeu.org/article/social-value-and-incentives-vaccine-uptake</id>
+        <link href="https://voxeu.org/article/social-value-and-incentives-vaccine-uptake"/>
+        <updated>2021-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Covid-19 vaccines exert large positive spillover effects beyond their protective effects for individuals, and thus their value far exceeds their costs. But these benefits are only realised if enough people receive both doses, so policymakers need to ensure appropriate incentives are in place to mitigate vaccine hesitancy. This column explores the potential of different incentives, arguing that creating a narrative of social esteem around being vaccinated may be the most effective way to ensure widespread uptake.]]></summary>
+        <author>
+            <name>Joan Costa-Font</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effects of Federal Open Market Committee voting rights rotation]]></title>
+        <id>https://voxeu.org/article/effects-federal-open-market-committee-voting-rights-rotation</id>
+        <link href="https://voxeu.org/article/effects-federal-open-market-committee-voting-rights-rotation"/>
+        <updated>2021-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of the Reserve Bank presidents of the Federal Open Market Committee of the US Federal Reserve System have rotating voting rights. This column discusses new evidence that having the right to vote makes them more involved, which affects their meeting interventions and their inter-meeting speeches. This matters for financial markets – asset prices react less to speeches delivered by presidents when they have the right to vote. The authors argue that this is consistent with changes in the speeches’ information content.]]></summary>
+        <author>
+            <name>Michael Ehrmann, Robin Tietz, Bauke Visser</name>
         </author>
     </entry>
     <entry>
