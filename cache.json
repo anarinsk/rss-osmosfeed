@@ -506,15 +506,6 @@
           "publishedOn": "2021-06-01T23:52:00.000Z",
           "wordCount": null,
           "title": "비전공자를 위한 첫 코딩 챌린지 with HTML&CSS/임효성 지음/골든래빗(주)"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=272624615",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "머신러닝을 활용한 웹 최적화\n이쓰카 슈헤이 지음, 김연수 옮김 / 한빛미디어 / 2021년 06월 / ISBN:9791162244357\n정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원\n이벤트: 컴퓨터/IT 분야\r\n 3만원 이상 구매시, 손목 보호 쿠션\n\n\n\n\n우리는 일상에서 접하는 대부분이 인터넷과 연결된 세계에 살고 있다. 사용자에게 최고의 경험을 제공하기 위해서는 빠른 변화와 다양성에 적극 반응하고 적응하는 것이 중요하다. 그런데 사용자는 웹 서비스 개발자가 예상하는 것과 다르게 반응하고 행동한다. 이때 A/B 테스트로 대표되는 최적화 기술이 유용하다. \r\n\r\nA/B 테스트에서 숫자로 나타난 사용자의 선택뿐만 아니라 그 이면에 숨겨진 데이터를 가설 검증에 활용해 더 나은 최적화 설계를 수행할 수 있게 해준다. 이제까지 베일에 가려져 있던 이 중요한 기술을 체계적으로 정리한 책은 국내에 없었다. 이 책은 통계학과 머신러닝이라는 수학적 방법을 이용해 최적화를 설명하고 코드를 통해 구체적으로 알기 쉽게 정리했다.\n\nCHAPTER 1 A/B 테스트부터 시작하자: 베이즈 통계를 이용한 가설 검정 입문 \r\n1.1 A/B 테스트의 영향 \r\n1.2 앨리스와 밥의 보고서 \r\n1.3 확률 분포 \r\n1.4 베이즈 정리를 이용한 클릭률 추론 \r\n1.5 다른 해결책 1: 반복 모으기 \r\n1.6 다른 해결책 2: 베타 분포 \r\n1.7 사후 분포를 이용한 결단 내리기 \r\n1.8 정리  \r\n칼럼: 실험 설계의 기본 원칙 \r\n\r\nCHAPTER 2 확률적 프로그래밍: 컴퓨터의 도움을 받자 \r\n2.1 통계 모델 기술과 샘플링 실행 \r\n2.2 진정한 리뷰 점수 \r\n2.3 체류 시간 테스트하기 \r\n2.4 베이즈 추론을 이용한 통계적 가설 검정을 하는 이유 \r\n2.5 정리 \r\n\r\nCHAPTER 3 조합 테스트: 요소별로 분해해서 생각하자 \r\n3.1 찰리의 보고서 \r\n3.2 효과에 주목한 모델링 \r\n3.3 통계 모델 수정 \r\n3.4 완성한 보고서, 잘못된 모델 \r\n3.5 모델 선택 \r\n3.6 정리 \r\n칼럼: 직교 계획과 웹 최적화 \r\n\r\nCHAPTER 4 메타휴리스틱: 통계 모델을 사용하지 않는 최적화 방법 \r\n4.1 마케팅 회의 \r\n4.2 메타휴리스틱 \r\n4.3 언덕 오르기 알고리즘 \r\n4.4 확률적 언덕 오르기 알고리즘 \r\n4.5 시뮬레이티드 어닐링 \r\n4.6 유전 알고리즘 \r\n4.7 정리 \r\n칼럼: 유전 알고리즘과 대화형 최적화 \r\n칼럼: 웹 최적화와 대화형 최적화 \r\n\r\nCHAPTER 5 슬롯머신 알고리즘: 테스트 중의 손실에도 대응하자 \r\n5.1 소박한 의문 \r\n5.2 다중 슬롯머신 문제 \r\n5.3 .-greedy 알고리즘 \r\n5.4 시뮬레이티드 어닐링 .-greedy 알고리즘 \r\n5.5 소프트맥스 알고리즘 \r\n5.6 톰슨 샘플링 \r\n5.7 UCB 알고리즘 \r\n5.8 에렌의 질문에 대한 답변 \r\n5.9 정리 \r\n칼럼: 최적 슬롯 식별 문제 \r\n\r\nCHAPTER 6 조합 슬롯머신: 슬롯머신 알고리즘과 통계 모델의 만남 \r\n6.1 다시 찰리의 보고서 \r\n6.2 선형 모델과 일반화 선형 모델 \r\n6.3 MCMC를 슬롯머신에 사용하기 \r\n6.4 베이즈 선형 회귀 모델 \r\n6.5 LinUCB 알고리즘 \r\n6.6 정리 \r\n칼럼: 개인화에서의 응용 \r\n\r\nCHAPTER 7 베이즈 최적화: 연속값의 솔루션 공간에 도전하자 \r\n7.1 마케팅 회의 \r\n7.2 베이즈 최적화 \r\n7.3 가우스 과정 ...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 전산수학(SPSS/MATLAB)\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=272624615",
-          "publishedOn": "2021-06-01T00:29:00.000Z",
-          "wordCount": null,
-          "title": "머신러닝을 활용한 웹 최적화/이쓰카 슈헤이 지음, 김연수 옮김/한빛미디어"
         }
       ]
     },
@@ -2332,6 +2323,15 @@
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
         {
+          "id": "https://www.aeaweb.org/research/charts/foreign-influence-domestic-policy",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Foreign interventions are ubiquitous, according to a paper in the Journal of Economic Literature. The authors give a unified picture of the tools that countries use to influence their neighbors and why they choose them.",
+          "link": "https://www.aeaweb.org/research/charts/foreign-influence-domestic-policy",
+          "publishedOn": "2021-06-30T15:00:00.000Z",
+          "wordCount": 518,
+          "title": "Foreign interventions"
+        },
+        {
           "id": "https://www.aeaweb.org/research/persistent-political-engagement-hong-kong",
           "author": "Tyler Smith (research.highlights@aeapubs.org)",
           "description": "Going to a demonstration makes people more likely to protest in the next one, but only if enough of their social network also goes, according to a paper in the American Economic Review: Insights.",
@@ -2559,6 +2559,33 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/PLtBkJeQpuE/update-framing-lumber-prices-down.html",
+          "author": null,
+          "description": "Here is another monthly update on framing lumber prices.  \nThis graph shows CME framing futures through June 30th.\n\nLumber is currently at $722 per 1000 board feet.  \n\n\nThis is down from a peak of $1,733, but up from $448 a year ago.\nClick on graph for larger image in graph gallery.\n\nLumber price are up 60% year-over-year.\n\nThere are supply constraints, for example, sawmills cut production and inventory at the beginning of the pandemic, and the West Coast fires in 2020 damaged privately-owned timberland.  \n\n\nThe supply constraints are easing.\n\n\nAnd there has been a huge surge in demand for lumber.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/PLtBkJeQpuE/update-framing-lumber-prices-down.html",
+          "publishedOn": "2021-06-30T16:14:00.001Z",
+          "wordCount": 898,
+          "title": "Update: Framing Lumber Prices Down Sharply from Recent Peak, Up Solidly Year-over-year"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/UttIGb5ujYo/nar-pending-home-sales-increased-80-in.html",
+          "author": null,
+          "description": "From the NAR: Pending Home Sales Bounce Back 8.0% in May\nPending home sales rebounded strongly in May, reaching the highest reading ever for the month of May since 2005, according to the National Association of Realtors®. All four U.S. regions registered both month-over-month increases and year-over-year gains for pending home sales contract transactions for the month of May.\n  \nThe Pending Home Sales Index (PHSI), a forward-looking indicator of home sales based on contract signings, rose 8.0% to 114.7 in May. Year-over-year, signings increased 13.1%. An index of 100 is equal to the level of contract activity in 2001.\n...\nThe Northeast PHSI increased 15.5% to 98.5 in May, a 54.6% climb from a year ago. In the Midwest, the index grew 6.7% to 107.7 last month, up 7.8% from May 2020.\n  \nPending home sales transactions in the South rose 4.9% to an index of 135.5 in May, up 6.1% from May 2020. The index in the West increased 10.9% in May to 102.0, up 12.5% from a year prior.\nemphasis added\nThis was well above expectations of a 0.8% increase for this index.  Note: Contract signings usually lead sales by about 45 to 60 days, so this would usually be for closed sales in June and July.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/UttIGb5ujYo/nar-pending-home-sales-increased-80-in.html",
+          "publishedOn": "2021-06-30T13:55:00.013Z",
+          "wordCount": 1001,
+          "title": "NAR: Pending Home Sales Increased 8.0% in May"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/_MIwLShpnQ0/adp-private-employment-increased-692000.html",
+          "author": null,
+          "description": "From ADP:\nPrivate sector employment increased by 692,000 jobs from May to  June according to the June ADP® National Employment ReportTM. Broadly distributed to the public each  month, free of charge, the ADP National Employment Report is produced by the ADP Research Institute® in collaboration with Moody’s Analytics. The report, which is derived from ADP’s actual payroll data,  measures the change in total nonfarm private employment each month on a seasonally-adjusted basis.\n“The labor market recovery remains robust, with June closing out a strong second quarter of jobs growth,”  said Nela Richardson, chief economist, ADP. “While payrolls are still nearly 7 million short of pre-COVID 19 levels, job gains have totaled about 3 million since the beginning of 2021. Service providers, the  hardest hit sector, continue to do the heavy lifting, with leisure and hospitality posting the strongest gain  as businesses begin to reopen to full capacity across the country\nemphasis added\n  This was above the consensus forecast of 600,000 for this report.\nThe BLS report will be released Friday, and the consensus is for 675 thousand non-farm payroll jobs added in June.  The ADP report has not been very useful in predicting the BLS report.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/_MIwLShpnQ0/adp-private-employment-increased-692000.html",
+          "publishedOn": "2021-06-30T12:19:00.003Z",
+          "wordCount": 986,
+          "title": "ADP: Private Employment increased 692,000 in June"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/3yvtfghMyCI/mba-mortgage-applications-decrease-in_0572430923.html",
           "author": null,
