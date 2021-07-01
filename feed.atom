@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-01T00:40:14.787Z</updated>
+    <updated>2021-07-01T04:15:18.043Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thursday: Unemployment Claims, ISM Mfg, Construction Spending, Vehicle Sales]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/cEPxiM6ViFc/thursday-unemployment-claims-ism-mfg.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/cEPxiM6ViFc/thursday-unemployment-claims-ism-mfg.html"/>
+        <updated>2021-07-01T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Thursday:
+• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 400 thousand from 411 thousand last week.
+• At 10:00 AM, ISM Manufacturing Index for June. The consensus is for the ISM to be at 61.5, up from 61.2 in May.  The employment index was at 50.9% in May, and the new orders index was at 67.0%.
+• At 10:00 AM, Construction Spending for May. The consensus is for a 0.4% increase in construction spending.
+• Late in the day, Light vehicle sales for June. The consensus is for light vehicle sales to be 17.1 million SAAR in June, up from 17.0 million in May (Seasonally Adjusted Annual Rate). Wards Auto is forecasting sales of 15.8 million SAAR in June.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How policies affect beliefs and preferences]]></title>
         <id>https://voxeu.org/article/how-policies-affect-beliefs-and-preferences</id>
@@ -10385,16 +10399,6 @@ KUDOS to the residents of the twelve states that have already achieved the 70% g
 Next up are Washington at 69.3%, D.C. at 68.4%, New York at 67.9%, Illinois at 67.6%, Minnesota at 67.5%, Virginia at 67.4%, Delaware at 66.7%, Colorado at 66.2% and Oregon at 66.0%.]]></summary>
         <author>
             <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welfare generosity and work]]></title>
-        <id>https://www.aeaweb.org/research/unemployment-insurance-generosity-employment</id>
-        <link href="https://www.aeaweb.org/research/unemployment-insurance-generosity-employment"/>
-        <updated>2021-06-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many policymakers worry that generous unemployment insurance keeps people out of the job market. But extended benefits during the Great Recession had no effect on employment, according to a paper in the American Economic Journal: Economic Policy.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
