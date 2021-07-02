@@ -581,6 +581,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/convergence-tax-services-through-online-technology",
+          "author": "Simeon Djankov, Eva (Yiwen) Zhang",
+          "description": "The advent of online technology in public services has made one ingredient of effective state building – easy taxes – possible to achieve in developing economies. This column describes how, fuelled by new technology, the time that it takes businesses to comply with tax requirements has fallen on average by 91 hours a year and the average number of payments was cut by 11 in the past 15 years. Accommodating policies for expanding the tax base are also needed, so everyone sees the upside from online tax services.",
+          "link": "https://voxeu.org/article/convergence-tax-services-through-online-technology",
+          "publishedOn": "2021-07-02T00:00:00.000Z",
+          "wordCount": 1814,
+          "title": "Convergence in tax services through online technology.,"
+        },
+        {
+          "id": "https://voxeu.org/article/demand-driven-growth",
+          "author": "Marek Ignaszak, Petr Sedláček",
+          "description": "To gauge the efficacy of policies aimed at spurring growth, we must first fully understand the sources of aggregate growth. This column argues that understanding the drivers of economic growth requires paying attention not only to productivity and R&D dynamics at the firm level, but also to changes in demand for firms’ products. The authors provide a new perspective on commonly used supply-side pro-growth policies and open the door to analysing demand-side policies such as public procurement or product market regulation, which have been present in the policy debate but have largely escaped academic circles.",
+          "link": "https://voxeu.org/article/demand-driven-growth",
+          "publishedOn": "2021-07-02T00:00:00.000Z",
+          "wordCount": 2166,
+          "title": "Demand-driven growth"
+        },
+        {
           "id": "https://voxeu.org/article/how-policies-affect-beliefs-and-preferences",
           "author": "Katrin Schmelz, Samuel Bowles",
           "description": "Policy interventions may affect beliefs and preferences in counterproductive ways. This column presents panel evidence on COVID-19 vaccination willingness in Germany which suggests that policies that foster trust in public institutions will promote vaccination acceptance. But a vaccine mandate can also crowd out initial willingness. The data suggest that policies affect beliefs and preferences through both framing and learning effects. Beyond the pandemic, the findings may also be applied to other societal challenges such as climate change, where an effective combination of mandatory policies and values-motivated lifestyle changes will contribute to reducing our carbon footprint.",
@@ -2465,15 +2483,6 @@
           "publishedOn": "2021-06-04T15:00:00.000Z",
           "wordCount": 1047,
           "title": "Getting the best election candidates"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/behavioral-frictions-health-insurance-marketplace",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Thousands of poor households pass up heavily subsidized health insurance on state exchanges. Carefully crafted letters can raise those take-up rates and attract healthier enrollees, according to a paper in the American Economic Review.",
-          "link": "https://www.aeaweb.org/research/charts/behavioral-frictions-health-insurance-marketplace",
-          "publishedOn": "2021-06-02T15:00:00.000Z",
-          "wordCount": 518,
-          "title": "Boosting health coverage with better information"
         }
       ]
     },
@@ -2604,6 +2613,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/IFwxFgTku_w/friday-employment-report-trade-deficit.html",
+          "author": null,
+          "description": "My June Employment Preview\nGoldman June Payrolls Preview\nFriday:\n• At 8:30 AM ET, Employment Report for June.   The consensus is for 675,000 jobs added, and for the unemployment rate to decrease to 5.6%.\n• Also at 8:30 AM, Trade Balance report for May from the Census Bureau.  The consensus is the trade deficit to be $70.8 billion.  The U.S. trade deficit was at $68.9 billion the previous month.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/IFwxFgTku_w/friday-employment-report-trade-deficit.html",
+          "publishedOn": "2021-07-02T00:55:00.004Z",
+          "wordCount": 858,
+          "title": "Friday: Employment Report, Trade Deficit"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/DqCWeycnI8I/june-employment-preview.html",
           "author": null,
@@ -4097,15 +4115,6 @@
           "publishedOn": "2021-06-02T18:03:00.001Z",
           "wordCount": 1186,
           "title": "Fed's Beige Book: \"National economy expanded at a moderate pace\""
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/IScF0Lr2tgE/energy-expenditures-as-percentage-of-pce.html",
-          "author": null,
-          "description": "Note: Back in early 2016, I noted that energy expenditures as a percentage of PCE had hit an all time low. Here is an update through the recently released April PCE report.\nBelow is a graph of expenditures on energy goods and services as a percent of total personal consumption expenditures through April 2021.\nThis is one of the measures that Professor Hamilton at Econbrowser looks at to evaluate any drag on GDP from energy prices.\n\nClick on graph for larger image.\nData source: BEA.\nThe huge spikes in energy prices during the oil crisis of 1973 and 1979 are obvious.  As is the increase in energy prices during the 2001 through 2008 period. \nIn general, energy expenditures as a percent of PCE have been trending down for years.\nAt the beginning of the pandemic, energy expenditures as a percentage of PCE, fell to a record low of 3.3% in May 2020.\n\n\nIn April 2021,  energy expenditures as a percentage of PCE had rebounded somewhat and were at 3.8% of PCE.  This is about the same level as in early 2020 (pre-pandemic).",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/IScF0Lr2tgE/energy-expenditures-as-percentage-of-pce.html",
-          "publishedOn": "2021-06-02T14:07:00.001Z",
-          "wordCount": 972,
-          "title": "Energy expenditures as a percentage of PCE"
         }
       ]
     },
