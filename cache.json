@@ -301,15 +301,6 @@
           "publishedOn": "2021-06-03T23:56:00.000Z",
           "wordCount": 18,
           "title": "돈은 어떻게 움직이는가?/임경.권준석 지음/생각비행"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=272795262",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "생태경제와 그린 뉴딜을 말하다\n조영탁 지음 / 보고사 / 2021년 06월 / ISBN:9791165871895\n정가: 16,000원 / 판매가: 15,200원 / 마일리지: 71원\n이벤트: 6월 특별 선물! 본투리드 선풍기, 미니 핸디 선풍기(이벤트 도서 포함, 국내서.외서 5만원 이상)\n\n\n\n\n제1부 생태경제학과 생태경제: 맛보기\r\n제2부 한국 경제의 '생태적 뉴딜전략': 밑그림 보기\r\n제3부 에너지세제와 전기요금: 바로잡기\r\n제4부 원전문제와 에너지전환론: 중심잡기\r\n제5부 감성주의와 시장주의: 톺아보기\n\n\n국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=272795262",
-          "publishedOn": "2021-06-03T01:21:00.000Z",
-          "wordCount": 18,
-          "title": "생태경제와 그린 뉴딜을 말하다/조영탁 지음/보고사"
         }
       ]
     },
@@ -2377,6 +2368,15 @@
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
         {
+          "id": "https://www.aeaweb.org/research/sales-tax-shopping-states",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "There have been thousands of changes to US sales tax rates, but does it actually change how consumers shop? A paper in the American Economic Journal: Macroeconomics explores this question.",
+          "link": "https://www.aeaweb.org/research/sales-tax-shopping-states",
+          "publishedOn": "2021-07-02T15:00:00.000Z",
+          "wordCount": 922,
+          "title": "Paying attention to price hikes"
+        },
+        {
           "id": "https://www.aeaweb.org/research/charts/foreign-influence-domestic-policy",
           "author": "Tyler Smith (research.highlights@aeapubs.org)",
           "description": "Foreign interventions are ubiquitous, according to a paper in the Journal of Economic Literature. The authors give a unified picture of the tools that countries use to influence their neighbors and why they choose them.",
@@ -2595,6 +2595,33 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/veWocL3Kups/june-vehicles-sales-decreased-sharply.html",
+          "author": null,
+          "description": "The BEA released their estimate of light vehicle sales for June this morning.  The BEA estimates sales of 15.36 million SAAR in June 2021 (Seasonally Adjusted Annual Rate), down 9.8% from the May sales rate, and up 18% from June 2020. \n\nThis was well below the consensus estimate of 17.1 million SAAR.\nClick on graph for larger image.\nThis graph shows light vehicle sales since 2006 from the BEA (blue) and the BEA's estimate for June (red).\nThe impact of COVID-19 was significant, and April 2020 was the worst month.\nSince April 2020, sales have increased, and were close to sales in 2019 (the year before the pandemic). \n\n\nSales-to-date are down 1.3% compared to the same period in 2019.\n\nThe second graph shows light vehicle sales since the BEA started keeping data in 1967.\nNote: dashed line is current estimated sales rate of 15.36 million SAAR.\n\n\nSales in June were likely impacted by supply issues.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/veWocL3Kups/june-vehicles-sales-decreased-sharply.html",
+          "publishedOn": "2021-07-02T15:14:00.001Z",
+          "wordCount": 951,
+          "title": "June Vehicles Sales Decreased Sharply to 15.36 Million SAAR"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/EP8Wzf307ys/comments-on-june-employment-report.html",
+          "author": null,
+          "description": "The headline jobs number in the June employment report was above expectations, and employment for the previous two months was revised up.   However, the participation rate was unchanged and the unemployment rate increased slightly to 5.9%.\n\nLeisure and hospitality gained 343 thousand jobs.  In March and April of 2020, leisure and hospitality lost 8.2 million jobs, and are now down 2.2 million jobs since February 2020.  So leisure and hospitality has now added back almost 73% of the jobs lost in March and April 2020.\n\n\nConstruction employment declined 7 thousand in June, and manufacturing added 15 thousand jobs.\n\n\nNOTE: State and Local education added 230 thousand jobs, seasonally adjusted.  But this is a seasonal quirk - there were actually 413 thousand education jobs lost in June NSA, but…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/EP8Wzf307ys/comments-on-june-employment-report.html",
+          "publishedOn": "2021-07-02T13:51:00.004Z",
+          "wordCount": 1400,
+          "title": "Comments on June Employment Report"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ALrWL4jgY68/june-employment-report-850-thousand.html",
+          "author": null,
+          "description": "From the BLS: \nTotal nonfarm payroll employment rose by 850,000 in June, and the unemployment rate was little changed at 5.9 percent, the U.S. Bureau of Labor Statistics reported today. Notable job gains occurred in leisure and hospitality, public and private education, professional and business services, retail trade, and other services.\n...\nThe change in total nonfarm payroll employment for April was revised down by 9,000, from +278,000 to +269,000, and the change for May was revised up by 24,000, from +559,000 to +583,000. With these revisions, employment in April and May combined is 15,000 higher than previously reported.\nemphasis added \nClick on graph for larger image.\nThe first graph shows the year-over-year change in total non-farm employment since 1968.\nIn June, the year-over-year change was 7.919 million jobs.  This was up significantly - since employment collapsed in April 2020.\nTotal payrolls increased by 850 thousand in June.  Private payrolls increased by 662 thousand.\nPayrolls for April and May were revised up 15 thousand, combined.\nThe second graph shows the job losses from the start of the employment recession, in percentage terms.\nThe current employment recession was by far the worst recession since WWII in percentage terms, but currently is not as severe as the worst of the \"Great Recession\".\nThe third graph shows the employment population ratio and the participation rate.\nThe Labor Force Participation Rate was unchanged at 61.6% in June, from 61.6% in May. This is the percentage of the working age population in the labor force. \nThe Employment-Population ratio was unchanged at 58.0% from 58.0% (black line).\nI'll post the 25 to 54 age group employment-population ratio graph later.\nThe fourth graph shows the unemployment rate.  \nThe unemployment rate increased in June to 5.9% from 5.8% in May. \nThis was above consensus expectations, and April and May were revised up by 15,000 combined.\n\nI'll have more later ...",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ALrWL4jgY68/june-employment-report-850-thousand.html",
+          "publishedOn": "2021-07-02T12:42:00.001Z",
+          "wordCount": 1110,
+          "title": "June Employment Report: 850 Thousand Jobs, 5.9% Unemployment Rate"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/m8bV1w-uaoM/black-knight-number-of-homeowners-in.html",
           "author": null,
