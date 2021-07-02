@@ -581,6 +581,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/central-bank-independence-and-inflation",
+          "author": "Philipp F. M. Baumann, Enzo Rossi, Michael Schomaker",
+          "description": "The notion than an independent central bank reduces a country’s inflation has been embraced by academics, central bankers, and politicians all over the world. This is somehow puzzling, giving the ambiguity reported in empirical studies. This column argues that overall there is only a weak causal link from independence to inflation, if at all. Even a strong inflation-boosting impact from introducing central bank independence cannot be ruled out. These results are obtained from a statistical approach that has not yet been used in analyses of macroeconomic processes, although it exhibits properties well-suited to this end.",
+          "link": "https://voxeu.org/article/central-bank-independence-and-inflation",
+          "publishedOn": "2021-07-02T00:00:00.000Z",
+          "wordCount": 2987,
+          "title": "Central bank independence and inflation"
+        },
+        {
           "id": "https://voxeu.org/article/convergence-tax-services-through-online-technology",
           "author": "Simeon Djankov, Eva (Yiwen) Zhang",
           "description": "The advent of online technology in public services has made one ingredient of effective state building – easy taxes – possible to achieve in developing economies. This column describes how, fuelled by new technology, the time that it takes businesses to comply with tax requirements has fallen on average by 91 hours a year and the average number of payments was cut by 11 in the past 15 years. Accommodating policies for expanding the tax base are also needed, so everyone sees the upside from online tax services.",
@@ -4097,24 +4106,6 @@
           "publishedOn": "2021-06-03T00:11:00.001Z",
           "wordCount": 876,
           "title": "Thursday: ADP Employment, Unemployment Claims, ISM Services"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/rjSIqeGk0js/june-2nd-covid-19-new-cases.html",
-          "author": null,
-          "description": "Note: Holidays distort the data for a few days.\n\nThis data is from the CDC.\nAccording to the CDC, on Vaccinations.\nTotal doses administered: 296,912,892, as of yesterday 296,404,240.  Per Day: 0.51 million.\n\n\nCOVID Metrics\n CurrentYesterdayGoal\n Percent over 18, One Dose62.9%62.8%≥70.0%1,2\n Fully Vaccinated (millions)136.2135.9≥1601\n  \nNew Cases per Day315,62217,600≤5,0002\n  \nHospitalized319,67419,355≤3,0002\n  \nDeaths per Day3363380≤502\n  \n1 America's Goal by July 4th,\n2my goals to stop daily posts,\n37 day average for Cases, Hospitalized, and Deaths\n  \n\nKUDOS to the residents of the twelve states that have already achieved the 70% goal: Vermont and Hawaii are over 80%, plus Massachusetts, Connecticut, Maine, New Jersey, Rhode Island, New Mexico, Pennsylvania, New Hampshire, Maryland and California are all over 70%.\nNext up are Washington at 69.5%, D.C. at 68.4%, New York at 68.1%, Illinois at 67.7%, Minnesota at 67.5%, Virginia at 67.5%, Delaware at 66.7%, Colorado at 66.3% and Oregon at 66.1%.",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/rjSIqeGk0js/june-2nd-covid-19-new-cases.html",
-          "publishedOn": "2021-06-02T20:04:00.001Z",
-          "wordCount": 934,
-          "title": "June 2nd COVID-19 New Cases, Vaccinations, Hospitalizations"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/A092T1X7JVU/feds-beige-book-national-economy.html",
-          "author": null,
-          "description": "Fed's Beige Book \"This report was prepared at the Federal Reserve Bank of Cleveland based on information collected on or before May 25, 2021.\"\nThe national economy expanded at a moderate pace from early April to late May, a somewhat faster rate than the prior reporting period. Several Districts cited the positive effects on the economy of increased vaccination rates and relaxed social distancing measures, while they also noted the adverse impacts of supply chain disruptions. The effects of expanded vaccination rates were perhaps most notable in consumer spending in which increases in leisure travel and restaurant spending augmented ongoing strength in other spending categories. Light vehicle sales remained solid but were often constrained by tight inventories. Factory output increased furt…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/A092T1X7JVU/feds-beige-book-national-economy.html",
-          "publishedOn": "2021-06-02T18:03:00.001Z",
-          "wordCount": 1186,
-          "title": "Fed's Beige Book: \"National economy expanded at a moderate pace\""
         }
       ]
     },

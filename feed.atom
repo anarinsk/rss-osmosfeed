@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-02T04:15:06.848Z</updated>
+    <updated>2021-07-02T08:13:54.827Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -18,6 +18,16 @@ Friday:
 • Also at 8:30 AM, Trade Balance report for May from the Census Bureau.  The consensus is the trade deficit to be $70.8 billion.  The U.S. trade deficit was at $68.9 billion the previous month.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Central bank independence and inflation]]></title>
+        <id>https://voxeu.org/article/central-bank-independence-and-inflation</id>
+        <link href="https://voxeu.org/article/central-bank-independence-and-inflation"/>
+        <updated>2021-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The notion than an independent central bank reduces a country’s inflation has been embraced by academics, central bankers, and politicians all over the world. This is somehow puzzling, giving the ambiguity reported in empirical studies. This column argues that overall there is only a weak causal link from independence to inflation, if at all. Even a strong inflation-boosting impact from introducing central bank independence cannot be ruled out. These results are obtained from a statistical approach that has not yet been used in analyses of macroeconomic processes, although it exhibits properties well-suited to this end.]]></summary>
+        <author>
+            <name>Philipp F. M. Baumann, Enzo Rossi, Michael Schomaker</name>
         </author>
     </entry>
     <entry>
@@ -10361,51 +10371,6 @@ The BLS report will be released Friday, and the consensus is for 650 thousand no
         <summary type="html"><![CDATA[Properly guided, foreign direct investment has transformed the prospects of certain firms, sectors, regions, and even economies. This column introduces the 27th Global Trade Alert report, which looks back over the past quarter of a century to put current FDI dynamics in perspective, assesses the degree to which governments continue to favour FDI, and points the spotlight on the limited contribution of FDI to advancing sustainable development in emerging markets.]]></summary>
         <author>
             <name>Simon Evenett, Johannes Fritz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 2nd COVID-19 New Cases, Vaccinations, Hospitalizations]]></title>
-        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/rjSIqeGk0js/june-2nd-covid-19-new-cases.html</id>
-        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/rjSIqeGk0js/june-2nd-covid-19-new-cases.html"/>
-        <updated>2021-06-02T20:04:00.001Z</updated>
-        <summary type="html"><![CDATA[Note: Holidays distort the data for a few days.
-
-This data is from the CDC.
-According to the CDC, on Vaccinations.
-Total doses administered: 296,912,892, as of yesterday 296,404,240.  Per Day: 0.51 million.
-
-
-COVID Metrics
- CurrentYesterdayGoal
- Percent over 18, One Dose62.9%62.8%≥70.0%1,2
- Fully Vaccinated (millions)136.2135.9≥1601
-  
-New Cases per Day315,62217,600≤5,0002
-  
-Hospitalized319,67419,355≤3,0002
-  
-Deaths per Day3363380≤502
-  
-1 America's Goal by July 4th,
-2my goals to stop daily posts,
-37 day average for Cases, Hospitalized, and Deaths
-  
-
-KUDOS to the residents of the twelve states that have already achieved the 70% goal: Vermont and Hawaii are over 80%, plus Massachusetts, Connecticut, Maine, New Jersey, Rhode Island, New Mexico, Pennsylvania, New Hampshire, Maryland and California are all over 70%.
-Next up are Washington at 69.5%, D.C. at 68.4%, New York at 68.1%, Illinois at 67.7%, Minnesota at 67.5%, Virginia at 67.5%, Delaware at 66.7%, Colorado at 66.3% and Oregon at 66.1%.]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed's Beige Book: "National economy expanded at a moderate pace"]]></title>
-        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/A092T1X7JVU/feds-beige-book-national-economy.html</id>
-        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/A092T1X7JVU/feds-beige-book-national-economy.html"/>
-        <updated>2021-06-02T18:03:00.001Z</updated>
-        <summary type="html"><![CDATA[Fed's Beige Book "This report was prepared at the Federal Reserve Bank of Cleveland based on information collected on or before May 25, 2021."
-The national economy expanded at a moderate pace from early April to late May, a somewhat faster rate than the prior reporting period. Several Districts cited the positive effects on the economy of increased vaccination rates and relaxed social distancing measures, while they also noted the adverse impacts of supply chain disruptions. The effects of expanded vaccination rates were perhaps most notable in consumer spending in which increases in leisure travel and restaurant spending augmented ongoing strength in other spending categories. Light vehicle sales remained solid but were often constrained by tight inventories. Factory output increased furt…]]></summary>
-        <author>
-            <name>Calculated Risk</name>
         </author>
     </entry>
 </feed>
