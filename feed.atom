@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-02T08:13:54.827Z</updated>
+    <updated>2021-07-02T12:18:10.718Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Black Knight: Number of Homeowners in COVID-19-Related Forbearance Plans Decreased]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/m8bV1w-uaoM/black-knight-number-of-homeowners-in.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/m8bV1w-uaoM/black-knight-number-of-homeowners-in.html"/>
+        <updated>2021-07-02T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: Both Black Knight and the MBA (Mortgage Bankers Association) are putting out weekly estimates of mortgages in forbearance.
+This data is as of June 29th.
+From Andy Walden at Black Knight: Mild Forbearance Improvement as Quarterly Reviews Continue
+As we mentioned last week, there were still more than 300,000 homeowners in forbearance whose plans were scheduled for review by the end of June. Well, of the roughly 146,000 plans reviewed for extension or removal over the past week, 44,000 homeowners left forbearance, while the plans of the other 102,000 were extended.
+All in all, we wound up with a net decline of 6,000 plans. Not overly impactful, but it does set us up nicely for what could be a larger improvement next week as some 218,000 plans were still scheduled for review by Wednesday, June 30.
+  
+Our weekly snapshots run through Tuesday, though. As of June 29, our McDash Flash daily loan-level performance dataset showed 2.05 million homeowners – representing 3.9% of mortgaged properties – remaining in COVID-19 related forbearance plans.
+  
+Click on graph for larger image.
+  
+This puts the overall number of active plans down 145,000, a 6.6% decline from the same time last month with the rate of improvement picking up from 6% last week and 5.4% the week before.
+  
+A 5,000 reduction in the number of active GSE forbearance plans and a 2,000 drop in FHA/VA plans were partially offset by a rise of 1,000 among portfolio and privately held mortgages.
+  
+Plan starts continued to fall over the last seven days. In fact, last week saw the lowest total starts in five weeks (since the shortened business week of Memorial Day). There have been about 9% fewer starts over the last four weeks than there were in the preceding four-week period..
+emphasis added]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Friday: Employment Report, Trade Deficit]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/IFwxFgTku_w/friday-employment-report-trade-deficit.html</id>
@@ -18,6 +43,16 @@ Friday:
 • Also at 8:30 AM, Trade Balance report for May from the Census Bureau.  The consensus is the trade deficit to be $70.8 billion.  The U.S. trade deficit was at $68.9 billion the previous month.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why mums return to work]]></title>
+        <id>https://voxeu.org/vox-talks/why-mums-return-work</id>
+        <link href="https://voxeu.org/vox-talks/why-mums-return-work"/>
+        <updated>2021-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do cultural norms determine whether women go back to work after having a child? And if culture changes, does their behaviour change too? Anna Raute and Uta Schӧnberg tell Tim Phillips how the reunification of Germany provided unique data.]]></summary>
+        <author>
+            <name>Anna Raute, Uta Schӧnberg</name>
         </author>
     </entry>
     <entry>
@@ -10318,59 +10353,6 @@ The BLS report will be released Friday, and the consensus is for 650 thousand no
 국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thursday: ADP Employment, Unemployment Claims, ISM Services]]></title>
-        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/IPofVOrVL04/thursday-adp-employment-unemployment.html</id>
-        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/IPofVOrVL04/thursday-adp-employment-unemployment.html"/>
-        <updated>2021-06-03T00:11:00.001Z</updated>
-        <summary type="html"><![CDATA[Thursday:
-• At 8:15 AM ET, The ADP Employment Report for May. This report is for private payrolls only (no government). The consensus is for 650,000 payroll jobs added in May, down from 742,000 in April.
-• At 8:30 AM, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 395 thousand from 406 thousand last week.
-• At 10:00 AM, the ISM Services Index for May.   The consensus is for a reading of 63.0, up from 62.7.]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monetary Policy and Central Banking in the Covid Era]]></title>
-        <id>https://voxeu.org/content/monetary-policy-and-central-banking-covid-era</id>
-        <link href="https://voxeu.org/content/monetary-policy-and-central-banking-covid-era"/>
-        <updated>2021-06-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The abruptness and speed of the economic deterioration caused by the Covid-19 pandemic, the sharp increase in market volatility, and the blinding uncertainty over the impact of the pandemic motivated a central bank reaction that was unprecedented in terms of size, speed and scope. This CEPR eBook summarises the responses by sixteen central banks from both advanced and emerging economies – with chapters written by senior central bank officials and economists in each of the countries to explain the actions taken.]]></summary>
-        <author>
-            <name>Bill English, Kristin Forbes, Ángel Ubide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monetary policy and central banking in the Covid era: A new eBook]]></title>
-        <id>https://voxeu.org/article/monetary-policy-and-central-banking-covid-era-new-ebook</id>
-        <link href="https://voxeu.org/article/monetary-policy-and-central-banking-covid-era-new-ebook"/>
-        <updated>2021-06-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As Covid-19 spread in early 2020, many central banks were still struggling to boost inflation. The abruptness and speed of the economic deterioration, the sharp increase in market volatility, and the blinding uncertainty over the impact of the pandemic motivated a central bank reaction that was unprecedented in terms of size, speed and scope. A new CEPR eBook summarises the responses by sixteen central banks from both advanced and emerging economies – with chapters written by senior central bank officials and economists in each of the countries to explain the actions taken. While responses varied across countries, there are several common threads: the size, speed and breadth of the responses; the reliance on a more multidimensional set of tools; and the ability of emerging markets to behave more like advanced economies.]]></summary>
-        <author>
-            <name>Bill English, Kristin Forbes, Ángel Ubide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fiscal austerity intensifies the increase in inequality after pandemics]]></title>
-        <id>https://voxeu.org/article/fiscal-austerity-intensifies-increase-inequality-after-pandemics</id>
-        <link href="https://voxeu.org/article/fiscal-austerity-intensifies-increase-inequality-after-pandemics"/>
-        <updated>2021-06-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the aftermath of past pandemics, fiscal policy played an important role in reducing or amplifying income inequality. This column predicts the likely distributional effects of Covid-19 by analysing evidence from five previous outbreaks (SARS, H1N1, MERS, Ebola, and Zika). It finds that severe austerity measures were associated with inequality increases three times greater than expansive fiscal policy following a pandemic. Premature austerity is self-defeating from both a macro and an equity standpoint.]]></summary>
-        <author>
-            <name>Davide Furceri, Prakash Loungani, Jonathan D. Ostry, Pietro Pizzuto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDI is in big trouble: Insights from the 27th Global Trade Alert report]]></title>
-        <id>https://voxeu.org/article/fdi-big-trouble-insights-27th-global-trade-alert-report</id>
-        <link href="https://voxeu.org/article/fdi-big-trouble-insights-27th-global-trade-alert-report"/>
-        <updated>2021-06-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Properly guided, foreign direct investment has transformed the prospects of certain firms, sectors, regions, and even economies. This column introduces the 27th Global Trade Alert report, which looks back over the past quarter of a century to put current FDI dynamics in perspective, assesses the degree to which governments continue to favour FDI, and points the spotlight on the limited contribution of FDI to advancing sustainable development in emerging markets.]]></summary>
-        <author>
-            <name>Simon Evenett, Johannes Fritz</name>
         </author>
     </entry>
 </feed>
