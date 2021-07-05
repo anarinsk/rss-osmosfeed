@@ -18,7 +18,7 @@ sources:
   - href: https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom%20
   - href: https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe
   # Economic Data   
-  #- href: http://feeds.feedburner.com/CalculatedRisk
+  - href: http://feeds.feedburner.com/CalculatedRisk
   # BOK
   #- href: https://www.bok.or.kr/portal/bbs/E0000738/news.rss?menuNo=500450
   - href: https://www.bok.or.kr/portal/bbs/P0002359/news.rss?menuNo=200066
@@ -31,4 +31,4 @@ sources:
 #
 siteTitle: "anari: slimfeed"
 # Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
-cacheMaxDays: 30
+cacheMaxDays: 20
