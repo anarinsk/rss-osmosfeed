@@ -2,8 +2,8 @@ cacheUrl: https://anarinsk.github.io/rss-osmosfeed/cache.json
 #
 sources:
   # Alladin
-  - href: http://www.aladin.co.kr/rss/new_all/3057
-  - href: http://www.aladin.co.kr/rss/new_all/437
+  #- href: http://www.aladin.co.kr/rss/new_all/3057
+  #- href: http://www.aladin.co.kr/rss/new_all/437
   # Dev 
   - href: https://devblogs.microsoft.com/commandline/feed/
   # Economoics 
