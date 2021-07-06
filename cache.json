@@ -353,33 +353,6 @@
           "publishedOn": "2021-06-17T05:09:00.000Z",
           "wordCount": null,
           "title": "파이썬 코딩의 기초/조연상 지음/상학당"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=273805547",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "스무디 한 잔 마시며 끝내는 리액트 + TDD\n김정헌 지음 / 비제이퍼블릭 / 2021년 06월 / ISBN:9791165920715\n정가: 32,000원 / 판매가: 28,800원 / 마일리지: 137원\n이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드\n\n\n\n\n리액트와 리액트에서 테스트 코드를 작성하는 방법을 좀 더 쉽게 이해할 수 있게 액트의 기초부터 리액트에서 테스트를 위해 사용하는 Jest와 react-testing-library를 다루는 방법, 그리고 예제를 통해 실제 프로젝트에서 리액트와 리액트의 테스트 코드를 활용하는 방법을 자세히 소개하고 있다. 이 책은 리액트에 관한 책으로 자바스크립트에 관해서는 다루고 있지 않다. 하지만 리액트를 처음 접하는 사람에게는 명령어를 보여주면서 하나하나 따라 할 수 있게 만들어진 책이다.\n\n1 리액트란?\r\n1.1 자바스크립트의 역사\r\n1.2 리액트의 특징\r\n1) 가상 돔\r\n2) 단방향 데이터 바인딩\r\n3) JSX\r\n4) 선언형 프로그래밍\r\n1.3 요약\r\n\r\n2 리액트 개발 환경\r\n2.1 맥 개발 환경 설정\r\n1) 홈브루 설치\r\n2) 노드 설치\r\n2.2 윈도우 개발 환경 설정\r\n1) 초코렛티 설치\r\n2) 노드 설치\r\n2.3 리액트를 시작하는 방법\r\n2.4 create-react-app\r\n2.5 요약\r\n\r\n3 리액트의 테스트 - Jest\r\n3.1 Jest의 장접\r\n1) 제로 설정\r\n2) 스냅샷\r\n3)모의 객체\r\n4) 테스트 코드의 분리\r\n5) 간단한 API\r\n3.2 프로젝트 준비\r\n3.3 Jest 설치\r\n3.4 사용 방법\r\n3.5 Matcher\r\n1) toEqual\r\n2) toBeTruthy, toBeFalsy\r\n3) toContain\r\n4) 기타\r\n3.6 코드 커버리지\r\n3.7 요약\r\n\r\n4 리액트 테스트 - react-testing-library\r\n4.1 react-testing-library\r\n4.2 react-testing-library의 장점\r\n4.3 프로젝트 준비\r\n4.4 react-testing-library 설치\r\n4.5 사용 방법\r\n4.6 요약\r\n\r\n5 나의 첫 리액트 프로젝트\r\n5.1 타입스크립트\r\n5.2 styled-components\r\n5.3 절대 경로로 컴포넌트 추가\r\n5.4 Prettier\r\n5.5 요약\r\n\r\n6 Props와 State\r\n6.1 Props와 State란\r\n6.2 프로젝트 준비\r\n6.3 개발\r\n1) App 컴포넌트\r\n2) Button 컴포넌트\r\n3) Input 컴포넌트\r\n4) ToDoItem 컴포넌트\r\n5) State\r\n6.4 테스트\r\n1) Button 컴포넌트\r\n2) Input 컴포넌트\r\n3) ToDoItem 컴포넌트\r\n4) App 컴포넌트\r\n6.5 요약\r\n\r\n7 클래스 컴포넌트\r\n7.1 클래스 컴포넌트\r\n7.2 프로젝트 준비\r\n7.3 개발\r\n1) Button 컴포넌트\r\n2) Input 컴포넌트\r\n3) ToDoItem 컴포넌트\r\n4) App 컴포넌트\r\n7.4 라이프 사이클 함수\r\n1) constructor 함수\r\n2) render 함수\r\n3) getDerivedStateFromProps 함수\r\n4) componentDidMount 함수\r\n5) shouldComponentUpdate 함수\r\n6) getSnapshotBeforeUpdate 함수\r\n7) componentDidUpdate 함수\r\n8) componentWillUnmount 함수\r\n9) componentDidCatch 함수\r\n10) 호출 순서...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 모바일/무선/임베디드 프로그래밍\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=273805547",
-          "publishedOn": "2021-06-17T03:12:00.000Z",
-          "wordCount": null,
-          "title": "스무디 한 잔 마시며 끝내는 리액트 + TDD/김정헌 지음/비제이퍼블릭"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=273803910",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "케라스부터 쿠버네티스까지\n다타라지 재그디시 라오 지음, 김광일 옮김 / 에이콘출판 / 2021년 06월 / ISBN:9791161755410\n정가: 35,000원 / 판매가: 31,500원 / 마일리지: 143원\n이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드\n\n\n\n\n케라스를 사용한 머신러닝 모델 개발부터 쿠버네티스에서의 모델 배포까지 전체 과정을 따라가면서 핵심 개념과 필요한 도구의 사용 방법 등을 소스 코드와 함께 쉽게 설명한다. 전반부에서는 지도학습, 비지도학습에서 강화학습에 이르기까지 머신러닝의 핵심 개념과 주요 알고리즘을 수학적 방법을 거의 사용하지 않고 설명했다. \r\n\r\n후반부에서는 머신러닝 생명주기를 따라가며 필요한 도구와 고려할 사항을 알려주고, 최종적으로 쿠버네티스에 마이크로서비스로 배포하는 과정을 단계별로 친절하게 안내한다. 쿠버네티스와 관련 도구의 사용법을 익힘며 전체적인 감을 잡을 수 있게 구성돼 있다.\n\n1장. 빅데이터와 인공지능\r\n__데이터는 새로운 석유이며 AI는 새로운 전기다\r\n____기계들의 부상\r\n____처리 능력의 지수적 성장\r\n____애널리틱스의 새로운 유형\r\n____무엇이 AI를 그렇게 특별하게 하는가\r\n__인공지능의 응용\r\n____데이터에서 애널리틱스의 구축\r\n____애널리틱스의 유형: 응용 기준\r\n____애널리틱스의 유형: 의사 결정 로직 기반\r\n____애널리틱스 주도형 시스템의 구축\r\n__요약\r\n\r\n2장. 머신러닝\r\n__데이터에서 패턴 찾기\r\n__막강한 머신러닝 커뮤니티\r\n__머신러닝 기법의 유형\r\n____비지도학습\r\n____지도학습\r\n____강화학습\r\n__간단한 문제의 해\r\n____비지도학습\r\n____지도학습: 선형회귀\r\n____경사하강 최적화\r\n____선형회귀에 경사하강법 적용하기\r\n____지도학습: 분류\r\n__더 큰 데이터셋의 분석\r\n____정확도에 대한 측도: 정밀도 및 재현율\r\n__분류 방법의 비교\r\n__편향 대 분산: 미적합 대 과적합\r\n__강화학습\r\n____모델 기반 강화학습\r\n____모델 프리 강화학습\r\n__요약\r\n\r\n3장. 비정형 데이터 다루기\r\n__정형 데이터 대 비정형 데이터\r\n__이미지 인식\r\n__동영상 다루기\r\n__텍스트 데이터 다루기\r\n__소리 듣기\r\n__요약\r\n\r\n4장. 케라스를 사용한 딥러닝\r\n__비정형 데이터의 처리\r\n____신경망\r\n____역전파와 경사하강법\r\n____뱃치 경사하강법과 확률적 경사하강법\r\n____신경망 아키텍처\r\n__텐서플로와 케라스\r\n__편향과 분산: 미적합과 과적합\r\n__요약\r\n\r\n5장. 고급 딥러닝\r\n__심층 모델의 부상\r\n__새로운 종류의 네트워크 층\r\n____컨볼루션 층\r\n____풀링 층\r\n____드롭아웃 층\r\n____뱃치 정규화 층\r\n__패션 이미지 분류를 위한 심층 신경망 구축\r\n__CNN 아키텍처와 하이퍼파라미터\r\n__사전 훈련된 VGG 모델로 예측하기\r\n__데이터 보강과 전이 학습\r\n__실제 분류 문제: 펩시콜라 대 코카콜라\r\n__순환 신경망\r\n__요약\r\n\r\n6장. 최첨단 딥러닝 프로젝트\r\n__신경망 스타일 전이\r\n__AI를 사용한 이미지 생성\r\n__오토인코더를 사용한 신용카드 부정 사용 탐지\r\n__요약\r\n\r\n7장. 최신 소프트웨어 세계의 AI\r\n__소프...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=273803910",
-          "publishedOn": "2021-06-17T02:53:00.000Z",
-          "wordCount": null,
-          "title": "케라스부터 쿠버네티스까지/다타라지 재그디시 라오 지음, 김광일 옮김/에이콘출판"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=273800149",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "플러터 프로젝트\n시모네 알레산드리아 지음, 박수빈 옮김 / 영진.com(영진닷컴) / 2021년 06월 / ISBN:9788931465372\n정가: 30,000원 / 판매가: 27,000원 / 마일리지: 114원\n이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드\n\n\n\n\n직접 만들어보면서 배우는 앱 개발 입문서. 플러터를 통해 앱을 만들며 독자들에게 모바일 앱 개발에 필요한 기초 개념을 소개한다. 바닥부터 차근차근 설명해주는 저자의 설명과 함께 만들어보는 단위 변환기와 타이머, 영화 정보 앱, 간단한 퐁게임을 포함한 총 11가지 프로젝트를 통해 기본적인 다트 언어 코딩 방법과 앱 개발에 필요한 테크닉까지 직접 체험해가며 이해할 수 있다.\n\nChapter 00 플러터 프로젝트를 구축하기 위한 환경 설정\r\n0-1 Windows PC에 플러터 설치하기\r\n0-2 Mac에 플러터 설치하기\r\n\r\nChapter 01 안녕 플러터!\r\n1-1 기술 요구사항\r\n1-2 다트 언어 기본 이해\r\n1-3 여러분의 첫 번째 플러터 앱 생성하기\r\n\r\nChapter 02 마일 또는 킬로미터? Stateful 위젯 사용하기\r\n2-1 기술 요구사항\r\n2-2 프로젝트 개요\r\n2-3 state와 stateful 위젯 이해하기\r\n2-4 측정값 변환기 프로젝트 만들기\r\n\r\nChapter 03 나의 시간 - 데이터의 스트림 듣기\r\n3-1 기술 요구사항\r\n3-2 타이머 홈페이지 레이아웃 구축\r\n3-3 플러터에서 스트림과 비동기 프로그래밍 사용하기\r\n3-4 설정 라우트로 탐색하기\r\n3-5 설정 화면의 레이아웃 만들기\r\n3-6 shared_preferences를 사용하여 앱 데이터 읽기 및 쓰기\r\n\r\nChapter 04 퐁 게임 - 2D 애니메이션과 제스처\r\n4-1 기술 요구사항\r\n4-2 앱의 UI 구현하기\r\n4-3 애니메이션 사용하기\r\n4-4 게임 로직 추가하기\r\n4-5 GestureDetector 사용하기\r\n4-6 막대기 위치 확인하기\r\n4-7 게임에 무작위성 추가하기\r\n4-8 점수를 추가하고 게임을 완료하기\r\n\r\nChapter 05 영화 보러 가자 - 웹에서 데이터 가져오기\r\n5-1 기술 요구사항\r\n5-2 프로젝트 개요\r\n5-3 웹 서비스에 연결하고 HTTP를 사용하여 데이터 검색하기\r\n5-4 JSON 데이터 파싱하고 모델 객체로 변환하기\r\n5-5 ListView로 데이터 보여주기\r\n5-6 상세정보 화면을 표시하고 화면을 통해 데이터를 전달하기\r\n5-7 검색 기능 추가하기\r\n\r\nChapter 06 데이터 저장 - Sq(F)Lite를 사용하여 로컬 데이터베이스에 데이터를 저장하기\r\n6-1 기술 요구사항\r\n6-2 본질적인 이론 및 맥락\r\n6-3 프로젝트 개요\r\n6-4 sqflite 데이터베이스 사용하기\r\n6-5 모델 클래스 만들기\r\n6-6 사용자에게 데이터베이스 데이터를 보여주기\r\n\r\nChapter 07 앱에 불 붙이기- 플러터 앱에 파이어베이스 통합하기\r\n7-1 기술 요구사항\r\n7-2 파이어베이스 소개\r\n7-3 프로젝트 개요\r\n7-4 여러분의 플러터 프로젝트에 파이어베이스 추가하기\r\n7-5 앱에 인증 추가하기\r\n7-6 파이어베이스에...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 모바일/무선/임베디드 프로그래밍\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=273800149",
-          "publishedOn": "2021-06-17T02:18:00.000Z",
-          "wordCount": null,
-          "title": "플러터 프로젝트/시모네 알레산드리아 지음, 박수빈 옮김/영진.com(영진닷컴)"
         }
       ]
     },
@@ -498,6 +471,15 @@
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
         {
+          "id": "https://www.aeaweb.org/research/charts/bankruptcy-reform-economic-consequences",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "Proponents of bankruptcy reform legislation in the early 2000s argued that lenders would pass along their higher debt recovery to consumers in the form of lower interest rates. A paper in the American Economic Journal: Macroeconomics found that rates did in fact decline.",
+          "link": "https://www.aeaweb.org/research/charts/bankruptcy-reform-economic-consequences",
+          "publishedOn": "2021-07-06T15:00:00.000Z",
+          "wordCount": 534,
+          "title": "The fallout of bankruptcy reform"
+        },
+        {
           "id": "https://www.aeaweb.org/research/sales-tax-shopping-states",
           "author": "Chris Fleisher (research.highlights@aeapubs.org)",
           "description": "There have been thousands of changes to US sales tax rates, but does it actually change how consumers shop? A paper in the American Economic Journal: Macroeconomics explores this question.",
@@ -608,6 +590,24 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/3rFcbQOBUC4/seven-high-frequency-indicators-for.html",
+          "author": null,
+          "description": "These indicators are mostly for travel and entertainment.    It will interesting to watch these sectors recover as the pandemic subsides.\n----- Airlines: Transportation Security Administration -----\nThe TSA is providing daily travel numbers.\nThis data is as of July 5th.\n Click on graph for larger image.\nThis data shows the 7-day average of daily total traveler throughput from the TSA for 2019 (Light Blue), 2020 (Blue) and 2021 (Red).\nThe dashed line is the percent of 2019 for the seven day average.\nThe 7-day average is down 18.9% from the same day in 2019 (81.1% of 2019).  (Dashed line)\nThere was a slow increase from the bottom - and TSA data has picked up in 2021.\n  \n----- Restaurants: OpenTable -----\nThe second graph shows the 7-day average of the year-over-year change in diners as tabul…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/3rFcbQOBUC4/seven-high-frequency-indicators-for.html",
+          "publishedOn": "2021-07-06T15:06:00.001Z",
+          "wordCount": 1667,
+          "title": "Seven High Frequency Indicators for the Economy"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/7MyapQkLSHw/ism-services-index-decreased-to-601-in.html",
+          "author": null,
+          "description": "(Posted with permission).  The June ISM® Services index was at 60.1%, up from 64.0% last month. The employment index decreased to 49.3%, from 55.3%.  Note: Above 50 indicates expansion, below 50 contraction. \nFrom the Institute for Supply Management: June 2021 Services ISM® Report On Business® \nEconomic activity in the services sector grew in June for the 13th month in a row, say the nation’s purchasing and supply executives in the latest Services ISM® Report On Business®.\nThe report was issued today by Anthony Nieves, CPSM, C.P.M., A.P.P., CFPM, Chair of the Institute for Supply Management® (ISM®) Services Business Survey Committee: “The Services PMI registered 60.1 percent, which is 3.9 percentage points lower than May’s all-time high reading of 64 percent. The June reading indicates the 13th straight month of growth for the services sector, which has expanded for all but two of the last 137 months.\n“The Supplier Deliveries Index registered 68.5 percent, down 1.9 percentage points from May’s reading of 70.4 percent. (Supplier Deliveries is the only ISM® Report On Business® index that is inversed; a reading of above 50 percent indicates slower deliveries, which is typical as the economy improves and customer demand increases.) The Prices Index registered 79.5 percent, 1.1 percentage points lower than the May reading of 80.6 percent, indicating that prices increased in June, and at a slightly slower rate.\n“According to the Services PMI®, 16 services industries reported growth. The composite index indicated growth for the 13th consecutive month after a two-month contraction in April and May 2020. The rate of expansion in the services sector remains strong, despite the slight pullback in the rate of growth from the previous month’s all-time high. Challenges with materials shortages, inflation, logistics and employment resources continue to be an impediment to business conditions,” says Nieves.\n   emphasis added\nThe employment index decreased to 49.3%, from 55.3% in May.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/7MyapQkLSHw/ism-services-index-decreased-to-601-in.html",
+          "publishedOn": "2021-07-06T14:06:00.000Z",
+          "wordCount": 1106,
+          "title": "ISM® Services Index Decreased to 60.1% in June"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ETAPMkK3_jg/corelogic-house-prices-up-154-year-over.html",
           "author": null,
