@@ -7,11 +7,11 @@ sources:
   # Dev 
   - href: https://devblogs.microsoft.com/commandline/feed/
   # Economoics 
-  #- href: https://afinetheorem.wordpress.com/feed/
-  - href: https://voxeu.org/rss.xml
+  - href: https://afinetheorem.wordpress.com/feed/
+  #- href: https://voxeu.org/rss.xml
   - href: https://back.nber.org/rss/new.xml
   - href: https://www.aeaweb.org/research/rss-feed
-  #- href: https://microeconomicinsights.org/feed/
+  - href: https://microeconomicinsights.org/feed/
   # Economics Journal 
   #- href: https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss
   #- href: https://academic.oup.com/rss/site_5504/3365.xml
