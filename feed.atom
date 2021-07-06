@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-06T10:42:41.848Z</updated>
+    <updated>2021-07-06T12:18:18.170Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CoreLogic: House Prices up 15.4% Year-over-year in May]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/ETAPMkK3_jg/corelogic-house-prices-up-154-year-over.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/ETAPMkK3_jg/corelogic-house-prices-up-154-year-over.html"/>
+        <updated>2021-07-06T12:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Notes: This CoreLogic House Price Index report is for May.  The recent Case-Shiller index release was for April.  The CoreLogic HPI is a three month weighted average and is not seasonally adjusted (NSA).
+From CoreLogic: Torrid Demand and Scarce Inventory Fuels Double-Digit Home Price Growth in May, CoreLogic Reports
+CoreLogic® ... released the CoreLogic Home Price Index (HPI™) and HPI Forecast™ for May 2021.
+ Converging pressures of severe inventory shortages and sustained demand pushed home prices to record highs in May, with the year-over-year increase in home prices at its highest level since 2005. While many millennials and Gen Z home buyers continue to move into the hot market thanks to low borrowing rates, high prices are likely deterring increasing numbers of prospective buyers — es…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tuesday: ISM Services]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/f4I7PT5UTos/tuesday-ism-services.html</id>
