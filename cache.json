@@ -401,6 +401,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/political-economy-finance",
+          "author": "Thomas Lambert, Enrico Perotti, Magdalena Rola-Janicka",
+          "description": "Political considerations have become important in finance research, with significant implications for policymaking. This column summarises new research presented at the CEPR conference on the Political Economy of Finance, including work on opaque investments in political influence, electoral impact of credit and regulation, the role of institutional complexity in shaping reforms and incentives of central bankers. The conference kickstarted the PolEconFin initiative aimed at providing a meeting point for researchers in this topical area.",
+          "link": "https://voxeu.org/article/political-economy-finance",
+          "publishedOn": "2021-07-06T00:00:00.000Z",
+          "wordCount": 2561,
+          "title": "Political economy in finance"
+        },
+        {
+          "id": "https://voxeu.org/article/avoiding-self-fulfilling-low-inflation-trap",
+          "author": "Sebastian Schmidt",
+          "description": "Inflation shortfalls across the developed world have raised concerns about the possibility of low-inflation traps. This column presents a simple model of inflation to analyse the role of stabilisation policy in preventing them. It suggests that decisive countercyclical fiscal policy can protect economies from falling into a low-inflation trap by offsetting low inflation expectations.",
+          "link": "https://voxeu.org/article/avoiding-self-fulfilling-low-inflation-trap",
+          "publishedOn": "2021-07-06T00:00:00.000Z",
+          "wordCount": 2242,
+          "title": "Avoiding a self-fulfilling low-inflation trap"
+        },
+        {
+          "id": "https://voxeu.org/article/global-corporate-taxes-igm-forum-survey",
+          "author": "Romesh Vaitilingam",
+          "description": "The G7 recently reached an agreement on the taxation of multinational corporations. The IGM Forum at Chicago Booth invited its panels of leading European and US economists to express their views on the challenges ahead. As this column reports, a strong majority (94% of the panelists) agrees that a global minimum corporate tax rate would limit the benefits of profit-shifting to low-tax jurisdictions without biasing where firms invest. But there is considerably more uncertainty among respondents about whether an international tax system with such a global minimum is achievable; and whether taxes based on where firms make their sales would be more efficient than taxes based on where their headquarters and production are located.",
+          "link": "https://voxeu.org/article/global-corporate-taxes-igm-forum-survey",
+          "publishedOn": "2021-07-06T00:00:00.000Z",
+          "wordCount": 2503,
+          "title": "Global corporate taxes: IGM Forum survey"
+        },
+        {
           "id": "https://voxeu.org/article/anatomy-cyber-risk",
           "author": "Rustam  Jamilov, Hélène  Rey, Ahmed Tahoun",
           "description": "Cyber risk poses serious threats for businesses around the world. This column develops a new text-based measure of cyber risk exposure by leveraging computational linguistics and quarterly earnings transcripts for 12,000+ firms from 85 countries over the past 20+ years. Cyber threats have tripled since 2013 and affected a lot more countries and industries. Cyber risks are priced into the stock market and are contagious. The authors conclude that cyber risk is a source of systemic risk for firms and markets.",
@@ -2492,15 +2519,6 @@
           "publishedOn": "2021-06-18T15:00:00.000Z",
           "wordCount": 952,
           "title": "Collaborative versus adversarial contact"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/racial-divisions-criminal-justice-south",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Racially heterogeneous counties in the US South tend to have harsher sentencing practices than more homogeneous ones, according to a paper in the American Economic Journal: Economic Policy.",
-          "link": "https://www.aeaweb.org/research/charts/racial-divisions-criminal-justice-south",
-          "publishedOn": "2021-06-16T15:00:00.000Z",
-          "wordCount": 464,
-          "title": "Variation in punishment"
         }
       ]
     },

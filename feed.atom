@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-06T02:05:07.248Z</updated>
+    <updated>2021-07-06T04:15:06.849Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -1959,6 +1959,36 @@ Oil prices were up over the last week with WTI futures at $76.62 per barrel and 
 Here is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally prices are at $3.12 per gallon.  A year ago prices were at $2.18 per gallon, so gasoline prices are up $0.94 per gallon year-over-year.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Political economy in finance]]></title>
+        <id>https://voxeu.org/article/political-economy-finance</id>
+        <link href="https://voxeu.org/article/political-economy-finance"/>
+        <updated>2021-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Political considerations have become important in finance research, with significant implications for policymaking. This column summarises new research presented at the CEPR conference on the Political Economy of Finance, including work on opaque investments in political influence, electoral impact of credit and regulation, the role of institutional complexity in shaping reforms and incentives of central bankers. The conference kickstarted the PolEconFin initiative aimed at providing a meeting point for researchers in this topical area.]]></summary>
+        <author>
+            <name>Thomas Lambert, Enrico Perotti, Magdalena Rola-Janicka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoiding a self-fulfilling low-inflation trap]]></title>
+        <id>https://voxeu.org/article/avoiding-self-fulfilling-low-inflation-trap</id>
+        <link href="https://voxeu.org/article/avoiding-self-fulfilling-low-inflation-trap"/>
+        <updated>2021-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inflation shortfalls across the developed world have raised concerns about the possibility of low-inflation traps. This column presents a simple model of inflation to analyse the role of stabilisation policy in preventing them. It suggests that decisive countercyclical fiscal policy can protect economies from falling into a low-inflation trap by offsetting low inflation expectations.]]></summary>
+        <author>
+            <name>Sebastian Schmidt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global corporate taxes: IGM Forum survey]]></title>
+        <id>https://voxeu.org/article/global-corporate-taxes-igm-forum-survey</id>
+        <link href="https://voxeu.org/article/global-corporate-taxes-igm-forum-survey"/>
+        <updated>2021-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The G7 recently reached an agreement on the taxation of multinational corporations. The IGM Forum at Chicago Booth invited its panels of leading European and US economists to express their views on the challenges ahead. As this column reports, a strong majority (94% of the panelists) agrees that a global minimum corporate tax rate would limit the benefits of profit-shifting to low-tax jurisdictions without biasing where firms invest. But there is considerably more uncertainty among respondents about whether an international tax system with such a global minimum is achievable; and whether taxes based on where firms make their sales would be more efficient than taxes based on where their headquarters and production are located.]]></summary>
+        <author>
+            <name>Romesh Vaitilingam</name>
         </author>
     </entry>
     <entry>
@@ -5988,16 +6018,6 @@ Chapter 07 앱에 불 붙이기- 플러터 앱에 파이어베이스 통합하�
 국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variation in punishment]]></title>
-        <id>https://www.aeaweb.org/research/charts/racial-divisions-criminal-justice-south</id>
-        <link href="https://www.aeaweb.org/research/charts/racial-divisions-criminal-justice-south"/>
-        <updated>2021-06-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Racially heterogeneous counties in the US South tend to have harsher sentencing practices than more homogeneous ones, according to a paper in the American Economic Journal: Economic Policy.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
