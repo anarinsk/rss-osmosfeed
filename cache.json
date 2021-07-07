@@ -347,6 +347,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/covid-19-and-mental-health-evidence-norway",
+          "author": "Hans Hvide, Julian Vedeler Johnsen",
+          "description": "The mental health implications of the COVID-19 pandemic are less well documented than its physical effects. This column examines newly released data on doctor’s appointments in Norway and finds evidence of a psychological health pandemic that took hold during the autumn of 2020. Earlier that summer, the number of consultations related to mental health issues resembled that of previous years. But during the autumn of 2020 this number grew substantially, a trend that continued through the winter months and warrants the attention of policymakers.",
+          "link": "https://voxeu.org/article/covid-19-and-mental-health-evidence-norway",
+          "publishedOn": "2021-07-07T00:00:00.000Z",
+          "wordCount": 1885,
+          "title": "COVID-19 and mental health: Evidence from Norway"
+        },
+        {
+          "id": "https://voxeu.org/article/decoupling-global-value-chains",
+          "author": "Peter Eppinger, Gabriel  Felbermayr, Oliver Krebs, Bohdan Kukharskyy",
+          "description": "The major disruptions to global value chains caused by the Covid-19 pandemic have prompted politicians to think about reducing the reliance on imported inputs by decoupling from global value chains. This column quantifies the welfare costs of decoupling as well as the potential gains from reduced exposure to foreign shocks. The bottom line is that decoupling does not pay off.",
+          "link": "https://voxeu.org/article/decoupling-global-value-chains",
+          "publishedOn": "2021-07-07T00:00:00.000Z",
+          "wordCount": 2447,
+          "title": "Decoupling from global value chains"
+        },
+        {
           "id": "https://voxeu.org/article/political-economy-finance",
           "author": "Thomas Lambert, Enrico Perotti, Magdalena Rola-Janicka",
           "description": "Political considerations have become important in finance research, with significant implications for policymaking. This column summarises new research presented at the CEPR conference on the Political Economy of Finance, including work on opaque investments in political influence, electoral impact of credit and regulation, the role of institutional complexity in shaping reforms and incentives of central bankers. The conference kickstarted the PolEconFin initiative aimed at providing a meeting point for researchers in this topical area.",
@@ -563,6 +581,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/QdbBewF6bfM/wednesday-job-openings-fomc-minutes.html",
+          "author": null,
+          "description": "Wednesday:\n• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.\n• At 10:00 AM, Job Openings and Labor Turnover Survey for May from the BLS. \n• At 2:00 PM, FOMC Minutes, Meeting of June 15-16, 2021",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/QdbBewF6bfM/wednesday-job-openings-fomc-minutes.html",
+          "publishedOn": "2021-07-07T01:00:00.001Z",
+          "wordCount": 836,
+          "title": "Wednesday: Job Openings, FOMC Minutes"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/wztT_KFyBNE/july-6th-covid-19-new-cases.html",
           "author": null,
