@@ -338,6 +338,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/maastricht-values",
+          "author": "Marco Buti, Vitor Gaspar",
+          "description": "Almost 30 years ago, the European Council in Maastricht agreed, on 10 December 1991, the draft Treaty on the European Union. In this column, the authors, who were both involved in preparing the summit, examine the arithmetic of the Maastricht reference values in relation to the macroeconomic facts as of today. Broader questions to do with fiscal architecture and institutional design will be addressed in a subsequent column.",
+          "link": "https://voxeu.org/article/maastricht-values",
+          "publishedOn": "2021-07-08T00:00:00.000Z",
+          "wordCount": 3113,
+          "title": "Maastricht values"
+        },
+        {
+          "id": "https://voxeu.org/article/central-bank-digital-currency-battle-soul-financial-system",
+          "author": "Stephen Cecchetti, Kim  Schoenholtz",
+          "description": "Central banks are thinking about whether they should substitute publicly issued digital currency for the bank-issued digital money that people use every day. How this plays out can profoundly reshape the financial system and make it less stable. This column argues that we don’t need CBDC to solve financial system problems, but with China already headed down the CBDC road, perhaps the best hope is that central banks will all proceed very slowly and stop well short of universal, elastically supplied, interest-bearing digital currency.",
+          "link": "https://voxeu.org/article/central-bank-digital-currency-battle-soul-financial-system",
+          "publishedOn": "2021-07-08T00:00:00.000Z",
+          "wordCount": 3128,
+          "title": "Central bank digital currency: The battle for the soul of the financial system"
+        },
+        {
+          "id": "https://voxeu.org/article/integrating-climate-change-financial-stability-framework",
+          "author": "Timo Löyttyniemi",
+          "description": "Financial stability is at the core of central banking. This column assesses the various risks to financial stability stemming from climate change, which arise from physical risks, transition risks, and the chosen transition path towards a net zero economy. Additional risks arise from the changes in government policies, risks in green investments, mispricing of assets, and potential changes in metrics. The channels for financial instability are, as usual, the sustainability of government debt, the vulnerability of banking, and the volatility and liquidity of securities markets. Awareness of these additional financial stability risks could increase financial stability.",
+          "link": "https://voxeu.org/article/integrating-climate-change-financial-stability-framework",
+          "publishedOn": "2021-07-08T00:00:00.000Z",
+          "wordCount": 3133,
+          "title": "Integrating climate change into the financial stability framework"
+        },
+        {
           "id": "https://voxeu.org/article/covid-19-and-mental-health-evidence-norway",
           "author": "Hans Hvide, Julian Vedeler Johnsen",
           "description": "The mental health implications of the COVID-19 pandemic are less well documented than its physical effects. This column examines newly released data on doctor’s appointments in Norway and finds evidence of a psychological health pandemic that took hold during the autumn of 2020. Earlier that summer, the number of consultations related to mental health issues resembled that of previous years. But during the autumn of 2020 this number grew substantially, a trend that continued through the winter months and warrants the attention of policymakers.",
@@ -514,15 +541,6 @@
           "publishedOn": "2021-06-21T15:00:00.000Z",
           "wordCount": 410,
           "title": "How COVID-19 exacerbated the gender gap in academia"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/collaborative-adversarial-caste-integration-cricket",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "India’s most popular sport may offer insights into reducing caste prejudices. A key feature of positive integration is having people work toward shared goals, according to a paper in the American Economic Review.",
-          "link": "https://www.aeaweb.org/research/collaborative-adversarial-caste-integration-cricket",
-          "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 952,
-          "title": "Collaborative versus adversarial contact"
         }
       ]
     },
