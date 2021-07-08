@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-08T08:13:26.474Z</updated>
+    <updated>2021-07-08T12:19:12.626Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond the pandemic: From life support to structural change]]></title>
+        <id>https://voxeu.org/article/beyond-pandemic-life-support-structural-change</id>
+        <link href="https://voxeu.org/article/beyond-pandemic-life-support-structural-change"/>
+        <updated>2021-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[COVID-19 caused a “recession like no other”, which triggered an unprecedented economic policy response in the EU. As the European Commission’s Summer 2021 Economic Forecast points to a quick return to the pre-pandemic output levels, attention shifts to the post-pandemic years. Will the recovery be short-lived, or will the COVID-19 crisis prove to be a transformative event for the EU? Much will depend on the course of economic policy in the years ahead. NextGenerationEU, with its centrepiece the Recovery and Resilience Facility, provides a unique possibility to turn the challenges of the crisis into opportunities. The first set of National Recovery and Resilience Plans give reason for optimism, but much will depend on their implementation by the member states.]]></summary>
+        <author>
+            <name>Maarten Verwey, Mirko Licchetta, Alexandru  Zeana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maastricht values]]></title>
         <id>https://voxeu.org/article/maastricht-values</id>
