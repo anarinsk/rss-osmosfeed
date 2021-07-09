@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-09T00:39:56.501Z</updated>
+    <updated>2021-07-09T04:15:25.732Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Epidemic exposure, fintech adoption, and the digital divide]]></title>
+        <id>https://voxeu.org/article/epidemic-exposure-fintech-adoption-and-digital-divide</id>
+        <link href="https://voxeu.org/article/epidemic-exposure-fintech-adoption-and-digital-divide"/>
+        <updated>2021-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although epidemics are frequently cited as inducing changes in economic behaviour and accelerating technological and behavioural trends, there may be important differences across socioeconomic groups in ability to utilise such new technologies. This column studies these issues in the context of fintech adoption and finds strong evidence of epidemic-induced changes in economic and financial behaviour, of differences in the extent of such shifts by more and less economically advantaged individuals, and of a role for IT infrastructure in spreading or limiting the benefits of technological alternatives.  The results highlight both the behavioural response to epidemics and the digital divide.]]></summary>
+        <author>
+            <name>Orkun Saka, Barry Eichengreen, Cevat Giray Aksoy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimating the economic impact of climate change from weather variation]]></title>
+        <id>https://voxeu.org/article/estimating-economic-impact-climate-change-weather-variation</id>
+        <link href="https://voxeu.org/article/estimating-economic-impact-climate-change-weather-variation"/>
+        <updated>2021-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If economists are going to be able to offer clear guidance about the appropriate ambition of climate change policy, we need firmer damage estimates. This column introduces a new model that prices farmers’ ex-post and ex-ante adaptations to weather changes and forecasts. When applied to US agriculture, the model shows a much more pessimistic outcome than currently expected, and encourages the consideration of substantial changes to agricultural policies.]]></summary>
+        <author>
+            <name>Derek Lemoine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Texas Real Estate in June: Sales Down Slightly YoY, Inventory Down 50% YoY]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/LsbnTkaPvyc/north-texas-real-estate-in-june-sales.html</id>
