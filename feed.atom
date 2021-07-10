@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-10T00:36:56.736Z</updated>
+    <updated>2021-07-10T04:15:42.309Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anywhere jobs and the future of work]]></title>
+        <id>https://voxeu.org/article/anywhere-jobs-and-future-work</id>
+        <link href="https://voxeu.org/article/anywhere-jobs-and-future-work"/>
+        <updated>2021-07-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Covid pandemic has helped to loosen the binds that previously tied a job to a specific geography and created a new class of work in the UK. ‘Anywhere jobs’ are non-routine service sector jobs that can be done from anywhere in the world, potentially for cheaper. This column shows that one in five workers in the UK are in an anywhere job and, in contrast to the past when the pressure was on semi-skilled workers, it is relatively highly skilled workers in non-routine roles that are now vulnerable to the pressures of technology and globalisation.]]></summary>
+        <author>
+            <name>Jeegar Kakkad, Christina Palmou, David Britto, James Browne</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Portland Real Estate in June: Sales Up 28% YoY, Inventory Down 34% YoY]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/JGe_iYrI8G4/portland-real-estate-in-june-sales-up.html</id>
