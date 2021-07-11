@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-11T16:17:02.359Z</updated>
+    <updated>2021-07-11T20:11:34.948Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[July 11th COVID-19 New Cases, Vaccinations, Hospitalizations]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/uxiHXBAyp_w/july-11th-covid-19-new-cases.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/uxiHXBAyp_w/july-11th-covid-19-new-cases.html"/>
+        <updated>2021-07-11T19:48:00.004Z</updated>
+        <summary type="html"><![CDATA[Congratulations to the residents of Connecticut on joining the 80% club!  Well done. Go for 90%!!!
+
+This data is from the CDC.
+According to the CDC, on Vaccinations.
+Total doses administered: 334,151,648, as of a week ago 330,604,253.  Average doses last week: 0.59 million per day.
+
+
+COVID Metrics
+  
+ TodayYesterdayWeek
+AgoGoal
+ Percent over 18,
+One Dose67.6%67.5%67.1%≥70.0%1,2
+ Fully Vaccinated
+(millions)159.3159.0157.3≥1601
+  
+New Cases per Day3🚩17,73616,20913,624≤5,0002
+  
+Hospitalized3🚩13,27313,27011,904≤3,0002
+  
+Deaths per Day3183166184≤502
+  
+1 America's Short Term Goals,
+2my goals to stop daily posts,
+37 day average for Cases, Hospitalized, and Deaths
+🚩 Increasing week-over-week for Cases, Hospitalized, and Deaths     
+  
+
+KUDOS to the residents of the 20 states and D.C. that have already achieved the 70% goal: Vermont, Hawaii, Massachusetts and Connecticut are at 80%+, and Maine, New Mexico, New Jersey,  Rhode Island, Pennsylvania, California, Maryland, Washington, New Hampshire, New York, Illinois, Virginia, Delaware, Minnesota, Oregon, Colorado and D.C. are all over 70%.
+
+Next up are Wisconsin at 66.0%, Florida at 65.7%, Nebraska at 65.6%, Utah at 65.0%, South Dakota at 64.7%, and Iowa at 64.3%.
+
+Click on graph for larger image.
+This graph shows the daily (columns) and 7 day average (line) of hospitalizations reported.
+This data is from the CDC.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atlanta Real Estate in June: Sales Up 10% YoY, Inventory Down 56% YoY]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/KzzV6qy2e9I/atlanta-real-estate-in-june-sales-up-10.html</id>
@@ -5115,70 +5159,6 @@ ___인덱스를 반환하는 numpy.n...
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론
 국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그림으로 이해하는 AWS 구조와 기술/오가사와라 시게타카 지음, 성창규 옮김/길벗]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=274143194</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=274143194"/>
-        <updated>2021-06-22T07:47:00.000Z</updated>
-        <summary type="html"><![CDATA[그림으로 이해하는 AWS 구조와 기술
-오가사와라 시게타카 지음, 성창규 옮김 / 길벗 / 2021년 06월 / ISBN:9791165215682
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 72원
-이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드
-
-
-
-
-AWS는 웹 관련 기능뿐만 아니라 회사 시스템이나 머신 러닝, 인프라와 관련된 기능까지 폭넓은 서비스를 제공한다. 또한, 단순히 ‘임대 서버의 대용품’으로 사용하는 것이 아니라 시스템이나 인프라를 구축하는 데 꼭 필요한 서비스로 자리매김하고 있다. 책에서는 클라우드와 네트워크 구조, 관리 콘솔, 대시보드와 같은 기초 지식부터 Amazon EC2, Amazon S3 등 AWS 주요 서비스까지 설명한다. 
-
-각 서비스의 환경 구조, 사용 절차, 요금, 조합해 사용하면 좋은 서비스들을 155개 일러스트와 40개 표로 일목요연하게 정리하여 직관적으로 이해할 수 있게 구성했다. 또한, 기초부터 설명하기 때문에 사전 지식이 없어도 충분히 읽을 수 있다. 이 책을 읽고 나면 어떤 서비스가 있으며, 그 특징은 무엇인지, 어떻게 사용하면 될지 머릿속에 다양한 AWS 활용 기술을 떠올릴 수 있을 것이다.
-
-1장 아마존 웹 서비스 기초 지식 
-1.1 아마존 웹 서비스란: 아마존이 제공하는 클라우드 서비스 
-1.2 AWS의 서비스: 165개 이상의 서비스 제공 
-1.3 AWS의 비용: 초기 비용은 저렴하지만 운영 비용이 조금 비싸다 
-1.4 AWS의 사용 방법: 누구라도 쉽게 서비스를 이용할 수 있다 
-1.5 AWS의 도입 사례: 대기업이나 정부기관에서 도입하는 경우도 다수 
-1.6 AWS의 도입 방법: 계정을 만들고 로그인하면 된다 
-
-2장 AWS를 이해하기 위한 클라우드 & 네트워크의 구조 
-2.1 클라우드와 온프레미스: 클라우드 컴퓨팅의 구조 
-2.2 가상화와 분산 처리: 클라우드를 지탱하는 2대 기술 
-2.3 SaaS, PaaS, IaaS: 클라우드의 서비스 제공 형태 
-2.4 서버와 인스턴스: 네트워크상에 만들어진 가상 서버 
-2.5 LAN: LAN을 구성하는 기술 
-2.6 IP 주소와 DNS: 네트워크의 장소를 특정하는 방법 
-2.7 웹의 구조: 웹 사이트와 관련된 기술 
-
-3장 AWS를 사용하기 위한 도구 
-3.1 AWS의 사용법과 계정: AWS에서 제공하는 유용한 도구 
-3.2 관리 콘솔과 대시보드: 심플하고 직관적인 관리 도구 
-3.3 AWS IAM과 접근 권한: 접근 권한 설정 
-3.4 Amazon CloudWatch: Amazon EC2의 리소스 상태 감시 
-3.5 AWS Billing and Cost Management: AWS의 비용 관리 
-3.6 리전과 가용 영역: 세계 각국에 존재하는 데이터 센터 
-
-4장 서버 서비스 Amazon EC2 
-4.1 Amazon EC2란: 짧은 시간에 실행 환경을 구축할 수 있는 가상 서버 
-4.2 EC2의 사용 절차: 가상 서버를 사용하기까지 
-4.3 인스턴스 생성과 요금: 가상 서버 생성 예시 
-4.4 AMI: OS 및 소프트웨어가 설치된 디스크 이미지 
-4.5 인스턴스 유형: 용도에 맞게 머신을 선택하자 
-4.6 Amazon EBS: Amazon EC2의 스토리지 볼륨 
-4.7 SSH를 사용한 접속과 키 페어: 공개키 암호 방식을 이용한 접근 관리 
-4.8 Elastic IP 주소: 고정 공인 IP 주소를 부여 
-4.9 Elastic Load Balancing: 트래픽을 분배하는 분산 장치 
-4.10 스냅샷: 서버 데이터 백업 
-4.11 오토 스케일링: 수요에 맞춰 EC2 대수를 증감 
-
-5장 스토리지 서비스 Amazon S3 
-5.1 Amazon S3란: 사용하기 쉬우며 기능이...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
