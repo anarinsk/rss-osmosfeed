@@ -721,15 +721,6 @@
           "publishedOn": "2021-06-23T15:00:00.000Z",
           "wordCount": 2489,
           "title": "LGBTQ Economics"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/covid-disruptions-gender-gap-academia",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "Female academics were disproportionately affected by COVID-19 disruptions, experiencing larger declines in research time compared to men, according to a paper in AEA Papers & Proceedings.",
-          "link": "https://www.aeaweb.org/research/charts/covid-disruptions-gender-gap-academia",
-          "publishedOn": "2021-06-21T15:00:00.000Z",
-          "wordCount": 410,
-          "title": "How COVID-19 exacerbated the gender gap in academia"
         }
       ]
     },
@@ -1324,6 +1315,15 @@
       "feedUrl": "https://www.bok.or.kr/portal/bbs/P0000545/news.rss?menuNo=200437",
       "siteUrl": "https://www.bok.or.kr/",
       "articles": [
+        {
+          "id": "https://www.bok.or.kr/portal/bbs/P0000545/view.do?nttId=10065434&menuNo=200437",
+          "author": null,
+          "description": "▣ 해외경제 포커스 제2021-26호(7.9일) (목차 및 주요 내용) \n\r\n\n\r\n<포커스 브리프>\n\r\n\n\r\n<국제경제리뷰>\n\r\n\n\r\n- 2021년 하반기 중국 경제 전망 및 주요 이슈\n\r\n\n\r\nⅠ. 최근 중국경제 상황\n\r\n\n\r\nⅡ. 2021년 하반기 경제 전망\n\r\n\n\r\nⅢ. 주요 이슈\n\r\n\n\r\n\n\r\n- 2021년 하반기 일본 경제 전망 및 주요 이슈\n\r\n\n\r\nⅠ. 최근 일본 경제 동향\n\r\n\n\r\nⅡ. 2021년 하반기 일본 경제 전망\n\r\n\n\r\nⅢ. 주요 이슈\n\r\n\n\r\n\n\r\n\n\r\n<신규 해외경제지표> \n\r\n\n\r\n<주간 발표 예정 해외경제지표 및 시장전망> \n\r\n\n\r\n\n\r\n※ 최신 해외학술 정보\n\r\n\n\r\n※ 국제경제리뷰 목록",
+          "link": "https://www.bok.or.kr/portal/bbs/P0000545/view.do?nttId=10065434&menuNo=200437",
+          "publishedOn": "2021-07-11T03:00:00.000Z",
+          "wordCount": 886,
+          "title": "해외경제 포커스(제2021-26호)"
+        },
         {
           "id": "https://www.bok.or.kr/portal/bbs/P0000545/view.do?nttId=10065328&menuNo=200437",
           "author": null,
