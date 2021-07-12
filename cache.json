@@ -416,15 +416,6 @@
           "publishedOn": "2021-06-23T23:57:00.000Z",
           "wordCount": null,
           "title": "파이썬 마스터 3급/강윤희.남성현.박용범 지음/명진씨앤피"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=274214427",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "파이썬을 이용한 데이터 분석의 정석\n채진석 지음 / 루비페이퍼 / 2021년 06월 / ISBN:9791186710708\n정가: 32,000원 / 판매가: 28,800원 / 마일리지: 132원\n이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드\n\n\n\n\n데이터 분석을 다룬 많은 책 중 나에게 맞는 책을 찾는 건 매우 어렵다. 이론 위주의 책을 선택하면 이해하기 어렵고, 응용 위주의 책을 선택하면 기본 개념이 부족하다. 이 책은 이론을 쉽게 설명하고 예제로 응용해 보도록 구성하여 자연스럽게 데이터 분석 과정을 익힐 수 있다.\r\n\r\n파이썬 데이터 분석에 필수로 사용되는 라이브러리를 단계적으로 다루어 데이터를 전처리하고 분석하는 능력을 갖춘다. 이 과정에서 넘파이, 판다스, 맷플롯립은 물론 연관 라이브러리까지 상세히 소개한다. 그리고 소개한 라이브러리를 종합하여 활용할 수 있는 세 가지 실전 예제를 담았다.\n\n01장 개발 환경 구축\r\n_1.1 아나콘다 설치\r\n___환경 변수 설정\r\n___파이썬 가상 환경 설정\r\n___conda와 pip 명령어\r\n_1.2 주피터 노트북\r\n__1.2.1 주피터 노트북의 주요 기능\r\n___주피터 노트북 애플리케이션\r\n__1.2.2 주피터 노트북 설치\r\n__1.2.3 주피터 노트북 사용\r\n__1.2.4 노트북 생성\r\n__1.2.5 노트북을 이용한 프로그래밍\r\n\r\n02장 파이썬 빅데이터 프로그래밍\r\n_2.1 파이썬과 R\r\n__2.1.1 파이썬과 R의 특징 및 성능 비교\r\n__2.1.2 파이썬과 R의 글로벌 선호도\r\n_2.2 파이썬 언어의 기본 개념\r\n__2.2.1 객체 지향 언어\r\n__2.2.2 파이썬 빅데이터 분석\r\n___빅데이터 분석을 위한 파이썬 라이브러리\r\n___넘파이와 사이파이\r\n___객체와 클래스\r\n___인스턴싱\r\n___모듈\r\n___함수와 메소드\r\n_2.3 대화형 컴퓨팅 IPython\r\n__2.3.1 IPython의 기능\r\n__2.3.2 IPyhon 설치\r\n___노트북\r\n__2.3.3 IPython의 주요 명령어\r\n___도움 및 찾기 명령어\r\n___탭 자동 완성\r\n___객체 탐색\r\n___셸 커맨드\r\n___매직 함수\r\n___실행 및 편집\r\n___디버깅\r\n__2.3.4 IPython QtConsole\r\n\r\n03장 넘파이\r\n_3.1 넘파이 배열\r\n__3.1.1 넘파이 모듈 임포트\r\n__3.1.2 넘파이 배열 생성\r\n___파이썬 유사 배열 객체를 넘파이 배열로 변환\r\n___넘파이 배열 생성 함수\r\n___배열 생성 함수 numpy.arange( )\r\n___디스크에서 읽어서 배열 생성\r\n__3.1.2 넘파이 ndarray 클래스\r\n___ndarray 객체 구조\r\n__3.1.3 넘파이 배열의 데이터 타입\r\n___numpy.dtype 적용\r\n_3.2 구조화된 배열\r\n__3.2.1 구조화된 데이터 타입\r\n___구조화된 데이터 타입 생성\r\n___구조화된 데이터 타입 조작 및 표시\r\n___자동 바이트 오프셋 및 정렬\r\n___필드 제목\r\n__3.2.2 구조화된 배열 인덱싱 및 할당\r\n___파이썬 고유 타입인 튜플로 할당\r\n___스칼라 값으로 할당\r\n___다른 구조화된 배열로 할당\r\n__3.2.2 인덱싱과 슬라이싱\r\n___기본 인덱싱 구문\r\n___배열 객체 요소 선택\r\n___기본 인덱싱과 슬라이싱\r\n___고급 인덱싱\r\n___불리언 배열로 인덱싱\r\n___슬라이싱과 인덱스 배열 처리\r\n___인덱스를 반환하는 numpy.n...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=274214427",
-          "publishedOn": "2021-06-23T04:45:00.000Z",
-          "wordCount": null,
-          "title": "파이썬을 이용한 데이터 분석의 정석/채진석 지음/루비페이퍼"
         }
       ]
     },
@@ -800,6 +791,15 @@
       "siteUrl": "https://www.journals.uchicago.edu/loi/jpe?af=R",
       "articles": [
         {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715021?af=R",
+          "author": "Amir Rubin",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/715021?af=R",
+          "publishedOn": "2021-07-12T05:51:45.000Z",
+          "wordCount": 127,
+          "title": "Systematic Bias in the Progress of Research"
+        },
+        {
           "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715023?af=R",
           "author": "Takuo Sugaya",
           "description": "Journal of Political Economy, Ahead of Print.",
@@ -842,6 +842,42 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Q5ATKmKSXz8/mba-survey-share-of-mortgage-loans-in_01749068918.html",
+          "author": null,
+          "description": "Note: This is as of July 4th.\nFrom the MBA: Share of Mortgage Loans in Forbearance Decreases to 3.76%\nThe Mortgage Bankers Association’s (MBA) latest Forbearance  and Call Volume Survey revealed that the total number of loans now in forbearance decreased by 11 basis points from 3.87% of servicers’ portfolio volume in the prior week to 3.76% as of July 4, 2021. According to MBA’s estimate, 1.9 million homeowners are in forbearance plans.\nThe share of Fannie Mae and Freddie Mac loans in forbearance decreased 8 basis points to 1.91%. Ginnie Mae loans in forbearance decreased 32 basis points to 4.78%, while the forbearance share for  portfolio loans and private-label securities (PLS) increased 2 basis points to 7.94%. The percentage of  loans in forbearance for independent mortgage bank (IMB) …",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Q5ATKmKSXz8/mba-survey-share-of-mortgage-loans-in_01749068918.html",
+          "publishedOn": "2021-07-12T20:00:00.016Z",
+          "wordCount": 1206,
+          "title": "MBA Survey: \"Share of Mortgage Loans in Forbearance Decreases to 3.76%\""
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/elWqIDzpnMI/july-12th-covid-19-new-cases.html",
+          "author": null,
+          "description": "Special Note: There was no data released on July 5th observance of Independence Day, so a \"week ago\" data is as of Sunday, July 4th.\n\n\nThis data is from the CDC.\nAccording to the CDC, on Vaccinations.\nTotal doses administered: 334,600,770, as of a week ago 330,604,253.  Average doses last week: 0.50 million per day.\n\n\nCOVID Metrics\n  \n TodayYesterdayWeek\nAgoGoal\n Percent over 18,\nOne Dose67.7%67.6%67.1%≥70.0%1,2\n Fully Vaccinated\n(millions)159.5159.3157.3≥1601\n  \nNew Cases per Day3🚩15,49716,70614,479≤5,0002\n  \nHospitalized3🚩12,83113,27311,904≤3,0002\n  \nDeaths per Day3156162174≤502\n  \n1 America's Short Term Goals,\n2my goals to stop daily posts,\n37 day average for Cases, Hospitalized, and Deaths\n🚩 Increasing week-over-week for Cases, Hospitalized, and Deaths     \n  \n\nKUDOS to the residents of the 20 states and D.C. that have already achieved the 70% goal: Vermont, Hawaii, Massachusetts and Connecticut are at 80%+, and Maine, New Mexico, New Jersey,  Rhode Island, Pennsylvania, California, Maryland, Washington, New Hampshire, New York, Illinois, Virginia, Delaware, Minnesota, Oregon, Colorado and D.C. are all over 70%.\n\nNext up are Wisconsin at 66.0%, Florida at 65.8%, Nebraska at 65.8%, Utah at 65.0%, South Dakota at 64.7%, and Iowa at 64.4%.\n\nClick on graph for larger image.\nThis graph shows the daily (columns) and 7 day average (line) of positive tests reported.\n\nThis data is from the CDC.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/elWqIDzpnMI/july-12th-covid-19-new-cases.html",
+          "publishedOn": "2021-07-12T19:34:00.001Z",
+          "wordCount": 992,
+          "title": "July 12th COVID-19 New Cases, Vaccinations, Hospitalizations"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/_Ms77oEBtUE/south-carolina-real-estate-in-june.html",
+          "author": null,
+          "description": "I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.\nFrom the South Carolina Realtors for the entire state:\nClosed sales in June 2021 were 11,096, up 14.7% from 9,676 in June 2020.\nActive Listings in June 2021 were 11,578, down 48.9% from 22,676 in June 2020.\nInventory in June was up 2.7% from the previous month.\nMonths of Supply was 1.2 Months in June 2021, compared to 2.8 Months in June 2020.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/_Ms77oEBtUE/south-carolina-real-estate-in-june.html",
+          "publishedOn": "2021-07-12T19:12:00.000Z",
+          "wordCount": 893,
+          "title": "South Carolina Real Estate in June: Sales Up 15% YoY, Inventory Down 49% YoY"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/lybpSwzeVLU/boston-real-estate-in-june-sales-up-77.html",
+          "author": null,
+          "description": "Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.\nFor Boston (single family and condos):\n\nClosed sales in June 2021 were 3,444, up 77.3% from 1,942 in June 2020.\n\n\nActive Listings in June 2021 were 3,822, down 18.6% from 4,697 in June 2020.  \n\n\nInventory in June was up 11.8% from last month.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/lybpSwzeVLU/boston-real-estate-in-june-sales-up-77.html",
+          "publishedOn": "2021-07-12T17:04:00.000Z",
+          "wordCount": 872,
+          "title": "Boston Real Estate in June: Sales Up 77% YoY, Inventory Down 19% YoY"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/pWNvnwel7Nc/housing-inventory-july-12th-update.html",
           "author": null,
