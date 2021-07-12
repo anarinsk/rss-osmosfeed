@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-12T00:38:30.081Z</updated>
+    <updated>2021-07-12T04:15:51.654Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sunday Night Futures]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/qomY6NuYOhg/sunday-night-futures.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/qomY6NuYOhg/sunday-night-futures.html"/>
+        <updated>2021-07-12T01:28:00.002Z</updated>
+        <summary type="html"><![CDATA[Weekend:
+• Schedule for Week of July 11, 2021
+Monday:
+• No major economic releases scheduled.
+From CNBC: Pre-Market Data and Bloomberg futures S&P 500 and DOW futures are unchanged (fair value).
+Oil prices were down over the last week with WTI futures at $74.68 per barrel and Brent at $75.58 per barrel.  A year ago, WTI was at $41, and Brent was at $43 - so WTI oil prices are UP about 80% year-over-year (oil prices collapsed at the beginning of the pandemic). 
+Here is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally prices are at $3.14 per gallon.  A year ago prices were at $2.20 per gallon, so gasoline prices are up $0.94 per gallon year-over-year.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetary policy and the exchange rate under fiscal distress]]></title>
+        <id>https://voxeu.org/article/monetary-policy-and-exchange-rate-under-fiscal-distress</id>
+        <link href="https://voxeu.org/article/monetary-policy-and-exchange-rate-under-fiscal-distress"/>
+        <updated>2021-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Textbook models predict that a monetary policy tightening should lift the exchange rate. Yet the empirical evidence for emerging market economies fails to support this prediction. This column uses data from Brazil to show that the exchange rate’s response to monetary policy shocks changes with the fiscal regime. A contractionary monetary surprise leads to an appreciation in normal times. By contrast, a depreciation results when fiscal fundamentals are deteriorating and markets worry about debt sustainability.]]></summary>
+        <author>
+            <name>Enrique Alberola, Carlos Cantú, Paolo Cavallino, Nikola Mirkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the opioid epidemic: When innovation fails]]></title>
+        <id>https://voxeu.org/article/understanding-opioid-epidemic-when-innovation-fails</id>
+        <link href="https://voxeu.org/article/understanding-opioid-epidemic-when-innovation-fails"/>
+        <updated>2021-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over 90,000 Americans died from opioids in the year ending November 2020, bringing the death total since 1999 to over 850,000. This column argues that rather than rising demand for opioids for relief from pain or despair, it is supply-side innovations in the legal and illegal drug markets that have been the main driver of the opioid epidemic. The opioid cycle is a cautionary tale about how technological innovation can go terribly awry, and calls for more collective scepticism about innovations that allegedly cleanse pleasure-inducing drugs of their addictive properties as well as stronger penalties for companies that mislead the public about the risks of their products.]]></summary>
+        <author>
+            <name>David M. Cutler, Edward  Glaeser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[July 11th COVID-19 New Cases, Vaccinations, Hospitalizations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/uxiHXBAyp_w/july-11th-covid-19-new-cases.html</id>
