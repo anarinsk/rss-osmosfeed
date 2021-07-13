@@ -2,10 +2,212 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-13T20:12:25.752Z</updated>
+    <updated>2021-07-13T21:10:26.131Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quantifying the High-Frequency Trading "Arms Race" -- by Matteo Aquilina, Eric Budish, Peter O'Neill]]></title>
+        <id>https://www.nber.org/papers/w29011#fromrss</id>
+        <link href="https://www.nber.org/papers/w29011#fromrss"/>
+        <updated>2021-07-13T21:09:56.265Z</updated>
+        <summary type="html"><![CDATA[We use stock exchange message data to quantify the negative aspect of high-frequency trading, known as “latency arbitrage.” The key difference between message data and widely-familiar limit order book data is that message data contain attempts to trade or cancel that fail. This allows the researcher to observe both winners and losers in a race, whereas in limit order book data you cannot see the losers, so you cannot directly see the races. We find that latency-arbitrage races are very frequent (about one per minute per symbol for FTSE 100 stocks), extremely fast (the modal race lasts 5-10 millionths of a second), and account for a remarkably large portion of overall trading volume (about 20%). Race participation is concentrated, with the top 6 firms accounting for over 80% of all race wins and losses. The average race is worth just a small amount (about half a price tick), but because of the large volumes the stakes add up. Our main estimates suggest that races constitute roughly one-third of price impact and the effective spread (key microstructure measures of the cost of liquidity), that latency arbitrage imposes a roughly 0.5 basis point tax on trading, that market designs that eliminate latency arbitrage would reduce the market's cost of liquidity by 17%, and that the total sums at stake are on the order of $5 billion per year in global equity markets alone.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Vaccine Dose Stretching Reduce COVID-19 Deaths? -- by Witold Więcek, Amrita Ahuja, Michael Kremer, Alexandre Simoes Gomes, Christopher Snyder, Alex Tabarrok, Brandon Joel Tan]]></title>
+        <id>https://www.nber.org/papers/w29018#fromrss</id>
+        <link href="https://www.nber.org/papers/w29018#fromrss"/>
+        <updated>2021-07-13T21:09:56.233Z</updated>
+        <summary type="html"><![CDATA[We argue that alternative COVID-19 vaccine dosing regimens could potentially dramatically accelerate global COVID-19 vaccination and reduce mortality, and that the costs of testing these regimens are dwarfed by their potential benefits. We first use the high correlation between neutralizing antibody response and efficacy against disease (Khoury et. al. 2021) to show that half or even quarter doses of some vaccines generate immune responses associated with high vaccine efficacy. We then use an SEIR model to estimate that under these efficacy levels, doubling or quadrupling the rate of vaccination by using fractional doses would dramatically reduce infections and mortality. Since the correlation between immune response and efficacy may not be fully predictive of efficacy with fractional doses, we then use the SEIR model to show that fractional dosing would substantially reduce infections and mortality over a wide range of plausible efficacy levels. Further immunogenicity studies for a range of vaccine and dose combinations could deliver outcomes in weeks and could be conducted with a few hundred healthy volunteers. National regulatory authorities could also decide to test efficacy of fractional dosing in the context of vaccination campaigns based on existing immune response data, as some did for delayed second doses. If efficacy turned out to be high, the approach could be implemented broadly, while if it turned out to be low, downside risk could be limited by administering full doses to those who had received fractional doses. The SEIR model also suggests that delaying second vaccine doses will likely have substantial mortality benefits for multiple, but not all, vaccine-variant combinations, underscoring the importance of ongoing surveillance. Finally, we find that for countries choosing between approved but lower efficacy vaccines available immediately and waiting for mRNA vaccines, using immediately available vaccines typically reduces mortality.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pricing Without Mispricing -- by Jianan Liu, Tobias J. Moskowitz, Robert F. Stambaugh]]></title>
+        <id>https://www.nber.org/papers/w29016#fromrss</id>
+        <link href="https://www.nber.org/papers/w29016#fromrss"/>
+        <updated>2021-07-13T21:09:56.102Z</updated>
+        <summary type="html"><![CDATA[We offer a novel test of whether an asset pricing model describes expected returns in the absence of mispricing.  Our test assumes such a model assigns zero alpha to investment strategies using decade-old information. The CAPM satisfies this condition, but prominent multifactor models do not.  While multifactor betas help capture current expected returns on mispriced stocks, persistence in those betas distorts the stocks' implied expected returns after prices correct. These results are most evident in large-cap stocks, whose multifactor betas are the most persistent.  Hence, prominent multifactor models distort expected returns, absent mispricing, for even the largest, most liquid stocks.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playlisting Favorites: Measuring Platform Bias in the Music Industry -- by Luis Aguiar, Joel Waldfogel, Sarah B. Waldfogel]]></title>
+        <id>https://www.nber.org/papers/w29017#fromrss</id>
+        <link href="https://www.nber.org/papers/w29017#fromrss"/>
+        <updated>2021-07-13T21:09:56.074Z</updated>
+        <summary type="html"><![CDATA[Platforms are growing increasingly powerful, raising questions about whether their power might be exercised with bias. While bias is inherently difficult to measure, we identify a context within the music industry that is amenable to bias testing. Our approach requires ex ante platform assessments of commercial promise - such as the rank order in which products are presented - along with information on eventual product success. A platform is biased against a product type if the type attains greater success, conditional on ex ante assessment. Theoretical considerations and voiced industry concerns suggest the possibility of platform biases in favor of major record labels, and industry participants also point to bias against women. Using data on Spotify curators' rank of songs on New Music Friday playlists in 2017, we find that Spotify's New Music Friday rankings favor independent-label music, along with some evidence of bias in favor of music by women. Despite challenges that independent-label artists and women face in the music industry, Spotify's New Music curation appears to favor them.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting -- by Panle Jia Barwick, Shanjun Li, Andrew R. Waxman, Jing Wu, Tianli Xia]]></title>
+        <id>https://www.nber.org/papers/w29012#fromrss</id>
+        <link href="https://www.nber.org/papers/w29012#fromrss"/>
+        <updated>2021-07-13T21:09:56.027Z</updated>
+        <summary type="html"><![CDATA[We estimate an equilibrium model of residential sorting with endogenous traffic congestion to evaluate the efficiency and equity impacts of urban transportation policies.  Leveraging fine-scale data on household travel diaries and housing transactions with home and work locations in Beijing, we jointly estimate travel mode and residential location decisions. The estimation highlights the importance of incorporating work commute in housing decisions and features preference heterogeneity for the ease of work commute by gender. Counterfactual simulations show that while different policies can attain the same level of congestion reduction, their impacts on residential sorting and social welfare are drastically different. First, a driving restriction intensifies income-stratified urban structure where high-income households live closer to subway and work. Distance-based congestion pricing reduces the spatial separation between residence and workplace across income levels, while subway expansion does the opposite. Second,  residential sorting strengthens the effectiveness of congestion pricing in improving traffic conditions but undermines that of the driving restriction and subway expansion. Third, the driving restriction is welfare reducing as it leads to large distortions on travel choices. Congestion pricing improves welfare but is regressive, highlighting the need to recycle revenue to address the associated equity concern. Finally, congestion pricing and subway expansion when combined deliver the largest congestion relief and efficiency gain and at the same time achieve self-financing, with revenue from congestion pricing fully covering the cost of subway expansion.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collective Progress: Dynamics of Exit Waves -- by Doruk Cetemen, Can Urgun, Leeat Yariv]]></title>
+        <id>https://www.nber.org/papers/w29008#fromrss</id>
+        <link href="https://www.nber.org/papers/w29008#fromrss"/>
+        <updated>2021-07-13T21:09:55.991Z</updated>
+        <summary type="html"><![CDATA[We study a model of collective search by teams. Discoveries beget discoveries and correlated search results are governed by a Brownian path. Search results' variation at any point---the search scope---is jointly controlled. Agents individually choose when to cease search and implement their best discovery. We characterize equilibrium and optimal policies. Search scope is constant and independent of search outcomes as long as no member leaves. It declines after departures. A simple drawdown stopping boundary governs each agent’s search termination. We show the emergence of endogenous exit waves, whereby possibly heterogeneous agents cease search all at once.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Denial a Day Keeps the Doctor Away -- by Abe Dunn, Joshua D. Gottlieb, Adam Shapiro, Daniel J. Sonnenstuhl, Pietro Tebaldi]]></title>
+        <id>https://www.nber.org/papers/w29010#fromrss</id>
+        <link href="https://www.nber.org/papers/w29010#fromrss"/>
+        <updated>2021-07-13T21:09:55.974Z</updated>
+        <summary type="html"><![CDATA[Who bears the consequences of administrative problems in healthcare?  We use data on repeated interactions between a large sample of U.S. physicians and many different insurers to document the complexity of healthcare billing, and estimate its economic costs for doctors and consequences for patients.  Observing the back-and-forth sequences of claims' denials and resubmissions for past visits, we can estimate physicians' costs of haggling with insurers to collect payments.  Combining these costs with the revenue never collected, we estimate that physicians lose 17% of Medicaid revenue to billing problems, compared with 5% for Medicare and 3% for commercial payers.  Identifying off of physician movers and practices that span state boundaries, we find that physicians respond to billing problems by refusing to accept Medicaid patients in states with more severe billing hurdles.  These hurdles are just as quantitatively important  as payment rates for explaining variation in physicians' willing to treat Medicaid patients.  We conclude that administrative frictions have first-order costs for doctors, patients, and equality of access to healthcare.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trade, Competitive Exclusion, and the Slow-Motion Extinction of the Southern Resident Killer Whales -- by M. Scott Taylor]]></title>
+        <id>https://www.nber.org/papers/w29014#fromrss</id>
+        <link href="https://www.nber.org/papers/w29014#fromrss"/>
+        <updated>2021-07-13T21:09:55.932Z</updated>
+        <summary type="html"><![CDATA[Orcinus Orca is the world's largest predator, and simultaneously a significant tourist asset and cultural icon for much of the Pacific Northwest.  In the past two decades, the Southern Resident Killer whales (SRKW) have declined by more than 25 percent, and this population appears on a slow-motion path towards extinction.  This paper combines elements from biology and economics to put forward a new methodology for investigating their collapse and presents empirical work supporting its novel explanation - the Orca Conjecture.  The key mechanism is ecological - Gause's law of competitive exclusion - combined with a shock coming from booming trade with Asia. Using three different empirical methods drawn from economics, I find the attendant noise disturbance from increased ship traffic post-1998 has lowered births and raised deaths significantly, placing the SRKW on a slow-motion path towards extinction.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Body-Worn Cameras and Adjudication of Citizen Complaints of Police Misconduct -- by Suat Çubukçu, Nusret M. Sahin, Erdal Tekin, Volkan Topalli]]></title>
+        <id>https://www.nber.org/papers/w29019#fromrss</id>
+        <link href="https://www.nber.org/papers/w29019#fromrss"/>
+        <updated>2021-07-13T21:09:55.906Z</updated>
+        <summary type="html"><![CDATA[Police body-worn cameras (BWCs) have been the subject of much research on how the technology’s enhanced documentation of police/citizen interactions impact police behavior. Less attention has been paid to how BWC recordings affect the adjudication of citizen complaints against the police. We employ citizen complaint data from the Chicago Police Department and Civilian Office of Police Accountability filed between 2012-2020 to determine the extent to which BWC footage enhances the efficacy of evidence used to formulate a conclusion of responsibility, and whether bias against complainants based on race would subsequently be reduced. Accordingly, we exploit the staggered deployment of BWCs across 22 Chicago police districts over time to estimate the effect of BWCs on these outcomes. Our findings indicate that BWCs led to a significant decrease in the dismissal of investigations due to insufficient evidence ("not sustained") as well as a significant increase in disciplinary actions against police officers ("sustained" outcomes”) with sufficient evidence to sanction their misconduct. We further find that disparities in complaints across racial groups for the “unsustained” category fade away with the implementation of BWCs.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entrepot: Hubs, Scale, and Trade Costs -- by Sharat Ganapati, Woan Foong Wong, Oren Ziv]]></title>
+        <id>https://www.nber.org/papers/w29015#fromrss</id>
+        <link href="https://www.nber.org/papers/w29015#fromrss"/>
+        <updated>2021-07-13T21:09:55.709Z</updated>
+        <summary type="html"><![CDATA[Entrepôts are hubs that facilitate trade between multiple origins and destinations. We study these entrepôts, the network they form, and their impact on international trade. We document that the trade network is a hub-and-spoke system, where 80% of trade is shipped indirectly—nearly all via entrepôts. We estimate indirect-shipping consistent trade costs using a model where shipments can be sent indirectly through an endogenous transport network and develop a geography-based instrument to estimate economies of scale in shipping. Counterfactual infrastructure improvements at entrepôts have on average ten times the global welfare impact of improvements at non-entrepôts.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution of Market Power in the US Auto Industry -- by Paul L. E. Grieco, Charles Murry, Ali Yurukoglu]]></title>
+        <id>https://www.nber.org/papers/w29013#fromrss</id>
+        <link href="https://www.nber.org/papers/w29013#fromrss"/>
+        <updated>2021-07-13T21:09:55.678Z</updated>
+        <summary type="html"><![CDATA[We construct measures of industry performance and welfare in the U.S. car and light truck market from 1980-2018. We estimate a differentiated products demand model for this market using product level data on market shares, prices, and product characteristics, and consumer level data on demographics, purchases, and stated second choices. We estimate marginal costs under the conduct assumption of Nash-Bertrand pricing. We relate trends in consumer welfare and markups to industry trends in market structure and the composition of products, like the rise of import competition, the proliferation of SUV's, and changes in vehicle characteristics. We find that although prices rose over time, concentration and market power decreased substantially. Consumer welfare increased over time due to improving product quality and falling marginal costs. The fraction of total surplus accruing to consumers also increased.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-Modernization: Power-Culture Trajectories and the Dynamics of Political Institutions -- by Daron Acemoglu, James A. Robinson]]></title>
+        <id>https://www.nber.org/papers/w29007#fromrss</id>
+        <link href="https://www.nber.org/papers/w29007#fromrss"/>
+        <updated>2021-07-13T21:09:55.582Z</updated>
+        <summary type="html"><![CDATA[Modernization theory is a cornerstone of much of political science, despite the mounting evidence against its predictions. In this paper, we argue that the theory's failings are rooted in predictions that are not conditioned on history and cultural configurations. We outline a theory in which the interplay of the distribution of political power and cultural configurations lead to three distinct self-reinforcing paths of political development, with very different state-society relations, institutions, and economic structures. These are paths to Despotic, Absent and Shackled leviathans. The role of cultural configurations, made up of attributes in a society's culture set, is critical in legitimizing the social arrangements in each path. For example, a Despotic Leviathan, as in China, cannot be understood without appreciating how Confucian culture has been used to bolster a worldview in which rulers are supposed to be virtuous and regular people are discouraged from political participation. We argued that this interpretation is not inherent to Confucian thought, but has to be understood as an endogenous outcome along the trajectory to the Despotic Leviathan. None of the three different paths we highlight support modernization theory. Under the Absent Leviathan, there is no economic modernization. Under the Despotic Leviathan, economic growth bolsters the existing regime and its supporting cultural configuration, with no tendency towards democracy or associate political changes. Under the Shackled Leviathan, there are dynamics leading to economic growth and political changes with greater bottom-up participation. Nevertheless, the causation does not go from the former to the latter, and these changes are critically dependent on cultural and political entrepreneurship in order to formulate and popularize new cultural configurations and institutionalize political changes.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Assets and Weak Factors -- by Stefano Giglio, Dacheng Xiu, Dake Zhang]]></title>
+        <id>https://www.nber.org/papers/w29002#fromrss</id>
+        <link href="https://www.nber.org/papers/w29002#fromrss"/>
+        <updated>2021-07-13T21:09:55.554Z</updated>
+        <summary type="html"><![CDATA[Estimation and testing of factor models in asset pricing requires choosing a set of test assets. The choice of test assets determines how well different factor risk premia can be identified: if only few assets are exposed to a factor, that factor is weak, which makes standard estimation and inference incorrect. In other words, the strength of a factor is not an inherent property of the factor: it is a property of the cross-section used in the analysis. We propose a novel way to select assets from a universe of test assets and estimate the risk premium of a factor of interest, as well as the entire stochastic discount factor, that explicitly accounts for weak factors and test assets with highly correlated risk exposures. We refer to our methodology as supervised principal component analysis (SPCA), because it iterates an asset selection step and a principal-component estimation step. We provide the asymptotic properties of our estimator, and compare its limiting behavior with that of alternative estimators proposed in the recent literature, which rely on PCA, Ridge, Lasso, and Partial Least Squares (PLS). We find that the SPCA is superior in the presence of weak factors, both in theory and in finite samples. We illustrate the use of SPCA by applying it to estimate the risk premia of several tradable and nontradable factors, to evaluate asset managers’ performance, and to de-noise asset pricing factors.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Policies to Increase Access to Treatment for Opioid Use Disorder Work? -- by Eric Barrette, Leemore Dafny, Karen Shen]]></title>
+        <id>https://www.nber.org/papers/w29001#fromrss</id>
+        <link href="https://www.nber.org/papers/w29001#fromrss"/>
+        <updated>2021-07-13T21:09:55.540Z</updated>
+        <summary type="html"><![CDATA[Even among commercially-insured individuals, opioid use disorder (OUD) is undertreated in the U.S.: nearly half receive no treatment within 6 months of a new diagnosis. Using a difference-in-differences specification exploiting the extension of insurance parity requirements for substance disorder treatment to small group enrollees in 2014, we find that parity increases utilization of residential treatment but decreases utilization of agonist medications, the standard of care. We find direct interventions to increase access to medication may be more promising: increases in the county-level share of physicians able to prescribe agonists are associated with substitution toward medication-assisted treatment.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking Weekly State-Level Economic Conditions -- by Christiane Baumeister, Danilo Leiva-León, Eric R. Sims]]></title>
+        <id>https://www.nber.org/papers/w29003#fromrss</id>
+        <link href="https://www.nber.org/papers/w29003#fromrss"/>
+        <updated>2021-07-13T21:09:55.525Z</updated>
+        <summary type="html"><![CDATA[In this paper, we develop a novel dataset of weekly economic conditions indices for the 50 U.S. states going back to 1987 based on mixed-frequency dynamic factor models with weekly, monthly, and quarterly variables that cover multiple dimensions of state economies. We show that there is considerable heterogeneity in the length, depth, and timing of business cycles across individual states. We assess the role of states in national recessions and propose an aggregate indicator that allows us to gauge the overall weakness of the U.S. economy. We also illustrate the usefulness of these state-level indices for quantifying the main forces contributing to the economic collapse caused by the COVID-19 pandemic and for evaluating the effectiveness of federal economic policies like the Paycheck Protection Program.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dynastic Benefits of Early Childhood Education -- by Jorge Luis García, Frederik H. Bennhoff, Duncan Ermini Leaf, James J. Heckman]]></title>
+        <id>https://www.nber.org/papers/w29004#fromrss</id>
+        <link href="https://www.nber.org/papers/w29004#fromrss"/>
+        <updated>2021-07-13T21:09:55.497Z</updated>
+        <summary type="html"><![CDATA[This paper monetizes the life-cycle intragenerational and intergenerational benefits of the Perry Preschool Project, a pioneering high-quality early childhood education program implemented before Head Start that targeted disadvantaged African-Americans and was evaluated by a randomized trial. It has the longest follow-up of any experimentally evaluated early childhood education program. We follow participants into late midlife as well as their children into adulthood. Impacts on the original participants and their children generate substantial benefits. Access to life-cycle data enables us to evaluate the accuracy of widely used schemes to forecast life-cycle benefits from early-life test scores, which we find wanting.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welfare Costs of Idiosyncratic and Aggregate Consumption Shocks -- by George M. Constantinides]]></title>
+        <id>https://www.nber.org/papers/w29009#fromrss</id>
+        <link href="https://www.nber.org/papers/w29009#fromrss"/>
+        <updated>2021-07-13T21:09:55.472Z</updated>
+        <summary type="html"><![CDATA[I estimate welfare benefits of eliminating idiosyncratic consumption shocks unrelated to the business cycle as 47.3% of household utility and benefits of eliminating idiosyncratic shocks related to the business cycle as 3.4% of utility. Estimates of the former substantially exceed earlier ones because I distinguish between idiosyncratic shocks related/unrelated to the business cycle, estimate the negative skewness of shocks, target moments of idiosyncratic shocks from household-level CEX data, and target market moments. Benefits of eliminating aggregate shocks are 7.7% of utility. Policy should focus on insuring idiosyncratic shocks unrelated to the business cycle, such as the death of a household’s prime wage earner and job layoffs not necessarily related to recessions.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epidemic Exposure, Fintech Adoption, and the Digital Divide -- by Orkun Saka ⓡ, Barry Eichengreen ⓡ, Cevat Giray Aksoy]]></title>
+        <id>https://www.nber.org/papers/w29006#fromrss</id>
+        <link href="https://www.nber.org/papers/w29006#fromrss"/>
+        <updated>2021-07-13T21:09:55.444Z</updated>
+        <summary type="html"><![CDATA[We ask whether epidemic exposure leads to a shift in financial technology usage within and across countries and if so who participates in this shift. We exploit a dataset combining Gallup World Polls and Global Findex surveys for some 250,000 individuals in 140 countries, merging them with information on the incidence of epidemics and local 3G internet infrastructure. Epidemic exposure is associated with an increase in remote-access (online/mobile) banking and substitution from bank branch-based to ATM-based activity. Using a machine-learning algorithm, we show that heterogeneity in this response centers on the age, income and employment of respondents. Young, high-income earners in full-time employment have the greatest propensity to shift to online/mobile transactions in response to epidemics. These effects are larger for individuals in subnational regions with better ex ante 3G signal coverage, highlighting
+the role of the digital divide in adaption to new technologies necessitated by adverse external shocks.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voting in Shareholders Meetings -- by Laurent Bouton, Aniol Llorente-Saguer, Antonin Macé, Dimitrios Xefteris]]></title>
+        <id>https://www.nber.org/papers/w29005#fromrss</id>
+        <link href="https://www.nber.org/papers/w29005#fromrss"/>
+        <updated>2021-07-13T21:09:55.428Z</updated>
+        <summary type="html"><![CDATA[This paper studies voting in shareholders meetings. We focus on the informational efficiency of different voting mechanisms, taking into account that they affect both management's incentives before the meeting and shareholders' decisions at the meeting. We first focus on the case in which the management does not affect the proposal being voted on. We prove that, for any distribution of shareholdings, the one-share-one-vote mechanism (1S1V) dominates the one-person-one-vote mechanism (1P1V), independently of whether or how shareholdings correlate with information accuracy. We also show that 1S1V becomes efficient only if votes are fully divisible. Second, we consider the case in which the management decides whether to put the proposal to a vote. The properties of a voting mechanism then depend both on its voting efficiency and on how it affects managers' incentives to select good proposals. We uncover a trade-off between selection and voting efficiency underlying the comparison of 1S1V and 1P1V: the higher voting efficiency of 1S1V implies worse selection incentives. In some cases, the negative effect of worse selection incentives on shareholders' welfare can be large enough to wash out the higher voting efficiency of 1S1V.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Few Excerpts from a Local Commercial Real Estate Report: "Good news is construction activity has all but stopped"]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/FEe0z9egs0c/a-few-excerpts-from-local-commercial.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/FEe0z9egs0c/a-few-excerpts-from-local-commercial.html"/>
+        <updated>2021-07-13T20:54:00.002Z</updated>
+        <summary type="html"><![CDATA[Voit Real Estate Services released their Q2 reports on Commercial Real Estate (CRE) in SoCal.  Here are a few excerpts from the Orange County Office report:
+"The Orange County office market struggled again in 2Q. It had already been slowing before the pandemic hit, and by virtue of the higher employee density and multi-tenant configuration of office product, the office sector was hit harder by COVID than other sectors. Vacancy and availability both moved higher, and net absorption remained in negative territory. Average asking lease rates were relatively flat, but they alone do not tell the full story, as landlord concessions have risen sharply and are not reflected in market metrics. Office tenants are still trying to sort out how to fold their workforces back into the office, and that ha…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[July 13th COVID-19, New Cases, Hospitalizations, Vaccinations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/GM_9uU0d0os/july-13th-covid-19-new-cases.html</id>
