@@ -766,6 +766,15 @@
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
         {
+          "id": "https://www.aeaweb.org/research/charts/child-penalties-biological-adoptive-families",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Biological factors, such as childbearing and breastfeeding, can’t explain earnings inequality between men and women after the birth of a child, according to a paper in the American Economic Review: Insights.",
+          "link": "https://www.aeaweb.org/research/charts/child-penalties-biological-adoptive-families",
+          "publishedOn": "2021-07-14T15:00:00.000Z",
+          "wordCount": 486,
+          "title": "Understanding the child penalty"
+        },
+        {
           "id": "https://www.aeaweb.org/research/familial-ties-network-thrones",
           "author": "Chris Fleisher (research.highlights@aeapubs.org)",
           "description": "Ties between royal European families, particularly through marriage, secured peace between dynasties and played a big role in the decline in war after 1800, according to a paper in the American Economic Journal: Applied Economics.",
@@ -993,6 +1002,33 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Mio-7GADD9Y/rhode-island-real-estate-in-june-sales.html",
+          "author": null,
+          "description": "Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.\nFor for the entire state of Rhode Island:\nClosed sales (single family and condos) in June 2021 were 1,473, up 31.2% from 1,123 in June 2020.\nActive Listings (single family and condos) in June 2021 were 1,985, down 33.1% from 2,966 in June 2020.\nInventory in June was up 74% from last month.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Mio-7GADD9Y/rhode-island-real-estate-in-june-sales.html",
+          "publishedOn": "2021-07-14T15:51:00.001Z",
+          "wordCount": 882,
+          "title": "Rhode Island Real Estate in June: Sales Up 31% YoY, Inventory Down 33% YoY"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Sh5VNscSdkg/fed-chair-powell-semiannual-monetary.html",
+          "author": null,
+          "description": "This testimony will be live here at 12PM ET.\nFrom Fed Chair Powell: Semiannual Monetary Policy Report to the Congress.  An excerpt on inflation: \nInflation has increased notably and will likely remain elevated in coming months before moderating. Inflation is being temporarily boosted by base effects, as the sharp pandemic-related price declines from last spring drop out of the 12-month calculation. In addition, strong demand in sectors where production bottlenecks or other supply constraints have limited production has led to especially rapid price increases for some goods and services, which should partially reverse as the effects of the bottlenecks unwind. Prices for services that were hard hit by the pandemic have also jumped in recent months as demand for these services has surged with the reopening of the economy.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Sh5VNscSdkg/fed-chair-powell-semiannual-monetary.html",
+          "publishedOn": "2021-07-14T14:22:00.001Z",
+          "wordCount": 930,
+          "title": "Fed Chair Powell: Semiannual Monetary Policy Report to the Congress"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/MXsnV_FIoZk/first-look-at-2022-cost-of-living.html",
+          "author": null,
+          "description": "The BLS reported yesterday morning:\nThe Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) increased 6.1 percent over the last 12 months to an index level of 266.412 (1982-84=100). For the month, the index rose 1.1 percent prior to seasonal adjustment.\nCPI-W is the index that is used to calculate the Cost-Of-Living Adjustments (COLA). The calculation dates have changed over time (see Cost-of-Living Adjustments), but the current calculation uses the average CPI-W for the three months in Q3 (July, August, September) and compares to the average for the highest previous average of Q3 months. Note: this is not the headline CPI-U, and is not seasonally adjusted (NSA).\n• In 2020, the Q3 average of CPI-W was 253.412.\nThe 2020 Q3 average was the highest Q3 average, so we only have to compare Q3 this year to last year.\n Click on graph for larger image.\nThis graph shows CPI-W since January 2000. The red lines are the Q3 average of CPI-W for each year.\nNote: The year labeled for the calculation, and the adjustment is effective for December of that year (received by beneficiaries in January of the following year).\nCPI-W was up 6.1% year-over-year in June, and although this is very early - we need the data for July, August and September - my current guess is COLA will probably be around 5.5% this year, the largest increase since 5.8% in 2008 - and it is possible this will be the largest increase since 1982 (7.4%).\nContribution and Benefit Base\nThe contribution base will be adjusted using the National Average Wage Index. This is based on a one year lag. The National Average Wage Index is not available for 2020 yet, but wages probably increased again in 2020. If wages increased the same as in 2019, then the contribution base next year will increase to around $148,200 in 2022, from the current $142,800.\nRemember - this is an early look.  What matters is average CPI-W, NSA, for all three months in Q3 (July, August and September).",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/MXsnV_FIoZk/first-look-at-2022-cost-of-living.html",
+          "publishedOn": "2021-07-14T14:12:00.002Z",
+          "wordCount": 1140,
+          "title": "First Look at 2022 Cost-Of-Living Adjustments and Maximum Contribution Base"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/VC5rj51NL3w/mba-mortgage-applications-increase-in.html",
           "author": null,
