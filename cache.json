@@ -473,6 +473,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/how-boards-and-shareholders-design-ceo-pay-and-where-they-disagree",
+          "author": "Alex Edmans, Tom  Gosling, Dirk Jenter",
+          "description": "How CEO pay is set has been studied extensively, but most theoretical models do not capture whether real-world CEOs care about, for example, their reputation, fairness, or being appreciated by directors and investors. This column explores this using a survey of over 200 non-executive directors of FTSE All-Share companies and over 150 institutional investors in UK equities. While financial incentives are relevant to motivating CEOs, both CEOs and investors view a CEO’s intrinsic motivation and personal reputation as most important. Fairness matters – CEOs believe it is fair to be recognised for a job well done.",
+          "link": "https://voxeu.org/article/how-boards-and-shareholders-design-ceo-pay-and-where-they-disagree",
+          "publishedOn": "2021-07-15T00:00:00.000Z",
+          "wordCount": 2727,
+          "title": "How boards and shareholders design CEO pay – and where they disagree"
+        },
+        {
+          "id": "https://voxeu.org/article/container-shipping-and-us-business-cycle-fluctuations",
+          "author": "Lutz Kilian, Nikolaos Nomikos, Xiaoqing Zhou",
+          "description": "An essential feature of the globalisation of the economy since the 1990s has been the growing importance of sea-borne container trade for supply chains. This column develops a monthly index of North American container trade since 1997 and incorporates it into a model of the US economy. It shows that rising and falling frictions in container shipping markets help explain the US business cycle and recovery from the Covid-19 recession. The model suggests that the recovery since the start of the pandemic has been slower than raw data suggest and finds evidence of favourable foreign demand and container market shocks.",
+          "link": "https://voxeu.org/article/container-shipping-and-us-business-cycle-fluctuations",
+          "publishedOn": "2021-07-15T00:00:00.000Z",
+          "wordCount": 2158,
+          "title": "Container shipping and US business cycle fluctuations"
+        },
+        {
+          "id": "https://voxeu.org/article/effects-us-china-trade-war-firms-vacancy-postings",
+          "author": "Chuan He, Karsten Mau, Mingzhi (Jimmy) Xu",
+          "description": "Tariffs are often advertised as an effective tool to protect or even create jobs in specific industries. Empirical evidence suggests differently. Using data from a Chinese online job portal, this column documents how firms facing US tariff increases during the recent trade war posted fewer jobs and offered lower salaries, among other adjustments. Chinese retaliatory tariffs have not induced any systematic adjustments in firms’ vacancy postings. The winners of the trade war remain elusive while losers can be found on both sides.",
+          "link": "https://voxeu.org/article/effects-us-china-trade-war-firms-vacancy-postings",
+          "publishedOn": "2021-07-15T00:00:00.000Z",
+          "wordCount": 2595,
+          "title": "The effects of the US-China trade war on firms’ vacancy postings"
+        },
+        {
           "id": "https://voxeu.org/article/marriage-market-sorting-labour-market-sorting-and-inequality",
           "author": "Paula Calvo, Ilse Lindenlaub, Ana Reynoso",
           "description": "While progress in closing gender gaps has been made, women around the world still earn less than men in the labour market. At the same time, income inequality across households has increased in recent decades. This column finds that the interaction of the marriage market and the labour market crucially impacts inequality across gender and within/between households. Policies that affect who marries whom (such as tax policies) or home production choices (such as parental leave or universal childcare) can mitigate or amplify inequality, calling for a better understanding of these spillovers across markets.",
@@ -887,6 +914,15 @@
       "feedUrl": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe",
       "siteUrl": "https://www.journals.uchicago.edu/loi/jpe?af=R",
       "articles": [
+        {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/714992?af=R",
+          "author": "Armin Falk",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/714992?af=R",
+          "publishedOn": "2021-07-14T01:51:47.000Z",
+          "wordCount": 127,
+          "title": "Socioeconomic Status and Inequalities in Children’s IQ and Economic Preferences"
+        },
         {
           "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715021?af=R",
           "author": "Amir Rubin",
