@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-16T00:38:39.885Z</updated>
+    <updated>2021-07-16T04:15:02.838Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Friday: Retail Sales]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/fSH3N3lUueg/friday-retail-sales.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/fSH3N3lUueg/friday-retail-sales.html"/>
+        <updated>2021-07-16T00:59:00.001Z</updated>
+        <summary type="html"><![CDATA[Friday:
+• At 8:30 AM ET, Retail sales for June is scheduled to be released.  The consensus is for 0.4% decrease in retail sales.  Retail sales ex-gasoline were down 1.5% in May.
+• At 10:00 AM, University of Michigan's Consumer sentiment index (Preliminary for July).
+• At 10:00 AM, State Employment and Unemployment (Monthly) for June 2020]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ECB’s new monetary policy strategy]]></title>
+        <id>https://voxeu.org/article/ecb-s-new-monetary-policy-strategy</id>
+        <link href="https://voxeu.org/article/ecb-s-new-monetary-policy-strategy"/>
+        <updated>2021-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The outcome of the long-awaited second review of the ECB’s monetary policy strategy was communicated by the central bank on 8 July 2020. This column argues that the review constitutes a mixed bag. The asymmetry of the inflation target, a long standing source of ambiguity and potential policy mistakes, has been corrected by announcing a symmetric central target at 2%. But major ambiguities remain concerning the width of the tolerance band around 2%, the definition of the relevant price index, the interpretation of the inflation process, and the way monetary policy is prepared to team-up with fiscal authorities to preserve the euro’s stability going forward. All in all, the glass remains half-empty and the water it contains is somewhat muddy.]]></summary>
+        <author>
+            <name>Ignazio Angeloni, Daniel Gros</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How businesses are surviving Covid-19]]></title>
+        <id>https://voxeu.org/article/how-businesses-are-surviving-covid-19</id>
+        <link href="https://voxeu.org/article/how-businesses-are-surviving-covid-19"/>
+        <updated>2021-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As the economy locked down in March 2020, businesses across the UK struggled to operate. And yet, fewer firms declared bankruptcy during the pandemic than in preceding years. This column introduces a model designed to examine the economic impact of Covid-19. It determines that government assistance rescued previously profitable firms that might not have survived lockdowns, but also propped up weaker firms that would have failed in normal times. The difficulties in effectively targeting aid justifies the expansive support distributed during the crisis.]]></summary>
+        <author>
+            <name>Sebastian Barnes, Robert Hillman, George Wharf, Duncan MacDonald</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[July 15th COVID-19, New Cases, Hospitalizations, Vaccinations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/WLLoLH7tCWc/july-15th-covid-19-new-cases.html</id>
@@ -4990,16 +5023,6 @@ Chapter 07 앱에 불 붙이기- 플러터 앱에 파이어베이스 통합하�
 국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variation in punishment]]></title>
-        <id>https://www.aeaweb.org/research/charts/racial-divisions-criminal-justice-south</id>
-        <link href="https://www.aeaweb.org/research/charts/racial-divisions-criminal-justice-south"/>
-        <updated>2021-06-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Racially heterogeneous counties in the US South tend to have harsher sentencing practices than more homogeneous ones, according to a paper in the American Economic Journal: Economic Policy.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>

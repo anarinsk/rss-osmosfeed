@@ -509,6 +509,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/ecb-s-new-monetary-policy-strategy",
+          "author": "Ignazio Angeloni, Daniel Gros",
+          "description": "The outcome of the long-awaited second review of the ECB’s monetary policy strategy was communicated by the central bank on 8 July 2020. This column argues that the review constitutes a mixed bag. The asymmetry of the inflation target, a long standing source of ambiguity and potential policy mistakes, has been corrected by announcing a symmetric central target at 2%. But major ambiguities remain concerning the width of the tolerance band around 2%, the definition of the relevant price index, the interpretation of the inflation process, and the way monetary policy is prepared to team-up with fiscal authorities to preserve the euro’s stability going forward. All in all, the glass remains half-empty and the water it contains is somewhat muddy.",
+          "link": "https://voxeu.org/article/ecb-s-new-monetary-policy-strategy",
+          "publishedOn": "2021-07-16T00:00:00.000Z",
+          "wordCount": 2072,
+          "title": "The ECB’s new monetary policy strategy"
+        },
+        {
+          "id": "https://voxeu.org/article/how-businesses-are-surviving-covid-19",
+          "author": "Sebastian Barnes, Robert Hillman, George Wharf, Duncan MacDonald",
+          "description": "As the economy locked down in March 2020, businesses across the UK struggled to operate. And yet, fewer firms declared bankruptcy during the pandemic than in preceding years. This column introduces a model designed to examine the economic impact of Covid-19. It determines that government assistance rescued previously profitable firms that might not have survived lockdowns, but also propped up weaker firms that would have failed in normal times. The difficulties in effectively targeting aid justifies the expansive support distributed during the crisis.",
+          "link": "https://voxeu.org/article/how-businesses-are-surviving-covid-19",
+          "publishedOn": "2021-07-16T00:00:00.000Z",
+          "wordCount": 1853,
+          "title": "How businesses are surviving Covid-19"
+        },
+        {
           "id": "https://voxeu.org/article/how-boards-and-shareholders-design-ceo-pay-and-where-they-disagree",
           "author": "Alex Edmans, Tom  Gosling, Dirk Jenter",
           "description": "How CEO pay is set has been studied extensively, but most theoretical models do not capture whether real-world CEOs care about, for example, their reputation, fairness, or being appreciated by directors and investors. This column explores this using a survey of over 200 non-executive directors of FTSE All-Share companies and over 150 institutional investors in UK equities. While financial incentives are relevant to motivating CEOs, both CEOs and investors view a CEO’s intrinsic motivation and personal reputation as most important. Fairness matters – CEOs believe it is fair to be recognised for a job well done.",
@@ -899,15 +917,6 @@
           "publishedOn": "2021-06-18T15:00:00.000Z",
           "wordCount": 952,
           "title": "Collaborative versus adversarial contact"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/racial-divisions-criminal-justice-south",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Racially heterogeneous counties in the US South tend to have harsher sentencing practices than more homogeneous ones, according to a paper in the American Economic Journal: Economic Policy.",
-          "link": "https://www.aeaweb.org/research/charts/racial-divisions-criminal-justice-south",
-          "publishedOn": "2021-06-16T15:00:00.000Z",
-          "wordCount": 464,
-          "title": "Variation in punishment"
         }
       ]
     },
@@ -1011,6 +1020,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fSH3N3lUueg/friday-retail-sales.html",
+          "author": null,
+          "description": "Friday:\n• At 8:30 AM ET, Retail sales for June is scheduled to be released.  The consensus is for 0.4% decrease in retail sales.  Retail sales ex-gasoline were down 1.5% in May.\n• At 10:00 AM, University of Michigan's Consumer sentiment index (Preliminary for July).\n• At 10:00 AM, State Employment and Unemployment (Monthly) for June 2020",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fSH3N3lUueg/friday-retail-sales.html",
+          "publishedOn": "2021-07-16T00:59:00.001Z",
+          "wordCount": 842,
+          "title": "Friday: Retail Sales"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/WLLoLH7tCWc/july-15th-covid-19-new-cases.html",
           "author": null,
