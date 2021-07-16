@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-16T08:14:11.955Z</updated>
+    <updated>2021-07-16T12:18:29.440Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -17,6 +17,18 @@
 • At 10:00 AM, State Employment and Unemployment (Monthly) for June 2020]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A cure for Friday morning fever]]></title>
+        <id>https://voxeu.org/vox-talks/cure-friday-morning-fever</id>
+        <link href="https://voxeu.org/vox-talks/cure-friday-morning-fever"/>
+        <updated>2021-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[People everywhere sometimes pretend to be sick on a Friday because a day off work means a three-day weekend. In Italy, sick workers may now get a surprise home visit from the doctor. Tito Boeri tells Tim Phillips how effective this has been as a cure for "Friday morning fever".
+The paper discussed is:
+Boeri, T, Di Porto, E, Naticchioni, P and Scrutinio, V. 2021. 'Friday Morning Fever. Evidence from a Randomized Experiment on Sick Leave Monitoring in the Public Sector.'. London, Centre for Economic Policy Research. https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16104]]></summary>
+        <author>
+            <name>Tito Boeri</name>
         </author>
     </entry>
     <entry>
