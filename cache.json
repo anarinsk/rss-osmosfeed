@@ -518,6 +518,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/long-run-effects-pandemics-inflation",
+          "author": "Dennis Bonam, Andra  Smădu",
+          "description": "How did past major pandemics affect inflation dynamics? This column estimates the long-run effects of pandemics on trend inflation in Europe using historical data since the 14th century. We find that, following a pandemic event, trend inflation falls steadily below its initial level for nearly a decade. This long-run depressing effect is also observed in major individual European countries – France, Germany, Italy, the Netherlands, and the UK. The authors conclude by discussing why the effects of the COVID-19 pandemic on inflation could play out differently this time around.",
+          "link": "https://voxeu.org/article/long-run-effects-pandemics-inflation",
+          "publishedOn": "2021-07-18T00:00:00.000Z",
+          "wordCount": 2389,
+          "title": "The long-run effects of pandemics on inflation"
+        },
+        {
           "id": "https://voxeu.org/article/foreign-investment-european-integration-and-single-market",
           "author": "Randolph Bruno, Nauro Campos, Saul Estrin",
           "description": "Do different economic integration arrangements vary in terms of their capacity to attract foreign direct investment? This column uses a structural gravity framework on annual bilateral FDI data for 142 countries between 1985 and 2018 to revisit this question. It finds that deep integration in the form of EU membership increases FDI by about 60% from outside the EU and by about 50% from within the EU. The effect of EU membership on FDI appears to be significantly larger than that from the less deep integration arrangements (EFTA, NAFTA, or MERCOSUR), with the Single Market the cornerstone of this differential impact.",
@@ -953,15 +962,6 @@
           "publishedOn": "2021-06-21T15:00:00.000Z",
           "wordCount": 410,
           "title": "How COVID-19 exacerbated the gender gap in academia"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/collaborative-adversarial-caste-integration-cricket",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "India’s most popular sport may offer insights into reducing caste prejudices. A key feature of positive integration is having people work toward shared goals, according to a paper in the American Economic Review.",
-          "link": "https://www.aeaweb.org/research/collaborative-adversarial-caste-integration-cricket",
-          "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 952,
-          "title": "Collaborative versus adversarial contact"
         }
       ]
     },

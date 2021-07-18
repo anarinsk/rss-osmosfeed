@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-18T00:39:23.614Z</updated>
+    <updated>2021-07-18T04:15:03.986Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The long-run effects of pandemics on inflation]]></title>
+        <id>https://voxeu.org/article/long-run-effects-pandemics-inflation</id>
+        <link href="https://voxeu.org/article/long-run-effects-pandemics-inflation"/>
+        <updated>2021-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How did past major pandemics affect inflation dynamics? This column estimates the long-run effects of pandemics on trend inflation in Europe using historical data since the 14th century. We find that, following a pandemic event, trend inflation falls steadily below its initial level for nearly a decade. This long-run depressing effect is also observed in major individual European countries – France, Germany, Italy, the Netherlands, and the UK. The authors conclude by discussing why the effects of the COVID-19 pandemic on inflation could play out differently this time around.]]></summary>
+        <author>
+            <name>Dennis Bonam, Andra  Smădu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[July 17th COVID-19, New Cases, Hospitalizations, Vaccinations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/OaRrnfI9xuo/july-17th-covid-19-new-cases.html</id>
@@ -5286,16 +5296,6 @@ __2.3 배열의 데이터 속성...
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collaborative versus adversarial contact]]></title>
-        <id>https://www.aeaweb.org/research/collaborative-adversarial-caste-integration-cricket</id>
-        <link href="https://www.aeaweb.org/research/collaborative-adversarial-caste-integration-cricket"/>
-        <updated>2021-06-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[India’s most popular sport may offer insights into reducing caste prejudices. A key feature of positive integration is having people work toward shared goals, according to a paper in the American Economic Review.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
