@@ -696,6 +696,303 @@
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
         {
+          "id": "https://www.nber.org/papers/w29051#fromrss",
+          "author": null,
+          "description": "We review recent theoretical and empirical research on trade policy. We start by presenting reduced-form evidence of the effects of trade policy in the presence of supply-chain linkages, on the short-run and persistent effects of trade policy across local labor markets, and on the effects of trade policy uncertainty on employment and firms. We describe the shift-share method for trade policy analysis, discuss the interpretation of the estimated effects, and provide a theoretical foundation. We then describe new quantitative frameworks, methods, and data used to study the aggregate and distributional effects of trade policy in general equilibrium. We discuss how to take into account supply-chain linkages, local labor markets, and different sources of dynamics. As an illustration, we quantify the aggregate and distributional effects of the 2018 trade war between the United States and its trading partners. Finally, we present recent theoretical insights on optimal unilateral trade policy with firm and product heterogeneity in the context of large and small open economies with perfectly and imperfectly competitive product markets. We also discuss how optimal trade policy is shaped by the presence of multiple sectors, intermediate goods, and supply-chain linkages. We close the chapter by discussing the scope of future research.",
+          "link": "https://www.nber.org/papers/w29051#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.558Z",
+          "wordCount": 921,
+          "title": "Trade Policy -- by Lorenzo Caliendo, Fernando Parro"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29048#fromrss",
+          "author": null,
+          "description": "Persuasive communication functions not only through content but also delivery, e.g., facial expression, tone of voice, and diction. This paper examines the persuasiveness of delivery in start-up pitches. Using machine learning (ML) algorithms to process full pitch videos, we quantify persuasion in visual, vocal, and verbal dimensions. Positive (i.e., passionate, warm) pitches increase funding probability. Yet conditional on funding, high-positivity startups underperform. Women are more heavily judged on delivery when evaluating single-gender teams, but they are neglected when co-pitching with men in mixed-gender teams. Using an experiment, we show persuasion delivery works mainly through leading investors to form inaccurate beliefs.",
+          "link": "https://www.nber.org/papers/w29048#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.545Z",
+          "wordCount": 861,
+          "title": "Persuading Investors: A Video-Based Study -- by Allen Hu, Song Ma"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29042#fromrss",
+          "author": null,
+          "description": "This paper uses novel, firm-level measures derived from communications metadata before and after a CEO transition in 102 firms to study if CEO turnover impacts employees’ communication flows. We find that CEO turnover leads to an initial decrease in intra-firm communication, followed by a significant increase approximately five months after the CEO change. The increase is driven primarily by vertical (i.e. manager to employee) communication. Greater increases in communication after CEO change are associated with greater increases in firm market returns.",
+          "link": "https://www.nber.org/papers/w29042#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.518Z",
+          "wordCount": 852,
+          "title": "Communication within Firms: Evidence from CEO Turnovers -- by Stephen Michael Impink, Andrea Prat, Raffaella Sadun"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29047#fromrss",
+          "author": null,
+          "description": "We examine the impact of the opening of a new urgent care center (UCC) on health care costs and the utilization of care among nearby Medicare beneficiaries. We focus on 2006–2016, a period of rapid UCC expansion. We find that total Medicare spending rises when residents of a zip code are first served by a UCC, relative to spending in yet-to-be-served zip codes, while mortality remains flat. We explore mechanisms by looking at categories of spending and by examining utilization. Increases in inpatient visits are the largest contributor to the overall increase in spending, rising by 6.65 percent  within six years after UCC entry. The number of emergency room visits that result in a hospital admission also increases by 3.7 percent. In contrast, there is no change in the number of ER visits that do not result in admission to hospital, in visits to physicians outside a UCC, or in imaging and tests. Overall, these results provide little evidence that UCCs replace costly ER visits or that they crowd out visits to patients' regular doctors. Instead, the evidence is consistent with the possibility that UCCs—which are increasingly owned by or contract with hospital systems—induce greater spending on hospital care.",
+          "link": "https://www.nber.org/papers/w29047#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.506Z",
+          "wordCount": 881,
+          "title": "Do Urgent Care Centers Reduce Medicare Spending? -- by Janet Currie, Anastasia Karpova, Dan Zeltzer"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29037#fromrss",
+          "author": null,
+          "description": "Senior participation in the Supplemental Nutrition Assistance Program (SNAP) has traditionally been lower than other groups among those eligible, with historical estimates below 50 percent. We examine the impacts of state SNAP policies on program participation among low-income senior (age 60 and older) and non-senior households using data from the 2001-2014 December Current Population Survey Food Security Supplement. Our results suggest that policies designed to expand SNAP eligibility modestly increased participation among seniors but led to larger increases among non-seniors. In contrast, we find little evidence of effects of policies related to transaction costs, stigma, or outreach on either group.",
+          "link": "https://www.nber.org/papers/w29037#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.483Z",
+          "wordCount": 866,
+          "title": "Do State SNAP Policies Influence Program Participation among Seniors? -- by Jordan W. Jones, Charles J. Courtemanche, Augustine Denteh, James Marton, Rusty Tchernis"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29050#fromrss",
+          "author": null,
+          "description": "Thirty years of distributional data are used to study the short-term impacts of popular macroeconomic indicators on real household incomes from the poorest to the richest Americans. The appropriate weights on unemployment versus inflation vary across the distribution. The unemployment rate matters at all levels, but especially so for the poorest. Inflation rates matter at middle incomes, though Okun’s famous Misery Index only performs well for the top income groups. GDP growth matters at all levels and proportionately more for the poorest, though only via the unemployment rate. Recessions are poverty-increasing, and skewness-decreasing, but with ambiguous effects on overall inequality.",
+          "link": "https://www.nber.org/papers/w29050#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.469Z",
+          "wordCount": 781,
+          "title": "Macroeconomic Misery by Levels of Income in America -- by Martin Ravallion"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29036#fromrss",
+          "author": null,
+          "description": "The quality of proxy advisors' voting recommendations is important for policymakers and industry participants. We analyze the design of recommendations (available to all market participants) and research reports (available only to subscribers) by a proxy advisor, whose objective is to maximize its profits from selling information to shareholders. We show that even if all shareholders’ interests are aligned and aim at maximizing firm value, the proxy advisor benefits from biasing its recommendations against the a priori more likely alternative. Such recommendations “create controversy” about the vote, increasing the probability that the outcome is close and raising each shareholder's willingness to pay for advice. In contrast, it serves the interest of the proxy advisor to make private research reports unbiased and precise. Our results help reinterpret empirical patterns of shareholders’ voting behavior.",
+          "link": "https://www.nber.org/papers/w29036#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.457Z",
+          "wordCount": 842,
+          "title": "Creating Controversy in Proxy Voting Advice -- by Andrey Malenko, Nadya Malenko, Chester S. Spatt"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29040#fromrss",
+          "author": null,
+          "description": "Using US Census Household Pulse Survey data for the period April 2020 to June 2021 we track the evolution of the mental health of nearly 2.3 million Americans during the COVID pandemic.  We find anxiety, depression and worry peaked in November 2020, coinciding with the Presidential election. The taking of prescription drugs for mental health conditions peaked two weeks later in December 2020. Mental health improved subsequently such that by April 2021 it was better than it had been a year previously. The probability of having been diagnosed with COVID did not rise significantly in the first half of 2021 but COVID infection rates were higher among the young than the old.  COVID diagnoses were significantly lower in States that had voted for Biden in the Presidential Election.  The probability of vaccination rose with age, was considerably higher in Biden states, and rose precipitously over the period among the young and old.  Anxiety was higher among people in Biden states, whether they had been diagnosed or not, and whether they were vaccinated or not.  The association between anxiety and depression and having had COVID was not significant in Biden or Trump states but being vaccinated was associated with lower anxiety and depression, with the effect being larger in Biden states. Whilst being in paid work was associated with lower anxiety, worry and depression and was associated with higher vaccination rates, it also increased the probability of having had COVID.",
+          "link": "https://www.nber.org/papers/w29040#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.433Z",
+          "wordCount": 895,
+          "title": "Biden, COVID and Mental Health in America -- by David G. Blanchflower, Alex Bryson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29031#fromrss",
+          "author": null,
+          "description": "This paper investigates the career effects of mental health, focusing on depression, schizophrenia, and bipolar disorder (BD). Individual-level registry data from Denmark show that these disorders carry large earnings penalties, ranging from 34 percent for depression and 38 percent for BD to 74 percent for schizophrenia. To investigate the causal effects of mental health on a person’s career, we exploit the approval of lithium as a maintenance treatment for BD in 1976. Baseline estimates compare career outcomes for people with and without access in their 20s, the typical age of onset for BD. These estimates show that access to treatment eliminates one third of the earnings penalty associated with BD and greatly reduces the risks of low or no earnings. Importantly, access to treatment closes more than half of the disability risk associated with BD.",
+          "link": "https://www.nber.org/papers/w29031#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.382Z",
+          "wordCount": 870,
+          "title": "Career Effects of Mental Health -- by Barbara Biasi, Michael S. Dahl, Petra Moser"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29025#fromrss",
+          "author": null,
+          "description": "We provide a new method to analyze discrete choice models with state dependence and individual-by-product fixed effects and use it to analyze consumer choices in a policy-relevant environment (a subsidized health insurance exchange). Moment inequalities are used to infer state dependence from consumers’ switching choices in response to changes in product attributes. We infer much smaller switching costs on the health insurance exchange than is inferred from standard logit and/or random effects methods. A counterfactual policy evaluation illustrates that the policy implications of this difference can be substantive.",
+          "link": "https://www.nber.org/papers/w29025#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.371Z",
+          "wordCount": 810,
+          "title": "Unobserved Heterogeneity, State Dependence, and Health Plan Choices -- by Ariel Pakes, Jack R. Porter, Mark Shepard, Sophie Calder-Wang"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29030#fromrss",
+          "author": null,
+          "description": "Since the mid-1980s, the share of household net worth intermediated by US financial institutions has shifted from defined benefit plans to life insurers and defined contribution plans. Life insurers have primarily grown through variable annuities, which are mutual funds with longevity insurance, a potential tax advantage, and minimum return guarantees. The minimum return guarantees change the primary function of life insurers from traditional insurance to financial engineering. Variable annuity insurers are exposed to interest and equity risk mismatch and suffered especially low stock returns during the COVID-19 crisis. We consider regulatory changes, such as more detailed financial disclosure and standardized stress tests, to monitor potential risk mismatch and to ensure stability of the insurance sector.",
+          "link": "https://www.nber.org/papers/w29030#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.341Z",
+          "wordCount": 867,
+          "title": "The Evolution from Life Insurance to Financial Engineering -- by Ralph S. J. Koijen, Motohiro Yogo"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29044#fromrss",
+          "author": null,
+          "description": "Macroeconomists increasingly use external sources of exogenous variation for causal inference. However, unless such external instruments (proxies) capture the underlying shock without measurement error, existing methods are silent on the importance of that shock for macroeconomic fluctuations. We show that, in a general moving average model with external instruments, variance decompositions for the instrumented shock are interval-identified, with informative bounds. Various additional restrictions guarantee point identification of both variance and historical decompositions. Unlike SVAR analysis, our methods do not require invertibility. Applied to U.S. data, they give a tight upper bound on the importance of monetary shocks for inflation dynamics.",
+          "link": "https://www.nber.org/papers/w29044#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.218Z",
+          "wordCount": 901,
+          "title": "Instrumental Variable Identification of Dynamic Variance Decompositions -- by Mikkel Plagborg-Møller, Christian K. Wolf"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29026#fromrss",
+          "author": null,
+          "description": "We develop a simple (incumbent versus entrant) strategic deterrence model to study the economic and geopolitical interactions underlying international trade-related infrastructure projects such as the Panama Canal. We study the incentives for global geopolitical players to support allied satellite countries where these projects are or could potentially be built. We show that even if no effective competitor emerges, the appearance of a geopolitical challenger capable of credibly supporting the entrant has a pro-competition economic effect which benefits consumers all over the world.",
+          "link": "https://www.nber.org/papers/w29026#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.207Z",
+          "wordCount": 736,
+          "title": "Geopolitics and International Trade Infrastructure -- by Sebastian Galiani, José Manuel Paz y Miño, Gustavo Torrens"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29049#fromrss",
+          "author": null,
+          "description": "By constraining an individual’s choice during a search, housing discrimination dis- torts sorting decisions away from true preferences and results in a ceteris paribus reduction in welfare. This study combines a large-scale field experiment with a residential sorting model to derive utility-theoretic measures of renter welfare loss associated with the constraints imposed by discrimination in the rental housing market. Results from experiments conducted in five cities show that key neighbor- hood amenities are associated with higher levels of discrimination. Results from the structural model indicate that discrimination imposes costs equivalent to 4.7% of annual income for renters of color, and that search behavior results in greater welfare costs for African Americans as their incomes rise. Renters of color must make substantial investments in additional search to mitigate the costs of these constraints. We find that a naive model ignoring discrimination constraints yields significantly biased estimates of willingness to pay.",
+          "link": "https://www.nber.org/papers/w29049#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.157Z",
+          "wordCount": 958,
+          "title": "The Damages and Distortions from Discrimination in the Rental Housing Market -- by Peter Christensen, Christopher Timmins"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29020#fromrss",
+          "author": null,
+          "description": "We analyze minute-by-minute, individual level data on viewership for Italian TV news broadcasts (from AUDITEL™), matched with detailed data on content (from Osservatorio di Pavia). We are interested in the behavior of viewers, and in particular in their decision to switch away from a news program as a function of the type of story they are currently watching. Somewhat surprisingly, we find that “soft” news systematically induces viewers to switch away, even more than “hard” news. On the other hand, sensational stories about crime, accidents and disasters are associated with less switching. We also find significant differences in this switching behavior according to gender, age, and the specific TV channel being watched. For example, young people are relatively more likely to switch away from hard news than soft news, compared to older people.",
+          "link": "https://www.nber.org/papers/w29020#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.123Z",
+          "wordCount": 875,
+          "title": "The Revealed Demand for Hard vs. Soft News: Evidence from Italian TV Viewership -- by Marco Gambaro, Valentino Larcinese, Riccardo Puglisi, James M. Snyder Jr."
+        },
+        {
+          "id": "https://www.nber.org/papers/w29021#fromrss",
+          "author": null,
+          "description": "During the COVID-19 epidemic, many health professionals started using mass communication on social media to relay critical information and persuade individuals to adopt preventative health behaviors. Our group of clinicians and nurses developed and recorded short video messages to encourage viewers to stay home for the Thanksgiving and Christmas Holidays. We then conducted a two-stage clustered randomized controlled trial in 820 counties (covering 13\nStates) in the United States of a large-scale Facebook ad campaign disseminating these messages. In the first level of randomization, we randomly divided the counties into two groups: high intensity and low intensity. In the second level, we randomly assigned zip codes to either treatment or control such that 75% of zip codes in high intensity counties received the treatment, while 25% of zip codes in low intensity counties received the treatment. In each treated zip code, we sent the ad to as many Facebook subscribers as possible (11,954,109 users received at least one ad at Thanksgiving and 23,302,290 users received at least one ad at Christmas). The first primary outcome was aggregate holiday travel, measured using mobile phone location data, available at the county level: we find that average distance travelled in high-intensity counties changed by -0.993 percentage points (95% CI -1.616, -0.371, p-value 0.002) the three days before each holiday. The second primary outcome was COVID-19 infection at the zip-code level: COVID-19 infections recorded in the two-week period starting five days post-holiday declined by 3.5 percent (adjusted 95% CI [-6.2 percent, -0.7 percent], p-value 0.013) in intervention zip codes compared to control zip codes.",
+          "link": "https://www.nber.org/papers/w29021#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.108Z",
+          "wordCount": 1230,
+          "title": "Doctors' and Nurses' Social Media Ads Reduced Holiday Travel and COVID-19 Infections: A Cluster Randomized Controlled Trial -- by Emily Breza, Fatima Cody Stanford, Marcella Alsan, Burak Alsan, Abhijit Banerjee, Arun G. Chandrasekhar, Sarah Eichmeyer, Traci Glushko, Paul Goldsmith-Pinkham, Kelly Holland, Emily Hoppe, Mohit Karnani, Sarah Liegl, Tristan Loisel, Lucy Ogbu-Nwobodo, Benjamin A. Olken, Carlos Torres, Pierre-Luc Vautrey, Erica Warner,  Susan Wootton, Esther Duflo"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29034#fromrss",
+          "author": null,
+          "description": "This paper pushes back against two views about the effects of dollarization. First, there is a view that the dollar is a device by which rich countries provide business cycle insurance to emerging market (EME) countries. We find that the dollar is important for risk sharing, but the evidence suggests that it is primarily a device to shift business cycle risk across different people within individual EMEs and within rich countries rather than across countries. Second, there is a widespread view that dollarization raises the risk of systemic banking and other crises. Although we identify sources of fragility in some aspects of dollarization, the common view that financial dollarization is a source of fragility is over-stated. Our insurance view about financial dollarization and the lack of risks to financial stability emerges from a study of a large cross-country dataset, as well as case studies for Peru and Armenia. We develop a simple model which formalizes the insurance view, which is consistent with the key cross-country facts on interest rate differentials, deposit dollarization and exchange rate depreciations in recessions.",
+          "link": "https://www.nber.org/papers/w29034#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.056Z",
+          "wordCount": 990,
+          "title": "Financial Dollarization in Emerging Markets: Efficient Risk Sharing or Prescription for Disaster? -- by Lawrence Christiano, Hüsnü Dalgic, Armen Nurbekyan"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29029#fromrss",
+          "author": null,
+          "description": "Penalties for tax evasion are typically financial, but many jurisdictions also utilize collateral sanctions that deny access to some government-provided service. To learn about the effectiveness of such penalties, we examine a U.S. policy restricting passport access for taxpayers with substantial tax debt, known as “certification.” We find an immediate and strong positive effect on compliance actions when a passport request is denied. We then take advantage of randomization during the policy rollout to identify the direct compliance effect of certification, and find smaller but non-trivial effects whose heterogeneity is consistent with measures of taxpayers’ value of having a passport.",
+          "link": "https://www.nber.org/papers/w29029#fromrss",
+          "publishedOn": "2021-07-19T04:15:26.029Z",
+          "wordCount": 898,
+          "title": "Do Collateral Sanctions Work? Evidence from the IRS’ Passport Certification and Revocation Process -- by Paul R. Organ, Alex Ruda, Joel Slemrod, Alex Turk"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29052#fromrss",
+          "author": null,
+          "description": "Child marriage remains common even where female schooling and employment opportunities have grown. We introduce a signaling model in which bride type is imperfectly observed but preferred types have lower returns to delaying marriage. We show that in this environment the market might pool on early marriage even when everyone would benefit from delay. In this setting, offering a small incentive can delay marriage of all treated types and untreated non-preferred types, while programs that act directly on norms can unintentionally encourage early marriage. We test these theoretical predictions by experimentally evaluating a financial incentive to delay marriage alongside a girls’ empowerment program designed to shift norms. As predicted, girls eligible for the incentive are 19% less likely to marry underage, as are nonpreferred type women ineligible for the incentive. Meanwhile, the empowerment program was successful in promoting more progressive gender norms but failed to decrease adolescent marriage and increased dowry payments.",
+          "link": "https://www.nber.org/papers/w29052#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.739Z",
+          "wordCount": 969,
+          "title": "A Signal to End Child Marriage: Theory and Experimental Evidence from Bangladesh -- by Nina Buchmann, Erica M. Field, Rachel Glennerster, Shahana Nazneen, Xiao Yu Wang"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29045#fromrss",
+          "author": null,
+          "description": "In many recent location choice models, households randomly vary with respect to their utility of living in a location.  We demonstrate that the distribution generating this randomness is fundamentally not identifiable from location choice data and as a result the optimal allocation as chosen by a social planner is not identified.  We propose an algorithm for setting the distribution generating the random utility across locations that implies a planner will optimally choose no redistribution in the absence of externalities or equity motives between different groups of people.  Our algorithm preserves a planner's motives to redistribute due to equity considerations between different types of people and efficiency in production, the focus of many recent studies.",
+          "link": "https://www.nber.org/papers/w29045#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.727Z",
+          "wordCount": 812,
+          "title": "Place-Based Redistribution in Location Choice Models -- by Morris Davis, Jesse M. Gregory"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29041#fromrss",
+          "author": null,
+          "description": "We develop a theory that focuses on the general equilibrium and long-run macroeconomic consequences of trends in job utility—the process benefits and costs of work. Given secular increases in job utility, work hours per population can remain approximately constant over time even if the income effect of higher wages on labor supply exceeds the substitution effect. In addition, secular improvements in job utility can be substantial relative to welfare gains from ordinary technological progress. These two implications are connected by an equation flowing from optimal hours choices: improvements in job utility that have a significant effect on labor supply tend to have large welfare effects.",
+          "link": "https://www.nber.org/papers/w29041#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.713Z",
+          "wordCount": 868,
+          "title": "The Decline of Drudgery and the Paradox of Hard Work -- by Brendan Epstein, Miles S. Kimball"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29046#fromrss",
+          "author": null,
+          "description": "Early tests of cross-country convergence found evidence only for conditional convergence. In contrast, with more recent data, Kremer, Willis, and You (2021) find evidence that since the mid-1980s there has been a trend towards unconditional convergence culminating in absolute convergence since 2000. Additionally, they find suggestive evidence that one of the major drivers of this trend is an underlying convergence towards development-favored policies. We discuss the implications of this result through the lens of individual welfare and poverty, concluding that the news is not as welcome as it may seem for the world’s poor. We point out that absolute convergence has happened contemporaneously with rising within-country inequality, resulting in more of the world’s poor living in middle-income countries. Next, we argue that domestic redistribution is essential to spread the benefits from industrialization, since the labor share of manufacturing isn’t reaching the heights it did in industrialized countries. Finally, we argue that the democratic institutions that can facilitate this redistribution themselves face headwinds. Democratic backsliding, the Covid-19 pandemic, and a bleak climate outlook all present obstacles to transforming economic growth into economic justice for the poor.",
+          "link": "https://www.nber.org/papers/w29046#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.687Z",
+          "wordCount": 862,
+          "title": "Growing Pains? A Comment on “Converging to Convergence” -- by Rohini Pande, Nils T. Enevoldsen"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29043#fromrss",
+          "author": null,
+          "description": "We study the impacts of incomplete information on centralized one-to-one matching markets. We focus on the commonly used Deferred Acceptance mechanism (Gale and Shapley, 1962). We show that many complete-information results are fragile to a small infusion of uncertainty about others' preferences.",
+          "link": "https://www.nber.org/papers/w29043#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.670Z",
+          "wordCount": 760,
+          "title": "Centralized Matching with Incomplete Information -- by Marcelo A. Fernandez, Kirill Rudov, Leeat Yariv"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29023#fromrss",
+          "author": null,
+          "description": "We study a 2008 policy reform in which Medicare revised its hospital payment system to better reflect patients’ severity of illness. We construct a simulated instrument that predicts a hospital’s policy-induced change in reimbursement using pre-reform patients and post-reform rules. The reform led to large persistent changes in Medicare payment rates across hospitals. Hospitals that faced larger gains in Medicare reimbursement increased the volume of Medicare patients they treated. The estimates imply a volume elasticity of approximately unity. To accommodate greater volume, hospitals increased nurse employment, but also lowered length of stay, with ambiguous effects on quality.",
+          "link": "https://www.nber.org/papers/w29023#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.645Z",
+          "wordCount": 793,
+          "title": "Regulated Revenues and Hospital Behavior: Evidence from a Medicare Overhaul -- by Tal Gross, Adam Sacarny, Maggie Shi, David Silver"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29032#fromrss",
+          "author": null,
+          "description": "We study the relationship between business cycles and the design and effects of environmental policies, particularly those with economy-wide significance like climate policies. First, we provide a brief review of the literature related to this topic, from initial explorations using real business cycle models to New Keynesian extensions, open-economy variations, and issues of monetary policy and financial regulations. Next, we provide a list of the main findings that emerge from this literature that are potentially most relevant to policymakers, including the impacts of policy on volatility and how to design policy to adjust to cycles. Finally, we propose several important remaining research questions.",
+          "link": "https://www.nber.org/papers/w29032#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.630Z",
+          "wordCount": 828,
+          "title": "Business Cycles and Environmental Policy: Literature Review and Policy Implications -- by Barbara Annicchiarico, Stefano Carattini, Carolyn Fischer, Garth Heutel"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29038#fromrss",
+          "author": null,
+          "description": "Recreational marijuana laws (RMLs), which legalize the possession of small quantities of marijuana for recreational use, have been adopted by 18 states and the District of Columbia. Opponents argue that RML-induced increases in marijuana consumption will serve as a “gateway” to harder drug use and crime. Using data covering the period 2000-2019 from a variety of national sources (the National Survey of Drug Use and Health, the Uniform Crime Reports, the National Vital Statistics System, and the Treatment Episode Data Set) this study is the first to comprehensively examine the effects of legalizing recreational marijuana on hard drug use, arrests, drug overdose deaths, suicides, and treatment admissions. Our analyses show that RMLs increase adult marijuana use and reduce drug-related arrests over an average post-legalization window of three to four years. There is little evidence to suggest that RML-induced increases in marijuana consumption encourage the use of harder substances or violent criminal activity.",
+          "link": "https://www.nber.org/papers/w29038#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.617Z",
+          "wordCount": 872,
+          "title": "Is Recreational Marijuana a Gateway to Harder Drug Use and Crime? -- by Joseph J. Sabia, Dhaval M. Dave, Fawaz Alotaibi, Daniel I. Rees"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29039#fromrss",
+          "author": null,
+          "description": "This is an invited chapter for the forthcoming Volume 4 of the Handbook of Industrial Organization. We focus on \"selection markets,\" which cover markets in which consumers vary not only in how much they are willing to pay for a product but also in how costly they are to the seller. The chapter tries to organize the recent wave of IO-related papers on selection markets, which has largely focused on insurance and credit markets. We provide a common framework, terminology, and notation that can be used to understand many of these papers, and that we hope can be usefully applied going forward.",
+          "link": "https://www.nber.org/papers/w29039#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.585Z",
+          "wordCount": 807,
+          "title": "The IO of Selection Markets -- by Liran Einav, Amy Finkelstein, Neale Mahoney"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29035#fromrss",
+          "author": null,
+          "description": "Business groups often contain banks or near banks that can protect group firms from economic shocks. A group bank subordinate to other group firms can become an “organ bank” that selflessly bails out distressed group firms and anticipates a government bailout. A group bank subordinating other group firms can extend loans to suppress their risk-taking to default risk, preserving risk-averse low-productivity zombie firms. Actual business groups can fall between these polar cases. Subordinated group banks magnify risk-taking; subordinating banks suppress risk-taking; yet both distortions promote business group firms’ survival. Limiting intragroup income and risk shifting, severing banks from business groups, or dismantling business groups may mitigate both distortions; but also limits business groups’ internal markets, thought important where external markets work poorly.",
+          "link": "https://www.nber.org/papers/w29035#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.573Z",
+          "wordCount": 790,
+          "title": "Business Groups: Panics, Runs, Organ Banks and Zombie Firms -- by Asli M. Colpan, Randall Morck"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29033#fromrss",
+          "author": null,
+          "description": "Growing amounts of intermittent renewable generation capacity substantially increases the complexity of determining whether sufficient energy will be available to meet hourly demands throughout the year. As the events of August 2020 in California and February 2021 in Texas demonstrate, supply shortfalls can have large economic and public health consequences. An empirical analysis of these two events demonstrates that similar supply shortfalls are likely to occur in the future without a paradigm shift in how long-term resource adequacy is determined for an electricity supply industry with significant intermittent renewables. An alternative approach to determining long-term resource adequacy that explicitly recognizes the characteristics of different generation technologies is outlined and its properties explored relative to current approaches.",
+          "link": "https://www.nber.org/papers/w29033#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.559Z",
+          "wordCount": 796,
+          "title": "Long-Term Resource Adequacy in Wholesale Electricity Markets with Significant Intermittent Renewables -- by Frank A. Wolak"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29024#fromrss",
+          "author": null,
+          "description": "The Post 9/11 GI Bill (PGIB) is among the largest and most generous college subsidies enacted thus far in the U.S. We examine the impact of the PGIB on veterans’ college-going, degree completion, federal education tax benefit utilization, and long run earnings. Among veterans potentially induced to enroll, the introduction of the PGIB raised college enrollment by 0.17 years and B.A. completion by 1.2 percentage points (on a base of 9 percent). But, the PGIB reduced average annual earnings nine years after separation from the Army by $900 (on a base of $32,000). Years enrolled effects are larger and earnings effects more negative for veterans with lower AFQT scores and those who were less occupationally skilled. Under a variety of conservative assumptions, veterans are unlikely to recoup these reduced earnings during their working careers.  All veterans who were already enrolled in college at the time of bill passage increase their months of schooling, but only for those in public institutions did this translate into increases in bachelor’s degree attainment and longer-run earnings. For specific groups of students, large subsidies can modestly help degree completion but harm long run earnings due to lost labor market experience.",
+          "link": "https://www.nber.org/papers/w29024#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.533Z",
+          "wordCount": 1046,
+          "title": "You Can’t Handle The Truth: The Effects Of The Post-9/11 Gi Bill On Higher Education And Earnings -- by Andrew Barr, Laura Kawano, Bruce Sacerdote, William Skimmyhorn, Michael Stevens"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29027#fromrss",
+          "author": null,
+          "description": "The growth of the availability and use of detailed household financial transaction microdata has dramatically expanded the ability of researchers to understand both household decision-making as well as aggregate fluctuations across a wide range of fields. This class of transaction data is derived from a myriad of sources including financial institutions, FinTech apps, and payment intermediaries. We review how these detailed data have been utilized in finance and economics research and the benefits they enable beyond more traditional measures of income, spending, and wealth. We discuss the future potential for this flexible class of data in firm-focused research, real-time policy analysis, and macro statistics.",
+          "link": "https://www.nber.org/papers/w29027#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.517Z",
+          "wordCount": 788,
+          "title": "Household Financial Transaction Data -- by Scott R. Baker, Lorenz Kueng"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29022#fromrss",
+          "author": null,
+          "description": "Why did the Black-White wage gap converge from 1960 to 1980 and why has it stagnated since?  To answer this question, we introduce a unified model that integrates notions of both taste-based and statistical discrimination into a task-based model of occupational sorting. At the heart of our framework is the idea that discrimination varies by the task requirement of each job.  We use this framework to identify and quantify the role of trends in race-specific factors and changing task prices in explaining the evolution of the Black-White wage gap since 1960.  In doing so, we highlight a new task measure - Contact tasks – which measures the extent to which individuals interact with others as part of their job.  We provide evidence that changes in the racial gap in Contact tasks serves as a good proxy for changes in taste-based discrimination over time.  We find that taste-based discrimination has fallen and racial skill gaps have narrowed over the last sixty years in the United States. However, since the 1980s, the effect of declining racial skill gaps and discrimination on the Black-White wage gap were offset by the increasing returns to Abstract tasks which, on average, favored White workers relative to Black workers.",
+          "link": "https://www.nber.org/papers/w29022#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.476Z",
+          "wordCount": 926,
+          "title": "Task-Based Discrimination -- by Erik Hurst, Yona Rubinstein, Kazuatsu Shimizu"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29028#fromrss",
+          "author": null,
+          "description": "Interactions between redistributive policies can confront low-income households with complicated choices.  We study one such interaction, namely the relationship between Medicaid eligibility thresholds and the minimum wage.  A minimum wage increase reduces the number of hours a low-skilled individual can work while retaining Medicaid eligibility.  We show that the empirical and welfare implications of this interaction can depend crucially on the relevance of labor market frictions.  Absent frictions, affected workers may maintain Medicaid eligibility through small reductions in hours of work.  With frictions, affected workers may lose Medicaid eligibility unless they leave their initial job.  Empirically, we find that workers facing this scenario became less likely to participate in Medicaid, less likely to work, and more likely to spend time looking for new jobs, including search while employed.  The observed outcomes suggest that low-skilled workers face substantial labor market frictions.  Because adjustment is costly, tinkering with safety net program parameters that determine the location of program eligibility notches can be harmful to beneficiaries.",
+          "link": "https://www.nber.org/papers/w29028#fromrss",
+          "publishedOn": "2021-07-19T04:15:25.452Z",
+          "wordCount": 935,
+          "title": "When Is Tinkering with Safety Net Programs Harmful to Beneficiaries? -- by Jeffrey Clemens, Michael J. Wither"
+        },
+        {
           "id": "https://www.nber.org/papers/w29019#fromrss",
           "author": null,
           "description": "Police body-worn cameras (BWCs) have been the subject of much research on how the technology’s enhanced documentation of police/citizen interactions impact police behavior. Less attention has been paid to how BWC recordings affect the adjudication of citizen complaints against the police. We employ citizen complaint data from the Chicago Police Department and Civilian Office of Police Accountability filed between 2012-2020 to determine the extent to which BWC footage enhances the efficacy of evidence used to formulate a conclusion of responsibility, and whether bias against complainants based on race would subsequently be reduced. Accordingly, we exploit the staggered deployment of BWCs across 22 Chicago police districts over time to estimate the effect of BWCs on these outcomes. Our findings indicate that BWCs led to a significant decrease in the dismissal of investigations due to insufficient evidence (\"not sustained\") as well as a significant increase in disciplinary actions against police officers (\"sustained\" outcomes”) with sufficient evidence to sanction their misconduct. We further find that disparities in complaints across racial groups for the “unsustained” category fade away with the implementation of BWCs.",
