@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-19T04:15:41.151Z</updated>
+    <updated>2021-07-19T08:13:49.813Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -335,6 +335,26 @@ States) in the United States of a large-scale Facebook ad campaign disseminating
         <summary type="html"><![CDATA[Interactions between redistributive policies can confront low-income households with complicated choices.  We study one such interaction, namely the relationship between Medicaid eligibility thresholds and the minimum wage.  A minimum wage increase reduces the number of hours a low-skilled individual can work while retaining Medicaid eligibility.  We show that the empirical and welfare implications of this interaction can depend crucially on the relevance of labor market frictions.  Absent frictions, affected workers may maintain Medicaid eligibility through small reductions in hours of work.  With frictions, affected workers may lose Medicaid eligibility unless they leave their initial job.  Empirically, we find that workers facing this scenario became less likely to participate in Medicaid, less likely to work, and more likely to spend time looking for new jobs, including search while employed.  The observed outcomes suggest that low-skilled workers face substantial labor market frictions.  Because adjustment is costly, tinkering with safety net program parameters that determine the location of program eligibility notches can be harmful to beneficiaries.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Covid-19 lockdown trade-off in low- and middle-income countries]]></title>
+        <id>https://voxeu.org/article/covid-19-lockdown-trade-low-and-middle-income-countries</id>
+        <link href="https://voxeu.org/article/covid-19-lockdown-trade-low-and-middle-income-countries"/>
+        <updated>2021-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There has been ongoing debate over what type of lockdowns are warranted to counter Covid-19 and whether the benefits justify the accompanying economic contractions. This column uses a macro-susceptible-infected-recovered model to show that the impact of economic contractions on child mortality in poorer countries combined with their younger demographic composition, as well as the greater community-related transmission and lower healthcare capacity in these countries, mean that under certain circumstances, lockdowns could actually increase overall (COVID-19 plus non-COVID-19) mortality for the lowest-income countries.]]></summary>
+        <author>
+            <name>Lin Ma, Gil Shapira, Damien de Walque, Quy-Toan Do, Jed Friedman, Andrei Levchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetary policy in Latin America and the Caribbean during COVID-19]]></title>
+        <id>https://voxeu.org/article/monetary-policy-latin-america-and-caribbean-during-covid-19</id>
+        <link href="https://voxeu.org/article/monetary-policy-latin-america-and-caribbean-during-covid-19"/>
+        <updated>2021-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ‘right’ monetary policy response to COVID-19 has depended on any number of factors for central banks across the world. This column argues that some central banks in Latin American and Caribbean went beyond accommodating the increased demand for liquidity, inducing monetary injections that then returned through excess bank reserves and sterilisation liabilities for those central banks that fixed an interest rate, and through sales of international reserves for those that favoured stable exchange rates. The authors also outline some of the risks confronting central banks for the months ahead.]]></summary>
+        <author>
+            <name>João Ayres, Pablo Andrés Neumeyer, Andrew Powell</name>
         </author>
     </entry>
     <entry>
