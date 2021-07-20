@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-20T08:13:51.217Z</updated>
+    <updated>2021-07-20T12:18:29.816Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -18,6 +18,16 @@ Tuesday:
 • At 8:30 AM ET, Housing Starts for June. The consensus is for 1.592 million SAAR, up from 1.572 million SAAR in May.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid-19 unemployment in Sweden]]></title>
+        <id>https://voxeu.org/content/covid-19-unemployment-sweden</id>
+        <link href="https://voxeu.org/content/covid-19-unemployment-sweden"/>
+        <updated>2021-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In early 2020, Sweden left restaurants and schools open when the rest of Europe shut them. So which sectors of the workforce were more or less likely to lose their jobs afterwards? And was that outcome due to Sweden’s institutions or its policies? Pamela Campa of SITE talks to Tim Phillips.]]></summary>
+        <author>
+            <name>Pamela Campa</name>
         </author>
     </entry>
     <entry>
