@@ -504,7 +504,26 @@
       "title": "Windows Command Line",
       "feedUrl": "https://devblogs.microsoft.com/commandline/feed/",
       "siteUrl": "https://devblogs.microsoft.com/commandline",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6869",
+          "author": "Erika",
+          "description": "This post is written by Erika Sweet, a Program Manager on Microsoft’s C++ Team.\nThe post Build and Debug C++ with WSL 2 Distributions and Visual Studio 2022 appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/build-and-debug-c-with-wsl-2-distributions-and-visual-studio-2022/",
+          "publishedOn": "2021-07-14T19:13:53.000Z",
+          "wordCount": 1793,
+          "title": "Build and Debug C++ with WSL 2 Distributions and Visual Studio 2022"
+        },
+        {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6860",
+          "author": "Kayla Cinnamon",
+          "description": "It’s Windows Terminal release day! This release introduces Windows Terminal Preview to version 1.10 and Windows Terminal will be updated to version 1.9 soon. Windows Terminal will include all of the features listed in the 1.9 blog post except for the default terminal setting and the ability to edit actions using the settings UI.\nThe post Windows Terminal Preview 1.10 Release appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-10-release/",
+          "publishedOn": "2021-07-14T17:03:19.000Z",
+          "wordCount": 1674,
+          "title": "Windows Terminal Preview 1.10 Release"
+        }
+      ]
     },
     {
       "title": "A Fine Theorem",
@@ -1416,6 +1435,33 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/pQxFgu9Cg08/existing-home-sales-lawler-vs-consensus.html",
+          "author": null,
+          "description": "Housing economist Tom Lawler has been sending me his predictions of what the NAR will report for  over 11 years.  And he has graciously allowed me to share his predictions with the readers of this blog. \nThe table below shows the consensus for each month, Lawler's predictions, and the NAR's initially reported level of sales.  \nLawler hasn't always been closer than the consensus, but usually when there has been a fairly large spread between Lawler's estimate and the \"consensus\", Lawler has been closer.\n\nFor example, last month Lawler estimated the NAR would report sales of 5.78 million SAAR, the consensus was 5.74 million SAAR, and the NAR reported 5.80 million SAAR.\nThe NAR is scheduled to release Existing Home Sales for June at 10:00 AM, Thursday, July 22nd.\nThe consensus is for 5.90 mill…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/pQxFgu9Cg08/existing-home-sales-lawler-vs-consensus.html",
+          "publishedOn": "2021-07-20T16:15:00.000Z",
+          "wordCount": 1182,
+          "title": "Existing Home Sales: Lawler vs. the Consensus"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fqJmyT8pZh8/comments-on-june-housing-starts.html",
+          "author": null,
+          "description": "Earlier: Housing Starts increased to 1.643 Million Annual Rate in June\n\nTotal housing starts in June were above expectations, however starts in April and May were revised down.   \n\n\nSingle family starts increased in June, and were up 28% year-over-year. Starts declined at the beginning of the pandemic, and then increased due to strong demand.\n\n\nThe volatile multi-family sector is up 31% year-over-year.\nThe housing starts report showed total starts were up 6.3% in June compared to the previous month, and total starts were up 29.1% year-over-year compared to June 2020.\n\nLow mortgage rates, limited existing home inventory, and favorable demographics have given a boost to single family housing starts.\nThe first graph shows the month to month comparison for total starts between 2020 (blue) and …",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fqJmyT8pZh8/comments-on-june-housing-starts.html",
+          "publishedOn": "2021-07-20T14:20:00.000Z",
+          "wordCount": 1192,
+          "title": "Comments on June Housing Starts"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/qrxVx90tUwM/housing-starts-increased-to-1643.html",
+          "author": null,
+          "description": "From the Census Bureau: Permits, Starts and Completions\nHousing Starts:\nPrivately‐owned housing starts in June were at a seasonally adjusted annual rate of 1,643,000.  This is 6.3 percent above the revised May estimate of 1,546,000 and is 29.1 percent above the June 2020 rate of 1,273,000.  Single‐family housing starts in June were at a rate of 1,160,000; this is 6.3 percent above the revised May figure of 1,091,000. The June rate for units in buildings with five units or more was 474,000.\n  \nBuilding Permits:\nPrivately‐owned housing units authorized by building permits in June were at a seasonally adjusted annual rate of 1,598,000.  This is 5.1 percent below the revised May rate of 1,683,000, but is 23.3 percent above the June 2020 rate of 1,296,000.  Single‐family authorizations in June were at a rate of 1,063,000; this is 6.3 percent below the revised May figure of 1,134,000.  Authorizations of units in buildings with five units or more were at a rate of 483,000 in June.\nemphasis added\nClick on graph for larger image.\nThe first graph shows single and multi-family housing starts for the last several years.\nMulti-family starts (red, 2+ units) increased in June compared to May.   Multi-family starts were up 31% year-over-year in June.\nSingle-family starts (blue) increased in June, and were up 28% year-over-year (starts slumped at the beginning of the pandemic).   \nThe second graph shows total and single unit starts since 1968. \nThe second graph shows the huge collapse following the housing bubble, and then the eventual recovery (but still not historically high).\nTotal housing starts in June were above expectations, however starts in April and May were revised down.\nI'll have more later …",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/qrxVx90tUwM/housing-starts-increased-to-1643.html",
+          "publishedOn": "2021-07-20T12:37:00.002Z",
+          "wordCount": 1078,
+          "title": "Housing Starts increased to 1.643 Million Annual Rate in June"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/y7RJ1bmIb0U/tuesday-housing-starts.html",
           "author": null,

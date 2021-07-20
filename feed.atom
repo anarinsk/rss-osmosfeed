@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-20T12:18:29.816Z</updated>
+    <updated>2021-07-20T16:17:49.647Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Existing Home Sales: Lawler vs. the Consensus]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/pQxFgu9Cg08/existing-home-sales-lawler-vs-consensus.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/pQxFgu9Cg08/existing-home-sales-lawler-vs-consensus.html"/>
+        <updated>2021-07-20T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Housing economist Tom Lawler has been sending me his predictions of what the NAR will report for  over 11 years.  And he has graciously allowed me to share his predictions with the readers of this blog. 
+The table below shows the consensus for each month, Lawler's predictions, and the NAR's initially reported level of sales.  
+Lawler hasn't always been closer than the consensus, but usually when there has been a fairly large spread between Lawler's estimate and the "consensus", Lawler has been closer.
+
+For example, last month Lawler estimated the NAR would report sales of 5.78 million SAAR, the consensus was 5.74 million SAAR, and the NAR reported 5.80 million SAAR.
+The NAR is scheduled to release Existing Home Sales for June at 10:00 AM, Thursday, July 22nd.
+The consensus is for 5.90 mill…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comments on June Housing Starts]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/fqJmyT8pZh8/comments-on-june-housing-starts.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/fqJmyT8pZh8/comments-on-june-housing-starts.html"/>
+        <updated>2021-07-20T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier: Housing Starts increased to 1.643 Million Annual Rate in June
+
+Total housing starts in June were above expectations, however starts in April and May were revised down.   
+
+
+Single family starts increased in June, and were up 28% year-over-year. Starts declined at the beginning of the pandemic, and then increased due to strong demand.
+
+
+The volatile multi-family sector is up 31% year-over-year.
+The housing starts report showed total starts were up 6.3% in June compared to the previous month, and total starts were up 29.1% year-over-year compared to June 2020.
+
+Low mortgage rates, limited existing home inventory, and favorable demographics have given a boost to single family housing starts.
+The first graph shows the month to month comparison for total starts between 2020 (blue) and …]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Housing Starts increased to 1.643 Million Annual Rate in June]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/qrxVx90tUwM/housing-starts-increased-to-1643.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/qrxVx90tUwM/housing-starts-increased-to-1643.html"/>
+        <updated>2021-07-20T12:37:00.002Z</updated>
+        <summary type="html"><![CDATA[From the Census Bureau: Permits, Starts and Completions
+Housing Starts:
+Privately‐owned housing starts in June were at a seasonally adjusted annual rate of 1,643,000.  This is 6.3 percent above the revised May estimate of 1,546,000 and is 29.1 percent above the June 2020 rate of 1,273,000.  Single‐family housing starts in June were at a rate of 1,160,000; this is 6.3 percent above the revised May figure of 1,091,000. The June rate for units in buildings with five units or more was 474,000.
+  
+Building Permits:
+Privately‐owned housing units authorized by building permits in June were at a seasonally adjusted annual rate of 1,598,000.  This is 5.1 percent below the revised May rate of 1,683,000, but is 23.3 percent above the June 2020 rate of 1,296,000.  Single‐family authorizations in June were at a rate of 1,063,000; this is 6.3 percent below the revised May figure of 1,134,000.  Authorizations of units in buildings with five units or more were at a rate of 483,000 in June.
+emphasis added
+Click on graph for larger image.
+The first graph shows single and multi-family housing starts for the last several years.
+Multi-family starts (red, 2+ units) increased in June compared to May.   Multi-family starts were up 31% year-over-year in June.
+Single-family starts (blue) increased in June, and were up 28% year-over-year (starts slumped at the beginning of the pandemic).   
+The second graph shows total and single unit starts since 1968. 
+The second graph shows the huge collapse following the housing bubble, and then the eventual recovery (but still not historically high).
+Total housing starts in June were above expectations, however starts in April and May were revised down.
+I'll have more later …]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tuesday: Housing Starts]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/y7RJ1bmIb0U/tuesday-housing-starts.html</id>
@@ -1874,6 +1936,17 @@ This data is from the CDC.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Build and Debug C++ with WSL 2 Distributions and Visual Studio 2022]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=6869</id>
+        <link href="https://devblogs.microsoft.com/commandline/build-and-debug-c-with-wsl-2-distributions-and-visual-studio-2022/"/>
+        <updated>2021-07-14T19:13:53.000Z</updated>
+        <summary type="html"><![CDATA[This post is written by Erika Sweet, a Program Manager on Microsoft’s C++ Team.
+The post Build and Debug C++ with WSL 2 Distributions and Visual Studio 2022 appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Erika</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Houston Real Estate in June: Sales Up 17% YoY, Inventory Down 31% YoY]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/RrI5h6_PQuc/houston-real-estate-in-june-sales-up-17.html</id>
         <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/RrI5h6_PQuc/houston-real-estate-in-june-sales-up-17.html"/>
@@ -1902,6 +1975,17 @@ Inventory in June was up 14.2% from last month, and up 38% from the all time low
 Months of Supply was 1.0 Months in June 2021, compared to 2.2 Months in June 2020.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Terminal Preview 1.10 Release]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=6860</id>
+        <link href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-10-release/"/>
+        <updated>2021-07-14T17:03:19.000Z</updated>
+        <summary type="html"><![CDATA[It’s Windows Terminal release day! This release introduces Windows Terminal Preview to version 1.10 and Windows Terminal will be updated to version 1.9 soon. Windows Terminal will include all of the features listed in the 1.9 blog post except for the default terminal setting and the ability to edit actions using the settings UI.
+The post Windows Terminal Preview 1.10 Release appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Kayla Cinnamon</name>
         </author>
     </entry>
     <entry>
