@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-20T04:15:07.695Z</updated>
+    <updated>2021-07-20T08:13:51.217Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -18,6 +18,26 @@ Tuesday:
 • At 8:30 AM ET, Housing Starts for June. The consensus is for 1.592 million SAAR, up from 1.572 million SAAR in May.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Great Migration and civil rights]]></title>
+        <id>https://voxeu.org/article/great-migration-and-civil-rights</id>
+        <link href="https://voxeu.org/article/great-migration-and-civil-rights"/>
+        <updated>2021-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 4 million African Americans moved from the South to the North of the United States during the Second Great Migration between 1940 and 1970. This column argues that the Great Migration and support for civil rights are causally linked. It finds that Black in-migration increased demand for racial equality and encouraged pro-civil rights activism in non-Southern counties. These effects were not only driven by Black voters, but also by progressive segments of the white population, who became aware of the brutal conditions prevailing in the South. Mirroring the changes in the electorate, non-Southern Congress members became more likely to promote civil rights legislation, but also grew increasingly polarised along party lines on racial issues.]]></summary>
+        <author>
+            <name>Alvaro Calderon, Vasiliki Fouka, Marco Tabellini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The aftermath of sovereign debt crises]]></title>
+        <id>https://voxeu.org/article/aftermath-sovereign-debt-crises</id>
+        <link href="https://voxeu.org/article/aftermath-sovereign-debt-crises"/>
+        <updated>2021-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is little consensus on the macroeconomic impacts of sovereign debt crises, despite the regularity of such events. This column quantifies the aggregate costs of defaults using a narrative approach on a large panel of 50 sovereigns between 1870 and 2010. It estimates significant and persistent negative effects of debt crises starting at 1.6% of GDP and peaking at 3.3%, before reverting to trend five years later. In addition, underlying causes matter. Defaults driven by aggregate demand shocks result in short-term contractions, whereas aggregate supply shocks lead to larger, more persistent losses.]]></summary>
+        <author>
+            <name>Rui Esteves, Seán Kenny, Jason Lennard</name>
         </author>
     </entry>
     <entry>
