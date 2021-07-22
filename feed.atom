@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-22T16:20:06.276Z</updated>
+    <updated>2021-07-22T20:12:35.731Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Comments on June Existing Home Sales]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/7ed88ndu5GI/comments-on-june-existing-home-sales.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/7ed88ndu5GI/comments-on-june-existing-home-sales.html"/>
+        <updated>2021-07-22T19:44:00.001Z</updated>
+        <summary type="html"><![CDATA[Earlier: NAR: Existing-Home Sales Increased to 5.86 million in June
+Two key points:
+1) Existing home sales are still somewhat above pre-pandemic levels.  Seasonally adjusted (SA) sales for May were the highest since 2006, and sales Not Seasonally Adjusted (NSA) in June 2021 were also the highest since 2006. 
+
+Some of the increase over the previous eleven months was probably related to  record low mortgage rates, strong second home buying, a strong stock market and favorable demographics.
+
+
+Also, the delay in the 2020 buying season pushed the seasonally adjusted number to very high levels over the winter.   This means there are going to be some difficult comparisons in the second half of 2021!
+
+2) Inventory is very low, and was down 18.8% year-over-year (YoY) in May.  Also, as housing econo…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Knight: National Mortgage Delinquency Rate Decreased in June]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/jq2xYZPg_Fg/black-knight-national-mortgage.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/jq2xYZPg_Fg/black-knight-national-mortgage.html"/>
+        <updated>2021-07-22T18:01:00.001Z</updated>
+        <summary type="html"><![CDATA[Note: At the beginning of the pandemic, the delinquency rate increased sharply (see table below).   Loans in forbearance are counted as delinquent in this survey, but those loans are not reported as delinquent to the credit bureaus.
+From Black Knight: Black Knight: 1.55 Million Serious Delinquencies Remain; At Current Rate of Reduction, 1 Million Still Likely As September's Wave of Forbearance Expirations Begins
+• The national delinquency rate hit its lowest level since the onset of the pandemic and is now back below its pre-Great Recession average
+  
+• Despite the improvement, there are more than 1.5 million homeowners 90 or more days past due on their mortgages but who are not in foreclosure, still nearly four times pre-pandemic levels
+  
+• Serious delinquency rates remain elevated by mo…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NMHC: July Apartment Market Tightness Index Highest on Record]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/v5_zHfEhwT8/nmhc-july-apartment-market-tightness.html</id>
@@ -6304,102 +6339,6 @@ Chapter 4. 심층 강화학습 Deep Reinforcement Learning
         <summary type="html"><![CDATA[A lot has changed about how economists study LGBTQ populations since Lee Badgett wrote the foundational papers in the 1990s. We spoke with her about her research and some of the issues involved in advancing the subdiscipline. Her paper on LGBTQ economics appears in the Journal of Economic Perspectives.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이썬을 이용한 데이터 분석의 정석/채진석 지음/루비페이퍼]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=274214427</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=274214427"/>
-        <updated>2021-06-23T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[파이썬을 이용한 데이터 분석의 정석
-채진석 지음 / 루비페이퍼 / 2021년 06월 / ISBN:9791186710708
-정가: 32,000원 / 판매가: 28,800원 / 마일리지: 132원
-이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드
-
-
-
-
-데이터 분석을 다룬 많은 책 중 나에게 맞는 책을 찾는 건 매우 어렵다. 이론 위주의 책을 선택하면 이해하기 어렵고, 응용 위주의 책을 선택하면 기본 개념이 부족하다. 이 책은 이론을 쉽게 설명하고 예제로 응용해 보도록 구성하여 자연스럽게 데이터 분석 과정을 익힐 수 있다.
-
-파이썬 데이터 분석에 필수로 사용되는 라이브러리를 단계적으로 다루어 데이터를 전처리하고 분석하는 능력을 갖춘다. 이 과정에서 넘파이, 판다스, 맷플롯립은 물론 연관 라이브러리까지 상세히 소개한다. 그리고 소개한 라이브러리를 종합하여 활용할 수 있는 세 가지 실전 예제를 담았다.
-
-01장 개발 환경 구축
-_1.1 아나콘다 설치
-___환경 변수 설정
-___파이썬 가상 환경 설정
-___conda와 pip 명령어
-_1.2 주피터 노트북
-__1.2.1 주피터 노트북의 주요 기능
-___주피터 노트북 애플리케이션
-__1.2.2 주피터 노트북 설치
-__1.2.3 주피터 노트북 사용
-__1.2.4 노트북 생성
-__1.2.5 노트북을 이용한 프로그래밍
-
-02장 파이썬 빅데이터 프로그래밍
-_2.1 파이썬과 R
-__2.1.1 파이썬과 R의 특징 및 성능 비교
-__2.1.2 파이썬과 R의 글로벌 선호도
-_2.2 파이썬 언어의 기본 개념
-__2.2.1 객체 지향 언어
-__2.2.2 파이썬 빅데이터 분석
-___빅데이터 분석을 위한 파이썬 라이브러리
-___넘파이와 사이파이
-___객체와 클래스
-___인스턴싱
-___모듈
-___함수와 메소드
-_2.3 대화형 컴퓨팅 IPython
-__2.3.1 IPython의 기능
-__2.3.2 IPyhon 설치
-___노트북
-__2.3.3 IPython의 주요 명령어
-___도움 및 찾기 명령어
-___탭 자동 완성
-___객체 탐색
-___셸 커맨드
-___매직 함수
-___실행 및 편집
-___디버깅
-__2.3.4 IPython QtConsole
-
-03장 넘파이
-_3.1 넘파이 배열
-__3.1.1 넘파이 모듈 임포트
-__3.1.2 넘파이 배열 생성
-___파이썬 유사 배열 객체를 넘파이 배열로 변환
-___넘파이 배열 생성 함수
-___배열 생성 함수 numpy.arange( )
-___디스크에서 읽어서 배열 생성
-__3.1.2 넘파이 ndarray 클래스
-___ndarray 객체 구조
-__3.1.3 넘파이 배열의 데이터 타입
-___numpy.dtype 적용
-_3.2 구조화된 배열
-__3.2.1 구조화된 데이터 타입
-___구조화된 데이터 타입 생성
-___구조화된 데이터 타입 조작 및 표시
-___자동 바이트 오프셋 및 정렬
-___필드 제목
-__3.2.2 구조화된 배열 인덱싱 및 할당
-___파이썬 고유 타입인 튜플로 할당
-___스칼라 값으로 할당
-___다른 구조화된 배열로 할당
-__3.2.2 인덱싱과 슬라이싱
-___기본 인덱싱 구문
-___배열 객체 요소 선택
-___기본 인덱싱과 슬라이싱
-___고급 인덱싱
-___불리언 배열로 인덱싱
-___슬라이싱과 인덱스 배열 처리
-___인덱스를 반환하는 numpy.n...
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론
-국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
