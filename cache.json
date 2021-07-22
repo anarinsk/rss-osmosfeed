@@ -546,6 +546,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/how-crowds-affect-performance-discriminated-groups",
+          "author": "Mauro Caselli, Paolo Falco, Gianpiero Mattera",
+          "description": "Racism in football returned to the headlines recently following racial abuse of England players on social media after the final of the UEFA European Championship. How does the harassment of supporters affect discriminated athletes? Using the COVID-19 lockdown as a natural experiment, this column compares the performance of individual football players in the Italian Serie A with and without fans at the stadium. The evidence shows that players of African origin, who are most frequently targeted by racist abuse, perform better in the absence of supporters.",
+          "link": "https://voxeu.org/article/how-crowds-affect-performance-discriminated-groups",
+          "publishedOn": "2021-07-22T00:00:00.000Z",
+          "wordCount": 1898,
+          "title": "How crowds affect the performance of discriminated groups"
+        },
+        {
+          "id": "https://voxeu.org/article/merits-kind-settlements-environmental-violations",
+          "author": "Pamela Campa, Lucija Muehlenbachs",
+          "description": "Every year in the US around 5,000 cases are brought against defendants for violating federal environmental statutes, with defendants given the opportunity to volunteer ‘Supplemental Environmental Projects’ in lieu of a cash penalty. This column uses the history of US federal environmental cases between 1997 and 2017 to examine the implications of such in-kind settlements for firms and communities. The findings suggest that on economic grounds, the use of Supplemental Environmental Projects is beneficial and worth continuing and that, as recommended by the OECD, environmental agencies worldwide could fruitfully use in-kind settlements.",
+          "link": "https://voxeu.org/article/merits-kind-settlements-environmental-violations",
+          "publishedOn": "2021-07-22T00:00:00.000Z",
+          "wordCount": 3048,
+          "title": "The merits of in-kind settlements for environmental violations"
+        },
+        {
           "id": "https://voxeu.org/article/reforming-macroprudential-regulatory-architecture-us",
           "author": "Kathryn Judge, Anil Kashyap",
           "description": "That a shock the size of the Covid-19 pandemic would trigger distress in financial markets is far from surprising. What is surprising is how much of the distress arose in domains that could have been identified posing a potential threat to stability well before the pandemic hit. This column explores how the US financial regulatory regime is falling short and proposes reforms to increase the likelihood that policymakers will identify and address threats to stability – before they harm the real economy.",
@@ -1471,6 +1489,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/PBxfRFDuUW0/thursday-unemployment-claims-existing.html",
+          "author": null,
+          "description": "Thursday:\n• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 348 thousand from 360 thousand last week.\n• Also at 8:30 AM, Chicago Fed National Activity Index for June.  This is a composite index of other data.\n• At 10:00 AM, Existing Home Sales for June from the National Association of Realtors (NAR).  The consensus is for 5.90 million SAAR, up from 5.80 million last month. Housing economist Tom Lawler expects the NAR to report 5.79 million SAAR.\n• At 11:00 AM, the Kansas City Fed manufacturing survey for July.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/PBxfRFDuUW0/thursday-unemployment-claims-existing.html",
+          "publishedOn": "2021-07-22T01:01:00.001Z",
+          "wordCount": 893,
+          "title": "Thursday: Unemployment Claims, Existing Home Sales"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/wU0ZnSThr8I/existing-home-inventory-in-june-local.html",
           "author": null,
