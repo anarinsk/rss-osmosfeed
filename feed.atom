@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-23T00:39:03.711Z</updated>
+    <updated>2021-07-23T04:15:48.629Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Invoicing currency choices by Japanese overseas subsidiaries]]></title>
+        <id>https://voxeu.org/article/invoicing-currency-choices-japanese-overseas-subsidiaries</id>
+        <link href="https://voxeu.org/article/invoicing-currency-choices-japanese-overseas-subsidiaries"/>
+        <updated>2021-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The currency a firm chooses to invoice in reveals lessons on the prominence of that currency in the international sphere. This column presents survey data from Japanese overseas subsidiaries, highlighting how the use of Asian currencies has been growing steadily. The authors show that among Asian local currencies, Chinese renminbi and Thai baht are the most used currencies by Japanese subsidiaries. If these countries become increasingly important destination markets for regional countries, local currencies will be used more as trade invoice currency in Asia.]]></summary>
+        <author>
+            <name>Takatoshi Ito, Satoshi Koibuchi, Kiyotaka Sato, Junko Shimizu, Taiyo  Yoshimi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hotels: Occupancy Rate Down 9% Compared to Same Week in 2019]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/Dl8vs8bGs2E/hotels-occupancy-rate-down-9-compared_22.html</id>
@@ -6500,16 +6510,6 @@ Chapter 4. 심층 강화학습 Deep Reinforcement Learning
 국내도서 > 수험서/자격증 > 컴퓨터 활용능력 > 신규 자격증/자격증 기타]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LGBTQ Economics]]></title>
-        <id>https://www.aeaweb.org/research/lee-badgett-lgbtq-economics</id>
-        <link href="https://www.aeaweb.org/research/lee-badgett-lgbtq-economics"/>
-        <updated>2021-06-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A lot has changed about how economists study LGBTQ populations since Lee Badgett wrote the foundational papers in the 1990s. We spoke with her about her research and some of the issues involved in advancing the subdiscipline. Her paper on LGBTQ economics appears in the Journal of Economic Perspectives.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
