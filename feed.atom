@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-22T20:12:35.731Z</updated>
+    <updated>2021-07-23T00:39:03.711Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hotels: Occupancy Rate Down 9% Compared to Same Week in 2019]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/Dl8vs8bGs2E/hotels-occupancy-rate-down-9-compared_22.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/Dl8vs8bGs2E/hotels-occupancy-rate-down-9-compared_22.html"/>
+        <updated>2021-07-22T22:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: The year-over-year occupancy comparisons are easy, since occupancy declined sharply at the onset of the pandemic.  So STR is comparing to the same week in 2019.
+The occupancy rate is down 8.7% compared to the same week in 2019.
+
+From CoStar: STR: Weekly US Hotel Occupancy Reaches Pre-Pandemic Level While ADR Drops Slightly
+U.S. weekly hotel occupancy reached its highest level since October 2019, according to STR‘s latest data through July 17.
+July 11-17, 2021 (percentage change from comparable week in 2019*):
+• Occupancy: 71.0% (-8.7%)
+• Average daily rate (ADR): US$139.19 (+1.8%)
+• Revenue per available room (RevPAR): US$98.87 (-7.1%)
+ Despite a four-point, week-over-week improvement in occupancy, ADR dipped slightly from the all-time high achieved the previous week.
+   emphasis added
+The following graph shows the seasonal pattern for the hotel occupancy rate using the four week average.
+Click on graph for larger image.
+The red line is for 2021, black is 2020, blue is the median, dashed purple is 2019, and dashed light blue is for 2009 (the worst year on record for hotels prior to 2020).
+
+Occupancy is well above the horrible 2009 levels and weekend occupancy (leisure) has been solid.
+Note: Y-axis doesn't start at zero to better show the seasonal change.
+
+
+With solid leisure travel, the Summer months should have decent occupancy - but it is uncertain what will happen in the Fall with business travel.  In another recent article, a CoStar analyst points out "Leisure Demand Continues To Do the Heavy Lifting for Industry".]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 22nd COVID-19, New Cases, Hospitalizations, Vaccinations]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/qeGVCd5c4-U/july-22nd-covid-19-new-cases.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/qeGVCd5c4-U/july-22nd-covid-19-new-cases.html"/>
+        <updated>2021-07-22T22:21:00.001Z</updated>
+        <summary type="html"><![CDATA[The 7-day average cases is the highest since May 8th.
+
+
+The 7-day average hospitalizations is the highest since May 28th.
+
+
+This data is from the CDC.
+According to the CDC, on Vaccinations.
+Total doses administered: 339,763,765, as of a week ago 336,054,953.  Average doses last week: 0.53 million per day.
+
+
+COVID Metrics
+  
+ TodayYesterdayWeek
+AgoGoal
+ Percent over 18,
+One Dose68.6%68.4%67.9%≥70.0%1,2
+ Fully Vaccinated✅
+(millions)162.2161.9160.4≥1601
+  
+New Cases per Day3🚩40,24637,64227,443≤5,0002
+  
+Hospitalized3🚩21,15320,28615,712≤3,0002
+  
+Deaths per Day3🚩223206204≤502
+  
+1 America's Short Term Goals,
+2my goals to stop daily posts,
+37 day average for Cases, Hospitalized, and Deaths
+🚩 Increasing 7 day average week-over-week for Cases, Hospitalized, and Deaths     
+✅ Goal met (even if late).
+  
+
+KUDOS to the residents of the 20 states and D.C. that have achieved the 70% goal (percent over 18 with at least one dose): Vermont, Hawaii, Massachusetts and Connecticut are at 80%+, and Maine, New Mexico, New Jersey,  Rhode Island, Pennsylvania, California, Maryland, Washington, New Hampshire, New York, Illinois, Virginia, Delaware, Minnesota, Oregon, Colorado and D.C. are all over 70%.
+
+Next up are Utah at 67.1%, Florida at 66.9%, Wisconsin at 66.6%, Nebraska at 66.4%, South Dakota at 65.4%, and Iowa at 64.9%.
+
+Click on graph for larger image.
+This graph shows the daily (columns) and 7 day average (line) of positive tests reported.
+
+
+Over 50,000 new cases reported today.
+
+This data is from the CDC.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comments on June Existing Home Sales]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/7ed88ndu5GI/comments-on-june-existing-home-sales.html</id>
@@ -372,6 +454,95 @@ This data is from the CDC.]]></summary>
         <summary type="html"><![CDATA[The use of telemedicine rose sharply under the COVID-19 pandemic, and in the coming years we are likely to see more healthcare delivery that mixes in-person with remote care. But concerns remain over whether remote care might reduce care quality or increase costs. This column examines the effect of increased access to telemedicine on care cost and outcomes using data from Israel around the country’s first lockdown in March and April 2020. Access to telemedicine results in a slight increase in primary care use and no significant increase in overall costs. There is no evidence for decreased accuracy or increased likelihood of adverse events.]]></summary>
         <author>
             <name>Dan Zeltzer, Liran Einav, Joseph Rashba, Ran Balicer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텐서플로 라이트를 활용한 안드로이드 딥러닝/임태규 지음/한빛미디어]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=276017637</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=276017637"/>
+        <updated>2021-07-20T23:52:00.000Z</updated>
+        <summary type="html"><![CDATA[텐서플로 라이트를 활용한 안드로이드 딥러닝
+임태규 지음 / 한빛미디어 / 2021년 08월 / ISBN:9791162244593
+정가: 27,000원 / 판매가: 24,300원 / 마일리지: 109원
+이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드
+
+
+
+
+안드로이드 앱에서 딥러닝 모델을 활용하는 방법을 최대한 입문자의 시선에 맞추어 풀어낸 책이다. 모델의 추론 성능을 측정하고 최적화하는 방법까지 다룬다. 또한 입문자의 진입장벽을 낮추기 위해 각 코드의 의미를 한 줄 한 줄 상세히 설명했다. 앱 개발 경험이 있는 안드로이드 개발자라면 이 책을 통해 직접 만든 앱에 딥러닝 모델을 배포하여 활용하는 방법을 빠르게 익힐 수 있다. 딥러닝 모델 개발 경험이 있는 AI 엔지니어라면 직접 개발한 모델을 안드로이드 환경에서 서비스하는 방법도 찾을 수 있다.
+
+1장. 안드로이드와 텐서플로 라이트 입문
+1.1 안드로이드와 텐서플로 라이트를 이용한 앱 개발 워크플로 
+1.2 안드로이드 입문 
+1.3 안드로이드 개발 환경 구축
+1.4 텐서플로 라이트 입문 
+1.5 텐서플로 라이트 개발 환경 구축 
+1.6 마무리
+
+2장. 처음 만드는 안드로이드 앱 
+2.1 안드로이드 프로젝트 생성 
+2.2 안드로이드 프로젝트의 구조 및 기본 코드 분석 
+2.3 안드로이드 개발 언어 
+2.4 Gradle 
+2.5 안드로이드 기기 테스트 
+2.6 마무리 
+
+3장. 안드로이드 앱 UI 구성
+3.1 레이아웃
+3.2 위젯 
+3.3 액티비티 
+3.4 액티비티와 UI 연결 
+3.5 외부 컴포넌트 불러오기 
+3.6 마무리 
+
+4장. 텐서플로 라이트 모델 개발
+4.1 텐서플로 라이트 모델 개발 워크플로 
+4.2 모델 선택 
+4.3 모델 개발
+4.4 모델 변환 
+4.5 기기 배포  
+4.6 마무리  
+
+5장. 텐서플로 라이트 모델을 이용한 안드로이드 앱 개발
+5.1 텐서플로 라이트 모델을 이용한 앱 개발 프로세스 
+5.2 입력 데이터 생성 앱 개발 
+5.3 TFLite 모델 로드 
+5.4 입력 이미지 전처리
+5.5 추론 및 결과 해석 
+5.6 마무리 
+
+6장. 프레임워크를 활용한 이미지 분류 앱 개발
+6.1 ImageNet 데이터 
+6.2 텐서플로 라이트 서포트 라이브러리 
+6.3 기기에 저장된 이미지 처리 
+6.4 카메라 이미지 처리 
+6.5 마무리  
+
+7장. 실시간 이미지 처리
+7.1 Camera2 API의 개요 
+7.2 실시간 이미지 처리 앱의 개요 
+7.3 레이아웃 개발  
+7.4 카메라 사용 로직 구현 
+7.5 기기에서의 추론 
+7.6 마무리 
+
+8장. 텐서플로 라이트 모델의 성능 개선
+8.1 추론 성능 측정 
+8.2 추론 성능 개선 
+8.3 마무리 
+
+9장. 텐서플로 라이트 모델 최적화
+9.1 최적화의 개요 
+9.2 학습 후 양자화 
+9.3 양자화 인식 학습 
+9.4 마무리 
+
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 자바
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론
+국내도서 > 컴퓨터/모바일 > 모바일 프로그래밍 > 안드로이드]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
