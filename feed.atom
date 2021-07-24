@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-24T16:16:56.402Z</updated>
+    <updated>2021-07-24T20:11:40.060Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -6279,95 +6279,6 @@ CHAPTER 5 파일 다루기 고급편
         <summary type="html"><![CDATA[Going to a demonstration makes people more likely to protest in the next one, but only if enough of their social network also goes, according to a paper in the American Economic Review: Insights.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Get IT 파이썬 프로그래밍/안지혜 지음/길벗]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=274359419</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=274359419"/>
-        <updated>2021-06-25T06:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's Get IT 파이썬 프로그래밍
-안지혜 지음 / 길벗 / 2021년 07월 / ISBN:9791165215965
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 112원
-이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드
-
-
-
-
-개발자로 일하던 저자가 교사가 되어 학생들에게 프로그래밍을 가르친 경험을 바탕으로 집필한 책이다. 프로그래밍을 힘들어하는 학생들이 좀 더 쉽고 재미있게 프로그래밍을 받아들일 수 있는 방법을 고민한 결과가 오롯이 담겨 있다. 친숙한 실생활 사례를 예제로 구현하고, 이해하기 쉽게 비유를 들어 설명한다. 
-또한, 머릿속으로 구상한 아이디어가 코드로 옮겨지는 과정을 최대한 자세히 실어 입문자가 초반에 겪는 코드 구현의 어려움을 극복할 수 있게 돕는다. 자세히 설명하고 직관적으로 이해할 수 있게 내용은 풍부하게 넣고, 가볍게 들고 다니도록 2권으로 분권 구성했다.
-
-Vol.1
-Part 1 일주일 만에 끝내는 파이썬 기초 
-
-1장 Hello, Python! 
-_1.1 프로그램과 프로그래밍 
-_1.2 파이썬 프로그래밍을 시작하기 전에 
-
-2장 데이터 입력하고 결과 출력하기
-_2.1 파이썬 명령어의 형식
-_2.2 실행 결과를 보여 주는 출력 명령어
-_2.3 데이터를 넣는 입력 명령어
-
-3장 변수로 데이터 저장하기
-_3.1 데이터를 저장하는 공간: 변수
-_3.2 변수에 저장되는 데이터의 유형: 데이터 타입
-
-4장 조건에 따라 해야 할 일이 다를 때: 조건문
-_4.1 조건이 하나일 때: if
-_4.2 조건을 충족하지 않을 때: else
-_4.3 조건이 여러 개일 때: elif
-_4.4 조건문 겹쳐 사용하기
-
-5장 같은 일을 여러 번 반복해야 할 때: 반복문
-_5.1 범위 내에서 반복하기: for
-_5.2 조건을 충족할 때 반복하기: while
-_5.3 반복문과 조건문 함께 사용하기
-_5.4 열심히 달리는 반복문에 브레이크 밟기: break
-
-6장 여러 데이터를 한 번에 묶어 표현하기: 리스트 
-_6.1 여러 데이터 한 번에 묶기
-_6.2 제어구조로 리스트 다루기
-_6.3 여러 개의 리스트 묶기
-
-7장 문자 기준으로 데이터 묶기: 딕셔너리
-_7.1 사전처럼 단어와 의미 연결하기
-_7.2 제어구조로 딕셔너리 다루기
-
-Vol.2
-Part 2 파이썬으로 데이터 분석하기
-
-8장 그래프로 데이터 시각화하기 
-_8.1 그래프 그리기 
-_8.2 다양한 유형의 그래프 그리기 
-_8.3 그래프 겹쳐 그리기
-
-9장 데이터 분석 기초 
-_9.1 데이터 준비: 파일에서 데이터 읽어 들이기 
-_9.2 데이터 추출: 필요한 데이터만 골라내기 
-_9.3 데이터 분석 도전: 카드 이용내역 분석하기
-
-10장 프로젝트 로드맵 그리기 
-_10.1 효율적인 프로젝트 진행을 도와주는 프로젝트 로드맵 
-_10.2 프로젝트 로드맵 작성하기
-
-11장 프로젝트로 파이썬 완성하기: 핫플레이스 인구 분석 
-_11.1 프로젝트 목표 수립하기
-_11.2 프로그램으로 구현하기
-
-12장 위치 정보 시각화하기: folium 
-_12.1 지도 만들기 
-_12.2 지도에 프로젝트 결과 표시하기
-
-Part 3 효율적인 프로그래밍을 위한 중급 파이썬
-
-13장 명령어 ...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
-국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 컴퓨터공학/전산학 개론]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
