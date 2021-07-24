@@ -479,24 +479,6 @@
           "publishedOn": "2021-06-25T06:31:00.000Z",
           "wordCount": null,
           "title": "Let's Get IT 파이썬 프로그래밍/안지혜 지음/길벗"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=274342255",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "패키지 없이 R로 구현하는 심층 강화학습\n이경택.박이삭.최영제 지음 / 비제이퍼블릭 / 2021년 06월 / ISBN:9791165920746\n정가: 26,000원 / 판매가: 23,400원 / 마일리지: 107원\n이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드\n\n\n\n\n강화학습의 기본 요소와 작동 원리에 대해 상세히 다루는데, 딥러닝 프레임 워크를 사용하는 것이 아닌, R base code로 강화학습을 구현하여 강화학습 작동원리를 이해한다. Atari 게임 환경 외에 실생활에서 강화학습을 적용하고자 하는 독자들을 위하여 환경을 직접 설계함과 동시에 패키지 없이 low level부터 모든 것을 구현하기 때문에, 이 책을 통해 강화학습의 이론적 내용을 이해하고 알고리즘 및 환경을 구현하는 능력을 함양하여, 풀고자 하는 다양한 상황에서 쉽게 활용할 수 있을 것이다.\n\nChapter 0. R 언어 소개\r\n0.1 R 설치\r\n> 0.1.1 Windows 버전 R 다운로드 \r\n> 0.1.2 mac OS 버전 R 다운로드 \r\n0.2 R 전용 통합 개발 환경(IDE) 설치\r\n\r\nChapter 1. 머신러닝이란 Machine Learning\r\n1.1 머신러닝이 필요한 이유\r\n> 1.1.1 머신러닝 학습시키기 \r\n> 1.1.2 손실 함수 \r\n> 1.1.3 머신러닝의 구분 \r\n1.2 딥러닝(Deep Learning)\r\n> 1.2.1 딥러닝의 사례 \r\n\r\nChapter 2. 딥러닝 Deep Learning\r\n2.1 퍼셉트론(Perceptron)\r\n2.2 Multi Layer Perceptron(MLP)\r\n> 2.2.1 Feed Forward \r\n> 2.2.2 Back Propagation \r\n> 2.2.3 활성 함수(Activation Function) \r\n> 2.2.4 Gradient Descent Method \r\n> 2.2.5 Iteration & Batch Size \r\n> 2.2.6 딥러닝의 단점 및 극복 \r\n2.3 딥러닝(Deep Learning)\r\n> 2.3.1 Universal Approximation Theorem \r\n> 2.3.2 Convolutional Neural Network(CNN) \r\n> 2.3.3 다양한 CNN 구조 \r\n> 2.3.4 Recurrent Neural Network(RNN) \r\n> 2.3.5 다양한 RNN 구조 \r\n> 2.3.6 GAN 학습 과정 - Feed Forward \r\n> 2.3.7 GAN 학습 과정 - Back Propagation \r\n2.4 R로 구현하는 신경망\r\n> 2.4.1 Feed Forward \r\n> 2.4.2 Back Propagation \r\n\r\nChapter 3. 강화학습 Reinforcement Learning\r\n3.1 강화학습 정의 요소 \r\n> 3.1.1 상태(State) \r\n> 3.1.2 행동(Action) \r\n> 3.1.3 정책(Policy) \r\n> 3.1.4 보상(Reward) \r\n> 3.1.5 감가율과 감가 누적 보상(Discount factor and Return) \r\n> 3.1.6 상태 가치 함수(State Value Function) \r\n> 3.1.7 행동 가치 함수(Action Value Function) \r\n> 3.1.8 벨만 방정식(Bellman equation) \r\n> 3.1.9 몬테 카를로 학습(Monte-Carlo Learning, MC) \r\n> 3.1.10 시간 차 학습(Temporal Difference Learning, TD) \r\n> 3.1.11 정책 갱신 \r\n3.2 손으로 풀어보는 Q-Learning\r\n\r\nChapter 4. 심층 강화학습 Deep Reinforcement Learning\r\n4.1 Deep Q-Learning with Experience Replay(DQN)\r\n[예제 4-1] DQN으로 최적 경로 찾기\r\n4.2 Prioritized Experience Replay (PerDQN)\r\n[예제 4-2] PerDQN으로...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=274342255",
-          "publishedOn": "2021-06-25T03:21:00.000Z",
-          "wordCount": null,
-          "title": "패키지 없이 R로 구현하는 심층 강화학습/이경택.박이삭.최영제 지음/비제이퍼블릭"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=274333931",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "기초부터 블록체인 실습까지 단숨에 배우는 타입스크립트\n야코프 페인.안톤 모이세예프 지음, 이수진 옮김 / 영진.com(영진닷컴) / 2021년 07월 / ISBN:9788931465266\n정가: 32,000원 / 판매가: 28,800원 / 마일리지: 121원\n이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드\n\n\n\n\n타입스크립트는 자바스크립트 웹 개발에 자료형을 더해 잘못된 데이터로 발생할 수 있는 오류 대부분을 제거해 안정적인 서비스를 제공할 수 있도록 해주는 언어다. 또한, 코드의 사용 목적과 작동 방식을 이해하기 쉽게 만들어주어 협업에도 유리한 언어다.\r\n\r\n단숨에 배우는 타입스크립트는 생산적인 개발을 하고 싶은 이들에게 타입스크립트 사용에 필요한 핵심 개념을 소개하는 책이다. 타입스크립트의 기초부터 데코레이터와 조건타입 같은 고급 기능을 설명하며 실제로 체험할 수 있도록 실습 위주로 설명한다.\r\n\r\n그리고 블록체인 프로젝트를 개발해보며, 타입스크립트 개발을 더 쉽게 만들어주는 도구들과 앵귤러, 리액트, 뷰처럼 프로젝트 구축에 사용되는 자바스크립트 라이브러리와 타입스크립트를 함께 사용하는 법을 배울 수 있다.\n\n1부. 타입스크립트 문법 완전 정복\r\n\r\n제 1장: 타입스크립트 기초\r\n1.1 왜 타입스크립트인가\r\n1.2 타입스크립트 애플리케이션 개발 과정\r\n1.3 타입스크립트 컴파일러\r\n1.4 비주얼 스튜디오 코드\r\n요약\r\n\r\n제 2장: 기본 타입과 커스텀 타입\r\n2.1 변수 타입 선언\r\n2.2 커스텀 타입 정의\r\n2.3 any, unknown\r\n2.4 연습 문제\r\n요약\r\n\r\n제 3장: 클래스와 인터페이스를 사용한 객체 지향 프로그래밍\r\n3.1 클래스 사용\r\n3.2 인터페이스 사용\r\n요약\r\n\r\n제 4장: 열거 타입(Enum)과 제너릭(Generic)\r\n4.1 열거 타입(Enum)\r\n4.2 제네릭(Generic)\r\n요약\r\n\r\n제 5장: 데코레이터와 심화 타입\r\n5.1 데코레이터\r\n5.2 맵핑 타입\r\n5.3 조건 타입\r\n요약\r\n\r\n제 6장: 도구\r\n6.1 소스맵\r\n6.2 ESLint 린터\r\n6.3 웹팩을 사용한 번들링\r\n6.4 바벨 트랜스파일러\r\n6.5 주목해야 할 타입스크립트 도구\r\n요약\r\n\r\n제 7장: 프로젝트에서 타입스크립트와 자바스크립트를 동시에 사용하기\r\n7.1 타입 정의 파일\r\n7.2 자바스크립트 라이브러리를 활용한 타입스크립트 개발 실습\r\n7.3 자바스크립트 프로젝트에 타입스크립트 도입\r\n요약\r\n\r\n2부. 타입스크립트로 블록체인 앱 만들기\r\n\r\n제 8장: 타입스크립트를 활용한 블록체인 애플리케이션 개발 실습\r\n8.1 블록체인 기초\r\n8.2 블록체인 앱 개발\r\n요약\r\n\r\n제 9장: 브라우저 기반 블록체인 노드 개발\r\n9.1 블록체인 앱 실행\r\n9.2 웹 클라이언트\r\n9.3 블록 채굴\r\n9.4 해시 생성을 위한 crypto API 사용\r\n9.5 독립형 블록체인 클라이언트\r\n9.6 브라우저 내 타입스크립트 디버깅\r\n요약\r\n\r\n제 10장: Node.js, 타입스크립트, 웹소켓을 사용한 클라이언트-서버 간 통신\r\n10.1 가장 긴 체인 규칙\r\n10.2 블록체인 서버\r\n10.3 프로젝트 구조\r\n10.4 프로젝트 환경 설정\r\n10.5 웹소켓\r\n10.6 알림\r\n요약\r\n\r\n제 11장: 타입스크립트 기반 앵귤러 애플리케이션 개발\r\n11.1 앵귤러 CLI로 앱 생성 및 실행\r\n11.2 생성된 앱 살펴보기\r\n11.3 앵귤러 서비스와 의존성 주입\r\n11.4 ProductService 주입\r\n11.5 타입스크립트 추상화 프로...\n\n국내도서 > 컴퓨터/모바일 > 웹디자인/홈페이지 > HTML/JavaScript\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=274333931",
-          "publishedOn": "2021-06-25T01:48:00.000Z",
-          "wordCount": null,
-          "title": "기초부터 블록체인 실습까지 단숨에 배우는 타입스크립트/야코프 페인.안톤 모이세예프 지음, 이수진 옮김/영진.com(영진닷컴)"
         }
       ]
     },
@@ -1481,15 +1463,6 @@
           "publishedOn": "2021-07-07T04:35:18.000Z",
           "wordCount": 127,
           "title": "Feasible Joint Posterior Beliefs"
-        },
-        {
-          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/714994?af=R",
-          "author": "Kilian Huber",
-          "description": "Journal of Political Economy, Ahead of Print.",
-          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/714994?af=R",
-          "publishedOn": "2021-06-25T03:14:58.000Z",
-          "wordCount": 127,
-          "title": "Discrimination, Managers, and Firm Performance: Evidence from “Aryanizations” in Nazi Germany"
         }
       ]
     },
