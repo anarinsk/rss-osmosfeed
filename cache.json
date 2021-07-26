@@ -546,6 +546,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/macroprudential-framework-non-bank-financial-intermediation",
+          "author": "Maurizio Trapanese",
+          "description": "The policy framework developed so far on non-bank financial intermediation has been based mainly on microprudential tools, looking at individual institutions and activities. This column argues that the effectiveness of these tools could be strengthened if they are accompanied by a comprehensive framework to control systemic risk. This framework could be built around determining the correct pricing of backstops, resolving the trade-off between systemic risk and intermediation costs, mitigating the risk of runs on money market funds, resolving the agency problems in some non-bank financial intermediation transactions, and enhancing the stress test tools.",
+          "link": "https://voxeu.org/article/macroprudential-framework-non-bank-financial-intermediation",
+          "publishedOn": "2021-07-26T00:00:00.000Z",
+          "wordCount": 2693,
+          "title": "A macroprudential framework for non-bank financial intermediation"
+        },
+        {
+          "id": "https://voxeu.org/article/central-bank-digital-currency-uk",
+          "author": "Lucile Crumpton, Ethan Ilzetzki",
+          "description": "Central banks across the world are starting to experiment with digital currencies. This column summarises the findings from a survey of a CfM of experts on the UK economy, who were nearly unanimous in agreeing that a Bank of England-issued digital currency would benefit the British economy. Half of the panel also believed that a digital currency would have limited impact on the UK banking system.",
+          "link": "https://voxeu.org/article/central-bank-digital-currency-uk",
+          "publishedOn": "2021-07-26T00:00:00.000Z",
+          "wordCount": 2801,
+          "title": "Central bank digital currency for the UK"
+        },
+        {
+          "id": "https://voxeu.org/article/impact-fundamentals-and-promotion-policy-trade-invoicing",
+          "author": "Georgios Georgiadis, Helena Le Mezo , Arnaud Mehl, Cédric Tille",
+          "description": "The US dollar has a dominant role in currency invoicing of global trade, covering around 40% of international transactions, followed by the euro and the renminbi. This column analyses the effects of economic fundamentals and government policies on currency invoicing patterns. Strategic complementarities and integration in global value chains are both important determinants of dollar and euro invoicing in trade with the US and the euro area, while the establishment of currency swap lines by the People’s Bank of China has been associated with increases in renminbi invoicing, with an adverse effect on dollar use.",
+          "link": "https://voxeu.org/article/impact-fundamentals-and-promotion-policy-trade-invoicing",
+          "publishedOn": "2021-07-26T00:00:00.000Z",
+          "wordCount": 2295,
+          "title": "The impact of fundamentals and promotion policy on trade invoicing"
+        },
+        {
           "id": "https://voxeu.org/article/competition-online-platforms-and-impoverishment-newspapers",
           "author": "Milena Djourelova, Ruben Durante, Gregory J.  Martin",
           "description": "Newspapers have lost significant advertising revenues to competition from online platforms. How this affects local newspapers’ ability to inform citizens about political matters is important for democratic politics. This column studies the impact of the introduction of Craigslist on US newspapers and its political implications. After the opening of a Craigslist in a county, local newspapers cut staff, disproportionately affecting political desk editors. News coverage of local Congressional representatives significantly decreased, and in elections, voters favoured more ideologically extreme candidates.",
@@ -849,6 +876,312 @@
       "feedUrl": "https://back.nber.org/rss/new.xml",
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
+        {
+          "id": "https://www.nber.org/papers/w29084#fromrss",
+          "author": null,
+          "description": "This paper shows that local productivity spillovers propagate throughout the economy through the plant-level networks of multi-region firms. Using confidential Census plant-level data, we show that large manufacturing plant openings not only raise the productivity of local plants but also of distant plants hundreds of miles away, which belong to multi-region firms that are exposed to the local productivity spillover through one of their plants. To quantify the significance of plant-level networks for the propagation and amplification of local productivity shocks, we develop and estimate a quantitative spatial model in which plants of multi-region firms are linked through shared knowledge. Our model features heterogeneous regions, which interact through goods trade and labor markets, as well as within-location, across-plant heterogeneity in productivity, wages, and employment. Counterfactual exercises show that while knowledge sharing through plant-level networks amplifies the aggregate effects of local productivity shocks, it widens economic disparities between individual workers and regions in the economy.",
+          "link": "https://www.nber.org/papers/w29084#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.899Z",
+          "wordCount": 948,
+          "title": "Propagation and Amplification of Local Productivity Spillovers -- by Xavier Giroud, Simone Lenzu, Quinn Maingi, Holger Mueller"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29078#fromrss",
+          "author": null,
+          "description": "How do people arrange themselves when they are free to choose work and residence locations, when commuting is costly, and when increasing returns may affect production? We consider this problem when the location set is discrete and households have heterogenous preferences over workplace-residence pairs. We provide a general characterization of equilibrium throughout the parameter space. The introduction of preference heterogeneity into an otherwise conventional urban model fundamentally changes equilibrium behavior. Multiple equilibria are pervasive although stable equilibria need not exist. Stronger increasing returns to scale need not concentrate economic activity and lower commuting costs need not disperse it. The qualitative behavior of the model as returns to scale increase accords with changes in the patterns of urbanization observed in the Western world between the pre-industrial period and the present.",
+          "link": "https://www.nber.org/papers/w29078#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.883Z",
+          "wordCount": 883,
+          "title": "A Unified Theory of Cities -- by Jacques-François Thisse, Matthew Turner, Philip Ushchev"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29085#fromrss",
+          "author": null,
+          "description": "We present evidence that the mix of transitory and permanent shocks to consumption is changing over time. We study the implications of this finding for asset prices. The uncovered dynamics of consumption implies modestly upward sloping real bond and equity curves, upward sloping nominal yield curve, and sign-switching correlation between equities and bonds consistent with the stylized facts. This is achieved without relying on the nominal channel too much. That is, as in the data, the variation of inflation in the model is under 40% as a fraction of variation in nominal yields.",
+          "link": "https://www.nber.org/papers/w29085#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.854Z",
+          "wordCount": 790,
+          "title": "The Real Explanation of Nominal Bond-Stock Puzzles -- by Mikhail Chernov, Lars A. Lochstoer, Dongho Song"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29075#fromrss",
+          "author": null,
+          "description": "Vaccine hesitancy is modelled as an endogenous decision within a behavioural SIR model with endogenous agent activity. It is shown that policy interventions that directly target costs associated with vaccine adoption may counter vaccine hesitancy while those that manipulate the utility of unvaccinated agents will either lead to the same or lower rates of vaccine adoption. This latter effect arises with vaccine passports whose effects are mitigated in equilibrium by reductions in viral/disease prevalence that themselves reduce the demand for vaccination.",
+          "link": "https://www.nber.org/papers/w29075#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.834Z",
+          "wordCount": 747,
+          "title": "Vaccine Hesitancy, Passports and the Demand for Vaccination -- by Joshua S. Gans"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29074#fromrss",
+          "author": null,
+          "description": "This article establishes four key findings of the growing literature on experience effects in finance: (1) the long-lasting imprint of past experiences on beliefs and risk taking, (2) recency effects, (3) the domain-specificity of experience effects, and (4) imperviousness to information that is not experience-based. I first discuss the neuroscientific foundations of experience-based learning and sketch a simple model of its role in the stock market based on Malmendier et al. (2020a,b). I then distill the empirical findings on experience effects in stock-market investment, trade dynamics, and international capital flows, highlighting these four key features. Finally, I contrast models of belief formation that rely on “learned information” with models accounting for the neuroscience evidence on synaptic tagging and memory formation, and provide directions for future research.",
+          "link": "https://www.nber.org/papers/w29074#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.814Z",
+          "wordCount": 843,
+          "title": "Experience Effects in Finance: Foundations, Applications, and Future Directions -- by Ulrike Malmendier"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29086#fromrss",
+          "author": null,
+          "description": "In response to the Covid-19 crisis, 186 countries implemented direct cash transfers to households, and 181 introduced in-kind programs that lowered the cost of utilities such as electricity, water, transport, and mobile money. Do cash or in-kind transfers generate greater welfare improvements? And, does a country’s financial infrastructure affect optimal aid disbursement? Through a parallel set of surveys in two urban regions in Africa—with comparable education, cell phone ownership, and electricity connectivity—we show that optimal government aid disbursement hinges on financial infrastructure. In line with economic theory favoring direct cash transfers, in a randomized experiment in Kenya 95% of urban recipients prefer mobile money over electricity transfers of a similar monetary value. But Kenya is an outlier with high mobile money adoption: this increases its value and reduces transaction costs of buying electricity credit. By contrast, in Ghana—where mobile money is less widespread and the transaction costs for buying electricity are higher—half of recipients prefer electricity transfers, and many are willing to forego significant value to receive electricity instead of mobile money. These results have several important policy implications. First, the optimal government policy in response to an economic crisis is not uniform: cash and in-kind transfers have different advantages that make each suitable for specific contexts. Second, the adoption of modern financial technologies will likely increase the efficiency of government cash transfer programs, even as in-kind transfers continue to be preferred in settings where mobile money uptake is slow. Finally, giving recipients a choice harnesses valuable local information that a policy maker may not have access to.",
+          "link": "https://www.nber.org/papers/w29086#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.769Z",
+          "wordCount": 1140,
+          "title": "Money or Power? Financial Infrastructure and Optimal Policy -- by Susanna B. Berkouwer, Pierre E. Biscaye, Eric Hsu, Oliver W. Kim, Kenneth Lee, Edward Miguel, Catherine Wolfram"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29083#fromrss",
+          "author": null,
+          "description": "The COVID-19 pandemic and associated mitigation strategies exacted a large economic toll on large portions of the United States population. For older and disabled workers, the effects could be more persistent and fiscally costly than the impacts experienced by young, healthy workers due to the spillovers onto Social Security. We use Current Population Survey, Social Security administrative data on applications for retirement and disability benefits, and Google Trends data to assess the impact of COVID-19 on older adults age 50-70. We find that employment for this group dropped substantially more than would have been predicted prior to the pandemic: employment for 50-61 year olds was 5.7 pp (8.3 percent) lower, while employment for 62-70-year- olds was 3.9 pp (10.7 percent) lower. For people aged 50-61, unemployment and labor force exits due to reasons other than disability and retirement represented 63 and 30 percent of the employment decline, respectively. For those aged 62-70, the two largest components of the reduction were unemployment (50 percent) and retirement-driven labor force exits (30 percent). We find evidence of declines in reporting a labor force exit due to disability (4-5 percent), applications for disability insurance (15 percent), and Google search intensity for disability (7 percent). Retirement benefit claiming remains largely unchanged overall, though we find evidence that applicants substituted towards filing for benefits via the internet. We explore potential mechanisms and find evidence for both supply- and demand-side explanations.",
+          "link": "https://www.nber.org/papers/w29083#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.528Z",
+          "wordCount": 1058,
+          "title": "The Impact of Covid-19 on Older Workers' Employment and Social Security Spillovers -- by Gopi Shah Goda, Emilie Jackson, Lauren Hersch Nicholas, Sarah See Stith"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29082#fromrss",
+          "author": null,
+          "description": "Investments in international fixed income securities are exposed to significant currency risks. We collect novel data on mutual fund currency derivatives and document that around 90% of U.S. international fixed income funds use currency forwards to manage their foreign exchange exposure. Funds' currency forward positions differ substantially based on risk management demands related to portfolio currency exposures, return-enhancement motives such as currency momentum and carry trade, and strategic considerations related to past performance and fund clienteles. Funds that hedge their currency risk exhibit lower return variability, but do not generate inferior abnormal returns.",
+          "link": "https://www.nber.org/papers/w29082#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.491Z",
+          "wordCount": 890,
+          "title": "Currency Management by International Fixed Income Mutual Funds -- by Clemens Sialm, Qifei Zhu"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29081#fromrss",
+          "author": null,
+          "description": "It is widely believed that Treasuries trade at premium prices because of their safety and money-like properties. In reality, this is only true on a relative basis when compared to other bonds, but is often not true on an absolute basis. Many Treasuries have repeatedly traded at substantial discounts to their intrinsic fair values for extended periods during the past 25 years. Since 2015, Treasuries have consistently been priced at an aggregate discount of $100 to $300 billion below their fair values. Treasuries often actually become cheaper following crises. These results provide new perspectives on safe-asset theories.",
+          "link": "https://www.nber.org/papers/w29081#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.476Z",
+          "wordCount": 772,
+          "title": "Treasury Richness -- by Matthias Fleckenstein, Francis A. Longstaff"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29080#fromrss",
+          "author": null,
+          "description": "This paper estimates the impact on consumer behavior of a firm’s voluntary disclosure of information. Specifically, we study the impact of Starbucks’ disclosure of calorie information on its menu boards in June 2013. Using data on over 250,000 consumers’ visits to specific restaurant chains, we estimate difference-in-difference models that compare the change in the probability that consumers recently visited Starbucks to the change in the probability that they recently visited a similar chain that did not voluntarily disclose: Dunkin Donuts. Estimates from difference-in-differences models indicate that we cannot reject the null hypothesis that Starbucks’ disclosure of calorie information had no impact on the probability that consumers patronized Starbucks in the past month. However, we find evidence of a transitory negative impact on the probability of visits the first year after disclosure, and evidence that disclosure reduced the probability of visits by men. These results are useful for understanding how consumers respond to the voluntary disclosure of information, a decision faced by many firms.",
+          "link": "https://www.nber.org/papers/w29080#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.464Z",
+          "wordCount": 850,
+          "title": "Consumer Responses to Firms’ Voluntary Disclosure of Information: Evidence from Calorie Labeling by Starbucks -- by Rosemary Avery, John Cawley, Julia Eddelbuettel, Matthew D. Eisenberg, Charlie Mann, Alan D. Mathios"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29079#fromrss",
+          "author": null,
+          "description": "We evaluate the long-run effects of a decentralized approach to economic development, called community driven development (CDD), a prominent strategy for delivering foreign aid. Notably we revisit a randomized CDD program in Sierra Leone 11 years after launch. We estimate large persistent gains in local public goods and market activity, and modest positive effects on institutions. There is suggestive evidence that CDD slightly improved communities’ response to the 2014 Ebola epidemic. We compare estimates to the forecasts of experts from Sierra Leone and abroad, working in policy and academia, and find that local policymakers are overly optimistic about CDD’s effectiveness.",
+          "link": "https://www.nber.org/papers/w29079#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.427Z",
+          "wordCount": 919,
+          "title": "Long Run Effects of Aid: Forecasts and Evidence from Sierra Leone -- by Katherine Casey, Rachel Glennerster, Edward Miguel, Maarten J. Voors"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29077#fromrss",
+          "author": null,
+          "description": "In this paper, we use a unique two-stage experiment that randomized access to school vouchers across both markets and students in rural India to estimate the revealed preference value of school choice. In the first step of the research design, we develop an empirical model of school choice subject to liquidity and credit constraints that is estimated using data from only the control markets. Based on this exercise, we estimate that the voucher generated welfare gains exceeding four times the average private school's annual tuition on average to the students induced into private schooling. The second step of the research design will validate the estimated welfare impacts by comparing model predictions for a simulated voucher program in control markets with the data from the treatment group. The results in this paper are based on the first step (using only control data) and this draft serves as a pre-commitment to the model estimates and predictions before examining the experimental data.",
+          "link": "https://www.nber.org/papers/w29077#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.415Z",
+          "wordCount": 893,
+          "title": "Experimentally Validating Welfare Evaluation of School Vouchers: Part I -- by Peter Arcidiacono, Karthik Muralidharan, Eun-young Shim, John D. Singleton"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29076#fromrss",
+          "author": null,
+          "description": "Are market experts prone to heuristics, and if so, do they transfer across closely related domains—buying and selling? We investigate this question using a unique dataset of institutional investors with portfolios averaging $573 million. A striking finding emerges: while there is clear evidence of skill in buying, selling decisions underperform substantially—even relative to random selling strategies. This holds despite the similarity between the two decisions in frequency, substance and consequences for performance. Evidence suggests that an asymmetric allocation of cognitive resources such as attention can explain the discrepancy: we document a systematic, costly heuristic process when selling but not when buying.",
+          "link": "https://www.nber.org/papers/w29076#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.399Z",
+          "wordCount": 921,
+          "title": "Selling Fast and Buying Slow: Heuristics and Trading Performance of Institutional Investors -- by Klakow Akepanidtaworn, Rick Di Mascio, Alex Imas, Lawrence Schmidt"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29073#fromrss",
+          "author": null,
+          "description": "Circular Economy literature recommends longer lasting products, in order to reduce pollution from extraction, production, and disposal. Our economic analysis finds conditions where consumers choose lives that are too short – a “durability gap”. Then policies targeting durability raise welfare. While externalities are corrected by Pigovian taxes that ignore durability, raising the output tax nonetheless induces consumers to pay more for goods that last longer. Second, if the tax is suboptimal, a durability mandate raises welfare. Third, internalities have ambiguous effects. Fourth, a social discount rate less than private discount rate is the strongest case for policy to favor durability.",
+          "link": "https://www.nber.org/papers/w29073#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.360Z",
+          "wordCount": 818,
+          "title": "Do Market Failures Create a ‘Durability Gap’ in the Circular Economy? -- by Don Fullerton, Shan He"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29072#fromrss",
+          "author": null,
+          "description": "The recent Supreme Court decision NCAA vs Alston (June 2021) has heightened interest in the benefits and costs of participation in sports for student athletes. Anecdotes about the exploitation of student athletes were cited in the opinion. This paper uses panel data for two different cohorts that follow students from high school through college and into their post-school pursuits to examine the generality of these anecdotes. On average, student athletes’ benefit—often substantially so—in terms of graduation, post-collegiate employment, and earnings. Benefits in terms of social mobility for disadvantaged and minority students are substantial, contrary to the anecdotes in play in the media and in the courts.",
+          "link": "https://www.nber.org/papers/w29072#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.347Z",
+          "wordCount": 897,
+          "title": "Athletes Greatly Benefit from Participation in Sports at the College and Secondary Level -- by James J. Heckman, Colleen P. Loughlin"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29071#fromrss",
+          "author": null,
+          "description": "Previous studies of the effect of ridesharing on traffic fatalities have yielded inconsistent, often contradictory conclusions. In this paper we revisit this question using proprietary data from Uber measuring monthly rideshare activity at the Census tract level. Most previous studies are based on publicly-available information about Uber entry dates into US cities, but we show that an indicator variable for whether Uber is available is a poor measure of rideshare activity — for example, it explains less than 3% of the tract-level variation in ridesharing, reflecting the enormous amount of variation both within and across cities. Using entry we find inconsistent and statistically insignificant estimates. However, when we use the more detailed proprietary data, we find a robust negative impact of ridesharing on traffic fatalities. Impacts concentrate during nights and weekends and are robust across a range of alternative specifications. Overall, our results imply that ridesharing has decreased US alcohol-related traffic fatalities by 6.1% and reduced total US traffic fatalities by 4.0%. Based on conventional estimates of the value of statistical life the annual life-saving benefits range from $2.3 to $5.4 billion. Back-of-the-envelope calculations suggest that these benefits may be of similar magnitude to producer surplus captured by Uber shareholders or consumer surplus captured by Uber riders.",
+          "link": "https://www.nber.org/papers/w29071#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.314Z",
+          "wordCount": 918,
+          "title": "Uber and Alcohol-Related Traffic Fatalities -- by Michael L. Anderson, Lucas W. Davis"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29070#fromrss",
+          "author": null,
+          "description": "The COVID-19 pandemic has devastated many low- and middle-income countries (LMICs), causing widespread food insecurity and a sharp decline in living standards. In response to this crisis, governments and humanitarian organizations worldwide have mobilized targeted social assistance programs. Targeting is a central challenge in the administration of these programs: given available data, how does one rapidly identify the individuals and families with the greatest need? This challenge is particularly acute in the large number of LMICs that lack recent and comprehensive data on household income and wealth. Here we show that non-traditional “big” data from satellites and mobile phone networks can improve the targeting of anti-poverty programs. Our approach uses traditional survey-based measures of consumption and wealth to train machine learning algorithms that recognize patterns of poverty in non-traditional data; the trained algorithms are then used to prioritize aid to the poorest regions and mobile subscribers. We evaluate this approach by studying Novissi, Togo’s flagship emergency cash transfer program, which used these algorithms to determine eligibility for a rural assistance program that disbursed millions of dollars in COVID-19 relief aid. Our analysis compares outcomes – including exclusion errors, total social welfare, and measures of fairness – under different targeting regimes. Relative to the geographic targeting options considered by the Government of Togo at the time, the machine learning approach reduces errors of exclusion by 4-21%. Relative to methods that require a comprehensive social registry (a hypothetical exercise; no such registry exists in Togo), the machine learning approach increases exclusion errors by 9-35%. These results highlight the potential for new data sources to contribute to humanitarian response efforts, particularly in crisis settings when traditional data are missing or out of date.",
+          "link": "https://www.nber.org/papers/w29070#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.301Z",
+          "wordCount": 1133,
+          "title": "Machine Learning and Mobile Phone Data Can Improve the Targeting of Humanitarian Assistance -- by Emily Aiken, Suzanne Bellue, Dean Karlan, Christopher R. Udry, Joshua Blumenstock"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29069#fromrss",
+          "author": null,
+          "description": "Theoretically, wealthier people should buy less insurance, and should self-insure through saving instead, as insurance entails monitoring costs. Here, we use administrative data for 63,000 individuals and, contrary to theory, find that the wealthier have better life and property insurance coverage. Wealth-related differences in background risk, legal risk, liquidity constraints, financial literacy, and pricing explain only a small fraction of the positive wealth-insurance correlation. This puzzling correlation persists in individual fixed-effects models estimated using 2,500,000 person-month observations. The fact that the less wealthy have less coverage, though intuitively they benefit more from insurance, might increase financial health disparities among households.",
+          "link": "https://www.nber.org/papers/w29069#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.288Z",
+          "wordCount": 782,
+          "title": "Wealth and Insurance Choices: Evidence from US Households -- by Michael J. Gropper, Camelia M. Kuhnen"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29068#fromrss",
+          "author": null,
+          "description": "This paper studies how increasing teacher compensation at hard-to-staff schools can reduce inequality in access to qualified teachers. Leveraging an unconditional change in the teacher compensation structure in Peru, we first show causal evidence that increasing salaries at less desirable locations attracts better quality applicants and improves student test scores. We then estimate a model of teacher preferences over local amenities, school characteristics, and wages using geocoded job postings and rich application data from the nationwide centralized teacher assignment system. Our estimated model suggests that the current policy is helpful but both inefficient and not large enough to effectively undo the inequality of initial conditions that hard-to-staff schools and their communities face. Counterfactual analyses that incorporate equilibrium sorting effects characterize alternative wage schedules and quantify the cost of reducing structural inequality in the allocation of teacher talent across schools. Overall our results show that a policy that sets compensation at each job posting using the information generated by the matching platform is more efficient and can help reduce structural inequality in access to learning opportunities. In comparison, a rigid system that ignores teacher preferences will indirectly reinforce such inequalities.",
+          "link": "https://www.nber.org/papers/w29068#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.251Z",
+          "wordCount": 960,
+          "title": "Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru -- by Matteo Bobba, Tim Ederer, Gianmarco Leon-Ciliotta, Christopher Neilson, Marco G. Nieddu"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29067#fromrss",
+          "author": null,
+          "description": "Electric vehicles are declining in cost so rapidly that they may claim a large share of the vehicle market by 2030. This paper examines a set of practical regulatory design considerations for fuel-economy standards or greenhouse gas standards in the context of highly uncertain electric vehicle costs in the next decade. The analysis takes a cost-effectiveness approach and uses analytical modeling and simulation to develop insight. I show that counting electric vehicles under a standard with a multiplier or assuming zero upstream emissions can reduce electric vehicle market share by weakening the standards. Further, there are tradeoffs from implementing a backstop conventional vehicle standard along with a second standard that also includes electric vehicles, but such a backstop offers the possibility of ensuring that low-cost conventional vehicle technologies are exploited.",
+          "link": "https://www.nber.org/papers/w29067#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.230Z",
+          "wordCount": 874,
+          "title": "Designing Fuel-Economy Standards in Light of Electric Vehicles -- by Kenneth Gillingham"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29066#fromrss",
+          "author": null,
+          "description": "We study a prominent energy regulation affecting large Chinese manufacturers that are part of broader conglomerates. Using detailed firm-level data and difference-in-differences research designs, we show that regulated firms cut output and shifted production to unregulated firms in the same conglomerate instead of improving their energy efficiency. Conglomerate spillovers account for 40% of the output loss of regulated firms and substantially reduce aggregate energy savings. Using a structural model, we show that alternative polices that use public information on business networks could lower the shadow cost of the regulation by more than 40% and increase aggregate energy savings by 10%.",
+          "link": "https://www.nber.org/papers/w29066#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.216Z",
+          "wordCount": 963,
+          "title": "Regulating Conglomerates in China: Evidence from an Energy Conservation Program -- by Qiaoyi Chen, Zhao Chen, Zhikuo Liu, Juan Carlos Suárez Serrato, Daniel Xu"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29065#fromrss",
+          "author": null,
+          "description": "We build a cross-sectional factor model for investors' direct stock holdings, by analogy with standard time-series factor models for stock returns. We estimate the model using data from almost 10 million retail accounts in the Indian stock market. We find that stock characteristics such as firm age and share price have strong investor clienteles associated with them. Similarly, account attributes such as account age, account size, and extreme underdiversification (holding a single stock) are associated with particular characteristic preferences. Coheld stocks tend to have higher return covariance, suggestive of the importance of clientele effects in the stock market.",
+          "link": "https://www.nber.org/papers/w29065#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.182Z",
+          "wordCount": 871,
+          "title": "Who Owns What? A Factor Model for Direct Stock Holding -- by Vimal Balasubramaniam, John Y. Campbell, Tarun Ramadorai, Benjamin Ranish"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29064#fromrss",
+          "author": null,
+          "description": "The design and conduct of climate change policy necessarily confronts uncertainty along multiple fronts. We explore the consequences of ambiguity over various sources and configurations of models that impact how economic opportunities could be damaged in the future. We appeal to decision theory under risk, model ambiguity and misspecification concerns to provide an economically motivated approach to uncertainty quantification. We show how this approach reduces the many facets of uncertainty into a low dimensional characterization that depends on the uncertainty aversion of a decision-maker or fictitious social planner.  In our computations, we take inventory of three alternative channels of uncertainty and provide a novel way to assess them. These include i) carbon dynamics that capture how carbon emissions impact atmospheric carbon in future time periods; ii) temperature dynamics that depict how atmospheric carbon alters temperature in future time periods; iii) damage functions that quantify how temperature changes diminish economic opportunities. We appeal to geoscientific modeling to quantify the first two channels. We show how these uncertainty sources interact for a social planner looking to design a prudent approach to the social pricing of carbon emissions.",
+          "link": "https://www.nber.org/papers/w29064#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.163Z",
+          "wordCount": 987,
+          "title": "Climate Change Uncertainty Spillover in the Macroeconomy -- by Michael Barnett, William Brock, Lars P. Hansen"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29063#fromrss",
+          "author": null,
+          "description": "We argue that the Covid epidemic disproportionately affected the economic well-being and health of poor people. To disentangle the forces that generated this outcome, we construct a model that is consistent with the heterogeneous impact of the Covid recession on low- and high-income people. According to our model, two thirds of the inequality in Covid deaths reflect pre-existing inequality in comorbidity rates and access to quality health care. The remaining third, stems from the fact that low-income people work in occupations where the risk of infection is high. Our model also implies that the rise in income inequality generated by the Covid epidemic reflects the nature of the goods that low-income people produce. Finally, we assess the health-income trade-offs associated with fiscal transfers to the poor and mandatory containment policies.",
+          "link": "https://www.nber.org/papers/w29063#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.111Z",
+          "wordCount": 795,
+          "title": "Inequality in Life and Death -- by Martin S. Eichenbaum, Sergio Rebelo, Mathias Trabandt"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29062#fromrss",
+          "author": null,
+          "description": "Attitudes towards same-sex relationships in the US have changed radically over a relatively short period of time. After remaining fairly constant for over two decades, opinions became more favorable starting in 1992—a presidential election year in which the Democratic and Republican parties took opposing stands over the status of gay people in society. What roles did political parties and their leaders play in this process of cultural change? Using a variety of techniques including machine learning, we show that the partisan opinion gap emerged substantially prior to 1992—in the mid 1980s —and did not increase as a result of the political debates in 1992-'93. Furthermore, we identify people with a college-and-above education as the potential \"leaders\" of the process of partisan divergence.",
+          "link": "https://www.nber.org/papers/w29062#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.095Z",
+          "wordCount": 786,
+          "title": "Gay Politics Goes Mainstream: Democrats, Republicans, and Same-Sex Relationships -- by Raquel Fernández, Sahar Parsa"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29061#fromrss",
+          "author": null,
+          "description": "Economic activity in developing countries is labor-intensive, low-scale, and family run, with substantial family managerial time spent supervising hired labor. We use a randomized control trial that subsidizes access to rental equipment markets to study the impact of the adoption of mechanized practices on  labor demand, productivity and managerial span of control. The intervention induces greater mechanization in the upstream production stage, and labor savings concentrated in downstream, non-mechanized stages. The reduction in worker supervision needs increases the span of control and allows households to increase non-agricultural income. We use the experimental elasticities to estimate a structural model where farmers make labor supply decisions in the family enterprise and outside of it. The consumption-equivalent welfare from the intervention amounts to 0.9%. The model provides structural estimates of the marginal return to capital at 8.8%, and the shadow value of family labor, 20% below their outside option in non-agriculture.",
+          "link": "https://www.nber.org/papers/w29061#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.077Z",
+          "wordCount": 836,
+          "title": "Mechanizing Agriculture -- by Julieta Caunedo, Namrata Kala"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29060#fromrss",
+          "author": null,
+          "description": "The coronavirus is a global event of historical proportions and just a few months changed the time series properties of the data in ways that make many pre-covid forecasting models inadequate. It also creates a new problem for estimation of economic factors and dynamic causal effects because the variations around the outbreak can be interpreted as outliers, as shifts to the distribution of existing shocks, or as addition of new shocks. I take the latter view and use covid indicators as controls to 'de-covid' the data prior to estimation. I find that economic uncertainty remains high at the end of 2020 even though real economic activity has recovered and covid uncertainty has receded. Dynamic responses of variables to shocks in a VAR similar in magnitude and shape to the ones identified before 2020 can be recovered by directly or indirectly modeling covid and treating it as exogenous. These responses to economic shocks are distinctly different from those to a covid shock, and distinguishing between the two types of shocks can be important in macroeconomic modeling post-covid.",
+          "link": "https://www.nber.org/papers/w29060#fromrss",
+          "publishedOn": "2021-07-26T04:15:14.053Z",
+          "wordCount": 832,
+          "title": "Modeling Macroeconomic Variations after Covid-19 -- by Serena Ng"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29058#fromrss",
+          "author": null,
+          "description": "Changes in political leadership drive large changes in economic optimism. We exploit the surprise 2016 election of Trump to identify the effects of a shift in political power on one of the most consequential household decisions: whether to have a child. Republican-leaning counties experience a sharp and persistent increase in fertility relative to Democratic counties: a 1.1 to 2.6 percentage point difference in annual births, depending on the intensity of partisanship. Hispanics, a group targeted by Trump, see fertility fall relative to non-Hispanics, especially compared to rural or evangelical whites. Further, following Trump pre-election campaign visits, relative Hispanic fertility declines.",
+          "link": "https://www.nber.org/papers/w29058#fromrss",
+          "publishedOn": "2021-07-26T04:15:13.960Z",
+          "wordCount": 775,
+          "title": "Partisan Fertility and Presidential Elections -- by Gordon Dahl, Runjing Lu, William Mullins"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29059#fromrss",
+          "author": null,
+          "description": "Are firms sophisticated maximizers, or do they consistently make errors? Using transaction-level data from Ugandan value-added tax (VAT) returns, we show that sellers and buyers report different amounts 79% of the time, despite invoices being easily cross-checked. We estimate that 25% of firms are disadvantageous misreporters—they systematically misreport own sales and purchases such that their tax liability increases—while 75% are advantageous misreporters. Many firms—especially disadvantageous misreporters—fail to report imported inputs they themselves reported at Customs, increasing their VAT liability. On net, unilateral VAT misreporting cost Uganda about US$384 million in foregone 2013-2016 tax revenue",
+          "link": "https://www.nber.org/papers/w29059#fromrss",
+          "publishedOn": "2021-07-26T04:15:13.943Z",
+          "wordCount": 846,
+          "title": "Strategic or Confused Firms? Evidence from \"Missing\" Transactions in Uganda -- by Miguel Almunia, Jonas Hjort, Justine Knebelmann, Lin Tian"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29057#fromrss",
+          "author": null,
+          "description": "This paper demonstrates multiple beneficial impacts of a program promoting intergenerational mobility for disadvantaged African-American children and their children. The program improves outcomes of the first-generation treatment group across the life cycle, which translates into better family environments for the second generation leading to positive intergenerational gains. There are long-lasting beneficial program effects on cognition through age 54, contradicting claims of fadeout that have dominated popular discussions of early childhood programs. Children of the first-generation treatment group have higher levels of education and employment, lower levels of criminal activity, and better health than children of the first-generation control group.",
+          "link": "https://www.nber.org/papers/w29057#fromrss",
+          "publishedOn": "2021-07-26T04:15:13.918Z",
+          "wordCount": 907,
+          "title": "The Lasting Effects of Early Childhood Education on Promoting the Skills and Social Mobility of Disadvantaged African Americans -- by Jorge Luis García, James J. Heckman, Victor Ronda"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29055#fromrss",
+          "author": null,
+          "description": "Many government services are provided at the state level such as unemployment insurance, Medicaid, and SNAP. Given the lack of competition, a natural worry is that customer support provided by states for these services is less than adequate. While there are many different measures of how a state can support beneficiaries, we focus on just one in this short and applied report: the ability to get a live representative on the phone to help with an application question. To do this, we take a “mystery shopping” approach and make 2,000 phone calls to state government offices. We find substantial heterogeneity in the availability of live phone representatives across states and types of service (UI, Medicaid, etc.). For example, live representatives in New Jersey and Georgia were reached less than 20% of the time while representatives in New Hampshire and Wisconsin were reached more than 80% of the time. We hope that this report provides a simple example for how academics, investigative reporters, and watch groups can help states be more accountable for their customer support systems.",
+          "link": "https://www.nber.org/papers/w29055#fromrss",
+          "publishedOn": "2021-07-26T04:15:13.878Z",
+          "wordCount": 857,
+          "title": "A Note on the Level of Customer Support by State Governments: A Mystery-Shopping Approach -- by Oeindrila Dube, Sendhil Mullainathan, Devin G. Pope"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29056#fromrss",
+          "author": null,
+          "description": "Conditional Cash transfer (CCT) programs have been shown to have positive effects on a variety of outcomes including education, consumption and health visits, amongst others. We estimate the long-run impacts of the urban version of Familias en Acción, the Colombian CCT program on crime, teenage pregnancy, high school dropout and college enrollment using a Regression Discontinuity design on administrative data. ITT estimates show a reduction on arrest rates of 2.7pp for men and a reduction on teenage pregnancy of 2.3pp for women. High school dropout rates were reduced by 5.8pp and college enrollment was increased by 1.7pp for men.",
+          "link": "https://www.nber.org/papers/w29056#fromrss",
+          "publishedOn": "2021-07-26T04:15:13.861Z",
+          "wordCount": 910,
+          "title": "Long Term Effects of Cash Transfer Programs in Colombia -- by Orazio Attanasio, Lina Cardona Sosa, Carlos Medina, Costas Meghir, Christian Manuel Posso-Suárez"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29053#fromrss",
+          "author": null,
+          "description": "We study the results of a massive nationwide correspondence experiment sending more than 83,000 fictitious applications with randomized characteristics to geographically dispersed jobs posted by 108 of the largest U.S. employers. Distinctively Black names reduce the probability of employer contact by 2.1 percentage points relative to distinctively white names. The magnitude of this racial gap in contact rates differs substantially across firms, exhibiting a between-company standard deviation of 1.9 percentage points. Despite an insignificant average gap in contact rates between male and female applicants, we find a between-company standard deviation in gender contact gaps of 2.7 percentage points, revealing that some firms favor male applicants while others favor women. Company-specific racial contact gaps are temporally and spatially persistent, and negatively correlated with firm profitability, federal contractor status, and a measure of recruiting centralization. Discrimination exhibits little geographical dispersion, but two digit industry explains roughly half of the cross-firm variation in both racial and gender contact gaps. Contact gaps are highly concentrated in particular companies, with firms in the top quintile of racial discrimination responsible for nearly half of lost contacts to Black applicants in the experiment. Controlling false discovery rates to the 5% level, 23 individual companies are found to discriminate against Black applicants. Our findings establish that systemic illegal discrimination is concentrated among a select set of large employers, many of which can be identified with high confidence using large scale inference methods.",
+          "link": "https://www.nber.org/papers/w29053#fromrss",
+          "publishedOn": "2021-07-26T04:15:13.816Z",
+          "wordCount": 1074,
+          "title": "Systemic Discrimination Among Large U.S. Employers -- by Patrick M. Kline, Evan K. Rose, Christopher R. Walters"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29054#fromrss",
+          "author": null,
+          "description": "This study estimated the effects of welfare reform in the 1990s, which permanently restructured and contracted the cash assistance system in the U.S., on food insecurity—a fundamental form of hardship—of the next generation of households. An implicit goal underlying welfare reform was the disruption of an assumed intergenerational transmission of disadvantage; however, little is known about the effects of welfare reform on the well-being of the next generation. Using intergenerational data from the Panel Study of Income Dynamics and a variation on a difference-in-differences framework, this study exploits 3 sources of variation in childhood exposure to welfare reform: (1) risk of exposure across birth cohorts; (2) variation of exposure within cohorts because different states implemented welfare reform in different years; and (3) variation between individuals with the same exposure who were more likely and less likely to rely on welfare. We found that exposure to welfare reform led to decreases in food insecurity of the next generation of households, by about 10% for a 5-year increase in exposure, with stronger effects for women, individuals exposed for longer durations during childhood, individuals exposed in early childhood (0-5 years), and individuals whose mothers had a high school education (versus less).",
+          "link": "https://www.nber.org/papers/w29054#fromrss",
+          "publishedOn": "2021-07-26T04:15:13.797Z",
+          "wordCount": 914,
+          "title": "Effects of Welfare Reform on Household Food Insecurity Across Generations -- by Hope Corman, Dhaval M. Dave, Nancy Reichman, Ofira Schwartz-Soicher"
+        },
         {
           "id": "https://www.nber.org/papers/w29051#fromrss",
           "author": null,
