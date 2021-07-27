@@ -546,6 +546,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/let-me-work-home-or-i-will-find-another-job",
+          "author": "Jose Maria Barrero, Nicholas Bloom, Steven Davis",
+          "description": "Employers in the US are grappling with whether and how to bring employees back to the office or other place of work. Using survey-based evidence, this column finds that four in ten Americans who currently work from home at least one day a week would seek another job if employers require a full return to business premises, and most workers would look favourably on a new job that offers the same pay with the option to work from home two or three days a week. High rates of quits and job openings in recent months appear to partly reflect a re-sorting of workers based on the scope for remote working.",
+          "link": "https://voxeu.org/article/let-me-work-home-or-i-will-find-another-job",
+          "publishedOn": "2021-07-27T00:00:00.000Z",
+          "wordCount": 2503,
+          "title": "Let me work from home, or I will find another job"
+        },
+        {
+          "id": "https://voxeu.org/article/effects-currency-strength-international-trade",
+          "author": "Valentina Bruno, Hyun Song Shin",
+          "description": "The strength of the US dollar in currency markets has drawn the attention of researchers, policymakers, and businesses for decades. This column examines the effects of the dollar on international trade, with a particular focus on exports. A strong dollar dampens trade volumes through the financial channel, outweighing any improvement in trade competitiveness. Trade activity is strong when the dollar is weak, but global trade suffers when the dollar is strong.",
+          "link": "https://voxeu.org/article/effects-currency-strength-international-trade",
+          "publishedOn": "2021-07-27T00:00:00.000Z",
+          "wordCount": 2217,
+          "title": "The effects of currency strength on international trade"
+        },
+        {
           "id": "https://voxeu.org/article/macroprudential-framework-non-bank-financial-intermediation",
           "author": "Maurizio Trapanese",
           "description": "The policy framework developed so far on non-bank financial intermediation has been based mainly on microprudential tools, looking at individual institutions and activities. This column argues that the effectiveness of these tools could be strengthened if they are accompanied by a comprehensive framework to control systemic risk. This framework could be built around determining the correct pricing of backstops, resolving the trade-off between systemic risk and intermediation costs, mitigating the risk of runs on money market funds, resolving the agency problems in some non-bank financial intermediation transactions, and enhancing the stress test tools.",
@@ -1858,6 +1876,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/gyDTgXPXNbY/tuesday-case-shiller-house-prices-q2.html",
+          "author": null,
+          "description": "From Matthew Graham at Mortgage News Daily: MBS RECAP: Slow Monday, But Late Warning Shots\nIt was a slow trading day for the most part until the last 90 minutes.  ...  As the day wound down, yields bumped up to the highs--right in line with the 1.295% technical level--and MBS coughed up a quick eighth of a point.  That was enough for several lenders to reprice for the worse even though the weakness doesn't speak to any bigger picture issues.  ... [30 year fixed 2.86%]\nemphasis added\nTuesday:\n• At 9:00 AM ET, S&P/Case-Shiller House Price Index for May. The consensus is for a 16.3% year-over-year increase in the Comp 20 index for May.\n• Also at 9:00 AM, FHFA House Price Index for May. This was originally a GSE only repeat sales, however there is also an expanded index.\n• At 10:00 AM: Richmond Fed Survey of Manufacturing Activity for July.   This is the last of the regional surveys for July.\n• Also at 10:00 AM, The Q2 Housing Vacancies and Homeownership report from the Census Bureau.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/gyDTgXPXNbY/tuesday-case-shiller-house-prices-q2.html",
+          "publishedOn": "2021-07-27T01:00:00.001Z",
+          "wordCount": 975,
+          "title": "Tuesday: Case-Shiller House Prices, Q2 Housing Vacancies and Homeownership"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Iex6ofgkPAk/freddie-mac-mortgage-serious.html",
           "author": null,
