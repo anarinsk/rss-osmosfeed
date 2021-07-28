@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-28T12:18:51.098Z</updated>
+    <updated>2021-07-28T16:18:34.033Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minority visibility and political outcomes]]></title>
+        <id>https://www.aeaweb.org/research/charts/minority-salience-political-extremism-muslims-germany</id>
+        <link href="https://www.aeaweb.org/research/charts/minority-salience-political-extremism-muslims-germany"/>
+        <updated>2021-07-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Muslim visibility around the holy month of Ramadan increases the vote share of both far-right and far-left parties in Germany, according to a paper in the American Economic Journal: Applied Economics.]]></summary>
+        <author>
+            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A few comments on the Seasonal Pattern for House Prices]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/iLLHCTgArps/a-few-comments-on-seasonal-pattern-for.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/iLLHCTgArps/a-few-comments-on-seasonal-pattern-for.html"/>
+        <updated>2021-07-28T14:23:00.001Z</updated>
+        <summary type="html"><![CDATA[A few key points:
+1) There is a clear seasonal pattern for house prices.
+2) The surge in distressed sales during the housing bust distorted the seasonal pattern.
+3) Even though distressed sales are down significantly, the seasonal factor is based on several years of data - and the factor is now closer to normal (second graph below).
+4) Still the seasonal index is probably a better indicator of actual price movements than the Not Seasonally Adjusted (NSA) index.
+For in depth description of these issues, see Jed Kolko's article from 2014 (currently Chief Economist at Indeed) "Let’s Improve, Not Ignore, Seasonal Adjustment of Housing Data"
+Note: I was one of several people to question the change in the seasonal factor (here is a post in 2009) - and this led to S&P Case-Shiller questioning the seasonal factor too (from April 2010).  I still use the seasonal factor (I think it is better than using the NSA data).
+ Click on graph for larger image.
+This graph shows the month-to-month change in the NSA Case-Shiller National index since 1987 (through May 2021). The seasonal pattern was smaller back in the '90s and early '00s, and increased once the bubble burst. 
+The seasonal swings declined following the bubble, however the recent price surge changed the month-over-month pattern.
+The second graph shows the seasonal factors for the Case-Shiller National index since 1987.  The factors started to change near the peak of the bubble, and really increased during the bust.   
+The swings in the seasonal factors have decreased, and the seasonal factors has been moving back towards more normal levels.
+
+Note that the recent price surge hasn't distorted the seasonal factors.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MBA: Mortgage Applications Increase in Latest Weekly Survey]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/__I5-r-qMQE/mba-mortgage-applications-increase-in_0588015268.html</id>
@@ -7656,59 +7689,6 @@ Chapter5. 새로운 미래로의 전환
 
 
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔터테인먼트 경영·경제학/토르스텐 헤니그-투라우 외 지음, 이청기 외 옮김/한울(한울아카데미)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=274570250</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=274570250"/>
-        <updated>2021-06-29T02:49:00.000Z</updated>
-        <summary type="html"><![CDATA[엔터테인먼트 경영·경제학
-토르스텐 헤니그-투라우 외 지음, 이청기 외 옮김 / 한울(한울아카데미) / 2021년 06월 / ISBN:9788946073104
-정가: 56,000원 / 판매가: 56,000원 / 마일리지: 560원
-이벤트: 알라딘 22주년, 모든 몰 동시 이벤트!
-
-
-
-
-과거 수십 년간 현장과 연구를 통해 축적된 경험, 직관, 데이터를 기반으로 문화산업학과 엔터테인먼트 경영·경제학의 시각에서 영상, 음악, 공연, 출판, 게임 등 엔터테인먼트 상품의 본질과 특성을 깊이 있게 통찰한다. 이어 이를 체계적으로 관리하고 마케팅 하여 성공으로 이끄는 데 필수적인 시장과 소비자, 사업 모델들을 탐구한다.
-
-산업의 ‘리스크’에 방점을 두는 전통 산업론자들의 시각을 뛰어넘어 보다 적극적이고 공세적인 입장에서 엔터테인먼트 사이언스를 탐색함으로써 리스크를 피하고 이용자들에게 매력적인 최적의 콘텐츠와 서비스를 선보일 혜안을 제공하고자 한다.
-
-엔터테인먼트 사이언스 I ― 엔터테인먼트 경영·경제학
-서문
-1장 ‘어떻게 될지 아무도 몰라요’라는 통설은 잊어라: 이제는 엔터테인먼트 사이언스의 시간이다!
-1부 상품, 시장, 소비자: 엔터테인먼트 경영·경제학
-2장 엔터테인먼트의 기본 원리
-3장 엔터테인먼트 상품이 독특한 이유: 주요 특성
-4장 엔터테인먼트 시장이 독특한 이유: 주요 특성
-5장 가치 창출, 수익 창출: 엔터테인먼트 상품의 필수 비즈니스 모델
-6장 엔터테인먼트의 소비 측면
-이제 ‘엔터테인먼트 사이언스’의 힘을 발휘해 봐요!
-
-엔터테인먼트 사이언스 II ― 엔터테인먼트 상품 경영론
-서문
-2부 엔터테인먼트 경영과 마케팅: 무엇이 엔터테인먼트 상품을 히트하게 만드는가?
-1장 엔터테인먼트 상품 결정 1: 엔터테인먼트 경험 품질
-2장 엔터테인먼트 상품 결정 2: 탐색 품질과 브랜드 아닌 지표
-3장 엔터테인먼트 상품 결정 3: 품질 지표로서의 브랜드
-4장 엔터테인먼트 상품 결정 4: 성공적인 새로운 엔터테인먼트 상품 개발 방법
-이제 ‘엔터테인먼트 사이언스’의 힘을 발휘해 봐요!
-
-엔터테인먼트 사이언스 III ― 엔터테인먼트 통합 마케팅론
-서문
-1장 엔터테인먼트 커뮤니케이션 결정 1: 페이드 채널, 온드 채널
-2장 엔터테인먼트 커뮤니케이션 결정 2: 언드 채널
-3장 엔터테인먼트 유통 결정
-4장 엔터테인먼트 가격 결정
-5장 엔터테인먼트 통합 마케팅: 상품, 커뮤니케이션, 유통, 가격 결정 조합에 의한 블록버스터와 틈새 상품 만들기
-이제 ‘엔터테인먼트 사이언스’의 힘을 발휘해 봐요!
-
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이론/경제사상
-국내도서 > 예술/대중문화 > 예술/대중문화의 이해 > 대중문화론]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
