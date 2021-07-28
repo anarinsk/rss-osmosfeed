@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-28T04:14:54.344Z</updated>
+    <updated>2021-07-28T08:13:10.556Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -422,6 +422,26 @@ Gabriele Macci</name>
         <author>
             <name>Haruki Kono, 
 Michihiro Kandori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquidity Rules and Credit Booms]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/715074?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/715074?af=R"/>
+        <updated>2021-07-27T02:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Kinda Hachem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Transmission of Monetary Policy under the Microscope]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/715416?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/715416?af=R"/>
+        <updated>2021-07-27T02:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Martin Blomhoff Holm</name>
         </author>
     </entry>
     <entry>
