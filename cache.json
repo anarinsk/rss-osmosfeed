@@ -573,6 +573,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/trade-and-innovation",
+          "author": "Marc Melitz, Stephen Redding",
+          "description": "International trade is a key determinant of firm profitability and survival, so it is natural to expect it to influence both incentives to innovate and the rate of creative destruction. This column highlights four key mechanisms through which international trade affects endogenous innovation and growth: market size, competition, comparative advantage, and knowledge spillovers. Each of these mechanisms offers potential static and dynamic welfare gains. Discriminating between alternative mechanisms for these dynamic welfare gains and strengthening the evidence on their quantitative magnitude remain exciting areas of ongoing research.",
+          "link": "https://voxeu.org/article/trade-and-innovation",
+          "publishedOn": "2021-07-28T00:00:00.000Z",
+          "wordCount": 2282,
+          "title": "Trade and innovation"
+        },
+        {
+          "id": "https://voxeu.org/article/policy-framework-achieving-negative-emissions",
+          "author": "Derek Lemoine",
+          "description": "To limit climate change, the world may eventually need to remove more carbon from the atmosphere than it puts in. However, carbon pricing, which is usually recommended as the best policy, cannot achieve negative emissions without massive government spending.  This column argues that ‘carbon shares’ could do as well as carbon pricing at limiting emissions while also properly incentivising negative emissions.",
+          "link": "https://voxeu.org/article/policy-framework-achieving-negative-emissions",
+          "publishedOn": "2021-07-28T00:00:00.000Z",
+          "wordCount": 2510,
+          "title": "A policy framework for achieving negative emissions"
+        },
+        {
+          "id": "https://voxeu.org/article/service-offshoring-and-export-experience",
+          "author": "Giuseppe Berlingieri, Luca Marcolin, Emanuel Ornelas",
+          "description": "Trade in services is important but difficult to measure. This column introduces a new dataset that helps understand the contribution of services to global value chains and their role in the process of exporting goods. Firms with longer experience in exporting goods to a destination tend to source export-related service inputs from there rather than domestically, and do so within the boundaries of the business group rather than at arm’s length.",
+          "link": "https://voxeu.org/article/service-offshoring-and-export-experience",
+          "publishedOn": "2021-07-28T00:00:00.000Z",
+          "wordCount": 2150,
+          "title": "Service offshoring and export experience"
+        },
+        {
           "id": "https://voxeu.org/content/impact-covid-19-artistic-income",
           "author": "Alexander  Cuntz",
           "description": "As Covid-19 closed concert halls, galleries, and theatres it cut off the incomes of the people who worked in them. One year on, what has been the effect of the pandemic on artistic income? Alexander Cuntz of the World Intellectual Property Organisation has used unique incomes data from Germany to estimate how incomes have been affected, and how important states support has been for artists.",
@@ -1800,15 +1827,6 @@
           "publishedOn": "2021-06-30T15:00:00.000Z",
           "wordCount": 518,
           "title": "Foreign interventions"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/persistent-political-engagement-hong-kong",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Going to a demonstration makes people more likely to protest in the next one, but only if enough of their social network also goes, according to a paper in the American Economic Review: Insights.",
-          "link": "https://www.aeaweb.org/research/persistent-political-engagement-hong-kong",
-          "publishedOn": "2021-06-28T15:00:00.000Z",
-          "wordCount": 975,
-          "title": "Persistent protesting"
         }
       ]
     },
@@ -2120,6 +2138,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/41mGdGtG-Qk/wednesday-fomc-announcement.html",
+          "author": null,
+          "description": "On the FOMC meeting: FOMC Preview: Probably Too Soon for Hints on Tapering\nWednesday:\n• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.\n• At 2:00 PM, FOMC Meeting Announcement. No change to policy is expected at this meeting.\n• At 2:30 PM, Fed Chair Jerome Powell holds a press briefing following the FOMC announcement.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/41mGdGtG-Qk/wednesday-fomc-announcement.html",
+          "publishedOn": "2021-07-28T01:00:00.001Z",
+          "wordCount": 851,
+          "title": "Wednesday: FOMC Announcement"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/cSM_DVqm8KQ/july-27th-covid-19-new-cases.html",
           "author": null,
