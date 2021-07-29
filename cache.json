@@ -573,6 +573,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/carbon-taxation-and-inflation",
+          "author": "Max Konradt, Beatrice Weder di Mauro",
+          "description": "Model-based studies on the effect of carbon taxation point to sizeable inflationary effects. This column uses evidence from Canada and Europe over the past three decades to show that carbon taxes changed relative prices but did not increase the overall price level. Instead, they were slightly deflationary. In the case of British Columbia, the driver may have been a fall in household income depressing the prices of non-energy goods, which more than offset rising energy prices. The income compression was most pronounced among the richest households, suggesting that the redistribution scheme achieved its intended aim of favouring low-income households.",
+          "link": "https://voxeu.org/article/carbon-taxation-and-inflation",
+          "publishedOn": "2021-07-29T00:00:00.000Z",
+          "wordCount": 2217,
+          "title": "Carbon taxation and inflation"
+        },
+        {
+          "id": "https://voxeu.org/article/long-term-effects-inca-road",
+          "author": "Ana Paula Franco, Sebastian Galiani, Pablo  Lavado",
+          "description": "Historical institutions can have long-lasting effects on societies and economies. The Inca Road has been a linchpin of the colonial economy in the New World, but its impact on current development has not been studied in great depth. This column examines the impact of the road on today’s educational, development, and labour outcomes. Proximity to the Inca Road increased the average level of educational attainment and decreased stunting among children by 5%. It boosted average hourly wages by 20% and reduced informality by six percentage points. Moreover, these eﬀects were around 40% greater among women.",
+          "link": "https://voxeu.org/article/long-term-effects-inca-road",
+          "publishedOn": "2021-07-29T00:00:00.000Z",
+          "wordCount": 1860,
+          "title": "Long-term effects of the Inca Road"
+        },
+        {
+          "id": "https://voxeu.org/article/credit-line-channel-during-covid",
+          "author": "Daniel Greenwald, John Krainer, Pascal Paul",
+          "description": "Aggregate US bank lending to firms tends to expand following adverse macroeconomic shocks, such as the outbreak of COVID-19 or a monetary policy tightening. Based on detailed loan-level supervisory data, this column shows that these responses are almost entirely explained by large firms drawing on their bank credit lines. However, funding stability for large firms may imply that smaller firms face tighter borrowing conditions. This crowding out effect was at play during the COVID-19 crisis and explore the implications of such spillovers within a structural model.",
+          "link": "https://voxeu.org/article/credit-line-channel-during-covid",
+          "publishedOn": "2021-07-29T00:00:00.000Z",
+          "wordCount": 2743,
+          "title": "The credit line channel during Covid"
+        },
+        {
           "id": "https://voxeu.org/article/trade-and-innovation",
           "author": "Marc Melitz, Stephen Redding",
           "description": "International trade is a key determinant of firm profitability and survival, so it is natural to expect it to influence both incentives to innovate and the rate of creative destruction. This column highlights four key mechanisms through which international trade affects endogenous innovation and growth: market size, competition, comparative advantage, and knowledge spillovers. Each of these mechanisms offers potential static and dynamic welfare gains. Discriminating between alternative mechanisms for these dynamic welfare gains and strengthening the evidence on their quantitative magnitude remain exciting areas of ongoing research.",
@@ -2165,6 +2192,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/zsxL1O2thbg/thursday-gdp-unemployment-claims.html",
+          "author": null,
+          "description": "Thursday:\n• At 8:30 AM ET, Gross Domestic Product, 2nd quarter (advance estimate), and annual update. The consensus is that real GDP increased 8.6% annualized in Q2, up from 6.4% in Q1.\n• At 8:30 AM, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 400 thousand from 419 thousand last week.\n• At 10:00 AM, Pending Home Sales Index for June.  The consensus is for a 0.5% increase in the index.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/zsxL1O2thbg/thursday-gdp-unemployment-claims.html",
+          "publishedOn": "2021-07-29T01:00:00.001Z",
+          "wordCount": 872,
+          "title": "Thursday: GDP, Unemployment Claims, Pending Home Sales"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/euBv72-mSQ0/july-28th-covid-19-new-cases.html",
           "author": null,

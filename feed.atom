@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-29T00:37:32.123Z</updated>
+    <updated>2021-07-29T04:15:36.953Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thursday: GDP, Unemployment Claims, Pending Home Sales]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/zsxL1O2thbg/thursday-gdp-unemployment-claims.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/zsxL1O2thbg/thursday-gdp-unemployment-claims.html"/>
+        <updated>2021-07-29T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Thursday:
+• At 8:30 AM ET, Gross Domestic Product, 2nd quarter (advance estimate), and annual update. The consensus is that real GDP increased 8.6% annualized in Q2, up from 6.4% in Q1.
+• At 8:30 AM, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 400 thousand from 419 thousand last week.
+• At 10:00 AM, Pending Home Sales Index for June.  The consensus is for a 0.5% increase in the index.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbon taxation and inflation]]></title>
+        <id>https://voxeu.org/article/carbon-taxation-and-inflation</id>
+        <link href="https://voxeu.org/article/carbon-taxation-and-inflation"/>
+        <updated>2021-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Model-based studies on the effect of carbon taxation point to sizeable inflationary effects. This column uses evidence from Canada and Europe over the past three decades to show that carbon taxes changed relative prices but did not increase the overall price level. Instead, they were slightly deflationary. In the case of British Columbia, the driver may have been a fall in household income depressing the prices of non-energy goods, which more than offset rising energy prices. The income compression was most pronounced among the richest households, suggesting that the redistribution scheme achieved its intended aim of favouring low-income households.]]></summary>
+        <author>
+            <name>Max Konradt, Beatrice Weder di Mauro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long-term effects of the Inca Road]]></title>
+        <id>https://voxeu.org/article/long-term-effects-inca-road</id>
+        <link href="https://voxeu.org/article/long-term-effects-inca-road"/>
+        <updated>2021-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Historical institutions can have long-lasting effects on societies and economies. The Inca Road has been a linchpin of the colonial economy in the New World, but its impact on current development has not been studied in great depth. This column examines the impact of the road on today’s educational, development, and labour outcomes. Proximity to the Inca Road increased the average level of educational attainment and decreased stunting among children by 5%. It boosted average hourly wages by 20% and reduced informality by six percentage points. Moreover, these eﬀects were around 40% greater among women.]]></summary>
+        <author>
+            <name>Ana Paula Franco, Sebastian Galiani, Pablo  Lavado</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The credit line channel during Covid]]></title>
+        <id>https://voxeu.org/article/credit-line-channel-during-covid</id>
+        <link href="https://voxeu.org/article/credit-line-channel-during-covid"/>
+        <updated>2021-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aggregate US bank lending to firms tends to expand following adverse macroeconomic shocks, such as the outbreak of COVID-19 or a monetary policy tightening. Based on detailed loan-level supervisory data, this column shows that these responses are almost entirely explained by large firms drawing on their bank credit lines. However, funding stability for large firms may imply that smaller firms face tighter borrowing conditions. This crowding out effect was at play during the COVID-19 crisis and explore the implications of such spillovers within a structural model.]]></summary>
+        <author>
+            <name>Daniel Greenwald, John Krainer, Pascal Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[July 28th COVID-19, New Cases, Hospitalizations, Vaccinations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/euBv72-mSQ0/july-28th-covid-19-new-cases.html</id>
