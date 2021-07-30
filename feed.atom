@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-30T08:14:01.436Z</updated>
+    <updated>2021-07-30T12:18:32.645Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -357,6 +357,17 @@
 • At 10:00 AM, University of Michigan's Consumer sentiment index (Final for July). The consensus is for a reading of 80.8.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid's effect on inequality]]></title>
+        <id>https://voxeu.org/vox-talks/covids-effect-inequality</id>
+        <link href="https://voxeu.org/vox-talks/covids-effect-inequality"/>
+        <updated>2021-07-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Ostry of the IMF has investigated a century of pandemics and discovered that not only do they make our societies less equal, but they lead to a K-shaped recovery. He tells Tim Phillips that, unlike other crises, pandemics open a permanent gap between winners and losers.
+You can download the paper that Jonathan is discussing (Furceri, D, Loungani, P, Ostry, J and Pizzuto, P. 2021. 'Will COVID-19 Have Long-Lasting Effects on Inequality? Evidence from Past Pandemics'. London, Centre for Economic Policy Research.) free here]]></summary>
+        <author>
+            <name>Jonathan D. Ostry</name>
         </author>
     </entry>
     <entry>
@@ -4750,85 +4761,6 @@ Chapter 9 일부로 전체를 추론하기
 
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉽게 배우는 파이썬/김은옥 지음/삼양미디어]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=274708307</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=274708307"/>
-        <updated>2021-07-01T00:02:00.000Z</updated>
-        <summary type="html"><![CDATA[쉽게 배우는 파이썬
-김은옥 지음 / 삼양미디어 / 2021년 07월 / ISBN:9788958973959
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 75원
-이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드
-
-
-
-
-누구나 쉽게 배울 수 있는 파이썬 입문서. 파이썬으로 프로그래밍을 쉽게 이해하고, 문제를 빠르게 해결하는 방법을 제시한다. 문제를 통해 파이썬 기본 문법을 익히고, 다양한 문제를 풀어보면서 프로그래밍의 기본을 학습하며, 연습문제를 통해 학습한 것을 확장한다.
-
-Chapter 01. 프로그래밍과 문제 해결 & 코딩을 위한 개발 환경 설정
-Section 01. 프로그래밍과 문제 해결 그리고 코딩
-1. 프로그래밍 개요 
-2. 문제 해결 방법
-3. 검색/정렬 알고리즘 - 이진 검색, 삽입 정렬
-4. 암호 알고리즘 - 보안
-5. 코딩
-Section 02. 파이썬 개발 환경 설정
-1. 개발 툴 설치 개요
-2. 아나콘다 다운로드
-3. 아나콘다 설치
-4. 환경 변수 추가 및 설치 확인
-5. 주피터 노트북 사용 환경
-6. 클라우드 기반의 주피터 노트북 - Google Colab
-Section 03. 코딩 기본 규약
-마무리(정리 & 연습 문제)
-
-Chapter 02. 파이썬 개요
-Section 01. 파이썬의 특징 및 활용 분야
-1. 파이썬의 특징
-2. 파이썬 활용
-Section 02. 파이썬 스크립트 작성과 구성 순서
-1. 주피터 노트북에서 파이썬 스크립트 다루기
-2. Spyder(스파이더) 통합 개발 환경에서 파이썬 스크립트 다루기
-3. 파이썬 스크립트 작성 및 실행
-4. 스크립트 구성 순서 및 코드 작성 규칙 - 파이썬 소스 코드 파일
-마무리(정리 & 연습 문제)
-
-Chapter 03. 변수와 연산자 - 값 저장 및 기본 처리
-Section 01. 변수 - 재사용할 값 저장소
-1. 변수 선언 - 변수명과 기본 값(초기 값) 지정
-2. 변수 제거
-Section 02. 연산자(operator) - 연산자를 사용한 값 처리
-1. 산술 연산자
-2. 할당(대입) 연산자
-3. 비교(관계) 연산자
-4. 논리 연산자
-5. 비트 연산자
-6. in 연산자(membership, 멤버십 연산자)
-7. is 연산자(identity, 아이덴티티 연산자)
-마무리(정리 & 연습 문제)
-
-Chapter 04. 화면 입출력 - 인터렉티브한 값 입력 및 출력
-Section 01. 화면 입력 - input() 함수
-1. 숫자 값 1개 입력
-2. 문자열 값 1개 입력
-3. 문자열 값 여러 개 입력
-4. 숫자 값 여러 개 입력
-Section 02. 화면 출력 - print() 함수
-1. print() 함수는 화면에 값을 출력할 때 사용
-2. 기본 문법
-3. 여러 개의 값 출력
-4. sep 옵션
-5. end 옵션
-6. 파이썬 이스케이프 문자(escape character)
-마무리(정리 & 연습 문제)
-
-Chapter 05. 기본 데이터 타입과 포맷팅 - 값의 ...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>

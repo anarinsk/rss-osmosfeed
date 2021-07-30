@@ -434,15 +434,6 @@
           "publishedOn": "2021-07-01T02:28:00.000Z",
           "wordCount": null,
           "title": "친절한 R with 스포츠 데이터/황규인 지음/영진.com(영진닷컴)"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=274708307",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "쉽게 배우는 파이썬\n김은옥 지음 / 삼양미디어 / 2021년 07월 / ISBN:9788958973959\n정가: 18,000원 / 판매가: 16,200원 / 마일리지: 75원\n이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드\n\n\n\n\n누구나 쉽게 배울 수 있는 파이썬 입문서. 파이썬으로 프로그래밍을 쉽게 이해하고, 문제를 빠르게 해결하는 방법을 제시한다. 문제를 통해 파이썬 기본 문법을 익히고, 다양한 문제를 풀어보면서 프로그래밍의 기본을 학습하며, 연습문제를 통해 학습한 것을 확장한다.\n\nChapter 01. 프로그래밍과 문제 해결 & 코딩을 위한 개발 환경 설정\r\nSection 01. 프로그래밍과 문제 해결 그리고 코딩\r\n1. 프로그래밍 개요 \r\n2. 문제 해결 방법\r\n3. 검색/정렬 알고리즘 - 이진 검색, 삽입 정렬\r\n4. 암호 알고리즘 - 보안\r\n5. 코딩\r\nSection 02. 파이썬 개발 환경 설정\r\n1. 개발 툴 설치 개요\r\n2. 아나콘다 다운로드\r\n3. 아나콘다 설치\r\n4. 환경 변수 추가 및 설치 확인\r\n5. 주피터 노트북 사용 환경\r\n6. 클라우드 기반의 주피터 노트북 - Google Colab\r\nSection 03. 코딩 기본 규약\r\n마무리(정리 & 연습 문제)\r\n\r\nChapter 02. 파이썬 개요\r\nSection 01. 파이썬의 특징 및 활용 분야\r\n1. 파이썬의 특징\r\n2. 파이썬 활용\r\nSection 02. 파이썬 스크립트 작성과 구성 순서\r\n1. 주피터 노트북에서 파이썬 스크립트 다루기\r\n2. Spyder(스파이더) 통합 개발 환경에서 파이썬 스크립트 다루기\r\n3. 파이썬 스크립트 작성 및 실행\r\n4. 스크립트 구성 순서 및 코드 작성 규칙 - 파이썬 소스 코드 파일\r\n마무리(정리 & 연습 문제)\r\n\r\nChapter 03. 변수와 연산자 - 값 저장 및 기본 처리\r\nSection 01. 변수 - 재사용할 값 저장소\r\n1. 변수 선언 - 변수명과 기본 값(초기 값) 지정\r\n2. 변수 제거\r\nSection 02. 연산자(operator) - 연산자를 사용한 값 처리\r\n1. 산술 연산자\r\n2. 할당(대입) 연산자\r\n3. 비교(관계) 연산자\r\n4. 논리 연산자\r\n5. 비트 연산자\r\n6. in 연산자(membership, 멤버십 연산자)\r\n7. is 연산자(identity, 아이덴티티 연산자)\r\n마무리(정리 & 연습 문제)\r\n\r\nChapter 04. 화면 입출력 - 인터렉티브한 값 입력 및 출력\r\nSection 01. 화면 입력 - input() 함수\r\n1. 숫자 값 1개 입력\r\n2. 문자열 값 1개 입력\r\n3. 문자열 값 여러 개 입력\r\n4. 숫자 값 여러 개 입력\r\nSection 02. 화면 출력 - print() 함수\r\n1. print() 함수는 화면에 값을 출력할 때 사용\r\n2. 기본 문법\r\n3. 여러 개의 값 출력\r\n4. sep 옵션\r\n5. end 옵션\r\n6. 파이썬 이스케이프 문자(escape character)\r\n마무리(정리 & 연습 문제)\r\n\r\nChapter 05. 기본 데이터 타입과 포맷팅 - 값의 ...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=274708307",
-          "publishedOn": "2021-07-01T00:02:00.000Z",
-          "wordCount": null,
-          "title": "쉽게 배우는 파이썬/김은옥 지음/삼양미디어"
         }
       ]
     },
@@ -482,6 +473,15 @@
       "feedUrl": "https://voxeu.org/rss.xml",
       "siteUrl": "https://voxeu.org/",
       "articles": [
+        {
+          "id": "https://voxeu.org/vox-talks/covids-effect-inequality",
+          "author": "Jonathan D. Ostry",
+          "description": "Jonathan Ostry of the IMF has investigated a century of pandemics and discovered that not only do they make our societies less equal, but they lead to a K-shaped recovery. He tells Tim Phillips that, unlike other crises, pandemics open a permanent gap between winners and losers.\nYou can download the paper that Jonathan is discussing (Furceri, D, Loungani, P, Ostry, J and Pizzuto, P. 2021. 'Will COVID-19 Have Long-Lasting Effects on Inequality? Evidence from Past Pandemics'. London, Centre for Economic Policy Research.) free here",
+          "link": "https://voxeu.org/vox-talks/covids-effect-inequality",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 590,
+          "title": "Covid's effect on inequality"
+        },
         {
           "id": "https://voxeu.org/article/moral-hazard-limited-liability",
           "author": "Charles Goodhart",
