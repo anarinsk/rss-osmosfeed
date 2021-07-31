@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-07-31T00:39:59.994Z</updated>
+    <updated>2021-07-31T04:15:27.136Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Geographic diversity of economics journals editorial boards]]></title>
+        <id>https://voxeu.org/article/geographic-diversity-economics-journals-editorial-boards</id>
+        <link href="https://voxeu.org/article/geographic-diversity-economics-journals-editorial-boards"/>
+        <updated>2021-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The underrepresentation of some groups in academic economics is a source of concern, with most attention focused on the lack of racial and gender diversity. This column looks instead at geographic diversity of economics journals, and finds that editorial power is highly concentrated in the US, while the Far East is hugely underrepresented. Within economics, the diversity of journals varies across fields.]]></summary>
+        <author>
+            <name>Simon Angus, Kadir  Atalay, Jonathan Newton, David  Ubilava</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effect of macroeconomic uncertainty on household spending]]></title>
+        <id>https://voxeu.org/article/effect-macroeconomic-uncertainty-household-spending</id>
+        <link href="https://voxeu.org/article/effect-macroeconomic-uncertainty-household-spending"/>
+        <updated>2021-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The former chair of the US Council of Economic Advisers, Christina Romer, observed that “uncertainty has almost surely contributed to a decline in spending,” while discussing the Great Recession. This column provides direct causal evidence from a randomised control trial implemented on a large sample of European households that the “almost surely” can be safely dropped. Higher uncertainty makes households spend less on average.]]></summary>
+        <author>
+            <name>Olivier Coibion, Dimitris Georgarakos, Yuriy Gorodnichenko, Geoff  Kenny, Michael Weber</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fannie Mae: Mortgage Serious Delinquency Rate Decreased in June]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/nbR2OQxK-6I/fannie-mae-mortgage-serious-delinquency.html</id>
