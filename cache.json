@@ -238,6 +238,15 @@
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=437&rssType=2&type=title",
       "articles": [
         {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=276622568",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "파이썬 기반 강화학습 알고리듬\n안드레아 론자 지음, 정사범 옮김 / 에이콘출판 / 2021년 08월 / ISBN:9791161755571\n정가: 30,000원 / 판매가: 27,000원 / 마일리지: 126원\n이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드\n\n\n\n\n강화학습(RL)은 인공지능의 인기 있고 유망한 분야로 변화하는 요구사항에 대응해 이상적인 행동을 자동으로 결정하는 에이전트와 스마트한 모델을 만드는 알고리듬이다. 이 책은 강화학습 알고리듬을 마스터하고 자가학습(self-learning)하는 에이전트를 구현하는 방법을 이해할 수 있도록 도와준다. 강화학습에 필요한 툴, 라이브러리, 설정 사항에 대한 소개를 시작으로 강화학습의 빌딩블록, Q-러닝, SARSA 알고리듬과 같은 가치 기반 방법을 상세히 다룬다.\n\n1부. 알고리듬과 환경\r\n\r\n1장. 강화학습의 개요\r\n__강화학습 소개\r\n______강화학습과 지도학습의 비교\r\n____강화학습의 역사\r\n____딥 강화학습\r\n__강화학습의 구성 요소\r\n____폴리시\r\n____가치함수\r\n____보상\r\n____모델\r\n__강화학습 애플리케이션\r\n____게임\r\n____로봇과 인더스트리 4.0\r\n____기계학습\r\n____경제와 금융\r\n____헬스케어\r\n____지능형 교통시스템\r\n____에너지 최적화와 스마트 그리드\r\n__요약\r\n__질문\r\n__심화학습 자료\r\n\r\n2장. 강화학습 사이클과 OpenAI Gym 구현하기\r\n\r\n__환경 설정하기\r\n____OpenAI Gym 설치하기\r\n____로보스쿨 설치하기\r\n__OpenAI Gym과 강화학습 사이클\r\n____강화학습 사이클 개발하기\r\n____공간에 익숙해지기\r\n____텐서플로우 2.X\r\n________즉시 실행\r\n________오토그래프\r\n__텐서플로우 기반 기계학습 모델 개발\r\n____텐서\r\n________상수\r\n________변수\r\n________그래프 생성하기\r\n____간단한 선형회귀 예제\r\n____텐서보드 도입하기\r\n__강화학습 환경의 유형\r\n____왜 다른 환경인가?\r\n____오픈소스 환경\r\n__요약\r\n__질문\r\n__심화학습 자료\r\n\r\n3장. 동적 프로그래밍DP으로 문제 해결하기\r\n__MDP\r\n____폴리시\r\n____감가율과 리턴\r\n____가치함수\r\n____벨만 방정식\r\n__강화학습 알고리듬 분류\r\n____모델 프리 알고리듬\r\n________가치 기반 알고리듬\r\n________폴리시 그래디언트 알고리듬\r\n________액터 크리틱 알고리듬\r\n________하이브리드 알고리듬\r\n____모델 기반 강화학습\r\n____알고리듬 다양화\r\n__DP\r\n____폴리시 평가와 폴리시 개선\r\n____폴리시 이터레이션\r\n________프로즌레이크에 적용된 폴리시 이터레이션\r\n____가치 이터레이션\r\n________프로즌레이크에 적용한 가치 이터레이션\r\n__요약\r\n__질문\r\n__심화학습 자료\r\n\r\n2부. 모델 프리 강화학습 알고리듬\r\n\r\n4장. Q-러닝과 SARSA 애플리케이션\r\n\r\n__모델없이 학습하기\r\n____사용자 경험\r\n____폴리시 평가\r\n____탐색 문제\r\n________왜 탐색해야 하는가?\r\n________탐색 방법\r\n__시간차 학습\r\n____...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=276622568",
+          "publishedOn": "2021-07-29T05:49:00.000Z",
+          "wordCount": 18,
+          "title": "파이썬 기반 강화학습 알고리듬/안드레아 론자 지음, 정사범 옮김/에이콘출판"
+        },
+        {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=276548719",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
           "description": "21개의 작고 재미난 파이썬 프로젝트\n켄 유엔스-클락 지음, 김완섭 옮김 / 제이펍 / 2021년 08월 / ISBN:9791191600346\n정가: 30,000원 / 판매가: 27,000원 / 마일리지: 122원\n이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드\n\n\n\n\n프로그래밍이 지루하다고 생각하는가? 이 책은 21가지의 퍼즐과 게임을 통해 파이썬의 기본을 알려준다. 실제 실습을 통해 프로그래밍을 즐길 수 있을 뿐 아니라 기본적인 텍스트 처리와 알고리즘에 대해 배우고, 리스트나 딕셔너리를 다룰 기회도 주어진다. 이런 학습 방법은 파이썬을 처음 접하는 독자들에게 '나도 할 수 있다'는 자신감과 신선한 경험을 선사할 것이다.\n\nCHAPTER 1 파이썬 프로그램 작성 및 테스트 방법 1\r\n1.1 첫 파이썬 프로그램 작성하기 2\r\n1.2 주석 처리 3\r\n1.3 프로그램 테스트하기 3\r\n1.4 #!(셔뱅) 추가하기 7\r\n1.5 실행 가능한 프로그램 만들기 9\r\n1.6 $PATH 이해하기 10\r\n1.7 프로그램 인수 및 도움말 추가하기 13\r\n1.8 옵션 인수 만들기 15\r\n1.9 테스트 프로그램 실행하기 17\r\n1.10 main() 함수 추가하기 17\r\n1.11 get_args() 함수 추가 18\r\n1.12 hello.py 테스트 21\r\n1.13 new.py를 사용해 새로운 프로그램 시작하기 22\r\n1.14 new.py 대신 template.py 사용하기 25\r\n\r\nCHAPTER 2 배 위의 망대: 문자열 처리 29\r\n2.1 시작하기 30\r\n2.2 예시 답안 47\r\n2.3 해설 48\r\n2.4 도전 과제 52\r\n\r\nCHAPTER 3 소풍 가기: 리스트 사용 55\r\n3.1 프로그램 시작하기 56\r\n3.2 picnic.py 작성하기 58\r\n3.3 리스트 60\r\n3.4 if/elif/else를 사용한 조건 분기문 75\r\n3.5 예시 답안 76\r\n3.6 해설 77\r\n3.7 도전 과제 80\r\n\r\nCHAPTER 4 숫자 5 넘어가기: 딕셔너리 사용 81\r\n4.1 딕셔너리 82\r\n4.2 jump.py 작성하기 89\r\n4.3 예시 답안 91\r\n4.4 해설 92\r\n4.5 도전 과제 100\r\n\r\nCHAPTER 5 하울러: 파일 및 STDOUT 사용하기 101\r\n5.1 파일 읽기 102\r\n5.2 파일 쓰기 108\r\n5.3 howler.py 작성하기 110\r\n5.4 예시 답안 113\r\n5.5 해설 114\r\n5.6 도전 과제 119\r\n\r\nCHAPTER 6 단어 세기: 파일 및 STDIN 읽기, 리스트 반복, 문자열 형식 121\r\n6.1 wc.py 작성하기 123\r\n6.2 예시 답안 129\r\n6.3 해설 130\r\n6.4 도전 과제 133\r\n\r\nCHAPTER 7 미지의 세계: 딕셔너리에서 아이템 찾기 135\r\n7.1 gashlycrumb.py 작성하기 137\r\n7.2 예시 답안 141\r\n7.3 해설 142\r\n7.4 도전 과제 146\r\n\r\nCHAPTER 8 애플과 바나나: 찾기와 바꾸기 147\r\n8.1 문자열 변경하기 150\r\n8.2 예시 답안 153\r\n8.3 해설 154\r\n8.4 테스트를 통한 리팩토링 173\r\n8.5 도전 과제 173\r\n\r\nCHAPTER 9 저주의 전화: 단어 목록에서 무작위 험담 만들기 175\r\n9.1 abuse.py 작성하기 177\r\n9.2 예시 답안 185\r\n9.3 해설 1...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
@@ -433,6 +442,15 @@
       "feedUrl": "https://devblogs.microsoft.com/commandline/feed/",
       "siteUrl": "https://devblogs.microsoft.com/commandline",
       "articles": [
+        {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6916",
+          "author": "Craig Loewen",
+          "description": "In the latest Windows Insider Preview builds, you can install everything you need to run WSL just by running wsl.exe --install. We’re excited to announce that this functionality is now officially backported to Windows 10 version 2004 and higher, which will make installing WSL on those builds much easier!\nThe post Install WSL with a single command now available in Windows 10 version 2004 and higher appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/install-wsl-with-a-single-command-now-available-in-windows-10-version-2004-and-higher/",
+          "publishedOn": "2021-07-30T18:07:17.000Z",
+          "wordCount": 1093,
+          "title": "Install WSL with a single command now available in Windows 10 version 2004 and higher"
+        },
         {
           "id": "https://devblogs.microsoft.com/commandline/?p=6869",
           "author": "Erika",
