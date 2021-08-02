@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-02T08:13:54.920Z</updated>
+    <updated>2021-08-02T12:19:03.084Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -305,6 +305,16 @@ The paper revisits the turning points in the evolution of the global economic sy
         <summary type="html"><![CDATA[Recent studies have concluded that state laws legalizing medical marijuana can reduce deaths from opioid overdoses.  Using data from the National Survey on Drug Use and Health, a survey uniquely suited to assessing drug misuse, we examine the relationship between recreational marijuana laws (RMLs) and the use of opioids.  Standard difference-in-differences (DD) regression estimates indicate that RMLs do not affect the likelihood of misusing prescription pain relievers such as OxyContin, Percocet, and Vicodin.  Although DD regression estimates provide evidence that state laws legalizing recreational marijuana can reduce the frequency of misusing prescription pain relievers, event-study estimates are noisy and suggest that any effect on the frequency of misuse is likely transitory.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternative value frameworks for assessing Covid-19 pandemic policies]]></title>
+        <id>https://voxeu.org/article/alternative-value-frameworks-assessing-covid-19-pandemic-policies</id>
+        <link href="https://voxeu.org/article/alternative-value-frameworks-assessing-covid-19-pandemic-policies"/>
+        <updated>2021-08-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Covid-19 pandemic has posed governments with many ethical questions regarding lockdowns and vaccine prioritisation. Policies involve difficult health and income trade-offs, and the consequences are heterogeneously distributed across the population. This column analyses the implications of benefit-cost analysis, cost-effectiveness analysis, and social welfare function analysis in the context of Covid-19. It argues that the social welfare function approach is more appealing than traditional methods because it explicitly accounts for societal inequalities and the distribution of policy impacts in the population.]]></summary>
+        <author>
+            <name>Maddalena Ferranna, JP Sevilla, David Bloom</name>
         </author>
     </entry>
     <entry>
