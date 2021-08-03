@@ -528,6 +528,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/macroeconomic-indicators-real-incomes",
+          "author": "Martin Ravallion",
+          "description": "Economists have long debated the most effective metrics for measuring poverty and inequality. This column presents analysis of the relative importance of three prominent macroeconomic indicators – the rate of unemployment, the inflation rate, and the growth rate of GDP per capita. Using evidence from the US, the author argues that higher unemployment rates unambiguously increase poverty measures, but that inflation matters more in the middle and upper-middle of the distribution than in the tails.",
+          "link": "https://voxeu.org/article/macroeconomic-indicators-real-incomes",
+          "publishedOn": "2021-08-03T00:00:00.000Z",
+          "wordCount": 2184,
+          "title": "Macroeconomic indicators with real incomes"
+        },
+        {
+          "id": "https://voxeu.org/article/extreme-floods-change-men-s-risk-preferences",
+          "author": "Alexandra Avdeenko, Onur  Eryilmaz",
+          "description": "Sudden floods across Central Europe have led governments to initiate bailouts, putting a decades-old debates on how to respond to future natural disasters back on the policy agenda. Using a representative longitudinal dataset from Germany, this column finds that when it comes to large-scale flooding, men are less risk averse than women, but men living in proximity to the water line show a statistically significant and sizable reduction in the willingness to take risks. The findings suggest that a portion of the costs associated with natural disasters is likely to be internalised by households at risk, which is particularly relevant if governments want to provide incentives for household-level adaptation measure, such as insurance or better building standards.",
+          "link": "https://voxeu.org/article/extreme-floods-change-men-s-risk-preferences",
+          "publishedOn": "2021-08-03T00:00:00.000Z",
+          "wordCount": 2508,
+          "title": "Extreme floods change men’s risk preferences"
+        },
+        {
           "id": "https://voxeu.org/article/alternative-value-frameworks-assessing-covid-19-pandemic-policies",
           "author": "Maddalena Ferranna, JP Sevilla, David Bloom",
           "description": "The Covid-19 pandemic has posed governments with many ethical questions regarding lockdowns and vaccine prioritisation. Policies involve difficult health and income trade-offs, and the consequences are heterogeneously distributed across the population. This column analyses the implications of benefit-cost analysis, cost-effectiveness analysis, and social welfare function analysis in the context of Covid-19. It argues that the social welfare function approach is more appealing than traditional methods because it explicitly accounts for societal inequalities and the distribution of policy impacts in the population.",
@@ -1688,6 +1706,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/bBW6_5kTSkY/tuesday-vehicle-sales-ny-fed-quarterly.html",
+          "author": null,
+          "description": "From Matthew Graham at Mortgage News Daily: MBS RECAP: Bonds Surge Into August Despite Headwinds\nIt was an interesting juxtaposition to see a Fed speaker talking about tapering being announced as early as September while bond yields hit the 3pm close at the lowest levels since February.  Headwinds are definitely present, whether we're talking about tapering risk or simply the selling opportunity presented by such low yields at a time when the economy may soon suggest a bounce.  But tailwinds remain because that suggestion has yet to be made.  ... [30 year fixed 2.80%]\nemphasis added\nTuesday:\n• At 8:00 AM ET, Corelogic House Price index for June.\n• All Day, Light vehicle sales for July from the BEA. The consensus is for light vehicle sales to be 15.7 million SAAR in July, up from 15.4 million in June (Seasonally Adjusted Annual Rate).\n• At 11:00 AM: NY Fed: Q2 Quarterly Report on Household Debt and Credit",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/bBW6_5kTSkY/tuesday-vehicle-sales-ny-fed-quarterly.html",
+          "publishedOn": "2021-08-03T01:00:00.007Z",
+          "wordCount": 963,
+          "title": "Tuesday: Vehicle Sales, NY Fed Quarterly Report on Household Debt and Credit"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/WA6dfmLrU1M/fed-survey-banks-reported-eased.html",
           "author": null,
