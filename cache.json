@@ -609,6 +609,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/fiscal-monetary-crosswinds-euro-area",
+          "author": "Lucrezia Reichlin, Giovanni Ricco, Matthieu Tarbé",
+          "description": "Monetary policy – conventional or unconventional – has fiscal implications. By affecting interest rates, inflation and output, it relaxes or tightens the general government inter-temporal budget constraint. This columns presents variations in the fiscal responses to conventional and unconventional monetary policy in the euro area. Two key factors that drive this variation are the movement of the returns on the value of the debt and the response of the primary surplus.",
+          "link": "https://voxeu.org/article/fiscal-monetary-crosswinds-euro-area",
+          "publishedOn": "2021-08-05T00:00:00.000Z",
+          "wordCount": 3089,
+          "title": "Fiscal-monetary crosswinds in the euro area"
+        },
+        {
+          "id": "https://voxeu.org/article/pandemic-has-boosted-firm-investments-digital-technologies",
+          "author": "Lutz Bellmann, Pauline Bourgeon, Christina Gathmann, Patrick Gleiser, Christian Kagerl, Eva Kleifgen, Corinna  König, Ute Leber, David Marguerit, Ludivine Martin, Laura Pohlan, Duncan Roth, Malte  Schierholz, Jens Stegmaier, Armin  Aminian",
+          "description": "The Covid-19 pandemic has forced firms to adapt their work processes to the infectious dynamic and the public health measures to contain it. Using survey data of almost 2,000 establishments in Germany, this column shows that the pandemic has accelerated the diffusion of digital technologies, especially in combination with working from home. Investments are particularly prominent in large establishments, while small and medium-sized establishments are less likely to invest in digital technologies and more likely to face financial or logistic barriers to investment. Investments vary a lot across sectors, but are less influenced by the current economic condition of the establishment.",
+          "link": "https://voxeu.org/article/pandemic-has-boosted-firm-investments-digital-technologies",
+          "publishedOn": "2021-08-05T00:00:00.000Z",
+          "wordCount": 2750,
+          "title": "The pandemic has boosted firm investments in digital technologies"
+        },
+        {
           "id": "https://voxeu.org/article/consumer-city-evidence-smartphone-data",
           "author": "Yuhei Miyauchi, Kentaro Nakajima, Stephen Redding",
           "description": "Traditional theories emphasise production decisions and the commuting costs of workers in shaping the spatial concentration of economic activity in cities. However, much of urban travel is related to consumption of non-traded services, such as trips to restaurants, shopping centres, and cultural venues. This column looks at commuting and non-commuting trips within the Greater Tokyo metropolitan area to explore how consumption access can explain the observed spatial variation in economic activity. Access to consumption opportunities and to employment opportunities both matter; focusing solely on commuting trips provides a misleading picture of travel patterns.",
@@ -1485,15 +1503,6 @@
           "publishedOn": "2021-07-07T15:00:00.000Z",
           "wordCount": 1264,
           "title": "More than a few bad apples"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/bankruptcy-reform-economic-consequences",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "Proponents of bankruptcy reform legislation in the early 2000s argued that lenders would pass along their higher debt recovery to consumers in the form of lower interest rates. A paper in the American Economic Journal: Macroeconomics found that rates did in fact decline.",
-          "link": "https://www.aeaweb.org/research/charts/bankruptcy-reform-economic-consequences",
-          "publishedOn": "2021-07-06T15:00:00.000Z",
-          "wordCount": 534,
-          "title": "The fallout of bankruptcy reform"
         }
       ]
     },
@@ -1822,6 +1831,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/E9FYyMNFxlI/thursday-trade-deficit-unemployment.html",
+          "author": null,
+          "description": "Thursday:\n• At 8:30 AM ET, Trade Balance report for June from the Census Bureau. The consensus is the trade deficit to be $73.9 billion.  The U.S. trade deficit was at $71.2 Billion the previous month.\n• Also at 8:30 AM, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 390 thousand from 400 thousand last week.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/E9FYyMNFxlI/thursday-trade-deficit-unemployment.html",
+          "publishedOn": "2021-08-05T01:00:00.001Z",
+          "wordCount": 856,
+          "title": "Thursday: Trade Deficit, Unemployment Claims"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fr_5OLNlvLA/august-4th-covid-19-second-worst-wave.html",
           "author": null,

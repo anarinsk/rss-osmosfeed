@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-05T00:39:13.919Z</updated>
+    <updated>2021-08-05T04:15:37.119Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thursday: Trade Deficit, Unemployment Claims]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/E9FYyMNFxlI/thursday-trade-deficit-unemployment.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/E9FYyMNFxlI/thursday-trade-deficit-unemployment.html"/>
+        <updated>2021-08-05T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Thursday:
+• At 8:30 AM ET, Trade Balance report for June from the Census Bureau. The consensus is the trade deficit to be $73.9 billion.  The U.S. trade deficit was at $71.2 Billion the previous month.
+• Also at 8:30 AM, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 390 thousand from 400 thousand last week.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiscal-monetary crosswinds in the euro area]]></title>
+        <id>https://voxeu.org/article/fiscal-monetary-crosswinds-euro-area</id>
+        <link href="https://voxeu.org/article/fiscal-monetary-crosswinds-euro-area"/>
+        <updated>2021-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Monetary policy – conventional or unconventional – has fiscal implications. By affecting interest rates, inflation and output, it relaxes or tightens the general government inter-temporal budget constraint. This columns presents variations in the fiscal responses to conventional and unconventional monetary policy in the euro area. Two key factors that drive this variation are the movement of the returns on the value of the debt and the response of the primary surplus.]]></summary>
+        <author>
+            <name>Lucrezia Reichlin, Giovanni Ricco, Matthieu Tarbé</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The pandemic has boosted firm investments in digital technologies]]></title>
+        <id>https://voxeu.org/article/pandemic-has-boosted-firm-investments-digital-technologies</id>
+        <link href="https://voxeu.org/article/pandemic-has-boosted-firm-investments-digital-technologies"/>
+        <updated>2021-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Covid-19 pandemic has forced firms to adapt their work processes to the infectious dynamic and the public health measures to contain it. Using survey data of almost 2,000 establishments in Germany, this column shows that the pandemic has accelerated the diffusion of digital technologies, especially in combination with working from home. Investments are particularly prominent in large establishments, while small and medium-sized establishments are less likely to invest in digital technologies and more likely to face financial or logistic barriers to investment. Investments vary a lot across sectors, but are less influenced by the current economic condition of the establishment.]]></summary>
+        <author>
+            <name>Lutz Bellmann, Pauline Bourgeon, Christina Gathmann, Patrick Gleiser, Christian Kagerl, Eva Kleifgen, Corinna  König, Ute Leber, David Marguerit, Ludivine Martin, Laura Pohlan, Duncan Roth, Malte  Schierholz, Jens Stegmaier, Armin  Aminian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[August 4th COVID-19: Second Worst Wave for Cases and Hospitalizations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/fr_5OLNlvLA/august-4th-covid-19-second-worst-wave.html</id>
@@ -6930,16 +6962,6 @@ PART 06 강화 학습(Reinforcement Learning)
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The fallout of bankruptcy reform]]></title>
-        <id>https://www.aeaweb.org/research/charts/bankruptcy-reform-economic-consequences</id>
-        <link href="https://www.aeaweb.org/research/charts/bankruptcy-reform-economic-consequences"/>
-        <updated>2021-07-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Proponents of bankruptcy reform legislation in the early 2000s argued that lenders would pass along their higher debt recovery to consumers in the form of lower interest rates. A paper in the American Economic Journal: Macroeconomics found that rates did in fact decline.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
