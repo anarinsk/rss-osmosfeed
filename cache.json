@@ -627,6 +627,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/working-parents-and-pandemic-labour-market-recovery-us",
+          "author": "Jason Furman, Melissa Kearney, Wilson Powell",
+          "description": "As of June 2021, the US labour-force participation rate had not yet recovered to pre-COVID-19 levels. This column explores how much the aggregate decline in employment between 2020 and 2021 can be explained by excess job loss among parents, and particularly mothers, of young children, who have had to contend with school and daycare closures during the pandemic. The findings suggest that excessive employment declines among parents do not explain a sizeable share of ongoing job loss. A larger decline in employment for parents of young children was seen only among women without a bachelor’s degree.",
+          "link": "https://voxeu.org/article/working-parents-and-pandemic-labour-market-recovery-us",
+          "publishedOn": "2021-08-06T00:00:00.000Z",
+          "wordCount": 2465,
+          "title": "Working parents and the pandemic labour market recovery in the US"
+        },
+        {
           "id": "https://voxeu.org/article/fiscal-monetary-crosswinds-euro-area",
           "author": "Lucrezia Reichlin, Giovanni Ricco, Matthieu Tarbé",
           "description": "Monetary policy – conventional or unconventional – has fiscal implications. By affecting interest rates, inflation and output, it relaxes or tightens the general government inter-temporal budget constraint. This columns presents variations in the fiscal responses to conventional and unconventional monetary policy in the euro area. Two key factors that drive this variation are the movement of the returns on the value of the debt and the response of the primary surplus.",
@@ -1512,15 +1521,6 @@
           "publishedOn": "2021-07-12T15:00:00.000Z",
           "wordCount": 1090,
           "title": "Family ties"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/racial-bias-policing-florida",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Police officers have a lot of discretion when writing speeding tickets, according to a paper in the American Economic Review. We spoke with author Steven Mellow about how that leads to higher discrimination against minorities and what might fix it.",
-          "link": "https://www.aeaweb.org/research/racial-bias-policing-florida",
-          "publishedOn": "2021-07-07T15:00:00.000Z",
-          "wordCount": 1264,
-          "title": "More than a few bad apples"
         }
       ]
     },
@@ -1754,7 +1754,224 @@
       "title": "Annual Reviews: Annual Review of Economics: Table of Contents",
       "feedUrl": "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom%20",
       "siteUrl": "https://www.annualreviews.org/loi/economics?ai=67b7&mi=3fndc3&af=A",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-121020-032425?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 19-38, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-121020-032425?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:32:46.000Z",
+          "wordCount": 262,
+          "title": "The Political Economy of Deep Integration"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-091520-082042?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 599-629, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-091520-082042?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:32:35.000Z",
+          "wordCount": 262,
+          "title": "Inflation Inequality: Measurement, Causes, and Policy Implications"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-073120-102652?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 111-131, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-073120-102652?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:32:15.000Z",
+          "wordCount": 262,
+          "title": "The Elusive Peace Dividend of Development Policy: From War Traps to Macro Complementarities"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-092220-103354?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 281-307, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-092220-103354?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:32:04.000Z",
+          "wordCount": 262,
+          "title": "The Economics of Currency Risk"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-090820-111716?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 457-486, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-090820-111716?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:31:54.000Z",
+          "wordCount": 262,
+          "title": "Choice in Insurance Markets: A Pigouvian Approach to Social Insurance Design"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-060220-023547?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 515-538, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-060220-023547?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:31:47.000Z",
+          "wordCount": 262,
+          "title": "Sufficient Statistics Revisited"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080218-025532?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 423-455, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080218-025532?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:31:40.000Z",
+          "wordCount": 262,
+          "title": "The Story of the Real Exchange Rate"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-082120-122900?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 539-570, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-082120-122900?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:31:33.000Z",
+          "wordCount": 262,
+          "title": "The Blossoming of Economic Epidemiology"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-072720-041256?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 87-109, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-072720-041256?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:31:16.000Z",
+          "wordCount": 262,
+          "title": "What Shapes the Quality and Behavior of Government Officials? Institutional Variation in Selection and Retention Methods"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-090919-025159?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 253-280, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-090919-025159?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:31:06.000Z",
+          "wordCount": 262,
+          "title": "Firm Dynamics and Trade"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-081720-120019?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 309-334, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-081720-120019?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:30:57.000Z",
+          "wordCount": 262,
+          "title": "Empirical Models of Industry Dynamics with Endogenous Market Structure"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-072720-042303?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 39-56, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-072720-042303?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:30:54.000Z",
+          "wordCount": 262,
+          "title": "Large Games: Robustness and Stability"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-032621-030422?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 1-17, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-032621-030422?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:30:44.000Z",
+          "wordCount": 262,
+          "title": "Emmanuel Farhi, Economist Par Excellence"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-083120-111540?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 171-202, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-083120-111540?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:30:24.000Z",
+          "wordCount": 262,
+          "title": "Systemic Risk in Financial Networks: A Survey"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-082020-054645?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 371-396, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-082020-054645?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:30:10.000Z",
+          "wordCount": 262,
+          "title": "Uncertainty Spillovers for Markets and Policy"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-090820-110736?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 631-659, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-090820-110736?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:30:00.000Z",
+          "wordCount": 262,
+          "title": "Theoretical Foundations of Relational Incentive Contracts"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-070220-032416?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 133-170, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-070220-032416?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:29:51.000Z",
+          "wordCount": 262,
+          "title": "Why Does Globalization Fuel Populism? Economics, Culture, and the Rise of Right-Wing Populism"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-081020-051248?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 203-228, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-081020-051248?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:29:45.000Z",
+          "wordCount": 262,
+          "title": "The International Aspects of Macroprudential Policy"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-092120-050543?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 335-369, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-092120-050543?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:29:23.000Z",
+          "wordCount": 262,
+          "title": "The Macroeconomics of Financial Speculation"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-081020-044812?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 229-252, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-081020-044812?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:29:13.000Z",
+          "wordCount": 262,
+          "title": "Estimating DSGE Models: Recent Advances and Future Challenges"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-082019-023513?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 397-421, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-082019-023513?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:28:56.000Z",
+          "wordCount": 262,
+          "title": "A Helicopter Tour of Some Underlying Issues in Empirical Industrial Organization"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-092120-044327?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 571-597, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-092120-044327?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:28:44.000Z",
+          "wordCount": 262,
+          "title": "Directed Technical Change in Labor and Environmental Economics"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080217-053409?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 487-513, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080217-053409?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:28:12.000Z",
+          "wordCount": 262,
+          "title": "The Econometrics of Early Childhood Human Capital and Investments"
+        },
+        {
+          "id": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-081720-114422?ai=67b7&mi=3fndc3&af=A",
+          "author": null,
+          "description": "Annual Review of Economics, Volume 13, Issue 1, Page 57-86, August 2021. <br/>",
+          "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-081720-114422?ai=67b7&mi=3fndc3&af=A",
+          "publishedOn": "2021-08-05T17:28:02.000Z",
+          "wordCount": 262,
+          "title": "Does Vote Trading Improve Welfare?"
+        }
+      ]
     },
     {
       "title": "The University of Chicago Press: Journal of Political Economy: Table of Contents",
@@ -1840,6 +2057,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/1vqVVI-PwT8/friday-employment-report.html",
+          "author": null,
+          "description": "My July Employment Preview\nGoldman July Payrolls Preview\nFriday:\n• At 8:30 AM ET, Employment Report for July.   The consensus is for 900,000 jobs added, and for the unemployment rate to decrease to 5.7%.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/1vqVVI-PwT8/friday-employment-report.html",
+          "publishedOn": "2021-08-06T01:00:00.003Z",
+          "wordCount": 822,
+          "title": "Friday: Employment Report"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/bL54D18Mt08/goldman-july-payrolls-preview.html",
           "author": null,
