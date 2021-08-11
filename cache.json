@@ -911,6 +911,15 @@
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
         {
+          "id": "https://www.aeaweb.org/research/charts/place-based-drivers-mortality-migration-us",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Moving from the least healthy location in the US to the most could increase life expectancy at age 65 by over a year, according to a paper in the American Economic Review.",
+          "link": "https://www.aeaweb.org/research/charts/place-based-drivers-mortality-migration-us",
+          "publishedOn": "2021-08-11T15:00:00.000Z",
+          "wordCount": 423,
+          "title": "Location and mortality"
+        },
+        {
           "id": "https://www.aeaweb.org/research/brazil-affirmative-action-unintended-consequences",
           "author": "Chris Fleisher (research.highlights@aeapubs.org)",
           "description": "Brazil's affirmative action policy for public universities created an unfair system in which high-achieving minority students sometimes faced a harder path to acceptance than lower achieving whites, according to a paper in the American Economic Journal: Microeconomics.",
@@ -1590,6 +1599,33 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/JR_LqtSIGJA/cleveland-fed-key-measures-of-inflation.html",
+          "author": null,
+          "description": "The Cleveland Fed released the median CPI and the trimmed-mean CPI this morning:\nAccording to the Federal Reserve Bank of Cleveland, the median Consumer Price Index rose 0.3% July. The 16% trimmed-mean Consumer Price Index rose 0.4% in July. \"The median CPI and 16% trimmed-mean CPI are measures of core inflation calculated by the Federal Reserve Bank of Cleveland based on data released in the Bureau of Labor Statistics’ (BLS) monthly CPI report\".\nNote: The Cleveland Fed released the median CPI details for July here.  \"Lodging away from home\" was up 101% annualized in July, however \"Used cars and trucks\" were down 43% annualized (reversing some of the previous increase).\n Click on graph for larger image.\nThis graph shows the year-over-year change for these four key measures of inflation.  On a year-over-year basis, the median CPI rose 2.3%, the trimmed-mean CPI rose 3.0%, and the CPI less food and energy rose 4.3%.  Core PCE is for June and increased 3.5% year-over-year.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/JR_LqtSIGJA/cleveland-fed-key-measures-of-inflation.html",
+          "publishedOn": "2021-08-11T15:12:00.003Z",
+          "wordCount": 959,
+          "title": "Cleveland Fed: Key Measures of Inflation in July"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/cqCc232x3T0/colorado-real-estate-in-july-sales-down.html",
+          "author": null,
+          "description": "Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.\nFrom the Colorado Association of REALTORS® for the entire state:\nClosed sales for Single Family and Townhouse-Condo in July 2021 were 12,417, down 13.4% from 14,338 in July 2020.\nActive Listings for Single Family and Townhouse-Condo in July 2021 were 11,126, down 49.3% from 21,959 in July 2020.\nMonths of Supply was 1.0 Months in July 2021, compared to 2.2 Months in July 2020.\nInventory in July was up 6.9% from last month, and up 27.3% from the record low in March 2021.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/cqCc232x3T0/colorado-real-estate-in-july-sales-down.html",
+          "publishedOn": "2021-08-11T13:13:00.001Z",
+          "wordCount": 915,
+          "title": "Colorado Real Estate in July: Sales Down 13% YoY, Inventory Down 49% YoY"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/5ujvvQRGqiY/bls-cpi-increased-05-in-july-core-cpi.html",
+          "author": null,
+          "description": "From the BLS: \nThe Consumer Price Index for All Urban Consumers (CPI-U) increased 0.5 percent in July on a seasonally adjusted basis after rising 0.9 percent in June, the U.S. Bureau of Labor Statistics reported today. Over the last 12 months, the all items index increased 5.4 percent before seasonal adjustment.\n  \nThe indexes for shelter, food, energy, and new vehicles all increased in July and contributed to the monthly all items seasonally adjusted increase. The food index increased 0.7 percent in July as five of the major grocery store food group indexes rose, and the food away from home index increased 0.8 percent. The energy index rose 1.6 percent in July, as the gasoline index increased 2.4 percent and other energy component indexes also rose.\nThe index for all items less food and energy rose 0.3 percent in July after increasing 0.9 percent in June. Along with shelter and new vehicles, the indexes for recreation, for medical care, and for personal care increased in July. The index for used cars also increased in July, but the 0.2-percent advance was much smaller than in recent months. The index for motor vehicle insurance declined in July, and the index for airline fares fell slightly.\nThe all items index rose 5.4 percent for the 12 months ending July, the same increase as the period ending June. The index for all items less food and energy rose 4.3 percent over the last 12 months, while the energy index rose 23.8 percent. The food index increased 3.4 percent for the 12 months ending July, compared to a 2.4-percent rise for the period ending June. \nemphasis added\nCPI was at expectations, and core CPI was slightly below expectations.  I'll post a graph later today after the Cleveland Fed releases the median and trimmed-mean CPI.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/5ujvvQRGqiY/bls-cpi-increased-05-in-july-core-cpi.html",
+          "publishedOn": "2021-08-11T12:32:00.005Z",
+          "wordCount": 1102,
+          "title": "BLS: CPI increased 0.5% in July, Core CPI increased 0.3%"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/xTh_DxbKBxU/mba-mortgage-applications-increase-in.html",
           "author": null,
