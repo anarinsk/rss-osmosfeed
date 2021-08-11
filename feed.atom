@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-11T16:17:45.961Z</updated>
+    <updated>2021-08-11T20:12:25.031Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Early Look at 2022 Cost-Of-Living Adjustments and Maximum Contribution Base]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/m7RIKDyB0jI/early-look-at-2022-cost-of-living.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/m7RIKDyB0jI/early-look-at-2022-cost-of-living.html"/>
+        <updated>2021-08-11T19:48:00.001Z</updated>
+        <summary type="html"><![CDATA[The BLS reported this morning:
+The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) increased 6.0 percent over the last 12 months to an index level of 267.789 (1982-84=100). For the month, the index rose 0.5 percent prior to seasonal adjustment.
+CPI-W is the index that is used to calculate the Cost-Of-Living Adjustments (COLA). The calculation dates have changed over time (see Cost-of-Living Adjustments), but the current calculation uses the average CPI-W for the three months in Q3 (July, August, September) and compares to the average for the highest previous average of Q3 months. Note: this is not the headline CPI-U, and is not seasonally adjusted (NSA).
+• In 2020, the Q3 average of CPI-W was 253.412.
+The 2020 Q3 average was the highest Q3 average, so we only have to compare Q3 this year to last year.
+ Click on graph for larger image.
+This graph shows CPI-W since January 2000. The red lines are the Q3 average of CPI-W for each year.
+Note: The year labeled for the calculation, and the adjustment is effective for December of that year (received by beneficiaries in January of the following year).
+CPI-W was up 6.0% year-over-year in July, and although this is very early - we need the data for August and September - my current guess is COLA will probably be around 5.5% this year, the largest increase since 5.8% in 2008 - and it is possible this will be the largest increase since 1982 (7.4%).
+Contribution and Benefit Base
+The contribution base will be adjusted using the National Average Wage Index. This is based on a one year lag. The National Average Wage Index is not available for 2020 yet, but wages probably increased again in 2020. If wages increased the same as in 2019, then the contribution base next year will increase to around $148,200 in 2022, from the current $142,800.
+Remember - this is an early look.  What matters is average CPI-W, NSA, for all three months in Q3 (July, August and September).]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houston Real Estate in July: Sales Down 4% YoY, Inventory Down 21% YoY]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/3a1JKl-at0g/houston-real-estate-in-july-sales-down.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/3a1JKl-at0g/houston-real-estate-in-july-sales-down.html"/>
+        <updated>2021-08-11T16:44:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm tracking sales and inventory for many local markets.
+From the HAR: Houston Home Sales Show No Let-Up in July, Despite What The Numbers Say
+By the numbers, Houston-area home sales were down this July compared to last. However, that is because COVID-related home closing delays during Q2 2020 finally pushed through that July as most of the pandemic lockdowns were lifted. The resulting surge of pent-up sales cemented July 2020 in the real estate history books as a record-setting month that could not be rivaled by the rapid-fire pace of the current market.
+  According to the Houston Association of Realtors (HAR) July 2021 Market Update, single-family homes sales were down 6.1 percent compared to last July, with 10,159 units sold versus the historic 10,822 that sold a year earlier. However, …]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charlotte Region Real Estate in July: Sales Down 10% YoY, Inventory Down 42% YoY]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/PYLm5SiPfeU/charlotte-region-real-estate-in-july.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/PYLm5SiPfeU/charlotte-region-real-estate-in-july.html"/>
+        <updated>2021-08-11T16:26:00.001Z</updated>
+        <summary type="html"><![CDATA[Note: I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.
+For the Charlotte Region:
+Closed sales in July 2021 were 5,189, down 10.5% from 5,796 in July 2020.
+Active Listings in July 2021 were 4,073, down 42.2% from 7,045 in July 2020.
+Months of Supply was 0.8 Months in July 2021, compared to 1.6 Months in July 2020.
+Inventory in July was up 17.6% from last month, and up 49.0% from the record low in March 2021.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cleveland Fed: Key Measures of Inflation in July]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/JR_LqtSIGJA/cleveland-fed-key-measures-of-inflation.html</id>
