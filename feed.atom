@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-10T22:45:33.521Z</updated>
+    <updated>2021-08-11T00:42:17.758Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sacramento Real Estate in July: Sales down 11% YoY, Active Inventory UP 27% YoY]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/U9N7L-v6ckk/sacramento-real-estate-in-july-sales.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/U9N7L-v6ckk/sacramento-real-estate-in-july-sales.html"/>
+        <updated>2021-08-10T23:40:00.002Z</updated>
+        <summary type="html"><![CDATA[Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.
+From SacRealtor.org: Median sales price dips, inventory rises
+July closed ended with 1,574 sales, an 8.6% decrease from June (1,723). Compared to one year ago (1,772), the current figure is down 11.2%.
+...
+The Active Listing Inventory increased 23.5% from June to July, from 1,297 units to 1,602 units. Compared with June 2020 (1,266), inventory is up 26.5%. The Months of Inventory increased  from .8 Months to 1 Month.  This figure represents the amount of time (in months) it would take for the current rate of sales to deplete the total active listing inventory.
+emphasis added 
+Note that inventory in July was up 23.5% from last month, and up 123% from the record low in January 2021.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[August 10th COVID-19: New Cases, Hospitalizations, Vaccinations]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/5AdNqHqGpEI/august-10th-covid-19-new-cases.html</id>
