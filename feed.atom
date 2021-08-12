@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-12T16:18:04.529Z</updated>
+    <updated>2021-08-12T20:12:34.297Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[South Carolina Real Estate in July: Sales Down 10% YoY, Inventory Down 40% YoY]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/KoK29AAC6Go/south-carolina-real-estate-in-july.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/KoK29AAC6Go/south-carolina-real-estate-in-july.html"/>
+        <updated>2021-08-12T18:14:00.038Z</updated>
+        <summary type="html"><![CDATA[I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.
+From the South Carolina Realtors for the entire state:
+Closed sales in July 2021 were 9,658, down 9.5% from 10,675 in July 2020.
+Active Listings in July 2021 were 12,869,, down 40.4% from 21,592 in July 2020.
+Months of Supply for attached was 1.4 Months in July 2021, compared to 2.6 Months in July 2020.
+Inventory in July was up 15.3% from the previous month, and up 23.1% from the record low in May 2021.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maryland Real Estate in July: Sales Down 3% YoY, Inventory Down 31% YoY]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/DnPfpa7eb8g/maryland-real-estate-in-july-sales-down.html</id>
@@ -6085,43 +6100,6 @@ The post Windows Terminal Preview 1.10 Release appeared first on Windows Command
         <summary type="html"><![CDATA[Biological factors, such as childbearing and breastfeeding, can’t explain earnings inequality between men and women after the birth of a child, according to a paper in the American Economic Review: Insights.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수학적 모델링 콘텐츠 : 파이썬 1/김준석 외 지음/지오북스]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=275570005</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=275570005"/>
-        <updated>2021-07-14T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[수학적 모델링 콘텐츠 : 파이썬 1
-김준석 외 지음 / 지오북스 / 2021년 09월 / ISBN:9791191346091
-정가: 11,000원 / 판매가: 11,000원 / 마일리지: 52원
-이벤트: 수험서.외국어.컴퓨터.대학교재- 선풍기/메쉬 파우치/단어 패드
-
-
-
-
-Part 1 효율적인 진료 대기 시스템 • 4
-section 01 수학적 모델링 요약 5 page
-section 02 문제 상황 이해하기 6 page
-section 03 모델 세우기 8 page
-section 04 문제 해결 9 page
-Part 2 공평한 티켓 예매 • 18
-section 01 수학적 모델링 요약 19 page
-section 02 문제 상황 이해하기 20 page
-section 03 모델 세우기 21 page
-section 04 문제 해결 23 page
-Part 3 효율적인 공중화장실 • 32
-section 01 수학적 모델링 요약 33 page
-section 02 문제 상황 이해하기 34 page
-section 03 모델 세우기 35 page
-section 04 문제 해결 37 page
-Part 4 파이썬(Python) 설치 • 44
-Part 5 파이썬 기초 명령어 • 51
-
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
