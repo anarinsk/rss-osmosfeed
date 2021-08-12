@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-12T12:18:41.945Z</updated>
+    <updated>2021-08-12T16:18:04.529Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maryland Real Estate in July: Sales Down 3% YoY, Inventory Down 31% YoY]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/DnPfpa7eb8g/maryland-real-estate-in-july-sales-down.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/DnPfpa7eb8g/maryland-real-estate-in-july-sales-down.html"/>
+        <updated>2021-08-12T16:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.
+From the Maryland Realtors for the entire state:
+Closed sales in July 2021 were 9,685, down 3.2% from 10,001 in July 2020.
+Active Listings in July 2021 were 10,164, down 30.8% from 14,685 in July 2020.
+Months of Supply was 1.1 Months in July 2021, compared to 2.0 Months in July 2020.
+Inventory in July was up 18.9% from last month, and up 64% from the all time low in March 2021.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hotels: Occupancy Rate Down 8% Compared to Same Week in 2019]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/xYNsqIKbQ8g/hotels-occupancy-rate-down-8-compared.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/xYNsqIKbQ8g/hotels-occupancy-rate-down-8-compared.html"/>
+        <updated>2021-08-12T14:10:00.003Z</updated>
+        <summary type="html"><![CDATA[Note: The year-over-year occupancy comparisons are easy, since occupancy declined sharply at the onset of the pandemic.  So STR is comparing to the same week in 2019.
+The occupancy rate is down 8.3% compared to the same week in 2019.
+
+From CoStar: STR: Seasonality, Delta Variant Worries Lead to Lower US Hotel Occupancy, Rates
+Reflecting seasonality and greater concern around the Delta variant, U.S. hotel occupancy and average daily rate (ADR) dipped from the previous weeks, according to STR‘s latest data through August 7.
+August 1-7, 2021 (percentage change from comparable week in 2019*):
+• Occupancy: 68.0% (-8.3%)
+• Average daily rate (ADR): $140.97 (+5.1%)
+• Revenue per available room (RevPAR): $95.89 (-3.6%)
+...
+*Due to the steep, pandemic-driven performance declines of 2020, STR is measuring recovery against comparable time periods from 2019.
+   emphasis added
+The following graph shows the seasonal pattern for the hotel occupancy rate using the four week average.
+Click on graph for larger image.
+The red line is for 2021, black is 2020, blue is the median, dashed purple is 2019, and dashed light blue is for 2009 (the worst year on record for hotels prior to 2020).
+
+Occupancy is well above the horrible 2009 levels and weekend occupancy (leisure) has been solid.
+Note: Y-axis doesn't start at zero to better show the seasonal change.
+
+
+With solid leisure travel, the Summer months have had decent occupancy - but it is uncertain what will happen in the Fall with business travel - especially with the sharp increase in COVID pandemic cases and hospitalizations.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnesota Real Estate in July: Sales Down 9% YoY, Inventory Down 30% YoY]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/T3srAuun3Ns/minnesota-real-estate-in-july-sales.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/T3srAuun3Ns/minnesota-real-estate-in-july-sales.html"/>
+        <updated>2021-08-12T13:13:00.001Z</updated>
+        <summary type="html"><![CDATA[Note: I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.
+From the Minnesota Realtors®:
+Total Residential Units Sold in July 2021 were 9,615, down 8.7% from 10,530 in July 2020.
+Active Residential Listings in July 2021 were 11,854, down 29.7% from 16,861 in July 2020.
+Months of Supply was 1.5 Months in July 2021, compared to 2.3 Months in July 2020.
+Click on graph for larger image.
+This graph from the Minnesota Realtors® shows inventory in Minnesota since 2012.  Inventory had been trending down, and then was somewhat flat for a few years, and then declined significantly during the pandemic.
+Active inventory was up 8.6% from the previous month, and up 43.3% seasonally from the all time low in February 2021.   Usually, at this time of the year, we'd expect active inventory of around 23,000 in Minnesota, so current inventory is still extremely low.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Initial Unemployment Claims decrease to 375,000]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/5j8aoFCt5_Y/weekly-initial-unemployment-claims_12.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/5j8aoFCt5_Y/weekly-initial-unemployment-claims_12.html"/>
+        <updated>2021-08-12T12:34:00.005Z</updated>
+        <summary type="html"><![CDATA[The DOL reported:
+In the week ending August 7, the advance figure for seasonally adjusted initial claims was 375,000, a decrease of 12,000  from the previous week's revised level. The previous week's level was revised up by 2,000 from 385,000 to 387,000. The  4-week moving average was 396,250, an increase of 1,750 from the previous week's revised average. The previous  week's average was revised up by 500 from 394,000 to 394,500. 
+emphasis added
+This does not include the 104,572 initial claims for Pandemic Unemployment Assistance (PUA) that was up from 94,427 the previous week.
+The following graph shows the 4-week moving average of weekly claims since 1971.
+Click on graph for larger image.
+The dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims decreased to 394,000.
+The previous week was revised up.
+Regular state continued claims decreased to 2,866,000 (SA) from 2,980,000 (SA) the previous week.
+Note: There are an additional 4,820,787 receiving Pandemic Unemployment Assistance (PUA) that decreased from 5,156,982 the previous week (there are questions about these numbers).  This is a special program for business owners, self-employed, independent contractors or gig workers not receiving other unemployment insurance.   And an additional 3,852,569 receiving Pandemic Emergency Unemployment Compensation (PEUC) down from 4,246,207.
+Weekly claims were close to the consensus forecast.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thursday: Unemployment Claims, PPI]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/unTFb5KiqEw/thursday-unemployment-claims-ppi.html</id>
@@ -6040,16 +6122,6 @@ Part 5 파이썬 기초 명령어 • 51
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Socioeconomic Status and Inequalities in Children’s IQ and Economic Preferences]]></title>
-        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/714992?af=R</id>
-        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/714992?af=R"/>
-        <updated>2021-07-14T01:51:47.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
-        <author>
-            <name>Armin Falk</name>
         </author>
     </entry>
 </feed>

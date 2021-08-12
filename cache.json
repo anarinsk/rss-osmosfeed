@@ -1591,15 +1591,6 @@
           "publishedOn": "2021-07-21T02:43:11.000Z",
           "wordCount": 127,
           "title": "Do Environmental Markets Improve on Open Access? Evidence from California Groundwater Rights"
-        },
-        {
-          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/714992?af=R",
-          "author": "Armin Falk",
-          "description": "Journal of Political Economy, Ahead of Print.",
-          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/714992?af=R",
-          "publishedOn": "2021-07-14T01:51:47.000Z",
-          "wordCount": 127,
-          "title": "Socioeconomic Status and Inequalities in Children’s IQ and Economic Preferences"
         }
       ]
     },
@@ -1608,6 +1599,42 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/DnPfpa7eb8g/maryland-real-estate-in-july-sales-down.html",
+          "author": null,
+          "description": "Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.\nFrom the Maryland Realtors for the entire state:\nClosed sales in July 2021 were 9,685, down 3.2% from 10,001 in July 2020.\nActive Listings in July 2021 were 10,164, down 30.8% from 14,685 in July 2020.\nMonths of Supply was 1.1 Months in July 2021, compared to 2.0 Months in July 2020.\nInventory in July was up 18.9% from last month, and up 64% from the all time low in March 2021.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/DnPfpa7eb8g/maryland-real-estate-in-july-sales-down.html",
+          "publishedOn": "2021-08-12T16:06:00.000Z",
+          "wordCount": 902,
+          "title": "Maryland Real Estate in July: Sales Down 3% YoY, Inventory Down 31% YoY"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/xYNsqIKbQ8g/hotels-occupancy-rate-down-8-compared.html",
+          "author": null,
+          "description": "Note: The year-over-year occupancy comparisons are easy, since occupancy declined sharply at the onset of the pandemic.  So STR is comparing to the same week in 2019.\nThe occupancy rate is down 8.3% compared to the same week in 2019.\n\nFrom CoStar: STR: Seasonality, Delta Variant Worries Lead to Lower US Hotel Occupancy, Rates\nReflecting seasonality and greater concern around the Delta variant, U.S. hotel occupancy and average daily rate (ADR) dipped from the previous weeks, according to STR‘s latest data through August 7.\nAugust 1-7, 2021 (percentage change from comparable week in 2019*):\n• Occupancy: 68.0% (-8.3%)\n• Average daily rate (ADR): $140.97 (+5.1%)\n• Revenue per available room (RevPAR): $95.89 (-3.6%)\n...\n*Due to the steep, pandemic-driven performance declines of 2020, STR is measuring recovery against comparable time periods from 2019.\n   emphasis added\nThe following graph shows the seasonal pattern for the hotel occupancy rate using the four week average.\nClick on graph for larger image.\nThe red line is for 2021, black is 2020, blue is the median, dashed purple is 2019, and dashed light blue is for 2009 (the worst year on record for hotels prior to 2020).\n\nOccupancy is well above the horrible 2009 levels and weekend occupancy (leisure) has been solid.\nNote: Y-axis doesn't start at zero to better show the seasonal change.\n\n\nWith solid leisure travel, the Summer months have had decent occupancy - but it is uncertain what will happen in the Fall with business travel - especially with the sharp increase in COVID pandemic cases and hospitalizations.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/xYNsqIKbQ8g/hotels-occupancy-rate-down-8-compared.html",
+          "publishedOn": "2021-08-12T14:10:00.003Z",
+          "wordCount": 1059,
+          "title": "Hotels: Occupancy Rate Down 8% Compared to Same Week in 2019"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/T3srAuun3Ns/minnesota-real-estate-in-july-sales.html",
+          "author": null,
+          "description": "Note: I'm tracking data for many local markets around the U.S.  I think it is especially important to watch inventory this year.\nFrom the Minnesota Realtors®:\nTotal Residential Units Sold in July 2021 were 9,615, down 8.7% from 10,530 in July 2020.\nActive Residential Listings in July 2021 were 11,854, down 29.7% from 16,861 in July 2020.\nMonths of Supply was 1.5 Months in July 2021, compared to 2.3 Months in July 2020.\nClick on graph for larger image.\nThis graph from the Minnesota Realtors® shows inventory in Minnesota since 2012.  Inventory had been trending down, and then was somewhat flat for a few years, and then declined significantly during the pandemic.\nActive inventory was up 8.6% from the previous month, and up 43.3% seasonally from the all time low in February 2021.   Usually, at this time of the year, we'd expect active inventory of around 23,000 in Minnesota, so current inventory is still extremely low.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/T3srAuun3Ns/minnesota-real-estate-in-july-sales.html",
+          "publishedOn": "2021-08-12T13:13:00.001Z",
+          "wordCount": 966,
+          "title": "Minnesota Real Estate in July: Sales Down 9% YoY, Inventory Down 30% YoY"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/5j8aoFCt5_Y/weekly-initial-unemployment-claims_12.html",
+          "author": null,
+          "description": "The DOL reported:\nIn the week ending August 7, the advance figure for seasonally adjusted initial claims was 375,000, a decrease of 12,000  from the previous week's revised level. The previous week's level was revised up by 2,000 from 385,000 to 387,000. The  4-week moving average was 396,250, an increase of 1,750 from the previous week's revised average. The previous  week's average was revised up by 500 from 394,000 to 394,500. \nemphasis added\nThis does not include the 104,572 initial claims for Pandemic Unemployment Assistance (PUA) that was up from 94,427 the previous week.\nThe following graph shows the 4-week moving average of weekly claims since 1971.\nClick on graph for larger image.\nThe dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims decreased to 394,000.\nThe previous week was revised up.\nRegular state continued claims decreased to 2,866,000 (SA) from 2,980,000 (SA) the previous week.\nNote: There are an additional 4,820,787 receiving Pandemic Unemployment Assistance (PUA) that decreased from 5,156,982 the previous week (there are questions about these numbers).  This is a special program for business owners, self-employed, independent contractors or gig workers not receiving other unemployment insurance.   And an additional 3,852,569 receiving Pandemic Emergency Unemployment Compensation (PEUC) down from 4,246,207.\nWeekly claims were close to the consensus forecast.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/5j8aoFCt5_Y/weekly-initial-unemployment-claims_12.html",
+          "publishedOn": "2021-08-12T12:34:00.005Z",
+          "wordCount": 1015,
+          "title": "Weekly Initial Unemployment Claims decrease to 375,000"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/unTFb5KiqEw/thursday-unemployment-claims-ppi.html",
           "author": null,
