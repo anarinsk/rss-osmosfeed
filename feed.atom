@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-13T04:15:47.131Z</updated>
+    <updated>2021-08-13T08:13:48.115Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -6506,28 +6506,6 @@ __Amazon Kinesis Data Anal...
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Debug C++ with WSL 2 Distributions and Visual Studio 2022]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6869</id>
-        <link href="https://devblogs.microsoft.com/commandline/build-and-debug-c-with-wsl-2-distributions-and-visual-studio-2022/"/>
-        <updated>2021-07-14T19:13:53.000Z</updated>
-        <summary type="html"><![CDATA[This post is written by Erika Sweet, a Program Manager on Microsoft’s C++ Team.
-The post Build and Debug C++ with WSL 2 Distributions and Visual Studio 2022 appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Erika</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Terminal Preview 1.10 Release]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6860</id>
-        <link href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-10-release/"/>
-        <updated>2021-07-14T17:03:19.000Z</updated>
-        <summary type="html"><![CDATA[It’s Windows Terminal release day! This release introduces Windows Terminal Preview to version 1.10 and Windows Terminal will be updated to version 1.9 soon. Windows Terminal will include all of the features listed in the 1.9 blog post except for the default terminal setting and the ability to edit actions using the settings UI.
-The post Windows Terminal Preview 1.10 Release appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Kayla Cinnamon</name>
         </author>
     </entry>
 </feed>

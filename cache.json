@@ -522,24 +522,6 @@
           "publishedOn": "2021-07-30T18:07:17.000Z",
           "wordCount": 1206,
           "title": "Install WSL with a single command now available in Windows 10 version 2004 and higher"
-        },
-        {
-          "id": "https://devblogs.microsoft.com/commandline/?p=6869",
-          "author": "Erika",
-          "description": "This post is written by Erika Sweet, a Program Manager on Microsoft’s C++ Team.\nThe post Build and Debug C++ with WSL 2 Distributions and Visual Studio 2022 appeared first on Windows Command Line.",
-          "link": "https://devblogs.microsoft.com/commandline/build-and-debug-c-with-wsl-2-distributions-and-visual-studio-2022/",
-          "publishedOn": "2021-07-14T19:13:53.000Z",
-          "wordCount": 1805,
-          "title": "Build and Debug C++ with WSL 2 Distributions and Visual Studio 2022"
-        },
-        {
-          "id": "https://devblogs.microsoft.com/commandline/?p=6860",
-          "author": "Kayla Cinnamon",
-          "description": "It’s Windows Terminal release day! This release introduces Windows Terminal Preview to version 1.10 and Windows Terminal will be updated to version 1.9 soon. Windows Terminal will include all of the features listed in the 1.9 blog post except for the default terminal setting and the ability to edit actions using the settings UI.\nThe post Windows Terminal Preview 1.10 Release appeared first on Windows Command Line.",
-          "link": "https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-10-release/",
-          "publishedOn": "2021-07-14T17:03:19.000Z",
-          "wordCount": 1744,
-          "title": "Windows Terminal Preview 1.10 Release"
         }
       ]
     },
