@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-13T08:13:48.115Z</updated>
+    <updated>2021-08-13T12:18:16.566Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -168,6 +168,17 @@ Weekly claims were close to the consensus forecast.]]></summary>
 • At 8:30 AM, The Producer Price Index for July from the BLS.  The consensus is for a 0.6% increase in PPI, and a 0.5% increase in core PPI.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The PPE panic of 2020]]></title>
+        <id>https://voxeu.org/vox-talks/ppe-panic-2020</id>
+        <link href="https://voxeu.org/vox-talks/ppe-panic-2020"/>
+        <updated>2021-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the scramble for PPE in early 2020, prices spiked, supplies dried up, and doctors were forced to use garbage bags for protection. A year on, Chad Bown has examined what happened, and he tells Tim Phillips how we can avoid a repeat.
+The paper discussed is: Bown, C. 2021. 'How COVID-19 medical supply shortages led to extraordinary trade and industrial policy'. CEPR, Discussion Paper 16359]]></summary>
+        <author>
+            <name>Chad Bown</name>
         </author>
     </entry>
     <entry>
