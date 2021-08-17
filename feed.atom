@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-17T16:17:56.327Z</updated>
+    <updated>2021-08-17T20:12:39.435Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LA Area Port Traffic: Solid Imports, Weak Exports in July]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/hIvVBbsTFFM/la-area-port-traffic-solid-imports-weak.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/hIvVBbsTFFM/la-area-port-traffic-solid-imports-weak.html"/>
+        <updated>2021-08-17T18:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: The expansion to the Panama Canal was completed in 2016 (As I noted a few years ago), and some of the traffic that used the ports of Los Angeles and Long Beach is probably going through the canal. This might be impacting TEUs on the West Coast.
+Container traffic gives us an idea about the volume of goods being exported and imported - and usually some hints about the trade report since LA area ports handle about 40% of the nation's container port traffic.
+The following graphs are for inbound and outbound traffic at the ports of Los Angeles and Long Beach in TEUs (TEUs: 20-foot equivalent units or 20-foot-long cargo container). 
+To remove the strong seasonal component for inbound traffic, the first graph shows the rolling 12 month average. 
+Click on graph for larger image.
+On a rolling 12 month basis, inbound traffic was up 0.2% in July compared to the rolling 12 months ending in June.   Outbound traffic was down 2.2% compared to the rolling 12 months ending the previous month.
+The 2nd graph is the monthly data (with a strong seasonal pattern for imports).
+Usually imports peak in the July to October period as retailers import goods for the Christmas holiday, and then decline sharply and bottom in February or March depending on the timing of the Chinese New Year.
+
+2021 started off incredibly strong for imports.
+Imports were up 2% YoY in July (recovered last year in July following the early months of the pandemic), and exports were down 24.0% YoY.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NAHB: Builder Confidence Declined to 75 in August]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/hAWH4HBEE70/nahb-builder-confidence-declined-to-75.html</id>
