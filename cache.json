@@ -501,6 +501,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/one-stop-source-inflation-new-database",
+          "author": "Jongrim Ha,  M. Ayhan Kose, Franziska Ohnsorge",
+          "description": "Understanding the dynamics of inflation requires a comprehensive database that covers a large number of countries over a long period. This column introduces a new global database of inflation that has a significantly larger coverage than other databases as it includes multiple measures of inflation for up to 196 countries over 1970-2021. The database can be used in a variety of contexts. A few potential applications are illustrated, analysing the evolution of inflation since 1970, the behaviour of inflation during global recessions, and the synchronisation of inflation across countries and over time,",
+          "link": "https://voxeu.org/article/one-stop-source-inflation-new-database",
+          "publishedOn": "2021-08-17T00:00:00.000Z",
+          "wordCount": 2290,
+          "title": "One-stop source for inflation: A new database"
+        },
+        {
+          "id": "https://voxeu.org/article/trade-liberalisation-and-taxation",
+          "author": "Rabah Arezki, Alou Adesse Dama, Grégoire Rota-Graziosi",
+          "description": "The empirical evidence on the relationship between trade orientation and growth in developing countries has been hotly contested for over half a century. This column focuses on the dynamic effects of trade liberalisation on tax revenue. Using a worldwide panel dataset, it shows a statistically negative effect of liberalisation on (non-resource) tax revenues in the short term and no significant effect in the medium term. Implementing a VAT prior to liberalisation mitigates its negative effects on tax revenues.",
+          "link": "https://voxeu.org/article/trade-liberalisation-and-taxation",
+          "publishedOn": "2021-08-17T00:00:00.000Z",
+          "wordCount": 2453,
+          "title": "Trade liberalisation and taxation"
+        },
+        {
           "id": "https://voxeu.org/article/economic-backwardness-and-religious-persecution",
           "author": "Mauricio Drelichman, Jordi Vidal-Robert, Hans-Joachim Voth",
           "description": "Throughout history, religion has influenced growth and per capita output, and its effects are felt even in modern times. This column investigates the effect of one of history’s longest-running and most intrusive forms of religious persecution – the Spanish Inquisition. In areas without measured persecution, annual GDP per capita is significantly higher than in areas where the Inquisition was most active. Local levels of persecution continue to influence economic activity and basic attitudes some 200 years after the abolition of the Inquisition, undermining trust, reducing investments in human capital, and impoverishing hardest-hit areas.",
@@ -1815,6 +1833,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/qv3v6BccD8w/tuesday-retail-sales-industrial.html",
+          "author": null,
+          "description": "From Matthew Graham at Mortgage News Daily: MBS RECAP: Drifty Day, Treasuries Hold Weekly Gains, MBS Underperform\nMBS underperformed, ultimately returning to 'unchanged' levels in the 4pm hour even as Treasuries remined slightly stronger on the day. ... [30 year fixed 2.93%]\nemphasis added\nTuesday:\n• At 8:30 AM ET, Retail sales for July is scheduled to be released.  The consensus is for 0.2% decrease in retail sales.\n• At 9:15 AM, The Fed will release Industrial Production and Capacity Utilization for July. The consensus is for a 0.5% increase in Industrial Production, and for Capacity Utilization to increase to 75.7%.\n• At 10:00 AM, The August NAHB homebuilder survey. The consensus is for a reading of 80, unchanged from 80. Any number above 50 indicates that more builders view sales conditions as good than poor.\n• At 12:00 PM, MBA Q2 National Delinquency Survey (expected)\n• At 1:30 PM, Fed Chair Powell speaks: Conversation with the Chair: A Virtual Teacher Town Hall Meeting",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/qv3v6BccD8w/tuesday-retail-sales-industrial.html",
+          "publishedOn": "2021-08-17T01:00:00.005Z",
+          "wordCount": 964,
+          "title": "Tuesday: Retail Sales, Industrial Production, Homebuilder Survey and More"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/SI9e5IyVB4U/august-16th-covid-19-data-reported-on.html",
           "author": null,
