@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-18T00:37:47.230Z</updated>
+    <updated>2021-08-18T04:15:31.501Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wednesday: Housing Starts, Preliminary Employment Benchmark, FOMC Minutes]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/NRc3wNUi9hQ/wednesday-housing-starts-preliminary.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/NRc3wNUi9hQ/wednesday-housing-starts-preliminary.html"/>
+        <updated>2021-08-18T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Wednesday:
+• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.
+• At 8:30 AM, Housing Starts for July. The consensus is for 1.602 million SAAR, down from 1.643 million SAAR in June.
+• At 10:00 AM, the Bureau of Labor Statistics (BLS) will release the preliminary estimate of the upcoming annual benchmark revision.
+• During the day, The AIA's Architecture Billings Index for July (a leading indicator for commercial real estate).
+• At 2:00 PM, FOMC Minutes, July 27-28, 2021]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetary policy and inequality]]></title>
+        <id>https://voxeu.org/article/monetary-policy-and-inequality</id>
+        <link href="https://voxeu.org/article/monetary-policy-and-inequality"/>
+        <updated>2021-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By most measures, income inequality has increased in the UK in the past several decades. The July 2021 CfM survey asked the members of its UK panel to evaluate the impact of central banks on inequality and whether the Bank of England should consider income and wealth distribution in its monetary policy decisions. The majority the panel thinks monetary policy has only a small impact on wealth and income inequality. A larger majority of nearly 90% of the panel believes that inequality should play a minimal role or no role in the Bank of England’s monetary policy decisions.]]></summary>
+        <author>
+            <name>Ethan Ilzetzki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How natural disasters reshape supply chains]]></title>
+        <id>https://voxeu.org/article/how-natural-disasters-reshape-supply-chains</id>
+        <link href="https://voxeu.org/article/how-natural-disasters-reshape-supply-chains"/>
+        <updated>2021-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The immediate consequences of natural disasters for global value chains are well-documented, but little is known about the longer term. This column examines the long-term impact of the 2011 earthquake in Japan on auto and electronics supply chains using data on imports of Japanese products worldwide. Imports shifted to new suppliers, especially in products where dependence on Japan was greater. The new suppliers tended to be developing and large countries, suggesting cost and scale were important. The observed pattern of switching may be relevant to the COVID-19 pandemic.]]></summary>
+        <author>
+            <name>Caroline Freund, Aaditya Mattoo, Alen Mulabdic, Michele Ruta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[August 17th COVID-19: Wave Still Increasing]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/rQvruhVHnaU/august-17th-covid-19.html</id>
@@ -6916,16 +6951,6 @@ PART 3_이제, 어디에 투자할 것인가
 국내도서 > 컴퓨터/모바일 > 모바일 프로그래밍 > 안드로이드]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To catch a polluter]]></title>
-        <id>https://www.aeaweb.org/research/charts/catch-polluter-regulatory-agencies</id>
-        <link href="https://www.aeaweb.org/research/charts/catch-polluter-regulatory-agencies"/>
-        <updated>2021-07-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[High pollution emitters sometimes game the system by putting out more emissions on days when regulators' air quality monitors aren't operating, according to a paper in the American Economic Review.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>

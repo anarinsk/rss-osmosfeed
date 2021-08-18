@@ -474,6 +474,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/monetary-policy-and-inequality",
+          "author": "Ethan Ilzetzki",
+          "description": "By most measures, income inequality has increased in the UK in the past several decades. The July 2021 CfM survey asked the members of its UK panel to evaluate the impact of central banks on inequality and whether the Bank of England should consider income and wealth distribution in its monetary policy decisions. The majority the panel thinks monetary policy has only a small impact on wealth and income inequality. A larger majority of nearly 90% of the panel believes that inequality should play a minimal role or no role in the Bank of England’s monetary policy decisions.",
+          "link": "https://voxeu.org/article/monetary-policy-and-inequality",
+          "publishedOn": "2021-08-18T00:00:00.000Z",
+          "wordCount": 2755,
+          "title": "Monetary policy and inequality"
+        },
+        {
+          "id": "https://voxeu.org/article/how-natural-disasters-reshape-supply-chains",
+          "author": "Caroline Freund, Aaditya Mattoo, Alen Mulabdic, Michele Ruta",
+          "description": "The immediate consequences of natural disasters for global value chains are well-documented, but little is known about the longer term. This column examines the long-term impact of the 2011 earthquake in Japan on auto and electronics supply chains using data on imports of Japanese products worldwide. Imports shifted to new suppliers, especially in products where dependence on Japan was greater. The new suppliers tended to be developing and large countries, suggesting cost and scale were important. The observed pattern of switching may be relevant to the COVID-19 pandemic.",
+          "link": "https://voxeu.org/article/how-natural-disasters-reshape-supply-chains",
+          "publishedOn": "2021-08-18T00:00:00.000Z",
+          "wordCount": 2611,
+          "title": "How natural disasters reshape supply chains"
+        },
+        {
           "id": "https://voxeu.org/content/sustainable-finance-ceprs-new-research-policy-network",
           "author": "Dirk Schoenmaker",
           "description": "The CEPR recently launched its research policy network on sustainable finance. Dirk Schoenmaker of the Rotterdam School of Management is leading the RPN, and Tim Phillips asks him what “sustainable” finance is, how the RPN will involve bankers as well as academics, and how big an effect it can have on policy choices.",
@@ -1224,15 +1242,6 @@
           "publishedOn": "2021-07-21T15:00:00.000Z",
           "wordCount": 1527,
           "title": "How policy shapes culture"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/catch-polluter-regulatory-agencies",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "High pollution emitters sometimes game the system by putting out more emissions on days when regulators' air quality monitors aren't operating, according to a paper in the American Economic Review.",
-          "link": "https://www.aeaweb.org/research/charts/catch-polluter-regulatory-agencies",
-          "publishedOn": "2021-07-19T15:00:00.000Z",
-          "wordCount": 365,
-          "title": "To catch a polluter"
         }
       ]
     },
@@ -1815,6 +1824,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/NRc3wNUi9hQ/wednesday-housing-starts-preliminary.html",
+          "author": null,
+          "description": "Wednesday:\n• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.\n• At 8:30 AM, Housing Starts for July. The consensus is for 1.602 million SAAR, down from 1.643 million SAAR in June.\n• At 10:00 AM, the Bureau of Labor Statistics (BLS) will release the preliminary estimate of the upcoming annual benchmark revision.\n• During the day, The AIA's Architecture Billings Index for July (a leading indicator for commercial real estate).\n• At 2:00 PM, FOMC Minutes, July 27-28, 2021",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/NRc3wNUi9hQ/wednesday-housing-starts-preliminary.html",
+          "publishedOn": "2021-08-18T01:00:00.001Z",
+          "wordCount": 889,
+          "title": "Wednesday: Housing Starts, Preliminary Employment Benchmark, FOMC Minutes"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/rQvruhVHnaU/august-17th-covid-19.html",
           "author": null,
