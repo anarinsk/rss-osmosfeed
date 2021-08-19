@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-19T04:15:22.437Z</updated>
+    <updated>2021-08-19T08:13:49.484Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -16,6 +16,16 @@
 • Also at 8:30 AM, the Philly Fed manufacturing survey for August.  The consensus is for a reading of 25.0, up from 21.9.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The euro area Phillips curve: Damaged but not dead]]></title>
+        <id>https://voxeu.org/article/euro-area-phillips-curve-damaged-not-dead</id>
+        <link href="https://voxeu.org/article/euro-area-phillips-curve-damaged-not-dead"/>
+        <updated>2021-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The muted reaction of inflation to the initial extreme slump in economic activity would appear to suggest that the Phillips curve is flat or has flattened further during the Covid-19 pandemic. This column argues that in fact there are currently too many confounding factors for an assessment of how the pandemic has affected the Phillips curve relationship. It also finds evidence that underlying inflationary pressures have been dampened by the build-up of economic slack and models that better account for tail events reveal more stable Phillips curve parameters. Taken together, all of this suggests that the Phillips curve is harder to grasp, but still at play.]]></summary>
+        <author>
+            <name>Elena Bobeica, Benny Hartwig, Christiane Nickel</name>
         </author>
     </entry>
     <entry>
