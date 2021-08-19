@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-19T00:33:12.451Z</updated>
+    <updated>2021-08-19T04:15:22.437Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thursday: Unemployment Claims, Philly Fed Mfg]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/YuEj0ICOMt8/thursday-unemployment-claims-philly-fed.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/YuEj0ICOMt8/thursday-unemployment-claims-philly-fed.html"/>
+        <updated>2021-08-19T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Thursday:
+• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for a decrease to 360 thousand from 375 thousand last week.
+• Also at 8:30 AM, the Philly Fed manufacturing survey for August.  The consensus is for a reading of 25.0, up from 21.9.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid-19 government support may have not been as unproductively distributed as feared]]></title>
+        <id>https://voxeu.org/article/covid-19-government-support-may-have-not-been-unproductively-distributed-feared</id>
+        <link href="https://voxeu.org/article/covid-19-government-support-may-have-not-been-unproductively-distributed-feared"/>
+        <updated>2021-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Government support in response to the Covid-19 pandemic has raised concerns about the misallocation of public funds and the creation of ‘zombie’ firms. This column uses firm-level data from CompNet for four EU countries to show that Covid-19 support was distributed rather efficiently. Government subsidies were distributed towards medium productive firms, and only marginally towards the undeserving ‘zombies’. However, the negative impact of the pandemic on productivity growth was large and resource reallocation sluggish, which calls for a removal of the blanket as soon as the situation allows.]]></summary>
+        <author>
+            <name>Tommaso Bighelli, Tibor  Lalinsky, Filippo di Mauro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[August 18th COVID-19: Average Daily Deaths have Tripled Since Low in July]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/6O374vI-irc/august-18th-covid-19-average-daily.html</id>
