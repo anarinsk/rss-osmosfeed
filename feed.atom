@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-20T08:13:52.896Z</updated>
+    <updated>2021-08-20T12:19:28.312Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Propaganda, persuasion, and the Nazis]]></title>
+        <id>https://voxeu.org/vox-talks/propaganda-persuasion-and-nazis</id>
+        <link href="https://voxeu.org/vox-talks/propaganda-persuasion-and-nazis"/>
+        <updated>2021-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In 1932, Hitler and his followers believed that marching through the streets in uniform would convince the German public to vote them into power. But did the flags, songs and stomping boots actually persuade people? Hans-Joachim Voth tells Tim Phillips how polling data (and the spread of a pandemic) reveal whether this type of propaganda actually worked.
+Read more about the research behind this Vox Talk:
+Caesmann, M, Caprettini, B, Voth, H and Yanagizawa-Drott, D. 2021. 'Going Viral: Propaganda, Persuasion and Polarization in 1932 Hamburg'. CEPR]]></summary>
+        <author>
+            <name>Hans-Joachim Voth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A time-varying carbon tax to protect the environment while safeguarding the economy]]></title>
         <id>https://voxeu.org/article/time-varying-carbon-tax-protect-environment-while-safeguarding-economy</id>
