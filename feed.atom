@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-21T04:15:08.453Z</updated>
+    <updated>2021-08-21T08:13:26.070Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Persuading investors: A video-based study]]></title>
+        <id>https://voxeu.org/article/persuading-investors-video-based-study</id>
+        <link href="https://voxeu.org/article/persuading-investors-video-based-study"/>
+        <updated>2021-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Persuasive communication relies not only on content but also on its delivery. This column uses machine learning algorithms to examine the persuasiveness of delivery in startup pitches to venture capitalists. Positive (i.e. passionate, warm) pitches increase the probability of funding, but on receiving funding, high-positivity startups tend to underperform. Women are more heavily judged on delivery when evaluating single-gender teams, but they are neglected when pitching alongside men. The results of an experiment suggest that persuasion delivery works mainly through leading investors to form inaccurate beliefs.]]></summary>
+        <author>
+            <name>Allen Hu, Song Ma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[California July Housing: Sales down 2% YoY, "Home sales and prices curb in July"]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/Lz-K9MDqqRk/california-july-housing-sales-down-2.html</id>

@@ -546,6 +546,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/persuading-investors-video-based-study",
+          "author": "Allen Hu, Song Ma",
+          "description": "Persuasive communication relies not only on content but also on its delivery. This column uses machine learning algorithms to examine the persuasiveness of delivery in startup pitches to venture capitalists. Positive (i.e. passionate, warm) pitches increase the probability of funding, but on receiving funding, high-positivity startups tend to underperform. Women are more heavily judged on delivery when evaluating single-gender teams, but they are neglected when pitching alongside men. The results of an experiment suggest that persuasion delivery works mainly through leading investors to form inaccurate beliefs.",
+          "link": "https://voxeu.org/article/persuading-investors-video-based-study",
+          "publishedOn": "2021-08-21T00:00:00.000Z",
+          "wordCount": 2079,
+          "title": "Persuading investors: A video-based study"
+        },
+        {
           "id": "https://voxeu.org/vox-talks/propaganda-persuasion-and-nazis",
           "author": "Hans-Joachim Voth",
           "description": "In 1932, Hitler and his followers believed that marching through the streets in uniform would convince the German public to vote them into power. But did the flags, songs and stomping boots actually persuade people? Hans-Joachim Voth tells Tim Phillips how polling data (and the spread of a pandemic) reveal whether this type of propaganda actually worked.\nRead more about the research behind this Vox Talk:\nCaesmann, M, Caprettini, B, Voth, H and Yanagizawa-Drott, D. 2021. 'Going Viral: Propaganda, Persuasion and Polarization in 1932 Hamburg'. CEPR",
