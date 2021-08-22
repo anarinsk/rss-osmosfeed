@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-22T00:37:33.070Z</updated>
+    <updated>2021-08-22T04:15:13.957Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Racial bias in newspaper ratings of professional football players]]></title>
+        <id>https://voxeu.org/article/racial-bias-newspaper-ratings-professional-football-players</id>
+        <link href="https://voxeu.org/article/racial-bias-newspaper-ratings-professional-football-players"/>
+        <updated>2021-08-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The mass media is the main source of information for fans of professional football, and racial bias in the way the media reports on sport activities would be a cause for concern. This column analyses data on over 400 players and shows that there is racial bias in the way Italian newspapers rate professional football players. Conditional on objective performance indicators, Black players receive a lower rating than non-Black players. The authors find no evidence of a racial bias in the wages Italian football clubs pay their players.]]></summary>
+        <author>
+            <name>Francesco Principe, Jan  van Ours</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indiana Real Estate in July: Sales Down 7% YoY, Inventory Down 25% YoY]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/pz6SQWngUGc/indiana-real-estate-in-july-sales-down.html</id>
