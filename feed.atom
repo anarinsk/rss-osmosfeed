@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-25T00:38:28.242Z</updated>
+    <updated>2021-08-25T04:15:29.886Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -5633,16 +5633,6 @@ Chapter 06 반복문
         <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
         <author>
             <name>Martin Blomhoff Holm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black market for appointments]]></title>
-        <id>https://www.aeaweb.org/research/black-markets-online-booking-systems</id>
-        <link href="https://www.aeaweb.org/research/black-markets-online-booking-systems"/>
-        <updated>2021-07-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tech savvy scalpers are causing problems for online booking. But switching from first-come-first-served rules to a so-called batch system may stop them, according to a paper in the American Economic Review.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
