@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-26T00:36:36.617Z</updated>
+    <updated>2021-08-26T04:15:26.047Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The impact of Covid-19 on firms and the role of vaccines in recovery expectations]]></title>
+        <id>https://voxeu.org/article/impact-covid-19-firms-and-role-vaccines-recovery-expectations</id>
+        <link href="https://voxeu.org/article/impact-covid-19-firms-and-role-vaccines-recovery-expectations"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Covid-19 pandemic and the imposed social distancing restrictions represented an unprecedented shock for the world economy and caused a marked increase in uncertainty. Based on a new firm-level survey matched with balance-sheet information, this column presents new evidence from Spain on the asymmetric impact of the pandemic shock. The impact of the Covid-19 shock was larger in the case of small and less productive firms within each sector and region. However, the unexpected announcement of the effectiveness of the Pfizer vaccine significantly improved the prospects of faster recovery under different sets of measures.]]></summary>
+        <author>
+            <name>Alejandro Fernández-Cerezo, Beatriz  González, Mario  Izquierdo, Enrique Moral-Benito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The long-run effects of R&D place-based policies]]></title>
+        <id>https://voxeu.org/article/long-run-effects-rd-place-based-policies</id>
+        <link href="https://voxeu.org/article/long-run-effects-rd-place-based-policies"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Localised innovation policies, such as local R&D clusters, are very popular, yet the evidence about their effectiveness is scarce in the short run, let alone the long run.   This column fills the gap by studying the long-run effects of a historic localised place-based innovation policy in the form of Russian science cities. It finds that in present-day Russia, science cities remain more innovative and productive, host more highly skilled workers, and pay them higher salaries.]]></summary>
+        <author>
+            <name>Helena Schweiger, Alexander  Stepanov, Paolo  Zacchia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thursday: GDP, Unemployment Claims]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/DMW_fAs8OaY/thursday-gdp-unemployment-claims.html</id>
