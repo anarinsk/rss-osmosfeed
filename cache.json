@@ -609,6 +609,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/vox-talks/does-malnutrition-cause-disease",
+          "author": "Eric Schneider",
+          "description": "The records of London's Foundling Hospital provide centuries of information on children's health. Eric Schneider tells Tim Phillips how he used this data to discover surprising information about the link between nutrition and common childhood illnesses.\nRead more about the research behind this Vox Talk:\nSchneider, E. 2021. 'The Effect of Nutritional Status on Historical Infectious Disease Morbidity: Evidence from the London Foundling Hospital, 1892-1919'. CEPR",
+          "link": "https://voxeu.org/vox-talks/does-malnutrition-cause-disease",
+          "publishedOn": "2021-08-27T00:00:00.000Z",
+          "wordCount": 570,
+          "title": "Does malnutrition cause disease?"
+        },
+        {
           "id": "https://voxeu.org/article/declining-capital-formation-japan-and-role-intangibles",
           "author": "Tsutomu Miyagawa, Takayuki Ishikawa",
           "description": "The Japanese economy has seen a decline in the contribution of capital accumulation to economic growth since 2000. This column uses over 30 years of national productivity data to explore this trend. It finds that the fall in tangible capital accumulation has largely been offset by investment into intangible capital. However, the growth in tangible and intangible capital accumulation has been imbalanced, calling for support of both types of asset accumulation.",
@@ -901,6 +910,15 @@
       "feedUrl": "https://www.aeaweb.org/research/rss-feed",
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
+        {
+          "id": "https://www.aeaweb.org/research/teacher-pay-wisconsin-flexible",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "Wisconsin school districts that adopted a flexible pay scheme for teachers instead of scheduled increases based on seniority were able to attract and retain better talent, according to a paper in the American Economic Journal: Economic Policy.",
+          "link": "https://www.aeaweb.org/research/teacher-pay-wisconsin-flexible",
+          "publishedOn": "2021-08-27T15:00:00.000Z",
+          "wordCount": 918,
+          "title": "Performance pay"
+        },
         {
           "id": "https://www.aeaweb.org/research/charts/covid-19-initial-health-effects-us",
           "author": "Tyler Smith (research.highlights@aeapubs.org)",

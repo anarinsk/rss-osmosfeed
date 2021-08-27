@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-27T08:13:46.167Z</updated>
+    <updated>2021-08-27T12:18:59.634Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Performance pay]]></title>
+        <id>https://www.aeaweb.org/research/teacher-pay-wisconsin-flexible</id>
+        <link href="https://www.aeaweb.org/research/teacher-pay-wisconsin-flexible"/>
+        <updated>2021-08-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wisconsin school districts that adopted a flexible pay scheme for teachers instead of scheduled increases based on seniority were able to attract and retain better talent, according to a paper in the American Economic Journal: Economic Policy.]]></summary>
+        <author>
+            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does malnutrition cause disease?]]></title>
+        <id>https://voxeu.org/vox-talks/does-malnutrition-cause-disease</id>
+        <link href="https://voxeu.org/vox-talks/does-malnutrition-cause-disease"/>
+        <updated>2021-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The records of London's Foundling Hospital provide centuries of information on children's health. Eric Schneider tells Tim Phillips how he used this data to discover surprising information about the link between nutrition and common childhood illnesses.
+Read more about the research behind this Vox Talk:
+Schneider, E. 2021. 'The Effect of Nutritional Status on Historical Infectious Disease Morbidity: Evidence from the London Foundling Hospital, 1892-1919'. CEPR]]></summary>
+        <author>
+            <name>Eric Schneider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Declining capital formation in Japan and the role of intangibles]]></title>
         <id>https://voxeu.org/article/declining-capital-formation-japan-and-role-intangibles</id>
