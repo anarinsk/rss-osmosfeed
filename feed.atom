@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-28T04:15:12.301Z</updated>
+    <updated>2021-08-28T08:13:33.382Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -185,6 +185,16 @@ The dashed red lines are the quarterly levels for real PCE.
 Personal income was above expectations, and personal spending was at expectations,  and the increase in PCE was at expectations.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of Referential Advice]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/715850?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/715850?af=R"/>
+        <updated>2021-08-27T05:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Steven Callander</name>
         </author>
     </entry>
     <entry>
