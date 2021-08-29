@@ -6,6 +6,15 @@
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=3057&rssType=2&type=title",
       "articles": [
         {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=278609553",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "금융계산\n김준기 지음 / 북스힐 / 2021년 08월 / ISBN:9791159713651\n정가: 25,000원 / 판매가: 25,000원 / 마일리지: 105원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n제1장 합의기호, ∑, 등비급수, 지수함수 활용\r\n1.1 합의기호, 등비급수\r\n1.2 변화율, 지수함수\r\n1.3 미분의 이해\r\n1.4 결정적인 모델(deterministic model)과 이자계산\r\n1.5 할인\r\n1.6 수열의 합의 금융계산적 표현\r\n1.7 등비수열의 합과 연금, 상환\r\n1.8 입금과 출금\r\n1.9 적분과 연속 이자계산(continuous compounding)\r\n1.10 연습문제\r\n1.11 연습문제 해설\r\n\r\n제2장 결정적 모델(Deterministic Model) 활용\r\n2.1 채권(bond)\r\n2.2 Macaulay Duration\r\n2.3 Dollar-Weighted Investment Return\r\n2.4 주식가격의 Dividend Discount Model\r\n2.5 Amortization\r\n2.6 연습문제\r\n2.7 연습문제 해설\r\n\r\n제3장 확률과 생존모델\r\n3.1 확률개념과 생존모델\r\n3,2 Amount Function A=A(t), Life Function ℓt=ℓ(t)\r\n3.3 Foce of Mortality\r\n3.4 Mareham's Law of Mortality\r\n3.5 SageMath 활용, 생명표 만들기\r\n3.6 연습문제\r\n3.7 연습문제 해설\r\n\r\n제4장 확률적 모델, 확률변수\r\n4.1 보험과 관련된 확률변수 표현\r\n4.2 확률변수 평균값 활용\r\n4.3 SageMath 활용, 연금표 만들기\r\n4.4 확률변수의 평균값과 보험금, 보험료\r\n4.5 보험에서 중요한 확률변수\r\n4.6 연습문제\r\n4.7 연습문제 해설\r\n\r\n제5장 확률변수의 평균값 활용\r\n5.1 확률변수의 평균값과 보험금, 보험료\r\n5.2 Reserve () 책임준비금\r\n5.3 결합 확률분포(Joint Probability Distribution)활용\r\n5.4 생존함수 ()\r\n5.5 연습문제\r\n5.6 연습문제 해설\r\n참고문헌\r\n찾아보기\n\n\n국내도서 > 대학교재/전문서적 > 경상계열 > 재무/금융\n국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=278609553",
+          "publishedOn": "2021-08-27T06:06:00.000Z",
+          "wordCount": 18,
+          "title": "금융계산/김준기 지음/북스힐"
+        },
+        {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=278560214",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
           "description": "블록체인의 세계\n김성규.허준호 지음 / 교우사(교재) / 2021년 08월 / ISBN:9791125103363\n정가: 13,000원 / 판매가: 13,000원 / 마일리지: 390원\n이벤트: 2021 서울 국제도서전에 초대합니다! 초대권 추첨\n\n\n\n\n머리말 … 3\r\n서언 … 11\r\n\r\nPART. 01\r\n (기본내용) 블록체인의 이해\r\n1. 블록체인 정의\t 14\r\n2. 블록체인 탄생배경\t 18\r\n3. 블록체인과 구조\t 23\r\n3.1. 분산형 구조\t 25\r\n3.2. 확장형 구조\t 26\r\n3.3. 보안형 구조\t 27\r\n4. 블록체인의 원리\t 31\r\n4.1. 원장의 보관 및 투명성\t 32\r\n4.2. 원장 내용 검증\t 34\r\n4.3. 블록체인의 발전 과정 그리고 효시\t 35\r\n5. 블록체인의 장단점\t 38\r\n5.1. 블록체인의 장점\t 39\r\n5.2. 블록체인의 단점\t 42\r\n6. 블록체인 종류\t 49\r\n6.1. 퍼블릭 블록체인(Public Blockchain)\t 49\r\n6.2. 프라이빗 블록체인(Private Blockchain)\t 51\r\n6.3. 컨소시엄 블록체인(Consortium Blockchain)\t 52\r\n7. 블록체인 기술\t 55\r\n7.1. 블록체인 네트워크(Blockchain Network)\t 55\r\n7.2. 샤딩(Sharding) 기법\t 58\r\n7.3. 분산원장기술(Distributed Ledger Technology)\t 59\r\n8. 블록체인 기반 기술\t 61\r\n8.1. 암호학의 개념\t 61\r\n8.2. 네트워크(Network)\t 66\r\n9. 합의 알고리즘\t  72\r\n\r\nⅶ \r\n9.1. 작업증명 계열 (PoW 계열) 알고리즘\t 72\r\n9.2. 작업증명의 합의 계열 (PoS 계열) 알고리즘\t 74\r\n9.3. 지분증명 계열 (DPoS 계열) 알고리즘\t 77\r\n9.4. 합의 알고리즘 표준화\t  79\r\n9.5. 기타 합의 알고리즘 표준화\t 81\r\n\r\nPART. 02\r\n  (중급내용) 블록체인의 기본 구현\r\nⅷ\r\n\r\n10. 블록체인 소스코드 예시\t 86\r\n10.1. 블록체인 소스코드 예시\t 86\r\n10.2. Java 기반 예시\t 89\r\n11. 블록체인 환경 구성\t  95\r\n11.1. Blockchain Guideline\t 95\r\n11.2. 모바일 지갑 가이드라인 (Mobile Wallet Guideline)\t 100\r\n11.3. Configuration Code\t 103\r\n\r\nPART. 03\r\n  (중급내용) 국가별 블록체인과 저자들의 SCI급 논문 소개\r\n112. 국가별 블록체인 사례\t 144\r\n12.1. 대한민국\t 144\r\n12.2. 미국\t 150\r\n12.3. 중국\t 153\r\n12.4. 일본\t 155\r\n12.5. 영국\t 156\r\n12.6. 독일\t 157\r\n12.7. 에스토니아\t 158\r\n12.8. 네덜란드\t 160\r\n12.9. 아랍에미리트 (UAE)\t  161\r\n12.10. 스위스\t 162\r\n12.11. 핀란드\t 163\r\n13. 산업별 블록체인 사례\t 164\r\n13.1. 금융 분야\t  164\r\n13.2. 의료, 헬...\n\n국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정\n국내도서 > 경제경영 > 재테크/투자 > 가상/암호화폐",
@@ -336,6 +345,33 @@
       "feedUrl": "http://www.aladin.co.kr/rss/new_all/437",
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=437&rssType=2&type=title",
       "articles": [
+        {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=278613453",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "머신러닝 파워드 애플리케이션\n에마뉘엘 아메장 지음, 박해선 옮김 / 한빛미디어 / 2021년 09월 / ISBN:9791162244692\n정가: 27,000원 / 판매가: 24,300원 / 마일리지: 1,350원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n머신러닝 기반 애플리케이션을 설계, 구축, 배포하는 과정에 필요한 모든 기술을 설명하는 책이다. 초기 아이디어가 제품으로 개발되기까지의 과정을 머신러닝 에디터 예제 프로젝트를 통해 순서대로 배운다. 데이터 과학자, 소프트웨어 엔지니어, 제품 관리자가 머신러닝 애플리케이션을 단계별로 구현하는 데 필요한 도구와 실무에서 맞닥뜨리게 되는 도전 과제와 모범 사례를 살펴본다.\n\n[PART I 올바른 머신러닝 접근 방법 모색]\r\n\r\nCHAPTER 1 제품의 목표를 머신러닝 문제로 표현하기\r\n1.1 어떤 작업이 가능한지 예상하기\r\n1.2 머신러닝 에디터 설계\r\n1.3 모니카 로가티: 머신러닝 프로젝트의 우선순위 지정하기\r\n1.4 마치며\r\n\r\nCHAPTER 2 계획 수립하기\r\n2.1 성공 측정하기\r\n2.2 작업 범위와 문제점 예상하기\r\n2.3 머신러닝 에디터 계획하기\r\n2.4 규칙적인 향상 방법: 간단하게 시작하기\r\n2.5 마치며\r\n\r\n[PART II 초기 프로토타입 제작]\r\n\r\nCHAPTER 3 엔드투엔드 파이프라인 만들기\r\n3.1 가장 간단한 프로토타입\r\n3.2 머신러닝 에디터 프로토타입\r\n3.3 워크플로 테스트하기\r\n3.4 머신러닝 에디터 프로토타입 평가\r\n4.5 마치며\r\n\r\nCHAPTER 4 초기 데이터셋 준비하기\r\n4.1 반복적인 데이터셋\r\n4.2 첫 번째 데이터셋 탐색하기\r\n4.3 레이블링으로 데이터 트렌드 찾기\r\n4.4 데이터를 활용한 특성 생성과 모델링\r\n4.5 로버트 먼로: 데이터를 찾고, 레이블링하고, 활용하는 방법\r\n4.6 마치며\r\n\r\n[PART III 모델 반복]\r\n\r\nCHAPTER 5 모델 훈련과 평가\r\n5.1 가장 간단하고 적절한 모델\r\n5.2 모델 평가: 정확도를 넘어서\r\n5.3 특성 중요도 평가\r\n5.4 마치며\r\n\r\nCHAPTER 6 머신러닝 문제 디버깅\r\n6.1 소프트웨어 모범 사례\r\n6.2 데이터 흐름 디버깅: 시각화와 테스트\r\n6.3 훈련 디버깅: 모델 학습하기\r\n6.4 일반화 디버깅: 유용한 모델 만들기\r\n6.5 마치며 \r\n\r\nCHAPTER 7 분류기를 사용한 글쓰기 추천\r\n7.1 모델로 추천 만들기\r\n7.2 모델 비교하기\r\n7.3 추천 생성하기\r\n7.4 마치며\r\n\r\n[PART IV 배포와 모니터링]\r\n\r\nCHAPTER 8 모델 배포 시 고려 사항\r\n8.1 데이터 고려 사항\r\n8.2 모델링 고려 사항\r\n8.3 크리스 할랜드: 배포 실험\r\n8.4 마치며\r\n\r\nCHAPTER 9 배포 방식 선택\r\n9.1 서버 측 배포\r\n9.2 클라이언트 측 배포\r\n9.3 연합 학습: 하이브리드 방법\r\n9.4 마치며\r\n\r\nCHAPTER 10 모델 안전장치 만들기\r\n10.1 실패를 대비하는 설계\r\n10.2 성능 설계\r\n10.3 피드백 요청\r\n10.4 크리스 무디: 데이터 과학자에게 모델 배포 권한 부여\r\n10...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=278613453",
+          "publishedOn": "2021-08-27T06:43:00.000Z",
+          "wordCount": 18,
+          "title": "머신러닝 파워드 애플리케이션/에마뉘엘 아메장 지음, 박해선 옮김/한빛미디어"
+        },
+        {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=278592498",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "앱 인벤터를 활용한 창의적 문제해결\n목원대학교 스톡스대학 SW교양학부 지음 / 인피니티북스 / 2021년 08월 / ISBN:9791185578842\n정가: 14,000원 / 판매가: 14,000원 / 마일리지: 700원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n앱 인벤터로 게임, 그림판, 계산기 등 다양한 주제의 앱을 만들어볼 수 있도록 예제 중심으로 구성되어 있다. 하나의 앱을 완성하기까지 단계별로 자세하게 설명하고 있어 프로그래밍을 처음 접하는 학생, 일반인이 쉽게 이해하며 따라갈 수 있다. 각 장마다 배운 내용을 응용하여 혼자서 앱을 만들어볼 수 있어 기초부터 활용까지 한 권의 책으로 익힐 수 있다.\n\nChapter 01 앱 인벤터 소개 \r\n1.1 앱 인벤터2란?\r\n1.2 앱 인벤터 살펴보기\r\n1.3 간단한 앱 만들어 실행하기\r\n1.4 에뮬레이터 설치와 한글 키보드 설치\r\n\r\nChapter 02 간단한 그림판과 악기 만들기\r\n2.1 그림판 만들기\r\n2.2 간단한 악기 만들기\r\n2.3 생각해보기\r\n\r\nChapter 03 나만의 앱 만들기\r\n3.1 나만의 웹 사이트 만들기\r\n3.2 말하는 My Pet\r\n3.3 생각해보기\r\n\r\nChapter 04 수학, 논리 블록을 이용한 다양한 계산기 앱 만들기\r\n4.1 간단한 계산기\r\n4.2 단위 계산기\r\n4.3 생각해보기\r\n\r\nChapter 05 제어 블록을 이용한 앱 만들기\r\n5.1 조건문\r\n5.2 성적처리 앱\r\n5.3 반복문\r\n5.4 구구단 앱\r\n5.5 생각해보기\r\n\r\nChapter 06 센서를 이용한 앱 만들기\r\n6.1 주사위 게임\r\n6.2 물고기 먹이주기\r\n6.3 생각해보기\r\n\r\nChapter 07 변수를 이용한 앱 만들기\r\n7.1 폭탄 터트리기 게임\r\n7.2 가위-바위-보 게임\r\n7.3 생각해보기\r\n\r\nChapter 08 리스트를 이용한 퀴즈 풀기\r\n8.1 국기 맞히기\r\n8.2 우리말 겨루기\r\n8.3 생각해보기\r\n\r\nChapter 09 함수를 활용한 게임 앱 만들기\r\n9.1 물고기 잡기 게임\r\n9.2 벽돌 깨기 게임\r\n9.3 생각해보기\r\n\r\nChapter 10 응용 프로젝트 1\r\n10.1 바구니로 과일 받기\r\n10.2 장애물 경주\r\n\r\nChapter 11 응용 프로젝트 2\r\n11.1 고궁 안내 앱 만들기\r\n11.2 나만의 번역 앱 만들기\n\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 모바일/무선/임베디드 프로그래밍\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 모바일 프로그래밍 > 안드로이드",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=278592498",
+          "publishedOn": "2021-08-27T02:22:00.000Z",
+          "wordCount": 18,
+          "title": "앱 인벤터를 활용한 창의적 문제해결/목원대학교 스톡스대학 SW교양학부 지음/인피니티북스"
+        },
+        {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=278585292",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "실무 예제로 끝내는 R 데이터 분석\n정준영 지음 / 비제이퍼블릭 / 2021년 09월 / ISBN:9791165920883\n정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n현장의 데이터 분석 프로젝트 전 과정을 다루어 '데이터를 어떻게 구해와서 어떤 프로세스로 분석해야 하는가?'에 대한 명확한 해답을 제시한다. 그리고 데이터에 숨겨진 '보물'을 발굴하기 위한 보물찾기 도구와 그 도구를 다루는 요령을 설명한다. 이 책을 통해 데이터 수집, 정제, 분석, 시각화까지 실제 현업에서 데이터 분석 프로젝트를 진행하는 모든 과정을 경험할 수 있고, 정형 데이터와 비정형 데이터를 활용한 단계별 데이터 분석 프로세스를 학습할 수 있다.\r\n\r\n이 책은 실습 중심의 책이다. YouTube 채널 정보 및 댓글 감성 분석, KOSPI 지수 예측 및 회귀 모델링, 광고 효과 검증, 카페 매출 분석, OPEN API를 활용한 뉴스 키워드 분석과 같은 업무에 바로 적용 가능한 실무 예제를 다룬다. 특히 마지막 챕터에서는 데이터 분석 기획부터 시각화까지 수행하는 실무 프로젝트를 진행하여, 이를 통해 현장 감각을 익히고 업무에 바로 써먹는 실전 데이터 활용법을 마스터할 수 있다.\r\n\n\nl Chapter 01 l 현장의 데이터 분석 과정 이해하기\r\n\r\n1장. 왜 분석을 하는가?\r\n1.1 데이터 이야기\r\n1.2 문제 정의 육하원칙\r\n1.3 데이터 분석에 필요한 기술\r\n1.4 데이터 분석 적용 사례\r\n\r\n2장. 분석 주제에 맞는 데이터 가져…",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=278585292",
+          "publishedOn": "2021-08-26T23:57:00.000Z",
+          "wordCount": 18,
+          "title": "실무 예제로 끝내는 R 데이터 분석/정준영 지음/비제이퍼블릭"
+        },
         {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=278498719",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
@@ -1373,6 +1409,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/5RxlZ2LAKZA/real-personal-income-transfer-payments.html",
+          "author": null,
+          "description": "The BEA released the Personal Income and Outlays, July 2021 report yesterday.   The report showed that government transfer payments were still almost $1.0 trillion (on SAAR basis) above the February 2020 level (pre-pandemic)  Note: Seasonal adjustment doesn't make sense with one time payments, but that is how the data is presented.  \n\nThis table shows the amount of unemployment insurance and \"Other\" transfer payments since January 2020 (pre-crisis level).  The increase in \"Other\" was mostly due to parts of the relief acts including direct payments.\n\nNote: Not in the table below, but Social Security and Medicare payments haven't increased significantly from the pre-recession levels.  Social Security increased from $1,065 billion SAAR in Jan 2020 to $1,113 billion SAAR in July 2021.  Medicare increased from $807 billion to $821 billion.  Medicaid increased significantly from $603 billion to $760 billion.\n\n\nBut most of the increase in transfer payments - compared to the levels prior to the crisis - is from unemployment insurance and \"other\" (includes direct payments). \n\n\n\nSelected Transfer Payments\nBillions of dollars, SAAR \nOtherUnemployment\nInsurance\n Jan-20$511$26\n Feb-20$506$26\n Mar-20$516$67\n Apr-20$3,393$435\n May-20$1,373$1,287\n Jun-20$743$1,396\n Jul-20$750$1,366\n Aug-20$697$612\n Sep-20$950$325\n Oct-20$714$296\n Nov-20$580$285\n Dec-20$604$319\n Jan-21$2,317$574\n Feb-21$735$558\n Mar-21$4,706$566\n Apr-21$1,344$516\n May-21$802$492\n Jun-21$736$433\n Jul-21$907$381",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/5RxlZ2LAKZA/real-personal-income-transfer-payments.html",
+          "publishedOn": "2021-08-28T22:46:00.001Z",
+          "wordCount": 993,
+          "title": "Real Personal Income: Transfer Payments"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZeBFn-1IkWU/schedule-for-week-of-august-29-2021.html",
           "author": null,
