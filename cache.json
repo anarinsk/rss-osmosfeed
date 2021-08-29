@@ -639,17 +639,7 @@
       "title": "Windows Command Line",
       "feedUrl": "https://devblogs.microsoft.com/commandline/feed/",
       "siteUrl": "https://devblogs.microsoft.com/commandline",
-      "articles": [
-        {
-          "id": "https://devblogs.microsoft.com/commandline/?p=6916",
-          "author": "Craig Loewen",
-          "description": "In the latest Windows Insider Preview builds, you can install everything you need to run WSL just by running wsl.exe --install. We’re excited to announce that this functionality is now officially backported to Windows 10 version 2004 and higher, which will make installing WSL on those builds much easier!\nThe post Install WSL with a single command now available in Windows 10 version 2004 and higher appeared first on Windows Command Line.",
-          "link": "https://devblogs.microsoft.com/commandline/install-wsl-with-a-single-command-now-available-in-windows-10-version-2004-and-higher/",
-          "publishedOn": "2021-07-30T18:07:17.000Z",
-          "wordCount": 1242,
-          "title": "Install WSL with a single command now available in Windows 10 version 2004 and higher"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "A Fine Theorem",
