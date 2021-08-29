@@ -663,6 +663,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/global-weather-disruptions-food-commodity-prices-and-economic-activity",
+          "author": "Jasmien De Winne, Gert Peersman",
+          "description": "The world is expected to see a significant rise in the frequency, duration, and intensity of extreme weather events. This column examines the macroeconomic effects of global food commodity price increases that are caused by global harvest and weather disruptions, and finds that the decline in economic activity is substantial and greater in advanced than in low-income countries. The findings suggest that the consequences of climate change for advanced countries may be greater than previously thought, and the strong rise in food prices since the outbreak of COVID-19 could seriously impede the recovery.",
+          "link": "https://voxeu.org/article/global-weather-disruptions-food-commodity-prices-and-economic-activity",
+          "publishedOn": "2021-08-29T00:00:00.000Z",
+          "wordCount": 2642,
+          "title": "Global weather disruptions, food commodity prices, and economic activity"
+        },
+        {
           "id": "https://voxeu.org/article/platform-regulation-lessons-utility-industries",
           "author": "Tobias Kretschmer, Sven Werner",
           "description": "Recent discussions on how to regulate dominant online platforms revolve around the suitability of applying existing regulatory frameworks. This column contrasts the economic and strategic features of platform business models to those of utility industries, which are often considered structurally similar. It argues that the design of effective regulation for dominant digital platforms should account for platforms’ nature as an ecosystem of independent actors and for their relatively shorter innovation cycles.",
@@ -1062,15 +1071,6 @@
           "publishedOn": "2021-08-02T15:00:00.000Z",
           "wordCount": 439,
           "title": "Telegraphing prices"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/deferred-payment-malawi-savings",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "An alternative savings scheme where Malawian workers could defer part of their wages for several months was especially popular with people who had self-control issues and helped many make lasting improvements in their homes, according to a paper in the American Economic Review.",
-          "link": "https://www.aeaweb.org/research/deferred-payment-malawi-savings",
-          "publishedOn": "2021-07-30T15:00:00.000Z",
-          "wordCount": 937,
-          "title": "Delaying pay"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-08-29T00:40:20.023Z</updated>
+    <updated>2021-08-29T04:15:02.505Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Global weather disruptions, food commodity prices, and economic activity]]></title>
+        <id>https://voxeu.org/article/global-weather-disruptions-food-commodity-prices-and-economic-activity</id>
+        <link href="https://voxeu.org/article/global-weather-disruptions-food-commodity-prices-and-economic-activity"/>
+        <updated>2021-08-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The world is expected to see a significant rise in the frequency, duration, and intensity of extreme weather events. This column examines the macroeconomic effects of global food commodity price increases that are caused by global harvest and weather disruptions, and finds that the decline in economic activity is substantial and greater in advanced than in low-income countries. The findings suggest that the consequences of climate change for advanced countries may be greater than previously thought, and the strong rise in food prices since the outbreak of COVID-19 could seriously impede the recovery.]]></summary>
+        <author>
+            <name>Jasmien De Winne, Gert Peersman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Real Personal Income: Transfer Payments]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/5RxlZ2LAKZA/real-personal-income-transfer-payments.html</id>
@@ -7269,16 +7279,6 @@ CHAPTER 6
 The post Install WSL with a single command now available in Windows 10 version 2004 and higher appeared first on Windows Command Line.]]></summary>
         <author>
             <name>Craig Loewen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delaying pay]]></title>
-        <id>https://www.aeaweb.org/research/deferred-payment-malawi-savings</id>
-        <link href="https://www.aeaweb.org/research/deferred-payment-malawi-savings"/>
-        <updated>2021-07-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An alternative savings scheme where Malawian workers could defer part of their wages for several months was especially popular with people who had self-control issues and helped many make lasting improvements in their homes, according to a paper in the American Economic Review.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
