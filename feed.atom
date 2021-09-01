@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-01T04:15:42.805Z</updated>
+    <updated>2021-09-01T08:14:13.949Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -19,6 +19,16 @@
 • Late, Light vehicle sales for August. The consensus is for light vehicle sales to be 15.0 million SAAR in August, up from 14.75 million in July (Seasonally Adjusted Annual Rate).]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immigration and natives’ exposure to COVID-related risks in the EU]]></title>
+        <id>https://voxeu.org/article/immigration-and-natives-exposure-covid-related-risks-eu</id>
+        <link href="https://voxeu.org/article/immigration-and-natives-exposure-covid-related-risks-eu"/>
+        <updated>2021-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The COVID-19 shock exerted pressure on labour markets around the world. This column explores how the prevalence of immigration in the labour market affected different types of workers’ exposure to virus-related risks in 15 destination countries in Western Europe. It finds that not only were immigrant workers more vulnerable to the economic and health shocks of the pandemic; they also served as a protective shield for native workers. By undertaking higher-risk occupations, immigrants enabled native workers to move into work with fewer face-to-face interactions or jobs that could be carried out from the safety of home.]]></summary>
+        <author>
+            <name>Laurent Bossavie, Daniel Garrote Sanchez, Mattia Makovec, Çağlar Özden</name>
         </author>
     </entry>
     <entry>
