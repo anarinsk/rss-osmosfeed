@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-03T00:39:13.407Z</updated>
+    <updated>2021-09-03T04:15:36.805Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Friday: Employment Report]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/JQJGCiN80jE/friday-employment-report.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/JQJGCiN80jE/friday-employment-report.html"/>
+        <updated>2021-09-03T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[My August Employment Preview
+A few brief excerpts from a note by Goldman Sachs economist Spencer Hill:
+We estimate nonfarm payrolls rose 500k in August, below consensus of +725k. ... we expect the reopening of schools to boost job growth by around 150k in tomorrow’s report. ... We estimate a two-tenths drop in the unemployment rate to 5.2% ... reflecting a firm household employment gain and a stable participation rate.
+emphasis added
+Friday:
+• At 8:30 AM ET, Employment Report for August.   The consensus is for 728 thousand jobs added, and for the unemployment rate to decrease to 5.2%.
+• At 10:00 AM, ISM Services Index for August.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Real House Prices, Price-to-Rent Ratio and Price-to-Median Income in June]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/g6CNJJFBa7s/real-house-prices-price-to-rent-ratio.html</id>
@@ -8524,16 +8540,6 @@ Chapter 02 모두의컬리 UI 만들어보기
 국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Military handoffs]]></title>
-        <id>https://www.aeaweb.org/research/security-transitions-conflict-afghanistan-wright</id>
-        <link href="https://www.aeaweb.org/research/security-transitions-conflict-afghanistan-wright"/>
-        <updated>2021-08-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Two decades after intervening, the US military mission in Afghanistan is finally coming to a close. We spoke with political scientist Austin Wright, whose paper appeared in the American Economic Review, about the withdrawal and what the US can do to improve security transitions in the future.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
