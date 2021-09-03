@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-03T04:15:36.805Z</updated>
+    <updated>2021-09-03T08:13:49.275Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -20,6 +20,16 @@ Friday:
 • At 10:00 AM, ISM Services Index for August.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficiency and equity in a socially embedded economy]]></title>
+        <id>https://voxeu.org/article/efficiency-and-equity-socially-embedded-economy</id>
+        <link href="https://voxeu.org/article/efficiency-and-equity-socially-embedded-economy"/>
+        <updated>2021-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There has been a spate of critiques of mainstream, neoclassical economics in the last few years. This column argues that this is partly the result of a core general model that is too narrow. Instead, the authors propose a base model that includes not just the economy but also the socioeconomic system. The model encompasses many specific themes in the literature such as the interplay between economic inequality and efficiency, but it also takes us well beyond the conventional economic resource allocation-based perspective on inequality.]]></summary>
+        <author>
+            <name>Marc Fleurbaey, Ravi Kanbur, Dennis  Snower</name>
         </author>
     </entry>
     <entry>
