@@ -328,15 +328,6 @@
           "publishedOn": "2021-08-05T23:53:00.000Z",
           "wordCount": null,
           "title": "애프터 버블/오바타 세키 지음, 신희원 옮김/미세기"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=277119044",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "美 바이든 행정부 출범과 동아시아의 지정학적 도전 및 기회\n전광우 엮음 / 세계경제연구원 / 2021년 07월 / ISBN:9791161770307\n정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원\n이벤트: 2021 서울 국제도서전에 초대합니다! 초대권 추첨\n\n\n\n\n목차 없는 상품입니다.\n\n\n국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=277119044",
-          "publishedOn": "2021-08-05T05:14:00.000Z",
-          "wordCount": null,
-          "title": "美 바이든 행정부 출범과 동아시아의 지정학적 도전 및 기회/전광우 엮음/세계경제연구원"
         }
       ]
     },
@@ -650,15 +641,6 @@
           "publishedOn": "2021-08-06T04:40:00.000Z",
           "wordCount": null,
           "title": "밑바닥부터 만드는 인터프리터 in Go/토르슈텐 발 지음, 박재석 옮김/인사이트"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=277120353",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "모두가 할 수 있는 플러터 UI 실전 (플러터 2 최신판 반영)\n김근호.최주호.황승준 지음 / 앤써북 / 2021년 08월 / ISBN:9791185553825\n정가: 17,700원 / 판매가: 15,930원 / 마일리지: 75원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n플러터 2.x 최신 버전을 사용했으며 클론 코딩으로 모두의마켓, 모두의컬리, 모두의플레이 3가지 앱을 구성하는 다양한 화면을 직접 만들어본다. 실제로 서비스되고 있는 3가지 앱의 화면을 직접 만들어 보면서 실무에서 바로 적용할 수 있는 개념과 기법을 배울 수 있도록 구성되었다. \r\n\r\n이 책에서는 다음과 같이 비교적 쉽게 접근할 수 있는 난이도의 모두의마켓 앱, 모두의컬리 앱 화면부터 상당히 수준 높은 모두의플레이 앱 화면까지 3가지 유형의 앱 UI 프로젝트 만든다. 3가지 유형의 앱 화면 만들기 프로젝트를 차근차근 수행하다보면 어느새 플러터 앱 개발할 할 수 있다는 자신감이 얻을 수 있을 것이다.\n\nChapter 01 모두의마켓 UI 만들어보기\r\n01 _ 1 앱 뼈대 만들기 \r\n 폴더 및 파일 만들기 \r\n pubspec.yaml 파일 설정하기 \r\n main_screens.dart 기본 코드 작성 \r\n 앱 테마 설정하기 \r\n main.dart 파일 완성하기 \r\n\r\n01 _ 2 메인화면 만들기 \r\n MainScreens 위젯 기본 코드 작성하기\r\n primaryColor 설정하기\r\n IndexedStack의 하위 위젯 만들기 \r\n MainScreens 위젯 완성하기 \r\n\r\n01 _ 3 홈 화면 만들기 \r\n AppBar 만들기 \r\n 화면에 사용할 샘플 데이터 만들기 \r\n 독립된 파일로 위젯 만들기 \r\n HomeScreen 위젯 완성하기 \r\n\r\n01 _ 4 나의 당근 화면 만들기 \r\n 나의 당근 화면 기본 코드 입력하기 \r\n 나의 당근 화면 Header 위젯 만들기 \r\n 모델 클래스 만들기 \r\n 하단 Card 메뉴 위젯 만들기 \r\n MyCarrotScreen 위젯 완성하기 \r\n\r\n01 _ 5 채팅화면 만들기 \r\n 모델 클래스 및 샘플 데이터 만들기 \r\n 재사용 위젯 만들기 \r\n ChattingScreen 위젯 기본 코드 입력하기 \r\n ChatContainer 위젯 만들기 \r\n ChattingScreen 위젯 완성하기 \r\n\r\n01 _ 6 동네생활 화면 만들기 \r\n 모델 클래스 및 샘플 데이터 만들기 \r\n NeighborhoodLifeScreen 위젯 기본 코드 입력하기 \r\n LifeHeader 위젯 만들기 \r\n LifeBody 위젯 만들기 \r\n NeighborhoodLifeScreen 위젯 완성하기 \r\n\r\n01 _ 7 내 근처 화면 만들기 \r\n 모델 클래스 및 샘플 데이터 만들기 \r\n NearMeScreen위젯 기본 코드 입력하기 \r\n TextField 위젯 만들기 \r\n 수평 방향으로 스크롤 되는 위젯 만들기 \r\n Wrap 위젯 사용해 보기 \r\n Storeltem 위젯 만들기 \r\n NearMeScreen 위젯 완성하기 \r\n\r\nChapter 02 모두의컬리 UI 만들어보기\r\n02 _ 1 앱 뼈대 만들기\r\n 폴더 만들기 \r\n 프로젝트 전체에서 사용할 기본 파일 만들기 \r\n pubspec.yaml 파일 설정하기 \r\n 프로젝트에 사용할 아이콘 및 이미지 추가하기 \r\n\r\n02 _ 2 Splash 화면 만들기\r\n splash_screen.dart 파일 기본 코드 작성 \r\n main_screens.dart 기본 코드 작성 \r\n routes.dart 파일 코드 작성 \r\n constants.dart 파일 코드 작성 \r\n theme.dart 파일 코드 작성 \r\n main...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍\n국내도서 > 컴퓨터/모바일 > 모바일 프로그래밍 > 안드로이드",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=277120353",
-          "publishedOn": "2021-08-05T05:26:00.000Z",
-          "wordCount": null,
-          "title": "모두가 할 수 있는 플러터 UI 실전 (플러터 2 최신판 반영)/김근호.최주호.황승준 지음/앤써북"
         }
       ]
     },
@@ -1742,6 +1724,24 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/r_qKMV4w8jA/september-3rd-covid-19-vaccination-rate.html",
+          "author": null,
+          "description": "NOTE: There will be no weekend updates on COVID.\n\nThe CDC is the source for all data.\n\n\nAccording to the CDC, on Vaccinations.  Total doses administered: 373,516,809, as of a week ago 366,838,484.  Average doses last week: 0.95 million per day. \n\n\n\nCOVID Metrics\n  \n TodayWeek\nAgoGoal\n Percent fully Vaccinated52.9%52.0%≥70.0%1\n Fully Vaccinated (millions)175.5172.6≥2321\n  \nNew Cases per Day3🚩152,546148,564≤5,0002\n  \nHospitalized3🚩91,67488,858≤3,0002\n  \nDeaths per Day3🚩1,0941,038≤502\n  \n1 Minimum to achieve \"herd immunity\" (estimated between 70% and 85%).\n2my goals to stop daily posts,\n37 day average for Cases, Currently Hospitalized, and Deaths\n🚩 Increasing 7 day average week-over-week for Cases, Hospitalized, and Deaths     \n✅ Goal met.\n  \n\nIMPORTANT: For \"herd immunity\" most experts believe we need 70% to 85% of the total population fully vaccinated (or already had COVID).  \n\n\nKUDOS to the residents of the 11 states that have achieved 60% of total population fully vaccinated: Vermont at 68.1%, Massachusetts, Maine, Connecticut, Rhode Island, Maryland. New Jersey, Washington, New York, New Mexico, New Hampshire at 60.1%.\n\nThe following 13 states and D.C. have between 50% and 59.9% fully vaccinated: Oregon at 58.4%, District of Columbia, Virginia, Colorado, Minnesota, California, Hawaii, Delaware, Pennsylvania, Wisconsin, Florida, Nebraska, Iowa, Illinois, and Michigan at 50.7%.\n\nNext up (total population, fully vaccinated according to CDC) are South Dakota at 49.5%, Kentucky at 49.0%, Arizona at 48.9%, Ohio at 48.6%, Kansas at 48.6%, Nevada at 48.2%, Utah at 47.9%, Texas at 47.9% and Alaska at 47.4%.\n\nClick on graph for larger image.\nThis graph shows the daily (columns) and 7 day average (line) of positive tests reported.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/r_qKMV4w8jA/september-3rd-covid-19-vaccination-rate.html",
+          "publishedOn": "2021-09-03T20:00:00.001Z",
+          "wordCount": 1068,
+          "title": "September 3rd COVID-19: Vaccination Rate has Increased, Over 1,500 Deaths Reported Today"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZdfvAYhetiI/aar-august-rail-carloads-and-intermodal.html",
+          "author": null,
+          "description": "From the Association of American Railroads (AAR) Rail Time Indicators.  Graphs and excerpts reprinted with permission. \nIntermodal is navigating many of the same  challenges that have plagued global supply chains for  months, such as shutdowns at ports and manufacturing  centers in Asia; port congestion; labor and capacity  shortages at docks, warehouses, and drayage firms;  container and chassis shortages; natural and man-made  disasters (e.g., wildfires, hurricanes, and ships getting  stuck in canals). Pressures are intensifying as retailers,  many of whom already have much lower inventories  than they’d like, are trying to stock up for the upcoming  holiday season. At this point, no one knows if things will  get worse before they get better, and if they do get  worse, how much worse the…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZdfvAYhetiI/aar-august-rail-carloads-and-intermodal.html",
+          "publishedOn": "2021-09-03T18:11:00.001Z",
+          "wordCount": 1143,
+          "title": "AAR: August Rail Carloads and Intermodal Down Compared to 2019"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/DAka9SRJfI8/black-knight-number-of-homeowners-in.html",
           "author": null,
