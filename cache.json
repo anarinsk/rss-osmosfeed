@@ -699,6 +699,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/what-35-million-french-firms-can-tell-us-about-efficiency-covid-19-support-measures",
+          "author": "Benoît Cœuré",
+          "description": "In March 2020, the French parliament tasked an independent committee with monitoring the financial support available to companies during the Covid-19 crisis. A rich firm-level database – matching receipt of government money with balance-sheet records, tracing payroll and turnover trajectories for the first two waves of the pandemic – was the result. This column mines that database to evaluate the incentives for accepting government aid; the impact of support measures; and heterogeneity across industries, firms, and locations. The authors judge French fiscal support during the crisis a tentative success.",
+          "link": "https://voxeu.org/article/what-35-million-french-firms-can-tell-us-about-efficiency-covid-19-support-measures",
+          "publishedOn": "2021-09-08T00:00:00.000Z",
+          "wordCount": 3671,
+          "title": "What 3.5 million French firms can tell us about the efficiency of Covid-19 support measures"
+        },
+        {
+          "id": "https://voxeu.org/article/euro-area-s-covid-19-recession",
+          "author": "Roberta Cardani, Olga Croitorov, Fabio Di Dio, Lorenzo Frattarolo, Massimo Giovannini, Stefan Hohberger, Philipp Pfeiffer, Marco Ratto, Lukas Vogel",
+          "description": "The COVID-19 recession differs strongly from past crises in recent history. This column summarises the integration of key economic features of the pandemic into the European Commission’s estimated DSGE model. Shock decompositions highlight the dominant role of ‘lockdown shocks’ (‘forced savings’, labour hoarding) for explaining the quarterly pattern of real GDP growth in 2020, complemented by negative contributions from foreign and investment demand notably in 2020q2 and a negative impact of persistently higher (precautionary) savings. The inflation response has been modest given the severity of the recession.",
+          "link": "https://voxeu.org/article/euro-area-s-covid-19-recession",
+          "publishedOn": "2021-09-08T00:00:00.000Z",
+          "wordCount": 3610,
+          "title": "The euro area’s COVID-19 recession"
+        },
+        {
           "id": "https://voxeu.org/content/fintech-and-digital-currencies-rpn-soul-financial-system",
           "author": "Dirk Niepelt",
           "description": "The research policy network on Fintech and Digital Currencies has an ever-expanding list of issues for its researchers. Dirk Niepelt of the University of Bern, RPN director, explains what's top of the agenda for central banks and policymakers, and how the RPN can influence their decisions.",
@@ -1602,15 +1620,6 @@
           "publishedOn": "2021-08-11T15:00:00.000Z",
           "wordCount": 423,
           "title": "Location and mortality"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/brazil-affirmative-action-unintended-consequences",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "Brazil's affirmative action policy for public universities created an unfair system in which high-achieving minority students sometimes faced a harder path to acceptance than lower achieving whites, according to a paper in the American Economic Journal: Microeconomics.",
-          "link": "https://www.aeaweb.org/research/brazil-affirmative-action-unintended-consequences",
-          "publishedOn": "2021-08-09T15:00:00.000Z",
-          "wordCount": 875,
-          "title": "Affirmative action's unintended consequences"
         }
       ]
     },
@@ -1741,6 +1750,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/0WdFCw-JVuM/wednesday-job-openings-beige-book.html",
+          "author": null,
+          "description": "From Matthew Graham at Mortgage News Daily: Mortgage Rates Begin The Week Slightly Higher\nMortgage rates moved slightly higher to begin the holiday-shortened week.  ... The damage is minimal in the bigger picture.  On average, lenders are quoting the same rates seen last week, but with slightly higher closing costs today.  Most of the weakness in the underlying bond market is centered on US Treasuries as opposed to the mortgage-backed securities (MBS) that serve as the foundation for mortgage rates.  The Treasury-specific weakness is likely due to the presence of several big Treasury auctions this week in addition to heavy corporate bond issuance (which tends to hurt Treasuries more than MBS). [30 year fixed 2.97%]\nemphasis added\nTuesday:\n• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.\n• At 10:00 AM, Job Openings and Labor Turnover Survey for July from the BLS. \n• At 2:00 PM, the Federal Reserve Beige Book, an informal review by the Federal Reserve Banks of current economic conditions in their Districts.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/0WdFCw-JVuM/wednesday-job-openings-beige-book.html",
+          "publishedOn": "2021-09-08T01:00:00.006Z",
+          "wordCount": 983,
+          "title": "Wednesday: Job Openings, Beige Book"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/XVM0mUoNc4Y/northwest-real-estate-in-august-sales.html",
           "author": null,
