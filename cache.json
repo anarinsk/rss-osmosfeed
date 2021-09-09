@@ -677,24 +677,6 @@
           "publishedOn": "2021-08-13T01:44:00.000Z",
           "wordCount": null,
           "title": "짧고 굵게 배우는 JSP 웹 프로그래밍과 스프링 프레임워크/황희정 지음/한빛아카데미(교재)"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=277536023",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "스파크를 이용한 자연어 처리\n앨릭스 토머스 지음, 이창현 옮김 / 한빛미디어 / 2021년 08월 / ISBN:9791162244654\n정가: 34,000원 / 판매가: 30,600원 / 마일리지: 136원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n아파치 스파크 위에 구축된 자연어 처리 라이브러리인 Spark NLP는 정확성과 빠른 속도, 넓은 확장성을 지원한다. 이 책은 Spark NLP로 효율적인 애플리케이션을 설계하고 제작하는 방법을 소개한다. 구체적인 예제와 친절한 설명을 통해 기본적인 언어학과 문자 체계부터 감성 분석, 검색 엔진 구축까지 Spark NLP를 사용하는 데 필요한 모든 것을 다룬다. \r\n\r\n또한 NLP 애플리케이션 개발 시 매우 중요한 성능 문제도 살펴보며 실무에 응용하기 전 꼭 알아야 할 내용을 빠짐없이 담았다. 예제를 따라 하며 딥러닝과 Spark NLP 라이브러리로 자신만의 확장 가능한 NLP 애플리케이션을 만들어보자.\n\n[PART I 기초]\r\n\r\nCHAPTER 1 시작하기\r\n1.1 Spark NLP와 자연어 처리\r\n1.2 기타 도구\r\n1.3 환경 설정\r\n1.4 아파치 스파크에 익숙해지기\r\n1.5 Spark NLP를 사용한 Hello World\r\n\r\nCHAPTER 2 자연어 처리 기초\r\n2.1 자연어 처리 정의\r\n2.2 언어학\r\n2.3 사회언어학\r\n2.4 화용론\r\n2.5 문자\r\n2.6 인코딩\r\n2.7 연습 문제: 토큰화\r\n2.8 참고 자료\r\n\r\nCHAPTER 3 아파치 스파크의 NLP 라이브러리\r\n3.1 병렬처리, 동시성과 분산 컴퓨팅\r\n3.2 아파치 스파크의 아키텍처\r\n3.3 스파크 SQL과 Spark MLlib\r\n3.4 NLP 라이브러리\r\n3.5 Spark NLP\r\n3.6 연습 문제: 토픽 모델 구축\r\n3.7 참고 자료\r\n\r\nCHAPTER 4 딥러닝 기초\r\n4.1 경사 하강법\r\n4.2 역전파\r\n4.3 합성곱 신경망\r\n4.4 순환 신경망\r\n4.5 연습 문제 1\r\n4.6 연습 문제 2\r\n4.7 참고 자료\r\n\r\n[PART II 빌딩 블록]\r\n\r\nCHAPTER 5 단어 처리\r\n5.1 토큰화\r\n5.2 어휘 감소\r\n5.3 단어 가방\r\n5.4 CountVectorizer\r\n5.5 n-gram\r\n5.6 시각화: 단어 및 문서 분산\r\n5.7 연습 문제\r\n5.8 참고 자료\r\n\r\nCHAPTER 6 정보 검색\r\n6.1 역 인덱스\r\n6.2 벡터 공간 모델\r\n6.3 연습 문제\r\n6.4 참고 자료\r\n\r\nCHAPTER 7 분류와 회귀\r\n7.1 BoW 기능\r\n7.2 정규식 특성\r\n7.3 특성 선택\r\n7.4 모델링\r\n7.5 반복\r\n7.6 연습 문제\r\n\r\nCHAPTER 8 케라스를 사용한 시퀀스 모델링\r\n8.1 문장 분할\r\n8.2 섹션 분할\r\n8.3 품사 태깅\r\n8.4 조건부 무작위장\r\n8.5 청킹 및 구문 분석\r\n8.6 언어 모델\r\n8.7 순환 신경망\r\n8.8 연습 문제: 문자 n-gram\r\n8.9 연습 문제: 단어 언어 모델\r\n8.10 참고 자료\r\n\r\nCHAPTER 9 정보 추출\r\n9.1 개체명 인식\r\n9.2 상호 참조 해결\r\n9.3 어서션 상태 감지\r\n9.4 관계 추출\r\n9.5 마치며\r\n9.6 연습 문제\r\n\r\nCHAPTER 10 주제 모델링\r\n10.1 k-평균\r\n10.2 잠재 의미 분석\r\n10.3 음수 미포함 행렬 분해\r\n10.4 잠재 디리클레 할당\r\n10.5 연습 문제\r\n\r\nCHAPTER 11 단어 임베딩\r\n11.1 Word2Vec\r\n11.2 글로브\r\n11.3 패스트텍스트\r\n11...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=277536023",
-          "publishedOn": "2021-08-11T00:41:00.000Z",
-          "wordCount": null,
-          "title": "스파크를 이용한 자연어 처리/앨릭스 토머스 지음, 이창현 옮김/한빛미디어"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=277535696",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "그림으로 배우는 프로그래밍 구조\n마스이 토시카츠 지음, 김성훈 옮김 / 영진.com(영진닷컴) / 2021년 08월 / ISBN:9788931465594\n정가: 16,000원 / 판매가: 14,400원 / 마일리지: 56원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n프로그래머가 어떻게 개발을 진행하고, 어떤 지식과 용어를 알아둬야 하는지 등 프로그래밍에 관한 넓고 다양한 주제를 다루고 있다. 프로그래밍의 개념부터 개발 공정, 언어별 특징, 알고리즘, 데이터, 웹 기술 등 개발자라면 꼭 알아야 기초 지식에 대해 그림과 더불어 1페이지로 간략하고 쉽게 설명하고 있는 것이 특징이다.\r\n \r\n1장에서는 프로그래머의 종류와 프로그래밍 환경 등 기초 지식에 대해 설명하고, 2장에서는 다양한 프로그래밍 언어별 특징에 대해 배운다. 3장에서는 컴퓨터 계산의 기본인 수치와 데이터를 어떻게 다루는지 알아보고, 4장에서는 함수, 변수, 알고리즘 등 절차와 흐름도를 설명한다. 5장과 6장에서는 소스 코드 작성 규칙, 설계와 테스트, 웹 기반 기술 등 다양한 이슈에 대해 다룬다.\n\nChapter 1 프로그래밍 기초 지식\r\n1-1 프로그래밍을 둘러싼 환경\r\n1-2 프로그래밍이 동작하는 환경\r\n1-3 누가 프로그램을 만드는가?\r\n1-4 프로그래밍에 관한 업계의 차이\r\n1-5 프로그램 개발에 관한 직종의 차이\r\n1-6 프로그래머의 근무 형태\r\n1-7 소프트웨어 개발 공정\r\n1-8 소프트웨어 개발의 흐름\r\n1-9 개발(구현) 공정에서 할 일\r\n1-10 팀으로 개발하는 여러 가지 방법\r\n1-11 개발한 프로그램 공개하기\r\n1-12 프로그래밍 학습 방법\r\n\r\nChapter 2 프로그래밍 언어의 차이\r\n2-1 컴퓨터가 처리할 수 있는 형태로 변환한다\r\n2-2 사람과 컴퓨터가 이해하기 쉬운 표현\r\n2-3 프로그래밍 언어의 분류\r\n2-4 선언형 프로그래밍\r\n2-5 가볍게 쓸 수 있는 프로그래밍 언어\r\n2-6 프로그래밍 언어 비교 1\r\n2-7 프로그래밍 언어 비교 2\r\n2-8 프로그래밍 언어 비교 3\r\n2-9 어디서든 동작시킬 수 있게 하는 기술\r\n2-10 프로그래밍 언어 선택 방법\r\n2-11 입력과 출력\r\n2-12 프로그램을 작성하는 환경\r\n\r\nChapter 3 수치와 데이터를 다루는 방법\r\n3-1 컴퓨터에서 사용하는 숫자\r\n3-2 2진수를 이용하는 처리\r\n3-3 계산의 기본을 이해한다\r\n3-4 컴퓨터에 기억시킨다\r\n3-5 수학에서 사용하는 '='과의 차이점\r\n3-6 읽는 사람이 이해하기 쉬운 이름\r\n3-7 컴퓨터로 숫자를 다룬다\r\n3-8 같은 형의 데이터를 모아서 다룬다\r\n3-9 컴퓨터로 문자 다루기\r\n3-10 한글을 다룰 때 주의할 점\r\n3-11 복잡한 데이터 구조 표현\r\n3-12 다른 형도 다룰 수 있게 한다\r\n3-13 배열을 번호가 아닌 이름으로 다룬다\r\n3-14 메모리 구조를 이해하고 데이터 다루기\r\n3-15 데이터를 순서대로 탐색하는 자료 구조\r\n3-16 데이터를 순서대로 처리하기\r\n3-17 계층 구조로 데이터 다루기\r\n\r\nChapter 4 흐름도와 알고리즘\r\n4-1 처리의 흐름을 그려본다\r\n4-2 데이터의 크기를 비교한다\r\n4-3 같은 처리를 반복해서 실행한다\r\n4-4 일련의 처리를 묶어서 다룬다\r\n4-5 함수에 파라미터를 넘겨준다\r\n4-6 변수의 유효범위를 결정한다\r\n4-7 파라미터를 바꾸면서 같은 처리를 반복 실행한다\r\n4-8 예상 밖의 사태에 대응한다\r\n4-9 반복 처리를 다룬다\r\n4-10 필요 없는 ...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=277535696",
-          "publishedOn": "2021-08-11T00:36:00.000Z",
-          "wordCount": null,
-          "title": "그림으로 배우는 프로그래밍 구조/마스이 토시카츠 지음, 김성훈 옮김/영진.com(영진닷컴)"
         }
       ]
     },
@@ -1586,6 +1568,15 @@
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
         {
+          "id": "https://www.aeaweb.org/research/charts/leaded-gasoline-elderly-mortality-nascar-arca",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Leaded gasoline wasn’t phased out of US auto racing until 2007. This regulatory exemption had large negative health effects on communities living near race tracks, according to a paper in the American Economic Journal: Economic Policy.",
+          "link": "https://www.aeaweb.org/research/charts/leaded-gasoline-elderly-mortality-nascar-arca",
+          "publishedOn": "2021-09-09T15:00:00.000Z",
+          "wordCount": 444,
+          "title": "Removing lead from auto racing"
+        },
+        {
           "id": "https://www.aeaweb.org/research/school-diversity-political-affiliation",
           "author": "Chris Fleisher (research.highlights@aeapubs.org)",
           "description": "White students exposed to more racially diverse schoolmates in elementary and middle school were less likely to register as Republicans, providing evidence for the contact hypothesis,  according to a paper in the American Economic Review: Insights.",
@@ -1593,6 +1584,15 @@
           "publishedOn": "2021-09-07T15:00:00.000Z",
           "wordCount": 832,
           "title": "Shaping politics"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/covid-19-occupation-family-gender-albanesi",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Unlike previous downturns, employment losses during the COVID-19 recession were larger for women than for men, says Stefania Albanesi, whose paper appeared in the Journal of Economic Perspectives. We spoke with her about why the pandemic has posed unique challenges for mothers.",
+          "link": "https://www.aeaweb.org/research/covid-19-occupation-family-gender-albanesi",
+          "publishedOn": "2021-09-01T15:00:00.000Z",
+          "wordCount": 1276,
+          "title": "Work and childcare during the pandemic"
         },
         {
           "id": "https://www.aeaweb.org/research/charts/research-transparency-professional-norm",
@@ -1708,6 +1708,15 @@
       "siteUrl": "https://www.journals.uchicago.edu/loi/jpe?af=R",
       "articles": [
         {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715851?af=R",
+          "author": "Jonathan Heathcote",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/715851?af=R",
+          "publishedOn": "2021-09-09T02:46:04.000Z",
+          "wordCount": 127,
+          "title": "Optimal Income Taxation: Mirrlees Meets Ramsey"
+        },
+        {
           "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715849?af=R",
           "author": "John Hassler",
           "description": "Journal of Political Economy, Ahead of Print.",
@@ -1759,6 +1768,24 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/saaItNORJSg/6-local-housing-markets-in-august.html",
+          "author": null,
+          "description": "Starting this month, I'm going to post local market data (Sales, Active Inventory, New listings) weekly on the CalculatedRisk Newsletter.\nHere are the first 6 of about 30 local markets that I track: 6 Local Housing Markets in August\nThis includes Denver, Las Vegas, San Diego, North Texas (Dallas/Ft. Worth), Northwest (Seattle) and Santa Clara (San Jose).",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/saaItNORJSg/6-local-housing-markets-in-august.html",
+          "publishedOn": "2021-09-09T15:40:00.002Z",
+          "wordCount": 865,
+          "title": "6 Local Housing Markets in August"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ctUHgpELpsY/weekly-initial-unemployment-claims_9.html",
+          "author": null,
+          "description": "The DOL reported:\nIn the week ending September 4, the advance figure for seasonally adjusted initial claims was 310,000, a decrease of  35,000 from the previous week's revised level. This is the lowest level for initial claims since March 14, 2020 when it  was 256,000. The previous week's level was revised up by 5,000 from 340,000 to 345,000. The 4-week moving average  was 339,500, a decrease of 16,750 from the previous week's revised average. This is the lowest level for this average  since March 14, 2020 when it was 225,500. The previous week's average was revised up by 1,250 from 355,000 to  356,250. \nemphasis added\nThis does not include the 96,198 initial claims for Pandemic Unemployment Assistance (PUA) that was down from 102,521 the previous week.\nThe following graph shows the 4-week moving average of weekly claims since 1971.\nClick on graph for larger image.\nThe dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims decreased to 339,500.\nThe previous week was revised up.\nRegular state continued claims decreased to 2,662,831 (SA) from 2,796,781 (SA) the previous week.\nNote: There are an additional 5,090,524 receiving Pandemic Unemployment Assistance (PUA) that decreased from 5,413,238 the previous week (there are questions about these numbers).  This is a special program for business owners, self-employed, independent contractors or gig workers not receiving other unemployment insurance.   And an additional 3,807,646 receiving Pandemic Emergency Unemployment Compensation (PEUC) up from 3,800,000.\nWeekly claims were lower than the consensus forecast.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ctUHgpELpsY/weekly-initial-unemployment-claims_9.html",
+          "publishedOn": "2021-09-09T12:35:00.005Z",
+          "wordCount": 1061,
+          "title": "Weekly Initial Unemployment Claims decrease to 310,000"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/wY_blVZiIk8/las-vegas-real-estate-in-august-sales.html",
           "author": null,
