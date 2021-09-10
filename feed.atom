@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-10T12:18:46.698Z</updated>
+    <updated>2021-09-10T16:18:04.046Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hotels: Occupancy Rate Unchanged Compared to Same Week in 2019]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/Y-zKV6OEWIs/hotels-occupancy-rate-unchanged.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/Y-zKV6OEWIs/hotels-occupancy-rate-unchanged.html"/>
+        <updated>2021-09-10T14:52:00.001Z</updated>
+        <summary type="html"><![CDATA[Note: The year-over-year occupancy comparisons are easy, since occupancy declined sharply at the onset of the pandemic.
+The occupancy rate was unchanged compared to the same week in 2019 due to Labor Day demand and Hurricane Ida.
+
+From CoStar: Labor Day Demand, Hurricane Ida Evacuations Reverse Five-Week US Hotel Occupancy Slide
+Labor Day weekend leisure travel and Hurricane Ida-related demand lifted U.S. hotel occupancy out of a five-week slump.
+After declining for the past five weeks, weekly U.S. hotel occupancy inched up 30 basis points for the week ending Sept. 4 to 61.3%, according to the latest data from CoStar hospitality analytics firm STR.  Weekend occupancy, Friday and Saturday, increased to 77%, which was the country’s highest since the first week of August.
+Compared with Labor Day weekend in 2019, which was a week earlier, occupancy was nearly the same, indicating the desire to travel remains strong despite the increase in COVID-19 cases, and occupancy declines over the past several weeks are more due to the return of in-person schools and the slow materialization of business and group travel.
+emphasis added
+The following graph shows the seasonal pattern for the hotel occupancy rate using the four week average.
+Click on graph for larger image.
+The red line is for 2021, black is 2020, blue is the median, dashed purple is 2019, and dashed light blue is for 2009 (the worst year on record for hotels prior to 2020).
+
+Occupancy is above the horrible 2009 levels and weekend occupancy (leisure) has been solid - but, according to STR, occupancy has been declining due to both seasonal factors and the "pandemic situation".
+Note: Y-axis doesn't start at zero to better show the seasonal change.
+
+
+With solid leisure travel, the Summer months had decent occupancy - but it is uncertain what will happen in the Fall with business travel - usually weekly occupancy increases up to around 70% in the weeks following Labor Day due to renewed business travel.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Knight: Number of Homeowners in COVID-19-Related Forbearance Plans Decreased]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/yyNXETWmbnw/black-knight-number-of-homeowners-in_10.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/yyNXETWmbnw/black-knight-number-of-homeowners-in_10.html"/>
+        <updated>2021-09-10T12:45:00.001Z</updated>
+        <summary type="html"><![CDATA[Note: Both Black Knight and the MBA (Mortgage Bankers Association) are putting out weekly estimates of mortgages in forbearance.
+This data is as of September 7th.
+From Black Knight: Forbearances Decrease
+The number of active forbearance plans fell by 92K (-5.4%) this week, driven by lingering August expirations and new activity taking place in September.
+Volumes fell significantly across all investor classes, with portfolio/PLS plans seeing the greatest decline at 40K (-7.7%). Plans were also down 26K among both FHA/VA and GSE loans, for -3.8% and -5.1% declines, respectively. Overall, plan volumes are now down 129K (-7.4%) from the same time last month and have fallen by 3.1M (-67%) from their peak in May 2020.
+Additional activity is expected later in the month as well, with nearly 540K plans still scheduled for review for extension/removal in September. Of those, nearly 400K are set to reach their final plan expirations based on current allowable forbearance term lengths.
+Click on graph for larger image.
+  
+Significant volume declines could still be seen in coming weeks as those plans reach their final expirations and exiting borrowers return to making mortgage payments in October.
+emphasis added
+Black Knight reports 1,618,000 loans in forbearance, or 3.1% of all mortgages.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remembering Peter Neary]]></title>
         <id>https://voxeu.org/vox-talks/remembering-peter-neary</id>
