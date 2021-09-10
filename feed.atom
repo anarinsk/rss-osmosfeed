@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-10T08:13:57.381Z</updated>
+    <updated>2021-09-10T12:18:46.698Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remembering Peter Neary]]></title>
+        <id>https://voxeu.org/vox-talks/remembering-peter-neary</id>
+        <link href="https://voxeu.org/vox-talks/remembering-peter-neary"/>
+        <updated>2021-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier in 2021 Peter Neary passed away. This special episode pays tribute to his work and examines why Peter was held in such affection by his colleagues. With contributions from Patrick Honohan, Richard Portes, Monika Mrázová, Beata Javorcik, and Abi Adams-Prassl.]]></summary>
+        <author>
+            <name>Abigail Adams-Prassl, Patrick  Honohan, Beata Javorcik, Monika Mrázová, Richard Portes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wage-setting as macroeconomic policy]]></title>
         <id>https://voxeu.org/article/wage-setting-macroeconomic-policy</id>
