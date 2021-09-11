@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-10T20:12:42.058Z</updated>
+    <updated>2021-09-11T00:38:47.894Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The labour market implications of economic uncertainty]]></title>
+        <id>https://voxeu.org/article/labour-market-implications-economic-uncertainty</id>
+        <link href="https://voxeu.org/article/labour-market-implications-economic-uncertainty"/>
+        <updated>2021-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It has been argued that Increased uncertainty can worsen unemployment if employers prefer to wait and postpone job creation. However, under the dominant theory of unemployment – the search-and-matching model – the value of waiting plays no role. This column proposes an amended model which relaxes some of the theoretical assumptions, and shows that an increase in perceived uncertainty does indeed increase the value of waiting, thus reducing job creation.]]></summary>
+        <author>
+            <name>Wouter  den Haan, Lukas B.  Freund, Pontus Rendahl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDIC: Problem Banks Declined, Residential REO Declined in Q2]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/48CK_IbuKHI/fdic-problem-banks-declined-residential.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/48CK_IbuKHI/fdic-problem-banks-declined-residential.html"/>
+        <updated>2021-09-10T20:51:00.001Z</updated>
+        <summary type="html"><![CDATA[The FDIC released the Quarterly Banking Profile for Q2 2021 this week: 
+Net income totaled $70.4 billion, an increase of $51.9 billion (281 percent) from the same quarter a year ago, primarily due to a $73 billion (117.3 percent) decline in provision expense.
+...
+Total loan and lease balances increased $33.2 billion (0.3 percent) from the previous quarter. This was the first quarterly increase in loan volume since second quarter 2020. An increase in credit card loan balances (up $30.9 billion, or 4.1 percent), supplemented by an increase in auto loan balances (up $18.9 billion, or 3.8 percent), drove the growth.
+Loans that were 90 days or more past due or in nonaccrual status (i.e., noncurrent loans) continued to decline (down $13.2 billion, or 10.8 percent) from first quarter 2021. The noncurrent rate for total loans declined 12 basis points from the previous quarter to 1.01 percent. Net charge-offs also continued to decline (down $8.3 billion, or 53.2 percent) from a year ago. The total net charge-off rate dropped 30 basis points to 0.27 percent—the lowest level on record.  
+emphasis added
+ Click on graph for larger image.
+The FDIC reported the number of problem banks declined by four from the first quarter to 51.
+This graph from the FDIC shows the number of problem banks and assets at 51 institutions.
+Note: The number of assets for problem banks increased significantly back in 2018 when Deutsche Bank Trust Company Americas was added to the list (it must still be on the list given the assets of problem banks).
+The dollar value of 1-4 family residential Real Estate Owned (REOs, foreclosure houses) declined from $1.73 billion in Q2 2020 to $0.85 billion in Q2 2021.  This is the lowest level of REOs in many years.  (probably declined sharply due to foreclosure moratoriums and forbearance programs).
+This graph shows the nominal dollar value of Residential REO for FDIC insured institutions.  Note: The FDIC reports the dollar value and not the total number of REOs.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September 10th COVID-19: A Little Progress]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/HnS2I21rKyk/september-9th-covid-19-little-progress.html</id>
@@ -323,6 +354,291 @@ Weekly claims were lower than the consensus forecast.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[자료구조 플러스/이현숙 지음/인피니티북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=279402419</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=279402419"/>
+        <updated>2021-09-09T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[자료구조 플러스
+이현숙 지음 / 인피니티북스 / 2021년 09월 / ISBN:9791185578897
+정가: 27,000원 / 판매가: 27,000원 / 마일리지: 129원
+이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백
+
+
+
+
+자료구조의 이론과 실습 그리고 프로그래밍 예제까지. 이 책은 자료구조에 대한 기초적인 이론부터 응용까지 폭 넓게 설명하고 있으며, 깊이 있는 학습을 위해 다양한 프로그래밍 예제와 확인학습, 연습문제를 충분히 넣어 구성하였다. 또한 자료구조와 함께 프로그래밍 설계를 위해 기본적으로 필요한 개념인 알고리즘에 대한 내용도 일부 포함하고 있다.
+
+1장~2장에서는 자료구조의 학습을 위한 기초적인 개념을 설명한다. 3장~5장에서는 배열, 연결리스트, 스택, 큐와 같은 선형 자료구조를 그리고 6장~7장에서는 트리, 그래프와 같은 비선형 자료구조에 대하여 설명한다. 8장~10장에서는 다양한 알고리즘의 개념과 이를 통해 문제해결을 연습해볼 수 있도록 구성하였다.
+
+
+
+Chapter 01 컴퓨터와 프로그램
+1.1 컴퓨터와 데이터
+1.2 자료의 표현
+1.3 프로그램과 자료구조
+1.4 프로그램과 알고리즘
+요약정리
+연습문제
+
+Chapter 02 프로그래밍 기초
+2.1 프로그램 구성요소와 번역과정
+2.2 C 프로그램 기초
+2.3 프로그래밍 연습
+요약정리
+연습문제
+
+Chapter 03 배열과 구조체
+3.1 배열
+3.2 구조체
+요약정리
+연습문제
+
+Chapter 04 연결리스트
+4.1 포인터와 연결리스트
+4.2 단순 연결리스트
+4.3 원형 연결리스트
+4.4 이중 연결리스트
+요약정리
+연습문제
+
+Chapter 05 스택과 큐
+5.1 스택
+5.2 큐
+5.3 스택과 큐의 응용
+요약정리
+연습문제
+
+Chapter 06 트리
+6.1 트리의 개념과 표현
+6.2 이진트리
+6.3 트리의 순회
+6.4 이진 탐색 트리
+요약정리
+연습문제
+
+Chapter 07 그래프
+7.1 그래프의 정의와 용어
+7.2 그래프의 표현
+7.3 그래프 탐색
+7.4 그래프의 응용
+요약정리
+연습문제
+
+Chapter 08 알고리즘 이해와 적용
+8.1 문제해결과 알고리즘
+8.2 알고리즘의 설계
+8.3 재귀기법의 적용
+8.4 단계적 개선기법의 적용
+8.5 상태 전이 분석기법의 적용
+요약정리
+연습문제
+
+Chapter 09 탐색 알고리즘
+9.1 순차탐색
+9.2 이진탐색
+9.3 트리탐색
+요약정리
+연습문제
+
+Chapter 10 정렬 알고리즘
+10.1 선택정렬
+10.2 버블정렬
+10.3 삽입정렬
+10.4 퀵정렬
+10.5 합병정렬
+요약정리
+연습문제
+
+
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > C]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP가 보이는 그림책/ANK Co., Ltd. 지음, 한동순.김성훈 옮김/성안당]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=279400285</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=279400285"/>
+        <updated>2021-09-09T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[PHP가 보이는 그림책
+ANK Co., Ltd. 지음, 한동순.김성훈 옮김 / 성안당 / 2021년 09월 / ISBN:9788931556438
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 72원
+이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백
+
+
+
+
+PHP나 프로그래밍의 기초를 배우고자 하는 초보자용으로, 문장보다는 이미지를 전면에 내세워 설명하고 있다. 캐릭터 베이스의 프로그램을 작성함으로써 PHP의 개념의 확실한 이해 도모를 목적으로 하고 있다. 그리고 일러스트와 그림을 많이 사용하고 있으므로 단순히 문장으로만 설명하는 것보다 이미지 전달이 더 정확할 것이다.
+
+제0장  PHP를 시작하기 전에
+PHP란?
+WWW의 구조
+HTML- 정적인 페이지
+CGI - 동적인 페이지
+서버 사이드 스크립트
+PHP의 환경구축
+
+제1장  기본적인 프로그램
+keypoint 프로그램 토대 만들기
+keypoint 문자 표시부터
+● Hello World!
+● PHP로 값을 출력해 보기
+● HTML의 기초
+● 폼
+● 폼 부품
+● 데이터 받기
+
+PHP상식 프로그램을 제작할 때의 약속
+
+제2장  변수와 배열
+keypoint 데이터를 보관하는 상자
+keypoint 프로그램을 간단하게
+● 변수
+● 변수에 저장된 값 표시
+● 데이터 형
+● 문자열 (1)
+● 문자열 (2)
+● 형의 변환
+● 형의 판정
+● 배열 (1)
+● 배열 (2)
+● 배열의 활용
+● 레퍼런스(Reference)
+● 상수 (1)
+● 상수 (2)
+● 미리 정의된 변수
+
+PHP상식 환경변수
+
+제3장  연산자
+keypoint 컴퓨터가 계산기 대용으로!
+keypoint 컴퓨터가 아니면 불가능한 연산
+● 산술 연산자 (1)
+● 산술 연산자 (2)
+● 비교 연산자
+● 배열 연산자
+● 논리 연산자
+● 조건 연산자
+● 기타 연산자
+● 연산자의 우선순위
+● 수학 함수
+
+PHP상식 복잡한 논리 연산
+
+제4장  제어문
+keypoint 프로그램의 흐름을 바꿔 보자!
+● if문 (1)
+● if문 (2)
+● for문
+● foreach문
+● while문
+● 루프의 중단 (1)
+● 루프의 중단 (2)
+● switch문
+예제프로그램 거스름돈을 계산한다
+
+PHP상식 goto문~
+
+제5장  함수
+keypoint 마법의 블랙박스
+keypoint 실용적인 프로그램에 내딛는 첫걸음
+● 함수의 정의
+● 함수 호출하기
+● 인수 전달방법
+● 가변 길이 인수
+● 인수의 형 선언
+● 다양한 반환값
+● 다른 파일의 삽입
+● 변수의 스코프
+● 익명함수
+예제프로그램 별자리를 표시한다
+
+PHP상식 함수를 사용한 가변 길이 인수
+
+제6장  문자열 조작
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 네트워크/데이터 통신
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > PHP
+국내도서 > 컴퓨터/모바일 > OS/Networking > 네트워크 구축]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성장과 일자리, 해법은 있다/정대영.장광수 지음/백산서당]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=279378996</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=279378996"/>
+        <updated>2021-09-09T02:54:00.000Z</updated>
+        <summary type="html"><![CDATA[성장과 일자리, 해법은 있다
+정대영.장광수 지음 / 백산서당 / 2021년 09월 / ISBN:9788973277186
+정가: 14,000원 / 판매가: 12,600원 / 마일리지: 59원
+이벤트: 이 달의 문장 투표
+
+
+
+
+2017년 한국은 이미 1인당 국민소득 3만 달러를 넘었지만 이후 횡보하고 있다. 저성장의 고착화가 그 배경이다. 저자들은 저성장과 일자리 부족의 원인을 직업 간 과도한 보상격차와 비싼 부동산가격으로 인한 고비용구조로 일목요연하게 설명한다. 그리고 지속 성장과 일자리 창출을 위한 중요 과제를 구체적으로 제시한다. 정책의 실현 가능성을 높이기 위한 방안도 적시하고 있다.
+
+‖ 제1장 ‖ 한국경제의 현재와 미래	11
+저성장세의 고착화·12
+잠재성장률·16
+한국경제의 미래·21
+
+‖ 제2장 ‖ 저성장의 구조적 원인
+1. 경제성장의 세 가지 결정요인
+2. 공급측면의 성장능력 점검
+노동, 양이 줄고 불균형 심화
+선진국 수준에 도달한 자본스톡과 투자환경의 악화
+총요소생산성의 지속적 저하
+3. 수요측면의 성장 유인 점검
+수출의 지속적 증가가 한계에 이를 수도
+지속되는 소비부진
+내수를 지탱해온 투자도 한계
+4. 혁신능력과 산업경쟁력 점검
+5. 종 합
+직업 간 과도한 보상격차
+비싼 부동산가격으로 인한 고비용 구조
+
+‖ 제3장 ‖ 한국의 분배구조와 적정임금 수준
+1. 도 입
+2. 한국의 소득불평등 구조와 경제적 의미
+3. 얼마를 받는 것이 정상일까?
+분배의 원칙
+국민경제의 지급능력
+공무원 등 공공부문 종사자의 적정임금은?
+
+‖ 제4장 ‖ 지속 성장과 일자리 창출을 위한 과제
+1. 기본방향과 전략
+2. 과도한 보상격차 축소를 위한 정책 과제
+󰋎 대통령 등 성공한 정치인들의 보수 대폭 인하
+󰋏 공무원 보상체계의 개혁과 증원
+󰋐 의사 등 전문직의 특권과 과보호 축소
+󰋑 대학교수 보상체계의 정상화와 특혜 축소
+󰋒 취약계층에 대한 지원 확대
+3. 부동산 정책의 새판 짜기
+󰋎 공시가격 제도의 폐지와 부동산 시가평가제 도입
+󰋏 보유세 제도의 합리화
+󰋐 주택임대소득의 정상 과세
+󰋑 취득세, 양도소득세의 단계적 인하
+󰋒 분양, 청약, 임대차 제도 등
+4. 조세와 금융개혁
+조세제도 개혁과제
+금융산업 발전과제
+5. 산업정책, 혁신과 규제 완화, 중소기업 지원
+산업정책
+혁신과 규제 완화
+중소기업 지원
+
+참고문헌
+찾아보기
+
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제정책/비평]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Optimal Income Taxation: Mirrlees Meets Ramsey]]></title>
         <id>https://www.journals.uchicago.edu/doi/abs/10.1086/715851?af=R</id>
         <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/715851?af=R"/>
@@ -330,6 +646,85 @@ Weekly claims were lower than the consensus forecast.]]></summary>
         <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
         <author>
             <name>Jonathan Heathcote</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집에 갇힌 나라, 동아시아와 중국/김수현.진미윤 지음/오월의봄]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=279375880</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=279375880"/>
+        <updated>2021-09-09T02:13:00.000Z</updated>
+        <summary type="html"><![CDATA[집에 갇힌 나라, 동아시아와 중국
+김수현.진미윤 지음 / 오월의봄 / 2021년 09월 / ISBN:9791190422871
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 84원
+이벤트: 이 달의 문장 투표
+
+
+
+
+부동산 불패의 신화는 언제까지 계속될 것인가? 문재인 정부는 출범 초기부터 부동산시장 안정화를 최우선 과제 중 하나로 내세워 여러 대책을 쏟아냈지만 그때마다 이를 비웃기라도 하듯 부동산가격은 오히려 급등하기만 했다. 열심히 돈 모아 집을 산다는 예전 식의 내 집 마련은 그야말로 꿈이 되어버렸고, 정부의 약속대로 ‘사는 것’이 아닌 ‘사는 곳’을 바랐던 서민들의 박탈감은 그만큼 더욱 커져만 가고 있다. 
+
+그런데 아이러니한 것은 무주택자뿐만 아니라 집값 폭등으로 큰 이득을 본 1주택자도, 다주택자도 이 상황이 만족스럽지 않다는 것이다. 집 없는 사람은 집을 사기는커녕 빌려 사는 것조차 녹록지 않아 난리고, 집 있는 사람은 시세 차익 환수에 따른 세금 부담으로 난리다. 또 하나의 아이러니는 부동산과 관련한 각종 통계 지표와 국민들의 체감 현실 사이에 상당한 괴리가 있다는 것이다. 
+
+대표적인 국제 주택시장 비교 사이트인 ‘글로벌 프로퍼티 가이드’와 OECD 등의 가격 변동 통계에 따르면, 우리나라의 집값 상승률은 평균적으로 다른 나라들보다 낮은 편이다. 특히 OECD 국가 중에서는 일본과 함께 하위권을 형성하고 있다. 물론 비교 기준의 문제로 논란이 있긴 하지만, 단지 ‘통계의 함정’으로만 치부할 수는 없는 노릇이다. 이를 어떻게 보아야 할까? 좀 더 거시적이고 냉철한 비교 연구가 요구되는 시점이다.
+
+책을 펴내며
+1장 동아시아의 경제 기적과 주택문제
+집에 바친 청춘, 동아시아 | 동아시아 경제 기적과 초고속 도시화 | 동아시아 주택: 집값에 눌린 사회 | 나라별 주택시장과 정책 스케치 | 동아시아 주택시장이 던지는 질문
+
+2장 싱가포르: 꿈의 주택정책의 이면
+작은 나라, 성공한 경제, 모범생 사회 | 모두가 내 집에 사는 나라 | 싱가포르 주택정책의 역사 | 3박자로 만들어진 자가 사회: 국유지, 연금 그리고 공공주택 | 늙어가는 시민, 낡아가는 주택 | 싱가포르 패러독스: 비(非)국민의 삶 | 싱가포르 주택정책의 과제와 시사점
+
+3장 홍콩: 좌절당한 모범 주택정책 사회
+전 세계에서 집값이 가장 비싼 도시 | 쉑킵메이 신드롬: 모범 주택정책 사회의 꿈 | 주권 반환 이후 본격적인 시장화, 규제 완화 | 홍콩 주택시장의 미래
+
+4장 대만: 불평하면서도 적응한 자가 소유 사회 
+닮은 국가 운명, 다른 주택시장 | 주택 3고 사회 | 미미한 주거복지정책 | 대만 주택시장의 미래
+
+5장 일본: 버블의 기억과 주택 과잉 사회
+버블의 기억 | 전후 주택체제의 성공과 후퇴 | 인구 감소 시대, 주택 과잉 사회 | 우리는 일본의 길을 따라갈까?
+
+6장 중국: 대혼전―인구대국, 도시대국
+중국식 사회주의의 꿈 | 인구대국의 인구 보너스 | 중국에서 부동산이란? | 주택과 토지의 개혁: 상품화, 시장화, 분권화 | 거대한 ‘슈퍼’ 마켓의 탄생과 성장 | 도시 주택의 명과 암 | 보장성 주택: 무엇을 보장하는가? | 중국몽의 미래: 사회주의 유산을 넘어 
+
+7장 동아시아를 넘어서
+동아시아 현대사: 고난과 성취 | 동아시아의 주택 이념: 자산 증식 가족주의 | 동아시아를 닮아간 세계 주택시장 | 세계 주택시장의 현주소: 주택의 금융화 | 동아시아의 주택 심성: 부동산 평등주의 | 집에 갇힌 나라
+
+
+국내도서 > 경제경영 > 재테크/투자 > 부동산/경매
+국내도서 > 경제경영 > 경제학/경제일반 > 경제정책/비평
+국내도서 > 사회과학 > 사회문제 > 사회문제 일반
+국내도서 > 사회과학 > 정치학/외교학/행정학 > 정책/행정/조직]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행복한 부자/류덕위 지음/현우사]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=279374498</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=279374498"/>
+        <updated>2021-09-09T01:53:00.000Z</updated>
+        <summary type="html"><![CDATA[행복한 부자
+류덕위 지음 / 현우사 / 2021년 08월 / ISBN:9788980815814
+정가: 15,000원 / 판매가: 15,000원 / 마일리지: 79원
+이벤트: 이 달의 문장 투표
+
+
+
+
+제1장 행복한 부자
+
+제2장 돈의 인문학
+
+제3장 유대인과 금융 지배
+
+제4장 자본주의 부의 법칙
+
+참고문헌
+
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
