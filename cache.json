@@ -740,15 +740,6 @@
           "publishedOn": "2021-08-17T03:15:00.000Z",
           "wordCount": null,
           "title": "예제를 따라하며 실습으로 익히는 Visual C# Programming/이영교 지음/북스홀릭퍼블리싱"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=277676962",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "짧고 굵게 배우는 JSP 웹 프로그래밍과 스프링 프레임워크\n황희정 지음 / 한빛아카데미(교재) / 2021년 08월 / ISBN:9791156645573\n정가: 27,000원 / 판매가: 27,000원 / 마일리지: 130원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n시대적 흐름을 반영하면서도 핵심 개념에 충실하도록 구성하였으며, 프런트엔드의 기초 내용(HTML, CSS, 자바스크립트, 부트스트랩)도 추가하였다. 또한 대표적인 자바 웹 개발 프레임워크인 스프링 프레임워크의 핵심 활용을 포함하고 있다. 웹 프로그래밍 분야에 입문하여 전체적인 그림을 그리고 싶어 하는 독자들과 초보 개발자들에게 추천한다. \r\n\r\n※ 본 도서는 대학 강의용 교재로 개발되었으므로 연습문제 해답은 제공하지 않습니다.\n\nPart 01 준비학습 : Beginning JSP\t\t\t\t\r\n\t\t\t\t\r\nChapter 01 웹 프로그래밍의 이해\t\t\t\t\r\n\t01 웹의 개요\t\t\t\r\n\t02 네트워크와 인터넷의 개념\t\t\t\r\n\t03 웹 프로그래밍의 구조\t\t\t\r\n\t04 새로운 웹 개발 트렌드\t\t\t\r\n\t요약\r\n연습문제\t\t\t\r\n\t\t\t\t\r\nChapter 02 자바 웹 개발을 위한 환경 구축\t\t\t\t\r\n\t01 자바 웹 개발환경의 개요\t\t\t\r\n\t02 클라우드 개발환경과 배포 프로세스\t\t\t\r\n\t03 자바 웹 개발환경 구축\t\t\t\r\n\t04 프로젝트 생성 및 톰캣 연동\r\n\t요약\r\n연습문제\t\t\t\r\n\t\t\t\t\r\nChapter 03 웹 프로그래밍의 기초\t\t\t\t\r\n\t01 HTML 기초\t\t\t\r\n\t02 CSS 기초\t\t\t\r\n\t03 자바스크립트 기초\t\t\t\r\n\t04 [실습 3-1] 회원가입 폼 만들기\t\t\t\r\n\t05 [실습 3-2] ToDo 리스트 앱 만들기\r\n\t요약\r\n연습문제\t\t\t\t\t\t\t\r\n\r\nChapter 04 자바 웹 개발의 개요\t\t\t\t\r\n\t01 서블릿과 JSP\t\t\t\r\n\t02 REST API와 JAX-RS\t\t\t\r\n\t03 스프링 프레임워크와 자바 웹 개발\r\n\t요약\r\n연습문제\t\t\t\t\t\t\t\r\n\t\t\t\t\r\nPart 02 기본학습 : 서블릿, JSP, JDBC\t\t\t\t\r\n\t\t\t\t\r\nChapter 05 서블릿의 이해\t\t\t\t\r\n\t01 서블릿의 개요\t\t\t\r\n\t02 서블릿 클래스 구조와 생명 주기\t\t\t\r\n\t03 페이지 이동과 정보 공유\t\t\t\r\n\t04 [실습 5-1] 서블릿 프로그래밍: HelloWorld!\t\t\t\r\n\t05 [실습 5-2] 서블릿 프로그래밍: 계산기 구현\t\t\t\r\n\t요약\r\n연습문제\t\t\t\t\t\t\t\r\n\t\t\t\t\r\nChapter 06 JSP의 기초 다지기\t\t\t\t\r\n\t01 JSP의 개요\t\t\t\r\n\t02 JSP 지시어\t\t\t\r\n\t03 템플릿 데이터와 스크립트 요소\t\t\t\r\n\t04 [실습 6-1] JSP 기초 종합 예제\t\t\t\r\n\t05 [실습 6-2] JSP 프로그래밍: 계산기 구현\t\t\t\r\n\t요약\r\n연습문제\t\t\t\t\t\t\t\r\n\t\t\t\t\r\nChapter 07 JSP 응용\t\t\t\t\r\n\t01 액션 태그\t\t\t\r\n\t02 [실습 7-1] 액션 종합 예제: 계산기 구현\t\t\t\r\n\t03 커스텀 태그와 EL\t\t\t\r\n\t04 JSTL\t\t\t\r\n\t05 [실습 7-2] JSTL과 EL 종합 예제\t\t\t\r\n\t06 Maven 기반 프로젝트 구성\t\t\t\r\n\t요약\r\n연습문제\t\t\r\n\t\t\t\t\r\nChapter 08 MVC 패턴의 이해\t\t\t\t\r\n\t01 MVC 패턴\t\t\t\r\n\t02 서블릿 컨트롤러 설계\t\t\t\r\n\t03 [실습 8-1] 컨트롤러 기초 예제: 계산기 구현\t\t\t\r\n\t04 [실습 8-2] 고급 컨트롤러 서블릿 구현\t\t\t\r\n\t요약\r\n연습문제\t...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > JSP",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=277676962",
-          "publishedOn": "2021-08-13T01:44:00.000Z",
-          "wordCount": null,
-          "title": "짧고 굵게 배우는 JSP 웹 프로그래밍과 스프링 프레임워크/황희정 지음/한빛아카데미(교재)"
         }
       ]
     },
