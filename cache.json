@@ -789,6 +789,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/impact-covid-19-global-production",
+          "author": "Hongyong Zhang",
+          "description": "COVID-19 has had large impacts on global production and international trade. The column uses quarterly aggregate-level data on foreign affiliates of Japanese multinational corporations to show that multinational production and supply chains were negatively affected by the COVID-19 pandemic, especially in the 2nd quarter of 2020. The sales of Japanese manufacturing affiliates almost recovered in the 4th quarter of 2020, indicating the resilience of global production and multinationals’ supply chains. But there are large variations in recovery across countries.",
+          "link": "https://voxeu.org/article/impact-covid-19-global-production",
+          "publishedOn": "2021-09-13T00:00:00.000Z",
+          "wordCount": 2002,
+          "title": "The impact of COVID-19 on global production"
+        },
+        {
           "id": "https://voxeu.org/article/equity-premium-predictability-over-business-cycle",
           "author": "Emanuel Moench, Tobias Stein",
           "description": "The US equity market follows a V-shaped pattern around recessions, with sharply negative returns heading into recessions and a strong recovery as the recession unfolds. In addition, recessions are usually preceded by an inverted yield curve. This column shows that the term spread is a robust predictor of recessions, and that model-implied recession probability forecasts do a good job of predicting the equity premium out-of-sample. An investment strategy based on the recession probability model could be used to time the equity market and lead to higher and less volatile profits over time.",
@@ -1164,6 +1173,276 @@
       "feedUrl": "https://back.nber.org/rss/new.xml",
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
+        {
+          "id": "https://www.nber.org/papers/w29235#fromrss",
+          "author": null,
+          "description": "This paper discusses contributions that industrial organization economists have made to our understanding of energy markets and environmental regulation. We emphasize the substantive contributions of recent papers while also highlighting how this literature has adopted and sometimes augmented theoretical and empirical tools from industrial organization. Many of the topics examined by this literature—especially auctions, investment, productivity and innovation, and regulation—also apply to a variety of settings beyond energy and the environment. We also indicate areas where future research is likely to be fruitful, with an emphasis on how industrial organization economists can help inform energy and environmental policies.",
+          "link": "https://www.nber.org/papers/w29235#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.447Z",
+          "wordCount": 789,
+          "title": "Energy and Environmental Markets, Industrial Organization, and Regulation -- by Ryan Kellogg, Mar Reguant"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29221#fromrss",
+          "author": null,
+          "description": "Middlemen are ubiquitous in supply chains. In developing countries they help bring products from remote communities to end markets but may exert strong market power. We study a cooperative intervention which organizes together poor fishing communities in the Amazon — one of the poorest and most remote regions of the world — to purchase large boats in order to partially bypass middlemen and deliver their fish directly to market. We find that the intervention increases income by 27%, largely through an increase in price received, and also increases consumption. Moreover, the intervention is highly cost effective with the projected stream of income gains easily covering the cost of the investment. Finally, we formalize a model in which the market power of middlemen itself can create a poverty trap, which can be eliminated with cooperative investment.",
+          "link": "https://www.nber.org/papers/w29221#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.321Z",
+          "wordCount": 924,
+          "title": "Big Fish in Thin Markets: Competing with the Middlemen to Increase Market Access in the Amazon -- by Viva O. Bartkus, Wyatt Brooks, Joseph P. Kaboski, Carolyn E. Pelnik"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29226#fromrss",
+          "author": null,
+          "description": "I reconsider the long-standing consensus view that macroeconomic stabilization should rely on monetary policy, not fiscal policy. I use an analytically tractable heterogeneous agent New Keynesian (HANK) model that is parameterized so as to admit a bubble in public debt. In this context, I show that it is possible to stabilize either inflation or output in response to aggregate shocks by varying only fiscal policy (that is, lump-sum uniform transfers). In contrast, when the public debt bubble is large, it is impossible to stabilize either inflation or output by varying only interest rates (monetary policy). The theoretical analysis implies that, in the presence of a large public debt bubble, fiscal policy is a more reliable stabilization tool than monetary policy.",
+          "link": "https://www.nber.org/papers/w29226#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.224Z",
+          "wordCount": 764,
+          "title": "Stabilization with Fiscal Policy -- by Narayana R. Kocherlakota"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29244#fromrss",
+          "author": null,
+          "description": "We show that the Federal Housing Administration (FHA), from its inception in the 1930s, did not insure mortgages in low income urban neighborhoods where the vast majority of urban Black Americans lived.  The agency evaluated neighborhoods using block-level information collected by New Deal relief programs and the Census in many cities.  The FHA’s exclusionary pattern predates the advent of the infamous maps later made by the Home Owners’ Loan Corporation (HOLC) and shows little change after the drafting of those maps.  In contrast, the HOLC itself broadly loaned to such neighborhoods and to Black homeowners.  We conclude that the HOLC’s redlining maps had little effect on the geographic distribution of either program’s mortgage market activity, and that the FHA crafted and implemented its own redlining methodology prior to the HOLC.",
+          "link": "https://www.nber.org/papers/w29244#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.199Z",
+          "wordCount": 874,
+          "title": "New Evidence on Redlining by Federal Housing Programs in the 1930s -- by Price V. Fishback, Jonathan Rose, Kenneth A. Snowden, Thomas Storrs"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29223#fromrss",
+          "author": null,
+          "description": "Banks’ reluctance to repair their balance sheets, combined with deposit insurance and regulatory forbearance in recognizing greater risks and losses, can lead to solvency problems that look like liquidity (bank-run) crises. Regulatory forbearance incentivizes banks to both retain risky loans and reject new good opportunities. With sufficient regulatory forbearance, partially-insured banks act exactly as if they are fully insured. Stress tests certify that uninsured creditors will be paid, not that banks are solvent, and have ambiguous effects on the efficiency of investment.",
+          "link": "https://www.nber.org/papers/w29223#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.164Z",
+          "wordCount": 809,
+          "title": "Misdiagnosing Bank Capital Programs -- by Jeremy I. Bulow, Paul D. Klemperer"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29246#fromrss",
+          "author": null,
+          "description": "We study how referral hiring contributes to racial inequality in firm-level labor demand over the firm's life cycle using data from Brazil. We consider a search model where referral networks are segregated, firms are more informed about the match quality of referred candidates, and some referrals are made by non-referred employees. Consistent with the model, we find that firms are more likely to hire candidates and less likely to dismiss employees of the same race as the founder, but these differences diminish as firms' cumulative hires increase. Referral hiring helps to explain racial differences in dismissals, seniority, and employer size.",
+          "link": "https://www.nber.org/papers/w29246#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.147Z",
+          "wordCount": 865,
+          "title": "The Dynamics of Referral Hiring and Racial Inequality: Evidence from Brazil -- by Conrad Miller, Ian M. Schmutte"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29237#fromrss",
+          "author": null,
+          "description": "In many regions of the world, sparse data on key economic outcomes inhibits the development, targeting, and evaluation of public policy.  We demonstrate how advancements in satellite imagery and machine learning can help ameliorate these data and inference challenges. In the context of an expansion of the electrical grid across Uganda, we show how a combination of satellite imagery and computer vision can be used to develop local-level livelihood measurements appropriate for inferring the causal impact of electricity access on livelihoods. We then show how ML-based inference techniques deliver more reliable estimates of the causal impact of electrification than traditional alternatives when applied to these data. We estimate that grid access improves village-level asset wealth in rural Uganda by 0.17 standard deviations, more than doubling the growth rate over our study period relative to untreated areas.  Our results provide country-scale evidence on the impact of a key infrastructure investment, and provide a low-cost, generalizable approach to future policy evaluation in data sparse environments.",
+          "link": "https://www.nber.org/papers/w29237#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.116Z",
+          "wordCount": 908,
+          "title": "Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access -- by Nathan Ratledge, Gabriel Cadamuro, Brandon De la Cuesta, Matthieu Stigler, Marshall Burke"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29243#fromrss",
+          "author": null,
+          "description": "We develop an empirical model of the mechanism used to assign police officers to Chicago districts and examine the efficiency and equity of alternative allocations. We document that the current bidding process, which grants priority based on seniority, results in the assignment of more experienced officers to less violent and high-income neighborhoods. Our empirical model combines estimates of heterogeneous officer preferences underlying the bidding process with causal estimates of the effects of officer experience on neighborhood crime. Equalizing officer seniority across districts would reduce violent crime rate by 4.6 percent and significantly decrease inequality in crime, discretionary arrests, and officer use of force across neighborhoods. Moreover, this assignment can be achieved in a revenue-neutral way while resulting in small welfare gains for police officers, implying that it is more equitable and efficient.",
+          "link": "https://www.nber.org/papers/w29243#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.085Z",
+          "wordCount": 908,
+          "title": "Police Officer Assignment and Neighborhood Crime -- by Bocar Ba, Patrick Bayer, Nayoung Rim, Roman Rivera, Modibo Sidibé"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29241#fromrss",
+          "author": null,
+          "description": "Deaths of despair, morbidity and emotional distress continue to rise in the US. The increases are largely borne by those without a four-year college degree—the majority of American adults. For many less-educated Americans, the economy and society are no longer providing the basis for a good life. Concurrently, all-cause mortality in the US is diverging by education—falling for the college-educated and rising for those without a degree—something not seen in other rich countries. We review the rising prevalence of pain, despair, and suicide among Americans without a BA. Pain and despair created a baseline demand for opioids, but the escalation of addiction came from pharma and its political enablers. We examine “the politics of despair,” how less-educated people have abandoned and been abandoned by the Democratic Party. While healthier states once voted Republican in presidential elections, now the least-healthy states do. We review the evidence on whether or not deaths of despair have risen during the COVID pandemic. More broadly, excess mortality from COVID has not increased the ratio of all-cause mortality rates for those with and without a four-year degree, but has instead replicated the pre-existing mortality ratio.",
+          "link": "https://www.nber.org/papers/w29241#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.070Z",
+          "wordCount": 881,
+          "title": "The Great Divide: Education, Despair and Death -- by Anne Case, Angus Deaton"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29238#fromrss",
+          "author": null,
+          "description": "We study a business cycle model of the international monetary system featuring a time-varying demand for safe dollar bonds, greater risk-bearing capacity in the U.S. than the rest of the world, and nominal rigidities.  A flight to safety generates a dollar appreciation and decline in global output.  Dollar bonds thus command a negative risk premium and the U.S. holds a levered portfolio of capital financed in dollars.  We quantify the effects of safety shocks and heterogeneity in risk-bearing capacity for global macroeconomic volatility; U.S. external adjustment; and the international transmission of monetary and fiscal policies, including dollar swap lines.",
+          "link": "https://www.nber.org/papers/w29238#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.034Z",
+          "wordCount": 836,
+          "title": "The Flight to Safety and International Risk Sharing -- by Rohan Kekre, Moritz Lenel"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29245#fromrss",
+          "author": null,
+          "description": "Using new large-scale survey and experimental data, we investigate how respondents perceive racial inequities between Black and white Americans, what they believe causes them, and what interventions, if any, they think should be implemented to reduce them. We intentionally oversample Black respondents, cover many cities in the US, and survey both adults and very young people aged 13 to 17. In the experimental parts, we consider the causal impact of information on racial inequities (such as the evolution of the Black-white earnings gap or the differences in mobility for Black and white children) and explanations for these inequities (i.e., the deep-seated roots and long-lasting consequences of systemic racism) on respondents' views. Although there is heterogeneity in how respondents perceive the magnitude of current racial gaps in economic conditions and opportunities, the biggest discrepancies are in how they explain them. There is a stark partisan gap among white respondents, particularly in the perceived causes of racial inequities and what should be done about them. White Democrats and Black respondents are much more likely to attribute racial inequities to adverse past and present circumstances and want to act on them with race-targeted and general redistribution policies. At the same time, white Republicans are more likely to attribute racial gaps to individual actions. These views are already deeply entrenched in teenagers based on their race and their parents' political affiliation. A policy decomposition shows that the perceived causes of racial inequities correlate most strongly with support for race-targeted or general redistribution policies, a finding confirmed by the experimental results.",
+          "link": "https://www.nber.org/papers/w29245#fromrss",
+          "publishedOn": "2021-09-13T04:15:10.009Z",
+          "wordCount": 1017,
+          "title": "Perceptions of Racial Gaps, their Causes, and Ways to Reduce Them -- by Alberto Alesina, Matteo F. Ferroni, Stefanie Stantcheva"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29247#fromrss",
+          "author": null,
+          "description": "This essay discusses several potential economic, political and social costs of the current path of AI technologies. I argue that if AI continues to be deployed along its current trajectory and remains unregulated, it may produce various social, economic and political harms. These include: damaging competition, consumer privacy and consumer choice; excessively automating work, fueling inequality, inefficiently pushing down wages, and failing to improve worker productivity; and damaging political discourse, democracy's most fundamental lifeblood. Although there is no conclusive evidence suggesting that these costs are imminent or substantial, it may be useful to understand them before they are fully realized and become harder or even impossible to reverse, precisely because of AI's promising and wide-reaching potential. I also suggest that these costs are not inherent to the nature of AI technologies, but are related to how they are being used and developed at the moment - to empower corporations and governments against workers and citizens. As a result, efforts to limit and reverse these costs may need to rely on regulation and policies to redirect AI research. Attempts to contain them just by promoting competition may be insufficient.",
+          "link": "https://www.nber.org/papers/w29247#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.983Z",
+          "wordCount": 949,
+          "title": "Harms of AI -- by Daron Acemoglu"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29240#fromrss",
+          "author": null,
+          "description": "The Affordable Care Act (ACA) is one of the most important reforms of the US health insurance system since the introduction of Medicare. Since employment is a main source of health insurance for the working age population in the United States, this sweeping health insurance reform also has important implications for the labor market and the macro economy. In this paper, we survey the prototype models that are used in the macro and labor literature, extended to integrate health and health insurance, to study the short- and long-run consequences of the ACA. We also suggest open areas for future research.",
+          "link": "https://www.nber.org/papers/w29240#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.931Z",
+          "wordCount": 888,
+          "title": "The Affordable Care Act After a Decade: Its Impact on the Labor Market and the Macro Economy -- by Hanming Fang, Dirk Krueger"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29242#fromrss",
+          "author": null,
+          "description": "We develop new semiparametric methods for estimating treatment effects. We focus on a setting where the outcome distributions may be thick tailed, where treatment effects are small, where sample sizes are large and where assignment is completely random. This setting is of particular interest in recent experimentation in tech companies. We propose using parametric models for the treatment effects, as opposed to parametric models for the full outcome distributions. This leads to semiparametric models for the outcome distributions. We derive the semiparametric efficiency bound for this setting, and propose efficient estimators. In the case with a constant treatment effect one of the proposed estimators has an interesting interpretation as a weighted average of quantile treatment effects, with the weights proportional to (minus) the second derivative of the log of the density of the potential outcomes. Our analysis also results in an extension of Huber's model and trimmed mean to include asymmetry and a simplified condition on linear combinations of order statistics, which may be of independent interest.",
+          "link": "https://www.nber.org/papers/w29242#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.904Z",
+          "wordCount": 842,
+          "title": "Semiparametric Estimation of Treatment Effects in Randomized Experiments -- by Susan Athey, Peter J. Bickel, Aiyou Chen, Guido Imbens, Michael Pollmann"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29236#fromrss",
+          "author": null,
+          "description": "Nirei and Scheinkman (2021) proposed an equilibrium model of price adjustments with menu-costs with a finite number of firms and derived a “reproduction number” for repricing and a limit functional form for the distribution of the number of simultaneously price-adjusting firms. We show that the distribution of price-changes in data from the Billion Prices Project is well fitted by this functional form and exhibits a reproduction number that is close to unity, indicating that complementarity in price-changes plays a major role in repricings.",
+          "link": "https://www.nber.org/papers/w29236#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.851Z",
+          "wordCount": 775,
+          "title": "Repricing Avalanches in the Billion-Prices Data -- by Laura Leal, Haaris Mateen, Makoto Nirei, José A. Scheinkman"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29239#fromrss",
+          "author": null,
+          "description": "In the world of omnichannel retail, some brands open a flagship store at online marketplaces, while others avert it. Focusing on a large e-commerce platform, we empirically study how flagship entry affects consumers, the platform, and various sellers on the platform. \nWe find flagship entry may benefit consumers by expanding the choice set, by intensifying price competition within the entry brand, and by improving consumer perception for parts of the platform. In the meantime, flagship entry cannibalizes the sales of same-brand sellers, while other brands may gain as the buyer base expands on the platform. \nCounterfactual simulation suggests that flagship entry improves the gross merchandise value (GMV) of the platform but hurts existing sellers of the entry brand. On average, the effect on consumer welfare is more positive if the flagship entry is from a non-prominent brand than from a prominent brand, because consumers tend to lower their willingness to pay for individual sellers upon a prominent flagship entry. In hypothetical scenarios where flagship entry were accompanied by constraints on other same-brand sellers, the reduced competition would benefit the flagship store but hurt consumers.",
+          "link": "https://www.nber.org/papers/w29239#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.833Z",
+          "wordCount": 1013,
+          "title": "Flagship Entry in Online Marketplaces -- by Ginger Zhe Jin, Zhentong Lu, Xiaolu Zhou, Lu Fang"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29224#fromrss",
+          "author": null,
+          "description": "Carbon taxation is a widely proposed and in some countries already adopted means to limit anthropogenic climate change. This paper studies carbon taxation using an 18-region, 80- period overlapping generations model. We focus on carbon policy that delivers present and future mankind the highest uniform percentage welfare gain. The policy combines global carbon taxation and region- and generation-specific net transfers. In our main calibration, uniform welfare-improving carbon tax policy can make those agents already here and those yet to come, no matter their location, 4.35 percent better off. Achieving (such) equal proportionate gains, which may be needed for universal support, requires major interregional as well as intergenerational transfers. Universal support, though, is not essential. For example, even absent participation by China, whose projected carbon emissions are massive, the rest of the world can still materially limit the carbon externality. However, absent China, their optimal carbon tax is roughly half as large, and the uniform welfare-improving gain is less than three-fifths as large.",
+          "link": "https://www.nber.org/papers/w29224#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.788Z",
+          "wordCount": 920,
+          "title": "Can Today's and Tomorrow's World Uniformly Gain from Carbon Taxation? -- by Laurence J. Kotlikoff, Felix Kubler, Andrey Polbin, Simon Scheidegger"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29228#fromrss",
+          "author": null,
+          "description": "What is the impact on intra-national trade and regional economic outcomes when the quality and lane-capacity of an existing paved road network is expanded significantly? We investigate this question for the case of Turkey, which undertook a large-scale public investment in roads during the 2000s. Using spatially disaggregated data on road upgrades and domestic transactions, we estimate a large positive impact of reduced travel times on trade as well as local manufacturing employment and wages. A quantitative exercise using a workhorse model of spatial equilibrium implies heterogeneous effects across locations, with aggregate real income gains reaching 2-3 percent in the long-run. Reductions in travel times increased local employment-to-population ratio but had no effect on local population. We extend the model by endogenizing the labor supply decision to capture this finding. The model-implied elasticity of employment rates to travel time reductions captures about one-third of the empirical elasticity.",
+          "link": "https://www.nber.org/papers/w29228#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.746Z",
+          "wordCount": 906,
+          "title": "Road Capacity, Domestic Trade and Regional Outcomes -- by A. Kerem Coşar, Banu Demir, Devaki Ghose, Nathaniel Young"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29222#fromrss",
+          "author": null,
+          "description": "We investigate the source, magnitude, and unevenness of the procyclical forces that shape labor force participation, i.e., the participation cycle, which are important for the implementation of the maximum employment mandate. We show that these forces can be analyzed in real time using a flow decomposition of the changes in the labor force participation rate. The decomposition reveals that the source of the participation cycle is fluctuations in job-loss and job-finding rates, rather than cyclical movements in labor force entry and exit rates. The magnitude of the participation cycle is large. Cyclical downward pressures on employment from participation are two-thirds that of unemployment. Moreover, the participation cycle delays the recovery in employment because it lags the unemployment cycle. It also amplifies the unevenness of the impact of recessions. Groups that see large increases in their unemployment rates also experience more pronounced participation cycles. Despite differences in their magnitudes, the source of the participation cycle is the same for all groups. Application of our method to the COVID-19 Recession suggests that, as of June 2021, the bulk of the drop in the participation rate since the onset of the pandemic is cyclical and that the cyclical recovery in participation likely will trail that of the unemployment rate.",
+          "link": "https://www.nber.org/papers/w29222#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.722Z",
+          "wordCount": 881,
+          "title": "Maximum Employment and the Participation Cycle -- by Bart Hobijn, Ayşegül Şahin"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29219#fromrss",
+          "author": null,
+          "description": "We study the effects of going public using a unique panel of firms in 16 European countries for which we observe financial data before and after firms' initial-public-offering (IPO) attempts. We compare firms that complete their IPO with firms that withdraw their IPO. We instrument the going public decision using prior market returns. We find that firm profitability goes up after going public—contrary to previous results in the literature. We also find an post-IPO expansion in the number of subsidiaries and countries in which IPO firms operate. Our results are stronger for firms in financially dependent industries and in countries with higher investor protection consistent with going public relaxing financial constraints and with a stronger impact when agency conflicts are lower.  Overall, our results are consistent with going public inducing a shift towards a strategy of commercialization to increase profitability.",
+          "link": "https://www.nber.org/papers/w29219#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.668Z",
+          "wordCount": 878,
+          "title": "The Effects of Going Public on Firm Performance and Commercialization Strategy: Evidence from International IPOs -- by Borja Larrain, Gordon M. Phillips, Giorgo Sertsios, Francisco Urzúa"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29233#fromrss",
+          "author": null,
+          "description": "I study a general equilibrium menu cost model with a continuum of sectors, idiosyncratic and aggregate shocks, and the novel feature that each sector consists of strategically engaged firms. Compared to an economy with monopolistically competitive sectors—separately parameterized to match the same microdata on price flexibility—the oligopoly economy features a smaller response of inflation to monetary shocks and output responses that are more than twice as large. Under the same parameters, output responses are five times larger. An oligopoly economy also (i) requires smaller menu costs and idiosyncratic shocks to match the microdata, addressing a significant challenge for mechanisms that generate non-neutrality via strategic complementarities, (ii) implies four times larger welfare losses from same sized nominal rigidities, and (iii) provides a novel rationale for positive menu costs: in an oligopoly firms prefer a degree of rigidity to complete flexibility. Quantitatively, the estimated degree of nominal rigidity is found to be close to optimal, from firms’ perspective.",
+          "link": "https://www.nber.org/papers/w29233#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.654Z",
+          "wordCount": 894,
+          "title": "Market Structure and Monetary Non-neutrality -- by Simon Mongey"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29231#fromrss",
+          "author": null,
+          "description": "Canonical human capital theories posit that education, by enhancing worker skills, reduces the likelihood that a worker will be laid-off during times of economic change. Yet, this has not been demonstrated causally. We link administrative education records from 1987 through 2002 to nationally representative surveys conducted before and after COVID-19 onset in Barbados to explore the causal impact of improved education on job loss during this period. Using a regression discontinuity (RD) design, Beuermann and Jackson (2020) show that females (but not males) who score just above the admission threshold for more selective schools in Barbados attain more years of education than those that scored just below (essentially holding initial ability fixed). Here, in follow-up data, we show that these same females (but not males) are much less likely to have lost a job after the onset of COVID-19. We show that these effects are not driven by sectoral changes, or changes in labor supply. Because employers observe incumbent worker productivity, these patterns are inconsistent with pure education signalling, and suggest that education enhances worker skill.",
+          "link": "https://www.nber.org/papers/w29231#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.640Z",
+          "wordCount": 986,
+          "title": "Does Education Prevent Job Loss During Downturns? Evidence from Exogenous School Assignments and COVID-19 in Barbados -- by Diether W. Beuermann, Nicolas L. Bottan, Bridget Hoffmann, C. Kirabo Jackson, Diego A. Vera Cossio"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29229#fromrss",
+          "author": null,
+          "description": "This chapter overviews productivity research from an industrial organization perspective. We focus on what is known and what still needs to be learned about the productivity levels and dynamics of individual producers, but also how these interact through markets and industries to influence productivity aggregates. We overview productivity concepts, facts, data, measurement, analysis, and open questions.",
+          "link": "https://www.nber.org/papers/w29229#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.595Z",
+          "wordCount": 841,
+          "title": "An Industrial Organization Perspective on Productivity -- by Jan De Loecker, Chad Syverson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29230#fromrss",
+          "author": null,
+          "description": "We survey the empirical literature in economics on the impact of media technologies on social capital. Motivated by a simple model of information and collective action, we cover a range of different outcomes related to social capital, from social and political participation to interpersonal trust, in its benign and destructive manifestations. The impact of media technologies hinges on their content (\"information\" vs \"entertainment\"), their effectiveness in fostering coordination, and the networks they create, as well as individual characteristics and media consumption choices.",
+          "link": "https://www.nber.org/papers/w29230#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.578Z",
+          "wordCount": 836,
+          "title": "Media and Social Capital -- by Filipe R. Campante, Ruben Durante, Andrea Tesei"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29227#fromrss",
+          "author": null,
+          "description": "Most hospitals and managed care organizations have financial assistance programs that aim to reduce financial burdens and improve health care access for low-income patients. We use administrative data from Kaiser Permanente to study the effects of financial assistance on health care utilization. Using a regression discontinuity design based on an income threshold for program eligibility, we find that financial assistance significantly increases health care utilization initially, though effects dissipate three quarters after program receipt. Financial assistance also increases the detection of and medication refills for treatment-sensitive conditions, suggesting financial assistance may increase receipt of high-value care.",
+          "link": "https://www.nber.org/papers/w29227#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.563Z",
+          "wordCount": 830,
+          "title": "The Impact of Financial Assistance Programs on Health Care Utilization -- by Alyce S. Adams, Raymond Kluender, Neale Mahoney, Jinglin Wang, Francis Wong, Wesley Yin"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29182#fromrss",
+          "author": null,
+          "description": "Why are certain communities more prone to anti-government protests than others? Do past rebellions lead to more protests today? We study the historical roots of social unrest using the experience of China. We document that counties with higher incidence of peasant uprisings against local government officials during the Qing dynasty period (1644-1912) also have higher incidence of anti-government protests in present-day China. To generate plausibly exogenous variation in the incidence of past protests, we exploit differences in the visibility and magnitude of solar eclipses during the Qing dynasty period. In the Confucian tradition, solar eclipses are considered a negative divine signal on the legitimacy of the ruler, facilitating the coordination of protest actions. We test this mechanism using detailed data on the timing and location of anti-government rebellions extracted from local chronicles. Counties within the totality zone of a solar eclipse were significantly more likely to experience a rebellion in the eclipse year. Leaders of early anti-Qing rebellions were recorded in popular culture and celebrated in temples, favoring the transmission of the memory of their actions across generations. The persistent effect of past protests is stronger in counties with such temples and memorials, consistent with a long-term memory of revolutions.",
+          "link": "https://www.nber.org/papers/w29182#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.515Z",
+          "wordCount": 919,
+          "title": "Eclipses and the Memory of Revolutions: Evidence from China -- by Meng Miao, Jacopo Ponticelli, Yi Shao"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29220#fromrss",
+          "author": null,
+          "description": "This paper develops a 17-region, 3-skill group, overlapping generations, computable general equilibrium model to evaluate the global consequences of automation. Automation, modeled as capital- and high-skill biased technological change, is endogenous with regions adopting new technologies when profitable. Our approach captures and quantifies key macro implications of a range of foundational models of automation. In our baseline scenario, automation has a moderate effect on regional outputs and a small effect on world interest rates. However, it has a major impact on inequality, both wage inequality within regions and per capita GDP inequality across regions. We examine two policy responses to technological change -- mandating use of the advanced technology and providing universal basic income to share gains from automation. The former policy can raise a region's output, but at a welfare cost. The latter policy can transform automation into a win-win for all generations in a region.",
+          "link": "https://www.nber.org/papers/w29220#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.492Z",
+          "wordCount": 882,
+          "title": "Simulating Endogenous Global Automation -- by Seth G. Benzell, Laurence J. Kotlikoff, Guillermo LaGarda, Victor Yifan Ye"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29232#fromrss",
+          "author": null,
+          "description": "Asset prices are a valuable source of information about financial market participants' expectations about key macroeconomic variables. However, the presence of time-varying risk premia requires an adjustment of market prices to obtain the market's rational assessment of future price and policy developments. This paper reviews empirical approaches for recovering market-based expectations. It starts by laying out the two canonical modeling frameworks that form the backbone for estimating risk premia and highlights the proliferation of risk pricing factors that result in a wide range of different asset-price-based expectation measures. It then describes a key methodological innovation to evaluate the empirical plausibility of risk premium estimates and to identify the most accurate market-based expectation measure. The usefulness of this general approach is illustrated for price expectations in the global oil market. Then, the paper provides an overview of the body of empirical evidence for monetary policy and inflation expectations with a special emphasis on market-specific characteristics that complicate the quest for the best possible market-based expectation measure. Finally, it discusses a number of economic applications where market expectations play a key role for evaluating economic models, guiding policy analysis, and deriving shock measures.",
+          "link": "https://www.nber.org/papers/w29232#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.447Z",
+          "wordCount": 854,
+          "title": "Measuring Market Expectations -- by Christiane Baumeister"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29225#fromrss",
+          "author": null,
+          "description": "This paper analyses the effect of a firm’s organizational capacity on the reported profitability of multinational enterprises (MNEs). Better organizational practices improve productivity and the potential taxable profits of firms. However, higher adoption of these practices may also enable more efficient allocation of profits across tax jurisdictions, lowering actual taxable profits. We present new evidence that MNE subsidiaries with better such practices, when located in high-tax countries, report significantly lower profits and have a higher incidence of bunching around zero returns on assets. We show these results are driven by patterns consistent with profit-shifting behavior. Further, using an event study design, we find that firms with better practices are more responsive to corporate tax rate changes. Our results suggest organizational capacity, especially monitoring-related practices, enables firms to engage in shifting profits away from their high-tax subsidiaries.",
+          "link": "https://www.nber.org/papers/w29225#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.418Z",
+          "wordCount": 941,
+          "title": "Organizational Capacity and Profit Shifting -- by Katarzyna A. Bilicka, Daniela Scur"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29234#fromrss",
+          "author": null,
+          "description": "Risk often inhibits on-farm investment by smallholder farmers. Recent evidence indicates that index insurance and stress tolerant seeds can separately and partially offset this risk effect. In this study, we explore whether the complementarities between these two risk management technologies can be harnessed to underwrite a resilient, high productivity small farm sector. Utilizing a multi-year randomized control trial that spanned two countries and exploits natural variation in weather shocks, we find that drought tolerant maize seeds mitigate the impact of mid-season drought. Compared to farms in control villages, where shocks have persistent effects that reduce future investment and productivity, those with access to both drought tolerant seeds and multi-peril index insurance show greater resilience and immediately bounce back from shocks. Experiential learning is key to realizing this resilience effect: Farmers who experienced shocks intensify their subsequent use of the technologies and exhibit what we call resilience-plus, while those who did not experience shocks disadopt. Together these findings showcase important complementarities between these risk mitigating technologies and the crucial role learning plays in tapping their potential stochastic and dynamic benefits to small farmers.",
+          "link": "https://www.nber.org/papers/w29234#fromrss",
+          "publishedOn": "2021-09-13T04:15:09.398Z",
+          "wordCount": 990,
+          "title": "Bundling Stress Tolerant Seeds and Insurance for More Resilient and Productive Small-scale Agriculture -- by Stephen R. Boucher, Michael R. Carter, Jon Einar Flatnes, Travis J. Lybbert, Jonathan G. Malacarne, Paswel Marenya, Laura A. Paul"
+        },
         {
           "id": "https://www.nber.org/papers/w29213#fromrss",
           "author": null,
