@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-17T23:14:22.363Z</updated>
+    <updated>2021-09-18T00:15:57.741Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teams become more productive when their hours are shorter]]></title>
+        <id>https://voxeu.org/article/teams-become-more-productive-when-their-hours-are-shorter</id>
+        <link href="https://voxeu.org/article/teams-become-more-productive-when-their-hours-are-shorter"/>
+        <updated>2021-09-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It has been argued that when workers are already working long weeks, adding more hours can reduce productivity. This column tests this argument using evidence from Japan. The authors find that long working hours of key team members harm team productivity. In contrast, shorter hours cause the opposite effect, perhaps because workers recover from fatigue and arrive for work with increased energy and focus.]]></summary>
+        <author>
+            <name>Ruo Shangguan, Jed DeVaro, Hideo Owan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urban Institute: Median 95% LTV for New Mortgage Originations (Only 5% Downpayment)]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/J4WoG15m7U4/urban-institute-median-95-ltv-for-new.html</id>
