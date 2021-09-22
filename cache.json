@@ -2358,15 +2358,6 @@
           "publishedOn": "2021-08-25T15:00:00.000Z",
           "wordCount": 415,
           "title": "Health Inequality and COVID-19"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/uber-versus-taxi-fees-leases-drivers",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Given the option, most taxi drivers would rather let Uber take a portion of their fares than buy a lease up front for the right to drive, even when the latter is better financially, according to a paper in the American Economic Journal: Applied Economics.",
-          "link": "https://www.aeaweb.org/research/uber-versus-taxi-fees-leases-drivers",
-          "publishedOn": "2021-08-23T15:00:00.000Z",
-          "wordCount": 839,
-          "title": "What drives drivers"
         }
       ]
     },
@@ -2506,6 +2497,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZoRG9mJhXiw/wednesday-existing-home-sales-fomc.html",
+          "author": null,
+          "description": "Wednesday:\n• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.\n• During the day, The AIA's Architecture Billings Index for August (a leading indicator for commercial real estate).\n• At 10:00 AM, Existing Home Sales for August from the National Association of Realtors (NAR).  The consensus is for 5.81 million SAAR, down from 5.99 million in July.\n• At 2:00 PM, FOMC Meeting Announcement.  See FOMC Preview: Tapering \"Advance Notice\" Likely\n• At 2:00 PM, FOMC Forecasts This will include the Federal Open Market Committee (FOMC) participants' projections of the appropriate target federal funds rate along with the quarterly economic projections. \n• At 2:30 PM, Fed Chair Jerome Powell holds a press briefing following the FOMC announcement.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/ZoRG9mJhXiw/wednesday-existing-home-sales-fomc.html",
+          "publishedOn": "2021-09-22T01:00:00.001Z",
+          "wordCount": 936,
+          "title": "Wednesday: Existing Home Sales, FOMC Announcement"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/QUYOIbzQd40/september-21st-covid-19-7-day-average.html",
           "author": null,
@@ -3846,24 +3846,6 @@
           "publishedOn": "2021-08-23T15:50:00.000Z",
           "wordCount": 1051,
           "title": "Housing Inventory August 23rd Update: Inventory Increased Week-over-week, Up 41% from Low in early April"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/HRGQZTGTKKM/nar-existing-home-sales-increased-to.html",
-          "author": null,
-          "description": "From the NAR: Existing-Home Sales Climb 2.0% in July\nExisting-home sales rose in July, marking two consecutive months of increases, according to the National Association of Realtors®. Three of the four major U.S. regions recorded modest month-over-month gains, and the fourth remained level. Figures varied from a year-over-year perspective as two regions saw gains, one witnessed a decline and one was unchanged.\n  \nTotal existing-home sales, completed transactions that include single-family homes, townhomes, condominiums and co-ops, grew 2.0% from June to a seasonally adjusted annual rate of 5.99 million in July. Sales inched up year-over-year, increasing 1.5% from a year ago (5.90 million in July 2020).\n...\nTotal housing inventory at the end of July totaled 1.32 million units, up 7.3% from …",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/HRGQZTGTKKM/nar-existing-home-sales-increased-to.html",
-          "publishedOn": "2021-08-23T14:11:00.001Z",
-          "wordCount": 1134,
-          "title": "NAR: Existing-Home Sales Increased to 5.99 million in July"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/OhM-TSjbd-I/seven-high-frequency-indicators-for_23.html",
-          "author": null,
-          "description": "These indicators are mostly for travel and entertainment.    It will interesting to watch these sectors recover as the pandemic subsides.\n----- Airlines: Transportation Security Administration -----\nThe TSA is providing daily travel numbers.\nThis data is as of August 22nd.\n Click on graph for larger image.\nThis data shows the 7-day average of daily total traveler throughput from the TSA for 2019 (Light Blue), 2020 (Blue) and 2021 (Red).\nThe dashed line is the percent of 2019 for the seven day average.\nThe 7-day average is down 23.3% from the same day in 2019 (76.7% of 2019).  (Dashed line)\nThere was a slow increase from the bottom starting in May 2020 - and then TSA data picked up in 2021 - but the dashed line was moving sideways, and has moved down recently.\n  \n----- Restaurants: OpenTabl…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/OhM-TSjbd-I/seven-high-frequency-indicators-for_23.html",
-          "publishedOn": "2021-08-23T12:27:00.001Z",
-          "wordCount": 1718,
-          "title": "Seven High Frequency Indicators for the Economy"
         }
       ]
     }
