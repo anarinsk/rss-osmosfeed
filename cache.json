@@ -726,6 +726,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/covid-19-and-continued-labour-reallocation-productive-and-tech-savvy-firms",
+          "author": "Dan Andrews, Andrew Charlton, Angus Moore",
+          "description": "Covid-19 has been characterised as a reallocation shock, but the debate has so far lacked a clear link with productivity. This column uses real-time data to show that job reallocation remained connected to firm productivity even while labour turnover fell in response to the pandemic. High (low) productivity firms were more likely to expand (contract), although the strength of this effect varied across countries, consistent with differences in job retention schemes. While policy partly hindered creative destruction, the nature of the pandemic shock favoured high-productivity and tech-savvy firms, resulting in a reallocation of labour to these firms.",
+          "link": "https://voxeu.org/article/covid-19-and-continued-labour-reallocation-productive-and-tech-savvy-firms",
+          "publishedOn": "2021-09-22T00:00:00.000Z",
+          "wordCount": 1892,
+          "title": "Covid-19 and the continued labour reallocation to productive and tech-savvy firms"
+        },
+        {
           "id": "https://voxeu.org/article/can-china-s-outsized-real-estate-sector-amplify-delta-induced-slowdown",
           "author": "Kenneth Rogoff",
           "description": "The Chinese economy was able to sharply rebound from the Covid pandemic, helping to sustain a housing boom. The country faces a multitude of challenges over the medium term, however, on top of the much more virulent Delta variant. This column argues that the footprint of China’s real estate sector has become so large – with real estate production and property services accounting for 29% of the country’s GDP – that absorbing a significant housing slowdown would significantly impact overall growth, even absent a financial crisis.",
@@ -3828,24 +3837,6 @@
           "publishedOn": "2021-08-23T20:00:00.001Z",
           "wordCount": 1127,
           "title": "MBA Survey: \"Share of Mortgage Loans in Forbearance Slightly Decreases to 3.25%\""
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/U7I8faEVKNc/comments-on-july-existing-home-sales.html",
-          "author": null,
-          "description": "Earlier: NAR: Existing-Home Sales Increased to 5.99 million in July\nTwo key points:\n1) Existing home sales are somewhat above pre-pandemic levels rate of around 5.5 million SAAR (average six months prior to pandemic).  Seasonally adjusted (SA) sales for July 2021 were also the highest since 2006 - about 2% above July 2020. \n\nSome of the increase in sales over the previous year was probably related to  record low mortgage rates, strong second home buying, a strong stock market and favorable demographics.\n\n\nAlso, the delay in the 2020 buying season pushed the seasonally adjusted number to very high levels over the winter.   This means there are going to be some difficult comparisons in the second half of 2021!\n\n2) Inventory is very low, and was down 12.0% year-over-year (YoY) in July.  Also,…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/U7I8faEVKNc/comments-on-july-existing-home-sales.html",
-          "publishedOn": "2021-08-23T17:11:00.002Z",
-          "wordCount": 1187,
-          "title": "Comments on July Existing Home Sales"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fRSwvCRO38s/housing-inventory-august-23rd-update.html",
-          "author": null,
-          "description": "Tracking existing home inventory will be very important this year.\nClick on graph for larger image in graph gallery.\nThis inventory graph is courtesy of Altos Research.\n\nAs of August 20th, inventory was at 432 thousand (7 day average), compared to 594 thousand for the same week a year ago.  That is a decline of 27.3%.\n\n\nCompared to the same week in 2019, inventory is down 55%.\n\n\nA week ago, inventory was at 422 thousand, and was down 29.8% YoY.  \n\n\nSeasonally, inventory has bottomed.   Inventory was about 40.8% above the record low in early April.\n\n\nA couple of interesting points from 2019:   In 2019, inventory bottomed at 814 thousand in February (so inventory is still very low compared to normal levels).   And, in 2019, inventory peaked at 972 thousand in early August (an increase of about 19% from the low).   So inventory is less than half of what we'd normally expect, however inventory has increased (as a percentage) more than normal.\n\n\nKey question: Usually inventory peaks in the Summer, and then declines into the Fall.  Will inventory follow the normal seasonal pattern, or will inventory continue to increase over the coming months?  This will be important to watch for house prices and housing activity.  \n\nMike Simonsen discusses this data regularly on Youtube.  \n\n\nAltos Research has also seen a significant pickup in price decreases - back to the level of a year ago - but still well below a normal rate for August.",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/fRSwvCRO38s/housing-inventory-august-23rd-update.html",
-          "publishedOn": "2021-08-23T15:50:00.000Z",
-          "wordCount": 1051,
-          "title": "Housing Inventory August 23rd Update: Inventory Increased Week-over-week, Up 41% from Low in early April"
         }
       ]
     }
