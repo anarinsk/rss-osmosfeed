@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-22T21:03:12.020Z</updated>
+    <updated>2021-09-23T00:17:33.920Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[September 22nd COVID-19: 7-Day Average New Cases Off 20% from Recent High]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/7pNaILk7Kl4/september-22nd-covid-19-7-day-average.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/7pNaILk7Kl4/september-22nd-covid-19-7-day-average.html"/>
+        <updated>2021-09-22T22:14:00.003Z</updated>
+        <summary type="html"><![CDATA[The CDC is the source for all data.
+
+
+According to the CDC, on Vaccinations.  Total doses administered: 387,493,716, as of a week ago 382,294,795, or 0.74 million doses per day.
+
+
+
+COVID Metrics
+  
+ TodayWeek
+AgoGoal
+ Percent fully Vaccinated54.9%54.1%≥70.0%1
+ Fully Vaccinated (millions)182.4179.7≥2321
+  
+New Cases per Day3127,655147,804≤5,0002
+  
+Hospitalized382,87091,282≤3,0002
+  
+Deaths per Day3🚩1,5131,470≤502
+  
+1 Minimum to achieve "herd immunity" (estimated between 70% and 85%).
+2my goals to stop daily posts,
+37 day average for Cases, Currently Hospitalized, and Deaths
+🚩 Increasing 7 day average week-over-week for Cases, Hospitalized, and Deaths     
+✅ Goal met.
+  
+
+IMPORTANT: For "herd immunity" most experts believe we need 70% to 85% of the total population fully vaccinated (or already had COVID).  
+
+
+KUDOS to the residents of the 12 states that have achieved 60% of total population fully vaccinated: Vermont at 69.1%, Massachusetts, Maine, Connecticut, Rhode Island, Maryland. New Jersey, Washington, New York, New Mexico, New Hampshire and Oregon at 60.1%.
+
+The following 19 states and D.C. have between 50% and 59.9% fully vaccinated: Virginia at 59.8%, District of Columbia, Colorado, California, Minnesota, Hawaii, Delaware, Pennsylvania, Wisconsin, Florida, Nebraska, Iowa, Illinois, Michigan, South Dakota, Kentucky, Arizona, Kansas and Texas, and Nevada at 50.1%.
+
+Next up (total population, fully vaccinated according to CDC) are Utah at 49.9%, Ohio at 49.7%, Alaska at 49.5%, North Carolina 48.9% and Montana at 48.0%.
+
+Click on graph for larger image.
+This graph shows the daily (columns) and 7 day average (line) of positive tests reported.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black Knight: National Mortgage Delinquency Rate Decreased in August]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/9dW4p1YTGck/black-knight-national-mortgage.html</id>
@@ -10423,34 +10470,6 @@ This paper analyzes the arguments for a CBDC through the lens of monetary histor
         <summary type="html"><![CDATA[Linear panel models, and the "event-study plots" that often accompany them, are popular tools for learning about policy effects.  We discuss the construction of event-study plots and suggest ways to make them more informative. We examine the economic content of different possible identifying assumptions. We explore the performance of the corresponding estimators in simulations, highlighting that a given estimator can perform well or poorly depending on the economic environment. An accompanying Stata package, -xtevent-, facilitates adoption of our suggestions.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York State Real Estate in July: Sales Up 22% YoY, Inventory Down 46% YoY]]></title>
-        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/WPZRDuhIRw8/new-york-state-real-estate-in-july.html</id>
-        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/WPZRDuhIRw8/new-york-state-real-estate-in-july.html"/>
-        <updated>2021-08-24T12:05:00.001Z</updated>
-        <summary type="html"><![CDATA[Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.
-For New York State:
-Closed sales in July 2021 were 13,765, up 32.6% from 10,384 in July 2020.
-Active Listings in July 2021 were 44,025, down 19.5% from 54,700 in July 2020.
-Inventory in July was up 1.4% from last month, and up 13.5% from the record low in March 2021.]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Florida Real Estate in July: Sales Up 22% YoY, Inventory Down 46% YoY]]></title>
-        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/DDaLd1tdzUs/south-florida-real-estate-in-july-sales.html</id>
-        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/DDaLd1tdzUs/south-florida-real-estate-in-july-sales.html"/>
-        <updated>2021-08-24T11:54:00.001Z</updated>
-        <summary type="html"><![CDATA[Note: I'm tracking data for many local markets around the U.S. I think it is especially important to watch inventory this year.
-For the South Florida area:
-Closed sales (house and condos) in July 2021 were 11,792, up 21.8% from 9,685 in July 2020.
-Active Listings in July 2021 were 23,724, down 45.6% from 43,586 in July 2020.
-Inventory in July was down 7.4% from last month and was at a record low.]]></summary>
-        <author>
-            <name>Calculated Risk</name>
         </author>
     </entry>
 </feed>
