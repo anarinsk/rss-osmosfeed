@@ -2036,6 +2036,15 @@
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
         {
+          "id": "https://www.aeaweb.org/research/weber-kafkaesque-bureaucracy-legislation",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "Bureaucrats aren't always to blame when an efficient institution falls into dysfunction. Lawmakers who want to be seen as reformers overload them with hastily written Kafkaesque policies that make it more difficult for bureaucracies to perform their duties, according to a paper in the American Economic Review.",
+          "link": "https://www.aeaweb.org/research/weber-kafkaesque-bureaucracy-legislation",
+          "publishedOn": "2021-09-24T15:00:00.000Z",
+          "wordCount": 973,
+          "title": "Slipping into a Kafkaesque state"
+        },
+        {
           "id": "https://www.aeaweb.org/research/charts/childhood-insurance-medicaid-adult-health",
           "author": "Tyler Smith (research.highlights@aeapubs.org)",
           "description": "Medicaid coverage for children more than pays for itself in the long run, according to a paper in the American Economic Review. Kids who grow up with Medicaid become healthier adults who are more likely to work and less likely to rely less on welfare.",
@@ -2255,15 +2264,6 @@
           "publishedOn": "2021-08-27T05:01:40.000Z",
           "wordCount": 127,
           "title": "The Power of Referential Advice"
-        },
-        {
-          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715417?af=R",
-          "author": "Esteban Aucejo",
-          "description": "Journal of Political Economy, Ahead of Print.",
-          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/715417?af=R",
-          "publishedOn": "2021-08-26T02:33:23.000Z",
-          "wordCount": 127,
-          "title": "The Path to College Education: The Role of Math and Verbal Skills"
         }
       ]
     },
@@ -2272,6 +2272,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/FtQYG03_TCA/new-home-sales-increase-to-740000.html",
+          "author": null,
+          "description": "The Census Bureau reports New Home Sales in August were at a seasonally adjusted annual rate (SAAR) of 740 thousand.\nThe previous three months were revised up, combined. \nSales of new single‐family houses in August 2021 were at a seasonally adjusted annual rate of 740,000, according to estimates released jointly today by the U.S. Census Bureau and the Department of Housing and Urban Development.  This is 1.5 percent above the revised July rate of 729,000, but is 24.3 percent below the August 2020 estimate of 977,000.\nemphasis added\nClick on graph for larger image.\nThe first graph shows New Home Sales vs. recessions since 1963. The dashed line is the current sales rate.\nNew home sales are now declining year-over-year since sales soared following the first few months of the pandemic.\nThe second graph shows New Home Months of Supply.\nThe months of supply increased in August to 6.1 months from 6.0 months in July. \nThe all time record high was 12.1 months of supply in January 2009.  The all time record low was 3.5 months, most recently in October 2020.\nThis is above the normal range (about 4 to 6 months supply is normal).\n\"The seasonally‐adjusted estimate of new houses for sale at the end of August was 378,000.  This represents a supply of 6.1 months at the current sales rate.\"\nThe last graph shows sales NSA (monthly sales, not seasonally adjusted annual rate).\nIn August 2021 (red column), 62 thousand new homes were sold (NSA).  Last year, 81 thousand homes were sold in August.\nThe all time high for August was 110 thousand in 2005, and the all time low for August was 23 thousand in 2010.\nThis was above expectations of 714 thousand SAAR and sales in the three previous months were revised up, combined.  I'll have more later today.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/FtQYG03_TCA/new-home-sales-increase-to-740000.html",
+          "publishedOn": "2021-09-24T14:10:00.001Z",
+          "wordCount": 1121,
+          "title": "New Home Sales Increase to 740,000 Annual Rate in August"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/RXjhF0uWnGI/september-vehicle-sales-forecast.html",
           "author": null,
