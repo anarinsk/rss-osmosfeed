@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-24T06:06:30.809Z</updated>
+    <updated>2021-09-24T09:03:45.440Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -181,6 +181,16 @@ Note (released with a 2 week delay): There were an additional 4,896,125 receivin
 Weekly claims were higher than the consensus forecast.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Market Structure and Competition in Airline Markets]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/715848?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/715848?af=R"/>
+        <updated>2021-09-23T02:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Federico Ciliberto</name>
         </author>
     </entry>
     <entry>
@@ -9665,37 +9675,6 @@ PART 04 베이비부머 세대여, 사회의 조연, 인생의 주연...
 • At 8:30 AM, The initial weekly unemployment claims report will be released.  The consensus is for a increase slightly to 350 thousand from 348 thousand last week.
 • At 11:00 AM, the Kansas City Fed manufacturing survey for August.
 • Thursday through Saturday, Jackson Hole Economic Policy Symposium, Macroeconomic Policy in an Uneven Economy]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 25th COVID-19: 7-Day Average New Cases Highest Since January]]></title>
-        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/_rgBxTZZ0Jo/august-25th-covid-19-7-day-average-new.html</id>
-        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/_rgBxTZZ0Jo/august-25th-covid-19-7-day-average-new.html"/>
-        <updated>2021-08-25T20:16:00.005Z</updated>
-        <summary type="html"><![CDATA[On daily deaths: There were over 1,100 deaths reported today.  In early July, the 7-day average for daily COVID deaths was around 190.  Since then, the 7-day average of daily deaths has more than quadrupled, and since deaths lag hospitalizations, it seems likely average daily deaths will increase to over 1,000 per day.  Be careful.
-
-
-The 7-day average cases is the highest since January 30th.
-
-
-The 7-day average hospitalizations is the highest since February 5th.
-The 7-day average deaths is the highest since March 17th.
-
-The CDC is the source for all data.
-
-
-According to the CDC, on Vaccinations.  Total doses administered: 364,842,701, as of a week ago 358,599,835.  Average doses last week: 0.89 million per day. 
-
-
-
-COVID Metrics
-  
- TodayYesterdayWeek
-AgoGoal
- Percent fully
-Vaccinated51.7%…]]></summary>
         <author>
             <name>Calculated Risk</name>
         </author>

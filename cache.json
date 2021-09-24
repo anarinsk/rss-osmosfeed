@@ -2176,6 +2176,15 @@
       "siteUrl": "https://www.journals.uchicago.edu/loi/jpe?af=R",
       "articles": [
         {
+          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715848?af=R",
+          "author": "Federico Ciliberto",
+          "description": "Journal of Political Economy, Ahead of Print.",
+          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/715848?af=R",
+          "publishedOn": "2021-09-23T02:46:19.000Z",
+          "wordCount": 127,
+          "title": "Market Structure and Competition in Airline Markets"
+        },
+        {
           "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/716105?af=R",
           "author": "Marco Battaglini",
           "description": "Journal of Political Economy, Ahead of Print.",
@@ -3612,15 +3621,6 @@
           "publishedOn": "2021-08-25T22:20:00.001Z",
           "wordCount": 879,
           "title": "Thursday: GDP, Unemployment Claims"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/_rgBxTZZ0Jo/august-25th-covid-19-7-day-average-new.html",
-          "author": null,
-          "description": "On daily deaths: There were over 1,100 deaths reported today.  In early July, the 7-day average for daily COVID deaths was around 190.  Since then, the 7-day average of daily deaths has more than quadrupled, and since deaths lag hospitalizations, it seems likely average daily deaths will increase to over 1,000 per day.  Be careful.\n\n\nThe 7-day average cases is the highest since January 30th.\n\n\nThe 7-day average hospitalizations is the highest since February 5th.\nThe 7-day average deaths is the highest since March 17th.\n\nThe CDC is the source for all data.\n\n\nAccording to the CDC, on Vaccinations.  Total doses administered: 364,842,701, as of a week ago 358,599,835.  Average doses last week: 0.89 million per day. \n\n\n\nCOVID Metrics\n  \n TodayYesterdayWeek\nAgoGoal\n Percent fully\nVaccinated51.7%…",
-          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/_rgBxTZZ0Jo/august-25th-covid-19-7-day-average-new.html",
-          "publishedOn": "2021-08-25T20:16:00.005Z",
-          "wordCount": 1122,
-          "title": "August 25th COVID-19: 7-Day Average New Cases Highest Since January"
         }
       ]
     }
