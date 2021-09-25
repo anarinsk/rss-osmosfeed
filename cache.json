@@ -337,6 +337,15 @@
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=437&rssType=2&type=title",
       "articles": [
         {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=280048014",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "[세트] 머신러닝 알고리듬 트레이딩 - 전2권\n스테판 젠슨 지음, 홍창수 외 옮김 / 에이콘출판 / 2021년 09월 / ISBN:\n정가: 85,000원 / 판매가: 76,500원 / 마일리지: 4,250원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n머신러닝과 딥러닝 기술을 이용해 알고리듬 트레이딩의 아이디어에서 실행까지 전반적인 프로세스를 서술하는 좋은 안내서다. 2판에서는 전략 백테스팅, 오토인코더, 적대적 생성 신경망(GAN), 이미지 형식으로 변환된 시계열에 합성곱 신경망(CNN) 적용과 같은 최신 내용을 추가했다. 또한 금융 시장 분석으로 100개 이상의 알파 팩터를 설명하고 있으며, 부록으로 기술적 분석에 관한 모든 것을 수록했다. 세계적으로 저명한 AI 콘퍼런스인 NeurIPS에서 발표된 최신 금융 딥러닝 연구를 소개하고 구현한다.\r\n\r\n실전 알고리즘 트레이딩을 위한 기초 환경, 지식과 함께 백테스트 및 리스크 관리 기법과 노하우, 실전에서의 유의 사항을 전달한다. 파이썬을 기반으로 간단한 트레이딩 시그널부터 시작해서 경제 이벤트 기반 및 변동성 조정의 고급 기법을 활용하는 방법을 보여주고, 그 기법을 머신러닝 기법과 어떻게 결합하는지까지 알려준다.\n\n퀀트 투자를 위한 머신러닝.딥러닝 알고리듬 트레이딩 2/e\r\n실전 알고리즘 트레이딩 배우기\n\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 데이터베이스 프로그래밍 > 데이터베이스 구축\n국내도서 > 경제경영 > 재테크/투자 > 재테크/투자 일반\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=280048014",
+          "publishedOn": "2021-09-22T23:54:00.000Z",
+          "wordCount": 18,
+          "title": "[세트] 머신러닝 알고리듬 트레이딩 - 전2권/스테판 젠슨 지음, 홍창수 외 옮김/에이콘출판"
+        },
+        {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=279842504",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
           "description": "Svelte로 맛보는 웹 애플리케이션 개발\n이효범 지음 / 비제이퍼블릭 / 2021년 09월 / ISBN:9791165920944\n정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원\n이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백\n\n\n\n\n웹 서비스가 거대해질수록 성능에 대한 고민이 깊어지는데, Svelte는 빠른 성능을 가지고 있어 성능에 대한 고민을 줄일 수 있게 하는 프레임워크다. 또한 Svelte는 개발자들에게 코드를 조금만 작성해도 되도록 만들어준다. 코드량이 많으면 코드 전체의 구성이 장황해질 수 있는데, Svelte는 간결한 코드를 작성할 수 있게 해준다. 이 책에서는 Svelte를 배우고 익히기 위해 필요한 모든 가이드를 제공하기 위해 노력했다. 공식 문서에서 제공하는 모든 문법들과 API들을 다루고, 공부한 Svelte 문법으로 스도쿠 게임이라는 결과물을 만들어내어 Svelte를 완벽하게 익힐 수 있도록 도왔다.\n\nPart I. Svelte 문법 공부하기\r\nChapter 1 개발 환경 설정 및 프로젝트 생성\r\n1-1 개발 환경 설정\r\n1-2 프로젝트 생성\r\n1-3 프로젝트 구조\r\n1-4 Svelte 개발자 도구 사용\r\n\r\nChapter 2 Svelte 소개\r\n2-1 Svelte 특징\r\n2-2 Svelte 사용 시 유의사항\r\n\r\nChapter 3 기초 문법\r\n3-1 데이터 정의\r\n3-2 속성 정의\r\n3-3 컴포넌트 정의\r\n3-4 스타일 정의\r\n3-5 HTML 문자열 표현\r\n\r\nChapter 4 반응형 문법\r\n4-1 데이터 할당\r\n4-2 데이터 할당 시 주의사항\r\n4-3 $ 문법\r\n4-4 $ 문법 사용 시 주의사항\r\n\r\nChapter 5 Props\r\n5-1 Props란\r\n5-2 Props 정의\r\n5-3 기본값 설정\r\n5-4 전개 연산자 사용\r\n5-5 $$props와 $$restProps\r\n5-6 --style-props\r\n\r\nChapter 6 논리 블록\r\n6-1 조건문 블록\r\n6-2 반복문 블록\r\n6-3 비동기 블록\r\n6-4 Key 블록\r\n\r\nChapter 7 이벤트 처리\r\n7-1 이벤트 수식어\r\n7-2 컴포넌트 이벤트\r\n7-3 이벤트 포워딩\r\n\r\nChapter 8 데이터 바인딩\r\n8-1 데이터 바인딩이란\r\n8-2 Input 태그\r\n8-3 Textarea 태그\r\n8-4 Select 태그\r\n8-5 contenteditable 속성\r\n8-6 Each 블록 바인딩\r\n8-7 Media 태그\r\n8-8 Dimension 바인딩\r\n8-9 This 바인딩\r\n8-10 컴포넌트 Props 바인딩\r\n\r\nChapter 9 라이프 사이클\r\n9-1 라이프 사이클(Lifecycle)이란\r\n9-2 onMount\r\n9-3 onDestroy\r\n9-4 beforeUpdate\r\n9-5 afterUpdate\r\n9-6 라이프 사이클 모듈화\r\n9-7 tick\r\n\r\nChapter 10 스토어\r\n10-1 스토어란\r\n10-2 Writable 스토어\r\n10-3 Readable 스토어\r\n10-4 Derived 스토어\r\n10-5 Custom 스토어\r\n10-6 get 함수\r\n\r\nChapter 11 모션\r\n11-1 모션이란\r\n11-2 Tweened\r\n11-3 Spring\r\n\r\nChapter 12 트랜지션\r\n12-1 트랜지션이란\r\n12-2 트랜지션 종류\r\n12-3 사용자 정의 트랜지션\r\n12-4 트랜지션 이벤트\r\n12-5 로컬 수식어\r\n\r\nChapter 13 애니메이션\r\n13-1 애니메이션 디렉티브\r\n13-2 사용자 정의 애니메이션\r\n13-3 애니메이션 사용 시 주의사항\r\n\r\nChapter 14 액션\r\n14-1 액션이란...\n\n국내도서 > 컴퓨터/모바일 > 웹디자인/홈페이지 > HTML/JavaScript\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타",
@@ -616,6 +625,15 @@
           "publishedOn": "2022-09-23T00:00:00.000Z",
           "wordCount": 2459,
           "title": "Patent buyouts can help win the race against coronavirus mutations"
+        },
+        {
+          "id": "https://voxeu.org/article/evidence-environmental-risk-pricing-banks",
+          "author": "Hans Degryse, Roman Goncharenko, Carola Theunisz, Tamas Vadasz",
+          "description": "The transition to a carbon-neutral economy requires firms and banks to have environmental consciousness, raising the question of how bank financing can contribute to global climate objectives. This column examines whether and how the environmental consciousness (or ‘greenness’) of firms and banks is reflected in the pricing of bank credit. The evidence suggests that firms are indeed rewarded for being green: green firms can get cheaper loans – although only when borrowing from green banks and only since the 2015 ratification of the Paris Agreement.",
+          "link": "https://voxeu.org/article/evidence-environmental-risk-pricing-banks",
+          "publishedOn": "2021-09-25T00:00:00.000Z",
+          "wordCount": 1906,
+          "title": "Evidence on environmental risk-pricing by banks"
         },
         {
           "id": "https://voxeu.org/vox-talks/pitching-passion",
