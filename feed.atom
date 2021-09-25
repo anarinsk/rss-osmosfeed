@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-25T18:04:27.193Z</updated>
+    <updated>2021-09-25T21:03:16.845Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -14,6 +14,24 @@
         <summary type="html"><![CDATA[To win the critical race between vaccines and mutations, the worldwide vaccination Covid-19 campaign must mobilise economies of scale. The most effective way to do so, this column argues, is to convert the existing Covid-19 Vaccines Global Access initiative into a more generously endowed global fund. Instead of merely obtaining the surplus vaccines of rich countries, and relying on unpredictable donations, the initiative should acquire the most promising vaccine patents and offer free production licenses to every qualified vaccine and generic drug manufacturer in the global South.]]></summary>
         <author>
             <name>Michael Stolpe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter Articles this Week]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/R8af1U3UYjI/newsletter-articles-this-week_09864336.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/R8af1U3UYjI/newsletter-articles-this-week_09864336.html"/>
+        <updated>2021-09-25T18:11:00.001Z</updated>
+        <summary type="html"><![CDATA[At the Calculated Risk Newsletter this week: 
+• Comments on August New Home Sales; Record 105 thousand homes have not been started
+• Existing Homes: Some Regional Differences Appear; Final August Update for Local Housing Markets
+• Existing-Home Sales Decreased to 5.88 million in August; Sales will be down year-over-year for the remainder of 2021
+• Housing Starts increased to 1.615 Million Annual Rate in August; Most Multi-Family Units Under Construction Since 1974
+This will usually be published several times a week, and will provide more in-depth analysis of the housing market.
+
+The blog will continue as always!
+You can subscribe at https://calculatedrisk.substack.com/ (Currently all content is available for free, but please subscribe).]]></summary>
+        <author>
+            <name>Calculated Risk</name>
         </author>
     </entry>
     <entry>
@@ -9152,172 +9170,6 @@ The dashed red lines are the quarterly levels for real PCE.
 Personal income was above expectations, and personal spending was at expectations,  and the increase in PCE was at expectations.]]></summary>
         <author>
             <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머신러닝 파워드 애플리케이션/에마뉘엘 아메장 지음, 박해선 옮김/한빛미디어]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=278613453</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=278613453"/>
-        <updated>2021-08-27T06:43:00.000Z</updated>
-        <summary type="html"><![CDATA[머신러닝 파워드 애플리케이션
-에마뉘엘 아메장 지음, 박해선 옮김 / 한빛미디어 / 2021년 09월 / ISBN:9791162244692
-정가: 27,000원 / 판매가: 24,300원 / 마일리지: 1,350원
-이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백
-
-
-
-
-머신러닝 기반 애플리케이션을 설계, 구축, 배포하는 과정에 필요한 모든 기술을 설명하는 책이다. 초기 아이디어가 제품으로 개발되기까지의 과정을 머신러닝 에디터 예제 프로젝트를 통해 순서대로 배운다. 데이터 과학자, 소프트웨어 엔지니어, 제품 관리자가 머신러닝 애플리케이션을 단계별로 구현하는 데 필요한 도구와 실무에서 맞닥뜨리게 되는 도전 과제와 모범 사례를 살펴본다.
-
-[PART I 올바른 머신러닝 접근 방법 모색]
-
-CHAPTER 1 제품의 목표를 머신러닝 문제로 표현하기
-1.1 어떤 작업이 가능한지 예상하기
-1.2 머신러닝 에디터 설계
-1.3 모니카 로가티: 머신러닝 프로젝트의 우선순위 지정하기
-1.4 마치며
-
-CHAPTER 2 계획 수립하기
-2.1 성공 측정하기
-2.2 작업 범위와 문제점 예상하기
-2.3 머신러닝 에디터 계획하기
-2.4 규칙적인 향상 방법: 간단하게 시작하기
-2.5 마치며
-
-[PART II 초기 프로토타입 제작]
-
-CHAPTER 3 엔드투엔드 파이프라인 만들기
-3.1 가장 간단한 프로토타입
-3.2 머신러닝 에디터 프로토타입
-3.3 워크플로 테스트하기
-3.4 머신러닝 에디터 프로토타입 평가
-4.5 마치며
-
-CHAPTER 4 초기 데이터셋 준비하기
-4.1 반복적인 데이터셋
-4.2 첫 번째 데이터셋 탐색하기
-4.3 레이블링으로 데이터 트렌드 찾기
-4.4 데이터를 활용한 특성 생성과 모델링
-4.5 로버트 먼로: 데이터를 찾고, 레이블링하고, 활용하는 방법
-4.6 마치며
-
-[PART III 모델 반복]
-
-CHAPTER 5 모델 훈련과 평가
-5.1 가장 간단하고 적절한 모델
-5.2 모델 평가: 정확도를 넘어서
-5.3 특성 중요도 평가
-5.4 마치며
-
-CHAPTER 6 머신러닝 문제 디버깅
-6.1 소프트웨어 모범 사례
-6.2 데이터 흐름 디버깅: 시각화와 테스트
-6.3 훈련 디버깅: 모델 학습하기
-6.4 일반화 디버깅: 유용한 모델 만들기
-6.5 마치며 
-
-CHAPTER 7 분류기를 사용한 글쓰기 추천
-7.1 모델로 추천 만들기
-7.2 모델 비교하기
-7.3 추천 생성하기
-7.4 마치며
-
-[PART IV 배포와 모니터링]
-
-CHAPTER 8 모델 배포 시 고려 사항
-8.1 데이터 고려 사항
-8.2 모델링 고려 사항
-8.3 크리스 할랜드: 배포 실험
-8.4 마치며
-
-CHAPTER 9 배포 방식 선택
-9.1 서버 측 배포
-9.2 클라이언트 측 배포
-9.3 연합 학습: 하이브리드 방법
-9.4 마치며
-
-CHAPTER 10 모델 안전장치 만들기
-10.1 실패를 대비하는 설계
-10.2 성능 설계
-10.3 피드백 요청
-10.4 크리스 무디: 데이터 과학자에게 모델 배포 권한 부여
-10...
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융계산/김준기 지음/북스힐]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=278609553</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=278609553"/>
-        <updated>2021-08-27T06:06:00.000Z</updated>
-        <summary type="html"><![CDATA[금융계산
-김준기 지음 / 북스힐 / 2021년 08월 / ISBN:9791159713651
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 105원
-이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백
-
-
-
-
-제1장 합의기호, ∑, 등비급수, 지수함수 활용
-1.1 합의기호, 등비급수
-1.2 변화율, 지수함수
-1.3 미분의 이해
-1.4 결정적인 모델(deterministic model)과 이자계산
-1.5 할인
-1.6 수열의 합의 금융계산적 표현
-1.7 등비수열의 합과 연금, 상환
-1.8 입금과 출금
-1.9 적분과 연속 이자계산(continuous compounding)
-1.10 연습문제
-1.11 연습문제 해설
-
-제2장 결정적 모델(Deterministic Model) 활용
-2.1 채권(bond)
-2.2 Macaulay Duration
-2.3 Dollar-Weighted Investment Return
-2.4 주식가격의 Dividend Discount Model
-2.5 Amortization
-2.6 연습문제
-2.7 연습문제 해설
-
-제3장 확률과 생존모델
-3.1 확률개념과 생존모델
-3,2 Amount Function A=A(t), Life Function ℓt=ℓ(t)
-3.3 Foce of Mortality
-3.4 Mareham's Law of Mortality
-3.5 SageMath 활용, 생명표 만들기
-3.6 연습문제
-3.7 연습문제 해설
-
-제4장 확률적 모델, 확률변수
-4.1 보험과 관련된 확률변수 표현
-4.2 확률변수 평균값 활용
-4.3 SageMath 활용, 연금표 만들기
-4.4 확률변수의 평균값과 보험금, 보험료
-4.5 보험에서 중요한 확률변수
-4.6 연습문제
-4.7 연습문제 해설
-
-제5장 확률변수의 평균값 활용
-5.1 확률변수의 평균값과 보험금, 보험료
-5.2 Reserve () 책임준비금
-5.3 결합 확률분포(Joint Probability Distribution)활용
-5.4 생존함수 ()
-5.5 연습문제
-5.6 연습문제 해설
-참고문헌
-찾아보기
-
-
-국내도서 > 대학교재/전문서적 > 경상계열 > 재무/금융
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
