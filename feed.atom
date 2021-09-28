@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-28T18:04:51.949Z</updated>
+    <updated>2021-09-28T21:02:40.708Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A few comments on the Seasonal Pattern for House Prices]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/-0kGjdEJAfA/a-few-comments-on-seasonal-pattern-for.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/-0kGjdEJAfA/a-few-comments-on-seasonal-pattern-for.html"/>
+        <updated>2021-09-28T20:18:00.001Z</updated>
+        <summary type="html"><![CDATA[A few key points:
+1) There is a clear seasonal pattern for house prices.
+2) The surge in distressed sales during the housing bust distorted the seasonal pattern.
+3) Even though distressed sales are down significantly, the seasonal factor is based on several years of data - and the factor is now closer to normal (second graph below).
+4) Still the seasonal index is probably a better indicator of actual price movements than the Not Seasonally Adjusted (NSA) index.
+For in depth description of these issues, see Jed Kolko's article from 2014 (currently Chief Economist at Indeed) "Let’s Improve, Not Ignore, Seasonal Adjustment of Housing Data"
+Note: I was one of several people to question the change in the seasonal factor (here is a post in 2009) - and this led to S&P Case-Shiller questioning the seasonal factor too (from April 2010).  I still use the seasonal factor (I think it is better than using the NSA data).
+ Click on graph for larger image.
+This graph shows the month-to-month change in the NSA Case-Shiller National index since 1987 (through July 2021). The seasonal pattern was smaller back in the '90s and early '00s, and increased once the bubble burst. 
+The seasonal swings declined following the bubble, however the recent price surge changed the month-over-month pattern.
+The second graph shows the seasonal factors for the Case-Shiller National index since 1987.  The factors started to change near the peak of the bubble, and really increased during the bust.   
+The swings in the seasonal factors have decreased, and the seasonal factors has been moving back towards more normal levels.
+
+Note that the recent price surge hasn't distorted the seasonal factors.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comments on House Prices]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/Fc_FeEabc6s/comments-on-house-prices.html</id>
