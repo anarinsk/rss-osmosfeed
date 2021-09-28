@@ -1049,7 +1049,170 @@
       "title": "Wiley: Econometrica: Table of Contents",
       "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14680262?af=R",
-      "articles": []
+      "articles": [
+        {
+          "id": "10.3982/ECTA895FORTH",
+          "author": null,
+          "description": "Econometrica, Volume 89, Issue 5, Page 2557-2557, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA895FORTH?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Forthcoming Papers"
+        },
+        {
+          "id": "10.3982/ECTA895BM",
+          "author": null,
+          "description": "Econometrica, Volume 89, Issue 5, Page iii-v, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA895BM?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Backmatter of Econometrica Vol. 89 Iss. 5"
+        },
+        {
+          "id": "10.3982/ECTA895FM",
+          "author": null,
+          "description": "Econometrica, Volume 89, Issue 5, Page i-ii, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA895FM?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Frontmatter of Econometrica Vol. 89 Iss. 5"
+        },
+        {
+          "id": "10.3982/ECTA16729",
+          "author": "Alexander M. Jakobsen",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2081-2116, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16729?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "An Axiomatic Model of Persuasion"
+        },
+        {
+          "id": "10.3982/ECTA18155",
+          "author": "Isaiah Andrews, \nJesse M. Shapiro",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2117-2142, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18155?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "A Model of Scientific Communication"
+        },
+        {
+          "id": "10.3982/ECTA14603",
+          "author": "Fatih Guvenen, \nFatih Karahan, \nSerdar Ozkan, \nJae Song",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2303-2339, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA14603?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "What Do Data on Millions of U.S. Workers Reveal About Lifecycle Earnings Dynamics?"
+        },
+        {
+          "id": "10.3982/ECTA15966",
+          "author": "Job Boerma, \nLoukas Karabarbounis",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2517-2556, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA15966?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Inferring Inequality With Home Production"
+        },
+        {
+          "id": "10.3982/ECTA15404",
+          "author": "Eben Lazarus, \nDaniel J. Lewis, \nJames H. Stock",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2497-2516, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA15404?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "The Size‐Power Tradeoff in HAR Inference"
+        },
+        {
+          "id": "10.3982/ECTA14935",
+          "author": "Alp E. Atakan, \nMehmet Ekmekci",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2049-2079, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA14935?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Market Selection and the Information Content of Prices"
+        },
+        {
+          "id": "10.3982/ECTA17434",
+          "author": "Adrien Auclert, \nBence Bardóczy, \nMatthew Rognlie, \nLudwig Straub",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2375-2408, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA17434?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Using the Sequence‐Space Jacobian to Solve and Estimate Heterogeneous‐Agent Models"
+        },
+        {
+          "id": "10.3982/ECTA17764",
+          "author": "Zheng Fang, \nJuwon Seo",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2439-2458, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA17764?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "A Projection Framework for Testing Shape Restrictions That Form Convex Cones"
+        },
+        {
+          "id": "10.3982/ECTA17448",
+          "author": "Levon Barseghyan, \nMaura Coughlin, \nFrancesca Molinari, \nJoshua C. Teitelbaum",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2015-2048, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA17448?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Heterogeneous Choice Sets and Preferences"
+        },
+        {
+          "id": "10.3982/ECTA16699",
+          "author": "Adrien Bilal, \nEsteban Rossi‐Hansberg",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2459-2495, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16699?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Location as an Asset"
+        },
+        {
+          "id": "10.3982/ECTA16083",
+          "author": "Raúl Sánchez de la Sierra",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2341-2373, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16083?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Whither Formal Contracts?"
+        },
+        {
+          "id": "10.3982/ECTA16190",
+          "author": "Faruk Gul, \nPaulo Natenzon, \nWolfgang Pesendorfer",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2225-2259, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16190?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Random Evolving Lotteries and Intrinsic Preference for Information"
+        },
+        {
+          "id": "10.3982/ECTA15020",
+          "author": "Jess Benhabib, \nJesse Perla, \nChristopher Tonetti",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2261-2301, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA15020?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Reconciling Models of Diffusion and Innovation: A Theory of the Productivity Distribution and Technology Frontier"
+        },
+        {
+          "id": "10.3982/ECTA15383",
+          "author": "Konrad Menzel",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2143-2188, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA15383?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "Bootstrap With Cluster‐Dependence in Two or More Dimensions"
+        },
+        {
+          "id": "10.3982/ECTA16581",
+          "author": "Vivek Bhattacharya",
+          "description": "Econometrica, Volume 89, Issue 5, Page 2189-2224, September 2021.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16581?af=R",
+          "publishedOn": "2021-09-28T06:25:42.000Z",
+          "wordCount": null,
+          "title": "An Empirical Model of R&D Procurement Contests: An Analysis of the DOD SBIR Program"
+        }
+      ]
     },
     {
       "title": "The Quarterly Journal of Economics Current Issue",

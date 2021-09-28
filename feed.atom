@@ -2,10 +2,210 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-28T09:03:44.172Z</updated>
+    <updated>2021-09-28T12:07:39.623Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Forthcoming Papers]]></title>
+        <id>10.3982/ECTA895FORTH</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA895FORTH?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2557-2557, September 2021.]]></summary>
+        <author>
+            <name>Wiley: Econometrica: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backmatter of Econometrica Vol. 89 Iss. 5]]></title>
+        <id>10.3982/ECTA895BM</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA895BM?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page iii-v, September 2021.]]></summary>
+        <author>
+            <name>Wiley: Econometrica: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontmatter of Econometrica Vol. 89 Iss. 5]]></title>
+        <id>10.3982/ECTA895FM</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA895FM?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page i-ii, September 2021.]]></summary>
+        <author>
+            <name>Wiley: Econometrica: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Axiomatic Model of Persuasion]]></title>
+        <id>10.3982/ECTA16729</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16729?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2081-2116, September 2021.]]></summary>
+        <author>
+            <name>Alexander M. Jakobsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Model of Scientific Communication]]></title>
+        <id>10.3982/ECTA18155</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA18155?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2117-2142, September 2021.]]></summary>
+        <author>
+            <name>Isaiah Andrews, 
+Jesse M. Shapiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Do Data on Millions of U.S. Workers Reveal About Lifecycle Earnings Dynamics?]]></title>
+        <id>10.3982/ECTA14603</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA14603?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2303-2339, September 2021.]]></summary>
+        <author>
+            <name>Fatih Guvenen, 
+Fatih Karahan, 
+Serdar Ozkan, 
+Jae Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inferring Inequality With Home Production]]></title>
+        <id>10.3982/ECTA15966</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA15966?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2517-2556, September 2021.]]></summary>
+        <author>
+            <name>Job Boerma, 
+Loukas Karabarbounis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Size‐Power Tradeoff in HAR Inference]]></title>
+        <id>10.3982/ECTA15404</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA15404?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2497-2516, September 2021.]]></summary>
+        <author>
+            <name>Eben Lazarus, 
+Daniel J. Lewis, 
+James H. Stock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Market Selection and the Information Content of Prices]]></title>
+        <id>10.3982/ECTA14935</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA14935?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2049-2079, September 2021.]]></summary>
+        <author>
+            <name>Alp E. Atakan, 
+Mehmet Ekmekci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the Sequence‐Space Jacobian to Solve and Estimate Heterogeneous‐Agent Models]]></title>
+        <id>10.3982/ECTA17434</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA17434?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2375-2408, September 2021.]]></summary>
+        <author>
+            <name>Adrien Auclert, 
+Bence Bardóczy, 
+Matthew Rognlie, 
+Ludwig Straub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Projection Framework for Testing Shape Restrictions That Form Convex Cones]]></title>
+        <id>10.3982/ECTA17764</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA17764?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2439-2458, September 2021.]]></summary>
+        <author>
+            <name>Zheng Fang, 
+Juwon Seo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heterogeneous Choice Sets and Preferences]]></title>
+        <id>10.3982/ECTA17448</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA17448?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2015-2048, September 2021.]]></summary>
+        <author>
+            <name>Levon Barseghyan, 
+Maura Coughlin, 
+Francesca Molinari, 
+Joshua C. Teitelbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Location as an Asset]]></title>
+        <id>10.3982/ECTA16699</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16699?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2459-2495, September 2021.]]></summary>
+        <author>
+            <name>Adrien Bilal, 
+Esteban Rossi‐Hansberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whither Formal Contracts?]]></title>
+        <id>10.3982/ECTA16083</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16083?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2341-2373, September 2021.]]></summary>
+        <author>
+            <name>Raúl Sánchez de la Sierra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random Evolving Lotteries and Intrinsic Preference for Information]]></title>
+        <id>10.3982/ECTA16190</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16190?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2225-2259, September 2021.]]></summary>
+        <author>
+            <name>Faruk Gul, 
+Paulo Natenzon, 
+Wolfgang Pesendorfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reconciling Models of Diffusion and Innovation: A Theory of the Productivity Distribution and Technology Frontier]]></title>
+        <id>10.3982/ECTA15020</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA15020?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2261-2301, September 2021.]]></summary>
+        <author>
+            <name>Jess Benhabib, 
+Jesse Perla, 
+Christopher Tonetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bootstrap With Cluster‐Dependence in Two or More Dimensions]]></title>
+        <id>10.3982/ECTA15383</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA15383?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2143-2188, September 2021.]]></summary>
+        <author>
+            <name>Konrad Menzel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Empirical Model of R&D Procurement Contests: An Analysis of the DOD SBIR Program]]></title>
+        <id>10.3982/ECTA16581</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA16581?af=R"/>
+        <updated>2021-09-28T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2189-2224, September 2021.]]></summary>
+        <author>
+            <name>Vivek Bhattacharya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Banking-Crisis Interventions, 1257-2019 -- by Andrew Metrick, Paul Schmelzing]]></title>
         <id>https://www.nber.org/papers/w29281#fromrss</id>
