@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-28T12:07:39.623Z</updated>
+    <updated>2021-09-28T15:04:02.128Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Case-Shiller: National House Price Index increased 19.7% year-over-year in July]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/LRBdEfS_xnw/case-shiller-national-house-price-index.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/LRBdEfS_xnw/case-shiller-national-house-price-index.html"/>
+        <updated>2021-09-28T13:12:00.003Z</updated>
+        <summary type="html"><![CDATA[S&P/Case-Shiller released the monthly Home Price Indices for July ("July" is a 3 month average of May, June and July prices).
+This release includes prices for 20 individual cities, two composite indices (for 10 cities and 20 cities) and the monthly National index.
+From S&P: S&P Corelogic Case-Shiller Index Reports Record High 19.7% Annual Home Price Gain In July
+The S&P CoreLogic Case-Shiller U.S. National Home Price NSA Index, covering all nine U.S. census  divisions, reported a 19.7% annual gain in July, up from 18.7% in the previous month. The 10-City  Composite annual increase came in at 19.1%, up from 18.5% in the previous month. The 20-City  Composite posted a 19.9% year-over-year gain, up from 19.1% in the previous month.
+  
+Phoenix, San Diego, and Seattle reported the highest year-…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forthcoming Papers]]></title>
         <id>10.3982/ECTA895FORTH</id>
