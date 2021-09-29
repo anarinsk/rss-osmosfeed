@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-29T03:04:21.255Z</updated>
+    <updated>2021-09-29T06:07:03.453Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -64,6 +64,26 @@ This graph shows the daily (columns) and 7 day average (line) of positive tests 
 • At 11:45 AM, Discussion, Fed Chair Powell, Policy Panel Discussion, At the European Central Bank Forum on Central Banking]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The demise of Doing Business: Goodhart’s Law in action]]></title>
+        <id>https://voxeu.org/article/demise-doing-business-goodhart-s-law-action</id>
+        <link href="https://voxeu.org/article/demise-doing-business-goodhart-s-law-action"/>
+        <updated>2021-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The World Bank permanently suspended its Doing Business project earlier this month. This column argues that the suspension puts an end to a very useful data-collection exercise that went astray by focusing on rankings and political publicity. Beyond specific conflicts of interest within the World Bank, the demise of Doing Business reaffirms Goodhart’s Law that when an index becomes a policy target, it ceases to be a good measure.]]></summary>
+        <author>
+            <name>Thorsten Beck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effectiveness of ECB euro liquidity lines]]></title>
+        <id>https://voxeu.org/article/effectiveness-ecb-euro-liquidity-lines</id>
+        <link href="https://voxeu.org/article/effectiveness-ecb-euro-liquidity-lines"/>
+        <updated>2021-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Swap and repo lines have become an integral part of the ECB’s toolkit. During the Global Crisis and the Covid-19 pandemic, the ECB announced more than 28 agreements to provide euro liquidity to foreign exchange markets, mainly within Europe. This column shows that the mere announcement instilled confidence in foreign exchange markets, reducing the premium paid by recipient country agents to borrow euros. Moreover, these lines not only prevent negative spillbacks to the euro area, but also push domestic bank equity prices in euro area countries highly exposed via banking linkages to targeted countries.]]></summary>
+        <author>
+            <name>Silvia Albrizio, Ivan  Kataryniuk, Luis Molina Sánchez, Jan Schaefer</name>
         </author>
     </entry>
     <entry>
