@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-09-30T18:05:13.234Z</updated>
+    <updated>2021-09-30T21:03:26.629Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fannie Mae: Mortgage Serious Delinquency Rate Decreased in August]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/rz_wYVkQErE/fannie-mae-mortgage-serious-delinquency.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/rz_wYVkQErE/fannie-mae-mortgage-serious-delinquency.html"/>
+        <updated>2021-09-30T20:34:00.001Z</updated>
+        <summary type="html"><![CDATA[Fannie Mae reported that the Single-Family Serious Delinquency decreased to 1.79% in August, from 1.94% in July. The serious delinquency rate is down from 3.32% in August 2020.
+These are mortgage loans that are "three monthly payments or more past due or in foreclosure".
+The Fannie Mae serious delinquency rate peaked in February 2010 at 5.59% following the housing bubble, and peaked at 3.32% in August 2020 during the pandemic.
+Click on graph for larger image
+By vintage, for loans made in 2004 or earlier (1% of portfolio), 4.47% are seriously delinquent (down from 4.82% in July).  For loans made in 2005 through 2008 (2% of portfolio), 7.57% are seriously delinquent (down from 8.26%),  For recent loans, originated in 2009 through 2021 (97% of portfolio), 1.46% are seriously delinquent (down from 1.57%). So Fannie is still working through a few poor performing loans from the bubble years.
+Mortgages in forbearance are counted as delinquent in this monthly report, but they will not be reported to the credit bureaus.
+This is very different from the increase in delinquencies following the housing bubble.   Lending standards have been fairly solid over the last decade, and most of these homeowners have equity in their homes - and they will be able to restructure their loans once they are employed.
+Freddie Mac reported earlier.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q3 2021 Update: Unofficial Problem Bank list Decreased to 59 Institutions]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/_D-amtDxymI/q3-2021-update-unofficial-problem-bank.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/_D-amtDxymI/q3-2021-update-unofficial-problem-bank.html"/>
+        <updated>2021-09-30T19:29:00.002Z</updated>
+        <summary type="html"><![CDATA[The FDIC's official problem bank list is comprised of banks with a CAMELS rating of 4 or 5, and the list is not made public (just the number of banks and assets every quarter). Note: Bank CAMELS ratings are also not made public.
+CAMELS is the FDIC rating system, and stands for Capital adequacy, Asset quality, Management, Earnings, Liquidity and Sensitivity to market risk. The scale is from 1 to 5, with 1 being the strongest.
+As a substitute for the CAMELS ratings, surferdude808 is using publicly announced formal enforcement actions, and also media reports and company announcements that suggest to us an enforcement action is likely, to compile a list of possible problem banks in the public interest.
+DISCLAIMER: This is an unofficial list, the information is from public sources only, and whi…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las Vegas Visitor Authority for August: Convention Attendance N/A, Visitor Traffic Down 16% Compared to 2019]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/EReGJvYMDTk/las-vegas-visitor-authority-for-august.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/EReGJvYMDTk/las-vegas-visitor-authority-for-august.html"/>
+        <updated>2021-09-30T18:10:00.001Z</updated>
+        <summary type="html"><![CDATA[From the Las Vegas Visitor Authority: August 2021 Las Vegas Visitor Statistics
+With the Delta variant of the COVID virus spiking during the month, August visitation receded from the pandemic‐era peak in July, coming in at just under 3.0M visitors, down ‐ 9.2% MoM and down ‐16.2% from August 2019.
+Hotel occupancy reached 72.8% for the month (down 6.6 pts MoM, down ‐14.9 pts vs. August 2019), as Weekend occupancy remained fairly strong at 87.1% (down ‐1.0 pts MoM) while Midweek occupancy dipped to 67.8% (down ‐6.8 pts MoM).
+Although down from July, August ADR was the second highest in the pandemic era, exceeding $140, down ‐7.8% MoM but up 16.0% vs. August 2019. RevPAR came in at $102, ‐15.4% MoM and down ‐3.7% vs. August 2019.
+ Click on graph for larger image. 
+Thist graph shows visitor traffic for 2019 (blue), 2020 (orange) and 2021 (red).
+Visitor traffic was down 16.2% compared to the same month in 2019.
+  
+There had been no convention traffic since March 2020, but there have been a few conventions since June 2021 (data not available yet).
+
+
+I'll add a graph of convention traffic once convention data is available.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hotels: Occupancy Rate Down 11.0% Compared to Same Week in 2019]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/N5CG9kGZNZI/hotels-occupancy-rate-down-110-compared.html</id>
@@ -5167,76 +5218,6 @@ Chapter 08 인공지능과 보안
         <summary type="html"><![CDATA[Unlike previous downturns, employment losses during the COVID-19 recession were larger for women than for men, says Stefania Albanesi, whose paper appeared in the Journal of Economic Perspectives. We spoke with her about why the pandemic has posed unique challenges for mothers.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아두이노 코딩/박신성 지음/광문각]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=278936294</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=278936294"/>
-        <updated>2021-09-01T07:59:00.000Z</updated>
-        <summary type="html"><![CDATA[아두이노 코딩
-박신성 지음 / 광문각 / 2021년 09월 / ISBN:9788970935508
-정가: 17,000원 / 판매가: 17,000원 / 마일리지: 83원
-이벤트: 대학교재.외국어.IT.수험서 - 키링 시계/무드등/물병/에코백
-
-
-
-
-창의설계 과정에서 활용할 수 있는 유용한 내용과 다양한 문제를 제시하고, 참고할 수 있는 해결 과정을 같이 설계하고 코딩해 보는 실습하는 과정을 담아낸 교재다. 전반부에서는 고도의 문명 사회에서 절실히 요구되는 기계와의 소통에 대한 설계 방법에 대한 이해를 코딩이라는 관점에서 직관적인 흐름도를 사용하여 쉽게 접근하여 설명하고 있다.
-
-후반부에서는 빛과 소리 그리고 로봇의 움직임을 제어하는 재미있고 다양한 코딩 실습을 통해 창의적인 사고로 주어진 문제를 논리적인 방법으로 직접 설계하고 해결해 나가는 체험을 할 수 있도록 구성하였다. 또한, 다양한 실제 응용 예제를 중심으로 창의설계 과정에서 팀 프로젝트 진행에 도움이 되는 내용들을 모았다.
-
-CHAPTER 01 논리적 사고를 향상시키는 창의설계 코딩
-　1.1  코딩이란?
-　1.2  코딩과 프로그래밍
-　1.3  왜 코딩을 배워야 하나요?
-　1.4  코딩은 논리력과 창의력 증진의 열쇠
-　1.5  알고리즘이란?
-　1.6  좋은 코딩, 나쁜 코딩
-　1.7  사람의 언어와 프로그래밍 언어
-
-CHAPTER 02 창의설계 코딩 키트와 스케치로 코딩하기
-　2.1  창의설계 코딩 키트와 기초 용어 설명
-　2.2  스케치(Sketch) 프로그램
-　2.3  스케치 코딩과 C 언어 코딩의 관계
-　2.4  스케치 코딩을 위한 C 언어 기초 배우기
-　2.5  무작정 따라하며 스케치 사용법 배우기 - LED를 켜보자
-　2.6  LED를 켜고 끄는 소스 코드 분석하기
-　2.7  스케치 Reference 함수
-
-CHAPTER 03 하드웨어를 제어하는 코딩 실습
-　3.1  시리얼 모니터 사용하기
-　3.2  복잡한 LED 점멸 문제로 코딩하기
-　3.3  PWM이란 - 서서히 깜빡이며 LED 점멸하기
-
-CHAPTER 04 창의설계 코딩 키트로 기본 주행하기
-　4.1  창의설계 코딩 키트로 배우는 창의설계 시작하기
-　4.2  모터를 이용한 바퀴 제어를 위한 코딩 명령 익히기
-　4.3  전진과 후진 및 정지를 위한 창의설계 코딩하기
-
-CHAPTER 05 창의설계 코딩 키트로 컬러 불빛을 비추자
-　5.1  창의설계 코딩 키트로 배우는 창의설계 시작하기
-　5.2  컬러 LED 제어를 위한 코딩 명령 익히기
-　5.3  무지개 색 순서로 불빛 비추는 창의설계 코딩하기
-
-CHAPTER 06 박수를 쳐서 창의설계 코딩 키트 LED 깜박이기
-　6.1  창의설계 코딩 키트로 배우는 창의설계 시작하기
-　6.2  소리 감지를 위한 코딩 명령 익히기
-　6.3  박수를 치면 다양한 색상의 빛을 내는 창의설계 코딩하기
-
-CHAPTER 07 창의설계 코딩 키트로 멜로디 연주하기
-　7.1  창의설계 코딩 키트로 배우는 창의설계 시작하기
-　7.2  멜로디 연주를 위한 코딩 명령 익히기
-　7.3  멜로디 연주를 위한 창의설계 코딩하기
-
-CHAPTER 08 구역 내에서만 창의설계 코딩 키트 움직이기
-　8.1  창의설계 코딩 키트로 배우는 창의설계 시작하기
-　8.2  적외선 센서를 이용한 구역이동 위한 코딩 명...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
