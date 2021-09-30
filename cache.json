@@ -546,6 +546,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/growing-global-spillovers-emerging-markets",
+          "author": "Rabah Arezki, Yang Liu",
+          "description": "Covid-19 has further exposed the growing interdependence between advanced economies and emerging markets. Most of the existing research on cross-border spillovers has focused on the spillover effects from advanced economies to emerging markets. This column shows that spillovers from emerging markets to advanced economies over the past 25 years are about a fifth of those running in the opposite direction, and have increased significantly over time because of the evolving interdependence between these blocks.",
+          "link": "https://voxeu.org/article/growing-global-spillovers-emerging-markets",
+          "publishedOn": "2021-09-30T00:00:00.000Z",
+          "wordCount": 2429,
+          "title": "The growing global spillovers from emerging markets"
+        },
+        {
+          "id": "https://voxeu.org/article/covid-19-job-retention-schemes-and-productivity",
+          "author": "Dan Andrews, Elif  Bahar, Jonathan Hambur",
+          "description": "Job retention schemes during the pandemic prioritised preservation over reallocation, but evidence on their allocative and productivity consequences is scarce. Using tax data for Australia, this column shows that job reallocation and firm exit remained connected to firm productivity over the course of the pandemic. Australia’s job retention scheme, JobKeeper, initially shielded productive and financially fragile firms, contributing positively to aggregate productivity. But as the economy recovered, the scheme grew more distortive, justifying its timely withdrawal – on productivity grounds at least.",
+          "link": "https://voxeu.org/article/covid-19-job-retention-schemes-and-productivity",
+          "publishedOn": "2021-09-30T00:00:00.000Z",
+          "wordCount": 1994,
+          "title": "COVID-19, job retention schemes and productivity"
+        },
+        {
           "id": "https://voxeu.org/article/demise-doing-business-goodhart-s-law-action",
           "author": "Thorsten Beck",
           "description": "The World Bank permanently suspended its Doing Business project earlier this month. This column argues that the suspension puts an end to a very useful data-collection exercise that went astray by focusing on rankings and political publicity. Beyond specific conflicts of interest within the World Bank, the demise of Doing Business reaffirms Goodhart’s Law that when an index becomes a policy target, it ceases to be a good measure.",
@@ -1382,6 +1400,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Yn6dhTEDCLI/thursday-gdp-unemployment-claims.html",
+          "author": null,
+          "description": "Thursday:\n• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for 335 thousand initial claims, down from 351 thousand last week.\n• Also at 8:30 AM, Gross Domestic Product, 2nd quarter 2021 (Third estimate). The consensus is that real GDP increased 6.7% annualized in Q2, revised up from the second estimate of 6.6%.\n• At 9:45 AM, Chicago Purchasing Managers Index for September. The consensus is for a reading of 65.0, down from 66.8 in August.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Yn6dhTEDCLI/thursday-gdp-unemployment-claims.html",
+          "publishedOn": "2021-09-30T01:04:00.001Z",
+          "wordCount": 892,
+          "title": "Thursday: GDP, Unemployment Claims, Chicago PMI"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/-UIvAKLfCsM/september-29th-covid-19-7-day-average.html",
           "author": null,
