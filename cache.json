@@ -1373,15 +1373,6 @@
           "publishedOn": "2021-09-09T02:46:04.000Z",
           "wordCount": 127,
           "title": "Optimal Income Taxation: Mirrlees Meets Ramsey"
-        },
-        {
-          "id": "https://www.journals.uchicago.edu/doi/abs/10.1086/715849?af=R",
-          "author": "John Hassler",
-          "description": "Journal of Political Economy, Ahead of Print.",
-          "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/715849?af=R",
-          "publishedOn": "2021-09-02T02:08:21.000Z",
-          "wordCount": 127,
-          "title": "Directed Technical Change as a Response to Natural Resource Scarcity"
         }
       ]
     },
@@ -1390,6 +1381,33 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/En2UkWTD_qM/construction-spending-unchanged-in.html",
+          "author": null,
+          "description": "From the Census Bureau reported that overall construction spending was \"virtually unchanged\":\nConstruction spending during August 2021 was estimated at a seasonally adjusted annual rate of $1,584.1 billion, virtually unchanged from the revised July estimate of $1,584.0 billion. The August figure is 8.9 percent above the August 2020 estimate of $1,455.0 billion. During the first eight months of this year, construction spending amounted to $1,034.5 billion, 7.0 percent above the $966.7 billion for the same period in 2020. \nemphasis added\nPrivate spending decreased and public spending increased:\nSpending on private construction was at a seasonally adjusted annual rate of $1,242.2 billion, 0.1 percent below the revised July estimate of $1,243.7 billion.  ...\nIn August, the estimated seasonally…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/En2UkWTD_qM/construction-spending-unchanged-in.html",
+          "publishedOn": "2021-10-01T14:21:00.003Z",
+          "wordCount": 1129,
+          "title": "Construction Spending unchanged in August"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/npAqgdIjcsQ/ism-manufacturing-index-increased-to.html",
+          "author": null,
+          "description": "(Posted with permission).  The ISM manufacturing index indicated expansion in September.  The PMI® was at 61.1% in September, up from 59.9% in August.  The employment index was at 50.2%, up from 49.0% last month, and the new orders index was at 66.7%, unchanged from 66.7%.\nFrom ISM: Manufacturing PMI® at 61.1% September 2021 Manufacturing ISM® Report On Business®\nEconomic activity in the manufacturing sector grew in September, with the overall economy notching a 16th consecutive month of growth, say the nation’s supply executives in the latest Manufacturing ISM® Report On Business®.\nThe report was issued today by Timothy R. Fiore, CPSM, C.P.M., Chair of the Institute for Supply Management® (ISM®) Manufacturing Business Survey Committee:\n\"The September Manufacturing PMI® registered 61.1 per…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/npAqgdIjcsQ/ism-manufacturing-index-increased-to.html",
+          "publishedOn": "2021-10-01T14:05:00.002Z",
+          "wordCount": 1158,
+          "title": "ISM® Manufacturing index increased to 61.1% in September"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/aQaTvQO_nkk/personal-income-increased-02-in-august.html",
+          "author": null,
+          "description": "The BEA released the Personal Income and Outlays report for August: \nPersonal income increased $35.5 billion (0.2 percent) in August according to estimates released today by the Bureau of Economic Analysis. Disposable personal income (DPI) increased $18.9 billion (0.1 percent) and personal consumption expenditures (PCE) increased $130.5 billion (0.8 percent).\nReal DPI decreased 0.3 percent in August and Real PCE increased 0.4 percent; goods increased 0.6 percent and services increased 0.3 percent. The PCE price index increased 0.4 percent. Excluding food and energy, the PCE price index increased 0.3 percent.\n emphasis added\nThe August PCE price index increased 4.3 percent year-over-year and the August PCE price index, excluding food and energy, increased 3.6 percent year-over-year.\nThe following graph shows real Personal Consumption Expenditures (PCE) through August 2021 (2012 dollars). Note that the y-axis doesn't start at zero to better show the change.\n Click on graph for larger image.\nThe dashed red lines are the quarterly levels for real PCE.\nPersonal income was slightly below expectations,  and the increase in PCE was above expectations.\nUsing the two-month method to estimate Q3 PCE growth, PCE was increasing at a 0.3% annual rate in Q3 2021. (using the mid-month method, PCE was  increasing at 2.2%).  This follows a sharp increase in PCE in Q2.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/aQaTvQO_nkk/personal-income-increased-02-in-august.html",
+          "publishedOn": "2021-10-01T12:36:00.002Z",
+          "wordCount": 1030,
+          "title": "Personal Income increased 0.2% in August, Spending increased 0.8%"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/YMONSlMSIwY/friday-personal-income-outlays-ism-mfg.html",
           "author": null,
