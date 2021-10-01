@@ -509,6 +509,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/covid-vaccination-experiences",
+          "author": "Mathias Dewatripont",
+          "description": "The approval of several effective covid vaccines in record time shifted the emphasis in rich countries away from availability and the logistics of delivery to the issue of vaccine hesitancy. This column looks at vaccination rates across countries, with a special focus on the French experience. It finds that the introduction of a ‘corona pass’ had a much greater impact on France’s vaccination rate than it did in some other countries, possibly in part due to the way it was announced by President Macron.",
+          "link": "https://voxeu.org/article/covid-vaccination-experiences",
+          "publishedOn": "2021-10-01T00:00:00.000Z",
+          "wordCount": 2676,
+          "title": "Covid vaccination experiences"
+        },
+        {
+          "id": "https://voxeu.org/article/current-bail-design-does-not-resolve-too-big-fail-problem",
+          "author": "J. Doyne Farmer, Charles Goodhart, Alissa Kleinnijenhuis",
+          "description": "Since the Great Financial Crisis, bail-in has been introduced as an approach to address too-big-to-fail and contagion risk problems. This column uses a multi-layered network model of the European financial system to study the implication of bail-in design on financial stability. It shows that early implementation of a bail-in and stronger bank recapitalisation lead to lower contagion losses. However, current bail-in design seems to be in the region of instability and the political economy of incentives makes reforms unlikely in the near future.",
+          "link": "https://voxeu.org/article/current-bail-design-does-not-resolve-too-big-fail-problem",
+          "publishedOn": "2021-10-01T00:00:00.000Z",
+          "wordCount": 4537,
+          "title": "The current bail-in design does not resolve the too-big-to-fail problem"
+        },
+        {
           "id": "https://voxeu.org/article/scapegoating-ethnic-minorities",
           "author": "Michal  Bauer, Jana Cahlíková, Julie Chytilová, Gérard Roland, Tomáš Želinský",
           "description": "Scapegoating refers to a social phenomenon whereby members of an aggrieved majority group retaliate against innocent third parties, usually members of vulnerable minority groups. This column uses an experiment set up between May and September 2017 in Eastern Slovakia – where a large Roma minority regularly suffers from discrimination – to measure how an injustice that affects a member of one’s own group shapes the punishment of an unconnected bystander (or scapegoat). The experiment shows that members of a majority group will systematically shift punishment onto innocent members of an ethnic minority.",
