@@ -509,6 +509,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/vox-talks/using-ai-target-aid-togo",
+          "author": "Joshua Blumenstock",
+          "description": "There is often an urgent need for humanitarian assistance in low-income countries. But how can it be targeted efficiently and quickly? Joshua Blumenstock tells Tim Phillips how, in Togo, a combination of machine learning and mobile phone data dramatically increased the effectiveness of Covid assistance.",
+          "link": "https://voxeu.org/vox-talks/using-ai-target-aid-togo",
+          "publishedOn": "2021-10-01T00:00:00.000Z",
+          "wordCount": 562,
+          "title": "Using AI to target aid in Togo"
+        },
+        {
           "id": "https://voxeu.org/article/covid-vaccination-experiences",
           "author": "Mathias Dewatripont",
           "description": "The approval of several effective covid vaccines in record time shifted the emphasis in rich countries away from availability and the logistics of delivery to the issue of vaccine hesitancy. This column looks at vaccination rates across countries, with a special focus on the French experience. It finds that the introduction of a ‘corona pass’ had a much greater impact on France’s vaccination rate than it did in some other countries, possibly in part due to the way it was announced by President Macron.",
