@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-03T00:19:14.194Z</updated>
+    <updated>2021-10-03T03:04:33.609Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trust in the ECB during the pandemic]]></title>
+        <id>https://voxeu.org/article/trust-ecb-during-pandemic</id>
+        <link href="https://voxeu.org/article/trust-ecb-during-pandemic"/>
+        <updated>2021-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In turbulent times, trust in our central banks is important. This column uses the survey data on consumer expectations to gauge trust in the ECB during the Covid-19 pandemic. The authors find that trust in the ECB depends on consumers’ financial knowledge and on how severely they are affected by the pandemic, and that this trust and financial knowledge both contribute to better anchoring of consumers’ inflation expectations around the ECB’s inflation target.  Possible routes to improve trust include activities that enhance financial knowledge, tailoring central bank communication in terms of content and targeting it at people with low trust.]]></summary>
+        <author>
+            <name>Carin van der Cruijsen, Anna Samarina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Articles this Week]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/svanfLXbw0A/newsletter-articles-this-week.html</id>
