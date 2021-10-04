@@ -2,10 +2,250 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-04T03:06:35.449Z</updated>
+    <updated>2021-10-04T06:05:48.974Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Refining Set-Identification in VARs through Independence -- by Thorsten Drautzburg, Jonathan H. Wright]]></title>
+        <id>https://www.nber.org/papers/w29316#fromrss</id>
+        <link href="https://www.nber.org/papers/w29316#fromrss"/>
+        <updated>2021-10-04T06:05:34.167Z</updated>
+        <summary type="html"><![CDATA[Identification in VARs has traditionally mainly relied on second moments. Some researchers have considered using higher moments as well, but there are concerns about the strength of the identification obtained in this way. In this paper, we propose refining existing identification schemes by augmenting sign restrictions with a requirement that rules out shocks whose higher moments significantly depart from independence. This approach does not assume that higher moments help with identification; it is robust to weak identification. In simulations we show that it controls coverage well, in contrast to approaches that assume that the higher moments deliver point-identification. However, it requires large sample sizes and/or considerable non-normality to reduce the width of confidence intervals by much. We consider some empirical applications.  We find that it can reject many possible rotations. The resulting confidence sets for impulse responses may be non-convex, corresponding to disjoint parts of the space of rotation  matrices. We show that in this case, augmenting sign and magnitude restrictions with an independence requirement can yield bigger gains.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minimum Wages and Teenage Childbearing: New Estimates Using a Dynamic Difference-in-Differences Approach -- by Daniel I. Rees, Joseph J. Sabia, Rebecca Margolit]]></title>
+        <id>https://www.nber.org/papers/w29334#fromrss</id>
+        <link href="https://www.nber.org/papers/w29334#fromrss"/>
+        <updated>2021-10-04T06:05:34.134Z</updated>
+        <summary type="html"><![CDATA[The minimum wage is increasingly viewed as an important tool for improving public health outcomes, including reducing childbearing among teenagers. Taken at face value, recently reported estimates suggest that raising the federal minimum wage to $15 per hour could reduce the number of teenage births by 35,000 per year. Using an event study framework that accounts for dynamic and heterogeneous treatment effects, we find little evidence that minimum wages are causally related to teenage childbearing. Moreover, the estimated effects of minimum wages on teenage sexual behaviors, including contraception use, abstinence, and number of partners are consistently small and statistically insignificant.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply Chain Resilience: Should Policy Promote Diversification or Reshoring? -- by Gene M. Grossman, Elhanan Helpman, Hugo Lhuillier]]></title>
+        <id>https://www.nber.org/papers/w29330#fromrss</id>
+        <link href="https://www.nber.org/papers/w29330#fromrss"/>
+        <updated>2021-10-04T06:05:34.122Z</updated>
+        <summary type="html"><![CDATA[Supply chain disruptions, which have become commonplace, are often associated with globalization and trade. Little is known about optimal policy in the face of insecure supply chains. Should governments promote resilience by subsidizing backup sources of input supply? Should they encourage firms to source from closer and presumably safer domestic suppliers? We address these questions in a very simple model of production with a single critical input and with exogenous risks of relationship-specific and country-wide supply disturbances. We follow Matsuyama and Ushchev (2020) in positing a class of preferences that are homothetic with a single aggregator and that obey Marshall's Second Law of Demand. The familiar case of CES preferences is a member of the class, but it imposes restrictions that are important for policy conclusions.We find that, in the CES case, a subsidy for diversification achieves the constrained social optimum and dominates a policy that promotes reshoring or offshoring. When the demand elasticity rises with price, two policy instruments generally are needed to achieve efficient supply chains, private investments in resilience may be socially excessive, and policy that alter incentives to invest at home versus abroad may achieve greater welfare than ones that encourage or discourage diversification.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US Pretrial System: Balancing Individual Rights and Public Interests -- by Will S. Dobbie, Crystal Yang]]></title>
+        <id>https://www.nber.org/papers/w29332#fromrss</id>
+        <link href="https://www.nber.org/papers/w29332#fromrss"/>
+        <updated>2021-10-04T06:05:34.108Z</updated>
+        <summary type="html"><![CDATA[In this article, we review a growing empirical literature on the effectiveness and fairness of the US pretrial system and discuss its policy implications. Despite the importance of this stage of the criminal legal process, researchers have only recently begun to explore how the pretrial system balances individual rights and public interests. We describe the empirical challenges that have prevented progress in this area and how recent work has made use of new data sources and quasi-experimental approaches to credibly estimate both the individual harms (such as loss of employment or government assistance) and public benefits (such as preventing non-appearance at court and new crimes) of cash bail and pretrial detention. These new data and approaches show that the current pretrial system imposes substantial short- and long-term economic harms on detained defendants in terms of lost earnings and government assistance, while providing little in the way of decreased criminal activity for the public interest. Non-appearances at court do significantly decrease for detained defendants, but the magnitudes cannot justify the economic harms to individuals observed in the data. A second set of studies shows that these costs of cash bail and pretrial detention are disproportionately borne by Black and Hispanic individuals, giving rise to large and unfair racial differences in cash bail and detention that cannot be explained by underlying differences in pretrial misconduct risk. We then turn to policy implications and describe areas of future work that would enable a deeper understanding of what drives these undesirable outcomes.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Global Financial Cycle -- by Silvia Miranda-Agrippino, Hélène Rey]]></title>
+        <id>https://www.nber.org/papers/w29327#fromrss</id>
+        <link href="https://www.nber.org/papers/w29327#fromrss"/>
+        <updated>2021-10-04T06:05:34.079Z</updated>
+        <summary type="html"><![CDATA[We review the literature on the empirical characteristics of the global financial cycle and associated stylized facts on international capital flows, asset prices, risk aversion and liquidity in the financial system. We analyse the co-movements of global factors in asset prices and capital flows with commodity prices, international trade and world output as well as the sensitivity of different parts of the world to the Global Financial Cycle.  We present evidence of the causal effects of the monetary policies of the US Federal Reserve, the European Central Bank and of the People's Bank of China on the Global Financial Cycle.  We then assess whether the 2008 financial crisis has altered the transmission channels of monetary policies on the Global Financial Cycle. Finally, we discuss the theoretical modelling of the Global Financial Cycle and avenues for future research.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decrypting New Age International Capital Flows -- by Clemens Graf von Luckner, Carmen M. Reinhart, Kenneth S. Rogoff]]></title>
+        <id>https://www.nber.org/papers/w29337#fromrss</id>
+        <link href="https://www.nber.org/papers/w29337#fromrss"/>
+        <updated>2021-10-04T06:05:34.066Z</updated>
+        <summary type="html"><![CDATA[This paper employs high frequency transactions data on the world’s oldest and most extensive centralized peer-to-peer Bitcoin market, which enables trade in the currencies of more than 135 countries.  We develop an algorithm that allows, with high probability, the detection of “crypto vehicle transactions” in which crypto currency is used to move capital across borders or facilitate domestic transactions. In contrast to previous work which has used “on-chain” data, our approach enables one to investigate parts of the vastly larger pool of “off-chain” transactions. We find that, as a conservative lower bound, over 7 percent of the 45 million trades on the exchange we explore represent crypto vehicle transactions in which Bitcoin is used to make payment in fiat currency.  Roughly 20 percent of these represent international capital flight/flows/remittances.  Although our work cannot be used to put a price on cryptocurrencies, it provides the first systematic quantitative evidence that the transactional use of cryptocurrencies constitutes a fundamental component of their value, at least under the current regulatory regime.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circles of Trust: Rival Information in Social Networks -- by Petra Persson ⓡ, Nikita Roketskiy ⓡ, Samuel Lee]]></title>
+        <id>https://www.nber.org/papers/w29324#fromrss</id>
+        <link href="https://www.nber.org/papers/w29324#fromrss"/>
+        <updated>2021-10-04T06:05:34.051Z</updated>
+        <summary type="html"><![CDATA[We analyze the diffusion of rival information in a social network. In our model, rational agents can share information sequentially, unconstrained by an exogenous protocol or timing. We show how to compute the set of eventually informed agents for any network, and show that it is essentially unique under altruistic preferences. The relationship between network structure and information diffusion is complex because the former shapes both the charity and confidentiality of potential senders and receivers.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Learning -- by Isaac Baley, Laura Veldkamp]]></title>
+        <id>https://www.nber.org/papers/w29338#fromrss</id>
+        <link href="https://www.nber.org/papers/w29338#fromrss"/>
+        <updated>2021-10-04T06:05:34.014Z</updated>
+        <summary type="html"><![CDATA[We survey work using Bayesian learning in macroeconomics, highlighting common themes and new directions. First, we present many of the common types of learning problems agents face---signal extraction problems---and trace out their effects on macro aggregates, in different strategic settings. Then we review different perspectives on how agents get their information. Models differ in their motives for information acquisition and the cost of information, or learning technology. Finally, we survey the growing literature on the data economy, where economic activity generates data and the information in data feeds back to affect economic activity.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corporate Culture -- by Gary B. Gorton, Jill Grennan, Alexander K. Zentefis]]></title>
+        <id>https://www.nber.org/papers/w29322#fromrss</id>
+        <link href="https://www.nber.org/papers/w29322#fromrss"/>
+        <updated>2021-10-04T06:05:33.998Z</updated>
+        <summary type="html"><![CDATA[Corporate culture is an omnibus term that includes many elements like norms, values, knowledge, and customs that are relevant to a firm. Economists have made great progress recently in devising methods of measuring different aspects of corporate culture. These empirical measures of culture have explained mergers and acquisitions, corporate risk-taking, and unethical behaviors observed in corporations, among other topics. We argue that unpacking corporate culture into its components is the right way to research it empirically. Theories of corporate culture are still in development, and we discuss the major contributions thus far. We argue that a theory of the firm and of corporate decision-making that is based on corporate culture is more germane to the practical realities of firms’ inner workings than prevailing theories based on agency costs. Corporate culture has the potential to set the theoretical paradigm for all corporate finance research.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exposure, Experience, and Expertise: Why Personal Histories Matter in Economics -- by Ulrike Malmendier]]></title>
+        <id>https://www.nber.org/papers/w29336#fromrss</id>
+        <link href="https://www.nber.org/papers/w29336#fromrss"/>
+        <updated>2021-10-04T06:05:33.952Z</updated>
+        <summary type="html"><![CDATA[Personal experiences of economic outcomes, from global financial crises to individual-level job losses, can shape individual beliefs, risk attitudes, and choices for years to come. A growing literature on experience effects shows that individuals act as if past outcomes that they experienced were overly likely to occur again, even if they are fully informed about the actual likelihood. This reaction to past experiences is long-lasting though it decays over time as individuals accumulate new experiences. Modern brain science helps understand these processes. Evidence on neuroplasticity reveals that personal experiences and learning alter the strength of neural connections and fine-tune the brain structure to those past experiences ("use-dependent brain"). I show that experience effects help understand belief formation and decision-making in a wide area of economic applications, including inflation, home purchases, mortgage choices, and consumption expenditures. I argue that experience-based learning is broadly applicable to economic decision-making and discuss topics for future research in education, health, race, and gender economics.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics of Large Multinationals -- by Elhanan Helpman, Benjamin C. Niswonger]]></title>
+        <id>https://www.nber.org/papers/w29317#fromrss</id>
+        <link href="https://www.nber.org/papers/w29317#fromrss"/>
+        <updated>2021-10-04T06:05:33.933Z</updated>
+        <summary type="html"><![CDATA[We develop a model of large multinational enterprises, each one producing a continuum of products. These outsized firms compete as oligopolists in a domestic and foreign market, facing competitive pressure from single-product firms that engage in monopolistic competition. The multinational enterprises invest in R&D in order to expand the span of their products and in foreign direct investment (FDI) in order to expand the range of products manufactured by their foreign affiliates. We study the dynamic evolution of these markets and characterize transition dynamics and steady states. In addition to the evolution of product spans, we characterize the evolution of prices, markups, market shares, and exports relative to subsidiary sales. Furthermore, we study comparative dynamics that result from changes in trade costs, R&D costs, the cost of FDI and productivity changes of the multinational firms.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Causal Effects of Place on Health and Longevity -- by Tatyana Deryugina, David Molitor]]></title>
+        <id>https://www.nber.org/papers/w29321#fromrss</id>
+        <link href="https://www.nber.org/papers/w29321#fromrss"/>
+        <updated>2021-10-04T06:05:33.919Z</updated>
+        <summary type="html"><![CDATA[Life expectancy varies substantially across local regions within a country, raising conjectures that place of residence affects health. However, population sorting and other confounders make it difficult to disentangle the effects of place on health from other geographic differences in life expectancy. Recent studies have overcome such challenges to demonstrate that place of residence substantially influences health and mortality. Whether policies that encourage people to move to places that are better for their health or that improve areas that are detrimental to health are desirable depends on the mechanisms behind place effects, yet these mechanisms remain poorly understood.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racial Disparities in Housing Returns -- by Amir Kermani, Francis Wong]]></title>
+        <id>https://www.nber.org/papers/w29306#fromrss</id>
+        <link href="https://www.nber.org/papers/w29306#fromrss"/>
+        <updated>2021-10-04T06:05:33.861Z</updated>
+        <summary type="html"><![CDATA[We document the existence of a racial gap in realized housing returns that is an order of magnitude larger than disparities arising from housing costs alone, and is driven almost entirely by differences in distressed home sales (i.e. foreclosures and short sales). Black and Hispanic homeowners are both more likely to experience a distressed sale and to live in neighborhoods where distressed sales erase more house value. Importantly, absent financial distress, houses owned by minorities do not appreciate at slower rates than houses owned by non-minorities. Racial differences in income stability and liquid wealth explain a large share of the differences in distress. We use quasi-experimental variation in loan modifications to show that policies that restructure mortgages for distressed minorities can increase housing returns and reduce the racial wealth gap.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Occupational Licensing and Accountant Quality: Evidence from the 150-Hour Rule -- by John M. Barrios]]></title>
+        <id>https://www.nber.org/papers/w29318#fromrss</id>
+        <link href="https://www.nber.org/papers/w29318#fromrss"/>
+        <updated>2021-10-04T06:05:33.830Z</updated>
+        <summary type="html"><![CDATA[I examine the effects of occupational licensing on the quality of Certified Public Accountants (CPAs). I exploit the staggered adoption of the 150-hour rule, which increases the educational requirements for a CPA license. The analysis shows that the rule decreases the number of entrants into the profession, reducing both low- and high-quality candidates. Labor market proxies for quality find no difference between 150-hour rule CPAs and the rest. Moreover, rule CPAs exit public accounting at similar rates and have comparable writing quality to their non-rule counterparts. Overall, these findings are consistent with the theoretical argument that increases in licensing requirements restrict the supply of entrants and do little to improve quality in the labor market.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Environmental Drivers of Agricultural Productivity Growth: CO2 Fertilization of US Field Crops -- by Charles A. Taylor, Wolfram Schlenker]]></title>
+        <id>https://www.nber.org/papers/w29320#fromrss</id>
+        <link href="https://www.nber.org/papers/w29320#fromrss"/>
+        <updated>2021-10-04T06:05:33.813Z</updated>
+        <summary type="html"><![CDATA[We assess the CO2 fertilization effect on US agriculture using spatially-varying CO2 data from NASA's Orbiting Carbon Observatory-2 (OCO-2) satellite covering the majority of US cropland under actual growing conditions. This study complements the many CO2 enrichment experiments that have found important interactions between CO2 and local environmental conditions in controlled settings.  We use three empirical strategies: (i) a panel of CO2 anomalies and county yields, (ii) a panel of spatial first-differences between neighboring counties, and (iii) a cross-sectional spatial first-difference. We find consistently high fertilization effects: a 1 ppm increase in CO2 equates to a 0.5%, 0.6%, and 0.8% yield increase for corn, soybeans, and wheat, respectively. Viewed retrospectively, 10%, 30%, and 40% of each crop's yield improvements since 1940 are attributable to rising CO2.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning to Use Trade Agreements -- by Kala Krishna, Carlos Salamanca, Yuta Suzuki, Christian Volpe Martincus]]></title>
+        <id>https://www.nber.org/papers/w29319#fromrss</id>
+        <link href="https://www.nber.org/papers/w29319#fromrss"/>
+        <updated>2021-10-04T06:05:33.800Z</updated>
+        <summary type="html"><![CDATA[Free trade or preferential trade areas (PTAs) allow importers who belong to the area to export to each other while paying zero or preferential tariffs as long as Rules of Origin (ROOs) are met. Meeting them is costly not only in terms of production costs but also in terms of documentation costs. We ask if these fixed costs of documentation change over time with the experience of the firm in obtaining preferential tariffs. We explore this using a unique importer-exporter matched transaction-level customs data set on a group of Latin American countries. Our estimating equation is model-based and shows that these fixed costs depend on the history of preference utilization. Most of the effect comes from experience in the same product and same partner, with some spillover to other partners buying the same product. There is little learning from experience in other products and other partners. When considering products that have been under preferences for a while, some learning might have occurred prior to the start of our data. Using a natural experiment in Argentina, where some products were newly brought under preferences, we show that learning is indeed larger for such products. As facilitating preference use today also makes it easier to use preferences in the future, interventions early on in the life of the FTA to reduce such costs would be more effective.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low Inflation Bends the Phillips Curve around the World -- by Kristin Forbes, Joseph Gagnon, Christopher G. Collins]]></title>
+        <id>https://www.nber.org/papers/w29323#fromrss</id>
+        <link href="https://www.nber.org/papers/w29323#fromrss"/>
+        <updated>2021-10-04T06:05:33.771Z</updated>
+        <summary type="html"><![CDATA[This paper finds strong support for a Phillips curve that becomes nonlinear when inflation is “low”—which our baseline model defines as less than 3 percent. The nonlinear curve is steep when output is above potential (slack is negative), but flat when output is below potential (slack is positive), so that further increases in economic slack have little effect on inflation. This finding is consistent with evidence of downward nominal wage and price rigidity. When inflation is high, the Phillips curve is linear and relatively steep. These results are robust to placing the threshold between the high and low inflation regimes at 2, 3, or 4 percent inflation or for a threshold based on country-specific medians of inflation. In this nonlinear model, international factors play a large role in explaining headline inflation (albeit less so for core inflation), a role that has been increasing since the global financial crisis.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracing Value Added in the Presence of Foreign Direct Investment -- by Zhi Wang, Shang-Jin Wei, Xinding Yu, Kunfu Zhu]]></title>
+        <id>https://www.nber.org/papers/w29335#fromrss</id>
+        <link href="https://www.nber.org/papers/w29335#fromrss"/>
+        <updated>2021-10-04T06:05:33.755Z</updated>
+        <summary type="html"><![CDATA[We develop a unified framework to trace value added along global supply chains in the presence of foreign direct investment by decomposing either GDP based on forward linkages or final production based on backward linkages. The new framework accounts for the presence of foreign invested enterprises (FIEs), their interactions with local firms in the host countries as well as their activities in international trade. The size of the GVC activities identified with this framework roughly doubles that in the previous literature that treats FIEs the same as local firms. The “missing GVC activities” are more serious for high-tech sectors than for those with a lower R&D intensity, and more serious for high-income economies than for middle-income economies.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Market Size and Spatial Growth - Evidence from Germany’s Post-War Population Expulsions -- by Michael Peters]]></title>
+        <id>https://www.nber.org/papers/w29329#fromrss</id>
+        <link href="https://www.nber.org/papers/w29329#fromrss"/>
+        <updated>2021-10-04T06:05:33.742Z</updated>
+        <summary type="html"><![CDATA[Virtually all theories of economic growth predict a positive relationship between population size and productivity. In this paper I study a particular historical episode to provide direct evidence for the empirical relevance of such scale effects. In the aftermath of the Second World War about 8m ethnic Germans were expelled from their domiciles in Eastern Europe and transferred to West Germany. This inflow increased the German population by almost 20%. Using variation across counties I show that the settlement of refugees had a large and persistent effect on the size of the local population, manufacturing employment and income per capita. I show that these findings are quantitatively consistent with an idea-based model of spatial growth if population mobility is subject to frictions and productivity spillovers occur locally. The model implies that the refugee settlement increased aggregate income per capita by about 12% after 25 years and that the historical settlement rule triggered persistent industrialization of rural areas.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charitable Giving Responses to Education Budgets -- by Jonathan Meer, Hedieh Tajali]]></title>
+        <id>https://www.nber.org/papers/w29331#fromrss</id>
+        <link href="https://www.nber.org/papers/w29331#fromrss"/>
+        <updated>2021-10-04T06:05:33.707Z</updated>
+        <summary type="html"><![CDATA[Do changes in government spending affect voluntary contributions to those recipients? We examine how changes in K-12 education budgets impact donations to teachers using data from DonorsChoose.org, an online crowdfunding platform for public school teachers to raise money for their classrooms. Using a district-year panel and instruments to address the endogeneity of budgets, we find evidence for crowd-out of private giving, though the magnitudes are fairly small in this setting and do not offset a large proportion of a budget change. These results are driven by entirely teachers' posting of requests, illustrating the importance of considering the demand side of the charitable giving market.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exposure to Cigarette Taxes as a Teenager and the Persistence of Smoking into Adulthood -- by Andrew I. Friedson, Moyan Li, Katherine Meckel, Daniel I. Rees, Daniel W. Sacks]]></title>
+        <id>https://www.nber.org/papers/w29325#fromrss</id>
+        <link href="https://www.nber.org/papers/w29325#fromrss"/>
+        <updated>2021-10-04T06:05:33.693Z</updated>
+        <summary type="html"><![CDATA[Are teenage and adult smoking causally related?  Recent anti-tobacco policy is predicated on the assumption that preventing teenagers from smoking will ensure that fewer adults smoke, but direct evidence in support of this assumption is scant.  Using data from three nationally representative sources and cigarette taxes experienced as a teenager as an instrument, we document a strong, positive relationship between teenage and adult smoking: specifically, deterring 10 teenagers from smoking through raising cigarette taxes roughly translates into 5 or 6 fewer eventual adult smokers.  We conclude that efforts to reduce teenage smoking can have important, long-lasting consequences on smoking participation and, presumably, health.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Economic Growth and Bank Innovation -- by Gary B. Gorton, Ping He]]></title>
+        <id>https://www.nber.org/papers/w29326#fromrss</id>
+        <link href="https://www.nber.org/papers/w29326#fromrss"/>
+        <updated>2021-10-04T06:05:33.680Z</updated>
+        <summary type="html"><![CDATA[Based on archival and survey data we show that the maturity of U.S. business loans has been continuously increasing since the mid-1930s when banks invented the term loan. Concurrently, bank innovation first involved the invention of credit analysis and covenant design. Later, bank innovation included the advent of loan sales, increased loan syndications, the opening of the leveraged loan market, and the securitization of loans in collateralized loan obligations. We estimate and calibrate a model of bank innovation to determine the quantitative contribution of bank innovation to economic growth.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creative Destruction, Distance to Frontier, and Economic Development -- by Michael Peters, Fabrizio Zilibotti]]></title>
+        <id>https://www.nber.org/papers/w29333#fromrss</id>
+        <link href="https://www.nber.org/papers/w29333#fromrss"/>
+        <updated>2021-10-04T06:05:33.653Z</updated>
+        <summary type="html"><![CDATA[We construct a model of creative destruction with endogenous firm dynamics. We integrate the theory into a general equilibrium multi-country model of technological convergence where countries interact via international spillovers. We derive implications for both firm dynamics and aggregate productivity dynamics. In richer economies, firms are on average larger and the best firms grow larger over time. In poorer economies, there is little creative destruction, low selection, and firms remain small. We estimate the parameters of the model using firm-level data for India and the United States. We study the effect of counterfactual policy reforms. Industrial policy that selectively targets the more productive firms can be beneficial in poor countries while being harmful in countries close to the economic frontier. The findings echo Acemoglu et al. (2006).]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mortality Rates by College Degree Before and During COVID-19 -- by Anne Case, Angus Deaton]]></title>
+        <id>https://www.nber.org/papers/w29328#fromrss</id>
+        <link href="https://www.nber.org/papers/w29328#fromrss"/>
+        <updated>2021-10-04T06:05:33.636Z</updated>
+        <summary type="html"><![CDATA[It is now established that mortality and excess mortality from COVID-19 differed across racial and ethnic groups in 2020. Less is known about educational differences in mortality during the pandemic. We examine mortality rates by BA status within sex, age, and race/ethnic groups comparing 2020 with 2019. Mortality rates have increasingly differed by BA status in the US in recent years and there are good reasons to expect the gap to have widened further during the pandemic. Using publicly available provisional data from the National Center for Health Statistics we find that mortality rates increased in 2020 over 2019 for those with and without a BA, irrespective of age, sex, or race/ethnicity. Although mortality rates increased by more for those without a BA, the ratio of mortality rates for those with and without a BA changed surprisingly little from 2019 to 2020. Among 60 groups (sex by race/ethnicity by age) that are available in the data, the ratio of mortality rates of those without a BA to those with a BA fell for more than half of the groups. Our results suggest that differences in the risk of infection were less important in structuring mortality by education than differences in the risk of death conditional on infection.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recycling revenue to improve political feasibility of carbon pricing in the UK]]></title>
         <id>https://voxeu.org/article/recycling-revenue-improve-political-feasibility-carbon-pricing-uk</id>
