@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-04T15:03:45.733Z</updated>
+    <updated>2021-10-04T18:04:32.618Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Real Personal Income: Transfer Payments]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/zoWCCfoXbx4/real-personal-income-transfer-payments.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/zoWCCfoXbx4/real-personal-income-transfer-payments.html"/>
+        <updated>2021-10-04T17:05:00.001Z</updated>
+        <summary type="html"><![CDATA[The BEA released the Personal Income and Outlays, August 2021 report on Friday.   The report showed that government transfer payments were still almost $770 billion (on SAAR basis) above the February 2020 level (pre-pandemic)  Note: Seasonal adjustment doesn't make sense with one time payments, but that is how the data is presented.  
+
+This table shows the amount of unemployment insurance and "Other" transfer payments since January 2020 (pre-crisis level).  The increase in "Other" was mostly due to parts of the relief acts including direct payments.
+
+Note: Not in the table below, but Social Security and Medicare payments haven't increased significantly from the pre-recession levels.  Social Security increased from $1,065 billion SAAR in Jan 2020 to $1,117 billion SAAR in August 2021.  Medicare increased from $807 billion to $826 billion.  Medicaid increased significantly from $603 billion to $759 billion.
+
+
+But most of the increase in transfer payments - compared to the levels prior to the crisis - is from unemployment insurance and "other" (includes direct payments). 
+
+
+
+Selected Transfer Payments
+Billions of dollars, SAAR 
+OtherUnemployment
+Insurance
+ Jan-20$511$26
+ Feb-20$506$26
+ Mar-20$516$67
+ Apr-20$3,393$435
+ May-20$1,373$1,287
+ Jun-20$743$1,396
+ Jul-20$750$1,366
+ Aug-20$697$612
+ Sep-20$950$325
+ Oct-20$714$296
+ Nov-20$580$285
+ Dec-20$604$319
+ Jan-21$2,317$574
+ Feb-21$735$558
+ Mar-21$4,706$566
+ Apr-21$1,345$516
+ May-21$806$492
+ Jun-21$744$433
+ Jul-21$920$380
+   
+Aug-21$939$365]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrity politics]]></title>
         <id>https://www.aeaweb.org/research/political-celebrity-ronald-reagan</id>
