@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-07T03:05:01.874Z</updated>
+    <updated>2021-10-07T06:05:39.130Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -15,6 +15,26 @@
 • At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for 345 thousand initial claims, down from 362 thousand last week.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reallocation effects of the minimum wage]]></title>
+        <id>https://voxeu.org/article/reallocation-effects-minimum-wage</id>
+        <link href="https://voxeu.org/article/reallocation-effects-minimum-wage"/>
+        <updated>2021-10-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In January 2015, Germany introduced a uniform minimum wage of €8.50. Many economists and media outlets predicted that this would have dire consequences for the German economy and result in substantial job losses. This column shows that, in fact, the introduction of the minimum wage boosted pay for low-wage workers without lowering their employment prospects. It also prompted a reallocation of staff towards more productive firms. Overall, the minimum wage helped reduce wage inequality while improving the quality of firms operating in the economy.]]></summary>
+        <author>
+            <name>Christian Dustmann, Attila Lindner, Uta Schӧnberg, Matthias Umkehrer, Philipp vom Berge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons from the 2011 US debt ceiling crisis]]></title>
+        <id>https://voxeu.org/article/lessons-2011-us-debt-ceiling-crisis</id>
+        <link href="https://voxeu.org/article/lessons-2011-us-debt-ceiling-crisis"/>
+        <updated>2021-10-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Once again, the US finds itself in the midst of a debt ceiling crisis, but what can we learn from previous instances? This column assesses the impact of the 2011 US debt ceiling crisis on US federal government credit risk and on US banks’ funding costs. It estimates that during the first two quarters of 2011, as a result of the disagreement between Republicans and Democrats over the rise in the US debt ceiling, US government credit default swaps increased by 46 basis points, while bank funding costs increased by about 18 basis points.]]></summary>
+        <author>
+            <name>Filippo  Gori</name>
         </author>
     </entry>
     <entry>
