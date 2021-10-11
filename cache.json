@@ -849,6 +849,258 @@
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
         {
+          "id": "https://www.nber.org/papers/w29350#fromrss",
+          "author": null,
+          "description": "In spring 2005, Austria launched a campaign to inform employers and newspapers that gender preferences in job advertisements were illegal. At the time over 40% of openings on the nation’s largest job-board specified a preferred gender.  Over the next year the fraction fell to under 5%. We merge data on filled vacancies to linked employer-employee data to study how the elimination of gender preferences affected hiring and job outcomes. Prior to the campaign, most stated preferences were concordant with the firm’s existing gender composition, but a minority targeted the opposite gender - a subset we call non-stereotypical vacancies. Vacancies with a gender preference were very likely (>90%) to be filled by someone of that gender. We use pre-campaign vacancies to predict the probabilities of specifying preferences for females, males, or neither gender. We then conduct event studies of the effect of the campaign on the predicted preference groups. We find that the elimination of gender preferences led to a rise in the fraction of women hired for jobs that were likely to be targeted to men (and vice versa), increasing the diversity of hiring workplaces. Partially offsetting this effect, we find a reduction in the success of non-stereotypical vacancies in hiring the targeted gender, and indications of a decline in the efficiency of matching.  For the much larger set of stereotypical vacancies, however, vacancy filling times, wages, and job durations were largely unaffected by the campaign, suggesting that the elimination of stated preferences had at most small consequences on overall job match efficiency.",
+          "link": "https://www.nber.org/papers/w29350#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.914Z",
+          "wordCount": 1074,
+          "title": "Gender Preferences in Job Vacancies and Workplace Gender Diversity -- by David Card, Fabrizio Colella, Rafael Lalive"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29354#fromrss",
+          "author": null,
+          "description": "Recent research shows the negative impact of discrimination not only on the targets of discrimination but also on the economy as a whole. Racial and gender inequality can limit the entire economy's productive capacity and innovation outcomes. Using new data from NSF's Survey of Earned Doctorates on the scientific workforce from 1980 to 2019, as well as patenting and commercialization data, we examine racial and gender disparities at each stage of the innovation process—education and training, the practice of invention, and commercialization. While improving along certain dimensions over time, we find persistent racial and gender disparities consistent with the current literature. To reverse the negative effects on productive capacity and long-run economic growth, we also discuss the literature on mitigating discriminatory practices at each juncture, which could have significant distributional effects as access to good jobs expands.",
+          "link": "https://www.nber.org/papers/w29354#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.880Z",
+          "wordCount": 941,
+          "title": "Closing the Innovation Gap in Pink and Black -- by Lisa D. Cook, Janet Gerson, Jennifer Kuan"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29343#fromrss",
+          "author": null,
+          "description": "This paper studies the dynamics of unemployment (u) and its natural rate (u*), with u* measured by real-time estimates for 29 countries from the OECD. We find strong evidence of hysteresis: an innovation in u causes u* to change in the same direction, and therefore has permanent effects. For our baseline specification, a one percentage point deviation of u from u* for one year has a long-run effect of 0.16 points on both variables. When we allow asymmetry, we find, perhaps surprisingly, that decreases in u have larger long-run effects than increases in u.",
+          "link": "https://www.nber.org/papers/w29343#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.868Z",
+          "wordCount": 771,
+          "title": "Hysteresis in Unemployment: Evidence from OECD Estimates of the Natural Rate -- by Laurence M. Ball, Joern Onken"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29364#fromrss",
+          "author": null,
+          "description": "We explore the sources of racial disparities in small business lending by studying the $806 billion Paycheck Protection Program (PPP), which was designed to support small business jobs during the COVID-19 pandemic. PPP loans were administered by private lenders but federally guaranteed, largely eliminating unobservable credit risk as a factor in explaining differential lending by race. We document that even after controlling for a firm’s zip code, industry, loan size, PPP approval date, and other characteristics, Black-owned businesses were 12.1 percentage points (70% of the mean) more likely to obtain their PPP loan from a fintech lender than a traditional bank. Among conventional lenders, smaller banks were much less likely to lend to Black-owned firms, while the Top-4 banks exhibited little to no disparity after including controls. We use novel data to show that the disparity is not primarily explained by differences in pre-existing bank or credit relationships, firm financial positions, fintech affinity, or borrower application behavior. In contrast, we document that Black-owned businesses’ higher rate of borrowing from fintechs compared to smaller banks is particularly large in places with high racial animus, pointing to a potential role for discrimination in explaining some of the racial disparities in small business lending. We find evidence that when small banks automate their lending processes, and thus reduce human involvement in the loan origination process, their rate of PPP lending to Black-owned businesses increases, with larger effects in places with more racial animus.",
+          "link": "https://www.nber.org/papers/w29364#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.847Z",
+          "wordCount": 1031,
+          "title": "Racial Disparities in Access to Small Business Credit: Evidence from the Paycheck Protection Program -- by Sabrina T. Howell, Theresa Kuchler, David Snitkof, Johannes Stroebel, Jun Wong"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29359#fromrss",
+          "author": null,
+          "description": "Income taxes are typically set to raise revenues and redistribute income at the lowest possible efficiency costs, which result from the distortions in individual behaviors that taxes entail. Individuals can respond along many margins, such as labor supply, tax avoidance and evasion, and geographic mobility. But one margin that taxes may affect — innovation — is less frequently considered. Conceptually, taxes reduce the expected net returns to innovation inputs and can reduce innovation. Much like other margins of responses to taxes, this efficiency cost must be taken into account. Innovation is done by a relatively small number of people, but it is nevertheless likely to have widespread benefits. While inventors may have divergent motivations, such as social recognition or the love of discovery, they also face an economic reality. How strongly innovation responds to taxes is an empirical question that has been the subject of a growing body of recent work. In this paper, I study how to account for innovation when setting personal income and capital taxation. I distinguish between two cases: one in which the government can set a differentiated tax on inventors and one in which the government is constrained to set the same tax on all agents. I provide a model that flexibly accounts for the spillovers generated by innovation and the non-pecuniary benefits inventors receive from innovation and derive tax formulas expressed in terms of estimable sufficient statistics. The second part of the paper discusses the empirical evidence on the effects of taxes on the quantity, quality, and location of innovation, as well as tax avoidance and income shifting done through innovation.",
+          "link": "https://www.nber.org/papers/w29359#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.787Z",
+          "wordCount": 980,
+          "title": "The Effects of Taxes on Innovation: Theory and Empirical Evidence -- by Stefanie Stantcheva"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29360#fromrss",
+          "author": null,
+          "description": "Almost all countries announced fiscal support programs once COVID-19 hit. However, there was significant diversity in the magnitude and composition of these fiscal stimulus programs. These differences were determined by myriad political, financial, social, and economic factors - these factors are our focus. We ask what were the factors that are associated with the structure of the fiscal programs that governments chose to adopt in the early stage of the pandemic in 2020. We answer this question using details about the fiscal programs that were announced by 98 governments in the first six months of the pandemic, together with a large set of explanatory variables. Maybe not surprisingly, we find that politics played a very significant part in determining the size and composition of these fiscal programs. Governments and societies that are less polarized and more capable were able to mobilise more fiscal resources. We also find that it was governments with bigger debt loads that announced bigger programs, but that sovereign spreads were not so clearly associated with the size of these program plans. There is a limit, however, to what we can glean from these cross-country comparisons. Ultimately, the understanding of the politics and political-economy considerations that led to the specific content of each fiscal program will have to rely on information about the actual deliberations in each government’s halls of power, should these ever become public.",
+          "link": "https://www.nber.org/papers/w29360#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.743Z",
+          "wordCount": 918,
+          "title": "The Political Economy of the COVID-19 Fiscal Stimulus Packages of 2020 -- by Joshua Aizenman, Yothin Jinjarak, Hien Nguyen, Ilan Noy"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29358#fromrss",
+          "author": null,
+          "description": "This paper extends my research applying statistical decision theory to treatment choice with sample data, using maximum regret to evaluate the performance of treatment rules. The specific new contribution is to study as-if optimization using estimates of illness probabilities in clinical choice between surveillance and aggressive treatment. Beyond its specifics, the paper sends a broad message. Statisticians and computer scientists have addressed conditional prediction for decision making in indirect ways, the former applying classical statistical theory and the latter measuring prediction accuracy in test samples. Neither approach is satisfactory. Statistical decision theory provides a coherent, generally applicable methodology.",
+          "link": "https://www.nber.org/papers/w29358#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.686Z",
+          "wordCount": 803,
+          "title": "Probabilistic Prediction for Binary Treatment Choice: with Focus on Personalized Medicine -- by Charles F. Manski"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29346#fromrss",
+          "author": null,
+          "description": "This paper uses the initial phase of the COVID-19 pandemic to examine how macroprudential frameworks developed over the past decade performed during a period of heightened financial and economic stress. It discusses a new measure of the macroprudential stance that better captures the intensity of different policies across countries and time. Then it shows that macroprudential policy has been used countercyclically—with stances tightened during the 2010’s and eased in response to COVID-19 by more than previous risk-off periods. Countries that tightened macroprudential policy more aggressively before COVID, as well as those that eased more during the pandemic, experienced less financial and economic stress. Countries’ ability to use macroprudential policy, however, was significantly constrained by the extent of existing “policy space”, i.e., by how aggressively policy was tightened before COVID-19. The use of macroprudential tools was not significantly affected by the space available to use other policy tools (such as fiscal policy, monetary policy, FX intervention, and capital flow management measures), and the use of other tools was not significantly affected by the space available to use macroprudential policy. This suggests that although macroprudential tools are being used countercyclically and should therefore help stabilize economies and financial markets, there appears to be an opportunity to better integrate the use of macroprudential tools with other policies in the future.",
+          "link": "https://www.nber.org/papers/w29346#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.664Z",
+          "wordCount": 987,
+          "title": "Macroprudential Policy during COVID-19: The Role of Policy Space -- by Katharina Bergant, Kristin Forbes"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29362#fromrss",
+          "author": null,
+          "description": "Children's experiences during early childhood are critical for their cognitive and socio-emotional development, two key dimensions of human capital. However, children from low income backgrounds often grow up lacking stimulation and basic investments, leading to developmental deficits that are difficult, if not impossible, to reverse later in life without intervention. The existence of these deficits are a key driver of inequality and contribute to the intergenerational transmission of poverty. In this paper, we discuss the framework used in economics to model parental investments and early childhood development and use it as an organizing tool to review some of the empirical evidence on early childhood research. We then present results from various important early childhoods interventions with emphasis on developing countries. Bringing these elements together we draw conclusions on what we have learned and provide some directions for future research.",
+          "link": "https://www.nber.org/papers/w29362#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.637Z",
+          "wordCount": 892,
+          "title": "Early Childhood Development, Human Capital and Poverty -- by Orazio Attanasio, Sarah Cattan, Costas Meghir"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29351#fromrss",
+          "author": null,
+          "description": "If the U.S. is on a fiscally sustainable path, then higher U.S. government debt/output ratios should reliably predict higher future surpluses or lower real returns on Treasurys. In the post-war sample, we find no evidence for this. Neither future cash flows nor discount rates account for the variation in the current debt/output ratio. Instead, the future debt/output ratio accounts for most of the variation. Systematic surplus forecast errors can account for part of these findings. Since the start of the GFC, surplus projections have anticipated a large fiscal correction that failed to materialize.",
+          "link": "https://www.nber.org/papers/w29351#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.556Z",
+          "wordCount": 784,
+          "title": "What Drives Variation in the U.S. Debt/Output Ratio? The Dogs that Didn't Bark -- by Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh, Mindy Z. Xiaolan"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29347#fromrss",
+          "author": null,
+          "description": "This paper employs an updated algorithm and database for classifying exchange rate and anchor currency choice, to explore the evolution of the global exchange rate system, including parallel rates, capital controls and reserves. In line with a large recent literature, we find that the dollar has become ever-more central as the de facto anchor or reference currencies for much of the world. Our discussion encompasses the history of anchor currency choice, methods for classifying exchange rate regimes, a detailed discussion of the evolution of regimes, the growing substitution of reserves for capital controls as a tool for exchange rate stabilization, the modern Triffin dilemma, and the surprising recent trend decline in volatility of exchange rates at the core of the system. It concludes with issues surrounding the rise of China.",
+          "link": "https://www.nber.org/papers/w29347#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.480Z",
+          "wordCount": 877,
+          "title": "Rethinking Exchange Rate Regimes -- by Ethan Ilzetzki, Carmen M. Reinhart, Kenneth S. Rogoff"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29356#fromrss",
+          "author": null,
+          "description": "We use population administrative data from Sweden to study adherence to 63 medication-related guidelines. We compare the adherence of patients without personal access to medical expertise to the adherence of those with access, namely doctors and their close relatives. We estimate that, among observably similar patients, access to expertise is associated with 3.8 percentage points lower adherence, relative to a baseline adherence rate of 54.4 percent among those without access. This association is larger for recommendations with a weaker clinical motivation. Our findings suggest an important role in non-adherence for factors other than those, such as ignorance, complexity, or failures of patient-provider communication, that would be expected to diminish with access to expertise.",
+          "link": "https://www.nber.org/papers/w29356#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.361Z",
+          "wordCount": 912,
+          "title": "A Taste of Their Own Medicine: Guideline Adherence and Access to Expertise -- by Amy Finkelstein, Petra Persson, Maria Polyakova, Jesse M. Shapiro"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29353#fromrss",
+          "author": null,
+          "description": "Previous measures of the incidence of public investment in higher education focus on the transfer to public college students. This implies that the net benefits to students who do not attend public colleges is negative. However, they miss potential general equilibrium effects on the private college and labor markets. Changes in the public college market affect who private colleges admit, what prices they charge, and the number of students who enroll in any college. We show that capturing these spillovers is important for characterizing incidence using a model of higher education that we validate with quasi-experimental variation in state spending. Unlike previous measures, we find that high-income-modest-ability students especially benefit since they are only admitted to high-quality private colleges when state spending is high, and the public colleges create sufficient competitive pressure. Decreased investment also reduces educational attainment, raising the college wage premium. This exacerbates private college market power.",
+          "link": "https://www.nber.org/papers/w29353#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.344Z",
+          "wordCount": 878,
+          "title": "College Choice, Private Options, and The Incidence of Public Investment in Higher Education -- by John Bound, Andrew Simon"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29349#fromrss",
+          "author": null,
+          "description": "How much has the US-China tariff war impacted economic outcomes in China? We address this question using high-frequency night lights data, together with measures of the trade exposure of fine grid locations constructed from Chinese firms' geo-coordinates. Exploiting within-grid variation over time and controlling extensively for grid-specific contemporaneous trends, we find that each 1 percentage point increase in exposure to the US tariffs was associated with a 0.59% reduction in night-time luminosity. We combine these with structural elasticities that relate night lights to economic outcomes, motivated by the statistical framework of Henderson et al. (2012). The negative impact of the tariff war was highly skewed across locations: While grids with negligible direct exposure to the US tariffs accounted for up to 70% of China's population, we infer that the 2.5% of the population in grids with the largest US tariff shocks saw a 2.52% (1.62%) decrease in income per capita (manufacturing employment) relative to unaffected grids. By contrast, we do not find significant effects from China's retaliatory tariffs.",
+          "link": "https://www.nber.org/papers/w29349#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.331Z",
+          "wordCount": 891,
+          "title": "Illuminating the Effects of the US-China Tariff War on China's Economy -- by Davin Chor, Bingjing Li"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29365#fromrss",
+          "author": null,
+          "description": "While major stock market indices are followed by large monetary investments, we document that membership decisions for the S&P 500 index have a nontrivial amount of discretion. We show that firms’ purchases of S&P ratings appear to improve their chance of entering the index (but purchases of Moody’s ratings do not). Furthermore, firms tend to purchase more S&P ratings when there are openings in the index membership. Such a pattern is also confirmed by an event study that explores a rule change on index membership in 2002. Finally, discretionary additions exhibit subsequent deterioration in financial performance relative to rule-based additions.",
+          "link": "https://www.nber.org/papers/w29365#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.291Z",
+          "wordCount": 802,
+          "title": "Is Stock Index Membership for Sale? -- by Kun Li, Xin (Kelly) Liu, Shang-Jin Wei"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29366#fromrss",
+          "author": null,
+          "description": "The proposed change under the American Families Plan (AFP) to the Tax Cuts and Jobs Act (TCJA) Child Tax Credit (CTC) would increase maximum benefit amounts to $3,000 or $3,600 per child (up from $2,000 per child) and make the full credit available to all low and middle-income families regardless of earnings or income. We estimate the anti-poverty, targeting, and labor supply effects of the expansion by linking survey data with administrative tax and government program data which form part of the Comprehensive Income Dataset (CID). Initially ignoring any behavioral responses, we estimate that the expansion of the CTC would reduce child poverty by 34% and deep child poverty by 39%. The expansion of the CTC would have a larger anti-poverty effect on children than any existing government program, though at a higher cost per child raised above the poverty line than any other means-tested program. Relatedly, the CTC expansion would allocate a smaller share of its total dollars to families at the bottom of the income distribution—as well as families with the lowest levels of long-term income, education, or health—than any existing means-tested program with the exception of housing assistance. We then simulate anti-poverty effects accounting for labor supply responses. By replacing the TCJA CTC (which contained substantial work incentives akin to the Earned Income Tax Credit) with a universal basic income-type benefit, the CTC expansion reduces the return to working at all by at least $2,000 per child for most workers with children. Relying on elasticity estimates consistent with mainstream simulation models and the academic literature, we estimate that this change in policy would lead 1.5 million workers (constituting 2.6% of all working parents) to exit the labor force. The decline in employment and the consequent earnings loss would mean that child poverty would only fall by 22% and deep child poverty would not fall at all with the CTC expansion.",
+          "link": "https://www.nber.org/papers/w29366#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.241Z",
+          "wordCount": 1135,
+          "title": "The Anti-Poverty, Targeting, and Labor Supply Effects of the Proposed Child Tax Credit Expansion -- by Kevin Corinth, Bruce D. Meyer, Matthew Stadnicki, Derek Wu"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29363#fromrss",
+          "author": null,
+          "description": "We exploit substantial variation in land-market institutions across Indian states and detailed micro household-level panel data to assess the effect of distortions in land rental markets on agricultural productivity. We provide empirical evidence that states with more rental-market activity feature less misallocation and reallocate land more efficiently over time. We develop a model of heterogeneous farms and land rentals to estimate land-market distortions in each state. Land rentals have substantial positive effects on agricultural productivity: an efficient reallocation of land increases agricultural productivity by 38 percent on average and by more than 50 percent in states with highly distorted rental markets. Both farm and state-level land market distortions are quantitatively important, with state-level wedges accounting for a significant fraction of rental market participation differences across states. Land market distortions contribute about one-third to the large differences in agricultural total factor productivity across Indian states.",
+          "link": "https://www.nber.org/papers/w29363#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.228Z",
+          "wordCount": 903,
+          "title": "Misallocation in Indian Agriculture -- by Marijn A. Bolhuis, Swapnika R. Rachapalli, Diego Restuccia"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29361#fromrss",
+          "author": null,
+          "description": "We examine how the net worth of billionaires relates to their looks, as rated by 16 people of different gender and ethnicity. Surprisingly, their financial assets are unrelated to their beauty; nor are they related to their educational attainment. As a group, however, billionaires are both more educated and better-looking than average for their age. Men, people who reside in Western countries, and those who inherited substantial wealth, are wealthier than other billionaires. The results do not arise from measurement error or nonrandom sample selectivity. They are consistent with econometric theory about the impact of truncating a sample to include observations only from the extreme tail of the dependent variable. The point is underscored by comparing estimates of earnings equations using all employees in the 2018 American Community Survey to those using a sample of the top 0.1 percent. The findings suggest the powerful role of luck within the extremes of the distributions of economic outcomes.",
+          "link": "https://www.nber.org/papers/w29361#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.212Z",
+          "wordCount": 876,
+          "title": "“Beauty Too Rich for Use”*: Billionaires’ Assets and Attractiveness -- by Daniel S. Hamermesh, Andrew Leigh"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29355#fromrss",
+          "author": null,
+          "description": "We study whether vouchers with and without value information encourage completion of already free follow-up appointments in a low-income minority population in Baltimore City referred for definitive evaluation of possible eye disease. Between May 2017 and September 2018, 821 individuals referred for free follow-up from 114 screening events received 1) standard referral, 2) a voucher redeemable for free follow-up and prescription glasses, or 3) a voucher including a statement of monetary value ($250). All referred individuals received patient education, counseling, and appointment reminders. We find that vouchers with and without value information increase follow-up appointments by 12.5 and 20.3 percentage points, respectively, corresponding to a 36%-58% increase compared to the standard referral with no voucher. We conclude that reframing free targeted health service offers by providing vouchers with value information is a promising, low-cost tool to increase uptake.",
+          "link": "https://www.nber.org/papers/w29355#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.179Z",
+          "wordCount": 900,
+          "title": "Providing Vouchers and Value Information for Already Free Eye Exams Increases Uptake Among a Low-Income Minority Population: A Randomized Trial -- by Seema Kacker, Mario Macis, Prateek Gajwani, David S. Friedman"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29357#fromrss",
+          "author": null,
+          "description": "Species extinctions and ecological degradation are accelerating to a degree unprecedented in human history. We present causal evidence on the economic drivers of biodiversity loss using a novel panel dataset on the types and quantities of wildlife at thousands of locations across the U.S. from 1960-2015. Exploiting fiscal and regulatory shocks to local economic output, we document large, negative impacts of GDP on abundance and diversity of species spanning multiple taxa. The adverse effects of production are mitigated by conservation and air emission abatement efforts, which points toward habitat losses and pollution as underlying contributors to contemporaneous biodiversity declines.",
+          "link": "https://www.nber.org/papers/w29357#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.159Z",
+          "wordCount": 787,
+          "title": "Economic Production and Biodiversity in the United States -- by Yuanning Liang, Ivan J. Rudik, Eric Zou"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29352#fromrss",
+          "author": null,
+          "description": "Interest rates on government debt have fallen in many countries over the last several decades, with markets indicating that rates may stay low well into the future.  It is by now well understood that sustained low interest rates can change the nature of long-run fiscal policy choices.  In this paper, we examine a related issue: the implications of sustained low interest rates for the structure of tax policy.  We show that low interest rates (a) reduce the differences between consumption and income taxes; (b) make wealth taxes less efficient relative to capital income taxes, at given rates of tax; (c) reduce the value of firm-level investment incentives, and (d) substantially raise the valuation of benefits of carbon abatement policies relative to their costs.",
+          "link": "https://www.nber.org/papers/w29352#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.130Z",
+          "wordCount": 841,
+          "title": "Tax Policy Design with Low Interest Rates -- by Alan J. Auerbach, William Gale"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29345#fromrss",
+          "author": null,
+          "description": "Covid-19 highlighted the weaknesses in the supply chain. Many have argued that a more resilient or robust supply chain is needed. But what does a robust supply chain mean? And how do firms’ decisions change when taken that approach? This paper studies a very stylized model of a supply chain, where we study how the decision of a multinational corporation changes in the presence of uncertainty. The two standard theories of supply chain are Just-in-time and Just-in-case. Just-in-time argues in favor of pursuing efficiency, while Just-in-case studies how such decision changes when the firm faces idiosyncratic risk. We find that a robust supply chain is very different specially in the presence of systemic shocks. In this case, firms need to concentrate on the worst-case. This strategy implies a supply chain where the allocation of resources and capabilities does not correspond to the standard theories studied in economics, but follow a heuristic behavioral rule called “probability matching”. It has been found in nature and in experimental research that subjects appeal to probability matching when seeking survival. We find that a robust supply chain will reproduce this behavioral outcome. In fact, a multinational optimizing under uncertainty, follows a probability matching which leads to an allocation that is suboptimal from the individual producer point of view, but rules out the possibility of supply disruptions.",
+          "link": "https://www.nber.org/papers/w29345#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.116Z",
+          "wordCount": 971,
+          "title": "From Just in Time, to Just in Case, to Just in Worst-Case: Simple models of a Global Supply Chain under Uncertain Aggregate Shocks. -- by Bomin Jiang, Daniel E. Rigobon, Roberto Rigobon"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29339#fromrss",
+          "author": null,
+          "description": "The COVID-19 pandemic has upended health and living standards around the world. This article provides an interim overview of these effects, with a particular focus on low- and middle-income countries (LMICs). Economists have explained how the pandemic is likely to have differential consequences for LMICs, and demand distinct policy responses, compared to rich countries. We survey the rapidly expanding body of empirical research that documents its many adverse economic and non-economic effects in terms of living standards, education, health, and gender equality, which appear to be unprecedented in depth and scale. We also review research on successful and failed policy responses, including the failure to ensure widespread vaccine coverage in LMICs, which is needed to end the pandemic. We close with a discussion of implications for public policy in LMICs, and for the institutions of international governance, given the likelihood of future pandemics and other major shocks (e.g., climate).",
+          "link": "https://www.nber.org/papers/w29339#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.101Z",
+          "wordCount": 883,
+          "title": "The Economics of the COVID-19 Pandemic in Poor Countries -- by Edward Miguel, Ahmed Mushfiq Mobarak"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29342#fromrss",
+          "author": null,
+          "description": "Recent proposals to expand the Child Tax Credit (CTC) are at the center of current policy discussions in the United States. We study the fiscal cost of three such proposals that would expand refundability of the credit to low-income children, increase the maximum credit amount, and/or eliminate the income phase-out to make the credit universal. For each proposal, we use the Current Population Survey to estimate three components of the net fiscal cost: the direct cost (additional tax refunds or lower tax liability), revenue changes due to taxpayers’ labor supply responses, and long-term changes in tax revenue due to changes in children’s future earnings. We find that direct costs are by far the most important component but that long-term earning changes also play an important role, offsetting one-third or more of the direct costs, depending on the proposal and modeling assumptions. In contrast, labor supply responses only modestly contribute to the fiscal cost of CTC expansions.",
+          "link": "https://www.nber.org/papers/w29342#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.072Z",
+          "wordCount": 842,
+          "title": "Estimating the Net Fiscal Cost of a Child Tax Credit Expansion -- by Jacob Goldin, Elaine Maag, Katherine Michelmore"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29348#fromrss",
+          "author": null,
+          "description": "Outsourced workers experience large wage declines, yet domestic outsourcing may raise aggregate productivity. To study this equity-efficiency trade-off, we contribute a framework in which firms either hire many imperfectly substitutable worker types in-house by posting wages along a job ladder, or rent labor services from contractors who hire in the same frictional labor markets. Three implications arise. First, more productive firms are more likely to outsource to save on higher wage premia. Second, outsourcing raises output at the firm level. Third, contractors endogenously locate at the bottom of the job ladder, implying that outsourced workers receive lower wages. Using firm-level instruments for outsourcing and revenue productivity, we find empirical support for all three predictions in French administrative data. After structurally estimating the model, we find that the rise in outsourcing in France between 1996 and 2007 raised aggregate output by 3% and reduced the labor share by 0.7 percentage points. A 9% minimum wage increase stabilizes the labor share and maintains two thirds of the output gains.",
+          "link": "https://www.nber.org/papers/w29348#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.051Z",
+          "wordCount": 941,
+          "title": "Outsourcing, Inequality and Aggregate Output -- by Adrien Bilal, Hugo Lhuillier"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29344#fromrss",
+          "author": null,
+          "description": "We propose an approach to measuring the state of the economy via textual analysis of business news. From the full text of 800,000 Wall Street Journal articles for 1984–2017, we estimate a topic model that summarizes business news into interpretable topical themes and quantifies the proportion of news attention allocated to each theme over time. News attention closely tracks a wide range of economic activities and explains 25% of aggregate stock market returns. A text-augmented VAR demonstrates the large incremental role of news text in modeling macroeconomic dynamics. We use this model to retrieve the narratives that underlie business cycle fluctuations.",
+          "link": "https://www.nber.org/papers/w29344#fromrss",
+          "publishedOn": "2021-10-11T06:06:36.014Z",
+          "wordCount": 763,
+          "title": "Business News and Business Cycles -- by Leland Bybee, Bryan T. Kelly, Asaf Manela, Dacheng Xiu"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29341#fromrss",
+          "author": null,
+          "description": "Lead poisoning has well-known impacts for the developing brain of young children, with a large literature documenting the negative effects of elevated blood lead levels on academic and behavioral outcomes. In April of 2014, the municipal water source in Flint, Michigan was changed, causing lead from aging pipes to leach into the city’s drinking water. In this study, we use Michigan’s universe of longitudinal, student-level education records, combined with home water service line inspection data containing the location of lead pipes, to empirically examine the effect of the Flint Water Crisis on educational outcomes of Flint public school children. We leverage parallel causal identification strategies, a between-district synthetic control analysis and a within-Flint difference-in-differences analysis, to separate out the direct health effects of lead exposure from the broad effects of living in a community experiencing a crisis. Our results highlight a less well-appreciated consequence of the Flint Water Crisis – namely, the psychosocial effects of the crisis on the educational outcomes of school-age children. These findings suggest that cost estimates which rely only on the negative impact of direct lead exposure substantially underestimate the overall societal cost of the crisis.",
+          "link": "https://www.nber.org/papers/w29341#fromrss",
+          "publishedOn": "2021-10-11T06:06:35.992Z",
+          "wordCount": 1039,
+          "title": "The Psychosocial Effects of the Flint Water Crisis on School-Age Children -- by Sam Trejo, Gloria Yeomans-Maldonado, Brian Jacob"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29340#fromrss",
+          "author": null,
+          "description": "There are two broad views as to why people stay poor. One emphasizes differences in fundamentals, such as ability, talent or motivation. The other, the poverty traps view, differences in opportunities which stem from access to wealth. To test between these two views, we exploit a large-scale, randomized asset transfer and an 11-year panel on 6000 households who begin in extreme poverty. The setting is rural Bangladesh and the asset is cows. The data supports the poverty traps view - we identify a threshold level of initial assets above which households accumulate assets, take on better occupations (from casual labor in agriculture or domestic services to running small livestock businesses) and grow out of poverty. The reverse happens for those below the threshold. Structural estimation of an occupational choice model reveals that almost all beneficiaries are misallocated in the work they do at baseline and that the gains arising from eliminating misallocation would far exceed the program costs. Our findings imply that large transfers which create better jobs for the poor are an effective means of getting people out of poverty traps and reducing global poverty.",
+          "link": "https://www.nber.org/papers/w29340#fromrss",
+          "publishedOn": "2021-10-11T06:06:35.976Z",
+          "wordCount": 979,
+          "title": "Why do people stay poor? -- by Clare A. Balboni, Oriana Bandiera, Robin Burgess, Maitreesh Ghatak, Anton Heil"
+        },
+        {
           "id": "https://www.nber.org/papers/w29316#fromrss",
           "author": null,
           "description": "Identification in VARs has traditionally mainly relied on second moments. Some researchers have considered using higher moments as well, but there are concerns about the strength of the identification obtained in this way. In this paper, we propose refining existing identification schemes by augmenting sign restrictions with a requirement that rules out shocks whose higher moments significantly depart from independence. This approach does not assume that higher moments help with identification; it is robust to weak identification. In simulations we show that it controls coverage well, in contrast to approaches that assume that the higher moments deliver point-identification. However, it requires large sample sizes and/or considerable non-normality to reduce the width of confidence intervals by much. We consider some empirical applications.  We find that it can reject many possible rotations. The resulting confidence sets for impulse responses may be non-convex, corresponding to disjoint parts of the space of rotation  matrices. We show that in this case, augmenting sign and magnitude restrictions with an independence requirement can yield bigger gains.",
