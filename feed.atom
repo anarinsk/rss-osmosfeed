@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-11T15:03:57.771Z</updated>
+    <updated>2021-10-11T18:04:51.793Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Goldman on Housing: "Multi-year boom in home prices"]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/qjDzUVSCLeg/goldman-on-housing-multi-year-boom-in.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/qjDzUVSCLeg/goldman-on-housing-multi-year-boom-in.html"/>
+        <updated>2021-10-11T17:44:00.001Z</updated>
+        <summary type="html"><![CDATA[A few excerpts from a Goldman Sachs research note: The Housing Shortage: Prices, Rents, and Deregulation  
+Of all the shortages afflicting the US economy, the housing shortage might last the longest. Earlier this year, we argued that constrained supply and sustainably robust demand would keep the US housing market very tight, pushing up home prices and rents sharply. The boom since then has surpassed even our lofty expectations, with home prices now up 20% over the last year. ...
+The supply-demand picture that has been the basis for our call for a multi-year boom in home prices remains intact. Housing inventories remain historically tight, while homes remain relatively affordable despite the recent price increases, and surveys of home buying intentions remain at healthy levels. Our model now projects that home prices will grow a further 16% by the end of 2022.
+emphasis added]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mortgage Rates Highest in 6 Months; Refinance Activity Will Slow]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/BE2Vobjbl4Y/mortgage-rates-highest-in-6-months.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/BE2Vobjbl4Y/mortgage-rates-highest-in-6-months.html"/>
+        <updated>2021-10-11T16:01:00.001Z</updated>
+        <summary type="html"><![CDATA[Today, in the Newsletter: Mortgage Rates Highest in 6 Months
+Excerpt: 
+The general rule of thumb is refinance activity will be strong if current mortgage rates are 50bps lower than the maximum of the previous year (this is just a general rule - but it works pretty well).
+The following graph shows the MBA Refinance Index (Blue) and the change in mortgage rates (Red). The change is calculated as Maximum in Previous Year minus the current rate). When the red line is above 0.5% (more than 50bps decline in mortgage rates), then refinance activity generally picks up.
+
+ Please subscribe!]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Housing Inventory Oct 11th Update: Inventory Down Slightly Week-over-week]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/hw4KSK5Jqw0/housing-inventory-oct-11th-update.html</id>
@@ -2053,6 +2081,17 @@ Some private mortgage industry participants have already increased their “conf
 Note that they are only raising the “limit” from $548,250 (low cost areas) to $625,000. That is a 14% increase, and the FHFA will probably increase the limit closer to 18% (like to around $645,000 or so).]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Package Manager 1.1]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=7033</id>
+        <link href="https://devblogs.microsoft.com/commandline/windows-package-manager-1-1/"/>
+        <updated>2021-10-05T16:00:36.000Z</updated>
+        <summary type="html"><![CDATA[I’m excited to share some great news. We’re releasing Windows Package Manager 1.1. We’ve squashed some annoying bugs and added some highly anticipated features. The Windows Package Manager is being released to Windows 10 (build 1809 and newer) and Windows 11 as an automatic update via the Microsoft Store.
+The post Windows Package Manager 1.1 appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Demitrius Nelon</name>
         </author>
     </entry>
     <entry>

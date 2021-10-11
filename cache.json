@@ -459,7 +459,17 @@
       "title": "Windows Command Line",
       "feedUrl": "https://devblogs.microsoft.com/commandline/feed/",
       "siteUrl": "https://devblogs.microsoft.com/commandline",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://devblogs.microsoft.com/commandline/?p=7033",
+          "author": "Demitrius Nelon",
+          "description": "I’m excited to share some great news. We’re releasing Windows Package Manager 1.1. We’ve squashed some annoying bugs and added some highly anticipated features. The Windows Package Manager is being released to Windows 10 (build 1809 and newer) and Windows 11 as an automatic update via the Microsoft Store.\nThe post Windows Package Manager 1.1 appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/windows-package-manager-1-1/",
+          "publishedOn": "2021-10-05T16:00:36.000Z",
+          "wordCount": 1651,
+          "title": "Windows Package Manager 1.1"
+        }
+      ]
     },
     {
       "title": "A Fine Theorem",
@@ -2029,6 +2039,24 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/qjDzUVSCLeg/goldman-on-housing-multi-year-boom-in.html",
+          "author": null,
+          "description": "A few excerpts from a Goldman Sachs research note: The Housing Shortage: Prices, Rents, and Deregulation  \nOf all the shortages afflicting the US economy, the housing shortage might last the longest. Earlier this year, we argued that constrained supply and sustainably robust demand would keep the US housing market very tight, pushing up home prices and rents sharply. The boom since then has surpassed even our lofty expectations, with home prices now up 20% over the last year. ...\nThe supply-demand picture that has been the basis for our call for a multi-year boom in home prices remains intact. Housing inventories remain historically tight, while homes remain relatively affordable despite the recent price increases, and surveys of home buying intentions remain at healthy levels. Our model now projects that home prices will grow a further 16% by the end of 2022.\nemphasis added",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/qjDzUVSCLeg/goldman-on-housing-multi-year-boom-in.html",
+          "publishedOn": "2021-10-11T17:44:00.001Z",
+          "wordCount": 958,
+          "title": "Goldman on Housing: \"Multi-year boom in home prices\""
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/BE2Vobjbl4Y/mortgage-rates-highest-in-6-months.html",
+          "author": null,
+          "description": "Today, in the Newsletter: Mortgage Rates Highest in 6 Months\nExcerpt: \nThe general rule of thumb is refinance activity will be strong if current mortgage rates are 50bps lower than the maximum of the previous year (this is just a general rule - but it works pretty well).\nThe following graph shows the MBA Refinance Index (Blue) and the change in mortgage rates (Red). The change is calculated as Maximum in Previous Year minus the current rate). When the red line is above 0.5% (more than 50bps decline in mortgage rates), then refinance activity generally picks up.\n\n Please subscribe!",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/BE2Vobjbl4Y/mortgage-rates-highest-in-6-months.html",
+          "publishedOn": "2021-10-11T16:01:00.001Z",
+          "wordCount": 920,
+          "title": "Mortgage Rates Highest in 6 Months; Refinance Activity Will Slow"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/hw4KSK5Jqw0/housing-inventory-oct-11th-update.html",
           "author": null,
