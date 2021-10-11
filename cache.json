@@ -461,6 +461,15 @@
       "siteUrl": "https://devblogs.microsoft.com/commandline",
       "articles": [
         {
+          "id": "https://devblogs.microsoft.com/commandline/?p=7068",
+          "author": "Craig Loewen",
+          "description": "The Windows Subsystem for Linux (WSL) preview is now available in the Microsoft Store as a store application for Windows 11 machines! Installing WSL through the store will allow you to get the latest WSL updates and features faster, and without needing to modify your Windows version.\nThe post A preview of WSL in the Microsoft Store is now available! appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/",
+          "publishedOn": "2021-10-11T17:41:36.000Z",
+          "wordCount": 1850,
+          "title": "A preview of WSL in the Microsoft Store is now available!"
+        },
+        {
           "id": "https://devblogs.microsoft.com/commandline/?p=7033",
           "author": "Demitrius Nelon",
           "description": "I’m excited to share some great news. We’re releasing Windows Package Manager 1.1. We’ve squashed some annoying bugs and added some highly anticipated features. The Windows Package Manager is being released to Windows 10 (build 1809 and newer) and Windows 11 as an automatic update via the Microsoft Store.\nThe post Windows Package Manager 1.1 appeared first on Windows Command Line.",
@@ -2039,6 +2048,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/M2Qz4wfaDKc/mba-survey-share-of-mortgage-loans-in_11.html",
+          "author": null,
+          "description": "Note: This is as of October 3rd.\nFrom the MBA: Share of Mortgage Loans in Forbearance Decreases to 2.62%\nThe Mortgage Bankers Association’s (MBA) latest Forbearance and Call Volume Survey revealed that the total number of loans now in forbearance  decreased by 27 basis points from 2.89% of servicers’ portfolio volume in the prior week to 2.62% as of  October 3, 2021. According to MBA’s estimate, 1.3 million homeowners are in forbearance plans.\n  \nThe share of Fannie Mae and Freddie Mac loans in forbearance decreased 17 basis points to 1.21%. Ginnie Mae loans in forbearance decreased 41 basis points to 2.94%, and the forbearance share for  portfolio loans and private-label securities (PLS) declined 35 basis points to 6.42%. The percentage of  loans in forbearance for independent mortgage ba…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/M2Qz4wfaDKc/mba-survey-share-of-mortgage-loans-in_11.html",
+          "publishedOn": "2021-10-11T20:05:00.001Z",
+          "wordCount": 1229,
+          "title": "MBA Survey: \"Share of Mortgage Loans in Forbearance Decreases to 2.62%\""
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/qjDzUVSCLeg/goldman-on-housing-multi-year-boom-in.html",
           "author": null,

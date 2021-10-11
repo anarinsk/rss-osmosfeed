@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-11T18:04:51.793Z</updated>
+    <updated>2021-10-11T21:03:09.951Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MBA Survey: "Share of Mortgage Loans in Forbearance Decreases to 2.62%"]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/M2Qz4wfaDKc/mba-survey-share-of-mortgage-loans-in_11.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/M2Qz4wfaDKc/mba-survey-share-of-mortgage-loans-in_11.html"/>
+        <updated>2021-10-11T20:05:00.001Z</updated>
+        <summary type="html"><![CDATA[Note: This is as of October 3rd.
+From the MBA: Share of Mortgage Loans in Forbearance Decreases to 2.62%
+The Mortgage Bankers Association’s (MBA) latest Forbearance and Call Volume Survey revealed that the total number of loans now in forbearance  decreased by 27 basis points from 2.89% of servicers’ portfolio volume in the prior week to 2.62% as of  October 3, 2021. According to MBA’s estimate, 1.3 million homeowners are in forbearance plans.
+  
+The share of Fannie Mae and Freddie Mac loans in forbearance decreased 17 basis points to 1.21%. Ginnie Mae loans in forbearance decreased 41 basis points to 2.94%, and the forbearance share for  portfolio loans and private-label securities (PLS) declined 35 basis points to 6.42%. The percentage of  loans in forbearance for independent mortgage ba…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goldman on Housing: "Multi-year boom in home prices"]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/qjDzUVSCLeg/goldman-on-housing-multi-year-boom-in.html</id>
@@ -17,6 +31,17 @@ The supply-demand picture that has been the basis for our call for a multi-year 
 emphasis added]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A preview of WSL in the Microsoft Store is now available!]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=7068</id>
+        <link href="https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/"/>
+        <updated>2021-10-11T17:41:36.000Z</updated>
+        <summary type="html"><![CDATA[The Windows Subsystem for Linux (WSL) preview is now available in the Microsoft Store as a store application for Windows 11 machines! Installing WSL through the store will allow you to get the latest WSL updates and features faster, and without needing to modify your Windows version.
+The post A preview of WSL in the Microsoft Store is now available! appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Craig Loewen</name>
         </author>
     </entry>
     <entry>
