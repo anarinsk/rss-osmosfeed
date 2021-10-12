@@ -492,6 +492,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/simulating-future-global-automation-its-consequences-and-evaluating-policy-options",
+          "author": "Seth G.  Benzell, Victor Yifan Ye",
+          "description": "Despite clear economic benefits of new digital technologies, slow median wage growth has led many to worry that these new technologies are failing to deliver for the average worker. This column develops a new model of global automation and technological change to study the long-term consequences of these trends. It finds that automation can boost output and growth, but these benefits are not equally distributed across or within regions. Nevertheless, in developed countries smart fiscal policy, such as universal basic income, can make new technologies a win-win for all age and skill groups.",
+          "link": "https://voxeu.org/article/simulating-future-global-automation-its-consequences-and-evaluating-policy-options",
+          "publishedOn": "2021-10-12T00:00:00.000Z",
+          "wordCount": 2167,
+          "title": "Simulating the future of global automation, its consequences, and evaluating policy options"
+        },
+        {
+          "id": "https://voxeu.org/article/redistributive-effects-monetary-easing-across-generations",
+          "author": "Marcin Bielecki, Michał Brzoza-Brzezina, Marcin  Kolasa",
+          "description": "By boosting labor incomes and asset prices, a monetary easing is often believed to benefit the vast majority of households. This column argues that this intuition is misleading, because the effect of asset price changes for households depends not just on asset holdings, but on their maturity structure, which is largely driven by life-cycle motives. A typical monetary policy easing redistributes welfare from older to younger generations. Moreover, the resulting asset price appreciation is harmful for households that accumulate housing and save for retirement.",
+          "link": "https://voxeu.org/article/redistributive-effects-monetary-easing-across-generations",
+          "publishedOn": "2021-10-12T00:00:00.000Z",
+          "wordCount": 2409,
+          "title": "Redistributive effects of a monetary easing across generations"
+        },
+        {
           "id": "https://voxeu.org/article/globalisation-and-inflation-insights-ecb-strategy-review",
           "author": "Mirco Balatti, Juan Carluccio, Francesco  Chiacchio, Nuno Coimbra, Susana Parraga, Daniele  Siena, Sebastian Stumpner, Fabrizio  Venditti, Tina Žumer",
           "description": "Since the start of the pandemic, inflation has re-entered mainstream discussion. This column reviews the analysis of globalisation and inflation conducted in the context of the ECB strategy review. Although global factors (mainly commodity prices) matter for inflation synchronisation, their role in lowering both inflation and its sensitivity to the business cycle in advanced economies has been limited since the late 1980s. Global shocks can exert temporary pressure on price dynamics, but the destiny of inflation remains in the hands of central banks.",
@@ -2048,6 +2066,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/nBBb6GIe9dg/tuesday-job-openings.html",
+          "author": null,
+          "description": "Tuesday:\n• At 6:00 AM ET, NFIB Small Business Optimism Index for September.\n• At 10:00 AM, Job Openings and Labor Turnover Survey for August from the BLS.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/nBBb6GIe9dg/tuesday-job-openings.html",
+          "publishedOn": "2021-10-11T22:52:00.001Z",
+          "wordCount": 833,
+          "title": "Tuesday: Job Openings"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/M2Qz4wfaDKc/mba-survey-share-of-mortgage-loans-in_11.html",
           "author": null,
