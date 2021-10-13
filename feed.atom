@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-13T03:05:19.438Z</updated>
+    <updated>2021-10-13T06:05:39.109Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -20,6 +20,16 @@ Wednesday:
 • At 2:00 PM, FOMC Minutes, Meeting of September 21-22, 2021]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bias in news coverage during the 2016 US election]]></title>
+        <id>https://voxeu.org/article/bias-news-coverage-during-2016-us-election</id>
+        <link href="https://voxeu.org/article/bias-news-coverage-during-2016-us-election"/>
+        <updated>2021-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the array of television news networks, the expansion of internet services and the rise of social media, voters see more images daily than at any previous moment in history. And yet, the literature on media bias tends to focus far more on text than photos. This column constructs a dataset of nearly one million image files from the 2016 US election cycle and finds deeply partisan coverage of different candidates. Media bias also varied in response to electoral incentives – in particular when switching from the primaries to the general election.]]></summary>
+        <author>
+            <name>Levi Boxell</name>
         </author>
     </entry>
     <entry>
