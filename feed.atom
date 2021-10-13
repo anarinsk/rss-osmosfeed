@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-13T06:05:39.109Z</updated>
+    <updated>2021-10-13T09:03:43.812Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -20,6 +20,16 @@ Wednesday:
 • At 2:00 PM, FOMC Minutes, Meeting of September 21-22, 2021]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The search for a congruent euro area policy mix]]></title>
+        <id>https://voxeu.org/article/search-congruent-euro-area-policy-mix</id>
+        <link href="https://voxeu.org/article/search-congruent-euro-area-policy-mix"/>
+        <updated>2021-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The way European policymakers solve the policy mix trilemma of asymmetric fiscal rules, no central fiscal capacity and constrained monetary policy in the post-pandemic economy will define the resilience of the euro area in the face of future shocks and the transition to a more sustainable growth model. In a new CEPR Policy Insight, the authors argue that moving to a structured vertical coordination between national and EU budgets would help ensure an adequate fiscal stance and avoid the overburdening of the single monetary policy.]]></summary>
+        <author>
+            <name>Marco Buti, Marcello Messori</name>
         </author>
     </entry>
     <entry>
