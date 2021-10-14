@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-14T15:04:03.253Z</updated>
+    <updated>2021-10-14T18:04:42.887Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[House Prices to National Average Wage Index]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/nS2bIVnaCIw/house-prices-to-national-average-wage.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/nS2bIVnaCIw/house-prices-to-national-average-wage.html"/>
+        <updated>2021-10-14T17:07:00.001Z</updated>
+        <summary type="html"><![CDATA[Today, in the Newsletter: House Prices to National Average Wage Index
+Excerpt: 
+This graph shows the ratio of house price indexes divided by the National Average Wage Index (the Wage index for 2020 was released yesterday).  This uses the annual average National Case-Shiller index since 1976 (and an estimate for 2021).  ...
+As of 2021, house prices were well above the median historical ratio - and not far below the bubble peak. 
+
+Please subscribe!]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hotels: Occupancy Rate Down 9.6% Compared to Same Week in 2019]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/flAGR0TMPR4/hotels-occupancy-rate-down-96-compared.html</id>
@@ -7359,132 +7374,6 @@ CHAPTER 05 투자에 바로 적용하기
         <summary type="html"><![CDATA[Father Coughlin had a devoted following of 30 million listeners who tuned in to hear his populist tirades in the 1930s. We spoke with Tianyi Wang on what his paper in the American Economic Review reveals about Coughlin's influence and the persuasiveness of popular media figures.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 권으로 끝내는 파이썬 인공지능 입문 + 실전 종합편/서민우 지음/앤써북]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=279726923</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=279726923"/>
-        <updated>2021-09-15T04:42:00.000Z</updated>
-        <summary type="html"><![CDATA[한 권으로 끝내는 파이썬 인공지능 입문 + 실전 종합편
-서민우 지음 / 앤써북 / 2021년 09월 / ISBN:9791185553863
-정가: 23,000원 / 판매가: 20,700원 / 마일리지: 101원
-이벤트:  저자 특별 강연
-
-
-
-
-파이썬, 넘파이, 텐서플로우를 이용하여 인공지능 일고리즘을 구현해 보면서 인공지능의 원리를 이해할 수 있도록 1단계 : 인공지능 딥러닝 이해, 2단계 : 파이썬으로 딥러닝 알고리즘 구현, 3단계 : 넘파이로 행렬기반 딥러닝 알고리즘 구현 , 4단계 : 직접 구현으로 텐서플로우 내부 동작 이해, 5단계 : CNN 알고리즘 이해와 직접 구현, 6단계 : 넘파이 기반 CNN 구현과 활용으로 구성했다.
-
-Chapter 01. 인공지능 딥러닝의 이해
-01 _ 인공 신경망의 이해  
-인공 신경망이란?  
- - 인공 신경망으로 할 수 있는 일들  
- - 인공 신경망의 구조  
-인공 신경망의 학습 방법  
- - 지도 학습  
- - 비지도 학습  
- - 강화 학습  
-인공 신경 살펴보기  
- - 인공 신경과 생물학적 신경  
- - 인공 신경 내부 살펴보기  
- - 인공 신경 함수 수식  
-
-02 _ 딥러닝 맛보기  
-Hello 딥러닝  
-머신러닝은 무엇일까요?  
-구글 코랩 개발 환경 구성하기  
-기본 방식의 함수 정의와 사용  
- - 함수 정의하고 사용해 보기  
-머신러닝 방식의 신경망 함수 생성과 사용  
-축하합니다!  
-
-03 _ 인공 신경망과 근사 함수  
-2차 함수 근사해 보기  
- - 2차 함수 그리기  
- - 실제 데이터 생성하기  
- - 훈련, 실험 데이터 분리하기  
- - 인공 신경망 구성하기  
- - 인공 신경망 학습시키기 
-5차 함수 근사해 보기 
-다양한 함수 근사해 보기  
- - 분수 함수 근사해 보기  
- - sin 함수 근사해 보기  
- - tanh 함수 근사해 보기  
- - e지수함수 근사해 보기  
- - sigmoid 함수 근사해 보기  
- - 로그 함수 근사해 보기  
- - 제곱근 함수 근사해 보기  
- - relu 함수 근사해 보기  
- - leaky relu 함수 근사해 보기  
-인공 신경망 소스 살펴보기  
-
-04 _ 딥러닝 활용 맛보기  
-딥러닝 활용 예제 살펴보기  
-손 글씨 숫자 인식 예제 살펴보기 
- - 데이터 모양 살펴보기  
- - 학습 데이터 그림 그려보기 1  
- - 그림 픽셀 값 출력해 보기  
- - 학습 데이터 그림 그려보기 2  
- - 인공 신경망 학습시키기  
- - 학습된 인공 신경망 시험하기  
- - 예측 값과 실제 값 출력해 보기  
- - 시험 데이터 그림 그려보기  
- - 시험 데이터 그림 그려보기 2  
- - 잘못된 예측 출력 해보기  
- - 잘못 예측한 그림 살펴 보기  
-패션 MNIST 데이터 셋 인식시켜보기 
-
-Chapter 02. 인공지능의 딥러닝 알고리즘
-01 _ PyClarm 개발 환경 구성하기  
-파이참 설치하기  
-파이썬 실습 환경 설정하기  
- - 파이참 실행하기  
- - 파이썬 프로젝트 생성...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front Matter]]></title>
-        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/717171?af=R</id>
-        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/717171?af=R"/>
-        <updated>2021-09-15T03:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 10, October 2021.]]></summary>
-        <author>
-            <name>The University of Chicago Press: Journal of Political Economy: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent Referees]]></title>
-        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/717172?af=R</id>
-        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/717172?af=R"/>
-        <updated>2021-09-15T03:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 10, October 2021.]]></summary>
-        <author>
-            <name>The University of Chicago Press: Journal of Political Economy: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back Cover]]></title>
-        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/717173?af=R</id>
-        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/717173?af=R"/>
-        <updated>2021-09-15T03:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 10, October 2021.]]></summary>
-        <author>
-            <name>The University of Chicago Press: Journal of Political Economy: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPE Turnaround Times, Previous Two Years]]></title>
-        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/716775?af=R</id>
-        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/716775?af=R"/>
-        <updated>2021-09-15T03:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 10, Page 2993-2993, October 2021.]]></summary>
-        <author>
-            <name>The University of Chicago Press: Journal of Political Economy: Table of Contents</name>
         </author>
     </entry>
 </feed>
