@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-14T03:04:20.598Z</updated>
+    <updated>2021-10-14T06:06:15.003Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -16,6 +16,26 @@
 • Also at 8:30 AM, The Producer Price Index for September from the BLS.  The consensus is for a 0.6% increase in PPI, and a 0.5% increase in core PPI.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECB monetary policy and catch-up inflation]]></title>
+        <id>https://voxeu.org/article/ecb-monetary-policy-and-catch-inflation</id>
+        <link href="https://voxeu.org/article/ecb-monetary-policy-and-catch-inflation"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In July, the ECB issued its first Strategic Review since 2003. The latest CfM-CEPR survey investigates one component of the announced policy shift: the new definition of price stability. Most members of the panel of experts on the European economy support the ECB explicitly allowing inflation to exceed its target for extended periods to make up for below-target inflation in the past. This 60% majority has divided views on the optimal alternative policies, with the largest share supporting average inflation targeting and some members supporting nominal GDP targeting or hybrid policies. 40% of the panel would prefer to maintain the current policy of traditional inflation targeting.]]></summary>
+        <author>
+            <name>Lucile Crumpton, Ethan Ilzetzki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ageing and the real interest rate in Japan]]></title>
+        <id>https://voxeu.org/article/ageing-and-real-interest-rate-japan</id>
+        <link href="https://voxeu.org/article/ageing-and-real-interest-rate-japan"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Japanese economy has experienced a prolonged slowdown in growth and persistent declines in the real interest rate, while at the same time the country’s labour force has been rapidly ageing. This column explores a novel causal link between the ageing labour force and the low-frequency declining trend in the real interest rate since the 1970s, and suggests that the ageing of the labour force accounts for 40% or more of the declines in the real interest rate observed between the 1980s and 2000s in Japan.]]></summary>
+        <author>
+            <name>Shigeru  Fujita, Ippei Fujiwara</name>
         </author>
     </entry>
     <entry>
