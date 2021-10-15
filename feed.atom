@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-15T09:03:53.085Z</updated>
+    <updated>2021-10-15T12:07:45.522Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -17,6 +17,18 @@
 • At 10:00 AM, University of Michigan's Consumer sentiment index (Preliminary for October).]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking financial globalisation]]></title>
+        <id>https://voxeu.org/vox-talks/rethinking-financial-globalisation</id>
+        <link href="https://voxeu.org/vox-talks/rethinking-financial-globalisation"/>
+        <updated>2021-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even after their role in the global financial crisis, globalised, minimally regulated financial markets are still regarded as inevitable and, on balance, good for us. Maurice Obstfeld of Berkeley tells Tim Phillips about the short but action-packed history of financial globalisation and asks whether we should be rethinking this aspect of capitalism too.
+Read more about the research presented and download the free discussion paper:
+Obstfeld, M. 2021. 'The Global Capital Market Reconsidered'. CEPR]]></summary>
+        <author>
+            <name>Maurice  Obstfeld</name>
         </author>
     </entry>
     <entry>
