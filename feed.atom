@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-16T03:03:32.345Z</updated>
+    <updated>2021-10-16T06:06:37.879Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Natural experimenters: Nobel laureates David Card, Joshua Angrist, and Guido Imbens]]></title>
+        <id>https://voxeu.org/article/natural-experimenters-nobel-laureates-david-card-joshua-angrist-and-guido-imbens</id>
+        <link href="https://voxeu.org/article/natural-experimenters-nobel-laureates-david-card-joshua-angrist-and-guido-imbens"/>
+        <updated>2021-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2021 Nobel Prize in Economic Sciences has been awarded to David Card of the University of California, Berkeley, “for his empirical contributions to labour economics”, and to Joshua Angrist of MIT and Guido Imbens of Stanford University “for their methodological contributions to the analysis of causal relationships”. This column explains how the use of natural experiments in empirical economics has ushered in much progress in the analysis of causal relationships. The ensuing ‘credibility revolution’ over the past three decades has been transformational for the study of key policy challenges, including education, immigration and the minimum wage.]]></summary>
+        <author>
+            <name>Jörn-Steffen Pischke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inequality is an urban affair, and it’s due to new tech]]></title>
+        <id>https://voxeu.org/article/inequality-urban-affair-and-it-s-due-new-tech</id>
+        <link href="https://voxeu.org/article/inequality-urban-affair-and-it-s-due-new-tech"/>
+        <updated>2021-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The adoption of information technology can cause polarisation in the labour market via the displacement of routine cognitive jobs. This column uses data on over 200,000 firms in the US from 1990 to 2015 to show that the labour savings from IT are largest in big cities and metropolitan areas, where wages are higher, so urban firms have the biggest incentives to invest in these technologies. This in turn leads to the polarisation of occupations across geography and accounts for the rise in wage inequality within cities.]]></summary>
+        <author>
+            <name>Jan Eeckhout, Christoph Hedtrich, Roberto Pinheiro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[October 15th COVID-19: Slow Progress]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/tw-BMtj321g/october-15th-covid-19-slow-progress.html</id>
