@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-17T00:18:21.484Z</updated>
+    <updated>2021-10-17T03:04:15.709Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Judging under public pressure]]></title>
+        <id>https://voxeu.org/article/judging-under-public-pressure</id>
+        <link href="https://voxeu.org/article/judging-under-public-pressure"/>
+        <updated>2021-10-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In many settings, independent decision makers employed to make determinations in disputes or contests between parties can be subject to public pressure  This column examines the extent to which crowd pressure affects referees’ decisions in Germany’s top football division, exploiting the introduction of video technology as well as the absence of crowds during the Covic-19 pandemic. It finds no evidence of bias in awarding goals or penalties, but a tendency for bias towards the home team when deciding whether or not to issue a yellow card, which disappears in the absence of a crowd.]]></summary>
+        <author>
+            <name>Alma Cohen, Zvika Neeman, Florian Auferoth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newsletter Articles this Week]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/OyndJPYqvao/newsletter-articles-this-week_01458796772.html</id>
@@ -7998,16 +8008,6 @@ Weekly claims were higher than the consensus forecast.]]></summary>
         <link href="https://www.aeaweb.org/research/migration-networks-location-decisions-black-white-migrants"/>
         <updated>2021-09-21T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[The settlement patterns of mass migrations in 20th-century America were heavily influenced by social networks, according to a paper in the American Economic Journal: Applied Economics. The authors constructed an index to measure just how much for each US county.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consolidation and productivity]]></title>
-        <id>https://www.aeaweb.org/research/growing-oligopolies-prices-output-productivity</id>
-        <link href="https://www.aeaweb.org/research/growing-oligopolies-prices-output-productivity"/>
-        <updated>2021-09-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Across US industries, oligopolies have grown significantly over last 50 years, according to a paper in the American Economic Journal: Microeconomics. But for now, they’re getting bigger through more productivity that’s benefiting the overall economy.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>

@@ -510,6 +510,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/judging-under-public-pressure",
+          "author": "Alma Cohen, Zvika Neeman, Florian Auferoth",
+          "description": "In many settings, independent decision makers employed to make determinations in disputes or contests between parties can be subject to public pressure  This column examines the extent to which crowd pressure affects referees’ decisions in Germany’s top football division, exploiting the introduction of video technology as well as the absence of crowds during the Covic-19 pandemic. It finds no evidence of bias in awarding goals or penalties, but a tendency for bias towards the home team when deciding whether or not to issue a yellow card, which disappears in the absence of a crowd.",
+          "link": "https://voxeu.org/article/judging-under-public-pressure",
+          "publishedOn": "2021-10-17T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Judging under public pressure"
+        },
+        {
           "id": "https://voxeu.org/article/natural-experimenters-nobel-laureates-david-card-joshua-angrist-and-guido-imbens",
           "author": "Jörn-Steffen Pischke",
           "description": "The 2021 Nobel Prize in Economic Sciences has been awarded to David Card of the University of California, Berkeley, “for his empirical contributions to labour economics”, and to Joshua Angrist of MIT and Guido Imbens of Stanford University “for their methodological contributions to the analysis of causal relationships”. This column explains how the use of natural experiments in empirical economics has ushered in much progress in the analysis of causal relationships. The ensuing ‘credibility revolution’ over the past three decades has been transformational for the study of key policy challenges, including education, immigration and the minimum wage.",
@@ -1881,15 +1890,6 @@
           "publishedOn": "2021-09-21T15:00:00.000Z",
           "wordCount": 893,
           "title": "Patterns of US migration"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/growing-oligopolies-prices-output-productivity",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "Across US industries, oligopolies have grown significantly over last 50 years, according to a paper in the American Economic Journal: Microeconomics. But for now, they’re getting bigger through more productivity that’s benefiting the overall economy.",
-          "link": "https://www.aeaweb.org/research/growing-oligopolies-prices-output-productivity",
-          "publishedOn": "2021-09-17T15:00:00.000Z",
-          "wordCount": 961,
-          "title": "Consolidation and productivity"
         }
       ]
     },
