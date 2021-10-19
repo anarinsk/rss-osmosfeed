@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-19T00:18:17.439Z</updated>
+    <updated>2021-10-19T03:04:32.124Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Central bank digital currency in an historical perspective]]></title>
+        <id>https://voxeu.org/article/central-bank-digital-currency-historical-perspective</id>
+        <link href="https://voxeu.org/article/central-bank-digital-currency-historical-perspective"/>
+        <updated>2021-10-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Monetary transformations through history have been driven by changing technology, changing tastes, economic growth, and the demands to effectively satisfy the functions of money. This column argues that technological change in money and finance is inevitable, driven by the financial incentives of a market economy, and identifies four key lessons central banks could learn from history to enable them to provide digital currency to effectively fulfil their public mandates.]]></summary>
+        <author>
+            <name>Michael  Bordo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tuesday: Housing Starts]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/p8RRMZ19GXE/tuesday-housing-starts.html</id>
