@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-19T12:08:05.328Z</updated>
+    <updated>2021-10-19T15:04:21.814Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Housing Starts Decreased to 1.555 Million Annual Rate in September]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/1XTDcNtOZPw/housing-starts-decreased-to-1555.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/1XTDcNtOZPw/housing-starts-decreased-to-1555.html"/>
+        <updated>2021-10-19T12:41:00.001Z</updated>
+        <summary type="html"><![CDATA[From the Census Bureau: Permits, Starts and Completions
+Housing Starts:
+Privately‐owned housing starts in September were at a seasonally adjusted annual rate of 1,555,000.  This is 1.6 percent below the revised August estimate of 1,580,000, but is 7.4 percent above the September 2020 rate of 1,448,000.  Single‐family housing starts in September were at a rate of 1,080,000; this is virtually unchanged from the revised August figure of 1,080,000. The September rate for units in buildings with five units or more was 467,000.
+  
+Building Permits:
+Privately‐owned housing units authorized by building permits in September were at a seasonally adjusted annual rate of 1,589,000.  This is 7.7 percent below the revised August rate of 1,721,000, but is virtually  unchanged from the September 2020 rate of 1,589,000.  Single‐family authorizations in September were at a rate of 1,041,000; this is 0.9 percent below the revised August figure of 1,050,000.  Authorizations of units in buildings with five units or more were at a rate of 498,000 in September
+emphasis added
+Click on graph for larger image.
+The first graph shows single and multi-family housing starts for the last several years.
+Multi-family starts (blue, 2+ units) decreased in September compared to August.   Multi-family starts were up 38% year-over-year in September.
+Single-family starts (red) were unchanged in September, and were down 2% year-over-year.   
+The second graph shows single and multi-family housing starts since 1968. 
+This shows the huge collapse following the housing bubble, and then the eventual recovery (but still not historically high).
+Total housing starts in September were below expectations, and starts in July and August were revised down, combined.
+I'll have more later …]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficiency and Foreclosure Effects of Vertical Rebates: Empirical Evidence]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/716563?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/716563?af=R"/>
+        <updated>2021-10-19T02:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Christopher T. Conlon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Child’s Gender, Young Fathers’ Crime, and Spillover Effects in Criminal Behavior]]></title>
+        <id>https://www.journals.uchicago.edu/doi/abs/10.1086/716562?af=R</id>
+        <link href="https://www.journals.uchicago.edu/doi/abs/10.1086/716562?af=R"/>
+        <updated>2021-10-19T02:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Political Economy, Ahead of Print.]]></summary>
+        <author>
+            <name>Christian Dustmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open questions on the international dimension of central bank digital currencies]]></title>
         <id>https://voxeu.org/article/open-questions-international-dimension-central-bank-digital-currencies</id>
