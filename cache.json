@@ -623,6 +623,15 @@
       "siteUrl": "https://devblogs.microsoft.com/commandline",
       "articles": [
         {
+          "id": "https://devblogs.microsoft.com/commandline/?p=7146",
+          "author": "Kayla Cinnamon",
+          "description": "Windows Terminal Preview 1.12 is here and it’s HUGE! This release adds the new features below to Windows Terminal Preview 1.12 and adds the features from this previous blog post to Windows Terminal 1.11. Windows Terminal 1.11 will also be receiving the Defaults page in the settings UI along with the default terminal functionality.\nThe post Windows Terminal Preview 1.12 Release appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-12-release/",
+          "publishedOn": "2021-10-20T17:04:59.000Z",
+          "wordCount": 1447,
+          "title": "Windows Terminal Preview 1.12 Release"
+        },
+        {
           "id": "https://devblogs.microsoft.com/commandline/?p=7068",
           "author": "Craig Loewen",
           "description": "The Windows Subsystem for Linux (WSL) preview is now available in the Microsoft Store as a store application for Windows 11 machines! Installing WSL through the store will allow you to get the latest WSL updates and features faster, and without needing to modify your Windows version.\nThe post A preview of WSL in the Microsoft Store is now available! appeared first on Windows Command Line.",
@@ -2579,6 +2588,24 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/OuHp08lxuUc/october-20th-covid-19-progress.html",
+          "author": null,
+          "description": "The CDC is the source for all data.\n\n\nAccording to the CDC, on Vaccinations.  Total doses administered: 411,010,650, as of a week ago 405,444,558, or 0.80 million doses per day.\n\n\n\nCOVID Metrics\n  \n TodayWeek\nAgoGoal\n Percent fully Vaccinated57.2%56.7%≥70.0%1\n Fully Vaccinated (millions)189.9188.3≥2321\n  \nNew Cases per Day373,07986,045≤5,0002\n  \nHospitalized350,79157,087≤3,0002\n  \nDeaths per Day31,2521,308≤502\n  \n1 Minimum to achieve \"herd immunity\" (estimated between 70% and 85%).\n2my goals to stop daily posts,\n37 day average for Cases, Currently Hospitalized, and Deaths\n🚩 Increasing 7 day average week-over-week for Cases, Hospitalized, and Deaths     \n✅ Goal met.\n  \n\nIMPORTANT: For \"herd immunity\" most experts believe we need 70% to 85% of the total population fully vaccinated (or already had COVID).  \n\n\nKUDOS to the residents of the 3 states that have achieved 70% of total population fully vaccinated: Vermont at 70.6%, Connecticut and Rhode Island at 70.1% .\n\n\nKUDOS also to the residents of the 12 states and D.C. that have achieved 60% of total population fully vaccinated: Maine at 69.9%, Massachusetts, New Jersey, Maryland, New York, New Mexico, New Hampshire, Washington, Oregon, Virginia, District of Columbia,  Colorado, and California at 60.5%.\n\nThe following 20 states have between 50% and 59.9% fully vaccinated: Pennsylvania at 59.8%, Minnesota, Hawaii, Delaware, Florida, Wisconsin, Nebraska, Iowa, Illinois, Michigan, Kentucky, South Dakota, Texas, Arizona, Kansas, Nevada, Alaska, Utah, North Carolina and Ohio at 51.4%.\n\nNext up (total population, fully vaccinated according to CDC) are Montana at 49.9%, Indiana at 49.4%, South Carolina at 49.3%, Missouri at 49.2%, Oklahoma at 49.2% and Georgia at 47.2%.\n\nClick on graph for larger image.\nThis graph shows the daily (columns) and 7 day average (line) of positive tests reported.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/OuHp08lxuUc/october-20th-covid-19-progress.html",
+          "publishedOn": "2021-10-21T19:49:00.002Z",
+          "wordCount": 1070,
+          "title": "October 21st COVID-19: Progress"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/cap5W4W8CKg/hotels-occupancy-rate-down-10-compared.html",
+          "author": null,
+          "description": "Note: Since occupancy declined sharply at the onset of the pandemic, CoStar is comparing to 2019.\n\nFrom CoStar: STR: US Hotel Occupancy Reaches Highest Level Since Mid-August\nU.S. hotel occupancy reached its highest level since mid-August, while room rates dipped from the previous week, according to STR‘s latest data through October 16.\nOctober 10-16, 2021 (percentage change from comparable week in 2019*):\n• Occupancy: 65.0% (-10%)\n• verage daily rate (ADR): $134.03 (-1.4%)\n• Revenue per available room (RevPAR): $87.15 (-11.3%)\nWeek-over-week demand growth came almost exclusively from the Sunday ahead of Columbus Day. Overall for the three-day holiday weekend (8-10 October), occupancy reached 72% as compared with 75% in 2019.\n*Due to the steep, pandemic-driven performance declines of 2020, STR is measuring recovery against comparable time periods from 2019.\n   emphasis added\nThe following graph shows the seasonal pattern for the hotel occupancy rate using the four week average.\nClick on graph for larger image.\nThe red line is for 2021, black is 2020, blue is the median, dashed purple is 2019, and dashed light blue is for 2009 (the worst year on record for hotels prior to 2020).\n\nNote: Y-axis doesn't start at zero to better show the seasonal change.\n\n\nThe Summer months had decent occupancy with solid leisure travel, and occupancy was only off about 7% in July and August compared to 2019.\n\n\nUsually weekly occupancy increases to around 70% in the weeks following Labor Day due to renewed business travel.   However, this year, so far, business travel has been lighter than leisure travel in 2021.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/cap5W4W8CKg/hotels-occupancy-rate-down-10-compared.html",
+          "publishedOn": "2021-10-21T18:05:00.000Z",
+          "wordCount": 1076,
+          "title": "Hotels: Occupancy Rate Down 10% Compared to Same Week in 2019"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/NWW5TNjxIPM/la-area-port-traffic-solid-imports-weak.html",
           "author": null,

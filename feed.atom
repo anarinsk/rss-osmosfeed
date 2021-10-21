@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-21T18:05:05.762Z</updated>
+    <updated>2021-10-21T21:03:22.298Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[October 21st COVID-19: Progress]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/OuHp08lxuUc/october-20th-covid-19-progress.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/OuHp08lxuUc/october-20th-covid-19-progress.html"/>
+        <updated>2021-10-21T19:49:00.002Z</updated>
+        <summary type="html"><![CDATA[The CDC is the source for all data.
+
+
+According to the CDC, on Vaccinations.  Total doses administered: 411,010,650, as of a week ago 405,444,558, or 0.80 million doses per day.
+
+
+
+COVID Metrics
+  
+ TodayWeek
+AgoGoal
+ Percent fully Vaccinated57.2%56.7%≥70.0%1
+ Fully Vaccinated (millions)189.9188.3≥2321
+  
+New Cases per Day373,07986,045≤5,0002
+  
+Hospitalized350,79157,087≤3,0002
+  
+Deaths per Day31,2521,308≤502
+  
+1 Minimum to achieve "herd immunity" (estimated between 70% and 85%).
+2my goals to stop daily posts,
+37 day average for Cases, Currently Hospitalized, and Deaths
+🚩 Increasing 7 day average week-over-week for Cases, Hospitalized, and Deaths     
+✅ Goal met.
+  
+
+IMPORTANT: For "herd immunity" most experts believe we need 70% to 85% of the total population fully vaccinated (or already had COVID).  
+
+
+KUDOS to the residents of the 3 states that have achieved 70% of total population fully vaccinated: Vermont at 70.6%, Connecticut and Rhode Island at 70.1% .
+
+
+KUDOS also to the residents of the 12 states and D.C. that have achieved 60% of total population fully vaccinated: Maine at 69.9%, Massachusetts, New Jersey, Maryland, New York, New Mexico, New Hampshire, Washington, Oregon, Virginia, District of Columbia,  Colorado, and California at 60.5%.
+
+The following 20 states have between 50% and 59.9% fully vaccinated: Pennsylvania at 59.8%, Minnesota, Hawaii, Delaware, Florida, Wisconsin, Nebraska, Iowa, Illinois, Michigan, Kentucky, South Dakota, Texas, Arizona, Kansas, Nevada, Alaska, Utah, North Carolina and Ohio at 51.4%.
+
+Next up (total population, fully vaccinated according to CDC) are Montana at 49.9%, Indiana at 49.4%, South Carolina at 49.3%, Missouri at 49.2%, Oklahoma at 49.2% and Georgia at 47.2%.
+
+Click on graph for larger image.
+This graph shows the daily (columns) and 7 day average (line) of positive tests reported.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hotels: Occupancy Rate Down 10% Compared to Same Week in 2019]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/cap5W4W8CKg/hotels-occupancy-rate-down-10-compared.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/cap5W4W8CKg/hotels-occupancy-rate-down-10-compared.html"/>
+        <updated>2021-10-21T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: Since occupancy declined sharply at the onset of the pandemic, CoStar is comparing to 2019.
+
+From CoStar: STR: US Hotel Occupancy Reaches Highest Level Since Mid-August
+U.S. hotel occupancy reached its highest level since mid-August, while room rates dipped from the previous week, according to STR‘s latest data through October 16.
+October 10-16, 2021 (percentage change from comparable week in 2019*):
+• Occupancy: 65.0% (-10%)
+• verage daily rate (ADR): $134.03 (-1.4%)
+• Revenue per available room (RevPAR): $87.15 (-11.3%)
+Week-over-week demand growth came almost exclusively from the Sunday ahead of Columbus Day. Overall for the three-day holiday weekend (8-10 October), occupancy reached 72% as compared with 75% in 2019.
+*Due to the steep, pandemic-driven performance declines of 2020, STR is measuring recovery against comparable time periods from 2019.
+   emphasis added
+The following graph shows the seasonal pattern for the hotel occupancy rate using the four week average.
+Click on graph for larger image.
+The red line is for 2021, black is 2020, blue is the median, dashed purple is 2019, and dashed light blue is for 2009 (the worst year on record for hotels prior to 2020).
+
+Note: Y-axis doesn't start at zero to better show the seasonal change.
+
+
+The Summer months had decent occupancy with solid leisure travel, and occupancy was only off about 7% in July and August compared to 2019.
+
+
+Usually weekly occupancy increases to around 70% in the weeks following Labor Day due to renewed business travel.   However, this year, so far, business travel has been lighter than leisure travel in 2021.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LA Area Port Traffic: Solid Imports, Weak Exports in September]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/NWW5TNjxIPM/la-area-port-traffic-solid-imports-weak.html</id>
@@ -187,6 +268,17 @@ This graph shows the daily (columns) and 7 day average (line) of positive tests 
 Economic activity grew at a modest to moderate rate, according to the majority of Federal Reserve Districts. Several Districts noted, however, that the pace of growth slowed this period, constrained by supply chain disruptions, labor shortages, and uncertainty around the Delta variant of COVID-19. A majority of Districts indicated positive growth in consumer spending; however, auto sales were widely reported as declining due to low inventory levels and rising prices. Travel and tourism activity varied by District with some seeing continued or strengthening leisure travel while others saw declines that coincided with rises in COVID cases and the…]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Terminal Preview 1.12 Release]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=7146</id>
+        <link href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-12-release/"/>
+        <updated>2021-10-20T17:04:59.000Z</updated>
+        <summary type="html"><![CDATA[Windows Terminal Preview 1.12 is here and it’s HUGE! This release adds the new features below to Windows Terminal Preview 1.12 and adds the features from this previous blog post to Windows Terminal 1.11. Windows Terminal 1.11 will also be receiving the Defaults page in the settings UI along with the default terminal functionality.
+The post Windows Terminal Preview 1.12 Release appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Kayla Cinnamon</name>
         </author>
     </entry>
     <entry>
