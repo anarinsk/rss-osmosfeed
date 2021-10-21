@@ -654,6 +654,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/eu-economy-after-covid-19-implications-economic-governance",
+          "author": "Maarten Verwey, Alan Monks",
+          "description": "On 19 October 2021, the European Commission adopted a Communication relaunching the public consultation on the EU’s economic governance framework. This consultation had been put on hold in March 2020 in order to focus on the Covid-19 pandemic. The Commission communication assesses the implications of the changed circumstances for economic governance following the COVID-19 crisis and sets out additional questions for the public debate. All stakeholders are invited to engage in the debate, which must be wide-ranging and inclusive to build a consensus on the way forward well in time for 2023.",
+          "link": "https://voxeu.org/article/eu-economy-after-covid-19-implications-economic-governance",
+          "publishedOn": "2021-10-21T00:00:00.000Z",
+          "wordCount": 2407,
+          "title": "The EU economy after COVID-19: Implications for economic governance"
+        },
+        {
+          "id": "https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now",
+          "author": "Alex Bryson, David Blanchflower",
+          "description": "Economic downturns are not as unpredictable as we once thought. There is mounting evidence that the expectations of consumers, workers and employers predict economic downturns, sometimes 12 to 18 months ahead. But we live in exceptional times. The COVID-19 pandemic and its aftermath have sown doubt and uncertainty among consumers and producers and may do so for some time to come. So what’s the economic prognosis? this column argues that expectations data for the US suggest the country is entering recession about now.",
+          "link": "https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now",
+          "publishedOn": "2021-10-21T00:00:00.000Z",
+          "wordCount": 1607,
+          "title": "Expectations data indicate the US is entering recession about now"
+        },
+        {
           "id": "https://voxeu.org/article/contract-labour-and-firm-growth-india",
           "author": "Marianne Bertrand, Chang-Tai Hsieh, Nick  Tsivanidis",
           "description": "Changes in contract labour regulation were introduced in India in the late 1940s. The hope was that controlling whether firms could downsize would reduce mass job losses as large British companies left the country post-independence. This column explores the effect of the Industrial Disputes Act on firms of different sizes. The authors find that smaller firms did not see much change, but larger firms did employ fewer contract workers as a result. However, this effect was driven by firms exploiting a loophole, rather than the law itself.",
@@ -2268,15 +2286,6 @@
           "publishedOn": "2021-09-22T15:00:00.000Z",
           "wordCount": 476,
           "title": "The long-run benefits of Medicaid"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/migration-networks-location-decisions-black-white-migrants",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "The settlement patterns of mass migrations in 20th-century America were heavily influenced by social networks, according to a paper in the American Economic Journal: Applied Economics. The authors constructed an index to measure just how much for each US county.",
-          "link": "https://www.aeaweb.org/research/migration-networks-location-decisions-black-white-migrants",
-          "publishedOn": "2021-09-21T15:00:00.000Z",
-          "wordCount": 893,
-          "title": "Patterns of US migration"
         }
       ]
     },
@@ -2570,6 +2579,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/K0YT7GhCQ7Y/thursday-unemployment-claims-phily-fed.html",
+          "author": null,
+          "description": "Thursday:\n• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for 290 thousand initial claims, down from 293 thousand last week.\n• Also at 8:30 AM, the Philly Fed manufacturing survey for October.  The consensus is for a reading of 24.5, down from 30.7.\n• At 10:00 AM, Existing Home Sales for September from the National Association of Realtors (NAR).  The consensus is for 6.06 million SAAR, up from 5.88 million in August.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/K0YT7GhCQ7Y/thursday-unemployment-claims-phily-fed.html",
+          "publishedOn": "2021-10-21T01:01:00.001Z",
+          "wordCount": 897,
+          "title": "Thursday: Unemployment Claims, Phily Fed Mfg, Existing Home Sales"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/CBrSTDsCwac/some-prospective-buyers-took-break.html",
           "author": null,

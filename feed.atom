@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-21T00:19:42.327Z</updated>
+    <updated>2021-10-21T03:04:38.408Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thursday: Unemployment Claims, Phily Fed Mfg, Existing Home Sales]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/K0YT7GhCQ7Y/thursday-unemployment-claims-phily-fed.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/K0YT7GhCQ7Y/thursday-unemployment-claims-phily-fed.html"/>
+        <updated>2021-10-21T01:01:00.001Z</updated>
+        <summary type="html"><![CDATA[Thursday:
+• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for 290 thousand initial claims, down from 293 thousand last week.
+• Also at 8:30 AM, the Philly Fed manufacturing survey for October.  The consensus is for a reading of 24.5, down from 30.7.
+• At 10:00 AM, Existing Home Sales for September from the National Association of Realtors (NAR).  The consensus is for 6.06 million SAAR, up from 5.88 million in August.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EU economy after COVID-19: Implications for economic governance]]></title>
+        <id>https://voxeu.org/article/eu-economy-after-covid-19-implications-economic-governance</id>
+        <link href="https://voxeu.org/article/eu-economy-after-covid-19-implications-economic-governance"/>
+        <updated>2021-10-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On 19 October 2021, the European Commission adopted a Communication relaunching the public consultation on the EU’s economic governance framework. This consultation had been put on hold in March 2020 in order to focus on the Covid-19 pandemic. The Commission communication assesses the implications of the changed circumstances for economic governance following the COVID-19 crisis and sets out additional questions for the public debate. All stakeholders are invited to engage in the debate, which must be wide-ranging and inclusive to build a consensus on the way forward well in time for 2023.]]></summary>
+        <author>
+            <name>Maarten Verwey, Alan Monks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expectations data indicate the US is entering recession about now]]></title>
+        <id>https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now</id>
+        <link href="https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now"/>
+        <updated>2021-10-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Economic downturns are not as unpredictable as we once thought. There is mounting evidence that the expectations of consumers, workers and employers predict economic downturns, sometimes 12 to 18 months ahead. But we live in exceptional times. The COVID-19 pandemic and its aftermath have sown doubt and uncertainty among consumers and producers and may do so for some time to come. So what’s the economic prognosis? this column argues that expectations data for the US suggest the country is entering recession about now.]]></summary>
+        <author>
+            <name>Alex Bryson, David Blanchflower</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Some prospective buyers took a break']]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/CBrSTDsCwac/some-prospective-buyers-took-break.html</id>
@@ -10036,16 +10069,6 @@ Weekly claims were higher than the consensus forecast.]]></summary>
         <link href="https://www.aeaweb.org/research/charts/childhood-insurance-medicaid-adult-health"/>
         <updated>2021-09-22T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Medicaid coverage for children more than pays for itself in the long run, according to a paper in the American Economic Review. Kids who grow up with Medicaid become healthier adults who are more likely to work and less likely to rely less on welfare.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patterns of US migration]]></title>
-        <id>https://www.aeaweb.org/research/migration-networks-location-decisions-black-white-migrants</id>
-        <link href="https://www.aeaweb.org/research/migration-networks-location-decisions-black-white-migrants"/>
-        <updated>2021-09-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The settlement patterns of mass migrations in 20th-century America were heavily influenced by social networks, according to a paper in the American Economic Journal: Applied Economics. The authors constructed an index to measure just how much for each US county.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
