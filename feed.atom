@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-21T15:03:22.254Z</updated>
+    <updated>2021-10-21T18:05:05.762Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LA Area Port Traffic: Solid Imports, Weak Exports in September]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/NWW5TNjxIPM/la-area-port-traffic-solid-imports-weak.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/NWW5TNjxIPM/la-area-port-traffic-solid-imports-weak.html"/>
+        <updated>2021-10-21T17:56:00.003Z</updated>
+        <summary type="html"><![CDATA[Notes: The expansion to the Panama Canal was completed in 2016 (As I noted a few years ago), and some of the traffic that used the ports of Los Angeles and Long Beach is probably going through the canal. This might be impacting TEUs on the West Coast.
+Also, incoming port traffic is backed up significantly in the LA area with numerous ships at anchor waiting to unload.
+Container traffic gives us an idea about the volume of goods being exported and imported - and usually some hints about the trade report since LA area ports handle about 40% of the nation's container port traffic.
+The following graphs are for inbound and outbound traffic at the ports of Los Angeles and Long Beach in TEUs (TEUs: 20-foot equivalent units or 20-foot-long cargo container). 
+To remove the strong seasonal component for inbound traffic, the first graph shows the rolling 12 month average. 
+Click on graph for larger image.
+On a rolling 12 month basis, inbound traffic was down 0.4% in September compared to the rolling 12 months ending in August.   Outbound traffic was down 2.0% compared to the rolling 12 months ending the previous month.
+The 2nd graph is the monthly data (with a strong seasonal pattern for imports).
+Usually imports peak in the July to October period as retailers import goods for the Christmas holiday, and then decline sharply and bottom in February or March depending on the timing of the Chinese New Year.
+
+2021 started off incredibly strong for imports - and with the backlog of ships, will probably continue strong.
+Imports were down 4% YoY in September (recovered last year following the early months of the pandemic), and exports were down 23% YoY.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Median House Price Growth Decelerated for Fourth Consecutive Month]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/zCw3JpiVF4E/median-house-price-growth-decelerated.html</id>
