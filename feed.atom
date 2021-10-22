@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-22T09:04:16.092Z</updated>
+    <updated>2021-10-22T12:08:12.789Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Black Knight: National Mortgage Delinquency Rate Decreased in September]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/Z6SzYjrxQt4/black-knight-national-mortgage.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/Z6SzYjrxQt4/black-knight-national-mortgage.html"/>
+        <updated>2021-10-22T11:00:00.040Z</updated>
+        <summary type="html"><![CDATA[Note: At the beginning of the pandemic, the delinquency rate increased sharply (see table below).   Loans in forbearance are counted as delinquent in this survey, but those loans are not reported as delinquent to the credit bureaus.
+From Black Knight: Black Knight: Foreclosure Starts Reverse Course in September, Pulling Back Despite Moratoria Expiration; Delinquency Rate Falls Below 4% for First Time Since Start of Pandemic
+• The national delinquency rate fell to 3.91% in September – the first time it’s been below 4% in 18 months – marking a 2.3% decline from August and 41.3% from the same time last year
+  
+• What would have been stronger improvement was partially offset by delinquencies rising by 7,800 in FEMA-declared disaster areas in hurricane-impacted Louisiana and by 11,000 in the st…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exposures and Behavioral Responses to Wildfire Smoke -- by Marshall Burke, Sam Heft-Neal, Jessica Li, Anne Driscoll, Patrick W. Baylis, Matthieu Stigler, Joakim Weill, Jennifer Burney, Jeff Wen, Marissa Childs, Carlos Gould]]></title>
         <id>https://www.nber.org/papers/w29380#fromrss</id>
@@ -207,6 +221,18 @@ Section IV discusses a wide variety of applications. We organize this discussion
         <summary type="html"><![CDATA[Economic shocks are notoriously difficult to predict but recent research suggests qualitative metrics about economic actors’ expectations are predictive of downturns.  We show consumer expectations indices from both the Conference Board and the University of Michigan predict economic downturns up to 18 months in advance in the United States, both at national and at state-level.  All the recessions since the 1980s have been predicted by at least 10 and sometimes many more point drops in these expectations indices.  A single monthly rise of at least 0.3 percentage points in the unemployment rate also predicts recession, as does two consecutive months of employment rate declines.  The economic situation in 2021 is exceptional, however, since unprecedented direct government intervention in the labor market through furlough-type arrangements has enabled employment rates to recover quickly from the huge downturn in 2020.  However, downward movements in consumer expectations in the last six months suggest the economy in the United States is entering recession now (Autumn 2021) even though employment and wage growth figures suggest otherwise.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pension reform and the incentive to work]]></title>
+        <id>https://voxeu.org/vox-talks/pension-reform-and-incentive-work</id>
+        <link href="https://voxeu.org/vox-talks/pension-reform-and-incentive-work"/>
+        <updated>2021-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As life expectancy increases, so does the importance of a fair pension system that reflects our contribution but won't leave anyone in poverty. Can we create a progressive pension system that doesn't discourage work? Fabian Kindermann tells Tim Phillips how it could be designed.
+Read more about the research presented and download the free Discussion Paper
+Kindermann, F and Pueschel, V. 2021. 'Progressive Pensions as an Incentive for Labor Force Participation'. CEPR.]]></summary>
+        <author>
+            <name>Fabian Kindermann</name>
         </author>
     </entry>
     <entry>
@@ -4790,36 +4816,6 @@ CHAPTER 6 우량주를 찾는 기술
         <summary type="html"><![CDATA[Journal of Political Economy, Volume 129, Issue 11, Page 2995-3038, November 2021.]]></summary>
         <author>
             <name>Federico Ciliberto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세트] 머신러닝 알고리듬 트레이딩 - 전2권/스테판 젠슨 지음, 홍창수 외 옮김/에이콘출판]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=280048014</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=280048014"/>
-        <updated>2021-09-22T23:54:00.000Z</updated>
-        <summary type="html"><![CDATA[[세트] 머신러닝 알고리듬 트레이딩 - 전2권
-스테판 젠슨 지음, 홍창수 외 옮김 / 에이콘출판 / 2021년 09월 / ISBN:
-정가: 85,000원 / 판매가: 76,500원 / 마일리지: 371원
-이벤트: 컴퓨터/IT - 키링 시계/텀블러/형광펜
-
-
-
-
-머신러닝과 딥러닝 기술을 이용해 알고리듬 트레이딩의 아이디어에서 실행까지 전반적인 프로세스를 서술하는 좋은 안내서다. 2판에서는 전략 백테스팅, 오토인코더, 적대적 생성 신경망(GAN), 이미지 형식으로 변환된 시계열에 합성곱 신경망(CNN) 적용과 같은 최신 내용을 추가했다. 또한 금융 시장 분석으로 100개 이상의 알파 팩터를 설명하고 있으며, 부록으로 기술적 분석에 관한 모든 것을 수록했다. 세계적으로 저명한 AI 콘퍼런스인 NeurIPS에서 발표된 최신 금융 딥러닝 연구를 소개하고 구현한다.
-
-실전 알고리즘 트레이딩을 위한 기초 환경, 지식과 함께 백테스트 및 리스크 관리 기법과 노하우, 실전에서의 유의 사항을 전달한다. 파이썬을 기반으로 간단한 트레이딩 시그널부터 시작해서 경제 이벤트 기반 및 변동성 조정의 고급 기법을 활용하는 방법을 보여주고, 그 기법을 머신러닝 기법과 어떻게 결합하는지까지 알려준다.
-
-퀀트 투자를 위한 머신러닝.딥러닝 알고리듬 트레이딩 2/e
-실전 알고리즘 트레이딩 배우기
-
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 데이터베이스 프로그래밍 > 데이터베이스 구축
-국내도서 > 경제경영 > 재테크/투자 > 재테크/투자 일반
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
