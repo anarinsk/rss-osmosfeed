@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-25T09:06:41.078Z</updated>
+    <updated>2021-10-25T12:08:04.395Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Relative income in households]]></title>
+        <id>https://www.aeaweb.org/research/charts/coworking-couples-earnings-gender-breadwinner</id>
+        <link href="https://www.aeaweb.org/research/charts/coworking-couples-earnings-gender-breadwinner"/>
+        <updated>2021-10-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There's a sharp drop in the number of heterosexual couples at the point where a wife earns more than the husband. A lot of people believe it's related to gender norms, but a paper in the American Economic Journal: Applied Economics offers another explanation.]]></summary>
+        <author>
+            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Economic Burden of Pension Shortfalls: Evidence from House Prices -- by Darren Aiello, Asaf Bernstein, Mahyar Kargar, Ryan Lewis, Michael Schwert]]></title>
         <id>https://www.nber.org/papers/w29405#fromrss</id>
@@ -224,6 +234,16 @@
         <summary type="html"><![CDATA[Using a structural life-cycle model and data on school visits from Safegraph and school closures from Burbio, we quantify the heterogeneous impact of school closures during the Corona crisis on children affected at different ages and coming from households with different parental characteristics. Our data suggests that secondary schools were closed for in-person learning for longer periods than elementary schools (implying that younger children experienced less school closures than older children), and that private schools experienced shorter closures than public schools, and schools in poorer U.S. counties experienced shorter school closures. We then extend the structural life cycle model of private and public schooling investments studied in Fuchs-Schuendeln, Krueger, Ludwig and Popova (2021) to include the choice of parents whether to send their children to private schools, empirically discipline it with data on parental investments from the PSID, and then feed into the model the school closure measures from our empirical analysis to quantify the long-run consequences of the Covid-19 school closures on the cohorts of children currently in school. Future earnings- and welfare losses are largest for children that started public secondary schools at the onset of the Covid-19 crisis. Comparing children from the top- to children from the bottom quartile of the income distribution, welfare losses are ca. 0.8 percentage points larger for the poorer children if school closures were unrelated to income. Accounting for the longer school closures in richer counties reduces this gap by about 1/3. A policy intervention that extends schools by 3 months (6 weeks in the next two summers) generates significant welfare gains for the children and raises future tax approximately sufficient to pay for the cost of this schooling expansion.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subsidies and market access: New data and findings from the Global Trade Alert]]></title>
+        <id>https://voxeu.org/article/subsidies-and-market-access-new-data-and-findings-global-trade-alert</id>
+        <link href="https://voxeu.org/article/subsidies-and-market-access-new-data-and-findings-global-trade-alert"/>
+        <updated>2021-10-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Corporate subsidies are a major source of controversy in the world trading system, exacerbated by a lack of comparable and reliable information on subsidy schemes and awards. The latest Global Trade Alert report assembles an inventory of 18,137 corporate subsidies awarded by China, the EU, and the US since November 2008 to demonstrate that the cumulative effect of thousands of largely under-the-radar screen corporate subsidies has taken its toll on the competitive conditions faced by foreign manufacturers seeking to sell into the markets of China, the EU, and the US, and in third markets.]]></summary>
+        <author>
+            <name>Simon Evenett, Johannes Fritz</name>
         </author>
     </entry>
     <entry>
