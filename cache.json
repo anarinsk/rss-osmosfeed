@@ -519,6 +519,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/korean-heavy-industry-drive-1973",
+          "author": "Minho Kim, Munseob Lee, Yongseok  Shin",
+          "description": "Industrial policy has divided economists for decades. This column evaluates Korean government's policy of promoting heavy and chemical industries in the 1970s, using plant-level output and productivity data. It shows that output and input use of targeted industries/regions grew significantly faster than those of non-targeted ones. However, total factor productivity did not increase because the misallocation of resources across plants within targeted industries/regions got significantly worse.",
+          "link": "https://voxeu.org/article/korean-heavy-industry-drive-1973",
+          "publishedOn": "2021-10-25T00:00:00.000Z",
+          "wordCount": 1950,
+          "title": "The Korean heavy industry drive of 1973"
+        },
+        {
+          "id": "https://voxeu.org/article/what-may-happen-when-central-banks-wake-more-persistent-inflation",
+          "author": "Charles Goodhart, Manoj Pradhan",
+          "description": "The current mini-surge in inflation is forecast to return to central bank targets towards the end of 2022, or shortly thereafter. However, there is also a risk of inflation remaining persistently high for longer. This column discusses the implications of such a contingency for central banks and monetary policy. The authors warn that sudden policy reversals could lead to severe downturns in financial markets and significantly damage public sector balance sheets. Instead, they call on central banks to develop concrete plans for dealing with persistently higher inflation, with a particular focus on their balance sheet policies in a world of rising nominal interest rates.",
+          "link": "https://voxeu.org/article/what-may-happen-when-central-banks-wake-more-persistent-inflation",
+          "publishedOn": "2021-10-25T00:00:00.000Z",
+          "wordCount": 2151,
+          "title": "What may happen when central banks wake up to more persistent inflation?"
+        },
+        {
           "id": "https://voxeu.org/article/effectiveness-subsidy-applications-small-businesses",
           "author": "Yuki  Hashimoto, Kohei Takahashi",
           "description": "While large businesses in Japan have seen a gradual increase in labour productivity since the global financial crisis, the productivity of SMEs remains stagnant. This column investigates the effects of the Japanese government’s Business Sustainable Subsidy programme, launched in response to this situation, on SMEs’ performance. The findings suggest that application to the subsidy in itself promotes firms' voluntary activities to address their business issues through external support and improves their productivity.",
@@ -1220,6 +1238,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/dtdsQZOqeo4/sunday-night-futures_24.html",
+          "author": null,
+          "description": "Weekend:\n• Schedule for Week of October 24, 2021\n• Final Look: Local Housing Markets in September\nMonday:\n• At 8:30 AM ET, Chicago Fed National Activity Index for September.  This is a composite index of other data.\n• At 10:30 AM, Dallas Fed Survey of Manufacturing Activity for October.\nFrom CNBC: Pre-Market Data and Bloomberg futures S&P 500 are down 8 and DOW futures are down 66 (fair value).\nOil prices were up over the last week with WTI futures at $83.98\tper barrel and Brent at $85.62 per barrel.  A year ago, WTI was at $40, and Brent was at $41 - so WTI oil prices are up more than double year-over-year. \nHere is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally prices are at $3.36 per gallon.  A year ago prices were at $2.15 per gallon, so gasoline prices are up $1.21 per gallon year-over-year.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/dtdsQZOqeo4/sunday-night-futures_24.html",
+          "publishedOn": "2021-10-24T23:08:00.001Z",
+          "wordCount": 953,
+          "title": "Sunday Night Futures"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/9yy9WZ4PTGk/final-look-local-housing-markets-in.html",
           "author": null,
