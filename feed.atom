@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-27T00:17:49.897Z</updated>
+    <updated>2021-10-27T03:04:47.935Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Economists have needlessly produced a climate war]]></title>
+        <id>https://voxeu.org/article/economists-have-needlessly-produced-climate-war</id>
+        <link href="https://voxeu.org/article/economists-have-needlessly-produced-climate-war"/>
+        <updated>2021-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The replacement of positive with normative economics has left climate policy in its sorry state – as a fight between generations, across regions, and even among economists over climate justice. This column uses a multi-region, overlapping generations model of climate change to study climate policy as an externality whose resolution can uniformly and equally benefit all humankind, regardless of year or place of birth. The optimal uniform welfare-improving policy, implemented via a time-varying global carbon tax plus region- and generation-specific net transfers, can materially limit global emissions, dramatically shorten the use of fossil fuels, and raise the welfare of all current and future agents by over 4%.]]></summary>
+        <author>
+            <name>Laurence Kotlikoff, Felix Kubler, Andrey  Polbin, Simon  Scheidegger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The short-lived high-pressure economy]]></title>
+        <id>https://voxeu.org/article/short-lived-high-pressure-economy</id>
+        <link href="https://voxeu.org/article/short-lived-high-pressure-economy"/>
+        <updated>2021-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In 2019, the US economy had reached levels of employment that ensured that the gains of the economic expansion were shared across many segments of the labour market. Unfortunately, the benefits of this high-pressure economy were short-lived thanks to the recession that started in March 2020. This column argues that this pattern fits all previous US cycles. Expansions end too early to allow for long periods of stable and low unemployment.]]></summary>
+        <author>
+            <name>Antonio Fatás</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zillow Case-Shiller House Price Forecast: September Price Growth Will Remain Strong]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/r7P-F6bC-JY/zillow-case-shiller-house-price.html</id>
@@ -5249,16 +5269,6 @@ Christopher Tonetti</name>
         <summary type="html"><![CDATA[Econometrica, Volume 89, Issue 5, Page 2189-2224, September 2021.]]></summary>
         <author>
             <name>Vivek Bhattacharya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neoliberalism and Latin America]]></title>
-        <id>https://www.aeaweb.org/research/charts/washington-consensus-latin-america</id>
-        <link href="https://www.aeaweb.org/research/charts/washington-consensus-latin-america"/>
-        <updated>2021-09-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trade liberalization was one of the "Washington Consensus" policy goals for Latin American countries. However, there was significant variation in how nations responded to that policy, according to a paper in the Journal of Economic Perspectives.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
