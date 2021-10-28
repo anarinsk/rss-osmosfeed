@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-28T09:04:19.488Z</updated>
+    <updated>2021-10-28T12:08:06.479Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Covid-19 and structural change]]></title>
+        <id>https://voxeu.org/article/covid-19-and-structural-change</id>
+        <link href="https://voxeu.org/article/covid-19-and-structural-change"/>
+        <updated>2021-10-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Covid-19 has had a sizeable impact on where people work and how they shop. This column uses data from the Decision Maker Panel business survey of 3,000 UK firms to assess the longer-run impact. The pandemic is expected to increase hours worked from home and sales made online. Firms will invest less in land and buildings but more in IT and software. The pandemic is also expected to reduce medium-term employment and sales, with some shift away from large urban areas towards more rural areas.]]></summary>
+        <author>
+            <name>Lena Anayi, Nicholas Bloom, Philip Bunn, Paul Mizen, Gregory Thwaites, Chris  Young</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Central bank digital currencies, cryptocurrencies, and privacy]]></title>
         <id>https://voxeu.org/article/central-bank-digital-currencies-cryptocurrencies-and-privacy</id>
