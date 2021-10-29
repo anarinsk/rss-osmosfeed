@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-29T15:04:45.272Z</updated>
+    <updated>2021-10-29T18:05:35.546Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Real Personal Income: Transfer Payments]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/pJ4lTzH71MU/real-personal-income-transfer-payments_29.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/pJ4lTzH71MU/real-personal-income-transfer-payments_29.html"/>
+        <updated>2021-10-29T16:16:00.001Z</updated>
+        <summary type="html"><![CDATA[The BEA released the Personal Income and Outlays, September 2021 report this morning.   The report showed that government transfer payments were still almost $695 billion (on SAAR basis) above the February 2020 level (pre-pandemic)  Note: Seasonal adjustment doesn't make sense with one time payments, but that is how the data is presented.  
+
+This table shows the amount of unemployment insurance and "Other" transfer payments since January 2020 (pre-crisis level).  The increase in "Other" was mostly due to parts of the relief acts including direct payments.
+
+Note: Not in the table below, but Social Security and Medicare payments haven't increased significantly from the pre-recession levels.  Social Security increased from $1,065 billion SAAR in Jan 2020 to $1,119 billion SAAR in September 2021.  Medicare increased from $807 billion to $832 billion.  Medicaid increased significantly from $603 billion to $739 billion.
+
+
+But most of the increase in transfer payments - compared to the levels prior to the crisis - is from  "other" (includes direct payments) as unemployment insurance has declined sharply. 
+
+
+
+Selected Transfer Payments
+Billions of dollars, SAAR 
+OtherUnemployment
+Insurance
+ Jan-20$511$26
+ Feb-20$506$26
+ Mar-20$516$67
+ Apr-20$3,393$435
+ May-20$1,373$1,287
+ Jun-20$743$1,396
+ Jul-20$750$1,366
+ Aug-20$697$612
+ Sep-20$950$325
+ Oct-20$714$296
+ Nov-20$580$285
+ Dec-20$604$319
+ Jan-21$2,317$574
+ Feb-21$735$558
+ Mar-21$4,706$566
+ Apr-21$1,345$516
+ May-21$806$492
+ Jun-21$744$433
+ Jul-21$921$368
+   
+Aug-21$944$352
+   
+Sep-21$894$98]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black Knight: Number of Mortgages in Forbearance Declines Slightly]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/J1wcNcvu0PA/black-knight-number-of-mortgages-in.html</id>
