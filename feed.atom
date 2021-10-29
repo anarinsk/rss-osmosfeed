@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-29T00:17:26.455Z</updated>
+    <updated>2021-10-29T03:04:50.189Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Friday: Personal Income and Outlays, Chicago PMI]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/BV2EMOFn3Ro/friday-personal-income-and-outlays.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/BV2EMOFn3Ro/friday-personal-income-and-outlays.html"/>
+        <updated>2021-10-29T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Thursday:
+• At 8:30 AM ET, Personal Income and Outlays for September.  The consensus is for a 0.1% decrease in personal income, and for a 0.5% increase in personal spending.  And for the Core PCE price index to increase 0.2%.
+• At 9:45 AM, Chicago Purchasing Managers Index for October. The consensus is for a reading of 64.0, down from 64.7 in September.
+• At 10:00 AM, University of Michigan's Consumer sentiment index (Final for October). The consensus is for a reading of 71.6.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zombie lending and policy traps]]></title>
+        <id>https://voxeu.org/article/zombie-lending-and-policy-traps</id>
+        <link href="https://voxeu.org/article/zombie-lending-and-policy-traps"/>
+        <updated>2021-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Banking crises of the past several decades have encouraged regulatory forbearance towards banks combined withaccommodative monetary policy. This column argues that such policies, if used too aggressively, lead to ‘zombie lending’ – the extension of new credit or prolonging of existing loans to low-productivity firms. While such policies may stabilise the economy in the short run, they risk transforming transitory shocks into phases of delayed recovery and permanent productivity and output losses.]]></summary>
+        <author>
+            <name>Viral Acharya, Simone Lenzu, Olivier Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The need for better fiscal rules in Europe]]></title>
+        <id>https://voxeu.org/article/need-better-fiscal-rules-europe</id>
+        <link href="https://voxeu.org/article/need-better-fiscal-rules-europe"/>
+        <updated>2021-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[European policymakers are considering whether to reinstate the existing fiscal rules with only the most necessary adjustments, or to put in place a better framework. This column proposes reform anchored in the most important economic criteria for public sector debt sustainability. First, ‘standards’ for a healthy budget composition that should include an agreed minimum ratio of investment relative to GDP and the principle that countries with public debt in excess of a certain level of GDP will reduce that ratio during ‘good years’. Second, a higher-frequency ‘rule’ to flag potential trends which might compromise future public debt sustainability, in the form of a cap on projected interest payments as a share of fiscal revenue.]]></summary>
+        <author>
+            <name>Erik Nielsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Las Vegas Visitor Authority for September: Convention Attendance N/A, Visitor Traffic Down 16% Compared to 2019]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/MR_3rlS3m1I/las-vegas-visitor-authority-for.html</id>
@@ -5567,16 +5600,6 @@ CHAPTER 12 발전된 액...
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going from gasoline to electric]]></title>
-        <id>https://www.aeaweb.org/research/electric-transition-banning-gasoline-vehicles</id>
-        <link href="https://www.aeaweb.org/research/electric-transition-banning-gasoline-vehicles"/>
-        <updated>2021-09-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The transition to electric cars may be the next step in the fight against climate change. But a simple ban on gasoline car sales would be a mistake, says Stephen Holland, whose paper appeared in the American Economic Journal: Economic Policy. We spoke with him about why and what should be done instead.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>

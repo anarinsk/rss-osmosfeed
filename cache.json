@@ -582,6 +582,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/zombie-lending-and-policy-traps",
+          "author": "Viral Acharya, Simone Lenzu, Olivier Wang",
+          "description": "Banking crises of the past several decades have encouraged regulatory forbearance towards banks combined withaccommodative monetary policy. This column argues that such policies, if used too aggressively, lead to ‘zombie lending’ – the extension of new credit or prolonging of existing loans to low-productivity firms. While such policies may stabilise the economy in the short run, they risk transforming transitory shocks into phases of delayed recovery and permanent productivity and output losses.",
+          "link": "https://voxeu.org/article/zombie-lending-and-policy-traps",
+          "publishedOn": "2021-10-29T00:00:00.000Z",
+          "wordCount": 2499,
+          "title": "Zombie lending and policy traps"
+        },
+        {
+          "id": "https://voxeu.org/article/need-better-fiscal-rules-europe",
+          "author": "Erik Nielsen",
+          "description": "European policymakers are considering whether to reinstate the existing fiscal rules with only the most necessary adjustments, or to put in place a better framework. This column proposes reform anchored in the most important economic criteria for public sector debt sustainability. First, ‘standards’ for a healthy budget composition that should include an agreed minimum ratio of investment relative to GDP and the principle that countries with public debt in excess of a certain level of GDP will reduce that ratio during ‘good years’. Second, a higher-frequency ‘rule’ to flag potential trends which might compromise future public debt sustainability, in the form of a cap on projected interest payments as a share of fiscal revenue.",
+          "link": "https://voxeu.org/article/need-better-fiscal-rules-europe",
+          "publishedOn": "2021-10-29T00:00:00.000Z",
+          "wordCount": 2392,
+          "title": "The need for better fiscal rules in Europe"
+        },
+        {
           "id": "https://voxeu.org/article/covid-19-and-structural-change",
           "author": "Lena Anayi, Nicholas Bloom, Philip Bunn, Paul Mizen, Gregory Thwaites, Chris  Young",
           "description": "Covid-19 has had a sizeable impact on where people work and how they shop. This column uses data from the Decision Maker Panel business survey of 3,000 UK firms to assess the longer-run impact. The pandemic is expected to increase hours worked from home and sales made online. Firms will invest less in land and buildings but more in IT and software. The pandemic is also expected to reduce medium-term employment and sales, with some shift away from large urban areas towards more rural areas.",
@@ -990,15 +1008,6 @@
           "publishedOn": "2021-10-04T15:00:00.000Z",
           "wordCount": 875,
           "title": "Celebrity politics"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/electric-transition-banning-gasoline-vehicles",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "The transition to electric cars may be the next step in the fight against climate change. But a simple ban on gasoline car sales would be a mistake, says Stephen Holland, whose paper appeared in the American Economic Journal: Economic Policy. We spoke with him about why and what should be done instead.",
-          "link": "https://www.aeaweb.org/research/electric-transition-banning-gasoline-vehicles",
-          "publishedOn": "2021-09-29T15:00:00.000Z",
-          "wordCount": 1651,
-          "title": "Going from gasoline to electric"
         }
       ]
     },
@@ -1119,6 +1128,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/BV2EMOFn3Ro/friday-personal-income-and-outlays.html",
+          "author": null,
+          "description": "Thursday:\n• At 8:30 AM ET, Personal Income and Outlays for September.  The consensus is for a 0.1% decrease in personal income, and for a 0.5% increase in personal spending.  And for the Core PCE price index to increase 0.2%.\n• At 9:45 AM, Chicago Purchasing Managers Index for October. The consensus is for a reading of 64.0, down from 64.7 in September.\n• At 10:00 AM, University of Michigan's Consumer sentiment index (Final for October). The consensus is for a reading of 71.6.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/BV2EMOFn3Ro/friday-personal-income-and-outlays.html",
+          "publishedOn": "2021-10-29T01:00:00.001Z",
+          "wordCount": 896,
+          "title": "Friday: Personal Income and Outlays, Chicago PMI"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/MR_3rlS3m1I/las-vegas-visitor-authority-for.html",
           "author": null,
