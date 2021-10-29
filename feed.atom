@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-29T06:06:59.234Z</updated>
+    <updated>2021-10-29T09:04:25.833Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -17,6 +17,18 @@
 • At 10:00 AM, University of Michigan's Consumer sentiment index (Final for October). The consensus is for a reading of 71.6.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How crises rewire our brains]]></title>
+        <id>https://voxeu.org/vox-talks/how-crises-rewire-our-brains</id>
+        <link href="https://voxeu.org/vox-talks/how-crises-rewire-our-brains"/>
+        <updated>2021-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When we live through a financial crisis, many of us think differently about money afterwards. Neuroscientists can show that the experience changes the physical structure of our brains, and Ulrike Malmendier tells Tim Phillips how this should also change the way that economists think about preferences for risk.
+Read more about the research presented and download the free Discussion Paper
+Malmendier, U. 2021. 'Experience Effects in Finance: Foundations, Applications, and Future Directions'.]]></summary>
+        <author>
+            <name>Ulrike Malmendier</name>
         </author>
     </entry>
     <entry>
