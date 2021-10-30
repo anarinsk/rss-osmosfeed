@@ -569,24 +569,6 @@
           "publishedOn": "2021-10-05T08:03:00.000Z",
           "wordCount": null,
           "title": "단위 테스트/블라디미르 코리코프 지음, 임준혁 옮김/에이콘출판"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=280601542",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "살아 움직이는 머신러닝 파이프라인 설계\n하네스 막스 하프케.캐서린 넬슨 지음, 송호연 옮김 / 한빛미디어 / 2021년 10월 / ISBN:9791162244814\n정가: 32,000원 / 판매가: 28,800원 / 마일리지: 124원\n이벤트: 컴퓨터/IT - 키링 시계/텀블러/형광펜\n\n\n\n\n텐서플로 생태계를 사용하여 머신러닝 파이프라인으로 자동화하는 실용적인 방법을 단계별로 안내한다. 배포 시간을 며칠에서 몇 분으로 단축하여 레거시 시스템을 유지하고 관리하는 대신 새로운 모델 개발에 집중할 수 있도록 돕는 기술과 도구를 소개한다. 데이터 과학자, 머신러닝 엔지니어 및 데브옵스 엔지니어는 모델 개발을 넘어 데이터 과학 프로젝트를 성공적으로 제품화하는 방법을 배울 수 있으며, 관리자는 팀을 지원하는 데 필요한 역할과 업무를 더 잘 이해할 수 있을 것이다.\n\nCHAPTER 1 머신러닝 파이프라인\r\n1.1 머신러닝 파이프라인의 필요성\r\n1.2 머신러닝 파이프라인을 고려해야 할 시기\r\n1.3 머신러닝 파이프라인 단계\r\n1.4 파이프라인 오케스트레이션\r\n1.5 예제 프로젝트\r\n1.6 요약\r\n\r\nCHAPTER 2 TFX - 텐서플로 익스텐디드\r\n2.1 TFX 소개\r\n2.2 TFX 설치\r\n2.3 TFX 컴포넌트 개요\r\n2.4 ML 메타데이터\r\n2.5 대화형 파이프라인\r\n2.6 TFX의 대체 솔루션\r\n2.7 아파치 빔 소개\r\n2.8 요약\r\n\r\nCHAPTER 3 데이터 수집\r\n3.1 데이터 수집의 개념\r\n3.2 데이터 준비\r\n3.3 수집 전략\r\n3.4 요약\r\n\r\nCHAPTER 4 데이터 검증\r\n4.1 데이터 검증의 필요성\r\n4.2 TFDV - 텐서플로 데이터 검증\r\n4.3 데이터 인식\r\n4.4 GCP를 사용한 대용량 데이터셋 처리\r\n4.5 TFDV를 머신러닝 파이프라인에 통합하기\r\n4.6 요약\r\n\r\nCHAPTER 5 데이터 전처리\r\n5.1 데이터 전처리의 필요성\r\n5.2 TFT를 사용한 데이터 전처리\r\n5.3. 요약\r\n\r\nCHAPTER 6 모델 학습\r\n6.1 예제 프로젝트의 모델 정의하기\r\n6.2 TFX Trainer 컴포넌트\r\n6.3 대화형 파이프라인에서 텐서보드 사용하기\r\n6.4 분산 학습 전략\r\n6.5 모델 튜닝\r\n6.6 요약\r\n\r\nCHAPTER 7 모델 분석 및 검증\r\n7.1 모델 분석 방법\r\n7.2 텐서플로 모델 분석\r\n7.3 공정성을 위한 모델 분석\r\n7.4 모델 설명 가능성\r\n7.5 TFX에서의 분석과 검증\r\n7.6 요약\r\n\r\nCHAPTER 8 텐서플로 서빙을 사용한 모델 배포\r\n8.1 간단한 모델 서버\r\n8.2 파이썬 기반 API를 사용한 모델 배포의 단점\r\n8.3 텐서플로 서빙\r\n8.4 텐서플로 아키텍처 개요\r\n8.5 텐서플로 서빙용 모델 내보내기\r\n8.6 모델 서명\r\n8.7 내보낸 모델 검사하기\r\n8.8 텐서플로 서빙 설정\r\n8.9 텐서플로 서버 구성\r\n8.10 REST 대 gRPC\r\n8.11 모델 서버에서 예측하기\r\n8.12 텐서플로 서빙을 사용한 A/B 모델 테스트\r\n8.13 모델 서버에서 모델 메타데이터 요청\r\n8.14 추론 요청 배치 처리\r\n8.15 배치 예측 구성\r\n8.16 기타 텐서플로 서빙 최적화\r\n8.17 텐서플로의 대체 서비스\r\n8.18 클라우드 공급자를 통...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 전산수학(SPSS/MATLAB)\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=280601542",
-          "publishedOn": "2021-10-01T01:54:00.000Z",
-          "wordCount": null,
-          "title": "살아 움직이는 머신러닝 파이프라인 설계/하네스 막스 하프케.캐서린 넬슨 지음, 송호연 옮김/한빛미디어"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=280599429",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "그로킹 심층 강화학습\n미겔 모랄레스 지음, 강찬석 옮김 / 한빛미디어 / 2021년 10월 / ISBN:9791162244838\n정가: 35,000원 / 판매가: 31,500원 / 마일리지: 142원\n이벤트: 컴퓨터/IT - 키링 시계/텀블러/형광펜\n\n\n\n\n강화학습과 심층 강화학습이 무엇인지 이해하고 실제로 적용해보고 싶은 사람들을 위해 기본 이론부터 실제 적용 방법까지 차례로 안내한다. 자세한 예제와 적절한 비유가 섞인 개념 설명으로 시작해, 해당 개념을 수학적으로 확인할 수 있는 공식들과 이를 직접 만들어볼 수 있는 코드까지 제공하며 강화학습을 떠먹여준다. 눈과 손을 통해 들어오는 설명을 하나씩 차례대로 소화해나가다 보면 어렵게만 느껴졌던 심층 강화학습이 어느새 여러분의 것이 되어 있을 것이다.\n\nCHAPTER 1 심층 강화학습의 기초\r\n1.1 심층 강화학습이란 무엇인가?\r\n1.2 심층 강화학습의 과거와 현재 그리고 미래\r\n1.3 심층 강화학습의 적절성\r\n1.4 두 가지의 명확한 기대치 설정\r\n1.5 요약\r\n\r\nCHAPTER 2 강화학습의 수학적 기초\r\n2.1 강화학습의 구성 요소\r\n2.2 MDP: 환경의 엔진\r\n2.3 요약\r\n\r\nCHAPTER 3 순간 목표와 장기 목표 간의 균형\r\n3.1 의사결정을 내리는 에이전트의 목적\r\n3.2 이상적인 행동들에 대한 계획\r\n3.3 요약\r\n\r\nCHAPTER 4 정보의 수집과 사용 간의 균형\r\n4.1 평가가능한 피드백 해석의 어려움\r\n4.2 전략적인 탐색\r\n4.3 요약\r\n\r\nCHAPTER 5 에이전트의 행동 평가\r\n5.1 정책들의 가치를 추정하는 학습\r\n5.2 여러 단계를 통해서 추정하는 학습\r\n5.3 요약\r\n\r\nCHAPTER 6 에이전트의 행동 개선\r\n6.1 강화학습 에이전트의 구조\r\n6.2 행동에 대한 정책을 개선하기 위한 학습\r\n6.3 학습에서 행동을 분리하기\r\n6.4 요약\r\n\r\nCHAPTER 7 조금 더 효율적인 방법으로 목표에 도달하기\r\n7.1 강건한 목표를 활용한 정책 개선 학습\r\n7.2 상호작용, 학습 그리고 계획하는 에이전트\r\n7.3 요약\r\n\r\nCHAPTER 8 가치 기반 심층 강화학습 개요\r\n8.1 심층 강화학습 에이전트가 사용하는 피드백의 유형\r\n8.2 강화학습을 위한 함수 근사화\r\n8.3 NFQ: 가치 기반 심층 강화학습을 위한 첫 번째 시도\r\n8.4 요약\r\n\r\nCHAPTER 9 조금 더 안정적인 가치 기반 학습 방법들\r\n9.1 DQN: 강화학습을 지도학습처럼 만들기\r\n9.2 이중 DQN: 행동-가치 함수에 대한 과도추정 극복\r\n9.3 요약\r\n\r\nCHAPTER 10 샘플 효율적인 가치 기반 학습 방법들\r\n10.1 듀얼링 DDQN: 강화학습에 초점을 맞춘 신경망 구조\r\n10.2 PER: 유의미한 경험 재현에 대한 우선순위 부여\r\n10.3 요약\r\n\r\nCHAPTER 11 정책-경사법과 액터-크리틱 학습법\r\n11.1 REINFORCE: 결과기반 정책 학습\r\n11.2 VPG: 가치함수 학습하기\r\n11.3 A3C: 병렬적 정책 갱신\r\n11.4 GAE: 강력한 이점 추정\r\n11.5 A2C: 동기화된 정책 갱신\r\n11.6 요약\r\n\r\nCHAPTER 12 발전된 액...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=280599429",
-          "publishedOn": "2021-10-01T01:09:00.000Z",
-          "wordCount": null,
-          "title": "그로킹 심층 강화학습/미겔 모랄레스 지음, 강찬석 옮김/한빛미디어"
         }
       ]
     },
@@ -1200,6 +1182,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/-GQ4BaEEGDU/schedule-for-week-of-october-31-2021.html",
+          "author": null,
+          "description": "Boo!\nThe key report this week is the October employment report on Friday.\nOther key indicators include the October ISM manufacturing and services indexes, October vehicle sales, and the September trade deficit.\nThe FOMC meets on Tuesday and Wednesday this week, and they are expected to announce tapering of asset purchases.\n----- Monday, November 1st -----\n10:00 AM: ISM Manufacturing Index for October.  The consensus is for 60.5%, down from 61.1%. \n10:00 AM: Construction Spending for September.  The consensus is for 0.4% increase in spending.\n----- Tuesday, November 2nd -----\n8:00 AM ET: Corelogic House Price index for September.\n10:00 AM: The Q3 Housing Vacancies and Homeownership report from the Census Bureau.\nAll day: Light vehicle sales for October.\nThe consensus is for sales of 12.4 mi…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/-GQ4BaEEGDU/schedule-for-week-of-october-31-2021.html",
+          "publishedOn": "2021-10-30T12:11:00.001Z",
+          "wordCount": 1261,
+          "title": "Schedule for Week of October 31, 2021"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/1z70YC3q4UE/fannie-mae-mortgage-serious-delinquency.html",
           "author": null,
