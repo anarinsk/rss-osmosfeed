@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-10-31T03:04:07.055Z</updated>
+    <updated>2021-10-31T06:07:31.127Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After floods and pandemics: How to obtain a meaningful forecast]]></title>
+        <id>https://voxeu.org/article/after-floods-and-pandemics-how-obtain-meaningful-forecast</id>
+        <link href="https://voxeu.org/article/after-floods-and-pandemics-how-obtain-meaningful-forecast"/>
+        <updated>2021-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Covid-19 pandemic shock, new shifting economic trends, and revisions in monetary policy by major central banks make macroeconomic forecasting a challenging task. This column reviews advancements in forecasting techniques that were discussed at the ECB’s 11th Conference on Forecasting Techniques, dedicated to “forecasting in abnormal times”. Researchers are currently advancing primarily on two fronts – either by sheltering linear models against extreme events or explicitly modelling the dynamics of the latter. New approaches and methods are rapidly developing, partly inspired by big data and machine learning techniques.]]></summary>
+        <author>
+            <name>Elena Bobeica, Gabriel Pérez-Quirós, Gerhard Rünstler, Georg Strasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Real Estate Newsletter Articles this Week]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/KNrflLaT0pE/real-estate-newsletter-articles-this_0708876194.html</id>
