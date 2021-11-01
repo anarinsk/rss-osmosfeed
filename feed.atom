@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-01T12:08:18.415Z</updated>
+    <updated>2021-11-01T15:05:33.904Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Measuring consumption inequality]]></title>
+        <id>https://www.aeaweb.org/research/consumption-inequality-warehouse-stores</id>
+        <link href="https://www.aeaweb.org/research/consumption-inequality-warehouse-stores"/>
+        <updated>2021-11-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The income gap between rich and poor has grown substantially in recent decades, but it's unclear whether consumption inequality has followed the same pattern. A paper in the American Economic Journal: Macroeconomics digs into spending data to better understand the disconnect.]]></summary>
+        <author>
+            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Construction Spending Decreased in September]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/aE0NNE4tf-o/construction-spending-decreased-in.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/aE0NNE4tf-o/construction-spending-decreased-in.html"/>
+        <updated>2021-11-01T14:21:00.002Z</updated>
+        <summary type="html"><![CDATA[From the Census Bureau reported that overall construction spending was "virtually unchanged":
+Construction spending during September 2021 was estimated at a seasonally adjusted annual rate of $1,573.6 billion, 0.5 percent below the revised August estimate of $1,582.0 billion. The September figure is 7.8 percent above the September 2020 estimate of $1,459.3 billion. 
+emphasis added
+Both private and public spending decreased:
+Spending on private construction was at a seasonally adjusted annual rate of $1,229.9 billion, 0.5 percent below the revised August estimate of $1,236.1 billion. ...
+In September, the estimated seasonally adjusted annual rate of public construction spending was $343.7 billion, 0.7 percent below the revised August estimate of $345.9 billion.
+ Click on graph for larger image.
+This graph shows private residential and nonresidential construction spending, and public spending, since 1993. Note: nominal dollars, not inflation adjusted.
+Residential spending is 14% above the bubble peak (in nominal terms - not adjusted for inflation).
+Non-residential spending is 10% above the bubble era peak in January 2008 (nominal dollars), but has been weak recently.
+Public construction spending is 6% above the peak in March 2009, but weak recently.
+The second graph shows the year-over-year change in construction spending.
+On a year-over-year basis, private residential construction spending is up 19.3%.  Non-residential spending is down 0.5% year-over-year.  Public spending is down 2.4% year-over-year.
+Construction was considered an essential service during the early months of the pandemic in most areas, and did not decline sharply like many other sectors.  However, some sectors of non-residential have been under pressure.  For example, lodging is down 32.8% YoY, and office down 2.9% YoY.
+
+This was below consensus expectations of a 0.4% increase in spending, and construction spending for the previous two months was revised down.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISM® Manufacturing index decreased to 60.8% in October]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/qdNN4ZQvECc/ism-manufacturing-index-decreased-to.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/qdNN4ZQvECc/ism-manufacturing-index-decreased-to.html"/>
+        <updated>2021-11-01T14:07:00.005Z</updated>
+        <summary type="html"><![CDATA[(Posted with permission).  The ISM manufacturing index indicated expansion in September.  The PMI® was at 60.8% in October, down from 61.1% in September.  The employment index was at 52.0%, up from 50.2% last month, and the new orders index was at 59.8%, down from 66.7%.
+From ISM: Manufacturing PMI® at 61.1% October 2021 Manufacturing ISM® Report On Business®
+Economic activity in the manufacturing sector grew in October, with the overall economy achieving a 17th consecutive month of growth, say the nation's supply executives in the latest Manufacturing ISM® Report On Business®.
+The report was issued today by Timothy R. Fiore, CPSM, C.P.M., Chair of the Institute for Supply Management® (ISM®) Manufacturing Business Survey Committee:
+“The October Manufacturing PMI® registered 60.8 percent, a…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven High Frequency Indicators for the Economy]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/IKt9a4KkRF4/seven-high-frequency-indicators-for.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/IKt9a4KkRF4/seven-high-frequency-indicators-for.html"/>
+        <updated>2021-11-01T12:17:00.002Z</updated>
+        <summary type="html"><![CDATA[These indicators are mostly for travel and entertainment.    It will interesting to watch these sectors recover as the pandemic subsides.
+----- Airlines: Transportation Security Administration -----
+The TSA is providing daily travel numbers.
+This data is as of October 31st.
+ Click on graph for larger image.
+This data shows the 7-day average of daily total traveler throughput from the TSA for 2019 (Light Blue), 2020 (Blue) and 2021 (Red).
+The dashed line is the percent of 2019 for the seven day average.
+The 7-day average is down 17.8% from the same day in 2019 (82.2% of 2019).  (Dashed line)
+
+
+
+  
+----- Restaurants: OpenTable -----
+The second graph shows the 7-day average of the year-over-year change in diners as tabulated by OpenTable for the US and several selected cities.
+
+IMPORTANT: Ope…]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Economics of Medical Procedure Innovation -- by David Dranove, Craig Garthwaite, Christopher Heard, Bingxiao Wu]]></title>
         <id>https://www.nber.org/papers/w29438#fromrss</id>
