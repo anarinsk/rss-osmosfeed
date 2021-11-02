@@ -645,6 +645,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/what-100000-bank-accounts-tell-us-about-french-smes-september-2021",
+          "author": "Anne Epaulard, Etienne Fize, Titouan Le Calvé, Philippe Martin, Hélène  Paris, Kevin Parra Ramirez, David Sraer",
+          "description": "Governments around the world announced fiscal support measures to keep businesses afloat in response to the Covid-19 shock. This column uses bank account data from 100,000 French firms to examine the solvency and liquidity of companies across sectors. Firms in the accommodation and food services sector are doing surprising well, while many firms in the construction sector are struggling financially. The findings suggests fiscal support may not have worked as intended, and that policymakers should continue to monitor bankruptcies closely in the coming months.",
+          "link": "https://voxeu.org/article/what-100000-bank-accounts-tell-us-about-french-smes-september-2021",
+          "publishedOn": "2021-11-02T00:00:00.000Z",
+          "wordCount": 2361,
+          "title": "What 100,000 bank accounts tell us about French SMEs in September 2021"
+        },
+        {
+          "id": "https://voxeu.org/article/carbon-tax-recycling-and-popular-support-germany",
+          "author": "Rick van der Ploeg, Armon Rezai, Miguel  Tovar",
+          "description": "Carbon pricing disproportionally hurt poorer households, but cash disbursals from the revenue it raises can compensate these households and lower income inequality. This column evaluates the effects of carbon taxes by employing utility-based measures of whether a household is better off. The transparency of such a policy increases political support if a substantial majority of the population benefit from the carbon tax plus cash disbursal. However, endogenous behaviour blunts the effectiveness of such transfers; for Germany, it diminishes political approval from 60% to 30%. Using revenue for lowering income taxes as well for dividends increases popular support back to above 50%.",
+          "link": "https://voxeu.org/article/carbon-tax-recycling-and-popular-support-germany",
+          "publishedOn": "2021-11-02T00:00:00.000Z",
+          "wordCount": 2861,
+          "title": "Carbon tax recycling and popular support in Germany"
+        },
+        {
           "id": "https://voxeu.org/content/silver-lining-forced-migration",
           "author": "Sascha O. Becker",
           "description": "Education is one of the few valuable assets that cannot easily be removed from you and that can travel with you if you are a victim of forced migration.\nIn a video recorded at 2020's AEA conference, Sascha Becker (Warwick University & CEPR) explains how data around the changes to Polish borders following WWII confirms a hypothesis that people who have suddenly lost everything through forced migration place a higher value on education for them and their children, once relocated. The policy implications are clear: governments should ensure that migrants who arrive following forced relocation are given quick and effective access to education for their children as this will benefit both them and their host country.",
@@ -1578,6 +1596,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/314WIapwp2U/tuesday-corelogic-house-prices-housing.html",
+          "author": null,
+          "description": "From Matthew Graham at Mortgage News Daily: Mortgage Rates Catch Up To Last Week's Market Movement (That's a Good Thing)\nMortgage rates moved moderately lower today despite an absence of significant movement in the bond market.  In general, when bonds improve, rates fall (and vice versa), but it's not feasible for mortgage lenders to adjust their rates offerings in relative real-time as bonds can send massively mixed signals on any given day.   [30 year fixed 3.18%]\nemphasis added\nTuesday:\n• At 8:00 AM ET, Corelogic House Price index for September.\n• At 10:00 AM, The Q3 Housing Vacancies and Homeownership report from the Census Bureau.\n• All day, Light vehicle sales for October. The consensus is for sales of 12.4 million SAAR, up from 12.2 million SAAR in September (Seasonally Adjusted Annual Rate).",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/314WIapwp2U/tuesday-corelogic-house-prices-housing.html",
+          "publishedOn": "2021-11-02T01:02:00.000Z",
+          "wordCount": 954,
+          "title": "Tuesday: CoreLogic House Prices, Housing Vacancies and Homeownership, Vehicle Sales"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/GvGxE9LhfYI/mba-survey-share-of-mortgage-loans-in.html",
           "author": null,
