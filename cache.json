@@ -645,6 +645,24 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/saving-paris-economically-efficient-and-equitable-rescue-plan",
+          "author": "Avinash Persaud",
+          "description": "To meet the Paris agreement, the world would have to eliminate 53.5 billion metric tonnes of carbon dioxide each year for the next 30 years. This column proposes a plan to meet the costs of this in an equitable way. Countries that contribute most to the stock of GHGs could issue an instrument that gives investors in projects anywhere in the world that reduce emissions the right to borrow from them at their overnight interest rates – which are currently near zero – and to roll over this borrowing for as long as the project delivers some minimum rate of reduction in emissions per dollar invested. Luckily, such an instrument already exists in the form of the IMF’s Special Drawing Rights.",
+          "link": "https://voxeu.org/article/saving-paris-economically-efficient-and-equitable-rescue-plan",
+          "publishedOn": "2021-11-02T00:00:00.000Z",
+          "wordCount": 2725,
+          "title": "Saving Paris: An economically efficient and equitable rescue plan"
+        },
+        {
+          "id": "https://voxeu.org/content/fragile-triangle-price-stability-bank-regulation-and-central-bank-reserves",
+          "author": "Hans Gersbach",
+          "description": "For the first time in a generation, economists are worried about inflation risks in advanced economies. Hans Gersbach argues that the risk to price stability is higher than we assume. The reason: tightening bank regulation that has massively increased central bank reserves.\nRead more about the research discussed: \nHans Gersbach, The fragile triangle: Price stability, bank regulation and central bank reserves, CEPR Policy Insight No 112",
+          "link": "https://voxeu.org/content/fragile-triangle-price-stability-bank-regulation-and-central-bank-reserves",
+          "publishedOn": "2021-11-02T00:00:00.000Z",
+          "wordCount": 590,
+          "title": "The fragile triangle. Price stability, bank regulation and central bank reserves"
+        },
+        {
           "id": "https://voxeu.org/article/what-100000-bank-accounts-tell-us-about-french-smes-september-2021",
           "author": "Anne Epaulard, Etienne Fize, Titouan Le Calvé, Philippe Martin, Hélène  Paris, Kevin Parra Ramirez, David Sraer",
           "description": "Governments around the world announced fiscal support measures to keep businesses afloat in response to the Covid-19 shock. This column uses bank account data from 100,000 French firms to examine the solvency and liquidity of companies across sectors. Firms in the accommodation and food services sector are doing surprising well, while many firms in the construction sector are struggling financially. The findings suggests fiscal support may not have worked as intended, and that policymakers should continue to monitor bankruptcies closely in the coming months.",
@@ -1596,6 +1614,15 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/puxUyuviPjs/corelogic-house-prices-up-18-yoy-in.html",
+          "author": null,
+          "description": "Notes: This CoreLogic House Price Index report is for September.  The recent Case-Shiller index release was for August.  The CoreLogic HPI is a three month weighted average and is not seasonally adjusted (NSA).\nFrom CoreLogic: US Annual Home Price Growth Hits 18% in September as Supply and Demand Imbalances Intensify, CoreLogic Reports\nCoreLogic® ... released the CoreLogic Home Price Index (HPI™) and HPI Forecast™ for September 2021.\nDemand for homebuying remained strong through the end of the summer. However, the ongoing housing supply shortage has continued to drive up prices, which increased 18% year over year in September, to record highs creating additional challenges for entry into the homebuying market. High demand and low supply levels for entry-level homes, in particular, are sidelining many would-be first-time buyers.\nAs millennials continue to make up a large part of homebuying demand and flock to tech hubs like Seattle; San Jose, California and Austin, Texas, we may see this challenge intensify. This is reflected in a recent CoreLogic consumer survey, with 47.9% of this cohort stating they cannot afford to purchase a home in their preferred area.\n“The pandemic led prospective buyers to seek detached homes in communities with lower population density, such as suburbs and exurbs,” said Frank Martell, president and CEO of CoreLogic. “As we head into 2022, we expect some moderation in the current pattern of flight away from urban cores as the pandemic wanes.”\n...\n Nationally, home prices increased 18% in September 2021, compared to September 2020. On a month-over-month basis, home prices increased by 1.1% compared to August 2021.\n...\n In September, appreciation of detached properties (19.6%) was 7.4 percentage points higher than that of attached properties (12.2%).\nemphasis added",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/puxUyuviPjs/corelogic-house-prices-up-18-yoy-in.html",
+          "publishedOn": "2021-11-02T12:00:00.011Z",
+          "wordCount": 1098,
+          "title": "CoreLogic: House Prices up 18% YoY in September"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/314WIapwp2U/tuesday-corelogic-house-prices-housing.html",
           "author": null,
