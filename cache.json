@@ -382,6 +382,24 @@
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=437&rssType=2&type=title",
       "articles": [
         {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=282440166",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "파이썬 데이터 전처리 및 탐색 라이브러리\n허진경 지음 / 부크크(bookk) / 2021년 09월 / ISBN:9791137257726\n정가: 29,400원 / 판매가: 29,400원 / 마일리지: 0원\n이벤트: 컴퓨터.IT - 달력/다이어리/클립보드\n\n\n\n\n1장. N차원 배열 다루기 - Numpy로 차원을 넘나들다.\r\n1절. 넘파이 패키지\r\n1.1. 넘파이 소개\r\n1.2. ndarray 속성\r\n1.3. dtype의 이해\r\n2절. 넘파이 배열\r\n2.1. array()로 넘파이 배열 만들기\r\n2.2. 기본값이 있는 배열 만들기\r\n2.3. 연속된 값을 갖는 배열 만들기\r\n1) arange()\r\n2) linspace()\r\n2.4. 배열의 모양 변경하기\r\n1) ravel(), reshape(), T\r\n2) resize()\r\n3) shape\r\n2.5. 배열 인쇄\r\n2.6. 기본 조작\r\n1) 배열의 요소별 연산\r\n2) 행렬의 곱\r\n3) 복합대입연산자의 사용\r\n4) 배열 요소의 집계\r\n5) 축을 지정한 집계\r\n2.7. 범용함수\r\n1) 범용함수\r\n2) 출력 인수의 사용\r\n3) 출력 인수의 사용과 메모리 사용량 및 실행시간 비교\r\n4) 넘파이의 범용함수들\r\n2.8. 브로드캐스팅\r\n1) 배열과 스칼라 연산\r\n2) 브로드캐스팅 규칙\r\n3절. 배열 합치기/나누기\r\n3.1. 인덱싱과 슬라이싱\r\n1) 인덱싱\r\n2) 슬라이싱\r\n3) 다차원 배열 인덱싱\r\n4) 다차원 배열 슬라이싱\r\n5) 축 인덱스의 생략\r\n6) 다차원 배열 반복\r\n\r\n3.2. 두 배열을 쌓아 합치기\r\n1) vstack(), hstack(), dstack()\r\n2) column_stack()\r\n3) newaxis 속성\r\n4) row_stack()\r\n5) stack()\r\n3.3. r_, c_\r\n3.4. 하나의 배열을 여러 개의 작은 배열로 나누기\r\n1) vsplit(), hsplit(), dsplit()\r\n2) hsplit()과 axis=1\r\n3) 인덱스 목록으로 나누기\r\n4) split()\r\n5) array_split()\r\n4절. 복사와 뷰\r\n4.1. 모두 복사 안 함\r\n4.2. 얕은 복사 뷰(view)\r\n4.3. 깊은 복사 카피(copy)\r\n5절. 고급 인덱싱\r\n5.1. 인덱스 배열로 인덱싱\r\n5.2. 다차원 인덱싱\r\n5.3. 인덱싱을 이용한 값 변경\r\n5.4. 논리 배열을 이용한 인덱싱\r\n5.5. ix_() 함수\r\n5.6. 리듀스 함수의 구현\r\n6절. 선형대수학\r\n6.1. 배열 조작\r\n6.2. 선형 연립방정식 풀이\r\n7절. 유용한 정보 및 팁\r\n7.1. shape 자동 지정하기\r\n7.2. 히스토그램\r\n8절. 연습문제\r\n8.1. 실습형\r\n1) 문제\r\n2) 정답 및 풀이\r\n8.2. 문제 풀이형\r\n1) 문제\r\n2) 정답 및 풀이\r\n\r\n2장. 데이터프레임과 시리즈 - 데이터 분석을 위한 필수 패키지 ...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=282440166",
+          "publishedOn": "2021-11-01T05:27:00.000Z",
+          "wordCount": 18,
+          "title": "파이썬 데이터 전처리 및 탐색 라이브러리/허진경 지음/부크크(bookk)"
+        },
+        {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=282439927",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "파이썬 OpenCV를 이용한 영상처리\n허진경 지음 / 부크크(bookk) / 2021년 09월 / ISBN:9791137258051\n정가: 25,000원 / 판매가: 25,000원 / 마일리지: 0원\n이벤트: 컴퓨터.IT - 달력/다이어리/클립보드\n\n\n\n\n1장. 영상처리 개요\r\n1절. 이미지 표현\r\n1.1. 영상의 종류와 표현 방법\r\n1.2. 디지털 이미지와 좌표 표현 방법\r\n1) 표본화와 양자화\r\n1.3. 레나 이미지\r\n2절. OpenCV와 이미지 읽기\r\n2.1. OpenCV\r\n1) OpenCV란?\r\n2) OpenCV 설치\r\n3) OpenCV 사용하기\r\n2.2. cv2.imread()로 이미지 불러오기\r\n2.3. cv2.imshow()로 이미지 출력하기\r\n2.4. cv2.imwrite()로 이미지 저장하기\r\n2.5. Matplotlib 사용해서 이미지 출력하기\r\n3절. 디지털 화상과 컬러\r\n3.1. 이진 화상\r\n3.2. 회색조 화상\r\n3.3. 컬러 화상\r\n1) RGB 모델\r\n2) HSV 모델\r\n3) YUV 모델\r\n3.4. 색상 공간 변환\r\n1) cv2.cvtColor()\r\n2) 컬러 이미지를 그레이스케일 이미지로 변환하기\r\n4절. 동영상 처리하기\r\n4.1. 동영상 읽기\r\n4.2. 카메라 영상 읽기\r\n1) USP 카메라 영상 읽기\r\n2) IP 카메라 RTSP 영상 읽기\r\n4.3. 동영상 속성\r\n4.4. 동영상 프레임 저장하기\r\n4.5. 비디오 저장하기\r\n5절. 이벤트 처리하기\r\n5.1. 마우스 이벤트\r\n5.2. 키보드 이벤트\r\n5.3. 트랙 바 사용하기\r\n6절. 도형 그리기\r\n6.1. 선 그리기\r\n6.2. 사각형 그리기\r\n6.3. 원 그리기\r\n6.4. 타원과 호 그리기\r\n6.5. 다각형 그리기\r\n6.6. 문자열 표시하기\r\n\r\n2장. 영상 기본 연산\r\n1절. 영상 기본 정보\r\n1.1. 영상 기본 속성\r\n1.2. 영상 화소 처리하기\r\n1.3. 함수 만들어 사용하기\r\n1.4. ROI\r\n2절. 기본 연산\r\n2.1. 이미지 채널\r\n2.2. 이미지 합치기\r\n1) cv2.add()와 numpy.add()\r\n2) 이미지 블랜딩\r\n3) 비트연산\r\n4) cv2.seamlessClone()\r\n2.3. 이진화\r\n1) 이진화\r\n2) cv2.threshold()\r\n3) 적응 임계처리\r\n4) 디더링\r\n3절. 히스토그램\r\n3.1. 이미지 히스토그램\r\n3.2. 히스토그램 함수 구현\r\n3.3. cv2.calcHist()\r\n3.4. 채널\r\n\r\n3장. 이미지 변환\r\n1절. 기하 변환\r\n1.1. 변환\r\n1) 변환의 종류\r\n2) 기준 좌표 설정 방법\r\n2절. 크기변환\r\n2.1. 크기변환\r\n2.2. 출력 영상을 기준으로 처리\r\n2.3. 보간법\r\n1) 최근방법\r\n2) 선형방법\r\n2.4. Max Pooling\r\n2.5. cv2.resize()\r\n3절. 이동\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=282439927",
+          "publishedOn": "2021-11-01T05:24:00.000Z",
+          "wordCount": 18,
+          "title": "파이썬 OpenCV를 이용한 영상처리/허진경 지음/부크크(bookk)"
+        },
+        {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=282282220",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
           "description": "파이썬 마스터 1·2급\n유성열 지음 / 명진씨앤피 / 2021년 11월 / ISBN:9788992561525\n정가: 22,000원 / 판매가: 19,800원 / 마일리지: 90원\n이벤트: 컴퓨터/IT - 키링 시계/텀블러/형광펜\n\n\n\n\nKAIT의 파이썬 활용 능력에 대한 자격 검증인 “파이썬 마스터” 1급 및 2급을 준비하는 독자들에게 도움을 주고자 출간하였다. 기본 개념에 대한 상세한 설명은 물론, 예시를 통한 코딩 구현 과정 제시, 풍부한 실전 예제를 통한 심화 학습, 나아가 샘플 문제 풀이까지 학습할 수 있다. 체계적인 학습을 제공함으로 파이썬 마스터를 취득하기 위한 이들에게 필수 교재가 되어줄 것이다.\n\n01 파이썬 개요\r\n\r\n1.1 파이썬 소개\r\n1.2 파이썬의 특징\r\n1.3 파이썬 설치\r\n1.4 간단한 파이썬 코딩\r\n\r\n02 파이썬 자료구조\r\n\r\n2.1 숫자형\r\n2.2 문자열\r\n2.3 리스트\r\n2.4 튜플\r\n2.5 딕셔너리\r\n2.6 세트\r\n2.7 불형 자료와 관련 연산자\r\n\r\n03 제어문\r\n\r\n3.1 if 문\r\n3.2 for 문\r\n3.3 while 문\r\n\r\n04 함수\r\n\r\n4.1 함수의 개념\r\n4.2 함수의 구조\r\n4.3 함수의 매개변수\r\n4.4 함수의 반환값  \r\n4.5 지역변수와 전역변수\r\n4.6 중첩 함수\r\n4.7 재귀 함수\r\n4.8 lambda\r\n4.9 주요 내장 함수\r\n\r\n05 정렬 및 탐색 알고리즘\r\n\r\n5.1 정렬 알고리즘\r\n5.2 탐색 알고리즘\r\n\r\n06 파일 입출력\r\n\r\n6.1 사용자 입출력\r\n6.2 파일 입출력\r\n\r\n07 클래스\r\n\r\n7.1 객체와 클래스\r\n7.2 클래스 정의\r\n7.3 상속\r\n\r\n08 모듈과 패키지\r\n\r\n8.1 모듈\r\n8.2 패키지\r\n\r\n샘플문제풀이\n\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
@@ -644,6 +662,33 @@
       "feedUrl": "https://voxeu.org/rss.xml",
       "siteUrl": "https://voxeu.org/",
       "articles": [
+        {
+          "id": "https://voxeu.org/article/developing-economy-debt-after-pandemic",
+          "author": "M. Ayhan Kose, Franziska Ohnsorge, Carmen Reinhart, Kenneth Rogoff",
+          "description": "Global government debt soared in last year’s pandemic-induced global recession. It may now be tempting to rely on the post-pandemic growth and inflation rebound to reduce debt burdens. This column argues, however, that medium-term growth prospects are dimming and inflation helps reduce debt burdens only under particular circumstances. As a result, some developing economies may eventually need to resort to debt default to restore fiscal sustainability, with the associated heavy economic and political cost. The global community can help by coordinating prompt and efficient debt relief and restructuring.",
+          "link": "https://voxeu.org/article/developing-economy-debt-after-pandemic",
+          "publishedOn": "2021-11-03T00:00:00.000Z",
+          "wordCount": 2557,
+          "title": "Developing economy debt after the pandemic"
+        },
+        {
+          "id": "https://voxeu.org/article/covid-19-support-disrupted-creative-destruction-netherlands",
+          "author": "Daan Freeman, Leon Bettendorf, Yvonne Adema",
+          "description": "As in most other countries, the government in the Netherlands implemented generous support measures for firms during the Covid-19 crisis. This column shows that unlike in other countries, however, government support disrupted the creative destruction process in the Netherlands by saving a disproportionately high number of low-productivity firms. The authors suggest this might be because the support measures were more widely and easily available. The speed of the phasing out will play an important role in determining how many firms that have been propped up fail once the support is removed or even has to be paid back.",
+          "link": "https://voxeu.org/article/covid-19-support-disrupted-creative-destruction-netherlands",
+          "publishedOn": "2021-11-03T00:00:00.000Z",
+          "wordCount": 2175,
+          "title": "Covid-19 support disrupted creative destruction in the Netherlands"
+        },
+        {
+          "id": "https://voxeu.org/article/domestic-climate-policy-and-cross-border-bank-lending",
+          "author": "Emanuela Benincasa, Gazi Kabaș, Steven Ongena",
+          "description": "The stringency of climate policy varies from one country to the next. This column examines global syndicated loans to show that banks increase their cross-border lending in response to greater climate policy stringency in their home country, if the home country has more stringent climate policy than the borrowers' countries. Used in this way as a regulatory arbitrage tool, cross-border lending can reduce the effectiveness of climate policies if global coordination is not enforced.",
+          "link": "https://voxeu.org/article/domestic-climate-policy-and-cross-border-bank-lending",
+          "publishedOn": "2021-11-03T00:00:00.000Z",
+          "wordCount": 2572,
+          "title": "Domestic climate policy and cross-border bank lending"
+        },
         {
           "id": "https://voxeu.org/article/saving-paris-economically-efficient-and-equitable-rescue-plan",
           "author": "Avinash Persaud",
@@ -1614,6 +1659,24 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Cwo7UuYH2JY/october-vehicles-sales-increased-to-130.html",
+          "author": null,
+          "description": "Wards Auto released their estimate of light vehicle sales for October.  Wards Auto estimates sales of 12.99 million SAAR in October 2021 (Seasonally Adjusted Annual Rate), up 6.8% from the September sales rate, and down 20.8% from October 2020. \n\nThis was well above the consensus estimate of 12.4 million SAAR.\nClick on graph for larger image.\nThis graph shows light vehicle sales since 2006 from the BEA (blue) and Wards Auto's estimate for October (red).\nThe impact of COVID-19 was significant, and April 2020 was the worst month.\nAfter April 2020, sales increased, and were close to sales in 2019 (the year before the pandemic).  \n\n\nHowever, sales decreased earlier this year due to supply issues. It appears the \"supply chain bottom\" was in September.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/Cwo7UuYH2JY/october-vehicles-sales-increased-to-130.html",
+          "publishedOn": "2021-11-02T22:29:00.000Z",
+          "wordCount": 941,
+          "title": "October Vehicles Sales Increased to 13.0 Million SAAR"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/s3MAdgjStjM/q3-2021-gdp-details-on-residential-and.html",
+          "author": null,
+          "description": "The BEA released the underlying details for the Q3 advance GDP report on Friday.\nThe BEA reported that investment in non-residential structures increased at a 2.4% annual pace in Q3.  Note that weakness in non-residential structures started in 2019, before the pandemic.  \nInvestment in petroleum and natural gas structures increased sharply in Q3 compared to Q2, and was up 67% year-over-year.   \nClick on graph for larger image.\nThe first graph shows investment in offices, malls and lodging as a percent of GDP.\nInvestment in offices (blue) increased slightly in Q3, and was down 4.9% year-over-year.\nInvestment in multimerchandise shopping structures (malls) peaked in 2007 and was down about 2% year-over-year in Q3 - and near a record low as a percent of GDP.   The vacancy rate for malls is st…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/s3MAdgjStjM/q3-2021-gdp-details-on-residential-and.html",
+          "publishedOn": "2021-11-02T21:35:00.001Z",
+          "wordCount": 1153,
+          "title": "Q3 2021 GDP Details on Residential and Commercial Real Estate"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/_wq1P_RwH9Q/november-2nd-covid-19-23-days-till.html",
           "author": null,
