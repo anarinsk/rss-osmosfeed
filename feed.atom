@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-03T00:18:07.455Z</updated>
+    <updated>2021-11-03T03:04:54.554Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wednesday: FOMC Announcement, ADP Employment, ISM Services]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/kWX96aJogDE/wednesday-fomc-announcement-adp.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/kWX96aJogDE/wednesday-fomc-announcement-adp.html"/>
+        <updated>2021-11-03T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Here is my FOMC Preview: Taper Announcement Expected.
+Wednesday:
+• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.
+• At 8:15 AM, The ADP Employment Report for October. This report is for private payrolls only (no government).  The consensus is for 400,000 jobs added, down from 568,000 in September.
+• At 10:00 AM, the ISM Services Index for October.  The consensus is for a decrease to 59.5 from 61.9.
+• At 2:00 PM, FOMC Meeting Announcement. The FOMC is expected to announce tapering of asset purchases at this meeting.
+• At 2:30 PM, Fed Chair Jerome Powell holds a press briefing following the FOMC announcement.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developing economy debt after the pandemic]]></title>
         <id>https://voxeu.org/article/developing-economy-debt-after-pandemic</id>
@@ -7368,16 +7384,6 @@ The post Windows Package Manager 1.1 appeared first on Windows Command Line.]]><
 국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrity politics]]></title>
-        <id>https://www.aeaweb.org/research/political-celebrity-ronald-reagan</id>
-        <link href="https://www.aeaweb.org/research/political-celebrity-ronald-reagan"/>
-        <updated>2021-10-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ronald Reagan’s tenure as the host of G.E. Theater in the '50s and '60s won him electoral support during his political campaigns, evidence of how entertainment media can shape voter decisions, according to a paper in the American Economic Journal: Applied Economics.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
