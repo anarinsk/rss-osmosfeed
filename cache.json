@@ -486,15 +486,6 @@
           "publishedOn": "2021-10-11T17:41:36.000Z",
           "wordCount": 2546,
           "title": "A preview of WSL in the Microsoft Store is now available!"
-        },
-        {
-          "id": "https://devblogs.microsoft.com/commandline/?p=7033",
-          "author": "Demitrius Nelon",
-          "description": "I’m excited to share some great news. We’re releasing Windows Package Manager 1.1. We’ve squashed some annoying bugs and added some highly anticipated features. The Windows Package Manager is being released to Windows 10 (build 1809 and newer) and Windows 11 as an automatic update via the Microsoft Store.\nThe post Windows Package Manager 1.1 appeared first on Windows Command Line.",
-          "link": "https://devblogs.microsoft.com/commandline/windows-package-manager-1-1/",
-          "publishedOn": "2021-10-05T16:00:36.000Z",
-          "wordCount": 1656,
-          "title": "Windows Package Manager 1.1"
         }
       ]
     },
@@ -509,6 +500,24 @@
       "feedUrl": "https://voxeu.org/rss.xml",
       "siteUrl": "https://voxeu.org/",
       "articles": [
+        {
+          "id": "https://voxeu.org/article/optimism-bad-fiscal-outcomes",
+          "author": "Martin Larch, Janis Malzubris, Matthias Busse",
+          "description": "In the history of the EU’s Stability and Growth Pact, some governments have used optimism over medium-term growth to postpone fiscal adjustment or justify expansions. In 2011, EU member states were invited to strengthen their medium-term fiscal planning, but EU surveillance is still very much centred on the year ahead. This column argues that multiannual expenditure paths would be a promising way to improve the medium-term orientation of fiscal policy and, by extension, fiscal performance. They deserve a thought or two in the ongoing review of EU economic governance.",
+          "link": "https://voxeu.org/article/optimism-bad-fiscal-outcomes",
+          "publishedOn": "2021-11-04T00:00:00.000Z",
+          "wordCount": 2903,
+          "title": "Optimism is bad for fiscal outcomes"
+        },
+        {
+          "id": "https://voxeu.org/article/proximity-frontier-markups-and-response-innovation-foreign-competition",
+          "author": "Ana Cusolito, Alvaro Garcia Marin, William Maloney",
+          "description": "The impacts of rising competition on innovation remain unclear, and often depend on country context. This column analyses the impact of increased import competition from China on innovation by Chilean firms. It finds a negative overall impact of competition on innovation indicators. Low-productivity firms in particular see declines across all innovation measures, while the most productive firms experience improvements in product innovation and product quality. Raising the capabilities of firms and their access to resources may be an important complement to pro-competition policies.",
+          "link": "https://voxeu.org/article/proximity-frontier-markups-and-response-innovation-foreign-competition",
+          "publishedOn": "2021-11-04T00:00:00.000Z",
+          "wordCount": 2445,
+          "title": "Proximity to the frontier, markups, and the response of innovation to foreign competition"
+        },
         {
           "id": "https://voxeu.org/article/developing-economy-debt-after-pandemic",
           "author": "M. Ayhan Kose, Franziska Ohnsorge, Carmen Reinhart, Kenneth Rogoff",

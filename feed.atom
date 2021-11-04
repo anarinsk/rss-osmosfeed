@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-04T03:05:22.669Z</updated>
+    <updated>2021-11-04T06:05:49.220Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -367,6 +367,26 @@ A child support calculation framework is constructed that takes as inputs the su
 • Also a 8:30 AM, Trade Balance report for September from the Census Bureau.  The consensus is for the deficit to be $74.1 billion in September, from $73.3 billion in August.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism is bad for fiscal outcomes]]></title>
+        <id>https://voxeu.org/article/optimism-bad-fiscal-outcomes</id>
+        <link href="https://voxeu.org/article/optimism-bad-fiscal-outcomes"/>
+        <updated>2021-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the history of the EU’s Stability and Growth Pact, some governments have used optimism over medium-term growth to postpone fiscal adjustment or justify expansions. In 2011, EU member states were invited to strengthen their medium-term fiscal planning, but EU surveillance is still very much centred on the year ahead. This column argues that multiannual expenditure paths would be a promising way to improve the medium-term orientation of fiscal policy and, by extension, fiscal performance. They deserve a thought or two in the ongoing review of EU economic governance.]]></summary>
+        <author>
+            <name>Martin Larch, Janis Malzubris, Matthias Busse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proximity to the frontier, markups, and the response of innovation to foreign competition]]></title>
+        <id>https://voxeu.org/article/proximity-frontier-markups-and-response-innovation-foreign-competition</id>
+        <link href="https://voxeu.org/article/proximity-frontier-markups-and-response-innovation-foreign-competition"/>
+        <updated>2021-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The impacts of rising competition on innovation remain unclear, and often depend on country context. This column analyses the impact of increased import competition from China on innovation by Chilean firms. It finds a negative overall impact of competition on innovation indicators. Low-productivity firms in particular see declines across all innovation measures, while the most productive firms experience improvements in product innovation and product quality. Raising the capabilities of firms and their access to resources may be an important complement to pro-competition policies.]]></summary>
+        <author>
+            <name>Ana Cusolito, Alvaro Garcia Marin, William Maloney</name>
         </author>
     </entry>
     <entry>
@@ -5119,17 +5139,6 @@ ______IIS의 로그 설정을 Docker에 친화적으로 만들기  ...
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Package Manager 1.1]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=7033</id>
-        <link href="https://devblogs.microsoft.com/commandline/windows-package-manager-1-1/"/>
-        <updated>2021-10-05T16:00:36.000Z</updated>
-        <summary type="html"><![CDATA[I’m excited to share some great news. We’re releasing Windows Package Manager 1.1. We’ve squashed some annoying bugs and added some highly anticipated features. The Windows Package Manager is being released to Windows 10 (build 1809 and newer) and Windows 11 as an automatic update via the Microsoft Store.
-The post Windows Package Manager 1.1 appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Demitrius Nelon</name>
         </author>
     </entry>
 </feed>
