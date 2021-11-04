@@ -452,15 +452,6 @@
           "publishedOn": "2021-10-06T04:58:00.000Z",
           "wordCount": null,
           "title": "나혼자 C언어/이창현 지음/아이생각(디지털북스)"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=280895443",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "도커에서 윈도우 컨테이너 사용하기 2/e\n앨튼 스톤맨 지음, 남정현 옮김 / 에이콘출판 / 2021년 10월 / ISBN:9791161755762\n정가: 40,000원 / 판매가: 36,000원 / 마일리지: 167원\n이벤트: 컴퓨터.IT - 달력/다이어리/클립보드\n\n\n\n\n윈도우 서버용으로 만든 서버 애플리케이션을 요즈음 유행하는 도커(Docker) 기반으로 윈도우 컨테이너 형태로 변환하기 위한 기술적인 방법과 노하우를 담고 있는 책이다. 도커를 사용하는 기본적인 방법을 포함해서 오래된 윈도우 서버 애플리케이션을 코드 수정 없이 클라우드 네이티브 기반으로 현대화할 수 있는 전략을 설명한다. 또한 프로덕션 환경에서 윈도우 컨테이너를 관리하기 위한 방안과, 데브옵스 개념을 처음 접하는 개발자들을 위한 워크플로우를 소개해 윈도우 컨테이너를 실무에 도입하는 것을 고민하는 사람들에게 비전을 제시하고 있다.\n\n1부. Docker와 윈도우 컨테이너 이해하기 \r\n1장. 윈도우에서 Docker 시작하기 \r\n__실습에 필요한 준비  \r\n__Docker와 윈도우 컨테이너  \r\n____윈도우 버전  \r\n____윈도우 라이선스 취득  \r\n__Docker의 중요 개념 이해하기  \r\n____Docker 엔진과 Docker CLI  \r\n____컨테이너 이미지  \r\n____이미지 레지스트리  \r\n____컨테이너  \r\n____Docker 스웜  \r\n______쿠버네티스 소개  \r\n__윈도우에서 Docker 실행하기  \r\n____윈도우용 Docker 데스크톱  \r\n____Docker 엔진  \r\n____애저 가상 컴퓨터 안에서 Docker 실행하기  \r\n__이 책으로 Docker 배우기  \r\n__요약  \r\n\r\n2장. Docker로 애플리케이션 컨테이너 이미지 만들고 실행하기 \r\n__실습에 필요한 준비  \r\n__이미지로부터 컨테이너 실행하기  \r\n____태스크 컨테이너에서 한 가지만 실행하기  \r\n____대화형 컨테이너에 연결하기  \r\n____백그라운드 컨테이너 안에서 프로세스를 계속 실행하도록 유지하기  \r\n__컨테이너 이미지 빌드하기   \r\n____Dockerfile 이해하기  \r\n____Dockerfile에서 이미지 빌드하기  \r\n____Docker가 이미지를 어떻게 만드는지 확인하기  \r\n__애플리케이션 이미지 만들기  \r\n____빌드 도중 애플리케이션 컴파일하기  \r\n____빌드 전에 애플리케이션 컴파일하기  \r\n____다단계 빌드로 컴파일하기  \r\n____주요 Dockerfile 지시어 사용하기  \r\n____임시 컨테이너와 이미지 상태 이해하기  \r\n__컨테이너 이미지와 컨테이너 안에서 데이터 다루기  \r\n____레이어 안의 데이터와 가상 C: 드라이브  \r\n____컨테이너 간에 볼륨으로 데이터 공유하기  \r\n____컨테이너와 호스트 간에 볼륨으로 데이터 공유하기   \r\n______호스트 디렉터리로부터 볼륨 마운트하기  \r\n____구성과 상태 관리를 위해 볼륨 사용하기  \r\n__기존 ASP.NET 웹 애플리케이션을 컨테이너 이미지로 만들기 \r\n____NerdDinner를 위한 Dockerfile 만들기  \r\n__요약  \r\n\r\n3장. 컨테이너로 .NET Framework 및 .NET Core 애플리케이션 개발하기\r\n__Docker에 최적화된 애플리케이션 만들기  \r\n____인터넷 정보 서비스 애플리케이션을 Docker에서 실행하기  \r\n______IIS의 로그 설정을 Docker에 친화적으로 만들기  \r...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 데이터베이스 프로그래밍 > 데이터베이스 구축\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=280895443",
-          "publishedOn": "2021-10-06T01:39:00.000Z",
-          "wordCount": null,
-          "title": "도커에서 윈도우 컨테이너 사용하기 2/e/앨튼 스톤맨 지음, 남정현 옮김/에이콘출판"
         }
       ]
     },
@@ -1164,6 +1155,24 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/D0Fa7ybAWlw/trade-deficit-increased-to-809-billion.html",
+          "author": null,
+          "description": "From the Department of Commerce reported:\nThe U.S. Census Bureau and the U.S. Bureau of Economic Analysis announced today that the goods and services deficit was $80.9 billion in September, up $8.1 billion from $72.8 billion in August, revised.\nSeptember exports were $207.6 billion, $6.4 billion less than August exports. September imports were $288.5 billion, $1.7 billion more than August imports.\n  emphasis added\n Click on graph for larger image.\nExports decreased and imports increased in September. \nExports are up 17% compared to September 2020; imports are up 20% compared to September 2020.\nBoth imports and exports decreased sharply due to COVID-19, and have now bounced back (imports  more than exports),\nThe second graph shows the U.S. trade deficit, with and without petroleum.\n The blue line is the total deficit, and the black line is the petroleum deficit, and the red line is the trade deficit ex-petroleum products.\nNote that net, imports and exports of petroleum products are close to zero.\nThe trade deficit with China increased to $36.5 billion in September, from $29.7 billion in September 2020.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/D0Fa7ybAWlw/trade-deficit-increased-to-809-billion.html",
+          "publishedOn": "2021-11-04T12:48:00.000Z",
+          "wordCount": 994,
+          "title": "Trade Deficit Increased to $80.9 Billion in September"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/S-csUAjjLpc/weekly-initial-unemployment-claims.html",
+          "author": null,
+          "description": "The DOL reported:\nIn the week ending October 30, the advance figure for seasonally adjusted initial claims was 269,000, a decrease of  14,000 from the previous week's revised level. This is the lowest level for initial claims since March 14, 2020 when it  was 256,000. The previous week's level was revised up by 2,000 from 281,000 to 283,000. The 4-week moving average  was 284,750, a decrease of 15,000 from the previous week's revised average. This is the lowest level for this average  since March 14, 2020 when it was 225,500. The previous week's average was revised up by 500 from 299,250 to  299,750.\nemphasis added\nThe following graph shows the 4-week moving average of weekly claims since 1971.\nClick on graph for larger image.\nThe dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims decreased to 284,750.\nThe previous week was revised up.\nRegular state continued claims decreased to 2,105,000 (SA) from 2,239,000 (SA) the previous week.\nWeekly claims were below consensus forecast.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/S-csUAjjLpc/weekly-initial-unemployment-claims.html",
+          "publishedOn": "2021-11-04T12:33:00.003Z",
+          "wordCount": 987,
+          "title": "Weekly Initial Unemployment Claims Decrease to 269,000"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/wT2dbY8BXqU/thursday-unemployment-claims-trade.html",
           "author": null,
