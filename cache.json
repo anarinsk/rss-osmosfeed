@@ -443,15 +443,6 @@
           "publishedOn": "2021-10-06T23:52:00.000Z",
           "wordCount": null,
           "title": "쉽게 따라 만드는 파이썬 주식 자동매매 시스템/박준성 지음/길벗"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=280910009",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "나혼자 C언어\n이창현 지음 / 아이생각(디지털북스) / 2021년 10월 / ISBN:9788960883819\n정가: 25,000원 / 판매가: 22,500원 / 마일리지: 101원\n이벤트: 컴퓨터.IT - 달력/다이어리/클립보드\n\n\n\n\n배달의 민족, 넷플릭스, 왓챠 등 사용자 맞춤 AI기술이 자연스럽게 사용되는 시대. 우리는 이제 문과, 이과, 남녀노소 가릴 것 없이 코딩을 자연스럽게 배워야한다. 하지만 남들 다 하는 파이썬, 자바, HTML 같은 것들보다 자신만의 차별점을 가지고 싶다면, <나혼자 C언어>를 통해 어렵지만 더 과감한 c언어에 도전하길 바란다.\r\n\r\n<나혼자 c언어>는 활발하게 코딩 교육을 가르치고 있는 이창현 저자가 쓴 두 번째 코딩 독학 시리즈이다. 다수의 예제와 일러스트, 만화 등을 사용하여 c언어를 좀 더 친숙하게 이해할 수 있도록 집필하였다. 그리고 c언어의 가장 고난이도 명령어인 ‘포인터’를 쉽게 설명하기 위해 충분한 공을 들였다.\n\nPart1. c언어와의 운명적인 첫 만남\r\n01. 프로그래밍이란 무엇인가요?\r\n02. 프로그램 개발 과정\r\n03. C언어란 무엇인가요?\r\n04. 개발환경 구축하기\r\n05. 내 생에 최초 C언어로 Hello World 출력하기\r\n06. Hello World 소스코드 분석하기\r\nex) 과제 정답 및 해설\r\n\r\nPart2. 데이터의 재료, 변수와 자료형\r\n01. 변수\r\n02. 자료형\r\n03. 상수에 관하여\r\n04. 사용자로부터의 데이터 입력\r\nex) 과제 정답 및 해설\r\n\r\npart3. 재료들의 조합, 연산자 사용하기\r\n01. 연산자란\r\n02. 다양한 연산자들의 종류\r\n03. 연산자들의 사용\r\n04. 연산 규칙\r\nex) 과제 정답 및 해설\r\n\r\npart4. 논리적 사고의 기초, 조건문\r\n01. 조건문이란\r\n02. if문\r\n03. if ~ else문\r\n04. if ~ else if ~ else\r\n05. switch문\r\nex)과제 정답 및 해설\r\n\r\npart5. 합리적 사고의 기초, 반복문\r\n01. 반복문이란\r\n02. While문\r\n03. do~While문\r\n04. for문\r\n05. break문과 continue문\r\nex)과제 정답 및 해설\r\n\r\npart6. 필요할 때 호출하자. 함수\r\n01. 함수란 무엇인가\r\n02. 함수의 형태\r\n03. 함수의 사용 방법\r\n04. 변수의 범위\r\n05. 재귀적 함수 호출\r\nex)과제 정답 및 해설\r\n\r\npart7. 데이터를 편리하게 관리하자. 배열\r\n01. 배열이란\r\n02. 배열의 이해와 사용\r\n03. 배열의 문자열\r\n04. 다차원 배열\r\nex)과제 정답 및 해설\r\n\r\npart8. 데이터를 원격 제어하자. 포인터\r\n01. 포인터란 무엇인가\r\n02. 포인터의 연산\r\n03. 포인터에 여러 가지 자료형이 있는 이유.\r\nex)과제 정답 및 해설\r\n\r\npart9. 너희 둘은 도대체 무슨 관계니? 배열과 포인터\r\n01. 포인터와 배열의 관게\r\n02. 문자열 상수와 포인터\r\n03. 배열 포인터\r\n04. 배열과 포인터\r\n\r\npart10. 드루와 다량의 데이터, 나한테 넘겨. 함수와 포인터\r\n01. 배열을 함수의 인자로 전달하기\r\n02. 값 호출 방식과 참조 호출 방식\r\nex)과제 정답 및 해설\r\n\r\npart11. 다양한 형태로 사용되며 열일하는 여러 가지 포인터\r\n01. 포인터의 포인터\r\n02. vo...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > C",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=280910009",
-          "publishedOn": "2021-10-06T04:58:00.000Z",
-          "wordCount": null,
-          "title": "나혼자 C언어/이창현 지음/아이생각(디지털북스)"
         }
       ]
     },
@@ -1155,6 +1146,24 @@
       "feedUrl": "http://feeds.feedburner.com/CalculatedRisk",
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/pImgGTxTf5U/october-employment-preview.html",
+          "author": null,
+          "description": "On Friday at 8:30 AM ET, the BLS will release the employment report for October.  The consensus is for 450 thousand jobs added, and for the unemployment rate to decrease to 4.7%.\n\nThere were 194 thousand jobs added in September, and the unemployment rate was at 4.8%.\n\n\nClick on graph for larger image.\n• First, currently there are still about 5.0 million fewer jobs than in February 2020 (before the pandemic).\nThis graph shows the job losses from the start of the employment recession, in percentage terms.\nThe current employment recession was by far the worst recession since WWII in percentage terms, but is now better than the worst of the \"Great Recession\".\n• ADP Report: The ADP employment report showed a gain of 571,000 private sector jobs, above the consensus estimate of 400,000 jobs added…",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/pImgGTxTf5U/october-employment-preview.html",
+          "publishedOn": "2021-11-04T17:37:00.002Z",
+          "wordCount": 1430,
+          "title": "October Employment Preview"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/TUuTfuEpHrQ/hotels-occupancy-rate-down-6-compared.html",
+          "author": null,
+          "description": "Note: Since occupancy declined sharply at the onset of the pandemic, CoStar is comparing to 2019.\n\nFrom CoStar: STR: Tampa Leads Top 25 US Markets in Weekly Performance\nAs anticipated ahead of Halloween, U.S. hotel performance fell week over week, according to STR‘s latest data through 30 October.\nOct. 24-30, 2021 (percentage change from comparable week in 2019*):\n• Occupancy: 58.9% (-5.7%)\n• Average daily rate (ADR): US$127.70 (+1.5%)\n• evenue per available room (RevPAR): US$75.28 (-4.3%)\nEven with a drop in performance levels from previous weeks, comparisons with the matching week in 2019 improved because Halloween that year fell on a Thursday and created a more significant disruption in business travel and groups.\n*Due to the steep, pandemic-driven performance declines of 2020, STR is measuring recovery against comparable time periods from 2019.\n   emphasis added\nThe following graph shows the seasonal pattern for the hotel occupancy rate using the four week average.\nClick on graph for larger image.\nThe red line is for 2021, black is 2020, blue is the median, dashed purple is 2019, and dashed light blue is for 2009 (the worst year on record for hotels prior to 2020).\n\nNote: Y-axis doesn't start at zero to better show the seasonal change.\n\n\nThe occupancy rate will now decline seasonally into the new year.",
+          "link": "http://feedproxy.google.com/~r/CalculatedRisk/~3/TUuTfuEpHrQ/hotels-occupancy-rate-down-6-compared.html",
+          "publishedOn": "2021-11-04T15:20:00.003Z",
+          "wordCount": 1037,
+          "title": "Hotels: Occupancy Rate Down 6% Compared to Same Week in 2019"
+        },
         {
           "id": "http://feedproxy.google.com/~r/CalculatedRisk/~3/D0Fa7ybAWlw/trade-deficit-increased-to-809-billion.html",
           "author": null,
