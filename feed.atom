@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-05T03:04:42.070Z</updated>
+    <updated>2021-11-05T06:06:03.057Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
@@ -17,6 +17,36 @@ Friday:
 • At 8:30 AM, Employment Report for October.   The consensus is for 450 thousand jobs added, and for the unemployment rate to decrease to 4.7%.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disparities in measured income between survey and tax data]]></title>
+        <id>https://voxeu.org/article/disparities-measured-income-between-survey-and-tax-data</id>
+        <link href="https://voxeu.org/article/disparities-measured-income-between-survey-and-tax-data"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Household survey data and tax data both suffer from measurement concerns at the top of the income distribution. This column analyses data from the US to investigate when and why the two data sources diverge. The authors conclude that the source of the divergence lies in the measurement of non-labour income as tax rules change over time.]]></summary>
+        <author>
+            <name>Nishant Yonzan, Branko Milanovic, Salvatore Morelli, Janet Gornick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metals may become the new oil in net-zero emissions scenario]]></title>
+        <id>https://voxeu.org/article/metals-may-become-new-oil-net-zero-emissions-scenario</id>
+        <link href="https://voxeu.org/article/metals-may-become-new-oil-net-zero-emissions-scenario"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Low greenhouse gas technologies require more metals than their fossil fuel-based counterparts. This column estimates supply elasticities and pins down the price impact of the energy transition on the metals markets. The results show that prices for copper, nickel, cobalt, and lithium could reach historical peaks for an unprecedented, sustained period in a net zero emissions scenario. The total value of production could rise more than four-fold for the period2021-2040, rivaling the total value of crude oil   production.]]></summary>
+        <author>
+            <name>Lukas Boer, Andrea Pescatori, Martin Stuermer, Nico Valckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The macroeconomic footprint of the Elons]]></title>
+        <id>https://voxeu.org/article/macroeconomic-footprint-elons</id>
+        <link href="https://voxeu.org/article/macroeconomic-footprint-elons"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Business dynamism has long been recognised as a key driver of aggregate outcomes, with startups and young firms playing a particularly important role. Using data from Portugal, this column shows that entrepreneurs themselves are key determinants of firm performance. Serial entrepreneurship is widespread, and businesses of serial entrepreneurs outperform all other firms along multiple dimensions. They have a disproportionate impact on the aggregate economy, including for our understanding and modelling of top income inequality.]]></summary>
+        <author>
+            <name>Sónia Félix, Sudipto Karmakar, Petr Sedláček</name>
         </author>
     </entry>
     <entry>
