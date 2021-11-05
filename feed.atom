@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-05T00:18:24.292Z</updated>
+    <updated>2021-11-05T03:04:42.070Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Friday: Employment Report]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/-4g3urEk5ww/friday-employment-report.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/-4g3urEk5ww/friday-employment-report.html"/>
+        <updated>2021-11-05T01:00:00.001Z</updated>
+        <summary type="html"><![CDATA[My October Employment Preview
+Goldman October Payrolls Preview
+Friday:
+• At 8:30 AM, Employment Report for October.   The consensus is for 450 thousand jobs added, and for the unemployment rate to decrease to 4.7%.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goldman October Payrolls Preview]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/iruMQwBhooY/goldman-october-payrolls-preview.html</id>
@@ -5219,16 +5232,6 @@ __3.12.2 체결 확인하기
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expanding broadband access]]></title>
-        <id>https://www.aeaweb.org/research/charts/employment-internet-poor-americans</id>
-        <link href="https://www.aeaweb.org/research/charts/employment-internet-poor-americans"/>
-        <updated>2021-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A lot of people take fast, reliable internet for granted. But limited access to home broadband may be reducing employment and earnings among poorer Americans, according to a paper in the American Economic Journal: Economic Policy.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
