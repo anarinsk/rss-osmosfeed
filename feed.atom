@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-07T18:05:29.943Z</updated>
+    <updated>2021-11-07T21:03:02.998Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Zillow Flip that Flopped]]></title>
+        <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/2NOBzFVJFpk/a-zillow-flip-that-flopped.html</id>
+        <link href="http://feedproxy.google.com/~r/CalculatedRisk/~3/2NOBzFVJFpk/a-zillow-flip-that-flopped.html"/>
+        <updated>2021-11-07T18:49:00.004Z</updated>
+        <summary type="html"><![CDATA[Today, in the Real Estate Newsletter: A Zillow Flip that Flopped
+Excerpt: 
+Here is an example flop from Zillow.
+This home is at 271 Capella Ave in La Habra California. It is list by Active Realty (that seems to be associated with Zillow). This is a single story home in a decent area (California prices are always crazy compared to most of the US).
+...
+So my guess is Zillow lost north of $50,000 on this one flop.
+You can subscribe at https://calculatedrisk.substack.com/ (Currently all content is available for free, but please subscribe).
+UPDATE: I left out the fee Zillow charges when they purchase the house, so their loss as not as bad as I initially thought (although I left out some expenses too).]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good morning, institutional integration]]></title>
         <id>https://voxeu.org/article/good-morning-institutional-integration</id>
