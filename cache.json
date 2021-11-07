@@ -501,6 +501,15 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/good-morning-institutional-integration",
+          "author": "Nauro Campos, Fabrizio Coricelli, Emanuele  Franceschi",
+          "description": "Economic integration has certainly deepened and, more recently, changed enormously. Until the late 1990s integration was mostly trade-centred, while it now can be better described as institutions-centred. This column introduces the notion of ‘institutional integration’, identifies its main features, and provides estimates of its net benefits. With one of the first applications of the synthetic difference-in-differences estimator and using data from the 1995 enlargement of the EU, the authors find that the failure to embrace institutional integration by Norway (compared to ‘only’ embracing deep integration) generates yearly productivity losses of about 0.6 percentage points.",
+          "link": "https://voxeu.org/article/good-morning-institutional-integration",
+          "publishedOn": "2021-11-07T00:00:00.000Z",
+          "wordCount": 2410,
+          "title": "Good morning, institutional integration"
+        },
+        {
           "id": "https://voxeu.org/article/ronald-findlay-1935-2021",
           "author": "Douglas Irwin",
           "description": "Ronald Findlay, who passed away in October 2021, was one of the great trade theorists of his generation. As this column by one of his former students explains, he will be remembered for his brilliant intellect, his encyclopaedic knowledge of theory and history, and most of all for his modesty, warmth and supportive friendship.",
@@ -1071,15 +1080,6 @@
           "publishedOn": "2021-10-11T15:00:00.000Z",
           "wordCount": 524,
           "title": "Pollution feeds aggression"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/universal-health-insurance-developing-countries-indonesia",
-          "author": "Tyler Smith (research.highlights@aeapubs.org)",
-          "description": "There are many impediments to universal healthcare in the developing world. But governments themselves and their bureaucracies may be a key barrier, according to a paper in the American Economic Review.",
-          "link": "https://www.aeaweb.org/research/universal-health-insurance-developing-countries-indonesia",
-          "publishedOn": "2021-10-08T15:00:00.000Z",
-          "wordCount": 1001,
-          "title": "Barriers to expanding coverage"
         }
       ]
     },

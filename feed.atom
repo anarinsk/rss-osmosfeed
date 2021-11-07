@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anarinsk.github.io/rss-osmosfeed/index.html</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-07T00:19:08.840Z</updated>
+    <updated>2021-11-07T03:04:14.230Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://anarinsk.github.io/rss-osmosfeed/index.html"/>
     <link rel="self" href="https://anarinsk.github.io/rss-osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good morning, institutional integration]]></title>
+        <id>https://voxeu.org/article/good-morning-institutional-integration</id>
+        <link href="https://voxeu.org/article/good-morning-institutional-integration"/>
+        <updated>2021-11-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Economic integration has certainly deepened and, more recently, changed enormously. Until the late 1990s integration was mostly trade-centred, while it now can be better described as institutions-centred. This column introduces the notion of ‘institutional integration’, identifies its main features, and provides estimates of its net benefits. With one of the first applications of the synthetic difference-in-differences estimator and using data from the 1995 enlargement of the EU, the authors find that the failure to embrace institutional integration by Norway (compared to ‘only’ embracing deep integration) generates yearly productivity losses of about 0.6 percentage points.]]></summary>
+        <author>
+            <name>Nauro Campos, Fabrizio Coricelli, Emanuele  Franceschi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Real Estate Newsletter Articles this Week]]></title>
         <id>http://feedproxy.google.com/~r/CalculatedRisk/~3/lPLWD2a04RU/real-estate-newsletter-articles-this.html</id>
@@ -5427,16 +5437,6 @@ The post A preview of WSL in the Microsoft Store is now available! appeared firs
         <summary type="html"><![CDATA[Air pollution is known to have negative impacts on physical health. Now there is evidence that it also increases aggressive behavior, according to a paper in the American Economic Journal: Applied Economics.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barriers to expanding coverage]]></title>
-        <id>https://www.aeaweb.org/research/universal-health-insurance-developing-countries-indonesia</id>
-        <link href="https://www.aeaweb.org/research/universal-health-insurance-developing-countries-indonesia"/>
-        <updated>2021-10-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are many impediments to universal healthcare in the developing world. But governments themselves and their bureaucracies may be a key barrier, according to a paper in the American Economic Review.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
