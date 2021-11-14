@@ -7,18 +7,18 @@ sources:
   # Dev 
   #- href: https://devblogs.microsoft.com/commandline/feed/
   # Economoics 
-  #- href: https://afinetheorem.wordpress.com/feed/
+  - href: https://afinetheorem.wordpress.com/feed/
   - href: https://voxeu.org/rss.xml
   - href: https://back.nber.org/rss/new.xml
-  #- href: https://www.aeaweb.org/research/rss-feed
-  #- href: https://microeconomicinsights.org/feed/
+  - href: https://www.aeaweb.org/research/rss-feed
+  - href: https://microeconomicinsights.org/feed/
   # Economics Journal 
   #- href: https://onlinelibrary.wiley.com/action/showFeed?jc=14680262&type=etoc&feed=rss
   #- href: https://academic.oup.com/rss/site_5504/3365.xml
   #- href: https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom%20
   #- href: https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe
   # Economic Data   
-  #- href: http://feeds.feedburner.com/CalculatedRisk
+  - href: http://feeds.feedburner.com/CalculatedRisk
   # BOK
   #- href: https://www.bok.or.kr/portal/bbs/E0000738/news.rss?menuNo=500450
   #- href: https://www.bok.or.kr/portal/bbs/P0002359/news.rss?menuNo=200066
