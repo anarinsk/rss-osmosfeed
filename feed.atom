@@ -1,146 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-22T21:04:15.828Z</id>
+    <id>urn:2021-11-23T00:19:12.399Z</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-22T21:04:15.828Z</updated>
+    <updated>2021-11-23T00:19:12.399Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[A Primer on Trade and Inequality -- by Dani Rodrik]]></title>
-        <id>https://www.nber.org/papers/w29507#fromrss</id>
-        <link href="https://www.nber.org/papers/w29507#fromrss"/>
-        <updated>2021-11-22T21:03:34.061Z</updated>
-        <summary type="html"><![CDATA[In the public imagination globalization’s adverse effects have loomed large, contributing significantly to the backlash against the political mainstream and the rise of far-right populism. The literature on trade and inequality is in fact exceptionally rich, with important theoretical insights as well as extensive empirical findings that sheds light on this recent experience. Some of the key results of this literature, discussed here, are as follows: Redistribution is the flip side of the gains from trade, and it becomes larger relative to net gains from trade in the advanced stages of globalization. Compensation is difficult for both economic and political reasons. International trade often differs from other market exchanges, raising fairness concerns in ways that domestic markets do not. The economic benefits of deep integration are generally ambiguous. Dynamic or growth gains from trade are uncertain.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning About the Long Run -- by Leland Farmer, Emi Nakamura, Jón Steinsson]]></title>
-        <id>https://www.nber.org/papers/w29495#fromrss</id>
-        <link href="https://www.nber.org/papers/w29495#fromrss"/>
-        <updated>2021-11-22T21:03:34.044Z</updated>
-        <summary type="html"><![CDATA[Forecasts of professional forecasters are anomalous: they are biased, forecast errors are autocorrelated, and forecast revisions predict forecast errors. Sticky or noisy information models seem like unlikely explanations for these anomalies: professional forecasters pay attention constantly and have precise knowledge of the data in question. We propose that these anomalies arise because professional forecasters don’t know the model that generates the data. We show that Bayesian agents learning about hard-to-learn features of the data generating process (low frequency behavior) can generate all the prominent aggregate anomalies emphasized in the literature. We show this for two applications: professional forecasts of nominal interest rates for the sample period 1980-2019 and CBO forecasts of GDP growth for the sample period 1976- 2019. Our learning model for interest rates also provides an explanation for deviations from the expectations hypothesis of the term structure that does not rely on time-variation in risk premia.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unemployment Insurance in Macroeconomic Stabilization -- by Rohan Kekre]]></title>
-        <id>https://www.nber.org/papers/w29505#fromrss</id>
-        <link href="https://www.nber.org/papers/w29505#fromrss"/>
-        <updated>2021-11-22T21:03:34.030Z</updated>
-        <summary type="html"><![CDATA[I study unemployment insurance (UI) in general equilibrium with incomplete markets, search frictions, and nominal rigidities.  An increase in generosity raises the aggregate demand for consumption if the unemployed have a higher marginal propensity to consume (MPC) than the employed or if agents precautionary save in light of future income risk.  This raises output and employment unless monetary policy raises the nominal interest rate.  In an analysis of the U.S. economy over 2008-2014, UI benefit extensions had a contemporaneous output multiplier around 1 or higher.  The unemployment rate would have been as much as 0.4pp higher absent these extensions.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empirical Investigation of a Sufficient Statistic for Monetary Shocks -- by Fernando E. Alvarez, Andrea Ferrara, Erwan Gautier, Hervé Le Bihan, Francesco Lippi]]></title>
-        <id>https://www.nber.org/papers/w29490#fromrss</id>
-        <link href="https://www.nber.org/papers/w29490#fromrss"/>
-        <updated>2021-11-22T21:03:33.981Z</updated>
-        <summary type="html"><![CDATA[In a broad class of sticky price models the non-neutrality of nominal shocks is encoded by a simple sufficient statistic: the ratio of the kurtosis of the size-distribution of price changes over the frequency of price changes. We test this theoretical prediction using data for a large number of firms representative of the French economy. We use the micro data to measure the cross sectional moments, including kurtosis and frequency, for about 120 PPI industries and 220 CPI categories. We use a Factor Augmented VAR to measure the sectoral responses to a monetary shock, as summarized by the cumulative impulse response of sectoral prices (CIRP ), under three alternative identification schemes. The estimated CIRP correlates with the kurtosis and the frequency consistently with the prediction of the theory (i.e. they enter the relationship as a ratio). The analysis also shows that other moments not suggested by the theory, such as the mean, standard deviation and skewness of the size-distribution of price changes, are not correlated with the CIR . Several robustness checks are discussed]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Responsiveness of Medicaid Spending to the Federal Subsidy -- by M. Kate Bundorf, Daniel P. Kessler]]></title>
-        <id>https://www.nber.org/papers/w29492#fromrss</id>
-        <link href="https://www.nber.org/papers/w29492#fromrss"/>
-        <updated>2021-11-22T21:03:33.966Z</updated>
-        <summary type="html"><![CDATA[Although economic theory suggests that the federal government can influence spending by states through subsidies to programs that states operate, no recent work has quantified the magnitude of this effect for Medicaid, the largest program of this type in the U.S. We find that Medicaid spending per enrollee responds to the magnitude of the federal subsidy. The Affordable Care Act (ACA) and its subsequent interpretation by the Supreme Court gave states the option to expand eligibility for their Medicaid programs in exchange for increases in the generosity of the federal subsidy. States that exercised this option increased Medicaid spending per enrollee on enrollees who were eligible even before the ACA by approximately 15 percent. Depending on the specification, this translates into an elasticity of Medicaid spending per enrollee with respect to the after-subsidy price of Medicaid to a state of -0.494 to -0.579.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organizational Structure and Pricing: Evidence from a Large U.S. Airline -- by Ali Hortaçsu, Olivia R. Natan, Hayden Parsley, Timothy Schwieg, Kevin R. Williams]]></title>
-        <id>https://www.nber.org/papers/w29508#fromrss</id>
-        <link href="https://www.nber.org/papers/w29508#fromrss"/>
-        <updated>2021-11-22T21:03:33.935Z</updated>
-        <summary type="html"><![CDATA[We study how organizational boundaries affect pricing decisions using comprehensive data from a large U.S. airline. We document that the firm's advanced pricing algorithm, utilizing inputs from different organizational teams, is subject to multiple biases. To quantify the impacts of these biases, we estimate a structural demand model using sales and search data. We recover the demand curves the firm believes it faces using forecasting data. In counterfactuals, we show that correcting biases introduced by organizational teams individually have little impact on market outcomes, but coordinating organizational outcomes leads to higher prices/revenues and increased dead-weight loss in the markets studied.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collateral Damage: The Impact of Shale Gas on Mortgage Lending -- by Yanyou Chen, James W. Roberts, Christopher D. Timmins, Ashley Vissing]]></title>
-        <id>https://www.nber.org/papers/w29494#fromrss</id>
-        <link href="https://www.nber.org/papers/w29494#fromrss"/>
-        <updated>2021-11-22T21:03:33.919Z</updated>
-        <summary type="html"><![CDATA[We analyze mortgage lenders’ behavior with respect to shale gas risk during the period of the U.S. shale gas boom, which coincided with fluctuations in the U.S. housing market and increased scrutiny in the lending industry.  Shale gas operations have the potential to place affected houses into technical default such that government sponsored enterprises like Fannie Mae and Freddie Mac are unable to maintain them in their portfolios.  We find that lenders changed from being willing to pay $814 on average to avoid one unit of shale risk before the financial distress of 2008 and subsequent increased scrutiny, to $3,137, or 1.6% of profit earned on an average mortgage, afterwards.  Our approach provides an alternative to the traditional property value hedonic measurement of the disamenities associated with shale gas development by looking at the decisions of mortgage professionals.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sovereign Risk and Financial Risk -- by Simon Gilchrist, Bin Wei, Vivian Z. Yue, Egon Zakrajšek]]></title>
-        <id>https://www.nber.org/papers/w29501#fromrss</id>
-        <link href="https://www.nber.org/papers/w29501#fromrss"/>
-        <updated>2021-11-22T21:03:33.905Z</updated>
-        <summary type="html"><![CDATA[In this paper, we study the interplay between sovereign risk and global financial risk. We show that a substantial portion of the comovement among sovereign spreads is accounted for by changes in global financial risk. We construct bond-level sovereign spreads for dollar-denominated bonds issued by over 50 countries from 1995 to 2020 and use various indicators to measure global financial risk. Through panel regressions and local projection analysis, we find that an increase in global financial risk causes a large and persistent widening of sovereign bond spreads. These effects are strongest when measuring global risk using the excess bond premium – a measure of the risk-bearing capacity of U.S. financial intermediaries. The spillover effects of global financial risk are more pronounced for speculative-grade sovereign bonds.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technological Obsolescence -- by Song Ma]]></title>
-        <id>https://www.nber.org/papers/w29504#fromrss</id>
-        <link href="https://www.nber.org/papers/w29504#fromrss"/>
-        <updated>2021-11-22T21:03:33.876Z</updated>
-        <summary type="html"><![CDATA[This paper proposes a new measure of technological obsolescence using detailed patent data. Using this measure, we present two sets of results. First, firms' technological obsolescence foreshadows substantially lower growth, productivity, and reallocation of capital. This finding applies mainly for obsolescence of core innovation and embodied innovation, and it is stronger in competitive product markets. Second, in stock markets, high-obsolescence firms under-perform low-obsolescence firms by 7 percent annually. Using analyst forecast data, we show this is due to a systematic overestimation of future profits of obsolescent firms. The measure contains incremental information about firm innovation relative to measures focusing on new innovation.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Lower Bound on Inflation Expectations -- by Yuriy Gorodnichenko, Dmitriy Sergeyev]]></title>
-        <id>https://www.nber.org/papers/w29496#fromrss</id>
-        <link href="https://www.nber.org/papers/w29496#fromrss"/>
-        <updated>2021-11-22T21:03:33.862Z</updated>
-        <summary type="html"><![CDATA[We document a new fact: in U.S., European and Japanese surveys, households do not expect deflation, even in environments where persistent deflation is a strong possibility. This fact stands in contrast to the standard macroeconomic models with rational expectations. We extend a standard New Keynesian model with a zero-lower bound on inflation expectations. Unconventional monetary policies, such as forward guidance, are weaker. In liquidity traps, the government spending output multiplier is finite, and adverse aggregate supply shocks are not expansionary. The possibility of confidence-driven liquidity traps is attenuated.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Electricity Price Distributions in Future Renewables-Dominant Power Grids and Policy Implications -- by Dharik S. Mallapragada, Cristian Junge, Cathy Xun Wang, Johannes Pfeifenberger, Paul L. Joskow, Richard Schmalensee]]></title>
         <id>https://www.nber.org/papers/w29510#fromrss</id>
         <link href="https://www.nber.org/papers/w29510#fromrss"/>
-        <updated>2021-11-22T21:03:33.849Z</updated>
+        <updated>2021-11-23T00:18:56.729Z</updated>
         <summary type="html"><![CDATA[Future electricity systems with tight constraints on carbon emissions will rely much more on wind and solar generation, with zero marginal cost, than today. We use capacity expansion modelling of Texas in 2050 to illustrate wholesale price distributions in future energy-only, carbon-constrained grids without price caps under a range of technology/system assumptions. Tightening carbon emissions constraints dramatically increases the frequency of very low prices. The frequency of high prices also increases, and all resources earn the bulk of their energy market revenues in relatively few hours. The presence of demand response, long-duration energy storage, dispatchable low-carbon generation, or a robust market for hydrogen for non-electricity use (and for energy storage) weakens but does not undo these results. Financial instruments to hedge price volatility will consequently be more costly and it is likely that we will need to redesign capacity remuneration mechanisms to provide adequate incentives for optimal investment in VRE generation and, particularly, storage. In order to encourage economy-wide electrification, the marginal retail price of electricity should be low whenever the wholesale price is low.  With automated control of demand via demand response contracts, the risks of price volatility faced by retail customers can be mitigated without sacrificing efficiency. To encourage economy-wide electrification, the marginal retail price of electricity should be low when the wholesale spot price is low. We discuss ways of reducing consumers’ risk in this world while providing adequate investment incentives.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Other Great Migration: Southern Whites and the New Right -- by Samuel Bazzi, Andreas Ferrara, Martin Fiszbein, Thomas P. Pearson, Patrick A. Testa]]></title>
-        <id>https://www.nber.org/papers/w29506#fromrss</id>
-        <link href="https://www.nber.org/papers/w29506#fromrss"/>
-        <updated>2021-11-22T21:03:33.818Z</updated>
-        <summary type="html"><![CDATA[This paper provides a novel perspective on the Great Migration out of the U.S. South. Using a shift-share identification strategy, we show how millions of Southern white migrants transformed the cultural and political landscape across America. Counties with a larger Southern white share by 1940 exhibited growing support for right-wing politics throughout the 20th century and beyond. Racial animus, religious conservatism, and localist attitudes among the Southern white diaspora hastened partisan realignment as the Republican Party found fresh support for the Southern strategy outside the South. Their congressional representatives were more likely to oppose politically liberal legislation, such as the Civil Rights Act of 1964, and to object to the Electoral College count in 2021. These migrants helped shape institutions that reinforced racial inequity and exclusion, they shared ideology through religious organizations and popular media, and they transmitted an array of cultural norms to non-Southern populations. Together, our findings suggest that Southern white migrants may have forever changed the trajectory of American politics.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skewness and Time-Varying Second Moments in a Nonlinear Production Network: Theory and Evidence -- by Ian Dew-Becker, Alireza Tahbaz-Salehi, Andrea Vedolin]]></title>
-        <id>https://www.nber.org/papers/w29499#fromrss</id>
-        <link href="https://www.nber.org/papers/w29499#fromrss"/>
-        <updated>2021-11-22T21:03:33.790Z</updated>
-        <summary type="html"><![CDATA[This paper studies asymmetry in economic activity over the business cycle. It develops a tractable multisector model of the economy in which complementarity across inputs causes aggregate activity to be left skewed with countercyclical volatility. We then examine implications of the model regarding the time-series skewness of activity at the sector level, cyclicality of dispersion and skewness across sectors, and the conditional covariances of sector growth rates, finding support for each in the data. The empirical skewness of employment growth, industrial production growth, and stock returns increases with the level of aggregation, which is consistent with the model's implication that it is the nonlinearity in the production structure of the economy that generates the skewness. Other prominent models of asymmetry are not able to simultaneously match the range of empirical facts that the production network model can.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buyouts: A Primer -- by Tim Jenkinson, Hyeik Kim, Michael S. Weisbach]]></title>
-        <id>https://www.nber.org/papers/w29502#fromrss</id>
-        <link href="https://www.nber.org/papers/w29502#fromrss"/>
-        <updated>2021-11-22T21:03:33.776Z</updated>
-        <summary type="html"><![CDATA[This paper provides an introduction to buyouts and the academic literature about them. Buyouts are initiated by “buyout funds”, which are limited partnerships raised from mostly institutional investors. The funds earn returns for their investors by improving the operations of the firms they acquire and exiting them for a profit. Buyout funds have grown substantially and currently raise more than $400 billion annually in capital commitments. We first discuss the institutional environment that developed to foster such buyouts and to provide incentives for general partners and firm managers to earn returns for the fund’s investors. We then describe various strategies that funds use to increase the values of their portfolio companies. The paper provides up to date statistics on all aspects of the buyout industry. Finally, we present a summary of the academic literature on buyouts. This literature has paid particular attention to the extent to which buyouts earn risk-adjusted abnormal returns for their investors, as well as the sources of those returns.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -149,78 +19,48 @@
         <title type="html"><![CDATA[International Evidence on Vaccines and the Mortality to Infections Ratio -- by Joshua Aizenman, Alex Cukierman, Yothin Jinjarak, Weining Xin]]></title>
         <id>https://www.nber.org/papers/w29498#fromrss</id>
         <link href="https://www.nber.org/papers/w29498#fromrss"/>
-        <updated>2021-11-22T21:03:33.759Z</updated>
+        <updated>2021-11-23T00:18:56.662Z</updated>
         <summary type="html"><![CDATA[Recent observations on countries like the UK that have accumulated a large fraction of inoculated individuals suggest that, although initially, vaccines have little effect on new infections they strongly reduce the share of mortality out of a given pool of infections. This paper examines the extent to which this phenomenon is more general by testing the hypothesis that the ratio of current mortality to lagged infections is decreasing in the total number of vaccines per one hundred individuals. This is done in a pooled time-series, cross-section sample with weekly observations for up to 208 countries. The main conclusion from the statistical analysis is that, passed a certain threshold, vaccines moderate the share of mortality from a given pool of lagged infections. This is essentially a favorable shift in the tradeoff between life preservation and economic performance. Controlling for income per capita, stringency of containment measures, and the fraction of recovered and old individuals, estimation is carried out by linear least squares, with standard errors clustered by country and region. The main result is robust to sensitivity analysis with a logarithmic specification. The practical lesson is that, in the presence of a sufficiently high share of inoculated individuals, governments can shade down containment measures, even as infections are still rampant, without significant adverse effects on mortality.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud -- by Paul J. Eliason, Riley J. League, Jetson Leder-Luis, Ryan C. McDevitt, James W. Roberts]]></title>
-        <id>https://www.nber.org/papers/w29491#fromrss</id>
-        <link href="https://www.nber.org/papers/w29491#fromrss"/>
-        <updated>2021-11-22T21:03:33.708Z</updated>
-        <summary type="html"><![CDATA[We study the relative effectiveness of administrative regulations, criminal enforcement, and civil lawsuits for combatting health care fraud. Between 2003 and 2017, Medicare spent $7.7 billion on 37.5 million regularly scheduled, non-emergency ambulance rides for patients traveling to and from dialysis facilities, with dozens of lawsuits alleging that Medicare reimbursed rides for patients who did not meet the requirements for receiving one. Using a novel data set and an identification strategy based on the staggered timing of regulations and lawsuits across the United States, we find that a regulation requiring prior authorization for ambulance reimbursements reduced spending much more than criminal and civil lawsuits did. Despite the sharp drop in both ambulance transports and the companies that provide them following prior authorization, patients’ health outcomes did not change, indicating that most rides were not medically necessary. Our results suggest that administrative actions have a much larger impact than targeted criminal enforcement, providing novel evidence that regulations may be more cost-effective than ex post ligation for preventing health care fraud.]]></summary>
+        <title type="html"><![CDATA[Zero Lower Bound on Inflation Expectations -- by Yuriy Gorodnichenko, Dmitriy Sergeyev]]></title>
+        <id>https://www.nber.org/papers/w29496#fromrss</id>
+        <link href="https://www.nber.org/papers/w29496#fromrss"/>
+        <updated>2021-11-23T00:18:56.493Z</updated>
+        <summary type="html"><![CDATA[We document a new fact: in U.S., European and Japanese surveys, households do not expect deflation, even in environments where persistent deflation is a strong possibility. This fact stands in contrast to the standard macroeconomic models with rational expectations. We extend a standard New Keynesian model with a zero-lower bound on inflation expectations. Unconventional monetary policies, such as forward guidance, are weaker. In liquidity traps, the government spending output multiplier is finite, and adverse aggregate supply shocks are not expansionary. The possibility of confidence-driven liquidity traps is attenuated.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imported or Home Grown? The 1992-3 EMS Crisis -- by Barry Eichengreen, Alain Naef]]></title>
-        <id>https://www.nber.org/papers/w29488#fromrss</id>
-        <link href="https://www.nber.org/papers/w29488#fromrss"/>
-        <updated>2021-11-22T21:03:33.684Z</updated>
-        <summary type="html"><![CDATA[Using newly assembled data on foreign exchange market intervention, we construct a daily index of exchange market pressure during the 1992-3 crisis in the European Monetary System, allowing us to pinpoint when and where the crisis was most severe. Our analysis focuses on a neglected factor in the crisis: the role of the weak dollar in intra-EMS tensions. We provide new evidence of the contribution of a falling dollar-Deutschmark exchange rate to pressure on EMS currencies.]]></summary>
+        <title type="html"><![CDATA[Buyouts: A Primer -- by Tim Jenkinson, Hyeik Kim, Michael S. Weisbach]]></title>
+        <id>https://www.nber.org/papers/w29502#fromrss</id>
+        <link href="https://www.nber.org/papers/w29502#fromrss"/>
+        <updated>2021-11-23T00:18:56.469Z</updated>
+        <summary type="html"><![CDATA[This paper provides an introduction to buyouts and the academic literature about them. Buyouts are initiated by “buyout funds”, which are limited partnerships raised from mostly institutional investors. The funds earn returns for their investors by improving the operations of the firms they acquire and exiting them for a profit. Buyout funds have grown substantially and currently raise more than $400 billion annually in capital commitments. We first discuss the institutional environment that developed to foster such buyouts and to provide incentives for general partners and firm managers to earn returns for the fund’s investors. We then describe various strategies that funds use to increase the values of their portfolio companies. The paper provides up to date statistics on all aspects of the buyout industry. Finally, we present a summary of the academic literature on buyouts. This literature has paid particular attention to the extent to which buyouts earn risk-adjusted abnormal returns for their investors, as well as the sources of those returns.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Second Chance at Success? Effects of College Grade Forgiveness Policies on Student Outcomes -- by Xuan Jiang, Kelly Chen, Zeynep K. Hansen, Scott Lowe]]></title>
-        <id>https://www.nber.org/papers/w29493#fromrss</id>
-        <link href="https://www.nber.org/papers/w29493#fromrss"/>
-        <updated>2021-11-22T21:03:33.624Z</updated>
-        <summary type="html"><![CDATA[The increased popularity of college Grade Forgiveness policies, which allow students to retake classes and substitute the new grades for the previous grades in their GPA calculations, is controversial yet understudied. Our paper is the first to ask whether such policies benefit students and how. To answer these questions, we use student-level admissions and transcript data from a four-year public institution in the U.S. that underwent two major changes in its GPA policy. We find that Grade Forgiveness significantly incentivizes students, especially students with the strongest academic preparation, to take STEM courses and challenging courses and to enroll in more credits. The increased variations in within-term grades suggest that students may change their effort allocations between courses taken in the same semester and spend more effort on courses that promise a higher grade in return. We also find that repeaters whose first attempted grades are forgiven are more likely to persist in the failed subject and obtain better grades subsequently. Finally, we see an increase in graduation in STEM majors for students who were intensively exposed to this policy.]]></summary>
+        <title type="html"><![CDATA[Learning About the Long Run -- by Leland Farmer, Emi Nakamura, Jón Steinsson]]></title>
+        <id>https://www.nber.org/papers/w29495#fromrss</id>
+        <link href="https://www.nber.org/papers/w29495#fromrss"/>
+        <updated>2021-11-23T00:18:56.399Z</updated>
+        <summary type="html"><![CDATA[Forecasts of professional forecasters are anomalous: they are biased, forecast errors are autocorrelated, and forecast revisions predict forecast errors. Sticky or noisy information models seem like unlikely explanations for these anomalies: professional forecasters pay attention constantly and have precise knowledge of the data in question. We propose that these anomalies arise because professional forecasters don’t know the model that generates the data. We show that Bayesian agents learning about hard-to-learn features of the data generating process (low frequency behavior) can generate all the prominent aggregate anomalies emphasized in the literature. We show this for two applications: professional forecasts of nominal interest rates for the sample period 1980-2019 and CBO forecasts of GDP growth for the sample period 1976- 2019. Our learning model for interest rates also provides an explanation for deviations from the expectations hypothesis of the term structure that does not rely on time-variation in risk premia.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Headstrong Girls and Dependent Boys: Gender Differences in the Labor Market Returns to Child Behavior -- by Robert Kaestner, Ofer Malamud]]></title>
-        <id>https://www.nber.org/papers/w29509#fromrss</id>
-        <link href="https://www.nber.org/papers/w29509#fromrss"/>
-        <updated>2021-11-22T21:03:33.610Z</updated>
-        <summary type="html"><![CDATA[The authors use data from the Children of the National Longitudinal Survey of Youth (C-NLSY79) to examine gender differences in the associations between child behavioral problems and early adult earnings. They find large and significant earnings penalties for women who exhibited more headstrong behavior and for men who exhibited more dependent behavior as children. In contrast, there are no penalties for men who were headstrong or for women who were dependent. While other child behavioral problems are also associated with labor market earnings, their associations are not significantly different by gender. The gender differences in headstrong and dependent behavior are not explained by education, marriage, depression, self-esteem, health, or adult personality traits. However, one potential explanation is that these gender differences are a consequence of deviations from gender norms and stereotypes in the workplace.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Environmental Justice and Coasian Bargaining: The Role of Race and Income in Lease Negotiations for Shale Gas -- by Christopher Timmins, Ashley Vissing]]></title>
-        <id>https://www.nber.org/papers/w29487#fromrss</id>
-        <link href="https://www.nber.org/papers/w29487#fromrss"/>
-        <updated>2021-11-22T21:03:33.594Z</updated>
-        <summary type="html"><![CDATA[Using a unique combination of datasets and estimation techniques, we test whether private lease negotiations to extract oil and natural gas exhibit features of Coasian efficiency. We demonstrate that measures of wealth (including income, house square footage, and land acreage), typically determinants of willingness to pay for environmental quality, do affect bargaining outcomes. However, race, ethnicity, and language also play important roles after conditioning upon these variables, suggesting an environmental injustice and a breakdown of efficient Coasian bargaining. We further demonstrate that failure to negotiate protections in leases leads to increased risk of future drilling violations, which are not offset by local ordinance restrictions.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Bank Digital Currencies and The Emerging Markets: The Currency Substitution Challenge -- by Sebastian Edwards]]></title>
-        <id>https://www.nber.org/papers/w29489#fromrss</id>
-        <link href="https://www.nber.org/papers/w29489#fromrss"/>
-        <updated>2021-11-22T21:03:33.561Z</updated>
-        <summary type="html"><![CDATA[In this paper, I discuss the implications for emerging countries of the adoption of central bank digital currencies (CBDCs) in advanced jurisdictions, such as the United States, the United Kingdom, and the Euro Zone. The analysis identifies benefits as well as costs. Among the former, one of the most important is lower costs for migrants’ remittances. Some of the costs of global CBDCs are associated with currency substitution, sudden currency depreciations, and lower seigniorage. At the global level, a smooth rollout of CBDCs in center countries requires international coordination. In addition, emerging countries will benefit from the implementation of stronger macroprudential regulations]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandemic Schooling Mode and Student Test Scores: Evidence from US States -- by Clare Halloran, Rebecca Jack, James C. Okun, Emily Oster]]></title>
-        <id>https://www.nber.org/papers/w29497#fromrss</id>
-        <link href="https://www.nber.org/papers/w29497#fromrss"/>
-        <updated>2021-11-22T21:03:33.335Z</updated>
-        <summary type="html"><![CDATA[We estimate the impact of district-level schooling mode (in-person versus hybrid or distance learning) on test scores. We combine Spring 2021 state standardized test score data with comprehensive data on schooling in the 2020-21 school year across 12 states. We find that pass rates declined compared to prior years and that these declines were larger in districts with less in-person instruction. Passing rates in math declined by 14.2 percentage points on average; we estimate this decline was 10.1 percentage points smaller for districts fully in-person. Changes in English language arts scores were smaller, but were significantly larger in districts with larger populations of students who are Black, Hispanic or eligible for free and reduced price lunch.]]></summary>
+        <title type="html"><![CDATA[Collateral Damage: The Impact of Shale Gas on Mortgage Lending -- by Yanyou Chen, James W. Roberts, Christopher D. Timmins, Ashley Vissing]]></title>
+        <id>https://www.nber.org/papers/w29494#fromrss</id>
+        <link href="https://www.nber.org/papers/w29494#fromrss"/>
+        <updated>2021-11-23T00:18:56.369Z</updated>
+        <summary type="html"><![CDATA[We analyze mortgage lenders’ behavior with respect to shale gas risk during the period of the U.S. shale gas boom, which coincided with fluctuations in the U.S. housing market and increased scrutiny in the lending industry.  Shale gas operations have the potential to place affected houses into technical default such that government sponsored enterprises like Fannie Mae and Freddie Mac are unable to maintain them in their portfolios.  We find that lenders changed from being willing to pay $814 on average to avoid one unit of shale risk before the financial distress of 2008 and subsequent increased scrutiny, to $3,137, or 1.6% of profit earned on an average mortgage, afterwards.  Our approach provides an alternative to the traditional property value hedonic measurement of the disamenities associated with shale gas development by looking at the decisions of mortgage professionals.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -229,8 +69,148 @@
         <title type="html"><![CDATA[Excess Deaths in the United States During the First Year of COVID-19 -- by Christopher J. Ruhm]]></title>
         <id>https://www.nber.org/papers/w29503#fromrss</id>
         <link href="https://www.nber.org/papers/w29503#fromrss"/>
-        <updated>2021-11-22T21:03:33.247Z</updated>
+        <updated>2021-11-23T00:18:56.357Z</updated>
         <summary type="html"><![CDATA[Accurately determining the number of excess deaths caused by the COVID-19 pandemic is hard. The most important challenge is accurately estimating the counterfactual count of baseline deaths that would have occurred in its absence. This analysis used new methods to: estimate this baseline metric; calculate excess deaths during the first year of the U.S. COVID-19 pandemic; and examine plausibility of the excess death estimates obtained in this and prior analyses. Total, group-specific and cause-specific excess deaths in the U.S. from March 2020 through February 2021 were calculated using publicly available data covering all deaths from March 2009 through December 2019 and provisional data from January 2020 through February 2021. The estimates indicate that there were 646,514 (95% CI: 597,514 to 695,520) excess deaths in the U.S. during this period, with 83.4% (95% CI: 77.5% - 90.2%) of these attributed directly to COVID-19. There were substantial differences across population groups and causes in the ratio of actual-to-baseline deaths, and in the contribution of COVID-19 to excess mortality. Prior research has frequently underestimated baseline deaths and so has overstated excess mortality and the percentage of it attributed to non-COVID-19 causes.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sovereign Risk and Financial Risk -- by Simon Gilchrist, Bin Wei, Vivian Z. Yue, Egon Zakrajšek]]></title>
+        <id>https://www.nber.org/papers/w29501#fromrss</id>
+        <link href="https://www.nber.org/papers/w29501#fromrss"/>
+        <updated>2021-11-23T00:18:56.343Z</updated>
+        <summary type="html"><![CDATA[In this paper, we study the interplay between sovereign risk and global financial risk. We show that a substantial portion of the comovement among sovereign spreads is accounted for by changes in global financial risk. We construct bond-level sovereign spreads for dollar-denominated bonds issued by over 50 countries from 1995 to 2020 and use various indicators to measure global financial risk. Through panel regressions and local projection analysis, we find that an increase in global financial risk causes a large and persistent widening of sovereign bond spreads. These effects are strongest when measuring global risk using the excess bond premium – a measure of the risk-bearing capacity of U.S. financial intermediaries. The spillover effects of global financial risk are more pronounced for speculative-grade sovereign bonds.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headstrong Girls and Dependent Boys: Gender Differences in the Labor Market Returns to Child Behavior -- by Robert Kaestner, Ofer Malamud]]></title>
+        <id>https://www.nber.org/papers/w29509#fromrss</id>
+        <link href="https://www.nber.org/papers/w29509#fromrss"/>
+        <updated>2021-11-23T00:18:56.315Z</updated>
+        <summary type="html"><![CDATA[The authors use data from the Children of the National Longitudinal Survey of Youth (C-NLSY79) to examine gender differences in the associations between child behavioral problems and early adult earnings. They find large and significant earnings penalties for women who exhibited more headstrong behavior and for men who exhibited more dependent behavior as children. In contrast, there are no penalties for men who were headstrong or for women who were dependent. While other child behavioral problems are also associated with labor market earnings, their associations are not significantly different by gender. The gender differences in headstrong and dependent behavior are not explained by education, marriage, depression, self-esteem, health, or adult personality traits. However, one potential explanation is that these gender differences are a consequence of deviations from gender norms and stereotypes in the workplace.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skewness and Time-Varying Second Moments in a Nonlinear Production Network: Theory and Evidence -- by Ian Dew-Becker, Alireza Tahbaz-Salehi, Andrea Vedolin]]></title>
+        <id>https://www.nber.org/papers/w29499#fromrss</id>
+        <link href="https://www.nber.org/papers/w29499#fromrss"/>
+        <updated>2021-11-23T00:18:56.302Z</updated>
+        <summary type="html"><![CDATA[This paper studies asymmetry in economic activity over the business cycle. It develops a tractable multisector model of the economy in which complementarity across inputs causes aggregate activity to be left skewed with countercyclical volatility. We then examine implications of the model regarding the time-series skewness of activity at the sector level, cyclicality of dispersion and skewness across sectors, and the conditional covariances of sector growth rates, finding support for each in the data. The empirical skewness of employment growth, industrial production growth, and stock returns increases with the level of aggregation, which is consistent with the model's implication that it is the nonlinearity in the production structure of the economy that generates the skewness. Other prominent models of asymmetry are not able to simultaneously match the range of empirical facts that the production network model can.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organizational Structure and Pricing: Evidence from a Large U.S. Airline -- by Ali Hortaçsu, Olivia R. Natan, Hayden Parsley, Timothy Schwieg, Kevin R. Williams]]></title>
+        <id>https://www.nber.org/papers/w29508#fromrss</id>
+        <link href="https://www.nber.org/papers/w29508#fromrss"/>
+        <updated>2021-11-23T00:18:56.274Z</updated>
+        <summary type="html"><![CDATA[We study how organizational boundaries affect pricing decisions using comprehensive data from a large U.S. airline. We document that the firm's advanced pricing algorithm, utilizing inputs from different organizational teams, is subject to multiple biases. To quantify the impacts of these biases, we estimate a structural demand model using sales and search data. We recover the demand curves the firm believes it faces using forecasting data. In counterfactuals, we show that correcting biases introduced by organizational teams individually have little impact on market outcomes, but coordinating organizational outcomes leads to higher prices/revenues and increased dead-weight loss in the markets studied.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unemployment Insurance in Macroeconomic Stabilization -- by Rohan Kekre]]></title>
+        <id>https://www.nber.org/papers/w29505#fromrss</id>
+        <link href="https://www.nber.org/papers/w29505#fromrss"/>
+        <updated>2021-11-23T00:18:56.247Z</updated>
+        <summary type="html"><![CDATA[I study unemployment insurance (UI) in general equilibrium with incomplete markets, search frictions, and nominal rigidities.  An increase in generosity raises the aggregate demand for consumption if the unemployed have a higher marginal propensity to consume (MPC) than the employed or if agents precautionary save in light of future income risk.  This raises output and employment unless monetary policy raises the nominal interest rate.  In an analysis of the U.S. economy over 2008-2014, UI benefit extensions had a contemporaneous output multiplier around 1 or higher.  The unemployment rate would have been as much as 0.4pp higher absent these extensions.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technological Obsolescence -- by Song Ma]]></title>
+        <id>https://www.nber.org/papers/w29504#fromrss</id>
+        <link href="https://www.nber.org/papers/w29504#fromrss"/>
+        <updated>2021-11-23T00:18:56.231Z</updated>
+        <summary type="html"><![CDATA[This paper proposes a new measure of technological obsolescence using detailed patent data. Using this measure, we present two sets of results. First, firms' technological obsolescence foreshadows substantially lower growth, productivity, and reallocation of capital. This finding applies mainly for obsolescence of core innovation and embodied innovation, and it is stronger in competitive product markets. Second, in stock markets, high-obsolescence firms under-perform low-obsolescence firms by 7 percent annually. Using analyst forecast data, we show this is due to a systematic overestimation of future profits of obsolescent firms. The measure contains incremental information about firm innovation relative to measures focusing on new innovation.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Primer on Trade and Inequality -- by Dani Rodrik]]></title>
+        <id>https://www.nber.org/papers/w29507#fromrss</id>
+        <link href="https://www.nber.org/papers/w29507#fromrss"/>
+        <updated>2021-11-23T00:18:56.202Z</updated>
+        <summary type="html"><![CDATA[In the public imagination globalization’s adverse effects have loomed large, contributing significantly to the backlash against the political mainstream and the rise of far-right populism. The literature on trade and inequality is in fact exceptionally rich, with important theoretical insights as well as extensive empirical findings that sheds light on this recent experience. Some of the key results of this literature, discussed here, are as follows: Redistribution is the flip side of the gains from trade, and it becomes larger relative to net gains from trade in the advanced stages of globalization. Compensation is difficult for both economic and political reasons. International trade often differs from other market exchanges, raising fairness concerns in ways that domestic markets do not. The economic benefits of deep integration are generally ambiguous. Dynamic or growth gains from trade are uncertain.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Other Great Migration: Southern Whites and the New Right -- by Samuel Bazzi, Andreas Ferrara, Martin Fiszbein, Thomas P. Pearson, Patrick A. Testa]]></title>
+        <id>https://www.nber.org/papers/w29506#fromrss</id>
+        <link href="https://www.nber.org/papers/w29506#fromrss"/>
+        <updated>2021-11-23T00:18:56.189Z</updated>
+        <summary type="html"><![CDATA[This paper provides a novel perspective on the Great Migration out of the U.S. South. Using a shift-share identification strategy, we show how millions of Southern white migrants transformed the cultural and political landscape across America. Counties with a larger Southern white share by 1940 exhibited growing support for right-wing politics throughout the 20th century and beyond. Racial animus, religious conservatism, and localist attitudes among the Southern white diaspora hastened partisan realignment as the Republican Party found fresh support for the Southern strategy outside the South. Their congressional representatives were more likely to oppose politically liberal legislation, such as the Civil Rights Act of 1964, and to object to the Electoral College count in 2021. These migrants helped shape institutions that reinforced racial inequity and exclusion, they shared ideology through religious organizations and popular media, and they transmitted an array of cultural norms to non-Southern populations. Together, our findings suggest that Southern white migrants may have forever changed the trajectory of American politics.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud -- by Paul J. Eliason, Riley J. League, Jetson Leder-Luis, Ryan C. McDevitt, James W. Roberts]]></title>
+        <id>https://www.nber.org/papers/w29491#fromrss</id>
+        <link href="https://www.nber.org/papers/w29491#fromrss"/>
+        <updated>2021-11-23T00:18:56.125Z</updated>
+        <summary type="html"><![CDATA[We study the relative effectiveness of administrative regulations, criminal enforcement, and civil lawsuits for combatting health care fraud. Between 2003 and 2017, Medicare spent $7.7 billion on 37.5 million regularly scheduled, non-emergency ambulance rides for patients traveling to and from dialysis facilities, with dozens of lawsuits alleging that Medicare reimbursed rides for patients who did not meet the requirements for receiving one. Using a novel data set and an identification strategy based on the staggered timing of regulations and lawsuits across the United States, we find that a regulation requiring prior authorization for ambulance reimbursements reduced spending much more than criminal and civil lawsuits did. Despite the sharp drop in both ambulance transports and the companies that provide them following prior authorization, patients’ health outcomes did not change, indicating that most rides were not medically necessary. Our results suggest that administrative actions have a much larger impact than targeted criminal enforcement, providing novel evidence that regulations may be more cost-effective than ex post ligation for preventing health care fraud.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Environmental Justice and Coasian Bargaining: The Role of Race and Income in Lease Negotiations for Shale Gas -- by Christopher Timmins, Ashley Vissing]]></title>
+        <id>https://www.nber.org/papers/w29487#fromrss</id>
+        <link href="https://www.nber.org/papers/w29487#fromrss"/>
+        <updated>2021-11-23T00:18:56.093Z</updated>
+        <summary type="html"><![CDATA[Using a unique combination of datasets and estimation techniques, we test whether private lease negotiations to extract oil and natural gas exhibit features of Coasian efficiency. We demonstrate that measures of wealth (including income, house square footage, and land acreage), typically determinants of willingness to pay for environmental quality, do affect bargaining outcomes. However, race, ethnicity, and language also play important roles after conditioning upon these variables, suggesting an environmental injustice and a breakdown of efficient Coasian bargaining. We further demonstrate that failure to negotiate protections in leases leads to increased risk of future drilling violations, which are not offset by local ordinance restrictions.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Responsiveness of Medicaid Spending to the Federal Subsidy -- by M. Kate Bundorf, Daniel P. Kessler]]></title>
+        <id>https://www.nber.org/papers/w29492#fromrss</id>
+        <link href="https://www.nber.org/papers/w29492#fromrss"/>
+        <updated>2021-11-23T00:18:56.078Z</updated>
+        <summary type="html"><![CDATA[Although economic theory suggests that the federal government can influence spending by states through subsidies to programs that states operate, no recent work has quantified the magnitude of this effect for Medicaid, the largest program of this type in the U.S. We find that Medicaid spending per enrollee responds to the magnitude of the federal subsidy. The Affordable Care Act (ACA) and its subsequent interpretation by the Supreme Court gave states the option to expand eligibility for their Medicaid programs in exchange for increases in the generosity of the federal subsidy. States that exercised this option increased Medicaid spending per enrollee on enrollees who were eligible even before the ACA by approximately 15 percent. Depending on the specification, this translates into an elasticity of Medicaid spending per enrollee with respect to the after-subsidy price of Medicaid to a state of -0.494 to -0.579.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imported or Home Grown? The 1992-3 EMS Crisis -- by Barry Eichengreen, Alain Naef]]></title>
+        <id>https://www.nber.org/papers/w29488#fromrss</id>
+        <link href="https://www.nber.org/papers/w29488#fromrss"/>
+        <updated>2021-11-23T00:18:56.063Z</updated>
+        <summary type="html"><![CDATA[Using newly assembled data on foreign exchange market intervention, we construct a daily index of exchange market pressure during the 1992-3 crisis in the European Monetary System, allowing us to pinpoint when and where the crisis was most severe. Our analysis focuses on a neglected factor in the crisis: the role of the weak dollar in intra-EMS tensions. We provide new evidence of the contribution of a falling dollar-Deutschmark exchange rate to pressure on EMS currencies.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandemic Schooling Mode and Student Test Scores: Evidence from US States -- by Clare Halloran, Rebecca Jack, James C. Okun, Emily Oster]]></title>
+        <id>https://www.nber.org/papers/w29497#fromrss</id>
+        <link href="https://www.nber.org/papers/w29497#fromrss"/>
+        <updated>2021-11-23T00:18:56.029Z</updated>
+        <summary type="html"><![CDATA[We estimate the impact of district-level schooling mode (in-person versus hybrid or distance learning) on test scores. We combine Spring 2021 state standardized test score data with comprehensive data on schooling in the 2020-21 school year across 12 states. We find that pass rates declined compared to prior years and that these declines were larger in districts with less in-person instruction. Passing rates in math declined by 14.2 percentage points on average; we estimate this decline was 10.1 percentage points smaller for districts fully in-person. Changes in English language arts scores were smaller, but were significantly larger in districts with larger populations of students who are Black, Hispanic or eligible for free and reduced price lunch.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Central Bank Digital Currencies and The Emerging Markets: The Currency Substitution Challenge -- by Sebastian Edwards]]></title>
+        <id>https://www.nber.org/papers/w29489#fromrss</id>
+        <link href="https://www.nber.org/papers/w29489#fromrss"/>
+        <updated>2021-11-23T00:18:56.008Z</updated>
+        <summary type="html"><![CDATA[In this paper, I discuss the implications for emerging countries of the adoption of central bank digital currencies (CBDCs) in advanced jurisdictions, such as the United States, the United Kingdom, and the Euro Zone. The analysis identifies benefits as well as costs. Among the former, one of the most important is lower costs for migrants’ remittances. Some of the costs of global CBDCs are associated with currency substitution, sudden currency depreciations, and lower seigniorage. At the global level, a smooth rollout of CBDCs in center countries requires international coordination. In addition, emerging countries will benefit from the implementation of stronger macroprudential regulations]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -239,10 +219,42 @@
         <title type="html"><![CDATA[Globalization and the Ladder of Development: Pushed to the Top or Held at the Bottom? -- by David Atkin, Arnaud Costinot, Masao Fukui]]></title>
         <id>https://www.nber.org/papers/w29500#fromrss</id>
         <link href="https://www.nber.org/papers/w29500#fromrss"/>
-        <updated>2021-11-22T21:03:33.041Z</updated>
+        <updated>2021-11-23T00:18:55.956Z</updated>
         <summary type="html"><![CDATA[We study the relationship between international trade and development in a model where countries differ in their capability, goods differ in their complexity, and capability growth is a function of a country’s pattern of specialization. Theoretically, we show that it is possible for international trade to increase capability growth in all countries and, in turn, to push all countries up the development ladder. This occurs because: (i) the average complexity of a country’s industry mix raises its capability growth, and (ii) foreign competition is tougher in less complex sectors for all countries. Empirically, we provide causal evidence consistent with (i) using the entry of countries into the World Trade Organization as an instrumental variable for other countries’ patterns of specialization. The opposite of (ii), however, appears to hold in the data. Through the lens of our model, these two empirical observations imply dynamic welfare losses from trade that are small for the median country, but pervasive and large among a number of African countries.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Second Chance at Success? Effects of College Grade Forgiveness Policies on Student Outcomes -- by Xuan Jiang, Kelly Chen, Zeynep K. Hansen, Scott Lowe]]></title>
+        <id>https://www.nber.org/papers/w29493#fromrss</id>
+        <link href="https://www.nber.org/papers/w29493#fromrss"/>
+        <updated>2021-11-23T00:18:55.928Z</updated>
+        <summary type="html"><![CDATA[The increased popularity of college Grade Forgiveness policies, which allow students to retake classes and substitute the new grades for the previous grades in their GPA calculations, is controversial yet understudied. Our paper is the first to ask whether such policies benefit students and how. To answer these questions, we use student-level admissions and transcript data from a four-year public institution in the U.S. that underwent two major changes in its GPA policy. We find that Grade Forgiveness significantly incentivizes students, especially students with the strongest academic preparation, to take STEM courses and challenging courses and to enroll in more credits. The increased variations in within-term grades suggest that students may change their effort allocations between courses taken in the same semester and spend more effort on courses that promise a higher grade in return. We also find that repeaters whose first attempted grades are forgiven are more likely to persist in the failed subject and obtain better grades subsequently. Finally, we see an increase in graduation in STEM majors for students who were intensively exposed to this policy.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empirical Investigation of a Sufficient Statistic for Monetary Shocks -- by Fernando E. Alvarez, Andrea Ferrara, Erwan Gautier, Hervé Le Bihan, Francesco Lippi]]></title>
+        <id>https://www.nber.org/papers/w29490#fromrss</id>
+        <link href="https://www.nber.org/papers/w29490#fromrss"/>
+        <updated>2021-11-23T00:18:55.876Z</updated>
+        <summary type="html"><![CDATA[In a broad class of sticky price models the non-neutrality of nominal shocks is encoded by a simple sufficient statistic: the ratio of the kurtosis of the size-distribution of price changes over the frequency of price changes. We test this theoretical prediction using data for a large number of firms representative of the French economy. We use the micro data to measure the cross sectional moments, including kurtosis and frequency, for about 120 PPI industries and 220 CPI categories. We use a Factor Augmented VAR to measure the sectoral responses to a monetary shock, as summarized by the cumulative impulse response of sectoral prices (CIRP ), under three alternative identification schemes. The estimated CIRP correlates with the kurtosis and the frequency consistently with the prediction of the theory (i.e. they enter the relationship as a ratio). The analysis also shows that other moments not suggested by the theory, such as the mean, standard deviation and skewness of the size-distribution of price changes, are not correlated with the CIR . Several robustness checks are discussed]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Mortgage Rates Under Pressure After Powell Nomination and Bond Auctions"]]></title>
+        <id>http://www.calculatedriskblog.com/2021/11/mortgage-rates-under-pressure-after.html</id>
+        <link href="http://www.calculatedriskblog.com/2021/11/mortgage-rates-under-pressure-after.html"/>
+        <updated>2021-11-22T23:23:00.003Z</updated>
+        <summary type="html"><![CDATA[From Matthew Graham at Mortgage News Daily: Mortgage Rates Under Pressure After Powell Nomination and Bond Auctions
+Mortgage rates began the new week on a bad note with the average lender full erasing the improvement seen on Friday.  This leaves many lenders at their highest levels since April, but in those cases, it should be noted that today's rates are extremely close to those seen in late October.  In other words, we're essentially back in line with the highest levels in more than 7 months. [30 year fixed 3.24%]
+emphasis added]]></summary>
+        <author>
+            <name>Calculated Risk</name>
         </author>
     </entry>
     <entry>
@@ -557,16 +569,6 @@ This graph shows the daily (columns) and 7 day average (line) of positive tests 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Assessing the magnitude of the domestic violence problem during COVID-19]]></title>
-        <id>https://voxeu.org/article/assessing-magnitude-domestic-violence-problem-during-covid-19</id>
-        <link href="https://voxeu.org/article/assessing-magnitude-domestic-violence-problem-during-covid-19"/>
-        <updated>2021-11-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Concerns that domestic violence would intensify during the COVID-19 lockdowns were not borne out by early research. But that research relied on police records. This column suggests that studies based solely on police-recorded incidents of domestic violence provide a less accurate picture than sources less susceptible to changes in reporting behaviour. Based on internet search activity, the authors find a 40% increase in domestic violence incidents in London during the lockdowns – seven to eight times larger than estimates relying on police data alone.]]></summary>
-        <author>
-            <name>Dan Anderberg, Helmut Rainer, Fabian Siuda</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A temporary VAT cut as unconventional fiscal policy]]></title>
         <id>https://voxeu.org/article/temporary-vat-cut-unconventional-fiscal-policy</id>
         <link href="https://voxeu.org/article/temporary-vat-cut-unconventional-fiscal-policy"/>
@@ -574,6 +576,16 @@ This graph shows the daily (columns) and 7 day average (line) of positive tests 
         <summary type="html"><![CDATA[Unconventional fiscal policy acts as a potential stimulus because higher expected future prices should incentivise spending today. This column shows that the temporary reduction in Germany’s value added tax in the second half of 2020 led to a 36% increase in durable spending for individuals with a high perceived price pass-through, along with an increase in semi- and non-durable spending. In total, aggregate consumption spending rose by about €34 billion. Unlike unconventional monetary policy, which often relies on consumer sophistication, the stabilisation success of the temporary VAT cut was partly related to its simplicity.]]></summary>
         <author>
             <name>Rüdiger Bachmann, Benjamin Born, Olga Goldfayn-Frank, Georgi Kocharakov, Ralph Luetticke, Michael Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assessing the magnitude of the domestic violence problem during COVID-19]]></title>
+        <id>https://voxeu.org/article/assessing-magnitude-domestic-violence-problem-during-covid-19</id>
+        <link href="https://voxeu.org/article/assessing-magnitude-domestic-violence-problem-during-covid-19"/>
+        <updated>2021-11-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Concerns that domestic violence would intensify during the COVID-19 lockdowns were not borne out by early research. But that research relied on police records. This column suggests that studies based solely on police-recorded incidents of domestic violence provide a less accurate picture than sources less susceptible to changes in reporting behaviour. Based on internet search activity, the authors find a 40% increase in domestic violence incidents in London during the lockdowns – seven to eight times larger than estimates relying on police data alone.]]></summary>
+        <author>
+            <name>Dan Anderberg, Helmut Rainer, Fabian Siuda</name>
         </author>
     </entry>
     <entry>
@@ -652,6 +664,75 @@ As of November 16, 1.01 million mortgage holders remain in COVID-19 related forb
 emphasis added]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부를 위한 기회, 에너지 전환과 모빌리티 투자/장문수.강동진 지음/원앤원북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=283534785</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=283534785"/>
+        <updated>2021-11-19T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[부를 위한 기회, 에너지 전환과 모빌리티 투자
+장문수.강동진 지음 / 원앤원북스 / 2021년 11월 / ISBN:9791170432692
+정가: 16,500원 / 판매가: 14,850원 / 마일리지: 820원
+이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+
+
+
+
+급격한 기후변화와 코로나19로 인한 전 세계적 경제 충격으로 모빌리티 산업과 에너지 산업의 친환경적 움직임이 가속되고 있다. 전 세계 주요국은 친환경차 보급 확대를 지원하고 있으며, 이를 위한 인프라 구축에 많은 돈을 쏟아붓고 있다. 
+
+자동차 산업과 직결되는 재생 에너지는 호시탐탐 기회를 엿보던 몇몇 국가의 새로운 성장 동력이 된 지 오래다. 또한 한국뿐 아니라 많은 나라에서 그린 뉴딜 정책으로 일자리를 창출해 코로나19로 인한 경제 침체를 극복하고자 한다. 즉 우리는 이러한 모빌리티 산업과 에너지 산업의 역학 관계에 주목할 필요가 있다.
+
+대격변의 시대, 두 산업에서 투자자의 시선은 어디로 향할 것인가? 현대차증권의 장문수, 강동진 연구위원은 전 세계를 뒤바꿔놓을 거대한 흐름을 다각도로 분석한다. 주요국의 친환경차 관련 주요 정책 및 코로나19로 인한 경영 환경의 변화는 물론, 테슬라·도요타·폭스바겐 등 글로벌 모빌리티 기업의 친환경 대응 전략과 재생 에너지 기술의 핵심 역량을 조망한다. 이 책을 통해 에너지와 모빌리티 산업의 변화상을 들여다본다면 위기 속에서 새로운 기회를 잡을 수 있을 것이다.
+
+지은이의 말 ① 우리는 기후변화를 맞을 준비가 되었는가? 
+지은이의 말 ② 기회와 위기는 동전의 양면이다 
+
+Chapter 1 모빌리티, 신경제로 나아가다 
+친환경차와 모빌리티가 불러온 자동차 산업의 변화 
+모빌리티 산업의 협업과 환경 정책을 통한 변화 
+변화의 촉매 ① 코로나19 충격으로 인한 대규모 변화 
+변화의 촉매 ② 그린 뉴딜, 탄소 국경세 그리고 RE100 
+변화의 촉매 ③ 바이든 시대와 기후정상회의까지 
+
+Chapter 2 에너지 전환과 전기화: 인류사 가장 큰 변화의 시작 
+모빌리티 혁명의 다른 이름, 에너지 전환 
+에너지 전기화가 불러오는 거대한 변화 
+태양광, 배터리를 만나 더욱 완벽해지다 
+새로운 변화를 모색하는 수소 경제의 새벽 
+
+Chapter 3 성장의 기회 ① 미래 에너지 산업, 디지털화가 핵심 
+기후변화가 몰고 온 전력 시장의 변화에 주목하라 
+VPP와 BTM 전력 시장의 변화 
+전력 시장의 변화는 이미 시작되었다 
+배터리, 에너지 전환의 핵심으로 자리 잡다  
+태양광 산업의 게임 체인저, 페로브스카이트 태양전지 
+
+Chapter 4 성장의 기회 ② 모빌리티 사업 모델의 확장
+전기차 보급 확대와 스마트 충전의 등장 
+스마트 충전의 현재와 미래 
+e-모빌리티 시장에서 기회를 잡아라 
+VPP 사업을 통한 애그리게이터의 영역 확장 
+모빌리티, 생태계 전환에서 역할을 강화하다
+
+Chapter 5 차세대 에너지 스토리지, 모빌리티에 주목하라
+새로운 모빌리티 생태계 적응을 위한 기업들의 움직임 
+테슬라의 모든 사업은 서로 연결되어 있다 
+전기차의 탈을 쓴 ‘에너지 플랫폼 기업’, 테슬라
+돌아온 탕자 폭스바겐과 테슬라의 공통점 
+전기차, 이동 수단에서 개별 전원으로의 진화 
+
+Chapter 6 에너지 대전환의 주역, 태양광과 배터리에 투자하자
+중국 배터리 산업의 현재와 LFP 배터리의 가능성
+에너지 전환의 주역으로 성장한 한국 배터리 산업
+태양광 산업의 기회를 포착하라 
+
+
+국내도서 > 경제경영 > 재테크/투자 > 주식/펀드
+국내도서 > 경제경영 > 마케팅/세일즈 > 트렌드/미래예측
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
@@ -750,7 +831,7 @@ This graph shows the daily (columns) and 7 day average (line) of positive tests 
         <summary type="html"><![CDATA[누가 한국 경제를 파괴하는가
 최배근 지음 / 북인어박스 / 2021년 11월 / ISBN:9791197617003
 정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
 
 
 
@@ -820,6 +901,16 @@ Picture credit: paolafrog@flickr]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Asylum-seeker recognition rates and EU asylum policy]]></title>
+        <id>https://voxeu.org/article/asylum-seeker-recognition-rates-and-eu-asylum-policy</id>
+        <link href="https://voxeu.org/article/asylum-seeker-recognition-rates-and-eu-asylum-policy"/>
+        <updated>2021-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Less than half of all applicants for political asylum in Europe gain some form of recognition that allows them to stay. Since the early 2000s, the EU has developed a common asylum policy with the aims of protecting the rights of refugees and mitigating the ‘asylum lottery’.  This column shows that the implementation of EU Directives contributed modestly to an overall increase in average recognition rates but has not reduced the variation in rates across countries.]]></summary>
+        <author>
+            <name>Timothy Hatton</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Policy implications of dollar pricing]]></title>
         <id>https://voxeu.org/article/policy-implications-dollar-pricing</id>
         <link href="https://voxeu.org/article/policy-implications-dollar-pricing"/>
@@ -837,16 +928,6 @@ Picture credit: paolafrog@flickr]]></summary>
         <summary type="html"><![CDATA[To increase Covid-19 vaccination uptake, many governments have used, or are considering using, monetary incentives. This column uses an experiment conducted in Sweden to show that a modest incentive of €20 can increase vaccination rates substantially. Furthermore, incentives appear to help increase vaccination uptake in any group, including those socioeconomic groups that are less likely to get vaccinated. However, behavioural nudges, such as providing information or highlighting the social impact of vaccination, do not lead to a statistically significant increase in vaccination rates.]]></summary>
         <author>
             <name>Pol Campos-Mercade, Armando N. Meier, Florian Schneider, Stephan  Meier, Devin Pope, Erik Wengström</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asylum-seeker recognition rates and EU asylum policy]]></title>
-        <id>https://voxeu.org/article/asylum-seeker-recognition-rates-and-eu-asylum-policy</id>
-        <link href="https://voxeu.org/article/asylum-seeker-recognition-rates-and-eu-asylum-policy"/>
-        <updated>2021-11-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Less than half of all applicants for political asylum in Europe gain some form of recognition that allows them to stay. Since the early 2000s, the EU has developed a common asylum policy with the aims of protecting the rights of refugees and mitigating the ‘asylum lottery’.  This column shows that the implementation of EU Directives contributed modestly to an overall increase in average recognition rates but has not reduced the variation in rates across countries.]]></summary>
-        <author>
-            <name>Timothy Hatton</name>
         </author>
     </entry>
     <entry>
@@ -1259,24 +1340,6 @@ The eleven months of decline represented a significant decrease in design servic
         <summary type="html"><![CDATA[In the internet age, who pays a sales tax can have a significant impact on how local tax rates are set, according to a paper in the American Economic Journal: Economic Policy. The findings may have important implications for optimal tax policy.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Housing Units Under Construction Since 1974]]></title>
-        <id>http://www.calculatedriskblog.com/2021/11/most-housing-units-under-construction.html</id>
-        <link href="http://www.calculatedriskblog.com/2021/11/most-housing-units-under-construction.html"/>
-        <updated>2021-11-17T14:02:00.002Z</updated>
-        <summary type="html"><![CDATA[Today, in the Real Estate Newsletter: Most Housing Units Under Construction Since 1974
-Excerpt: 
-The fourth graph shows starts under construction, Seasonally Adjusted (SA).
-Red is single family units. Currently there are 726 thousand single family units under construction (SA). This is the highest level since 2007.
-For single family, most of these homes are already sold (Census counts sales when contract is signed). The reason there are so many homes is probably due to construction delays. Since most of these are already sold, it is unlikely this is “overbuilding”, or that this will impact prices.
-Blue is for 2+ units. Currently there are 725 thousand multi-family units under construction.  This is the highest level since 1974! For multi-family, construction delays are probably also a factor. The completion of these units should help with rent pressure.
-Census will release data next year on the length of time from start to completion, and that will probably show long delays in 2021. In 2020, it took an average of 6.8 months from start to completion for single family homes, and 15.4 months for buildings with 2 or more units.
-Combined, there are 1.451 million units under construction. This is the most since 1974.
-You can subscribe at https://calculatedrisk.substack.com/ (Currently all content is available for free, but please subscribe).]]></summary>
-        <author>
-            <name>Calculated Risk</name>
         </author>
     </entry>
     <entry>
@@ -3308,57 +3371,6 @@ AI 기술을 기반으로 한 글로벌 경쟁시대에서 인공지능이 변�
 국내도서 > 경제경영 > 기업 경영 > 경영전략/혁신
 국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망
 국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴미디어 트렌드 2022/샌드박스네트워크 데이터랩 외 지음/샌드박스스토리]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=282501231</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=282501231"/>
-        <updated>2021-11-02T03:14:00.000Z</updated>
-        <summary type="html"><![CDATA[뉴미디어 트렌드 2022
-샌드박스네트워크 데이터랩 외 지음 / 샌드박스스토리 / 2021년 11월 / ISBN:9791197497315
-정가: 19,000원 / 판매가: 17,100원 / 마일리지: 950원
-이벤트:  초판 한정 저자 강의 수록
-
-
-
-
-메타버스, OTT, 밈테크, 틱톡, 슈퍼 IP, 이커머스, 오리지널 콘텐츠…. 만약 이런 단어가 낯설다면 당신은 세상의 변화에 둔감한 사람일지 모른다. 1020세대의 전유물이라고 치부되던 뉴미디어와 그 매체가 담아내는 독창적인 콘텐츠는 이제 보편적이고 대중적인 문화로 자리 잡아가고 있다. 뿐만 아니라 유튜브와 숏폼의 인기 콘텐츠가 거시적인 사회문화 트렌드의 출발지가 되는 사례가 점차 늘어나면서, 뉴미디어 콘텐츠의 영향력이 커지고 있다.
-
-국내에서 가장 많은 유튜브 빅데이터를 분석하는 MCN 샌드박스네트워크는 이 책에서 사회 변화의 맥락을 짚어내고, 앞으로 전개될 사회문화 트렌드의 변화를 거시적으로 예측한다. 그리고 이를 좀 더 깊이 있게 다루기 위해 10개의 트렌드 키워드 ‘부캐, 팬덤, 숏폼, 호모집쿠스, 밈테크, 메타버스, 오리지널 콘텐츠, e스포츠, 브랜디드 콘텐츠, 알고리즘’을 선정해 분석한다. 이 책을 통해 뉴미디어 산업의 최신 동향부터 시장 전망까지 파악하며, 새로운 비즈니스와 부의 기회를 발견할 수 있을 것이다.
-
-프롤로그 뉴미디어 산업이 맞이할 거대한 변화의 흐름을 읽어내다 
-
-Part 1 데이터로 살펴보는 유튜브 인사이트
-01 성숙기에 접어든 유튜브의 어제와 오늘 _ 숫자로 읽는 유튜브 시장의 주요 동향  
-국내 유튜브 시장의 규모와 특징 | 국내 유튜브 시장의 주요 버티컬 탐색
-
-02 취향 콘텐츠의 바로미터, 유튜브 분야별 주요 플레이어 _ 숫자로 읽는 유튜브 트렌드 키워드
-엔터테인먼트-프로와 아마추어의 경계가 무너지다 | 라이프스타일-진입장벽은 낮고 채널수는 많다 | 전문분야-선호가 분명한 마니아들의 집결지 | 푸드-평범함을 비틀어 특별하게 만들다 | 음악-국내 유튜브 시장 최강자들의 전쟁터 | 게임-하는 게임에서 보고 듣고 즐기는 게임으로 
-
-Part 2 10가지 키워드로 살펴보는 뉴미디어 트렌드
-01 새로운 나, 부캐의 전성시대 _ 부캐의 세계관과 확장성 
-부캐 트렌드, 누가 판을 깔아주었나 | 대중문화 속 부캐는 어떻게 진화할 것인가 | 2022년 부캐 트렌드의 대세는 누가 될 것인가 
-
-02 팬덤 문화의 탄생과 진화 _ 소셜 팬덤이 갖는 영향력과 파워 
-열광하는 그들, 팬덤의 연대기 | 팬코노미는 어떤 부가가치를 갖는가 | 팬덤을 이끄는 새로운 슈퍼 개인, 인플루언서
-
-03 짧고 강력한 숏폼 콘텐츠 _ Z세대가 사랑하는 짧은 콘텐츠의 매운 맛 
-숏폼 콘텐츠, 짧아서 더 핫하다 | 15초의 경쟁, 숏폼 플랫폼 | 최강의 숏폼 플랫폼 ‘틱톡’ | 숏폼 플랫폼의 미래
-
-04 호모집쿠스, 집에서 먹고 놀고 일하는 신인류 _ 슈퍼홈에서 이루어지는 온오프의 협력과 미션
-나만의 공간, 스위트홈이 슈퍼홈으로 진화하다 | 나만의 시간, 집에서 새로 태어나다 | 컬처라이프, 온오프 경계가 무너지다 | 공통되면서도 차별화된 온오프 경험을 제공하라 
-
-05 재테크에 진심인 MZ세대, 어디까지 투자해봤니? _ MZ세대의 이색 투자보고서 
-2030세대는 왜 플렉스에서 재테크로 돌아섰나 | 신 투자인류, 게임하듯 즐기면서 돈 번다 | 밈테크를 만나면 투자도 콘텐츠가 된다 | 내실 있는 핀플루언서의 급부상
-
-06 메타버스, 상상 속 세상이 현실로 _ 포스트 디지털 시대가 맞이할 새로운 미래
-어디에도 없던 새로운 세상, 메타버스 | 성공적인 메타버스를 위한 3가지 요소 | 메타버스, 정말 유...
-
-국내도서 > 경제경영 > 마케팅/세일즈 > 트렌드/미래예측
-국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
