@@ -431,15 +431,6 @@
           "title": "Central bank digital currency: Considerations, projects, outlook"
         },
         {
-          "id": "https://voxeu.org/article/public-loan-guarantees-and-credit-substitution",
-          "author": "Carlo Altavilla, Andrew  Ellul, Marco  Pagano, Andrea Polo, Thomas  Vlassopoulos",
-          "description": "Concerns have been raised over whether the massive public loan guarantee schemes introduced to provide emergency lending to firms soon after the onset of Covid-19 may end up benefiting banks more than firms hit by the pandemic shock. This column uses a novel credit register dataset to show that in the euro area, government guarantees contributed to the continued extension of credit to relatively creditworthy firms hit by the pandemic, but also benefited the balance sheets of banks to some extent. Some credit substitution occurred, and therefore some guarantees transferred pre-existing credit risk from banks to taxpayers.",
-          "link": "https://voxeu.org/article/public-loan-guarantees-and-credit-substitution",
-          "publishedOn": "2021-11-24T00:00:00.000Z",
-          "wordCount": 2566,
-          "title": "Public loan guarantees and credit substitution"
-        },
-        {
           "id": "https://voxeu.org/article/consumption-and-service-sector-demand-played-key-role-covid-19-global-trade-collapse",
           "author": "Heli  Simola",
           "description": "The collapse of global trade during the COVID-19 crisis was stunning in its magnitude, but was milder in relative terms than during the Global Crisis. Based on data from 40 different countries, this column suggests that the key lies in the composition of demand. The contributions of consumption and services sector demand to the import contraction were notably larger during the COVID-19 crisis. This may have led to a relatively milder import contraction, as consumption and services production are less import-intensive than investment and manufacturing production.",
@@ -447,6 +438,15 @@
           "publishedOn": "2021-11-24T00:00:00.000Z",
           "wordCount": 2180,
           "title": "Consumption and service sector demand played a key role in the COVID-19 global trade collapse"
+        },
+        {
+          "id": "https://voxeu.org/article/public-loan-guarantees-and-credit-substitution",
+          "author": "Carlo Altavilla, Andrew  Ellul, Marco  Pagano, Andrea Polo, Thomas  Vlassopoulos",
+          "description": "Concerns have been raised over whether the massive public loan guarantee schemes introduced to provide emergency lending to firms soon after the onset of Covid-19 may end up benefiting banks more than firms hit by the pandemic shock. This column uses a novel credit register dataset to show that in the euro area, government guarantees contributed to the continued extension of credit to relatively creditworthy firms hit by the pandemic, but also benefited the balance sheets of banks to some extent. Some credit substitution occurred, and therefore some guarantees transferred pre-existing credit risk from banks to taxpayers.",
+          "link": "https://voxeu.org/article/public-loan-guarantees-and-credit-substitution",
+          "publishedOn": "2021-11-24T00:00:00.000Z",
+          "wordCount": 2566,
+          "title": "Public loan guarantees and credit substitution"
         },
         {
           "id": "https://voxeu.org/article/global-footprint-chinese-banks",
@@ -467,15 +467,6 @@
           "title": "Dangers of unregulated artificial intelligence"
         },
         {
-          "id": "https://voxeu.org/content/euro-area-policy-mix-horizontal-vertical-coordination",
-          "author": "Marco Buti",
-          "description": "The policy response to Covid-19 in Europe avoided mistakes made a decade earlier. But what should the fiscal and monetary policy framework be after the pandemic? Marco Buti, author of a new CEPR policy insight on this topic and the book The Man Inside about how Europe coped with recent crises, talks to Tim Phillips.\nDownload the CEPR policy insight: \nButi, M and Messori, M, Euro area policy mix: From horizontal to vertical coordination, CEPR Policy Insight No 113.\nRegister for the launch of the book The Man Inside: A European Journey through Two Crises, Wednesday 24 November 2021, 16:00 GMT",
-          "link": "https://voxeu.org/content/euro-area-policy-mix-horizontal-vertical-coordination",
-          "publishedOn": "2021-11-23T00:00:00.000Z",
-          "wordCount": 585,
-          "title": "The euro area policy mix. From horizontal to vertical coordination"
-        },
-        {
           "id": "https://voxeu.org/article/mutual-funds-loyalty-helped-stabilise-esg-stocks-during-covid-19",
           "author": "Rui Albuquerque, Yrjo Koskinen, Raffaele Santioni",
           "description": "How did the stock market crash caused by Covid-19 affect different asset classes and fund types? This column studies the trading behaviour of actively managed equity mutual funds in the US during the crisis and finds that funds with high environmental, social, and governance ratings helped to stabilise the market, but other funds also provided support for ESG stocks. All funds experiencing inflows increased their net purchases, but this behaviour was stronger for ESG funds. Non-ESG funds experiencing outflows increased their net sales, but this was limited to their holdings of non-ESG stocks.",
@@ -494,6 +485,15 @@
           "title": "Multinational production and investment provisions in preferential trade agreements"
         },
         {
+          "id": "https://voxeu.org/content/euro-area-policy-mix-horizontal-vertical-coordination",
+          "author": "Marco Buti",
+          "description": "The policy response to Covid-19 in Europe avoided mistakes made a decade earlier. But what should the fiscal and monetary policy framework be after the pandemic? Marco Buti, author of a new CEPR policy insight on this topic and the book The Man Inside about how Europe coped with recent crises, talks to Tim Phillips.\nDownload the CEPR policy insight: \nButi, M and Messori, M, Euro area policy mix: From horizontal to vertical coordination, CEPR Policy Insight No 113.\nRegister for the launch of the book The Man Inside: A European Journey through Two Crises, Wednesday 24 November 2021, 16:00 GMT",
+          "link": "https://voxeu.org/content/euro-area-policy-mix-horizontal-vertical-coordination",
+          "publishedOn": "2021-11-23T00:00:00.000Z",
+          "wordCount": null,
+          "title": "The euro area policy mix. From horizontal to vertical coordination"
+        },
+        {
           "id": "https://voxeu.org/article/german-productivity-paradox-homegrown-affair",
           "author": "Désirée Christofzik, Steffen  Elstner, Lars Feld, Christoph Schmidt",
           "description": "Despite massive digitisation efforts, the German economy has experienced a marked slowdown in productivity growth. This column shows that an important share of this trend reflects the combination of strong labour market performance with the structural shift towards services in the German economy. A large part of the productivity paradox can be resolved by the observation that the notable technological progress in the ICT-producing sector tends to stimulate aggregate employment growth in step with production growth, thereby consuming its effect on aggregate productivity. The results suggest that higher productivity growth should not be the sole policy objective.",
@@ -510,200 +510,146 @@
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
         {
-          "id": "https://www.nber.org/papers/w29510#fromrss",
+          "id": "https://www.nber.org/papers/w29498#fromrss",
           "author": null,
-          "description": "Future electricity systems with tight constraints on carbon emissions will rely much more on wind and solar generation, with zero marginal cost, than today. We use capacity expansion modelling of Texas in 2050 to illustrate wholesale price distributions in future energy-only, carbon-constrained grids without price caps under a range of technology/system assumptions. Tightening carbon emissions constraints dramatically increases the frequency of very low prices. The frequency of high prices also increases, and all resources earn the bulk of their energy market revenues in relatively few hours. The presence of demand response, long-duration energy storage, dispatchable low-carbon generation, or a robust market for hydrogen for non-electricity use (and for energy storage) weakens but does not undo these results. Financial instruments to hedge price volatility will consequently be more costly and it is likely that we will need to redesign capacity remuneration mechanisms to provide adequate incentives for optimal investment in VRE generation and, particularly, storage. In order to encourage economy-wide electrification, the marginal retail price of electricity should be low whenever the wholesale price is low.  With automated control of demand via demand response contracts, the risks of price volatility faced by retail customers can be mitigated without sacrificing efficiency. To encourage economy-wide electrification, the marginal retail price of electricity should be low when the wholesale spot price is low. We discuss ways of reducing consumers’ risk in this world while providing adequate investment incentives.",
-          "link": "https://www.nber.org/papers/w29510#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.404Z",
-          "wordCount": 1023,
-          "title": "Electricity Price Distributions in Future Renewables-Dominant Power Grids and Policy Implications -- by Dharik S. Mallapragada, Cristian Junge, Cathy Xun Wang, Johannes Pfeifenberger, Paul L. Joskow, Richard Schmalensee"
+          "description": "Recent observations on countries like the UK that have accumulated a large fraction of inoculated individuals suggest that, although initially, vaccines have little effect on new infections they strongly reduce the share of mortality out of a given pool of infections. This paper examines the extent to which this phenomenon is more general by testing the hypothesis that the ratio of current mortality to lagged infections is decreasing in the total number of vaccines per one hundred individuals. This is done in a pooled time-series, cross-section sample with weekly observations for up to 208 countries. The main conclusion from the statistical analysis is that, passed a certain threshold, vaccines moderate the share of mortality from a given pool of lagged infections. This is essentially a favorable shift in the tradeoff between life preservation and economic performance. Controlling for income per capita, stringency of containment measures, and the fraction of recovered and old individuals, estimation is carried out by linear least squares, with standard errors clustered by country and region. The main result is robust to sensitivity analysis with a logarithmic specification. The practical lesson is that, in the presence of a sufficiently high share of inoculated individuals, governments can shade down containment measures, even as infections are still rampant, without significant adverse effects on mortality.",
+          "link": "https://www.nber.org/papers/w29498#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.358Z",
+          "wordCount": 924,
+          "title": "International Evidence on Vaccines and the Mortality to Infections Ratio -- by Joshua Aizenman, Alex Cukierman, Yothin Jinjarak, Weining Xin"
         },
         {
           "id": "https://www.nber.org/papers/w29497#fromrss",
           "author": null,
           "description": "We estimate the impact of district-level schooling mode (in-person versus hybrid or distance learning) on test scores. We combine Spring 2021 state standardized test score data with comprehensive data on schooling in the 2020-21 school year across 12 states. We find that pass rates declined compared to prior years and that these declines were larger in districts with less in-person instruction. Passing rates in math declined by 14.2 percentage points on average; we estimate this decline was 10.1 percentage points smaller for districts fully in-person. Changes in English language arts scores were smaller, but were significantly larger in districts with larger populations of students who are Black, Hispanic or eligible for free and reduced price lunch.",
           "link": "https://www.nber.org/papers/w29497#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.392Z",
+          "publishedOn": "2021-11-24T15:06:37.339Z",
           "wordCount": 976,
           "title": "Pandemic Schooling Mode and Student Test Scores: Evidence from US States -- by Clare Halloran, Rebecca Jack, James C. Okun, Emily Oster"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29503#fromrss",
-          "author": null,
-          "description": "Accurately determining the number of excess deaths caused by the COVID-19 pandemic is hard. The most important challenge is accurately estimating the counterfactual count of baseline deaths that would have occurred in its absence. This analysis used new methods to: estimate this baseline metric; calculate excess deaths during the first year of the U.S. COVID-19 pandemic; and examine plausibility of the excess death estimates obtained in this and prior analyses. Total, group-specific and cause-specific excess deaths in the U.S. from March 2020 through February 2021 were calculated using publicly available data covering all deaths from March 2009 through December 2019 and provisional data from January 2020 through February 2021. The estimates indicate that there were 646,514 (95% CI: 597,514 to 695,520) excess deaths in the U.S. during this period, with 83.4% (95% CI: 77.5% - 90.2%) of these attributed directly to COVID-19. There were substantial differences across population groups and causes in the ratio of actual-to-baseline deaths, and in the contribution of COVID-19 to excess mortality. Prior research has frequently underestimated baseline deaths and so has overstated excess mortality and the percentage of it attributed to non-COVID-19 causes.",
-          "link": "https://www.nber.org/papers/w29503#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.365Z",
-          "wordCount": 934,
-          "title": "Excess Deaths in the United States During the First Year of COVID-19 -- by Christopher J. Ruhm"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29502#fromrss",
-          "author": null,
-          "description": "This paper provides an introduction to buyouts and the academic literature about them. Buyouts are initiated by “buyout funds”, which are limited partnerships raised from mostly institutional investors. The funds earn returns for their investors by improving the operations of the firms they acquire and exiting them for a profit. Buyout funds have grown substantially and currently raise more than $400 billion annually in capital commitments. We first discuss the institutional environment that developed to foster such buyouts and to provide incentives for general partners and firm managers to earn returns for the fund’s investors. We then describe various strategies that funds use to increase the values of their portfolio companies. The paper provides up to date statistics on all aspects of the buyout industry. Finally, we present a summary of the academic literature on buyouts. This literature has paid particular attention to the extent to which buyouts earn risk-adjusted abnormal returns for their investors, as well as the sources of those returns.",
-          "link": "https://www.nber.org/papers/w29502#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.353Z",
-          "wordCount": 920,
-          "title": "Buyouts: A Primer -- by Tim Jenkinson, Hyeik Kim, Michael S. Weisbach"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29498#fromrss",
-          "author": null,
-          "description": "Recent observations on countries like the UK that have accumulated a large fraction of inoculated individuals suggest that, although initially, vaccines have little effect on new infections they strongly reduce the share of mortality out of a given pool of infections. This paper examines the extent to which this phenomenon is more general by testing the hypothesis that the ratio of current mortality to lagged infections is decreasing in the total number of vaccines per one hundred individuals. This is done in a pooled time-series, cross-section sample with weekly observations for up to 208 countries. The main conclusion from the statistical analysis is that, passed a certain threshold, vaccines moderate the share of mortality from a given pool of lagged infections. This is essentially a favorable shift in the tradeoff between life preservation and economic performance. Controlling for income per capita, stringency of containment measures, and the fraction of recovered and old individuals, estimation is carried out by linear least squares, with standard errors clustered by country and region. The main result is robust to sensitivity analysis with a logarithmic specification. The practical lesson is that, in the presence of a sufficiently high share of inoculated individuals, governments can shade down containment measures, even as infections are still rampant, without significant adverse effects on mortality.",
-          "link": "https://www.nber.org/papers/w29498#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.340Z",
-          "wordCount": 924,
-          "title": "International Evidence on Vaccines and the Mortality to Infections Ratio -- by Joshua Aizenman, Alex Cukierman, Yothin Jinjarak, Weining Xin"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29506#fromrss",
-          "author": null,
-          "description": "This paper provides a novel perspective on the Great Migration out of the U.S. South. Using a shift-share identification strategy, we show how millions of Southern white migrants transformed the cultural and political landscape across America. Counties with a larger Southern white share by 1940 exhibited growing support for right-wing politics throughout the 20th century and beyond. Racial animus, religious conservatism, and localist attitudes among the Southern white diaspora hastened partisan realignment as the Republican Party found fresh support for the Southern strategy outside the South. Their congressional representatives were more likely to oppose politically liberal legislation, such as the Civil Rights Act of 1964, and to object to the Electoral College count in 2021. These migrants helped shape institutions that reinforced racial inequity and exclusion, they shared ideology through religious organizations and popular media, and they transmitted an array of cultural norms to non-Southern populations. Together, our findings suggest that Southern white migrants may have forever changed the trajectory of American politics.",
-          "link": "https://www.nber.org/papers/w29506#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.317Z",
-          "wordCount": 1019,
-          "title": "The Other Great Migration: Southern Whites and the New Right -- by Samuel Bazzi, Andreas Ferrara, Martin Fiszbein, Thomas P. Pearson, Patrick A. Testa"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29508#fromrss",
-          "author": null,
-          "description": "We study how organizational boundaries affect pricing decisions using comprehensive data from a large U.S. airline. We document that the firm's advanced pricing algorithm, utilizing inputs from different organizational teams, is subject to multiple biases. To quantify the impacts of these biases, we estimate a structural demand model using sales and search data. We recover the demand curves the firm believes it faces using forecasting data. In counterfactuals, we show that correcting biases introduced by organizational teams individually have little impact on market outcomes, but coordinating organizational outcomes leads to higher prices/revenues and increased dead-weight loss in the markets studied.",
-          "link": "https://www.nber.org/papers/w29508#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.305Z",
-          "wordCount": 883,
-          "title": "Organizational Structure and Pricing: Evidence from a Large U.S. Airline -- by Ali Hortaçsu, Olivia R. Natan, Hayden Parsley, Timothy Schwieg, Kevin R. Williams"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29495#fromrss",
-          "author": null,
-          "description": "Forecasts of professional forecasters are anomalous: they are biased, forecast errors are autocorrelated, and forecast revisions predict forecast errors. Sticky or noisy information models seem like unlikely explanations for these anomalies: professional forecasters pay attention constantly and have precise knowledge of the data in question. We propose that these anomalies arise because professional forecasters don’t know the model that generates the data. We show that Bayesian agents learning about hard-to-learn features of the data generating process (low frequency behavior) can generate all the prominent aggregate anomalies emphasized in the literature. We show this for two applications: professional forecasts of nominal interest rates for the sample period 1980-2019 and CBO forecasts of GDP growth for the sample period 1976- 2019. Our learning model for interest rates also provides an explanation for deviations from the expectations hypothesis of the term structure that does not rely on time-variation in risk premia.",
-          "link": "https://www.nber.org/papers/w29495#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.275Z",
-          "wordCount": 892,
-          "title": "Learning About the Long Run -- by Leland Farmer, Emi Nakamura, Jón Steinsson"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29507#fromrss",
-          "author": null,
-          "description": "In the public imagination globalization’s adverse effects have loomed large, contributing significantly to the backlash against the political mainstream and the rise of far-right populism. The literature on trade and inequality is in fact exceptionally rich, with important theoretical insights as well as extensive empirical findings that sheds light on this recent experience. Some of the key results of this literature, discussed here, are as follows: Redistribution is the flip side of the gains from trade, and it becomes larger relative to net gains from trade in the advanced stages of globalization. Compensation is difficult for both economic and political reasons. International trade often differs from other market exchanges, raising fairness concerns in ways that domestic markets do not. The economic benefits of deep integration are generally ambiguous. Dynamic or growth gains from trade are uncertain.",
-          "link": "https://www.nber.org/papers/w29507#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.263Z",
-          "wordCount": 833,
-          "title": "A Primer on Trade and Inequality -- by Dani Rodrik"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29499#fromrss",
-          "author": null,
-          "description": "This paper studies asymmetry in economic activity over the business cycle. It develops a tractable multisector model of the economy in which complementarity across inputs causes aggregate activity to be left skewed with countercyclical volatility. We then examine implications of the model regarding the time-series skewness of activity at the sector level, cyclicality of dispersion and skewness across sectors, and the conditional covariances of sector growth rates, finding support for each in the data. The empirical skewness of employment growth, industrial production growth, and stock returns increases with the level of aggregation, which is consistent with the model's implication that it is the nonlinearity in the production structure of the economy that generates the skewness. Other prominent models of asymmetry are not able to simultaneously match the range of empirical facts that the production network model can.",
-          "link": "https://www.nber.org/papers/w29499#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.250Z",
-          "wordCount": 857,
-          "title": "Skewness and Time-Varying Second Moments in a Nonlinear Production Network: Theory and Evidence -- by Ian Dew-Becker, Alireza Tahbaz-Salehi, Andrea Vedolin"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29500#fromrss",
-          "author": null,
-          "description": "We study the relationship between international trade and development in a model where countries differ in their capability, goods differ in their complexity, and capability growth is a function of a country’s pattern of specialization. Theoretically, we show that it is possible for international trade to increase capability growth in all countries and, in turn, to push all countries up the development ladder. This occurs because: (i) the average complexity of a country’s industry mix raises its capability growth, and (ii) foreign competition is tougher in less complex sectors for all countries. Empirically, we provide causal evidence consistent with (i) using the entry of countries into the World Trade Organization as an instrumental variable for other countries’ patterns of specialization. The opposite of (ii), however, appears to hold in the data. Through the lens of our model, these two empirical observations imply dynamic welfare losses from trade that are small for the median country, but pervasive and large among a number of African countries.",
-          "link": "https://www.nber.org/papers/w29500#fromrss",
-          "publishedOn": "2021-11-24T12:08:03.037Z",
-          "wordCount": 915,
-          "title": "Globalization and the Ladder of Development: Pushed to the Top or Held at the Bottom? -- by David Atkin, Arnaud Costinot, Masao Fukui"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29504#fromrss",
-          "author": null,
-          "description": "This paper proposes a new measure of technological obsolescence using detailed patent data. Using this measure, we present two sets of results. First, firms' technological obsolescence foreshadows substantially lower growth, productivity, and reallocation of capital. This finding applies mainly for obsolescence of core innovation and embodied innovation, and it is stronger in competitive product markets. Second, in stock markets, high-obsolescence firms under-perform low-obsolescence firms by 7 percent annually. Using analyst forecast data, we show this is due to a systematic overestimation of future profits of obsolescent firms. The measure contains incremental information about firm innovation relative to measures focusing on new innovation.",
-          "link": "https://www.nber.org/papers/w29504#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.718Z",
-          "wordCount": 926,
-          "title": "Technological Obsolescence -- by Song Ma"
         },
         {
           "id": "https://www.nber.org/papers/w29494#fromrss",
           "author": null,
           "description": "We analyze mortgage lenders’ behavior with respect to shale gas risk during the period of the U.S. shale gas boom, which coincided with fluctuations in the U.S. housing market and increased scrutiny in the lending industry.  Shale gas operations have the potential to place affected houses into technical default such that government sponsored enterprises like Fannie Mae and Freddie Mac are unable to maintain them in their portfolios.  We find that lenders changed from being willing to pay $814 on average to avoid one unit of shale risk before the financial distress of 2008 and subsequent increased scrutiny, to $3,137, or 1.6% of profit earned on an average mortgage, afterwards.  Our approach provides an alternative to the traditional property value hedonic measurement of the disamenities associated with shale gas development by looking at the decisions of mortgage professionals.",
           "link": "https://www.nber.org/papers/w29494#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.691Z",
+          "publishedOn": "2021-11-24T15:06:37.328Z",
           "wordCount": 879,
           "title": "Collateral Damage: The Impact of Shale Gas on Mortgage Lending -- by Yanyou Chen, James W. Roberts, Christopher D. Timmins, Ashley Vissing"
         },
         {
-          "id": "https://www.nber.org/papers/w29505#fromrss",
+          "id": "https://www.nber.org/papers/w29508#fromrss",
           "author": null,
-          "description": "I study unemployment insurance (UI) in general equilibrium with incomplete markets, search frictions, and nominal rigidities.  An increase in generosity raises the aggregate demand for consumption if the unemployed have a higher marginal propensity to consume (MPC) than the employed or if agents precautionary save in light of future income risk.  This raises output and employment unless monetary policy raises the nominal interest rate.  In an analysis of the U.S. economy over 2008-2014, UI benefit extensions had a contemporaneous output multiplier around 1 or higher.  The unemployment rate would have been as much as 0.4pp higher absent these extensions.",
-          "link": "https://www.nber.org/papers/w29505#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.672Z",
-          "wordCount": 830,
-          "title": "Unemployment Insurance in Macroeconomic Stabilization -- by Rohan Kekre"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29501#fromrss",
-          "author": null,
-          "description": "In this paper, we study the interplay between sovereign risk and global financial risk. We show that a substantial portion of the comovement among sovereign spreads is accounted for by changes in global financial risk. We construct bond-level sovereign spreads for dollar-denominated bonds issued by over 50 countries from 1995 to 2020 and use various indicators to measure global financial risk. Through panel regressions and local projection analysis, we find that an increase in global financial risk causes a large and persistent widening of sovereign bond spreads. These effects are strongest when measuring global risk using the excess bond premium – a measure of the risk-bearing capacity of U.S. financial intermediaries. The spillover effects of global financial risk are more pronounced for speculative-grade sovereign bonds.",
-          "link": "https://www.nber.org/papers/w29501#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.646Z",
-          "wordCount": 878,
-          "title": "Sovereign Risk and Financial Risk -- by Simon Gilchrist, Bin Wei, Vivian Z. Yue, Egon Zakrajšek"
+          "description": "We study how organizational boundaries affect pricing decisions using comprehensive data from a large U.S. airline. We document that the firm's advanced pricing algorithm, utilizing inputs from different organizational teams, is subject to multiple biases. To quantify the impacts of these biases, we estimate a structural demand model using sales and search data. We recover the demand curves the firm believes it faces using forecasting data. In counterfactuals, we show that correcting biases introduced by organizational teams individually have little impact on market outcomes, but coordinating organizational outcomes leads to higher prices/revenues and increased dead-weight loss in the markets studied.",
+          "link": "https://www.nber.org/papers/w29508#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.239Z",
+          "wordCount": 883,
+          "title": "Organizational Structure and Pricing: Evidence from a Large U.S. Airline -- by Ali Hortaçsu, Olivia R. Natan, Hayden Parsley, Timothy Schwieg, Kevin R. Williams"
         },
         {
           "id": "https://www.nber.org/papers/w29509#fromrss",
           "author": null,
           "description": "The authors use data from the Children of the National Longitudinal Survey of Youth (C-NLSY79) to examine gender differences in the associations between child behavioral problems and early adult earnings. They find large and significant earnings penalties for women who exhibited more headstrong behavior and for men who exhibited more dependent behavior as children. In contrast, there are no penalties for men who were headstrong or for women who were dependent. While other child behavioral problems are also associated with labor market earnings, their associations are not significantly different by gender. The gender differences in headstrong and dependent behavior are not explained by education, marriage, depression, self-esteem, health, or adult personality traits. However, one potential explanation is that these gender differences are a consequence of deviations from gender norms and stereotypes in the workplace.",
           "link": "https://www.nber.org/papers/w29509#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.632Z",
+          "publishedOn": "2021-11-24T15:06:37.133Z",
           "wordCount": 857,
           "title": "Headstrong Girls and Dependent Boys: Gender Differences in the Labor Market Returns to Child Behavior -- by Robert Kaestner, Ofer Malamud"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29507#fromrss",
+          "author": null,
+          "description": "In the public imagination globalization’s adverse effects have loomed large, contributing significantly to the backlash against the political mainstream and the rise of far-right populism. The literature on trade and inequality is in fact exceptionally rich, with important theoretical insights as well as extensive empirical findings that sheds light on this recent experience. Some of the key results of this literature, discussed here, are as follows: Redistribution is the flip side of the gains from trade, and it becomes larger relative to net gains from trade in the advanced stages of globalization. Compensation is difficult for both economic and political reasons. International trade often differs from other market exchanges, raising fairness concerns in ways that domestic markets do not. The economic benefits of deep integration are generally ambiguous. Dynamic or growth gains from trade are uncertain.",
+          "link": "https://www.nber.org/papers/w29507#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.121Z",
+          "wordCount": 833,
+          "title": "A Primer on Trade and Inequality -- by Dani Rodrik"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29502#fromrss",
+          "author": null,
+          "description": "This paper provides an introduction to buyouts and the academic literature about them. Buyouts are initiated by “buyout funds”, which are limited partnerships raised from mostly institutional investors. The funds earn returns for their investors by improving the operations of the firms they acquire and exiting them for a profit. Buyout funds have grown substantially and currently raise more than $400 billion annually in capital commitments. We first discuss the institutional environment that developed to foster such buyouts and to provide incentives for general partners and firm managers to earn returns for the fund’s investors. We then describe various strategies that funds use to increase the values of their portfolio companies. The paper provides up to date statistics on all aspects of the buyout industry. Finally, we present a summary of the academic literature on buyouts. This literature has paid particular attention to the extent to which buyouts earn risk-adjusted abnormal returns for their investors, as well as the sources of those returns.",
+          "link": "https://www.nber.org/papers/w29502#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.100Z",
+          "wordCount": 920,
+          "title": "Buyouts: A Primer -- by Tim Jenkinson, Hyeik Kim, Michael S. Weisbach"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29500#fromrss",
+          "author": null,
+          "description": "We study the relationship between international trade and development in a model where countries differ in their capability, goods differ in their complexity, and capability growth is a function of a country’s pattern of specialization. Theoretically, we show that it is possible for international trade to increase capability growth in all countries and, in turn, to push all countries up the development ladder. This occurs because: (i) the average complexity of a country’s industry mix raises its capability growth, and (ii) foreign competition is tougher in less complex sectors for all countries. Empirically, we provide causal evidence consistent with (i) using the entry of countries into the World Trade Organization as an instrumental variable for other countries’ patterns of specialization. The opposite of (ii), however, appears to hold in the data. Through the lens of our model, these two empirical observations imply dynamic welfare losses from trade that are small for the median country, but pervasive and large among a number of African countries.",
+          "link": "https://www.nber.org/papers/w29500#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.089Z",
+          "wordCount": 915,
+          "title": "Globalization and the Ladder of Development: Pushed to the Top or Held at the Bottom? -- by David Atkin, Arnaud Costinot, Masao Fukui"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29506#fromrss",
+          "author": null,
+          "description": "This paper provides a novel perspective on the Great Migration out of the U.S. South. Using a shift-share identification strategy, we show how millions of Southern white migrants transformed the cultural and political landscape across America. Counties with a larger Southern white share by 1940 exhibited growing support for right-wing politics throughout the 20th century and beyond. Racial animus, religious conservatism, and localist attitudes among the Southern white diaspora hastened partisan realignment as the Republican Party found fresh support for the Southern strategy outside the South. Their congressional representatives were more likely to oppose politically liberal legislation, such as the Civil Rights Act of 1964, and to object to the Electoral College count in 2021. These migrants helped shape institutions that reinforced racial inequity and exclusion, they shared ideology through religious organizations and popular media, and they transmitted an array of cultural norms to non-Southern populations. Together, our findings suggest that Southern white migrants may have forever changed the trajectory of American politics.",
+          "link": "https://www.nber.org/papers/w29506#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.076Z",
+          "wordCount": 1019,
+          "title": "The Other Great Migration: Southern Whites and the New Right -- by Samuel Bazzi, Andreas Ferrara, Martin Fiszbein, Thomas P. Pearson, Patrick A. Testa"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29499#fromrss",
+          "author": null,
+          "description": "This paper studies asymmetry in economic activity over the business cycle. It develops a tractable multisector model of the economy in which complementarity across inputs causes aggregate activity to be left skewed with countercyclical volatility. We then examine implications of the model regarding the time-series skewness of activity at the sector level, cyclicality of dispersion and skewness across sectors, and the conditional covariances of sector growth rates, finding support for each in the data. The empirical skewness of employment growth, industrial production growth, and stock returns increases with the level of aggregation, which is consistent with the model's implication that it is the nonlinearity in the production structure of the economy that generates the skewness. Other prominent models of asymmetry are not able to simultaneously match the range of empirical facts that the production network model can.",
+          "link": "https://www.nber.org/papers/w29499#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.056Z",
+          "wordCount": 857,
+          "title": "Skewness and Time-Varying Second Moments in a Nonlinear Production Network: Theory and Evidence -- by Ian Dew-Becker, Alireza Tahbaz-Salehi, Andrea Vedolin"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29504#fromrss",
+          "author": null,
+          "description": "This paper proposes a new measure of technological obsolescence using detailed patent data. Using this measure, we present two sets of results. First, firms' technological obsolescence foreshadows substantially lower growth, productivity, and reallocation of capital. This finding applies mainly for obsolescence of core innovation and embodied innovation, and it is stronger in competitive product markets. Second, in stock markets, high-obsolescence firms under-perform low-obsolescence firms by 7 percent annually. Using analyst forecast data, we show this is due to a systematic overestimation of future profits of obsolescent firms. The measure contains incremental information about firm innovation relative to measures focusing on new innovation.",
+          "link": "https://www.nber.org/papers/w29504#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.046Z",
+          "wordCount": 926,
+          "title": "Technological Obsolescence -- by Song Ma"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29505#fromrss",
+          "author": null,
+          "description": "I study unemployment insurance (UI) in general equilibrium with incomplete markets, search frictions, and nominal rigidities.  An increase in generosity raises the aggregate demand for consumption if the unemployed have a higher marginal propensity to consume (MPC) than the employed or if agents precautionary save in light of future income risk.  This raises output and employment unless monetary policy raises the nominal interest rate.  In an analysis of the U.S. economy over 2008-2014, UI benefit extensions had a contemporaneous output multiplier around 1 or higher.  The unemployment rate would have been as much as 0.4pp higher absent these extensions.",
+          "link": "https://www.nber.org/papers/w29505#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.024Z",
+          "wordCount": 830,
+          "title": "Unemployment Insurance in Macroeconomic Stabilization -- by Rohan Kekre"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29510#fromrss",
+          "author": null,
+          "description": "Future electricity systems with tight constraints on carbon emissions will rely much more on wind and solar generation, with zero marginal cost, than today. We use capacity expansion modelling of Texas in 2050 to illustrate wholesale price distributions in future energy-only, carbon-constrained grids without price caps under a range of technology/system assumptions. Tightening carbon emissions constraints dramatically increases the frequency of very low prices. The frequency of high prices also increases, and all resources earn the bulk of their energy market revenues in relatively few hours. The presence of demand response, long-duration energy storage, dispatchable low-carbon generation, or a robust market for hydrogen for non-electricity use (and for energy storage) weakens but does not undo these results. Financial instruments to hedge price volatility will consequently be more costly and it is likely that we will need to redesign capacity remuneration mechanisms to provide adequate incentives for optimal investment in VRE generation and, particularly, storage. In order to encourage economy-wide electrification, the marginal retail price of electricity should be low whenever the wholesale price is low.  With automated control of demand via demand response contracts, the risks of price volatility faced by retail customers can be mitigated without sacrificing efficiency. To encourage economy-wide electrification, the marginal retail price of electricity should be low when the wholesale spot price is low. We discuss ways of reducing consumers’ risk in this world while providing adequate investment incentives.",
+          "link": "https://www.nber.org/papers/w29510#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.013Z",
+          "wordCount": 1023,
+          "title": "Electricity Price Distributions in Future Renewables-Dominant Power Grids and Policy Implications -- by Dharik S. Mallapragada, Cristian Junge, Cathy Xun Wang, Johannes Pfeifenberger, Paul L. Joskow, Richard Schmalensee"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29501#fromrss",
+          "author": null,
+          "description": "In this paper, we study the interplay between sovereign risk and global financial risk. We show that a substantial portion of the comovement among sovereign spreads is accounted for by changes in global financial risk. We construct bond-level sovereign spreads for dollar-denominated bonds issued by over 50 countries from 1995 to 2020 and use various indicators to measure global financial risk. Through panel regressions and local projection analysis, we find that an increase in global financial risk causes a large and persistent widening of sovereign bond spreads. These effects are strongest when measuring global risk using the excess bond premium – a measure of the risk-bearing capacity of U.S. financial intermediaries. The spillover effects of global financial risk are more pronounced for speculative-grade sovereign bonds.",
+          "link": "https://www.nber.org/papers/w29501#fromrss",
+          "publishedOn": "2021-11-24T15:06:37.001Z",
+          "wordCount": 878,
+          "title": "Sovereign Risk and Financial Risk -- by Simon Gilchrist, Bin Wei, Vivian Z. Yue, Egon Zakrajšek"
         },
         {
           "id": "https://www.nber.org/papers/w29496#fromrss",
           "author": null,
           "description": "We document a new fact: in U.S., European and Japanese surveys, households do not expect deflation, even in environments where persistent deflation is a strong possibility. This fact stands in contrast to the standard macroeconomic models with rational expectations. We extend a standard New Keynesian model with a zero-lower bound on inflation expectations. Unconventional monetary policies, such as forward guidance, are weaker. In liquidity traps, the government spending output multiplier is finite, and adverse aggregate supply shocks are not expansionary. The possibility of confidence-driven liquidity traps is attenuated.",
           "link": "https://www.nber.org/papers/w29496#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.621Z",
+          "publishedOn": "2021-11-24T15:06:36.979Z",
           "wordCount": 790,
           "title": "Zero Lower Bound on Inflation Expectations -- by Yuriy Gorodnichenko, Dmitriy Sergeyev"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29491#fromrss",
-          "author": null,
-          "description": "We study the relative effectiveness of administrative regulations, criminal enforcement, and civil lawsuits for combatting health care fraud. Between 2003 and 2017, Medicare spent $7.7 billion on 37.5 million regularly scheduled, non-emergency ambulance rides for patients traveling to and from dialysis facilities, with dozens of lawsuits alleging that Medicare reimbursed rides for patients who did not meet the requirements for receiving one. Using a novel data set and an identification strategy based on the staggered timing of regulations and lawsuits across the United States, we find that a regulation requiring prior authorization for ambulance reimbursements reduced spending much more than criminal and civil lawsuits did. Despite the sharp drop in both ambulance transports and the companies that provide them following prior authorization, patients’ health outcomes did not change, indicating that most rides were not medically necessary. Our results suggest that administrative actions have a much larger impact than targeted criminal enforcement, providing novel evidence that regulations may be more cost-effective than ex post ligation for preventing health care fraud.",
-          "link": "https://www.nber.org/papers/w29491#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.594Z",
-          "wordCount": 975,
-          "title": "Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud -- by Paul J. Eliason, Riley J. League, Jetson Leder-Luis, Ryan C. McDevitt, James W. Roberts"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29493#fromrss",
-          "author": null,
-          "description": "The increased popularity of college Grade Forgiveness policies, which allow students to retake classes and substitute the new grades for the previous grades in their GPA calculations, is controversial yet understudied. Our paper is the first to ask whether such policies benefit students and how. To answer these questions, we use student-level admissions and transcript data from a four-year public institution in the U.S. that underwent two major changes in its GPA policy. We find that Grade Forgiveness significantly incentivizes students, especially students with the strongest academic preparation, to take STEM courses and challenging courses and to enroll in more credits. The increased variations in within-term grades suggest that students may change their effort allocations between courses taken in the same semester and spend more effort on courses that promise a higher grade in return. We also find that repeaters whose first attempted grades are forgiven are more likely to persist in the failed subject and obtain better grades subsequently. Finally, we see an increase in graduation in STEM majors for students who were intensively exposed to this policy.",
-          "link": "https://www.nber.org/papers/w29493#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.580Z",
-          "wordCount": 877,
-          "title": "A Second Chance at Success? Effects of College Grade Forgiveness Policies on Student Outcomes -- by Xuan Jiang, Kelly Chen, Zeynep K. Hansen, Scott Lowe"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29487#fromrss",
-          "author": null,
-          "description": "Using a unique combination of datasets and estimation techniques, we test whether private lease negotiations to extract oil and natural gas exhibit features of Coasian efficiency. We demonstrate that measures of wealth (including income, house square footage, and land acreage), typically determinants of willingness to pay for environmental quality, do affect bargaining outcomes. However, race, ethnicity, and language also play important roles after conditioning upon these variables, suggesting an environmental injustice and a breakdown of efficient Coasian bargaining. We further demonstrate that failure to negotiate protections in leases leads to increased risk of future drilling violations, which are not offset by local ordinance restrictions.",
-          "link": "https://www.nber.org/papers/w29487#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.568Z",
-          "wordCount": 881,
-          "title": "Environmental Justice and Coasian Bargaining: The Role of Race and Income in Lease Negotiations for Shale Gas -- by Christopher Timmins, Ashley Vissing"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29488#fromrss",
-          "author": null,
-          "description": "Using newly assembled data on foreign exchange market intervention, we construct a daily index of exchange market pressure during the 1992-3 crisis in the European Monetary System, allowing us to pinpoint when and where the crisis was most severe. Our analysis focuses on a neglected factor in the crisis: the role of the weak dollar in intra-EMS tensions. We provide new evidence of the contribution of a falling dollar-Deutschmark exchange rate to pressure on EMS currencies.",
-          "link": "https://www.nber.org/papers/w29488#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.541Z",
-          "wordCount": 928,
-          "title": "Imported or Home Grown? The 1992-3 EMS Crisis -- by Barry Eichengreen, Alain Naef"
         },
         {
           "id": "https://www.nber.org/papers/w29492#fromrss",
           "author": null,
           "description": "Although economic theory suggests that the federal government can influence spending by states through subsidies to programs that states operate, no recent work has quantified the magnitude of this effect for Medicaid, the largest program of this type in the U.S. We find that Medicaid spending per enrollee responds to the magnitude of the federal subsidy. The Affordable Care Act (ACA) and its subsequent interpretation by the Supreme Court gave states the option to expand eligibility for their Medicaid programs in exchange for increases in the generosity of the federal subsidy. States that exercised this option increased Medicaid spending per enrollee on enrollees who were eligible even before the ACA by approximately 15 percent. Depending on the specification, this translates into an elasticity of Medicaid spending per enrollee with respect to the after-subsidy price of Medicaid to a state of -0.494 to -0.579.",
           "link": "https://www.nber.org/papers/w29492#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.528Z",
+          "publishedOn": "2021-11-24T15:06:36.965Z",
           "wordCount": 853,
           "title": "The Responsiveness of Medicaid Spending to the Federal Subsidy -- by M. Kate Bundorf, Daniel P. Kessler"
         },
@@ -712,16 +658,70 @@
           "author": null,
           "description": "In this paper, I discuss the implications for emerging countries of the adoption of central bank digital currencies (CBDCs) in advanced jurisdictions, such as the United States, the United Kingdom, and the Euro Zone. The analysis identifies benefits as well as costs. Among the former, one of the most important is lower costs for migrants’ remittances. Some of the costs of global CBDCs are associated with currency substitution, sudden currency depreciations, and lower seigniorage. At the global level, a smooth rollout of CBDCs in center countries requires international coordination. In addition, emerging countries will benefit from the implementation of stronger macroprudential regulations",
           "link": "https://www.nber.org/papers/w29489#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.499Z",
+          "publishedOn": "2021-11-24T15:06:36.910Z",
           "wordCount": 845,
           "title": "Central Bank Digital Currencies and The Emerging Markets: The Currency Substitution Challenge -- by Sebastian Edwards"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29487#fromrss",
+          "author": null,
+          "description": "Using a unique combination of datasets and estimation techniques, we test whether private lease negotiations to extract oil and natural gas exhibit features of Coasian efficiency. We demonstrate that measures of wealth (including income, house square footage, and land acreage), typically determinants of willingness to pay for environmental quality, do affect bargaining outcomes. However, race, ethnicity, and language also play important roles after conditioning upon these variables, suggesting an environmental injustice and a breakdown of efficient Coasian bargaining. We further demonstrate that failure to negotiate protections in leases leads to increased risk of future drilling violations, which are not offset by local ordinance restrictions.",
+          "link": "https://www.nber.org/papers/w29487#fromrss",
+          "publishedOn": "2021-11-24T15:06:36.893Z",
+          "wordCount": 881,
+          "title": "Environmental Justice and Coasian Bargaining: The Role of Race and Income in Lease Negotiations for Shale Gas -- by Christopher Timmins, Ashley Vissing"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29488#fromrss",
+          "author": null,
+          "description": "Using newly assembled data on foreign exchange market intervention, we construct a daily index of exchange market pressure during the 1992-3 crisis in the European Monetary System, allowing us to pinpoint when and where the crisis was most severe. Our analysis focuses on a neglected factor in the crisis: the role of the weak dollar in intra-EMS tensions. We provide new evidence of the contribution of a falling dollar-Deutschmark exchange rate to pressure on EMS currencies.",
+          "link": "https://www.nber.org/papers/w29488#fromrss",
+          "publishedOn": "2021-11-24T15:06:36.870Z",
+          "wordCount": 928,
+          "title": "Imported or Home Grown? The 1992-3 EMS Crisis -- by Barry Eichengreen, Alain Naef"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29493#fromrss",
+          "author": null,
+          "description": "The increased popularity of college Grade Forgiveness policies, which allow students to retake classes and substitute the new grades for the previous grades in their GPA calculations, is controversial yet understudied. Our paper is the first to ask whether such policies benefit students and how. To answer these questions, we use student-level admissions and transcript data from a four-year public institution in the U.S. that underwent two major changes in its GPA policy. We find that Grade Forgiveness significantly incentivizes students, especially students with the strongest academic preparation, to take STEM courses and challenging courses and to enroll in more credits. The increased variations in within-term grades suggest that students may change their effort allocations between courses taken in the same semester and spend more effort on courses that promise a higher grade in return. We also find that repeaters whose first attempted grades are forgiven are more likely to persist in the failed subject and obtain better grades subsequently. Finally, we see an increase in graduation in STEM majors for students who were intensively exposed to this policy.",
+          "link": "https://www.nber.org/papers/w29493#fromrss",
+          "publishedOn": "2021-11-24T15:06:36.859Z",
+          "wordCount": 877,
+          "title": "A Second Chance at Success? Effects of College Grade Forgiveness Policies on Student Outcomes -- by Xuan Jiang, Kelly Chen, Zeynep K. Hansen, Scott Lowe"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29495#fromrss",
+          "author": null,
+          "description": "Forecasts of professional forecasters are anomalous: they are biased, forecast errors are autocorrelated, and forecast revisions predict forecast errors. Sticky or noisy information models seem like unlikely explanations for these anomalies: professional forecasters pay attention constantly and have precise knowledge of the data in question. We propose that these anomalies arise because professional forecasters don’t know the model that generates the data. We show that Bayesian agents learning about hard-to-learn features of the data generating process (low frequency behavior) can generate all the prominent aggregate anomalies emphasized in the literature. We show this for two applications: professional forecasts of nominal interest rates for the sample period 1980-2019 and CBO forecasts of GDP growth for the sample period 1976- 2019. Our learning model for interest rates also provides an explanation for deviations from the expectations hypothesis of the term structure that does not rely on time-variation in risk premia.",
+          "link": "https://www.nber.org/papers/w29495#fromrss",
+          "publishedOn": "2021-11-24T15:06:36.848Z",
+          "wordCount": 892,
+          "title": "Learning About the Long Run -- by Leland Farmer, Emi Nakamura, Jón Steinsson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29503#fromrss",
+          "author": null,
+          "description": "Accurately determining the number of excess deaths caused by the COVID-19 pandemic is hard. The most important challenge is accurately estimating the counterfactual count of baseline deaths that would have occurred in its absence. This analysis used new methods to: estimate this baseline metric; calculate excess deaths during the first year of the U.S. COVID-19 pandemic; and examine plausibility of the excess death estimates obtained in this and prior analyses. Total, group-specific and cause-specific excess deaths in the U.S. from March 2020 through February 2021 were calculated using publicly available data covering all deaths from March 2009 through December 2019 and provisional data from January 2020 through February 2021. The estimates indicate that there were 646,514 (95% CI: 597,514 to 695,520) excess deaths in the U.S. during this period, with 83.4% (95% CI: 77.5% - 90.2%) of these attributed directly to COVID-19. There were substantial differences across population groups and causes in the ratio of actual-to-baseline deaths, and in the contribution of COVID-19 to excess mortality. Prior research has frequently underestimated baseline deaths and so has overstated excess mortality and the percentage of it attributed to non-COVID-19 causes.",
+          "link": "https://www.nber.org/papers/w29503#fromrss",
+          "publishedOn": "2021-11-24T15:06:36.829Z",
+          "wordCount": 934,
+          "title": "Excess Deaths in the United States During the First Year of COVID-19 -- by Christopher J. Ruhm"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29491#fromrss",
+          "author": null,
+          "description": "We study the relative effectiveness of administrative regulations, criminal enforcement, and civil lawsuits for combatting health care fraud. Between 2003 and 2017, Medicare spent $7.7 billion on 37.5 million regularly scheduled, non-emergency ambulance rides for patients traveling to and from dialysis facilities, with dozens of lawsuits alleging that Medicare reimbursed rides for patients who did not meet the requirements for receiving one. Using a novel data set and an identification strategy based on the staggered timing of regulations and lawsuits across the United States, we find that a regulation requiring prior authorization for ambulance reimbursements reduced spending much more than criminal and civil lawsuits did. Despite the sharp drop in both ambulance transports and the companies that provide them following prior authorization, patients’ health outcomes did not change, indicating that most rides were not medically necessary. Our results suggest that administrative actions have a much larger impact than targeted criminal enforcement, providing novel evidence that regulations may be more cost-effective than ex post ligation for preventing health care fraud.",
+          "link": "https://www.nber.org/papers/w29491#fromrss",
+          "publishedOn": "2021-11-24T15:06:36.755Z",
+          "wordCount": 975,
+          "title": "Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud -- by Paul J. Eliason, Riley J. League, Jetson Leder-Luis, Ryan C. McDevitt, James W. Roberts"
         },
         {
           "id": "https://www.nber.org/papers/w29490#fromrss",
           "author": null,
           "description": "In a broad class of sticky price models the non-neutrality of nominal shocks is encoded by a simple sufficient statistic: the ratio of the kurtosis of the size-distribution of price changes over the frequency of price changes. We test this theoretical prediction using data for a large number of firms representative of the French economy. We use the micro data to measure the cross sectional moments, including kurtosis and frequency, for about 120 PPI industries and 220 CPI categories. We use a Factor Augmented VAR to measure the sectoral responses to a monetary shock, as summarized by the cumulative impulse response of sectoral prices (CIRP ), under three alternative identification schemes. The estimated CIRP correlates with the kurtosis and the frequency consistently with the prediction of the theory (i.e. they enter the relationship as a ratio). The analysis also shows that other moments not suggested by the theory, such as the mean, standard deviation and skewness of the size-distribution of price changes, are not correlated with the CIR . Several robustness checks are discussed",
           "link": "https://www.nber.org/papers/w29490#fromrss",
-          "publishedOn": "2021-11-24T12:08:02.475Z",
+          "publishedOn": "2021-11-24T15:06:36.730Z",
           "wordCount": 1206,
           "title": "Empirical Investigation of a Sufficient Statistic for Monetary Shocks -- by Fernando E. Alvarez, Andrea Ferrara, Erwan Gautier, Hervé Le Bihan, Francesco Lippi"
         }
@@ -732,6 +732,15 @@
       "feedUrl": "https://www.aeaweb.org/research/rss-feed",
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
+        {
+          "id": "https://www.aeaweb.org/research/rising-geographic-disparities-us-mortality",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "In the 1980s, life expectancy in low-income US states started falling behind the rest of the country, according to a paper in the Journal of Economic Perspectives. We spoke with  authors Christopher Foote and Ellen Meara to understand the potential drivers behind this worrisome trend.",
+          "link": "https://www.aeaweb.org/research/rising-geographic-disparities-us-mortality",
+          "publishedOn": "2021-11-24T15:00:00.000Z",
+          "wordCount": 1380,
+          "title": "Divergences in life expectancy across US states"
+        },
         {
           "id": "https://www.aeaweb.org/research/charts/redistribution-support-low-income",
           "author": "Chris Fleisher (research.highlights@aeapubs.org)",
@@ -846,12 +855,30 @@
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
         {
+          "id": "http://www.calculatedriskblog.com/2021/11/weekly-initial-unemployment-claims_24.html",
+          "author": null,
+          "description": "The DOL reported:\nIn the week ending November 20, the advance figure for seasonally adjusted initial claims was 199,000, a decrease of  71,000 from the previous week's revised level. This is the lowest level for initial claims since November 15, 1969 when  it was 197,000. The previous week's level was revised up by 2,000 from 268,000 to 270,000. The 4-week moving  average was 252,250, a decrease of 21,000 from the previous week's revised average. This is the lowest level for this  average since March 14, 2020 when it was 225,500. The previous week's average was revised up by 500 from 272,750 to  273,250.\nemphasis added\nThe following graph shows the 4-week moving average of weekly claims since 1971.\nClick on graph for larger image.\nThe dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims decreased to 252,250.\nThe previous week was revised up.\nRegular state continued claims decreased to 2,049,000 (SA) from 2,109,000 (SA) the previous week.\nWeekly claims were well below the consensus forecast.",
+          "link": "http://www.calculatedriskblog.com/2021/11/weekly-initial-unemployment-claims_24.html",
+          "publishedOn": "2021-11-24T13:37:00.005Z",
+          "wordCount": 989,
+          "title": "Weekly Initial Unemployment Claims Decrease to 199,000"
+        },
+        {
+          "id": "http://www.calculatedriskblog.com/2021/11/q3-gdp-growth-revised-up-to-21-annual.html",
+          "author": null,
+          "description": "From the BEA: Gross Domestic Product, Third Quarter 2021 (Second Estimate); Corporate Profits, Third Quarter 2021 (Preliminary Estimate)\nReal gross domestic product (GDP) increased at an annual rate of 2.1 percent in the third quarter of 2021, according to the \"second\" estimate released by the Bureau of Economic Analysis. In the second quarter, real GDP increased 6.7 percent.\nThe GDP estimate released today is based on more complete source data than were available for the \"advance\" estimate issued last month. In the advance estimate, the increase in real GDP was 2.0 percent. The update primarily reflects upward revisions to personal consumption expenditures (PCE) and private inventory investment.\nemphasis added\nHere is a Comparison of Second and Advance Estimates.  PCE growth was revised up from 1.6% to 1.7%. Residential investment was revised down from -7.7% to -8.3%. This was at the consensus forecast.",
+          "link": "http://www.calculatedriskblog.com/2021/11/q3-gdp-growth-revised-up-to-21-annual.html",
+          "publishedOn": "2021-11-24T13:33:00.000Z",
+          "wordCount": 965,
+          "title": "Q3 GDP Growth Revised up to 2.1% Annual Rate"
+        },
+        {
           "id": "http://www.calculatedriskblog.com/2021/11/mba-mortgage-applications-increase-in_0431141170.html",
           "author": null,
           "description": "From the MBA: Mortgage Applications Increase in Latest MBA Weekly Survey\nMortgage applications increased 1.8 percent from one  week earlier, according to data from the Mortgage Bankers Association’s (MBA) Weekly Mortgage  Applications Survey for the week ending November 19, 2021.\n... The Refinance Index increased 0.4 percent from the previous  week and was 34 percent lower than the same week one year ago. The seasonally adjusted Purchase  Index increased 5 percent from one week earlier. The unadjusted Purchase Index decreased 0.4 percent compared with the previous week and was 4 percent lower than the same week one year ago.\n  \n“The financial markets continue to discern the Federal Reserve’s policy path in the coming months in light  of the current high growth, high inflation environment. …",
           "link": "http://www.calculatedriskblog.com/2021/11/mba-mortgage-applications-increase-in_0431141170.html",
           "publishedOn": "2021-11-24T12:00:00.001Z",
-          "wordCount": 1190,
+          "wordCount": 1194,
           "title": "MBA: Mortgage Applications Increase in Latest Weekly Survey"
         },
         {
@@ -860,7 +887,7 @@
           "description": "Wednesday:\n• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.\n• At 8:30 AM, The initial weekly unemployment claims report will be released.  The consensus is for 270 thousand initial claims, up from 268 thousand last week.\n• Also at 8:30 AM, Gross Domestic Product, 3nd quarter 2020 (Second estimate). The consensus is that real GDP increased 2.1% annualized in Q3, up from 2.0% in the advance estimate of GDP.\n• Also at 8:30 AM, Durable Goods Orders for October from the Census Bureau. The consensus is for a 0.2% increase in durable goods orders.\n• At 10:00 AM, Personal Income and Outlays for October.  The consensus is for a 0.2% increase in personal income, and for a 1.0% increase in personal spending.  And for the Core PCE price index to increase 0.4%.\n• Also at 10:00 AM, New Home Sales for October from the Census Bureau. The consensus is for 801 thousand SAAR, up from 800 thousand in September.\n• At 10:00 AM, University of Michigan's Consumer sentiment index (Final for November). The consensus is for a reading of 66.8.\n• At 2:00 PM, FOMC Minutes, Meeting of November 2-3, 2021",
           "link": "http://www.calculatedriskblog.com/2021/11/wednesday-new-home-sales-gdp.html",
           "publishedOn": "2021-11-24T02:00:00.001Z",
-          "wordCount": 1032,
+          "wordCount": 1034,
           "title": "Wednesday: New Home Sales, GDP, Unemployment Claims, Personal Income & Outlays and More"
         },
         {
@@ -869,7 +896,7 @@
           "description": "Freddie Mac reported that the Single-Family serious delinquency rate in October was 1.32%, down from 1.46% in September.  Freddie's rate is down year-over-year from 2.89% in October 2020.\nFreddie's serious delinquency rate peaked in February 2010 at 4.20% following the housing bubble, and peaked at 3.17% in August 2020 during the pandemic.\nThese are mortgage loans that are \"three monthly payments or more past due or in foreclosure\".\nClick on graph for larger image\nMortgages in forbearance are being counted as delinquent in this monthly report, but they will not be reported to the credit bureaus.\nThis is very different from the increase in delinquencies following the housing bubble.   Lending standards have been fairly solid over the last decade, and most of these homeowners have equity in their homes - and they will be able to restructure their loans once (if) they are employed.\nAlso - for multifamily - delinquencies were at 0.10%, down from the peak of 0.20% in April 2021.",
           "link": "http://www.calculatedriskblog.com/2021/11/freddie-mac-mortgage-serious.html",
           "publishedOn": "2021-11-23T22:43:00.000Z",
-          "wordCount": 983,
+          "wordCount": 985,
           "title": "Freddie Mac: Mortgage Serious Delinquency Rate decreased in October"
         },
         {
@@ -878,7 +905,7 @@
           "description": "The CDC is the source for all data.\n\n\nAccording to the CDC, on Vaccinations.  Total doses administered: 452,704,982.\n\n\n\nCOVID Metrics\n  \n TodayWeek\nAgoGoal\n Percent fully Vaccinated59.0%---≥70.0%1\n Fully Vaccinated (millions)196.0---≥2321\n  \nNew Cases per Day3🚩93,66884,051≤5,0002\n  \nHospitalized3🚩42,84140,688≤3,0002\n  \nDeaths per Day31,0091,032≤502\n  \n1 Minimum to achieve \"herd immunity\" (estimated between 70% and 85%).\n2my goals to stop daily posts,\n37-day average for Cases, Currently Hospitalized, and Deaths\n🚩 Increasing 7-day average week-over-week for Cases, Hospitalized, and Deaths     \n✅ Goal met.\n  \n\nIMPORTANT: For \"herd immunity\" most experts believe we need 70% to 85% of the total population fully vaccinated (or already had COVID).  Note: COVID will probably stay endemic (at least for some time).\n\n\nKUDOS to the residents of the 5 states that have achieved 70% of total population fully vaccinated: Vermont at 72.6%, Rhode Island, Connecticut, Maine, and Massachusetts at 70.8%.\n\n\nKUDOS also to the residents of the 16 states and D.C. that have achieved 60% of total population fully vaccinated: New York at 68.1%, New Jersey, Maryland, Washington, Virginia, New Hampshire, Oregon, District of Columbia, New Mexico, Colorado, California, Minnesota, Pennsylvania, Illinois, Delaware, Florida, and Hawaii at 60.7%.\n\nThe following 19 states have between 50% and 59.9% fully vaccinated: Wisconsin at 59.3%, Nebraska, Iowa, Utah, Michigan, Texas, Kansas, Arizona, Nevada, South Dakota, North Carolina, Alaska, Ohio, Kentucky, Montana, Oklahoma, South Carolina, Missouri and Indiana at 50.5%.\n\nNext up (total population, fully vaccinated according to CDC) are Georgia at 49.3%, Tennessee at 49.3%, Arkansas at 49.0%, Louisiana at 48.6% and North Dakota at 48.6%.\n\nClick on graph for larger image.\nThis graph shows the daily (columns) and 7-day average (line) of positive tests reported.",
           "link": "http://www.calculatedriskblog.com/2021/11/november-23rd-covid-19-new-cases-and.html",
           "publishedOn": "2021-11-23T22:15:00.001Z",
-          "wordCount": 1080,
+          "wordCount": 1082,
           "title": "November 23rd COVID-19: New Cases and Hospitalizations Increasing"
         },
         {
@@ -887,7 +914,7 @@
           "description": "Today, in the Real Estate Newsletter: Final Look: Local Housing Markets in October\nExcerpt: \nHere is a summary of active listings for the housing markets that have reported in October. For these markets, inventory was down 5.9% in October MoM from September, and down 26.5% YoY.\nOf these markets, inventories in Jacksonville, Miami and San Diego are at record lows. Sacramento and Washington, D.C. are the only markets with inventory up YoY in October (Austin is essentially unchanged YoY).\nInventory almost always declines seasonally in October, so the MoM decline is not a surprise. Last month, these markets were down 24.5% YoY, so the YoY decline in October is larger than in September. This is not indicating a slowing market.\nIn California, the C.A.R. reported inventory was down 18.3% YoY, but this isn’t included in the table since C.A.R. doesn’t report monthly numbers.\n\nYou can subscribe at https://calculatedrisk.substack.com/ (Currently all content is available for free, but please subscribe).",
           "link": "http://www.calculatedriskblog.com/2021/11/final-look-local-housing-markets-in.html",
           "publishedOn": "2021-11-23T16:19:00.001Z",
-          "wordCount": 975,
+          "wordCount": 977,
           "title": "Final Look: Local Housing Markets in October"
         },
         {
@@ -896,7 +923,7 @@
           "description": "Last month, in the Real Estate Newsletter, I wrote: The Coming Deceleration in House Price Growth\nHere is an update to the graph:\nNot only is Case-Shiller released with a lag (the release next week will be for September, whereas the NAR release yesterday was for October), but the 3-month average means the September release will include sales in July and August too.\nAlthough median prices can be distorted by the mix, and repeat sales indexes (like Case-Shiller and the FHFA) are more accurate measures of house prices, the median price index might provide earlier hints on the direction of prices.\nClick on graph for larger image.\nThis graph - as of the NAR release in October 2020 (a year ago) - shows median prices started to take off, even though the most recent Case-Shiller report only showed a very modest pickup in prices.\n\nThis shows the lag in the Case-Shiller report.\nThe second graph - as of the NAR release yesterday - shows that Case-Shiller followed the median prices up, and that median prices are now falling.\n Note: the NAR YoY change in September 2021 was revised down, so there was a slight uptick in October prices YoY.\n\n\nThis suggests that Case-Shiller will start to show some deceleration later this year - but still be up solidly YoY.",
           "link": "http://www.calculatedriskblog.com/2021/11/update-coming-deceleration-in-house.html",
           "publishedOn": "2021-11-23T14:16:00.003Z",
-          "wordCount": 1036,
+          "wordCount": 1038,
           "title": "Update: The Coming Deceleration in House Price Growth"
         },
         {
@@ -905,7 +932,7 @@
           "description": "From Matthew Graham at Mortgage News Daily: Mortgage Rates Under Pressure After Powell Nomination and Bond Auctions\nMortgage rates began the new week on a bad note with the average lender full erasing the improvement seen on Friday.  This leaves many lenders at their highest levels since April, but in those cases, it should be noted that today's rates are extremely close to those seen in late October.  In other words, we're essentially back in line with the highest levels in more than 7 months. [30 year fixed 3.24%]\nemphasis added",
           "link": "http://www.calculatedriskblog.com/2021/11/mortgage-rates-under-pressure-after.html",
           "publishedOn": "2021-11-22T23:23:00.003Z",
-          "wordCount": 914,
+          "wordCount": 916,
           "title": "\"Mortgage Rates Under Pressure After Powell Nomination and Bond Auctions\""
         },
         {
@@ -914,7 +941,7 @@
           "description": "The CDC is the source for all data.\n\n\nAccording to the CDC, on Vaccinations.  Total doses administered: 452,657,967, as of a week ago 442,005,260, or 1.52 million doses per day.\n\n\n\nCOVID Metrics\n  \n TodayWeek\nAgoGoal\n Percent fully Vaccinated59.2%58.8%≥70.0%1\n Fully Vaccinated (millions)196.4195.3≥2321\n  \nNew Cases per Day3🚩91,02181,495≤5,0002\n  \nHospitalized3🚩40,75540,485≤3,0002\n  \nDeaths per Day39851,042≤502\n  \n1 Minimum to achieve \"herd immunity\" (estimated between 70% and 85%).\n2my goals to stop daily posts,\n37-day average for Cases, Currently Hospitalized, and Deaths\n🚩 Increasing 7-day average week-over-week for Cases, Hospitalized, and Deaths     \n✅ Goal met.\n  \n\nIMPORTANT: For \"herd immunity\" most experts believe we need 70% to 85% of the total population fully vaccinated (or already had COVID).  Note: COVID will probably stay endemic (at least for some time).\n\n\nKUDOS to the residents of the 5 states that have achieved 70% of total population fully vaccinated: Vermont at 72.6%, Rhode Island, Connecticut, Maine, and Massachusetts at 70.8%.\n\n\nKUDOS also to the residents of the 16 states and D.C. that have achieved 60% of total population fully vaccinated: New York at 68.1%, New Jersey, Maryland, Washington, Virginia, New Hampshire, Oregon, District of Columbia, New Mexico, Colorado, California, Minnesota, Pennsylvania, Illinois, Delaware, Florida, and Hawaii at 60.7%.\n\nThe following 19 states have between 50% and 59.9% fully vaccinated: Wisconsin at 59.3%, Nebraska, Iowa, Utah, Michigan, Texas, Kansas, Arizona, Nevada, South Dakota, North Carolina, Alaska, Ohio, Kentucky, Montana, Oklahoma, South Carolina, Missouri and Indiana at 50.5%.\n\nNext up (total population, fully vaccinated according to CDC) are Georgia at 49.3%, Tennessee at 49.2%, Arkansas at 49.0%, Louisiana at 48.6% and North Dakota at 48.4%.\n\nClick on graph for larger image.\nThis graph shows the daily (columns) and 7-day average (line) of positive tests reported.",
           "link": "http://www.calculatedriskblog.com/2021/11/november-22nd-covid-19-new-cases-and.html",
           "publishedOn": "2021-11-22T20:05:00.000Z",
-          "wordCount": 1092,
+          "wordCount": 1094,
           "title": "November 22nd COVID-19: New Cases and Hospitalizations Increasing"
         },
         {
@@ -923,7 +950,7 @@
           "description": "Today, in the Real Estate Newsletter: Existing-Home Sales Increased to 6.34 million in October\nExcerpt: \nSales in October (6.34 million SAAR) were up 0.8% from last month, and were 5.8% below the October 2020 sales rate.\nSome of the increase in sales since the beginning of the pandemic was probably related to record low mortgage rates, strong second home buying, a strong stock market and favorable demographics.\nAlso, the delay in the 2020 buying season pushed the seasonally adjusted number to very high levels over the winter.   This means there are going to be some difficult year-over-year (YoY) comparisons in the last quarter of 2021.\nThis graph shows existing home sales by month for 2020 and 2021.\n  This was the third month this year with sales down year-over-year. This should continue through the rest of the year, since sales averaged 6.7million SAAR over the last three months of 2020.\nYou can subscribe at https://calculatedrisk.substack.com/ (Currently all content is available for free, but please subscribe).",
           "link": "http://www.calculatedriskblog.com/2021/11/more-analysis-on-existing-home-sales.html",
           "publishedOn": "2021-11-22T15:35:00.000Z",
-          "wordCount": 978,
+          "wordCount": 980,
           "title": "More Analysis on Existing Home Sales"
         },
         {
@@ -932,7 +959,7 @@
           "description": "From the NAR: Existing-Home Sales Inch Up 0.8% in October\nExisting-home sales increased in October, marking two straight months of growth, according to the National Association of Realtors®. Two of the four major U.S. regions saw month-over-month sales climb, one region reported a drop and the fourth area held steady in October. On a year-over-year basis, each region witnessed sales decrease.\n  \nTotal existing-home sales, completed transactions that include single-family homes, townhomes, condominiums and co-ops, rose 0.8% from September to a seasonally adjusted annual rate of 6.34 million in October. Sales fell 5.8% from a year ago (6.73 million in October 2020).\n...\nTotal housing inventory at the end of October amounted to 1.25 million units, down 0.8% from September and down 12.0% from …",
           "link": "http://www.calculatedriskblog.com/2021/11/nar-existing-home-sales-increased-to.html",
           "publishedOn": "2021-11-22T15:11:00.003Z",
-          "wordCount": 1144,
+          "wordCount": 1146,
           "title": "NAR: Existing-Home Sales Increased to 6.34 million in October"
         },
         {
@@ -941,7 +968,7 @@
           "description": "Tracking existing home inventory will be very important this year.\nClick on graph for larger image in graph gallery.\nThis inventory graph is courtesy of Altos Research.\n\nAs of November 19th, inventory was at 385 thousand (7 day average), compared to 514 thousand for the same week a year ago.  That is a decline of 25.2%.\n\n\nCompared to the same week in 2019, inventory is down 56.1% from 877 thousand.  A week ago, inventory was at 394 thousand, and was down 25.0% YoY.   \n\n\nSeasonally, inventory bottomed in April (usually inventory bottoms in January or February). Inventory was about 26% above the record low in early April.\n\n\nInventory peaked for the year in early September.   Eleven weeks ago inventory was at 437 thousand (the peak for the year), so inventory is currently off about 12.0% from the peak for the year.  \n\n\nMike Simonsen discusses this data regularly on Youtube.  \n\n\nAltos Research has also seen a significant pickup in price decreases - now well above the level of a year ago - but still below a normal rate for November.",
           "link": "http://www.calculatedriskblog.com/2021/11/housing-inventory-nov-22nd-update.html",
           "publishedOn": "2021-11-22T14:46:00.003Z",
-          "wordCount": 996,
+          "wordCount": 998,
           "title": "Housing Inventory Nov 22nd Update: Inventory Down 2.3% Week-over-week"
         },
         {
@@ -950,7 +977,7 @@
           "description": "These indicators are mostly for travel and entertainment.    It is interesting to watch these sectors recover as the pandemic subsides.\n----- Airlines: Transportation Security Administration -----\nThe TSA is providing daily travel numbers.\nThis data is as of November 20th.\n Click on graph for larger image.\nThis data shows the 7-day average of daily total traveler throughput from the TSA for 2019 (Light Blue), 2020 (Blue) and 2021 (Red).\nThe dashed line is the percent of 2019 for the seven day average.\nThe 7-day average is down 14.3% from the same day in 2019 (85.7% of 2019).  (Dashed line)\n\n\nOverall, air travel had been off about 20% relative to 2019 for the last four months (with some ups and downs) - and picking up recently.\n  \n----- Restaurants: OpenTable -----\nThe second graph shows th…",
           "link": "http://www.calculatedriskblog.com/2021/11/seven-high-frequency-indicators-for_22.html",
           "publishedOn": "2021-11-22T13:35:00.001Z",
-          "wordCount": 1669,
+          "wordCount": 1671,
           "title": "Seven High Frequency Indicators for the Economy"
         },
         {
@@ -959,7 +986,7 @@
           "description": "Weekend:\n• Schedule for Week of November 21, 2021\nMonday:\n• At 8:30 AM ET: Chicago Fed National Activity Index for October.  This is a composite index of other data.\n• At 10:00 AM, Existing Home Sales for October from the National Association of Realtors (NAR).  The consensus is for 6.20 million SAAR, down from 6.29 million in September. Housing economist Tom Lawler expects the NAR to report 6.34 million SAAR.\nFrom CNBC: Pre-Market Data and Bloomberg futures S&P 500 are up 4 and DOW futures are up 50 (fair value).\nOil prices were down over the last week with WTI futures at $75.46\tper barrel and Brent at $78.29 per barrel.  A year ago, WTI was at $42, and Brent was at $44 - so WTI oil prices are up 80% year-over-year. \nHere is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally prices are at $3.39 per gallon.  A year ago prices were at $2.10 per gallon, so gasoline prices are up $1.29 per gallon year-over-year.",
           "link": "http://www.calculatedriskblog.com/2021/11/monday-existing-home-sales.html",
           "publishedOn": "2021-11-22T00:03:00.004Z",
-          "wordCount": 979,
+          "wordCount": 981,
           "title": "Monday: Existing Home Sales"
         },
         {
@@ -968,7 +995,7 @@
           "description": "Calling the beginning or end of a recession usually takes time.   However, the economic decline in March 2020 was so severe that the National Bureau of Economic Research (NBER) quickly called the end of the expansion in February.\nThe committee has determined that a peak in monthly economic activity occurred in the U.S. economy in February 2020. The peak marks the end of the expansion that began in June 2009 and the beginning of a recession. The expansion lasted 128 months, the longest in the history of U.S. business cycles dating back to 1854. The previous record was held by the business expansion that lasted for 120 months from March 1991 to March 2001.\n...\nThe usual definition of a recession involves a decline in economic activity that lasts more than a few months. However, in deciding w…",
           "link": "http://www.calculatedriskblog.com/2021/11/recession-measures-and-nber.html",
           "publishedOn": "2021-11-21T16:44:00.001Z",
-          "wordCount": 1547,
+          "wordCount": 1549,
           "title": "Recession Measures and NBER"
         },
         {
@@ -977,7 +1004,7 @@
           "description": "At the Calculated Risk Real Estate Newsletter this week: \n• The \"Household Conundrum\" And Early Read on Existing Home Sales in October\n• 5th Look at Local Housing Markets in October No Signs of Slowing\n• Housing Predictions: Guesses and the Data What could cause inventories to increase?\n• Most Housing Units Under Construction Since 1974 Housing Starts Decreased to 1.520 Million Annual Rate in October\n• October California Home Sales Sales Down 10.4% YoY. Active Listings down 18.3%\n• 4th Look at Local Housing Markets in October Adding Des Moines, Maryland, South Carolina, and Washington, D.C.\nThis is usually published several times a week, and provides more in-depth analysis of the housing market.\n\nThe blog will continue as always!\nYou can subscribe at https://calculatedrisk.substack.com/  Currently all content is available for free - and some will always be free - but please subscribe!.",
           "link": "http://www.calculatedriskblog.com/2021/11/real-estate-newsletter-articles-this_02021170278.html",
           "publishedOn": "2021-11-20T19:58:00.028Z",
-          "wordCount": 957,
+          "wordCount": 959,
           "title": "Real Estate Newsletter Articles this Week"
         },
         {
@@ -986,7 +1013,7 @@
           "description": "The key reports this week are October New Home sales, Existing Home sales, the second estimate of Q3 GDP, and Personal Income and Outlays for October.\nFor manufacturing, the Richmond Fed manufacturing survey will be released this week.\n----- Monday, November 22nd -----\n8:30 AM ET: Chicago Fed National Activity Index for October.  This is a composite index of other data.\n10:00 AM: Existing Home Sales for October from the National Association of Realtors (NAR).  The consensus is for 6.20 million SAAR, down from 6.29 million in September.\nThe graph shows existing home sales from 1994 through the report last month.\nHousing economist Tom Lawler expects the NAR to report 6.34 million SAAR.\n----- Tuesday, November 23rd -----\n10:00 AM: Richmond Fed Survey of Manufacturing Activity for November. \n-…",
           "link": "http://www.calculatedriskblog.com/2021/11/schedule-for-week-of-november-21-2021.html",
           "publishedOn": "2021-11-20T13:11:00.046Z",
-          "wordCount": 1186,
+          "wordCount": 1188,
           "title": "Schedule for Week of November 21, 2021"
         },
         {
@@ -995,7 +1022,7 @@
           "description": "Today, in the Real Estate Newsletter: The \"Household Conundrum\"\nExcerpt: \nHousing economist Tom Lawler discusses the “household conundrum” - why it is unclear how many households there are in the U.S..\n...\nOne of the challenges facing housing analysts in trying to assess the current and future state of the US housing market is the lack of timely and reliable estimates of the number of and characteristics of US households.  This challenge has become even more acute since the onset of the pandemic, as significant declines in response rates to government surveys of households have adversely affected the accuracy of already imperfect household estimates. The lack of reliable household data makes it difficult to assess how much of the astonishing strength in the housing market since the middle of last year has been related to “demographics,” as opposed to behavioral and preference changes associated with the pandemic and, more recently, the surge in investor purchases of single-family homes.\n...\nWhile HVS household estimates have always been volatile (partly related to the small sample size of the CPS), and have not matched decennial Census results, the estimates produced since the onset of the pandemic have been … well … ridiculous.  Below is a table of the HVS estimates of total and owner-occupied households.\nAs the table indicates, the number of households estimated from the HVS exploded upward following the onset of the pandemic, and the number of owner-occupied households rose by an astonishing and completely unbelievable amount.  And following that surge the HVS estimates of total households fell, and the number of owner-occupied households plummeted!\nYou can subscribe at https://calculatedrisk.substack.com/ (Currently all content is available for free, but please subscribe).",
           "link": "http://www.calculatedriskblog.com/2021/11/the-household-conundrum.html",
           "publishedOn": "2021-11-20T00:26:00.005Z",
-          "wordCount": 1087,
+          "wordCount": 1089,
           "title": "The \"Household Conundrum\""
         },
         {
@@ -1004,7 +1031,7 @@
           "description": "The CDC is the source for all data.\n\n\nAccording to the CDC, on Vaccinations.  Total doses administered: 448,155,906, as of a week ago 437,352,000, or 1.54 million doses per day.\n\n\n\nCOVID Metrics\n  \n TodayWeek\nAgoGoal\n Percent fully Vaccinated59.0%58.7%≥70.0%1\n Fully Vaccinated (millions)195.9194.7≥2321\n  \nNew Cases per Day3🚩94,26073,366≤5,0002\n  \nHospitalized3🚩40,57940,221≤3,0002\n  \nDeaths per Day3🚩1,0691,024≤502\n  \n1 Minimum to achieve \"herd immunity\" (estimated between 70% and 85%).\n2my goals to stop daily posts,\n37 day average for Cases, Currently Hospitalized, and Deaths\n🚩 Increasing 7 day average week-over-week for Cases, Hospitalized, and Deaths     \n✅ Goal met.\n  \n\nIMPORTANT: For \"herd immunity\" most experts believe we need 70% to 85% of the total population fully vaccinated (or already had COVID).  Note: COVID will probably stay endemic (at least for some time).\n\n\nKUDOS to the residents of the 5 states that have achieved 70% of total population fully vaccinated: Vermont at 72.4%, Rhode Island, Connecticut, Maine, and Massachusetts at 70.6% .\n\n\nKUDOS also to the residents of the 16 states and D.C. that have achieved 60% of total population fully vaccinated: New York at 67.9%, New Jersey, Maryland, Washington, Virginia, New Hampshire, Oregon, District of Columbia, New Mexico, Colorado, California, Minnesota, Pennsylvania,  Illinois, Delaware, Florida, and Hawaii at 60.6%.\n\nThe following 19 states have between 50% and 59.9% fully vaccinated: Wisconsin at 59.1%, Nebraska, Iowa, Utah, Michigan, Texas, Kansas, Arizona, Nevada, South Dakota, North Carolina, Alaska, Ohio, Kentucky, Montana, Oklahoma, South Carolina, Missouri and Indiana at 50.4%.\n\nNext up (total population, fully vaccinated according to CDC) are Tennessee at 49.2%, Georgia at 49.1%, Arkansas at 48.9%, Louisiana at 48.5% and North Dakota at 48.4%.\n\nClick on graph for larger image.\nThis graph shows the daily (columns) and 7 day average (line) of positive tests reported.",
           "link": "http://www.calculatedriskblog.com/2021/11/november-19th-covid-19-new-cases.html",
           "publishedOn": "2021-11-20T00:19:00.003Z",
-          "wordCount": 1094,
+          "wordCount": 1096,
           "title": "November 19th COVID-19: New Cases Increasing Rapidly"
         },
         {
@@ -1013,7 +1040,7 @@
           "description": "From housing economist Tom Lawler:\nBased on publicly-available local realtor/MLS reports released across the country through today, I project that existing home sales as estimated by the National Association of Realtors ran at a seasonally adjusted annual rate of 6.34 million in October, up 0.8% from September’s preliminary pace and down 5.8% from last October’s seasonally adjusted   pace. Unadjusted sales should show a larger YOY decline, reflecting this October’s lower business day count relative to last October’s.\nLocal realtor reports, as well as reports from national inventory trackers, suggest that the YOY decline in the inventory of existing homes for sale was slightly larger than was the case in September.\nFinally, local realtor/MLS reports suggest the median existing single-family home sales price last month was up by about 12.9% from last October.\nCR Note: The National Association of Realtors (NAR) is scheduled to release October existing home sales on Monday, November 22, 2021 at 10:00 AM ET.  The consensus is for 6.20 million SAAR.   Take the over.\n\nNote that the NAR reported median prices were up 23.6% Year-over-year (YoY) in May, 23.4% in June, 17.8% in July, 14.9% in August and 13.3% in September. And it appears the YoY growth slowed a little more in October.",
           "link": "http://www.calculatedriskblog.com/2021/11/lawler-early-read-on-existing-home.html",
           "publishedOn": "2021-11-19T21:00:00.001Z",
-          "wordCount": 1026,
+          "wordCount": 1028,
           "title": "Lawler: Early Read on Existing Home Sales in October"
         },
         {
@@ -1022,7 +1049,7 @@
           "description": "Today, in the Real Estate Newsletter: 5th Look at Local Housing Markets in October\nExcerpt: \nThis is the fifth look at local markets in October. This update adds Alabama, Austin, Boston, Charlotte, Indiana, Minneapolis, Phoenix, and Rhode Island.\n...\nHere is a summary of active listings for the housing markets that have reported so far in October. For these markets, inventory was down 6.5% in October MoM from September, and down 24.1% YoY.\nOf the markets that have reported so far, inventories in Jacksonville and San Diego are at record lows. Sacramento and Washington, D.C. are the only markets so far with inventory up YoY in October (Austin is essentially unchanged YoY).\nInventory almost always declines seasonally in October, so the MoM decline is not a surprise. Last month, these markets were down 22.1% YoY, so the YoY decline in October is slightly larger than in September. This is not indicating a slowing market.\nIn California, the C.A.R. reported inventory was down 18.3% YoY, but this isn’t included in the table below since C.A.R. doesn’t report monthly numbers.\nYou can subscribe at https://calculatedrisk.substack.com/ (Currently all content is available for free, but please subscribe).",
           "link": "http://www.calculatedriskblog.com/2021/11/5th-look-at-local-housing-markets-in.html",
           "publishedOn": "2021-11-19T17:55:00.001Z",
-          "wordCount": 1011,
+          "wordCount": 1013,
           "title": "5th Look at Local Housing Markets in October"
         },
         {
@@ -1031,7 +1058,7 @@
           "description": "From BofA: \nWe continue to track 6% qoq saar for 4Q GDP growth. [November 19 estimate]\nemphasis added\nFrom Goldman Sachs\nWe left our Q4 GDP tracking estimate unchanged on a rounded basis at +5.0% (qoq ar). [November 17 estimate]\nAnd from the Altanta Fed: GDPNow\nThe GDPNow model estimate for real GDP growth (seasonally adjusted annual rate) in the fourth quarter of 2021 is 8.2 percent on November 17, down from 8.7 percent on November 16. [November 17 estimate]",
           "link": "http://www.calculatedriskblog.com/2021/11/q4-gdp-forecasts-around-5-to-6_19.html",
           "publishedOn": "2021-11-19T16:18:00.001Z",
-          "wordCount": 894,
+          "wordCount": 896,
           "title": "Q4 GDP Forecasts: Around 5% to 6%"
         },
         {
@@ -1040,7 +1067,7 @@
           "description": "This data is as of November 16th.\nFrom Andy Walden at Black Knight: Mid-November Forbearance Exits Low and Slow\nIn what has become a familiar pattern, the number of active forbearance plans held relatively steady entering the third week of November.\nAccording to our McDash Flash daily forbearance tracking dataset, the number of active forbearance plans increased by 2,000 (0.2%) this week. Modest declines among FHA/VA loans (-2,000) and GSE (-1,000) were offset by a 5,000 rise in plan volumes among portfolio and PLS mortgages as plan activity hit its lowest level since mid-August. Start volumes edged higher, driven by an increase in new plans among FHA/VA loans, which hit their highest level since early October.\nAs of November 16, 1.01 million mortgage holders remain in COVID-19 related forbearance plans, representing 1.9% of all active mortgages, including 1.2% of GSE, 3.1% of FHA/VA and 2.4% of portfolio held and privately securitized loans.\n  Click on graph for larger image.\n  \n  Overall, the number of forbearance plans is still down by 230,000 (-18%) from the same time last month, with the potential for additional improvements as we enter December. More than 200,000 plans remain with October/November reviews for extension/removal and nearly 300,000 more are slated for review in December – half of which are expected to be reaching their final expirations.\nemphasis added",
           "link": "http://www.calculatedriskblog.com/2021/11/black-knight-number-of-mortgages-in_19.html",
           "publishedOn": "2021-11-19T13:14:00.004Z",
-          "wordCount": 1041,
+          "wordCount": 1043,
           "title": "Black Knight: Number of Mortgages in Forbearance Increases Slightly"
         },
         {
@@ -1049,26 +1076,8 @@
           "description": "The CDC is the source for all data.\n\n\nAccording to the CDC, on Vaccinations.  Total doses administered: 446,250,342, as of a week ago 434,486,889, or 1.47 million doses per day.\n\n\n\nCOVID Metrics\n  \n TodayWeek\nAgoGoal\n Percent fully Vaccinated58.9%58.5%≥70.0%1\n Fully Vaccinated (millions)195.7194.4≥2321\n  \nNew Cases per Day3🚩88,48276,223≤5,0002\n  \nHospitalized3🚩40,57940,221≤3,0002\n  \nDeaths per Day31,0321,057≤502\n  \n1 Minimum to achieve \"herd immunity\" (estimated between 70% and 85%).\n2my goals to stop daily posts,\n37 day average for Cases, Currently Hospitalized, and Deaths\n🚩 Increasing 7 day average week-over-week for Cases, Hospitalized, and Deaths     \n✅ Goal met.\n  \n\nIMPORTANT: For \"herd immunity\" most experts believe we need 70% to 85% of the total population fully vaccinated (or already had COVID).  Note: COVID will probably stay endemic (at least for some time).\n\n\nKUDOS to the residents of the 5 states that have achieved 70% of total population fully vaccinated: Vermont at 72.2%, Rhode Island, Connecticut, Maine, and Massachusetts at 70.6% .\n\n\nKUDOS also to the residents of the 16 states and D.C. that have achieved 60% of total population fully vaccinated: New York at 67.8%, New Jersey, Maryland, Washington, Virginia, New Hampshire, Oregon, District of Columbia, New Mexico, Colorado, California, Minnesota, Pennsylvania,  Illinois, Delaware, Florida, and Hawaii at 60.5%.\n\nThe following 19 states have between 50% and 59.9% fully vaccinated: Wisconsin at 59.1%, Nebraska, Iowa, Utah, Michigan, Texas, Kansas, Arizona, Nevada, South Dakota, North Carolina, Alaska, Ohio, Kentucky, Montana, Oklahoma, South Carolina, Missouri and Indiana at 50.3%.\n\nNext up (total population, fully vaccinated according to CDC) are Tennessee at 49.1%, Georgia at 49.1%, Arkansas at 48.8%, Louisiana at 48.4% and North Dakota at 48.3%.\n\nClick on graph for larger image.\nThis graph shows the daily (columns) and 7 day average (line) of positive tests reported.",
           "link": "http://www.calculatedriskblog.com/2021/11/november-18th-covid-19-one-week-to.html",
           "publishedOn": "2021-11-19T01:18:00.001Z",
-          "wordCount": 1100,
+          "wordCount": 1102,
           "title": "November 18th COVID-19: One  Week to Thanksgiving with Disappointing Numbers"
-        },
-        {
-          "id": "http://www.calculatedriskblog.com/2021/11/la-area-port-traffic-solid-imports-weak.html",
-          "author": null,
-          "description": "Notes: The expansion to the Panama Canal was completed in 2016 (As I noted a few years ago), and some of the traffic that used the ports of Los Angeles and Long Beach is probably going through the canal. This might be impacting TEUs on the West Coast.\nAlso, incoming port traffic is backed up significantly in the LA area with numerous ships at anchor waiting to unload.\nContainer traffic gives us an idea about the volume of goods being exported and imported - and usually some hints about the trade report since LA area ports handle about 40% of the nation's container port traffic.\nThe following graphs are for inbound and outbound traffic at the ports of Los Angeles and Long Beach in TEUs (TEUs: 20-foot equivalent units or 20-foot-long cargo container). \nTo remove the strong seasonal component for inbound traffic, the first graph shows the rolling 12 month average. \nClick on graph for larger image.\nOn a rolling 12 month basis, inbound traffic was down 0.5% in October compared to the rolling 12 months ending in September.   Outbound traffic was down 1.4% compared to the rolling 12 months ending the previous month.\nThe 2nd graph is the monthly data (with a strong seasonal pattern for imports).\nUsually imports peak in the July to October period as retailers import goods for the Christmas holiday, and then decline sharply and bottom in February or March depending on the timing of the Chinese New Year.\n\n2021 started off incredibly strong for imports - and with the backlog of ships, will probably continue strong into 2022 (no break again in February or March).\nImports were down 6% YoY in October (recovered last year following the early months of the pandemic), and exports were down 15% YoY.",
-          "link": "http://www.calculatedriskblog.com/2021/11/la-area-port-traffic-solid-imports-weak.html",
-          "publishedOn": "2021-11-18T21:50:00.001Z",
-          "wordCount": 1116,
-          "title": "LA Area Port Traffic: Solid Imports, Weak Exports in October"
-        },
-        {
-          "id": "http://www.calculatedriskblog.com/2021/11/lawler-investors-second-homes-and-amh.html",
-          "author": null,
-          "description": "From housing economist Tom Lawler:\nInvestor Share of Home Purchases Surges\nRecent reports from Redfin and Corelogic indicate that the investor share of home purchases has surged this year.\nHere is a chart from a Redfin report released on November 15th.\n   Click on graph for larger image.\nRedfin identified an “investor” as follows:\nWe define an investor as any buyer whose name includes at least one of the following keywords: LLC, Inc, Trust, Corp, Homes. We also define an investor as any buyer whose ownership code on a purchasing deed includes at least one of the following keywords: association, corporate trustee, company, joint venture, corporate trust. This data may include purchases made through family trusts for personal use.\nUsing this methodology, Redfin would probably miss small, “mo…",
-          "link": "http://www.calculatedriskblog.com/2021/11/lawler-investors-second-homes-and-amh.html",
-          "publishedOn": "2021-11-18T20:17:00.000Z",
-          "wordCount": 1351,
-          "title": "Lawler: Investors, Second Homes, and AMH, oh my!"
         }
       ]
     }
