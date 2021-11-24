@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-23T21:04:09.015Z</id>
+    <id>urn:2021-11-24T00:19:34.938Z</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-23T21:04:09.016Z</updated>
+    <updated>2021-11-24T00:19:34.938Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[International Evidence on Vaccines and the Mortality to Infections Ratio -- by Joshua Aizenman, Alex Cukierman, Yothin Jinjarak, Weining Xin]]></title>
-        <id>https://www.nber.org/papers/w29498#fromrss</id>
-        <link href="https://www.nber.org/papers/w29498#fromrss"/>
-        <updated>2021-11-23T21:03:26.819Z</updated>
-        <summary type="html"><![CDATA[Recent observations on countries like the UK that have accumulated a large fraction of inoculated individuals suggest that, although initially, vaccines have little effect on new infections they strongly reduce the share of mortality out of a given pool of infections. This paper examines the extent to which this phenomenon is more general by testing the hypothesis that the ratio of current mortality to lagged infections is decreasing in the total number of vaccines per one hundred individuals. This is done in a pooled time-series, cross-section sample with weekly observations for up to 208 countries. The main conclusion from the statistical analysis is that, passed a certain threshold, vaccines moderate the share of mortality from a given pool of lagged infections. This is essentially a favorable shift in the tradeoff between life preservation and economic performance. Controlling for income per capita, stringency of containment measures, and the fraction of recovered and old individuals, estimation is carried out by linear least squares, with standard errors clustered by country and region. The main result is robust to sensitivity analysis with a logarithmic specification. The practical lesson is that, in the presence of a sufficiently high share of inoculated individuals, governments can shade down containment measures, even as infections are still rampant, without significant adverse effects on mortality.]]></summary>
+        <title type="html"><![CDATA[Empirical Investigation of a Sufficient Statistic for Monetary Shocks -- by Fernando E. Alvarez, Andrea Ferrara, Erwan Gautier, Hervé Le Bihan, Francesco Lippi]]></title>
+        <id>https://www.nber.org/papers/w29490#fromrss</id>
+        <link href="https://www.nber.org/papers/w29490#fromrss"/>
+        <updated>2021-11-24T00:18:53.184Z</updated>
+        <summary type="html"><![CDATA[In a broad class of sticky price models the non-neutrality of nominal shocks is encoded by a simple sufficient statistic: the ratio of the kurtosis of the size-distribution of price changes over the frequency of price changes. We test this theoretical prediction using data for a large number of firms representative of the French economy. We use the micro data to measure the cross sectional moments, including kurtosis and frequency, for about 120 PPI industries and 220 CPI categories. We use a Factor Augmented VAR to measure the sectoral responses to a monetary shock, as summarized by the cumulative impulse response of sectoral prices (CIRP ), under three alternative identification schemes. The estimated CIRP correlates with the kurtosis and the frequency consistently with the prediction of the theory (i.e. they enter the relationship as a ratio). The analysis also shows that other moments not suggested by the theory, such as the mean, standard deviation and skewness of the size-distribution of price changes, are not correlated with the CIR . Several robustness checks are discussed]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -19,28 +19,38 @@
         <title type="html"><![CDATA[The Other Great Migration: Southern Whites and the New Right -- by Samuel Bazzi, Andreas Ferrara, Martin Fiszbein, Thomas P. Pearson, Patrick A. Testa]]></title>
         <id>https://www.nber.org/papers/w29506#fromrss</id>
         <link href="https://www.nber.org/papers/w29506#fromrss"/>
-        <updated>2021-11-23T21:03:26.696Z</updated>
+        <updated>2021-11-24T00:18:53.156Z</updated>
         <summary type="html"><![CDATA[This paper provides a novel perspective on the Great Migration out of the U.S. South. Using a shift-share identification strategy, we show how millions of Southern white migrants transformed the cultural and political landscape across America. Counties with a larger Southern white share by 1940 exhibited growing support for right-wing politics throughout the 20th century and beyond. Racial animus, religious conservatism, and localist attitudes among the Southern white diaspora hastened partisan realignment as the Republican Party found fresh support for the Southern strategy outside the South. Their congressional representatives were more likely to oppose politically liberal legislation, such as the Civil Rights Act of 1964, and to object to the Electoral College count in 2021. These migrants helped shape institutions that reinforced racial inequity and exclusion, they shared ideology through religious organizations and popular media, and they transmitted an array of cultural norms to non-Southern populations. Together, our findings suggest that Southern white migrants may have forever changed the trajectory of American politics.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imported or Home Grown? The 1992-3 EMS Crisis -- by Barry Eichengreen, Alain Naef]]></title>
-        <id>https://www.nber.org/papers/w29488#fromrss</id>
-        <link href="https://www.nber.org/papers/w29488#fromrss"/>
-        <updated>2021-11-23T21:03:26.668Z</updated>
-        <summary type="html"><![CDATA[Using newly assembled data on foreign exchange market intervention, we construct a daily index of exchange market pressure during the 1992-3 crisis in the European Monetary System, allowing us to pinpoint when and where the crisis was most severe. Our analysis focuses on a neglected factor in the crisis: the role of the weak dollar in intra-EMS tensions. We provide new evidence of the contribution of a falling dollar-Deutschmark exchange rate to pressure on EMS currencies.]]></summary>
+        <title type="html"><![CDATA[Electricity Price Distributions in Future Renewables-Dominant Power Grids and Policy Implications -- by Dharik S. Mallapragada, Cristian Junge, Cathy Xun Wang, Johannes Pfeifenberger, Paul L. Joskow, Richard Schmalensee]]></title>
+        <id>https://www.nber.org/papers/w29510#fromrss</id>
+        <link href="https://www.nber.org/papers/w29510#fromrss"/>
+        <updated>2021-11-24T00:18:53.102Z</updated>
+        <summary type="html"><![CDATA[Future electricity systems with tight constraints on carbon emissions will rely much more on wind and solar generation, with zero marginal cost, than today. We use capacity expansion modelling of Texas in 2050 to illustrate wholesale price distributions in future energy-only, carbon-constrained grids without price caps under a range of technology/system assumptions. Tightening carbon emissions constraints dramatically increases the frequency of very low prices. The frequency of high prices also increases, and all resources earn the bulk of their energy market revenues in relatively few hours. The presence of demand response, long-duration energy storage, dispatchable low-carbon generation, or a robust market for hydrogen for non-electricity use (and for energy storage) weakens but does not undo these results. Financial instruments to hedge price volatility will consequently be more costly and it is likely that we will need to redesign capacity remuneration mechanisms to provide adequate incentives for optimal investment in VRE generation and, particularly, storage. In order to encourage economy-wide electrification, the marginal retail price of electricity should be low whenever the wholesale price is low.  With automated control of demand via demand response contracts, the risks of price volatility faced by retail customers can be mitigated without sacrificing efficiency. To encourage economy-wide electrification, the marginal retail price of electricity should be low when the wholesale spot price is low. We discuss ways of reducing consumers’ risk in this world while providing adequate investment incentives.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Empirical Investigation of a Sufficient Statistic for Monetary Shocks -- by Fernando E. Alvarez, Andrea Ferrara, Erwan Gautier, Hervé Le Bihan, Francesco Lippi]]></title>
-        <id>https://www.nber.org/papers/w29490#fromrss</id>
-        <link href="https://www.nber.org/papers/w29490#fromrss"/>
-        <updated>2021-11-23T21:03:26.645Z</updated>
-        <summary type="html"><![CDATA[In a broad class of sticky price models the non-neutrality of nominal shocks is encoded by a simple sufficient statistic: the ratio of the kurtosis of the size-distribution of price changes over the frequency of price changes. We test this theoretical prediction using data for a large number of firms representative of the French economy. We use the micro data to measure the cross sectional moments, including kurtosis and frequency, for about 120 PPI industries and 220 CPI categories. We use a Factor Augmented VAR to measure the sectoral responses to a monetary shock, as summarized by the cumulative impulse response of sectoral prices (CIRP ), under three alternative identification schemes. The estimated CIRP correlates with the kurtosis and the frequency consistently with the prediction of the theory (i.e. they enter the relationship as a ratio). The analysis also shows that other moments not suggested by the theory, such as the mean, standard deviation and skewness of the size-distribution of price changes, are not correlated with the CIR . Several robustness checks are discussed]]></summary>
+        <title type="html"><![CDATA[Unemployment Insurance in Macroeconomic Stabilization -- by Rohan Kekre]]></title>
+        <id>https://www.nber.org/papers/w29505#fromrss</id>
+        <link href="https://www.nber.org/papers/w29505#fromrss"/>
+        <updated>2021-11-24T00:18:53.087Z</updated>
+        <summary type="html"><![CDATA[I study unemployment insurance (UI) in general equilibrium with incomplete markets, search frictions, and nominal rigidities.  An increase in generosity raises the aggregate demand for consumption if the unemployed have a higher marginal propensity to consume (MPC) than the employed or if agents precautionary save in light of future income risk.  This raises output and employment unless monetary policy raises the nominal interest rate.  In an analysis of the U.S. economy over 2008-2014, UI benefit extensions had a contemporaneous output multiplier around 1 or higher.  The unemployment rate would have been as much as 0.4pp higher absent these extensions.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skewness and Time-Varying Second Moments in a Nonlinear Production Network: Theory and Evidence -- by Ian Dew-Becker, Alireza Tahbaz-Salehi, Andrea Vedolin]]></title>
+        <id>https://www.nber.org/papers/w29499#fromrss</id>
+        <link href="https://www.nber.org/papers/w29499#fromrss"/>
+        <updated>2021-11-24T00:18:53.057Z</updated>
+        <summary type="html"><![CDATA[This paper studies asymmetry in economic activity over the business cycle. It develops a tractable multisector model of the economy in which complementarity across inputs causes aggregate activity to be left skewed with countercyclical volatility. We then examine implications of the model regarding the time-series skewness of activity at the sector level, cyclicality of dispersion and skewness across sectors, and the conditional covariances of sector growth rates, finding support for each in the data. The empirical skewness of employment growth, industrial production growth, and stock returns increases with the level of aggregation, which is consistent with the model's implication that it is the nonlinearity in the production structure of the economy that generates the skewness. Other prominent models of asymmetry are not able to simultaneously match the range of empirical facts that the production network model can.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -49,7 +59,7 @@
         <title type="html"><![CDATA[Technological Obsolescence -- by Song Ma]]></title>
         <id>https://www.nber.org/papers/w29504#fromrss</id>
         <link href="https://www.nber.org/papers/w29504#fromrss"/>
-        <updated>2021-11-23T21:03:26.626Z</updated>
+        <updated>2021-11-24T00:18:53.045Z</updated>
         <summary type="html"><![CDATA[This paper proposes a new measure of technological obsolescence using detailed patent data. Using this measure, we present two sets of results. First, firms' technological obsolescence foreshadows substantially lower growth, productivity, and reallocation of capital. This finding applies mainly for obsolescence of core innovation and embodied innovation, and it is stronger in competitive product markets. Second, in stock markets, high-obsolescence firms under-perform low-obsolescence firms by 7 percent annually. Using analyst forecast data, we show this is due to a systematic overestimation of future profits of obsolescent firms. The measure contains incremental information about firm innovation relative to measures focusing on new innovation.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -59,98 +69,8 @@
         <title type="html"><![CDATA[A Primer on Trade and Inequality -- by Dani Rodrik]]></title>
         <id>https://www.nber.org/papers/w29507#fromrss</id>
         <link href="https://www.nber.org/papers/w29507#fromrss"/>
-        <updated>2021-11-23T21:03:26.597Z</updated>
+        <updated>2021-11-24T00:18:53.032Z</updated>
         <summary type="html"><![CDATA[In the public imagination globalization’s adverse effects have loomed large, contributing significantly to the backlash against the political mainstream and the rise of far-right populism. The literature on trade and inequality is in fact exceptionally rich, with important theoretical insights as well as extensive empirical findings that sheds light on this recent experience. Some of the key results of this literature, discussed here, are as follows: Redistribution is the flip side of the gains from trade, and it becomes larger relative to net gains from trade in the advanced stages of globalization. Compensation is difficult for both economic and political reasons. International trade often differs from other market exchanges, raising fairness concerns in ways that domestic markets do not. The economic benefits of deep integration are generally ambiguous. Dynamic or growth gains from trade are uncertain.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Globalization and the Ladder of Development: Pushed to the Top or Held at the Bottom? -- by David Atkin, Arnaud Costinot, Masao Fukui]]></title>
-        <id>https://www.nber.org/papers/w29500#fromrss</id>
-        <link href="https://www.nber.org/papers/w29500#fromrss"/>
-        <updated>2021-11-23T21:03:26.584Z</updated>
-        <summary type="html"><![CDATA[We study the relationship between international trade and development in a model where countries differ in their capability, goods differ in their complexity, and capability growth is a function of a country’s pattern of specialization. Theoretically, we show that it is possible for international trade to increase capability growth in all countries and, in turn, to push all countries up the development ladder. This occurs because: (i) the average complexity of a country’s industry mix raises its capability growth, and (ii) foreign competition is tougher in less complex sectors for all countries. Empirically, we provide causal evidence consistent with (i) using the entry of countries into the World Trade Organization as an instrumental variable for other countries’ patterns of specialization. The opposite of (ii), however, appears to hold in the data. Through the lens of our model, these two empirical observations imply dynamic welfare losses from trade that are small for the median country, but pervasive and large among a number of African countries.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skewness and Time-Varying Second Moments in a Nonlinear Production Network: Theory and Evidence -- by Ian Dew-Becker, Alireza Tahbaz-Salehi, Andrea Vedolin]]></title>
-        <id>https://www.nber.org/papers/w29499#fromrss</id>
-        <link href="https://www.nber.org/papers/w29499#fromrss"/>
-        <updated>2021-11-23T21:03:26.558Z</updated>
-        <summary type="html"><![CDATA[This paper studies asymmetry in economic activity over the business cycle. It develops a tractable multisector model of the economy in which complementarity across inputs causes aggregate activity to be left skewed with countercyclical volatility. We then examine implications of the model regarding the time-series skewness of activity at the sector level, cyclicality of dispersion and skewness across sectors, and the conditional covariances of sector growth rates, finding support for each in the data. The empirical skewness of employment growth, industrial production growth, and stock returns increases with the level of aggregation, which is consistent with the model's implication that it is the nonlinearity in the production structure of the economy that generates the skewness. Other prominent models of asymmetry are not able to simultaneously match the range of empirical facts that the production network model can.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excess Deaths in the United States During the First Year of COVID-19 -- by Christopher J. Ruhm]]></title>
-        <id>https://www.nber.org/papers/w29503#fromrss</id>
-        <link href="https://www.nber.org/papers/w29503#fromrss"/>
-        <updated>2021-11-23T21:03:26.544Z</updated>
-        <summary type="html"><![CDATA[Accurately determining the number of excess deaths caused by the COVID-19 pandemic is hard. The most important challenge is accurately estimating the counterfactual count of baseline deaths that would have occurred in its absence. This analysis used new methods to: estimate this baseline metric; calculate excess deaths during the first year of the U.S. COVID-19 pandemic; and examine plausibility of the excess death estimates obtained in this and prior analyses. Total, group-specific and cause-specific excess deaths in the U.S. from March 2020 through February 2021 were calculated using publicly available data covering all deaths from March 2009 through December 2019 and provisional data from January 2020 through February 2021. The estimates indicate that there were 646,514 (95% CI: 597,514 to 695,520) excess deaths in the U.S. during this period, with 83.4% (95% CI: 77.5% - 90.2%) of these attributed directly to COVID-19. There were substantial differences across population groups and causes in the ratio of actual-to-baseline deaths, and in the contribution of COVID-19 to excess mortality. Prior research has frequently underestimated baseline deaths and so has overstated excess mortality and the percentage of it attributed to non-COVID-19 causes.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning About the Long Run -- by Leland Farmer, Emi Nakamura, Jón Steinsson]]></title>
-        <id>https://www.nber.org/papers/w29495#fromrss</id>
-        <link href="https://www.nber.org/papers/w29495#fromrss"/>
-        <updated>2021-11-23T21:03:26.531Z</updated>
-        <summary type="html"><![CDATA[Forecasts of professional forecasters are anomalous: they are biased, forecast errors are autocorrelated, and forecast revisions predict forecast errors. Sticky or noisy information models seem like unlikely explanations for these anomalies: professional forecasters pay attention constantly and have precise knowledge of the data in question. We propose that these anomalies arise because professional forecasters don’t know the model that generates the data. We show that Bayesian agents learning about hard-to-learn features of the data generating process (low frequency behavior) can generate all the prominent aggregate anomalies emphasized in the literature. We show this for two applications: professional forecasts of nominal interest rates for the sample period 1980-2019 and CBO forecasts of GDP growth for the sample period 1976- 2019. Our learning model for interest rates also provides an explanation for deviations from the expectations hypothesis of the term structure that does not rely on time-variation in risk premia.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electricity Price Distributions in Future Renewables-Dominant Power Grids and Policy Implications -- by Dharik S. Mallapragada, Cristian Junge, Cathy Xun Wang, Johannes Pfeifenberger, Paul L. Joskow, Richard Schmalensee]]></title>
-        <id>https://www.nber.org/papers/w29510#fromrss</id>
-        <link href="https://www.nber.org/papers/w29510#fromrss"/>
-        <updated>2021-11-23T21:03:26.501Z</updated>
-        <summary type="html"><![CDATA[Future electricity systems with tight constraints on carbon emissions will rely much more on wind and solar generation, with zero marginal cost, than today. We use capacity expansion modelling of Texas in 2050 to illustrate wholesale price distributions in future energy-only, carbon-constrained grids without price caps under a range of technology/system assumptions. Tightening carbon emissions constraints dramatically increases the frequency of very low prices. The frequency of high prices also increases, and all resources earn the bulk of their energy market revenues in relatively few hours. The presence of demand response, long-duration energy storage, dispatchable low-carbon generation, or a robust market for hydrogen for non-electricity use (and for energy storage) weakens but does not undo these results. Financial instruments to hedge price volatility will consequently be more costly and it is likely that we will need to redesign capacity remuneration mechanisms to provide adequate incentives for optimal investment in VRE generation and, particularly, storage. In order to encourage economy-wide electrification, the marginal retail price of electricity should be low whenever the wholesale price is low.  With automated control of demand via demand response contracts, the risks of price volatility faced by retail customers can be mitigated without sacrificing efficiency. To encourage economy-wide electrification, the marginal retail price of electricity should be low when the wholesale spot price is low. We discuss ways of reducing consumers’ risk in this world while providing adequate investment incentives.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Environmental Justice and Coasian Bargaining: The Role of Race and Income in Lease Negotiations for Shale Gas -- by Christopher Timmins, Ashley Vissing]]></title>
-        <id>https://www.nber.org/papers/w29487#fromrss</id>
-        <link href="https://www.nber.org/papers/w29487#fromrss"/>
-        <updated>2021-11-23T21:03:26.487Z</updated>
-        <summary type="html"><![CDATA[Using a unique combination of datasets and estimation techniques, we test whether private lease negotiations to extract oil and natural gas exhibit features of Coasian efficiency. We demonstrate that measures of wealth (including income, house square footage, and land acreage), typically determinants of willingness to pay for environmental quality, do affect bargaining outcomes. However, race, ethnicity, and language also play important roles after conditioning upon these variables, suggesting an environmental injustice and a breakdown of efficient Coasian bargaining. We further demonstrate that failure to negotiate protections in leases leads to increased risk of future drilling violations, which are not offset by local ordinance restrictions.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unemployment Insurance in Macroeconomic Stabilization -- by Rohan Kekre]]></title>
-        <id>https://www.nber.org/papers/w29505#fromrss</id>
-        <link href="https://www.nber.org/papers/w29505#fromrss"/>
-        <updated>2021-11-23T21:03:26.455Z</updated>
-        <summary type="html"><![CDATA[I study unemployment insurance (UI) in general equilibrium with incomplete markets, search frictions, and nominal rigidities.  An increase in generosity raises the aggregate demand for consumption if the unemployed have a higher marginal propensity to consume (MPC) than the employed or if agents precautionary save in light of future income risk.  This raises output and employment unless monetary policy raises the nominal interest rate.  In an analysis of the U.S. economy over 2008-2014, UI benefit extensions had a contemporaneous output multiplier around 1 or higher.  The unemployment rate would have been as much as 0.4pp higher absent these extensions.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Headstrong Girls and Dependent Boys: Gender Differences in the Labor Market Returns to Child Behavior -- by Robert Kaestner, Ofer Malamud]]></title>
-        <id>https://www.nber.org/papers/w29509#fromrss</id>
-        <link href="https://www.nber.org/papers/w29509#fromrss"/>
-        <updated>2021-11-23T21:03:26.443Z</updated>
-        <summary type="html"><![CDATA[The authors use data from the Children of the National Longitudinal Survey of Youth (C-NLSY79) to examine gender differences in the associations between child behavioral problems and early adult earnings. They find large and significant earnings penalties for women who exhibited more headstrong behavior and for men who exhibited more dependent behavior as children. In contrast, there are no penalties for men who were headstrong or for women who were dependent. While other child behavioral problems are also associated with labor market earnings, their associations are not significantly different by gender. The gender differences in headstrong and dependent behavior are not explained by education, marriage, depression, self-esteem, health, or adult personality traits. However, one potential explanation is that these gender differences are a consequence of deviations from gender norms and stereotypes in the workplace.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Lower Bound on Inflation Expectations -- by Yuriy Gorodnichenko, Dmitriy Sergeyev]]></title>
-        <id>https://www.nber.org/papers/w29496#fromrss</id>
-        <link href="https://www.nber.org/papers/w29496#fromrss"/>
-        <updated>2021-11-23T21:03:26.430Z</updated>
-        <summary type="html"><![CDATA[We document a new fact: in U.S., European and Japanese surveys, households do not expect deflation, even in environments where persistent deflation is a strong possibility. This fact stands in contrast to the standard macroeconomic models with rational expectations. We extend a standard New Keynesian model with a zero-lower bound on inflation expectations. Unconventional monetary policies, such as forward guidance, are weaker. In liquidity traps, the government spending output multiplier is finite, and adverse aggregate supply shocks are not expansionary. The possibility of confidence-driven liquidity traps is attenuated.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -159,18 +79,8 @@
         <title type="html"><![CDATA[Buyouts: A Primer -- by Tim Jenkinson, Hyeik Kim, Michael S. Weisbach]]></title>
         <id>https://www.nber.org/papers/w29502#fromrss</id>
         <link href="https://www.nber.org/papers/w29502#fromrss"/>
-        <updated>2021-11-23T21:03:26.416Z</updated>
+        <updated>2021-11-24T00:18:53.000Z</updated>
         <summary type="html"><![CDATA[This paper provides an introduction to buyouts and the academic literature about them. Buyouts are initiated by “buyout funds”, which are limited partnerships raised from mostly institutional investors. The funds earn returns for their investors by improving the operations of the firms they acquire and exiting them for a profit. Buyout funds have grown substantially and currently raise more than $400 billion annually in capital commitments. We first discuss the institutional environment that developed to foster such buyouts and to provide incentives for general partners and firm managers to earn returns for the fund’s investors. We then describe various strategies that funds use to increase the values of their portfolio companies. The paper provides up to date statistics on all aspects of the buyout industry. Finally, we present a summary of the academic literature on buyouts. This literature has paid particular attention to the extent to which buyouts earn risk-adjusted abnormal returns for their investors, as well as the sources of those returns.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sovereign Risk and Financial Risk -- by Simon Gilchrist, Bin Wei, Vivian Z. Yue, Egon Zakrajšek]]></title>
-        <id>https://www.nber.org/papers/w29501#fromrss</id>
-        <link href="https://www.nber.org/papers/w29501#fromrss"/>
-        <updated>2021-11-23T21:03:26.402Z</updated>
-        <summary type="html"><![CDATA[In this paper, we study the interplay between sovereign risk and global financial risk. We show that a substantial portion of the comovement among sovereign spreads is accounted for by changes in global financial risk. We construct bond-level sovereign spreads for dollar-denominated bonds issued by over 50 countries from 1995 to 2020 and use various indicators to measure global financial risk. Through panel regressions and local projection analysis, we find that an increase in global financial risk causes a large and persistent widening of sovereign bond spreads. These effects are strongest when measuring global risk using the excess bond premium – a measure of the risk-bearing capacity of U.S. financial intermediaries. The spillover effects of global financial risk are more pronounced for speculative-grade sovereign bonds.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -179,28 +89,8 @@
         <title type="html"><![CDATA[Organizational Structure and Pricing: Evidence from a Large U.S. Airline -- by Ali Hortaçsu, Olivia R. Natan, Hayden Parsley, Timothy Schwieg, Kevin R. Williams]]></title>
         <id>https://www.nber.org/papers/w29508#fromrss</id>
         <link href="https://www.nber.org/papers/w29508#fromrss"/>
-        <updated>2021-11-23T21:03:26.341Z</updated>
+        <updated>2021-11-24T00:18:52.985Z</updated>
         <summary type="html"><![CDATA[We study how organizational boundaries affect pricing decisions using comprehensive data from a large U.S. airline. We document that the firm's advanced pricing algorithm, utilizing inputs from different organizational teams, is subject to multiple biases. To quantify the impacts of these biases, we estimate a structural demand model using sales and search data. We recover the demand curves the firm believes it faces using forecasting data. In counterfactuals, we show that correcting biases introduced by organizational teams individually have little impact on market outcomes, but coordinating organizational outcomes leads to higher prices/revenues and increased dead-weight loss in the markets studied.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Responsiveness of Medicaid Spending to the Federal Subsidy -- by M. Kate Bundorf, Daniel P. Kessler]]></title>
-        <id>https://www.nber.org/papers/w29492#fromrss</id>
-        <link href="https://www.nber.org/papers/w29492#fromrss"/>
-        <updated>2021-11-23T21:03:26.297Z</updated>
-        <summary type="html"><![CDATA[Although economic theory suggests that the federal government can influence spending by states through subsidies to programs that states operate, no recent work has quantified the magnitude of this effect for Medicaid, the largest program of this type in the U.S. We find that Medicaid spending per enrollee responds to the magnitude of the federal subsidy. The Affordable Care Act (ACA) and its subsequent interpretation by the Supreme Court gave states the option to expand eligibility for their Medicaid programs in exchange for increases in the generosity of the federal subsidy. States that exercised this option increased Medicaid spending per enrollee on enrollees who were eligible even before the ACA by approximately 15 percent. Depending on the specification, this translates into an elasticity of Medicaid spending per enrollee with respect to the after-subsidy price of Medicaid to a state of -0.494 to -0.579.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Second Chance at Success? Effects of College Grade Forgiveness Policies on Student Outcomes -- by Xuan Jiang, Kelly Chen, Zeynep K. Hansen, Scott Lowe]]></title>
-        <id>https://www.nber.org/papers/w29493#fromrss</id>
-        <link href="https://www.nber.org/papers/w29493#fromrss"/>
-        <updated>2021-11-23T21:03:26.265Z</updated>
-        <summary type="html"><![CDATA[The increased popularity of college Grade Forgiveness policies, which allow students to retake classes and substitute the new grades for the previous grades in their GPA calculations, is controversial yet understudied. Our paper is the first to ask whether such policies benefit students and how. To answer these questions, we use student-level admissions and transcript data from a four-year public institution in the U.S. that underwent two major changes in its GPA policy. We find that Grade Forgiveness significantly incentivizes students, especially students with the strongest academic preparation, to take STEM courses and challenging courses and to enroll in more credits. The increased variations in within-term grades suggest that students may change their effort allocations between courses taken in the same semester and spend more effort on courses that promise a higher grade in return. We also find that repeaters whose first attempted grades are forgiven are more likely to persist in the failed subject and obtain better grades subsequently. Finally, we see an increase in graduation in STEM majors for students who were intensively exposed to this policy.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -209,28 +99,58 @@
         <title type="html"><![CDATA[Pandemic Schooling Mode and Student Test Scores: Evidence from US States -- by Clare Halloran, Rebecca Jack, James C. Okun, Emily Oster]]></title>
         <id>https://www.nber.org/papers/w29497#fromrss</id>
         <link href="https://www.nber.org/papers/w29497#fromrss"/>
-        <updated>2021-11-23T21:03:26.252Z</updated>
+        <updated>2021-11-24T00:18:52.943Z</updated>
         <summary type="html"><![CDATA[We estimate the impact of district-level schooling mode (in-person versus hybrid or distance learning) on test scores. We combine Spring 2021 state standardized test score data with comprehensive data on schooling in the 2020-21 school year across 12 states. We find that pass rates declined compared to prior years and that these declines were larger in districts with less in-person instruction. Passing rates in math declined by 14.2 percentage points on average; we estimate this decline was 10.1 percentage points smaller for districts fully in-person. Changes in English language arts scores were smaller, but were significantly larger in districts with larger populations of students who are Black, Hispanic or eligible for free and reduced price lunch.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud -- by Paul J. Eliason, Riley J. League, Jetson Leder-Luis, Ryan C. McDevitt, James W. Roberts]]></title>
-        <id>https://www.nber.org/papers/w29491#fromrss</id>
-        <link href="https://www.nber.org/papers/w29491#fromrss"/>
-        <updated>2021-11-23T21:03:26.236Z</updated>
-        <summary type="html"><![CDATA[We study the relative effectiveness of administrative regulations, criminal enforcement, and civil lawsuits for combatting health care fraud. Between 2003 and 2017, Medicare spent $7.7 billion on 37.5 million regularly scheduled, non-emergency ambulance rides for patients traveling to and from dialysis facilities, with dozens of lawsuits alleging that Medicare reimbursed rides for patients who did not meet the requirements for receiving one. Using a novel data set and an identification strategy based on the staggered timing of regulations and lawsuits across the United States, we find that a regulation requiring prior authorization for ambulance reimbursements reduced spending much more than criminal and civil lawsuits did. Despite the sharp drop in both ambulance transports and the companies that provide them following prior authorization, patients’ health outcomes did not change, indicating that most rides were not medically necessary. Our results suggest that administrative actions have a much larger impact than targeted criminal enforcement, providing novel evidence that regulations may be more cost-effective than ex post ligation for preventing health care fraud.]]></summary>
+        <title type="html"><![CDATA[Learning About the Long Run -- by Leland Farmer, Emi Nakamura, Jón Steinsson]]></title>
+        <id>https://www.nber.org/papers/w29495#fromrss</id>
+        <link href="https://www.nber.org/papers/w29495#fromrss"/>
+        <updated>2021-11-24T00:18:52.929Z</updated>
+        <summary type="html"><![CDATA[Forecasts of professional forecasters are anomalous: they are biased, forecast errors are autocorrelated, and forecast revisions predict forecast errors. Sticky or noisy information models seem like unlikely explanations for these anomalies: professional forecasters pay attention constantly and have precise knowledge of the data in question. We propose that these anomalies arise because professional forecasters don’t know the model that generates the data. We show that Bayesian agents learning about hard-to-learn features of the data generating process (low frequency behavior) can generate all the prominent aggregate anomalies emphasized in the literature. We show this for two applications: professional forecasts of nominal interest rates for the sample period 1980-2019 and CBO forecasts of GDP growth for the sample period 1976- 2019. Our learning model for interest rates also provides an explanation for deviations from the expectations hypothesis of the term structure that does not rely on time-variation in risk premia.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Central Bank Digital Currencies and The Emerging Markets: The Currency Substitution Challenge -- by Sebastian Edwards]]></title>
-        <id>https://www.nber.org/papers/w29489#fromrss</id>
-        <link href="https://www.nber.org/papers/w29489#fromrss"/>
-        <updated>2021-11-23T21:03:26.204Z</updated>
-        <summary type="html"><![CDATA[In this paper, I discuss the implications for emerging countries of the adoption of central bank digital currencies (CBDCs) in advanced jurisdictions, such as the United States, the United Kingdom, and the Euro Zone. The analysis identifies benefits as well as costs. Among the former, one of the most important is lower costs for migrants’ remittances. Some of the costs of global CBDCs are associated with currency substitution, sudden currency depreciations, and lower seigniorage. At the global level, a smooth rollout of CBDCs in center countries requires international coordination. In addition, emerging countries will benefit from the implementation of stronger macroprudential regulations]]></summary>
+        <title type="html"><![CDATA[Zero Lower Bound on Inflation Expectations -- by Yuriy Gorodnichenko, Dmitriy Sergeyev]]></title>
+        <id>https://www.nber.org/papers/w29496#fromrss</id>
+        <link href="https://www.nber.org/papers/w29496#fromrss"/>
+        <updated>2021-11-24T00:18:52.898Z</updated>
+        <summary type="html"><![CDATA[We document a new fact: in U.S., European and Japanese surveys, households do not expect deflation, even in environments where persistent deflation is a strong possibility. This fact stands in contrast to the standard macroeconomic models with rational expectations. We extend a standard New Keynesian model with a zero-lower bound on inflation expectations. Unconventional monetary policies, such as forward guidance, are weaker. In liquidity traps, the government spending output multiplier is finite, and adverse aggregate supply shocks are not expansionary. The possibility of confidence-driven liquidity traps is attenuated.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sovereign Risk and Financial Risk -- by Simon Gilchrist, Bin Wei, Vivian Z. Yue, Egon Zakrajšek]]></title>
+        <id>https://www.nber.org/papers/w29501#fromrss</id>
+        <link href="https://www.nber.org/papers/w29501#fromrss"/>
+        <updated>2021-11-24T00:18:52.883Z</updated>
+        <summary type="html"><![CDATA[In this paper, we study the interplay between sovereign risk and global financial risk. We show that a substantial portion of the comovement among sovereign spreads is accounted for by changes in global financial risk. We construct bond-level sovereign spreads for dollar-denominated bonds issued by over 50 countries from 1995 to 2020 and use various indicators to measure global financial risk. Through panel regressions and local projection analysis, we find that an increase in global financial risk causes a large and persistent widening of sovereign bond spreads. These effects are strongest when measuring global risk using the excess bond premium – a measure of the risk-bearing capacity of U.S. financial intermediaries. The spillover effects of global financial risk are more pronounced for speculative-grade sovereign bonds.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Evidence on Vaccines and the Mortality to Infections Ratio -- by Joshua Aizenman, Alex Cukierman, Yothin Jinjarak, Weining Xin]]></title>
+        <id>https://www.nber.org/papers/w29498#fromrss</id>
+        <link href="https://www.nber.org/papers/w29498#fromrss"/>
+        <updated>2021-11-24T00:18:52.854Z</updated>
+        <summary type="html"><![CDATA[Recent observations on countries like the UK that have accumulated a large fraction of inoculated individuals suggest that, although initially, vaccines have little effect on new infections they strongly reduce the share of mortality out of a given pool of infections. This paper examines the extent to which this phenomenon is more general by testing the hypothesis that the ratio of current mortality to lagged infections is decreasing in the total number of vaccines per one hundred individuals. This is done in a pooled time-series, cross-section sample with weekly observations for up to 208 countries. The main conclusion from the statistical analysis is that, passed a certain threshold, vaccines moderate the share of mortality from a given pool of lagged infections. This is essentially a favorable shift in the tradeoff between life preservation and economic performance. Controlling for income per capita, stringency of containment measures, and the fraction of recovered and old individuals, estimation is carried out by linear least squares, with standard errors clustered by country and region. The main result is robust to sensitivity analysis with a logarithmic specification. The practical lesson is that, in the presence of a sufficiently high share of inoculated individuals, governments can shade down containment measures, even as infections are still rampant, without significant adverse effects on mortality.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excess Deaths in the United States During the First Year of COVID-19 -- by Christopher J. Ruhm]]></title>
+        <id>https://www.nber.org/papers/w29503#fromrss</id>
+        <link href="https://www.nber.org/papers/w29503#fromrss"/>
+        <updated>2021-11-24T00:18:52.838Z</updated>
+        <summary type="html"><![CDATA[Accurately determining the number of excess deaths caused by the COVID-19 pandemic is hard. The most important challenge is accurately estimating the counterfactual count of baseline deaths that would have occurred in its absence. This analysis used new methods to: estimate this baseline metric; calculate excess deaths during the first year of the U.S. COVID-19 pandemic; and examine plausibility of the excess death estimates obtained in this and prior analyses. Total, group-specific and cause-specific excess deaths in the U.S. from March 2020 through February 2021 were calculated using publicly available data covering all deaths from March 2009 through December 2019 and provisional data from January 2020 through February 2021. The estimates indicate that there were 646,514 (95% CI: 597,514 to 695,520) excess deaths in the U.S. during this period, with 83.4% (95% CI: 77.5% - 90.2%) of these attributed directly to COVID-19. There were substantial differences across population groups and causes in the ratio of actual-to-baseline deaths, and in the contribution of COVID-19 to excess mortality. Prior research has frequently underestimated baseline deaths and so has overstated excess mortality and the percentage of it attributed to non-COVID-19 causes.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -239,10 +159,156 @@
         <title type="html"><![CDATA[Collateral Damage: The Impact of Shale Gas on Mortgage Lending -- by Yanyou Chen, James W. Roberts, Christopher D. Timmins, Ashley Vissing]]></title>
         <id>https://www.nber.org/papers/w29494#fromrss</id>
         <link href="https://www.nber.org/papers/w29494#fromrss"/>
-        <updated>2021-11-23T21:03:26.145Z</updated>
+        <updated>2021-11-24T00:18:52.806Z</updated>
         <summary type="html"><![CDATA[We analyze mortgage lenders’ behavior with respect to shale gas risk during the period of the U.S. shale gas boom, which coincided with fluctuations in the U.S. housing market and increased scrutiny in the lending industry.  Shale gas operations have the potential to place affected houses into technical default such that government sponsored enterprises like Fannie Mae and Freddie Mac are unable to maintain them in their portfolios.  We find that lenders changed from being willing to pay $814 on average to avoid one unit of shale risk before the financial distress of 2008 and subsequent increased scrutiny, to $3,137, or 1.6% of profit earned on an average mortgage, afterwards.  Our approach provides an alternative to the traditional property value hedonic measurement of the disamenities associated with shale gas development by looking at the decisions of mortgage professionals.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Second Chance at Success? Effects of College Grade Forgiveness Policies on Student Outcomes -- by Xuan Jiang, Kelly Chen, Zeynep K. Hansen, Scott Lowe]]></title>
+        <id>https://www.nber.org/papers/w29493#fromrss</id>
+        <link href="https://www.nber.org/papers/w29493#fromrss"/>
+        <updated>2021-11-24T00:18:52.740Z</updated>
+        <summary type="html"><![CDATA[The increased popularity of college Grade Forgiveness policies, which allow students to retake classes and substitute the new grades for the previous grades in their GPA calculations, is controversial yet understudied. Our paper is the first to ask whether such policies benefit students and how. To answer these questions, we use student-level admissions and transcript data from a four-year public institution in the U.S. that underwent two major changes in its GPA policy. We find that Grade Forgiveness significantly incentivizes students, especially students with the strongest academic preparation, to take STEM courses and challenging courses and to enroll in more credits. The increased variations in within-term grades suggest that students may change their effort allocations between courses taken in the same semester and spend more effort on courses that promise a higher grade in return. We also find that repeaters whose first attempted grades are forgiven are more likely to persist in the failed subject and obtain better grades subsequently. Finally, we see an increase in graduation in STEM majors for students who were intensively exposed to this policy.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headstrong Girls and Dependent Boys: Gender Differences in the Labor Market Returns to Child Behavior -- by Robert Kaestner, Ofer Malamud]]></title>
+        <id>https://www.nber.org/papers/w29509#fromrss</id>
+        <link href="https://www.nber.org/papers/w29509#fromrss"/>
+        <updated>2021-11-24T00:18:52.718Z</updated>
+        <summary type="html"><![CDATA[The authors use data from the Children of the National Longitudinal Survey of Youth (C-NLSY79) to examine gender differences in the associations between child behavioral problems and early adult earnings. They find large and significant earnings penalties for women who exhibited more headstrong behavior and for men who exhibited more dependent behavior as children. In contrast, there are no penalties for men who were headstrong or for women who were dependent. While other child behavioral problems are also associated with labor market earnings, their associations are not significantly different by gender. The gender differences in headstrong and dependent behavior are not explained by education, marriage, depression, self-esteem, health, or adult personality traits. However, one potential explanation is that these gender differences are a consequence of deviations from gender norms and stereotypes in the workplace.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud -- by Paul J. Eliason, Riley J. League, Jetson Leder-Luis, Ryan C. McDevitt, James W. Roberts]]></title>
+        <id>https://www.nber.org/papers/w29491#fromrss</id>
+        <link href="https://www.nber.org/papers/w29491#fromrss"/>
+        <updated>2021-11-24T00:18:52.688Z</updated>
+        <summary type="html"><![CDATA[We study the relative effectiveness of administrative regulations, criminal enforcement, and civil lawsuits for combatting health care fraud. Between 2003 and 2017, Medicare spent $7.7 billion on 37.5 million regularly scheduled, non-emergency ambulance rides for patients traveling to and from dialysis facilities, with dozens of lawsuits alleging that Medicare reimbursed rides for patients who did not meet the requirements for receiving one. Using a novel data set and an identification strategy based on the staggered timing of regulations and lawsuits across the United States, we find that a regulation requiring prior authorization for ambulance reimbursements reduced spending much more than criminal and civil lawsuits did. Despite the sharp drop in both ambulance transports and the companies that provide them following prior authorization, patients’ health outcomes did not change, indicating that most rides were not medically necessary. Our results suggest that administrative actions have a much larger impact than targeted criminal enforcement, providing novel evidence that regulations may be more cost-effective than ex post ligation for preventing health care fraud.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Globalization and the Ladder of Development: Pushed to the Top or Held at the Bottom? -- by David Atkin, Arnaud Costinot, Masao Fukui]]></title>
+        <id>https://www.nber.org/papers/w29500#fromrss</id>
+        <link href="https://www.nber.org/papers/w29500#fromrss"/>
+        <updated>2021-11-24T00:18:52.669Z</updated>
+        <summary type="html"><![CDATA[We study the relationship between international trade and development in a model where countries differ in their capability, goods differ in their complexity, and capability growth is a function of a country’s pattern of specialization. Theoretically, we show that it is possible for international trade to increase capability growth in all countries and, in turn, to push all countries up the development ladder. This occurs because: (i) the average complexity of a country’s industry mix raises its capability growth, and (ii) foreign competition is tougher in less complex sectors for all countries. Empirically, we provide causal evidence consistent with (i) using the entry of countries into the World Trade Organization as an instrumental variable for other countries’ patterns of specialization. The opposite of (ii), however, appears to hold in the data. Through the lens of our model, these two empirical observations imply dynamic welfare losses from trade that are small for the median country, but pervasive and large among a number of African countries.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Responsiveness of Medicaid Spending to the Federal Subsidy -- by M. Kate Bundorf, Daniel P. Kessler]]></title>
+        <id>https://www.nber.org/papers/w29492#fromrss</id>
+        <link href="https://www.nber.org/papers/w29492#fromrss"/>
+        <updated>2021-11-24T00:18:52.648Z</updated>
+        <summary type="html"><![CDATA[Although economic theory suggests that the federal government can influence spending by states through subsidies to programs that states operate, no recent work has quantified the magnitude of this effect for Medicaid, the largest program of this type in the U.S. We find that Medicaid spending per enrollee responds to the magnitude of the federal subsidy. The Affordable Care Act (ACA) and its subsequent interpretation by the Supreme Court gave states the option to expand eligibility for their Medicaid programs in exchange for increases in the generosity of the federal subsidy. States that exercised this option increased Medicaid spending per enrollee on enrollees who were eligible even before the ACA by approximately 15 percent. Depending on the specification, this translates into an elasticity of Medicaid spending per enrollee with respect to the after-subsidy price of Medicaid to a state of -0.494 to -0.579.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Central Bank Digital Currencies and The Emerging Markets: The Currency Substitution Challenge -- by Sebastian Edwards]]></title>
+        <id>https://www.nber.org/papers/w29489#fromrss</id>
+        <link href="https://www.nber.org/papers/w29489#fromrss"/>
+        <updated>2021-11-24T00:18:52.625Z</updated>
+        <summary type="html"><![CDATA[In this paper, I discuss the implications for emerging countries of the adoption of central bank digital currencies (CBDCs) in advanced jurisdictions, such as the United States, the United Kingdom, and the Euro Zone. The analysis identifies benefits as well as costs. Among the former, one of the most important is lower costs for migrants’ remittances. Some of the costs of global CBDCs are associated with currency substitution, sudden currency depreciations, and lower seigniorage. At the global level, a smooth rollout of CBDCs in center countries requires international coordination. In addition, emerging countries will benefit from the implementation of stronger macroprudential regulations]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imported or Home Grown? The 1992-3 EMS Crisis -- by Barry Eichengreen, Alain Naef]]></title>
+        <id>https://www.nber.org/papers/w29488#fromrss</id>
+        <link href="https://www.nber.org/papers/w29488#fromrss"/>
+        <updated>2021-11-24T00:18:52.541Z</updated>
+        <summary type="html"><![CDATA[Using newly assembled data on foreign exchange market intervention, we construct a daily index of exchange market pressure during the 1992-3 crisis in the European Monetary System, allowing us to pinpoint when and where the crisis was most severe. Our analysis focuses on a neglected factor in the crisis: the role of the weak dollar in intra-EMS tensions. We provide new evidence of the contribution of a falling dollar-Deutschmark exchange rate to pressure on EMS currencies.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Environmental Justice and Coasian Bargaining: The Role of Race and Income in Lease Negotiations for Shale Gas -- by Christopher Timmins, Ashley Vissing]]></title>
+        <id>https://www.nber.org/papers/w29487#fromrss</id>
+        <link href="https://www.nber.org/papers/w29487#fromrss"/>
+        <updated>2021-11-24T00:18:52.520Z</updated>
+        <summary type="html"><![CDATA[Using a unique combination of datasets and estimation techniques, we test whether private lease negotiations to extract oil and natural gas exhibit features of Coasian efficiency. We demonstrate that measures of wealth (including income, house square footage, and land acreage), typically determinants of willingness to pay for environmental quality, do affect bargaining outcomes. However, race, ethnicity, and language also play important roles after conditioning upon these variables, suggesting an environmental injustice and a breakdown of efficient Coasian bargaining. We further demonstrate that failure to negotiate protections in leases leads to increased risk of future drilling violations, which are not offset by local ordinance restrictions.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freddie Mac: Mortgage Serious Delinquency Rate decreased in October]]></title>
+        <id>http://www.calculatedriskblog.com/2021/11/freddie-mac-mortgage-serious.html</id>
+        <link href="http://www.calculatedriskblog.com/2021/11/freddie-mac-mortgage-serious.html"/>
+        <updated>2021-11-23T22:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Freddie Mac reported that the Single-Family serious delinquency rate in October was 1.32%, down from 1.46% in September.  Freddie's rate is down year-over-year from 2.89% in October 2020.
+Freddie's serious delinquency rate peaked in February 2010 at 4.20% following the housing bubble, and peaked at 3.17% in August 2020 during the pandemic.
+These are mortgage loans that are "three monthly payments or more past due or in foreclosure".
+Click on graph for larger image
+Mortgages in forbearance are being counted as delinquent in this monthly report, but they will not be reported to the credit bureaus.
+This is very different from the increase in delinquencies following the housing bubble.   Lending standards have been fairly solid over the last decade, and most of these homeowners have equity in their homes - and they will be able to restructure their loans once (if) they are employed.
+Also - for multifamily - delinquencies were at 0.10%, down from the peak of 0.20% in April 2021.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 23rd COVID-19: New Cases and Hospitalizations Increasing]]></title>
+        <id>http://www.calculatedriskblog.com/2021/11/november-23rd-covid-19-new-cases-and.html</id>
+        <link href="http://www.calculatedriskblog.com/2021/11/november-23rd-covid-19-new-cases-and.html"/>
+        <updated>2021-11-23T22:15:00.001Z</updated>
+        <summary type="html"><![CDATA[The CDC is the source for all data.
+
+
+According to the CDC, on Vaccinations.  Total doses administered: 452,704,982.
+
+
+
+COVID Metrics
+  
+ TodayWeek
+AgoGoal
+ Percent fully Vaccinated59.0%---≥70.0%1
+ Fully Vaccinated (millions)196.0---≥2321
+  
+New Cases per Day3🚩93,66884,051≤5,0002
+  
+Hospitalized3🚩42,84140,688≤3,0002
+  
+Deaths per Day31,0091,032≤502
+  
+1 Minimum to achieve "herd immunity" (estimated between 70% and 85%).
+2my goals to stop daily posts,
+37-day average for Cases, Currently Hospitalized, and Deaths
+🚩 Increasing 7-day average week-over-week for Cases, Hospitalized, and Deaths     
+✅ Goal met.
+  
+
+IMPORTANT: For "herd immunity" most experts believe we need 70% to 85% of the total population fully vaccinated (or already had COVID).  Note: COVID will probably stay endemic (at least for some time).
+
+
+KUDOS to the residents of the 5 states that have achieved 70% of total population fully vaccinated: Vermont at 72.6%, Rhode Island, Connecticut, Maine, and Massachusetts at 70.8%.
+
+
+KUDOS also to the residents of the 16 states and D.C. that have achieved 60% of total population fully vaccinated: New York at 68.1%, New Jersey, Maryland, Washington, Virginia, New Hampshire, Oregon, District of Columbia, New Mexico, Colorado, California, Minnesota, Pennsylvania, Illinois, Delaware, Florida, and Hawaii at 60.7%.
+
+The following 19 states have between 50% and 59.9% fully vaccinated: Wisconsin at 59.3%, Nebraska, Iowa, Utah, Michigan, Texas, Kansas, Arizona, Nevada, South Dakota, North Carolina, Alaska, Ohio, Kentucky, Montana, Oklahoma, South Carolina, Missouri and Indiana at 50.5%.
+
+Next up (total population, fully vaccinated according to CDC) are Georgia at 49.3%, Tennessee at 49.3%, Arkansas at 49.0%, Louisiana at 48.6% and North Dakota at 48.6%.
+
+Click on graph for larger image.
+This graph shows the daily (columns) and 7-day average (line) of positive tests reported.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
         </author>
     </entry>
     <entry>
@@ -295,16 +361,6 @@ This suggests that Case-Shiller will start to show some deceleration later this 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mutual funds’ loyalty helped to stabilise ESG stocks during COVID-19]]></title>
-        <id>https://voxeu.org/article/mutual-funds-loyalty-helped-stabilise-esg-stocks-during-covid-19</id>
-        <link href="https://voxeu.org/article/mutual-funds-loyalty-helped-stabilise-esg-stocks-during-covid-19"/>
-        <updated>2021-11-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How did the stock market crash caused by Covid-19 affect different asset classes and fund types? This column studies the trading behaviour of actively managed equity mutual funds in the US during the crisis and finds that funds with high environmental, social, and governance ratings helped to stabilise the market, but other funds also provided support for ESG stocks. All funds experiencing inflows increased their net purchases, but this behaviour was stronger for ESG funds. Non-ESG funds experiencing outflows increased their net sales, but this was limited to their holdings of non-ESG stocks.]]></summary>
-        <author>
-            <name>Rui Albuquerque, Yrjo Koskinen, Raffaele Santioni</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Multinational production and investment provisions in preferential trade agreements]]></title>
         <id>https://voxeu.org/article/multinational-production-and-investment-provisions-preferential-trade-agreements</id>
         <link href="https://voxeu.org/article/multinational-production-and-investment-provisions-preferential-trade-agreements"/>
@@ -325,6 +381,16 @@ Buti, M and Messori, M, Euro area policy mix: From horizontal to vertical coord
 Register for the launch of the book The Man Inside: A European Journey through Two Crises, Wednesday 24 November 2021, 16:00 GMT]]></summary>
         <author>
             <name>Marco Buti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutual funds’ loyalty helped to stabilise ESG stocks during COVID-19]]></title>
+        <id>https://voxeu.org/article/mutual-funds-loyalty-helped-stabilise-esg-stocks-during-covid-19</id>
+        <link href="https://voxeu.org/article/mutual-funds-loyalty-helped-stabilise-esg-stocks-during-covid-19"/>
+        <updated>2021-11-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How did the stock market crash caused by Covid-19 affect different asset classes and fund types? This column studies the trading behaviour of actively managed equity mutual funds in the US during the crisis and finds that funds with high environmental, social, and governance ratings helped to stabilise the market, but other funds also provided support for ESG stocks. All funds experiencing inflows increased their net purchases, but this behaviour was stronger for ESG funds. Non-ESG funds experiencing outflows increased their net sales, but this was limited to their holdings of non-ESG stocks.]]></summary>
+        <author>
+            <name>Rui Albuquerque, Yrjo Koskinen, Raffaele Santioni</name>
         </author>
     </entry>
     <entry>
@@ -481,6 +547,54 @@ Overall, air travel had been off about 20% relative to 2019 for the last four mo
 The second graph shows th…]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경제의 길/권남훈 외 지음/21세기북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=283686664</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=283686664"/>
+        <updated>2021-11-22T00:51:00.000Z</updated>
+        <summary type="html"><![CDATA[경제의 길
+권남훈 외 지음 / 21세기북스 / 2021년 11월 / ISBN:9788950998219
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 68원
+이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+
+
+
+
+저소득층의 고통은 한층 커졌으며 집값은 천정부지로 뛰어 내 집 마련은 아무나 꿀 수 없는 꿈이 되고 말았다. 이렇게 무너진 한국경제를 다시 일으켜 세워야 하는 것은, 2022년 출범하는 새 정부의 숙명적 과제일 것이다. 이를 위해 국내 최고 경제정책 전문가 10인이 모여 ‘성장과 혁신’, ‘재정과 복지’, ‘부동산·금융·공정거래’, ‘노동, 저출산’ 등 9개의 어젠다를 제시한다. 
+
+이 책에서는 정부가 추진해온 ‘소득주도성장론’과 ‘집값 안정 정책’은 실패했다고 분석하며, 경제의 기본 원리를 다시 복원해야 한다고 말한다. 저성장 극복 방안, 디지털시대의 혁신역량 강화, 국가 재정전략 수립, 주택시장 정상화 해법, 금융 산업과 서비스업의 경쟁력 제고, 초저출산 사회의 과제 등 한국경제를 정상궤도로 돌려놓기 위한 혁신전략을 담은 이 책은 대한민국의 경제 발전을 위한 가장 믿음직스러운 정책서가 되어줄 것이다.
+
+서문 경제의 길을 찾아서 - 권남훈(건국대)
+
+제1부 【성장과 혁신】 
+성장의 엔진을 어떻게 다시 켤 것인가? 
+01 저성장을 극복하기 위한 길 - 박정수(서강대)
+02 디지털 전환 시대의 혁신역량 강화 - 전현배(서강대)
+
+제2부 【재정과 복지】 
+지출 구조를 어떻게 바로잡을 것인가? 
+03 지속 가능한 국가 재정 전략의 수립 - 박형수(K-정책플랫폼)
+04 한국 복지국가의 현재, 도전, 그리고 개혁 과제 - 양재진(연세대)
+
+제3부 【부동산, 금융, 공정거래】 
+규제의 실패로부터 어떻게 벗어날 것인가? 
+05 주택 시장 정상화, 해법은 무엇인가? - 손재영(건국대), 황세진(KDI)
+06 금융 산업, 서비스업 경쟁력 제고의 선봉장 될 수 있나? - 민세진(동국대)
+07 공정거래 정책의 역할은 어디까지여야 하는가? - 권남훈(건국대)
+
+제4부 【노동, 저출산】 
+일자리와 저출산의 문제는 어떻게 해결해야 하는가? 
+08 선진적 노동시장으로 가는 길: 걸림돌과 과제는? - 김용성(한국기술교육대)
+09 ‘초’저출산 사회의 도전과 과제 - 김영철(서강대)
+
+미주
+
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
@@ -651,16 +765,6 @@ This graph shows the daily (columns) and 7 day average (line) of positive tests 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Assessing the magnitude of the domestic violence problem during COVID-19]]></title>
-        <id>https://voxeu.org/article/assessing-magnitude-domestic-violence-problem-during-covid-19</id>
-        <link href="https://voxeu.org/article/assessing-magnitude-domestic-violence-problem-during-covid-19"/>
-        <updated>2021-11-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Concerns that domestic violence would intensify during the COVID-19 lockdowns were not borne out by early research. But that research relied on police records. This column suggests that studies based solely on police-recorded incidents of domestic violence provide a less accurate picture than sources less susceptible to changes in reporting behaviour. Based on internet search activity, the authors find a 40% increase in domestic violence incidents in London during the lockdowns – seven to eight times larger than estimates relying on police data alone.]]></summary>
-        <author>
-            <name>Dan Anderberg, Helmut Rainer, Fabian Siuda</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A temporary VAT cut as unconventional fiscal policy]]></title>
         <id>https://voxeu.org/article/temporary-vat-cut-unconventional-fiscal-policy</id>
         <link href="https://voxeu.org/article/temporary-vat-cut-unconventional-fiscal-policy"/>
@@ -668,6 +772,16 @@ This graph shows the daily (columns) and 7 day average (line) of positive tests 
         <summary type="html"><![CDATA[Unconventional fiscal policy acts as a potential stimulus because higher expected future prices should incentivise spending today. This column shows that the temporary reduction in Germany’s value added tax in the second half of 2020 led to a 36% increase in durable spending for individuals with a high perceived price pass-through, along with an increase in semi- and non-durable spending. In total, aggregate consumption spending rose by about €34 billion. Unlike unconventional monetary policy, which often relies on consumer sophistication, the stabilisation success of the temporary VAT cut was partly related to its simplicity.]]></summary>
         <author>
             <name>Rüdiger Bachmann, Benjamin Born, Olga Goldfayn-Frank, Georgi Kocharakov, Ralph Luetticke, Michael Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assessing the magnitude of the domestic violence problem during COVID-19]]></title>
+        <id>https://voxeu.org/article/assessing-magnitude-domestic-violence-problem-during-covid-19</id>
+        <link href="https://voxeu.org/article/assessing-magnitude-domestic-violence-problem-during-covid-19"/>
+        <updated>2021-11-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Concerns that domestic violence would intensify during the COVID-19 lockdowns were not borne out by early research. But that research relied on police records. This column suggests that studies based solely on police-recorded incidents of domestic violence provide a less accurate picture than sources less susceptible to changes in reporting behaviour. Based on internet search activity, the authors find a 40% increase in domestic violence incidents in London during the lockdowns – seven to eight times larger than estimates relying on police data alone.]]></summary>
+        <author>
+            <name>Dan Anderberg, Helmut Rainer, Fabian Siuda</name>
         </author>
     </entry>
     <entry>
@@ -755,7 +869,7 @@ emphasis added]]></summary>
         <updated>2021-11-19T02:40:00.000Z</updated>
         <summary type="html"><![CDATA[부를 위한 기회, 에너지 전환과 모빌리티 투자
 장문수.강동진 지음 / 원앤원북스 / 2021년 11월 / ISBN:9791170432692
-정가: 16,500원 / 판매가: 14,850원 / 마일리지: 820원
+정가: 16,500원 / 판매가: 14,850원 / 마일리지: 59원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -824,7 +938,7 @@ Chapter 6 에너지 대전환의 주역, 태양광과 배터리에 투자하자
         <updated>2021-11-19T02:13:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬 고급 딥러닝
 Ivan Vasilev 지음, 유현중 옮김 / 홍릉(홍릉과학출판사) / 2021년 11월 / ISBN:9791156008866
-정가: 39,000원 / 판매가: 39,000원 / 마일리지: 189원
+정가: 39,000원 / 판매가: 39,000원 / 마일리지: 1,170원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -843,7 +957,7 @@ Ivan Vasilev 지음, 유현중 옮김 / 홍릉(홍릉과학출판사) / 2021년 
         <updated>2021-11-19T01:42:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬 딥러닝 프로젝트
 Matthew Lamons 외 지음, 강태원 옮김 / 홍릉(홍릉과학출판사) / 2021년 11월 / ISBN:9791156009382
-정가: 39,000원 / 판매가: 39,000원 / 마일리지: 189원
+정가: 39,000원 / 판매가: 39,000원 / 마일리지: 1,170원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -912,7 +1026,7 @@ This graph shows the daily (columns) and 7 day average (line) of positive tests 
         <updated>2021-11-19T00:33:00.000Z</updated>
         <summary type="html"><![CDATA[누가 한국 경제를 파괴하는가
 최배근 지음 / 북인어박스 / 2021년 11월 / ISBN:9791197617003
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 61원
 이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
 
 
@@ -1068,31 +1182,13 @@ The occupancy rate will now decline seasonally into the new year.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Weekly Initial Unemployment Claims at 268,000]]></title>
-        <id>http://www.calculatedriskblog.com/2021/11/weekly-initial-unemployment-claims-at.html</id>
-        <link href="http://www.calculatedriskblog.com/2021/11/weekly-initial-unemployment-claims-at.html"/>
-        <updated>2021-11-18T13:34:00.002Z</updated>
-        <summary type="html"><![CDATA[The DOL reported:
-In the week ending November 13, the advance figure for seasonally adjusted initial claims was 268,000, a decrease of  1,000 from the previous week's revised level. This is the lowest level for initial claims since March 14, 2020 when it was  256,000. The previous week's level was revised up by 2,000 from 267,000 to 269,000. The 4-week moving average was  272,750, a decrease of 5,750 from the previous week's revised average. This is the lowest level for this average since  March 14, 2020 when it was 225,500. The previous week's average was revised up by 500 from 278,000 to 278,500.
-emphasis added
-The following graph shows the 4-week moving average of weekly claims since 1971.
-Click on graph for larger image.
-The dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims decreased to 272,750.
-The previous week was revised up.
-Regular state continued claims decreased to 2,080,000 (SA) from 2,209,000 (SA) the previous week.
-Weekly claims were above consensus forecast.]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[비지니스 Python 첫걸음/나카지마 쇼고 지음, 변문현 옮김/보국]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=283507188</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=283507188"/>
         <updated>2021-11-18T07:50:00.000Z</updated>
         <summary type="html"><![CDATA[비지니스 Python 첫걸음
 나카지마 쇼고 지음, 변문현 옮김 / 보국 / 2021년 11월 / ISBN:9791196262068
-정가: 23,000원 / 판매가: 20,700원 / 마일리지: 94원
+정가: 23,000원 / 판매가: 20,700원 / 마일리지: 1,150원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -1162,7 +1258,7 @@ Python은 AI와 기계 학습에 관련된 프로그래밍에 최적일 뿐만 �
         <updated>2021-11-18T07:13:00.000Z</updated>
         <summary type="html"><![CDATA[취향의 경제
 유승호 지음 / 따비 / 2021년 11월 / ISBN:9788998439965
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 69원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -1204,7 +1300,7 @@ Python은 AI와 기계 학습에 관련된 프로그래밍에 최적일 뿐만 �
         <updated>2021-11-18T05:29:00.000Z</updated>
         <summary type="html"><![CDATA[[큰글자도서] 힘든 시대를 위한 좋은 경제학 2
 아비지트 배너지.에스테르 뒤플로 지음, 김승진 옮김 / 생각의힘 / 2021년 10월 / ISBN:9791190955379
-정가: 38,000원 / 판매가: 38,000원 / 마일리지: 1,140원
+정가: 38,000원 / 판매가: 38,000원 / 마일리지: 142원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -1249,7 +1345,7 @@ Python은 AI와 기계 학습에 관련된 프로그래밍에 최적일 뿐만 �
         <updated>2021-11-18T05:24:00.000Z</updated>
         <summary type="html"><![CDATA[[큰글자도서] 힘든 시대를 위한 좋은 경제학 1
 아비지트 배너지.에스테르 뒤플로 지음, 김승진 옮김 / 생각의힘 / 2021년 10월 / ISBN:9791190955362
-정가: 32,000원 / 판매가: 32,000원 / 마일리지: 960원
+정가: 32,000원 / 판매가: 32,000원 / 마일리지: 144원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -1288,19 +1384,6 @@ Python은 AI와 기계 학습에 관련된 프로그래밍에 최적일 뿐만 �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thursday: Unemployment Claims, Philly Fed Mfg]]></title>
-        <id>http://www.calculatedriskblog.com/2021/11/thursday-unemployment-claims-philly-fed.html</id>
-        <link href="http://www.calculatedriskblog.com/2021/11/thursday-unemployment-claims-philly-fed.html"/>
-        <updated>2021-11-18T01:21:00.001Z</updated>
-        <summary type="html"><![CDATA[Thursday:
-• At 8:30 AM ET, The initial weekly unemployment claims report will be released.  The consensus is for 260 thousand initial claims, down from 267 thousand last week.
-• Also at 8:30 AM, the Philly Fed manufacturing survey for November.  The consensus is for a reading of 24.0, up from 23.8.
-• At 11:00 AM, the Kansas City Fed manufacturing survey for November.]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Remittance rules]]></title>
         <id>https://www.aeaweb.org/research/charts/internet-tax-haven-us</id>
         <link href="https://www.aeaweb.org/research/charts/internet-tax-haven-us"/>
@@ -1317,7 +1400,7 @@ Python은 AI와 기계 학습에 관련된 프로그래밍에 최적일 뿐만 �
         <updated>2021-11-16T04:48:00.000Z</updated>
         <summary type="html"><![CDATA[매경 아웃룩 2022 대예측
 매경이코노미 엮음 / 매일경제신문사 / 2021년 11월 / ISBN:9791164843480
-정가: 20,000원 / 판매가: 18,000원 / 마일리지: 1,000원
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 76원
 이벤트: 직장인 상태표지판/변색 머그
 
 
@@ -1385,7 +1468,7 @@ ESG 공시 요구 크게 증가 ‘그린워싱’ 경각심도 높아져
         <updated>2021-11-16T01:17:00.000Z</updated>
         <summary type="html"><![CDATA[재테크는 모르지만 부자로 키우고 싶어
 토리텔러 지음 / 동양북스(동양문고) / 2021년 11월 / ISBN:9791157687534
-정가: 15,800원 / 판매가: 14,220원 / 마일리지: 790원
+정가: 15,800원 / 판매가: 14,220원 / 마일리지: 60원
 이벤트:  구매 시, 은행놀이
 
 
@@ -1470,8 +1553,8 @@ Part 2 아이와 함께하는 재테크 레시피
         <updated>2021-11-15T08:02:00.000Z</updated>
         <summary type="html"><![CDATA[RStudio IDE 쉽게 배우기
 매튜 캠벨 지음, 오승교 옮김 / 황소걸음아카데미 / 2021년 11월 / ISBN:9791186821633
-정가: 15,000원 / 판매가: 15,000원 / 마일리지: 68원
-이벤트: 수험서.대학교재- 달력/다이어리/형광펜
+정가: 15,000원 / 판매가: 15,000원 / 마일리지: 450원
+이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
 
@@ -1601,7 +1684,7 @@ Part 2 아이와 함께하는 재테크 레시피
         <updated>2021-11-15T07:40:00.000Z</updated>
         <summary type="html"><![CDATA[레이어드 머니 돈이 진화한다
 닉 바티아 지음, 정성환 옮김 / 심플라이프 / 2021년 11월 / ISBN:9791186757758
-정가: 15,800원 / 판매가: 14,220원 / 마일리지: 790원
+정가: 15,800원 / 판매가: 14,220원 / 마일리지: 55원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -1654,7 +1737,7 @@ Part 2 아이와 함께하는 재테크 레시피
         <updated>2021-11-15T05:13:00.000Z</updated>
         <summary type="html"><![CDATA[돈의 거짓말
 정길원 지음 / 포레스트북스 / 2021년 11월 / ISBN:9791191347555
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 62원
 이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
 
 
@@ -1705,7 +1788,7 @@ Part 2 아이와 함께하는 재테크 레시피
         <updated>2021-11-15T02:40:00.000Z</updated>
         <summary type="html"><![CDATA[2030 극한 경제 시나리오
 리차드 데이비스 (Richard Davies) 지음, 고기탁 옮김 / 부키 / 2021년 11월 / ISBN:9788960518940
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 84원
 이벤트: 직장인 상태표지판/변색 머그
 
 
@@ -1715,7 +1798,7 @@ Part 2 아이와 함께하는 재테크 레시피
 
 극한에 대비하려면 극한에서 배우는 것이 가장 좋다. 이 전략에 따라 저자는 4대륙 9개국 16만 킬로미터를 가로지르는 “극한 경제 여행”을 떠난다. 이 책에서 만나는 여행지는 최선의 성공을 거둔 3곳(아체, 자타리, 루이지애나), 최악의 실패를 겪은 3곳(다리엔, 킨샤사, 글래스고), 최첨단의 미래를 달리는 3곳(아키타, 탈린, 산티아고)이다. 거의 또는 전혀 알려지지 않은 곳들이지만 극한 여행지로는 최고의 핫 스폿들이다. 
 
-최악의 상황에 직면한 곳들이 살아남아 회복하고 성장하는 비결은 무엇인가? 반대로 최고의 조건을 갖춘 곳들이 참담한 실패와 몰락을 겪는 이유는 무엇인가? 임박한 미래를 선도하는 곳들은 어떤 충격과 도전에 직면하며 어떻게 대응하는가? 생생하고 감동적인 일상의 풍경과 현장의 목소리, 풍성하고 날카로운 연구 데이터와 …]]></summary>
+최악의 상황에 직면한 곳들이 살아남아 회복하고 성장하는 비결은 무엇인가? 반대로 최고의 조건을 갖춘 곳들이 참담한 실패와 몰락을 겪는 이유는 무엇인가? 임박한 미래를 선도하는 곳들은 어떤 충격과 도전에 직면하며 어떻게 대응하는가? 생생하고 감동적인 일상의 풍경과 현장의 목소리, 풍성하고 날카로운 연구 데이터와 역사를…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -1727,8 +1810,8 @@ Part 2 아이와 함께하는 재테크 레시피
         <updated>2021-11-15T02:36:00.000Z</updated>
         <summary type="html"><![CDATA[东亚区域经济学 동아시아지역경제학
 이학성 지음 / 세종출판사(이길안) / 2021년 10월 / ISBN:9791159794704
-정가: 40,000원 / 판매가: 36,000원 / 마일리지: 2,000원
-이벤트: 수험서.대학교재- 달력/다이어리/형광펜
+정가: 40,000원 / 판매가: 36,000원 / 마일리지: 181원
+이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
 
@@ -1807,7 +1890,7 @@ Part 2 아이와 함께하는 재테크 레시피
         <updated>2021-11-15T01:01:00.000Z</updated>
         <summary type="html"><![CDATA[처음 시작하는 스프링 프레임워크 - 원리부터 실전까지
 허진경 지음 / 부크크(bookk) / 2021년 10월 / ISBN:9791137259171
-정가: 39,000원 / 판매가: 39,000원 / 마일리지: 181원
+정가: 39,000원 / 판매가: 39,000원 / 마일리지: 0원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -1896,7 +1979,7 @@ Part 2 아이와 함께하는 재테크 레시피
         <updated>2021-11-15T00:40:00.000Z</updated>
         <summary type="html"><![CDATA[게임의 법칙을 설계하라
 케이윳 첸.마리나 크라코프스키 지음, 유효상 옮김 / 클라우드나인 / 2021년 11월 / ISBN:9791191334364
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 75원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -1906,7 +1989,7 @@ Part 2 아이와 함께하는 재테크 레시피
 
 실험경제학은 최근 주목받는 행동경제학 분야 중에서도 최첨단 영역으로 사람들이 의사결정을 하는 심리, 그 과정, 그리고 돈을 둘러싼 거래와 계약, 협상 등의 상황에서 실제로 어떻게 움직이는지 파악하기 위해 현실과 거의 유사한 실험 환경하에서 데이터를 도출하는 학문이다. 구글, 야후, 이베이 등 전자상거래의 규칙이나 운용 시스템을 만들어야 하는 기업뿐 아니라 피앤지, 존슨앤드존슨, 히타치 등 유수의 기업들이 촉각을 곤두세우며 관심을 보이는 책 속 실험경제학의 연구 결과들은 독자들에게 흥미롭게 다가온다.
 
-HP연구소의 머니랩에서 한 경제 실험 결과를 통해 인간을 이해하게 된다면 인간을 예측할 수 있게 되고 그럼 게임의 법칙을 설계할 수 있게 된다. 즉 삶에서도 비즈니스에서도 게임의 법칙을 설계할 수 있게 되는 것이다. 이 책은 바로 그 사람들의 심리, 행동, 철학 그…]]></summary>
+HP연구소의 머니랩에서 한 경제 실험 결과를 통해 인간을 이해하게 된다면 인간을 예측할 수 있게 되고 그럼 게임의 법칙을 설계할 수 있게 된다. 즉 삶에서도 비즈니스에서도 게임의 법칙을 설계할 수 있게 되는 것이다. 이 책은 바로 그 사람들의 심리, 행동, 철학 그 …]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -1918,8 +2001,8 @@ HP연구소의 머니랩에서 한 경제 실험 결과를 통해 인간을 이�
         <updated>2021-11-15T00:23:00.000Z</updated>
         <summary type="html"><![CDATA[지능 기반 의료를 위한 헬스케어 애널리틱스
 비카스 쿠마르 지음, 고석범 옮김 / 에이콘출판 / 2021년 11월 / ISBN:9791161755885
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 120원
-이벤트: 수험서.대학교재- 달력/다이어리/형광펜
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
+이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
 
@@ -2013,7 +2096,7 @@ ______비정형 ...
         <updated>2021-11-15T00:03:00.000Z</updated>
         <summary type="html"><![CDATA[정책은 디테일이다
 심학봉 지음 / 매일경제신문사 / 2021년 11월 / ISBN:9791164843435
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 62원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -2073,7 +2156,7 @@ The post Minimum Wages and Racial Inequality appeared first on Microeconomic Ins
         <updated>2021-11-12T00:14:00.000Z</updated>
         <summary type="html"><![CDATA[새로운 금융이 온다
 헨리 아슬라니언.패브리스 피셔 지음, 최용호.조철민 옮김 / 차밍시티 / 2021년 11월 / ISBN:9791196531164
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 85원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -2133,8 +2216,8 @@ The post Minimum Wages and Racial Inequality appeared first on Microeconomic Ins
         <updated>2021-11-11T00:58:00.000Z</updated>
         <summary type="html"><![CDATA[사상으로서의 근대경제학
 모리시마 미치오 지음, 이승무 옮김 / AK(에이케이)커뮤니케이션즈 / 2021년 11월 / ISBN:9791127448608
-정가: 13,800원 / 판매가: 12,420원 / 마일리지: 690원
-이벤트: 수험서.대학교재- 달력/다이어리/형광펜
+정가: 13,800원 / 판매가: 12,420원 / 마일리지: 57원
+이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
 
@@ -2194,7 +2277,7 @@ The post Minimum Wages and Racial Inequality appeared first on Microeconomic Ins
         <updated>2021-11-11T00:54:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬 데이터 클리닝 쿡북
 마이클 워커 지음, 최용 옮김 / 위키북스 / 2021년 11월 / ISBN:9791158392789
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 109원
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -2268,8 +2351,8 @@ ___6.8 k-최근접 이웃으로 누락값 대치...
         <updated>2021-11-10T23:45:00.000Z</updated>
         <summary type="html"><![CDATA[코드로 배우는 인공지능
 장리커.판후이 지음, 김태헌 옮김 / 제이펍 / 2021년 11월 / ISBN:9791191600421
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 97원
-이벤트: 수험서.대학교재- 달력/다이어리/형광펜
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
+이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
 
@@ -2378,7 +2461,7 @@ CHAPTER 09 모델 배포 및 서비스 295
         <updated>2021-11-10T01:24:00.000Z</updated>
         <summary type="html"><![CDATA[한경무크 : 산업대전망 인더스트리 2022
 한경비즈니스.한상춘.하나금융투자 지음 / 한국경제신문 / 2021년 11월 / ISBN:9791185272702
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 84원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -2479,7 +2562,7 @@ Industry Trend Big 5
         <updated>2021-11-09T08:34:00.000Z</updated>
         <summary type="html"><![CDATA[성낙현의 JSP 자바 웹 프로그래밍
 성낙현 지음 / 골든래빗(주) / 2021년 11월 / ISBN:9791191905052
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 120원
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -2576,7 +2659,7 @@ _...
         <updated>2021-11-09T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[만화로 보는 기본소득
 우덕환 지음, 경기연구원 기본소득연구단 감수 / 다할미디어 / 2021년 11월 / ISBN:9791191656138
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 56원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -2621,8 +2704,8 @@ _...
         <updated>2021-11-09T02:39:00.000Z</updated>
         <summary type="html"><![CDATA[명품 C언어 프로그래밍
 안기수 지음 / 생능 / 2021년 11월 / ISBN:9788970505213
-정가: 28,000원 / 판매가: 28,000원 / 마일리지: 145원
-이벤트: 수험서.대학교재- 달력/다이어리/형광펜
+정가: 28,000원 / 판매가: 28,000원 / 마일리지: 840원
+이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
 
@@ -2705,7 +2788,7 @@ CHAPTER 07 조건에 대한 판단과 선택
         <updated>2021-11-09T00:25:00.000Z</updated>
         <summary type="html"><![CDATA[금에 투자하라
 가메이 고이치로 지음, 현승희 옮김 / 해피북스투유 / 2021년 11월 / ISBN:9791164795024
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 62원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -2761,7 +2844,7 @@ PART 6_지금이야말로 금을 사야만 한다
         <updated>2021-11-09T00:17:00.000Z</updated>
         <summary type="html"><![CDATA[성공하는 구독경제 원픽
 두진문 지음 / 행복에너지 / 2021년 11월 / ISBN:9791156029359
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 63원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -2856,8 +2939,8 @@ PART 6_지금이야말로 금을 사야만 한다
         <updated>2021-11-08T06:03:00.000Z</updated>
         <summary type="html"><![CDATA[채권실무 (초보자도 쉽게 배우는)
 최흥식 지음 / 중앙경제평론사 / 2021년 11월 / ISBN:9788960542853
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
-이벤트: 수험서.대학교재- 달력/다이어리/형광펜
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 73원
+이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
 
@@ -2951,7 +3034,7 @@ PART 6_지금이야말로 금을 사야만 한다
         <updated>2021-11-04T23:51:00.000Z</updated>
         <summary type="html"><![CDATA[Python 2학년 스크래핑의 구조
 모리 요시나오 지음, 이영란 옮김 / 성안당 / 2021년 11월 / ISBN:9788931556896
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 65원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -3048,7 +3131,7 @@ LE...
         <updated>2021-11-04T06:11:00.000Z</updated>
         <summary type="html"><![CDATA[메타버스 골드러시
 민문호 지음 / 슬로디미디어 / 2021년 11월 / ISBN:9791167850430
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 55원
 이벤트:  마이리뷰 남기면, 소문 웹캠 화상카메라 추첨
 
 
@@ -3129,7 +3212,7 @@ AR·VR 기술의 고도화 문제 _ 208
         <updated>2021-11-04T00:52:00.000Z</updated>
         <summary type="html"><![CDATA[C# 스타터
 문기준 지음 / 성안북스 / 2021년 11월 / ISBN:9788970674100
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 98원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -3237,7 +3320,7 @@ Chapter 7. C#으로 구현하는 자료구조
         <updated>2021-11-03T02:57:00.000Z</updated>
         <summary type="html"><![CDATA[2030을 위한 NEW LABOR 일자리 개혁
 김태기 외 지음 / 중앙경제사 / 2021년 10월 / ISBN:9788970174778
-정가: 20,000원 / 판매가: 20,000원 / 마일리지: 600원
+정가: 20,000원 / 판매가: 20,000원 / 마일리지: 95원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -3316,7 +3399,7 @@ Chapter 7. C#으로 구현하는 자료구조
         <updated>2021-11-03T00:43:00.000Z</updated>
         <summary type="html"><![CDATA[위드 코로나 시대의 AI 경영
 양준영 지음 / 경문사(경문북스) / 2021년 11월 / ISBN:9791160734935
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 0원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 72원
 이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
 
 
@@ -3344,75 +3427,52 @@ AI 기술을 기반으로 한 글로벌 경쟁시대에서 인공지능이 변�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혁신의 시작/김병연 외 지음, 서울대학교 한국경제혁신센터·경제연구소·경제학부 엮음/매일경제신문사]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=282491510</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=282491510"/>
-        <updated>2021-11-02T00:52:00.000Z</updated>
-        <summary type="html"><![CDATA[혁신의 시작
-김병연 외 지음, 서울대학교 한국경제혁신센터·경제연구소·경제학부 엮음 / 매일경제신문사 / 2021년 11월 / ISBN:9791164843381
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+        <title type="html"><![CDATA[뉴미디어 트렌드 2022/샌드박스네트워크 데이터랩 외 지음/샌드박스스토리]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=282501231</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=282501231"/>
+        <updated>2021-11-02T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[뉴미디어 트렌드 2022
+샌드박스네트워크 데이터랩 외 지음 / 샌드박스스토리 / 2021년 11월 / ISBN:9791197497315
+정가: 19,000원 / 판매가: 17,100원 / 마일리지: 75원
+이벤트:  초판 한정 저자 강의 수록
 
 
 
 
-시장이 클수록 혁신에 대한 보상은 증가하며, 이는 더 많은 혁신을 불러온다. 그러나 전 세계 인구의 0.7%에도 미치지 못하지만 세계 10위의 경제 규모를 가지게 된 우리나라는 무역을 통해서 혁신을 자극하는 효과를 누려왔다. 박지형 교수는 한국의 사례를 들어 국내의 인적·물적 자원뿐 아니라 전 세계 자원을 효과적으로 활용해야 지속적 혁신을 할 수 있다고 강조한다.
+메타버스, OTT, 밈테크, 틱톡, 슈퍼 IP, 이커머스, 오리지널 콘텐츠…. 만약 이런 단어가 낯설다면 당신은 세상의 변화에 둔감한 사람일지 모른다. 1020세대의 전유물이라고 치부되던 뉴미디어와 그 매체가 담아내는 독창적인 콘텐츠는 이제 보편적이고 대중적인 문화로 자리 잡아가고 있다. 뿐만 아니라 유튜브와 숏폼의 인기 콘텐츠가 거시적인 사회문화 트렌드의 출발지가 되는 사례가 점차 늘어나면서, 뉴미디어 콘텐츠의 영향력이 커지고 있다.
 
-2021년 글로벌혁신지수(Global Innovation Index)에서 한국은 스위스, 스웨덴, 미국, 영국에 이어 세계 5위의 혁신국가로 평가됐다. 하지만 한국은 ‘기술 융합 역량’은 우수한 편이나 ‘창의적 사고’와 ‘공정하고 유연한 제도’의 면에서는 다른 선진국에 비해 뒤처진다. 이정민 교수는 정부가 충분한 숙려 기간과 사전 검토 기간을 거친 후 정책을 체계적으로 결정해야 엉뚱한 곳으로 투자 자원이 소모되지 않는다고 지적한다.
+국내에서 가장 많은 유튜브 빅데이터를 분석하는 MCN 샌드박스네트워크는 이 책에서 사회 변화의 맥락을 짚어내고, 앞으로 전개될 사회문화 트렌드의 변화를 거시적으로 예측한다. 그리고 이를 좀 더 깊이 있게 다루기 위해 10개의 트렌드 키워드 ‘부캐, 팬덤, 숏폼, 호모집쿠스, 밈테크, 메타버스, 오리지널 콘텐츠, e스포츠, 브랜디드 콘텐츠, 알고리즘’을 선정해 분석한다. 이 책을 통해 뉴미디어 산업의 최신 동향부터 시장 전망까지 파악하며, 새로운 비즈니스와 부의 기회를 발견할 수 있을 것이다.
 
-서문 혁신은 어떻게 시작되나
+프롤로그 뉴미디어 산업이 맞이할 거대한 변화의 흐름을 읽어내다 
 
-혁신 성장과 거시경제정책 - 김소영
-한국 경제성장 전망과 한국 경제 리스크 분석
-중장기 한국 경제 전망: 저성장과 고령화
-고령화 리스크 완화 대안: 대외투자 활성화
-한국의 정책 진단: 통화정책 및 재정정책
-정부 정책에 대한 제언
-심화 노트 최근 경제 현안과 정책에 대한 이론적 검토
+Part 1 데이터로 살펴보는 유튜브 인사이트
+01 성숙기에 접어든 유튜브의 어제와 오늘 _ 숫자로 읽는 유튜브 시장의 주요 동향  
+국내 유튜브 시장의 규모와 특징 | 국내 유튜브 시장의 주요 버티컬 탐색
 
-글로벌 공급망 변화와 산업 혁신 역량 - 이근
-새로운 국제경제 질서와 글로벌 가치사슬의 블록화
-한국 경제의 대응 전략: 리쇼어링과 대기업 · 중소기업 역량 공유
-한국 경제의 기회와 도전
-한국 경제 SWOT 분석
-심화 노트 한국 국가혁신체계의 현재와 개선 방향:
-특허 분석을 통한 국제 비교와 정책 시사
+02 취향 콘텐츠의 바로미터, 유튜브 분야별 주요 플레이어 _ 숫자로 읽는 유튜브 트렌드 키워드
+엔터테인먼트-프로와 아마추어의 경계가 무너지다 | 라이프스타일-진입장벽은 낮고 채널수는 많다 | 전문분야-선호가 분명한 마니아들의 집결지 | 푸드-평범함을 비틀어 특별하게 만들다 | 음악-국내 유튜브 시장 최강자들의 전쟁터 | 게임-하는 게임에서 보고 듣고 즐기는 게임으로 
 
-기업경쟁에 의한 혁신 - 이상승
-한국 경제발전 과정에서 기업의 개념과 역할
-미래 한국 기업혁신을 위한 제안: 벤처 생태계와 차등의결권 제도
-미래 한국 기업혁신을 위한 제안: 소액주주 권리 강화와 기업활동 규제 완화
-심화 노트 혁신 성장을 위한 벤처기업 차등의결권 도입
+Part 2 10가지 키워드로 살펴보는 뉴미디어 트렌드
+01 새로운 나, 부캐의 전성시대 _ 부캐의 세계관과 확장성 
+부캐 트렌드, 누가 판을 깔아주었나 | 대중문화 속 부캐는 어떻게 진화할 것인가 | 2022년 부캐 트렌드의 대세는 누가 될 것인가 
 
-공정과 혁신의 선순환 - 주병기
-공정한 사회와 한국 경제 재도약
-공정한 사회 만들기: 교육, 취업, 기업활동의 성공 사다리
-심화 노트 한국 경제의 불평등과 지속 발전 과제
+02 팬덤 문화의 탄생과 진화 _ 소셜 팬덤이 갖는 영향력과 파워 
+열광하는 그들, 팬덤의 연대기 | 팬코노미는 어떤 부가가치를 갖는가 | 팬덤을 이끄는 새로운 슈퍼 개인, 인플루언서
 
-노동시장의 신중한 혁신 - 이정민
-노동시장과 한국 경제 혁신
-임금 불평등: 전반적인 임금 불평등과 성별 임금 격차
-임금 불평등과 최저임금제도
-심화 노트 최저임금은 고용에 어떤 영향을 주는가?
+03 짧고 강력한 숏폼 콘텐츠 _ Z세대가 사랑하는 짧은 콘텐츠의 매운 맛 
+숏폼 콘텐츠, 짧아서 더 핫하다 | 15초의 경쟁, 숏폼 플랫폼 | 최강의 숏폼 플랫폼 ‘틱톡’ | 숏폼 플랫폼의 미래
 
-금융시장의 현안과 정책 - 안동현
-금융시장과 거시경제 환경 진단
-금융정책 진단과 정책 제안
-금융시장의 변화: 가상화폐와 CBDC, DeFi, 빅테크 경쟁
-심화 노트 가계부채, 국가부채 그리고 자본시장
+04 호모집쿠스, 집에서 먹고 놀고 일하는 신인류 _ 슈퍼홈에서 이루어지는 온오프의 협력과 미션
+나만의 공간, 스위트홈이 슈퍼홈으로 진화하다 | 나만의 시간, 집에서 새로 태어나다 | 컬처라이프, 온오프 경계가 무너지다 | 공통되면서도 차별화된 온오프 경험을 제공하라 
 
-인구문제의 해결 공간 - 이철희
-한국의 인구구조 변화
-저출산 · 경력 단절 여성 지원과 외국인력 도입
-고령화, 고령 빈곤과 정년 연장
-심화 노트 인구문제 해결의 열쇠
+05 재테크에 진심인 MZ세대, 어디까지 투자해봤니? _ MZ세대의 이색 투자보고서 
+2030세대는 왜 플렉스에서 재테크로 돌아섰나 | 신 투자인류, 게임하듯 즐기면서 돈 번다 | 밈테크를 만나면 투자도 콘텐츠가 된다 | 내실 있는 핀플루언서의 급부상
 
-가치 중심의 통상정책 - 박지형
-한국의 대외 지향적 경제발전 성과와 국제무역 환경의 격변
-국제무역 환경 변화와 한국 경제의 대외 경제 전략
-새롭게 등장하는 무역...
+06 메타버스, 상상 속 세상이 현실로 _ 포스트 디지털 시대가 맞이할 새로운 미래
+어디에도 없던 새로운 세상, 메타버스 | 성공적인 메타버스를 위한 3가지 요소 | 메타버스, 정말 유...
 
-국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
+국내도서 > 경제경영 > 마케팅/세일즈 > 트렌드/미래예측
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -3434,7 +3494,7 @@ AI 기술을 기반으로 한 글로벌 경쟁시대에서 인공지능이 변�
         <updated>2021-11-01T05:27:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬 데이터 전처리 및 탐색 라이브러리
 허진경 지음 / 부크크(bookk) / 2021년 09월 / ISBN:9791137257726
-정가: 29,400원 / 판매가: 29,400원 / 마일리지: 137원
+정가: 29,400원 / 판매가: 29,400원 / 마일리지: 0원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -3531,7 +3591,7 @@ AI 기술을 기반으로 한 글로벌 경쟁시대에서 인공지능이 변�
         <updated>2021-11-01T05:24:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬 OpenCV를 이용한 영상처리
 허진경 지음 / 부크크(bookk) / 2021년 09월 / ISBN:9791137258051
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 109원
+정가: 25,000원 / 판매가: 25,000원 / 마일리지: 0원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -3632,7 +3692,7 @@ AI 기술을 기반으로 한 글로벌 경쟁시대에서 인공지능이 변�
         <updated>2021-10-29T06:55:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬 마스터 1·2급
 유성열 지음 / 명진씨앤피 / 2021년 11월 / ISBN:9788992561525
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 90원
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -3711,7 +3771,7 @@ KAIT의 파이썬 활용 능력에 대한 자격 검증인 “파이썬 마스�
         <updated>2021-10-29T04:42:00.000Z</updated>
         <summary type="html"><![CDATA[[세트] 아파치 카프카의 모든 것 세트 - 전2권
 고승범 지음 / 책만 / 2021년 10월 / ISBN:
-정가: 63,000원 / 판매가: 56,700원 / 마일리지: 262원
+정가: 63,000원 / 판매가: 56,700원 / 마일리지: 3,150원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
@@ -3741,8 +3801,8 @@ KAIT의 파이썬 활용 능력에 대한 자격 검증인 “파이썬 마스�
         <updated>2021-10-29T01:33:00.000Z</updated>
         <summary type="html"><![CDATA[자바를 부탁해
 박세홍 지음 / 한빛아카데미(교재) / 2021년 10월 / ISBN:9791156645672
-정가: 26,000원 / 판매가: 26,000원 / 마일리지: 130원
-이벤트: 수험서.대학교재- 달력/다이어리/형광펜
+정가: 26,000원 / 판매가: 26,000원 / 마일리지: 1,300원
+이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
 
@@ -3852,7 +3912,7 @@ KAIT의 파이썬 활용 능력에 대한 자격 검증인 “파이썬 마스�
         <updated>2021-10-28T03:21:00.000Z</updated>
         <summary type="html"><![CDATA[그림과 함께하는 파이썬 수업
 최윤철.임순범 지음 / 생능 / 2021년 11월 / ISBN:9788970505206
-정가: 28,000원 / 판매가: 28,000원 / 마일리지: 142원
+정가: 28,000원 / 판매가: 28,000원 / 마일리지: 840원
 이벤트: 컴퓨터.IT - 달력/다이어리/클립보드
 
 
