@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-30T21:04:30.110Z</id>
+    <id>urn:2021-12-01T00:21:26.523Z</id>
     <title>anari: slimfeed</title>
-    <updated>2021-11-30T21:04:30.110Z</updated>
+    <updated>2021-12-01T00:21:26.523Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Cross-Product and Cross-Market Adjustments Within Multiproduct Firms: Evidence from Antidumping Actions -- by Xiaohua Bao, Bruce A. Blonigen, Zhi Yu]]></title>
-        <id>https://www.nber.org/papers/w29521#fromrss</id>
-        <link href="https://www.nber.org/papers/w29521#fromrss"/>
-        <updated>2021-11-30T21:03:44.064Z</updated>
-        <summary type="html"><![CDATA[Multiproduct firms are responsible for the vast majority of global trade. A prior literature examines how multiproduct firms respond to trade liberalizations that simultaneously affect all of the firms' products and inputs.  In contrast, our study uses Chinese firm-product-level export data to examine how an AD action, a very targeted trade policy against a specific product in a specific export destination, affects a multiproduct firms' price and quantity decisions across its other products and export destinations.  We find robust evidence for a new phenomenon we call within-firm cross-product trade deflection whereby an AD duty against one of the firm's products in one of its export destinations is associated with reduced prices and increased sales of its other products across all markets. This type of effect depends on increasing costs from joint production within multiproduct firms, something that is often assumed away in many models of the multiproduct firm.  We also document for the first time a within-firm chilling effect whereby an AD action in one export destination on a product leads the firm to raise price and lower quantity of the product in other export destinations to lower the risk of AD actions in these other markets.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Finite- and Large-Sample Inference for Ranks using Multinomial Data with an Application to Ranking Political Parties -- by Sergei Bazylik, Magne Mogstad, Joseph P. Romano, Azeem Shaikh, Daniel Wilhelm]]></title>
         <id>https://www.nber.org/papers/w29519#fromrss</id>
         <link href="https://www.nber.org/papers/w29519#fromrss"/>
-        <updated>2021-11-30T21:03:43.897Z</updated>
+        <updated>2021-12-01T00:20:39.402Z</updated>
         <summary type="html"><![CDATA[It is common to rank different categories by means of preferences that are revealed through data on choices. A prominent example is the ranking of political candidates or parties using the estimated share of support each one receives in surveys or polls about political attitudes. Since these rankings are computed using estimates of the share of support rather than the true share of support, there may be considerable uncertainty concerning the true ranking of the political candidates or parties. In this paper, we consider the problem of accounting for such uncertainty by constructing confidence sets for the rank of each category. We consider both the problem of constructing marginal confidence sets for the rank of a particular category as well as simultaneous confidence sets for the ranks of all categories. A distinguishing feature of our analysis is that we exploit the multinomial structure of the data to develop confidence sets that are valid in finite samples. We additionally develop confidence sets using the bootstrap that are valid only approximately in large samples. We use our methodology to rank political parties in Australia using data from the 2019 Australian Election Survey. We find that our finite-sample confidence sets are informative across the entire ranking of political parties, even in Australian territories with few survey respondents and/or with parties that are chosen by only a small share of the survey respondents. In contrast, the bootstrap-based confidence sets may sometimes be considerably less informative. These findings motivate us to compare these methods in an empirically-driven simulation study, in which we conclude that our finite-sample confidence sets often perform better than their large-sample, bootstrap-based counterparts, especially in settings that resemble our empirical application.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread -- by N. Meltem Daysal, Hui Ding, Maya Rossin-Slater, Hannes Schwandt]]></title>
-        <id>https://www.nber.org/papers/w29524#fromrss</id>
-        <link href="https://www.nber.org/papers/w29524#fromrss"/>
-        <updated>2021-11-30T21:03:43.830Z</updated>
-        <summary type="html"><![CDATA[While the COVID-19 pandemic has laid bare the large costs of infectious diseases, less attention has been paid to the impacts of more common, endemic respiratory viruses that frequently circulate in the population, especially when it comes to their potential long-term consequences for population health, human capital, and economic outcomes. This paper uses Danish population-level administrative data on 35 birth cohorts of children to provide a comprehensive analysis of both the mechanisms through which infants become infected by respiratory illnesses, as well as the consequences of early-life respiratory disease exposure for their later outcomes. First, we document a striking difference in the likelihood of severe respiratory illness by birth order: younger siblings have two to three times higher rates of hospitalization for respiratory conditions before age one than older siblings at the same age. We argue that the family unit is central in virus transmission, with older children "bringing home" the virus to their younger siblings. We then combine the birth order variation with within-municipality variation in respiratory disease prevalence among preschool-aged children to identify differential long-term impacts of early-life respiratory illness between younger and older siblings. We find that moving from the 25th to the 75th percentile in the local disease prevalence distribution ("disease index") is associated with a 30.9 percent differential increase in the number of respiratory illness hospitalizations in the first year of life for younger compared to older siblings. In the long term, for younger relative to older siblings, we find a 0.5 percent differential reduction in the likelihood of high school graduation, and a 1.3 percent additional reduction in age-30 earnings.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -39,38 +19,18 @@
         <title type="html"><![CDATA[Harvesting the Rain: The Adoption of Environmental Technologies in the Sahel -- by Jenny C. Aker, Kelsey Jack]]></title>
         <id>https://www.nber.org/papers/w29518#fromrss</id>
         <link href="https://www.nber.org/papers/w29518#fromrss"/>
-        <updated>2021-11-30T21:03:43.796Z</updated>
+        <updated>2021-12-01T00:20:39.298Z</updated>
         <summary type="html"><![CDATA[Many agricultural and environmental technologies require large upfront investments in exchange for longer-term benefits. This time profile of costs and benefits makes adoption particularly sensitive to liquidity and credit constraints, which are prevalent in low-income settings. We test the importance of these barriers to the adoption of an agricultural technique that helps reduce land degradation and restore soil fertility in Niger. We find little evidence that liquidity or credit constraints deter adoption: instead, providing farmers with training increases the share of adopters by over 90 percentage points, whereas adding conditional or unconditional cash transfers has no additional effect. Adoption increases agricultural output, reduces land turnover and leads to adoption spillovers up to three years after treatment. These results imply that training can be a cost-effective and scalable means of promoting the adoption of profitable technologies.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Empirical Perspectives on Auctions -- by Ali Hortaçsu, Isabelle Perrigne]]></title>
-        <id>https://www.nber.org/papers/w29511#fromrss</id>
-        <link href="https://www.nber.org/papers/w29511#fromrss"/>
-        <updated>2021-11-30T21:03:43.778Z</updated>
-        <summary type="html"><![CDATA[The empirical analysis of auction data has become a thriving field of research over the past thirty years. Relying on sophisticated models and advanced econometric methods, it addresses a wide range of policy questions for both public and private institutions. This chapter offers a guide to the literature by stressing how data features and policy questions have shaped research in the field. The chapter is organized by types of goods for sale and covers auctions of timber, construction and services procurement, oil and gas leases, online auctions, internet advertising, electricity, financial securities, spectrum, as well as used goods. It discusses the idiosyncrasies of each applied setting and the respective empirical findings.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Golden Ages”: A Tale of the Labor Markets in China and the United States -- by Hanming Fang, Xincheng Qiu]]></title>
-        <id>https://www.nber.org/papers/w29523#fromrss</id>
-        <link href="https://www.nber.org/papers/w29523#fromrss"/>
-        <updated>2021-11-30T21:03:43.757Z</updated>
-        <summary type="html"><![CDATA[We study the labor markets in China and the United States, the two largest economies in the world, by examining the evolution of their cross-sectional age-earnings profiles during the past thirty years. We find that, first, the peak age in the cross-sectional age-earnings profiles, which we refer to as the “golden age,” stayed almost constant at around 45-50 in the U.S., but decreased sharply from 55 to around 35 in China; second, the age-specific earnings grew drastically in China, but stayed almost stagnant in the U.S.; third, the cross-sectional and life-cycle age-earnings profiles were remarkably similar in the U.S., but differed substantially in China. We propose and empirically implement a decomposition framework to infer from the repeated cross-sectional earnings data the experience effect (i.e., human capital accumulation over the life cycle), the cohort effect (i.e., inter-cohort human capital growth), and the time effect (i.e., changes in the human capital rental prices over time), under an identifying assumption that the growth of the experience effect stops at the end of one's working career. The decomposition suggests that China has experienced a much larger inter-cohort productivity growth and higher increase in the rental price to human capital, but lower returns to experience, compared to the U.S. We also use the inferred components to revisit several important and classical applications in macroeconomics and labor economics, including growth accounting and the estimation of TFP growth, and the college wage premium and skill-biased technical change.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COVID-19, Government Performance, and Democracy: Survey Experimental Evidence from 12 Countries -- by Michael Becher, Nicolas Longuet Marx, Vincent Pons, Sylvain Brouard, Martial Foucault, Vincenzo Galasso, Eric Kerrouche, Sandra León Alfonso, Daniel Stegmueller]]></title>
-        <id>https://www.nber.org/papers/w29514#fromrss</id>
-        <link href="https://www.nber.org/papers/w29514#fromrss"/>
-        <updated>2021-11-30T21:03:43.716Z</updated>
-        <summary type="html"><![CDATA[Beyond its immediate impact on public health and the economy, the COVID-19 pandemic has put democracy under stress. While a common view is that people should blame the government rather than the political system for bad crisis management, an opposing view is that dissatisfaction with government performance may cause deeper dissatisfaction with democracy even in consolidated democratic regimes. We use a pre-registered survey and experiment covering 12 countries and 22,500 respondents to examine the impact of the pandemic on public attitudes about incumbent governments, the functioning of democracy and support for different types of regimes. To estimate causal effects, we leverage experimental treatments using an instrumental variable design. We find that dissatisfaction with the government, which is equally driven by economic and health considerations, decreases satisfaction with how democracy works. However, it does not translate into an embrace of non-democratic regime types.]]></summary>
+        <title type="html"><![CDATA[Sources and Transmission of Country Risk -- by Tarek Alexander Hassan, Jesse Schreger, Markus Schwedeler, Ahmed Tahoun]]></title>
+        <id>https://www.nber.org/papers/w29526#fromrss</id>
+        <link href="https://www.nber.org/papers/w29526#fromrss"/>
+        <updated>2021-12-01T00:20:39.221Z</updated>
+        <summary type="html"><![CDATA[We use textual analysis of earnings conference calls held by listed firms around the world to measure the amount of risk managers and investors at each firm associate with each country at each point in time. Flexibly aggregating this firm-country-quarter-level data allows us to systematically identify spikes in perceived country risk (“crises”) and document their source and pattern of transmission to foreign firms. While this pattern usually follows a gravity structure, it often changes dramatically during crises. For example, while crises originating in developed countries propagate disproportionately to foreign financial firms, emerging market crises transmit less financially and more to traditionally exposed countries. We apply our measures to show that (i) elevated perceptions of a country's riskiness, particularly those of foreign and financial firms, are associated with significant falls in local asset prices, capital outflows, and reductions in firm-level investment and employment. (ii) Risk transmitted from foreign countries affects the investment decisions of domestic firms.  (iii) Heterogeneous currency loadings on perceived global risk can help explain the cross-country pattern of interest rates and currency risk premia.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -79,7 +39,7 @@
         <title type="html"><![CDATA[Immigrant Labor and the Institutionalization of the U.S.-born Elderly -- by Kristin F. Butcher, Kelsey Moran, Tara Watson]]></title>
         <id>https://www.nber.org/papers/w29520#fromrss</id>
         <link href="https://www.nber.org/papers/w29520#fromrss"/>
-        <updated>2021-11-30T21:03:43.700Z</updated>
+        <updated>2021-12-01T00:20:38.997Z</updated>
         <summary type="html"><![CDATA[The U.S. population is aging. We examine whether immigration causally affects the likelihood that the U.S.-born elderly live in institutional settings. Using a shift-share instrument to identify exogenous variation in immigration, we find that a 10 percentage point increase in the less-educated foreign-born labor force share in a local area reduces institutionalization among the elderly by 1.5 and 3.8 percentage points for those aged 65+ and 80+, a 26-29 percent effect relative to the mean. The estimates imply that a typical U.S-born individual over age 65 in the year 2000 was 0.5 percentage points (10 percent) less likely to be living in an institution than would have been the case if immigration had remained at 1980 levels. We show that immigration affects the availability and cost of home services, including those provided by home health aides, gardeners and housekeepers, and other less-educated workers, reducing the cost of aging in the community.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -89,68 +49,28 @@
         <title type="html"><![CDATA[Monopsony in the Labor Market: New Empirical Results and New Public Policies -- by Orley C. Ashenfelter, David Card, Henry S. Farber, Michael Ransom]]></title>
         <id>https://www.nber.org/papers/w29522#fromrss</id>
         <link href="https://www.nber.org/papers/w29522#fromrss"/>
-        <updated>2021-11-30T21:03:43.673Z</updated>
+        <updated>2021-12-01T00:20:38.946Z</updated>
         <summary type="html"><![CDATA[This paper summarizes the results of nearly a dozen new papers presented at the Sundance Conference on Monopsony in Labor Markets held in October 2018.  These papers, to be published as a special issue of the Journal of Human Resources, study various aspects of monopsony and failures of competition in labor markets. It also reports on the new developments in public policies associated with widespread concerns about labor market competition and efforts to ameliorate competitive failures. The conference papers range from studies of the labor supply elasticity individual firms face to studies of local labor market concentration to studies of explicit covenants suppressing labor market competition. New policies range from private and public antitrust litigation to concerns about the effect of mergers and inter-firm agreements on labor market competition. We provide a detailed discussion of the mechanics of the Silicon Valley High Tech Worker conspiracy to suppress competition based on Court documents in the case. Non-compete agreements, which are not enforceable in three states already, have also come under scrutiny.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mistakes in Future Consumption, High MPCs Now -- by Chen Lian]]></title>
-        <id>https://www.nber.org/papers/w29517#fromrss</id>
-        <link href="https://www.nber.org/papers/w29517#fromrss"/>
-        <updated>2021-11-30T21:03:43.625Z</updated>
-        <summary type="html"><![CDATA[In a canonical intertemporal consumption problem, I show how anticipation of future consumption mistakes leads to higher current marginal propensities to consume (MPCs). This result is driven by mistakes in future consumption's response to saving changes (i.e., changes in asset balances) and is independent of their specific behavioral foundations. My framework can accommodate many widely studied behavioral biases, such as inattention, present bias, diagnostic expectations, and near-rationality (epsilon-mistakes). This channel helps explain the empirical puzzle on high-liquidity consumers' high MPCs and can be significant. The same channel can also help explain other puzzles in intertemporal choices, such as violations of the fungibility principle, excess discounting of future income, and large risk aversion. Methodologically, I develop a general approach to study predictions of sophistication (i.e., the anticipation of future mistakes) independent of the underlying behavioral biases.]]></summary>
+        <title type="html"><![CDATA[“Golden Ages”: A Tale of the Labor Markets in China and the United States -- by Hanming Fang, Xincheng Qiu]]></title>
+        <id>https://www.nber.org/papers/w29523#fromrss</id>
+        <link href="https://www.nber.org/papers/w29523#fromrss"/>
+        <updated>2021-12-01T00:20:38.934Z</updated>
+        <summary type="html"><![CDATA[We study the labor markets in China and the United States, the two largest economies in the world, by examining the evolution of their cross-sectional age-earnings profiles during the past thirty years. We find that, first, the peak age in the cross-sectional age-earnings profiles, which we refer to as the “golden age,” stayed almost constant at around 45-50 in the U.S., but decreased sharply from 55 to around 35 in China; second, the age-specific earnings grew drastically in China, but stayed almost stagnant in the U.S.; third, the cross-sectional and life-cycle age-earnings profiles were remarkably similar in the U.S., but differed substantially in China. We propose and empirically implement a decomposition framework to infer from the repeated cross-sectional earnings data the experience effect (i.e., human capital accumulation over the life cycle), the cohort effect (i.e., inter-cohort human capital growth), and the time effect (i.e., changes in the human capital rental prices over time), under an identifying assumption that the growth of the experience effect stops at the end of one's working career. The decomposition suggests that China has experienced a much larger inter-cohort productivity growth and higher increase in the rental price to human capital, but lower returns to experience, compared to the U.S. We also use the inferred components to revisit several important and classical applications in macroeconomics and labor economics, including growth accounting and the estimation of TFP growth, and the college wage premium and skill-biased technical change.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Hard and Soft Information Substitutable? Evidence from Lockdown -- by Jennie Bai, Massimo Massa]]></title>
-        <id>https://www.nber.org/papers/w29513#fromrss</id>
-        <link href="https://www.nber.org/papers/w29513#fromrss"/>
-        <updated>2021-11-30T21:03:43.560Z</updated>
-        <summary type="html"><![CDATA[We study information substitutability in the financial market through a quasi-natural experiment: the pandemic-triggered lockdown that has hampered people's physical interactions hence the ability to collect, process, and transmit soft information. Exploiting the cross- sectional and time-series variations of lockdown, we investigate how the difficulty to use soft information has prompted a switch to hard information and its implication on fund investment, performance, and risk management. We show that lockdown reduces fund investment in proximate stocks and generates a portfolio rebalancing toward distant stocks. The re- balancing negatively impacts fund performance by reducing fund raw (excess) return of an additional 0.76% (0.29%) per month during lockdown, suggesting that soft and hard information is not easily substitutable. Lastly, we show that soft information originates mainly from physical human interactions, primarily in cafés, restaurants, bars, and fitness centers; and the virtual world based on Zoom/Skype/Team fails to substitute physical interactions fully, thus cannot provide sufficient soft information.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Economic Model of Consensus on Distributed Ledgers -- by Hanna Halaburda, Zhiguo He, Jiasun Li]]></title>
-        <id>https://www.nber.org/papers/w29515#fromrss</id>
-        <link href="https://www.nber.org/papers/w29515#fromrss"/>
-        <updated>2021-11-30T21:03:43.524Z</updated>
-        <summary type="html"><![CDATA[In recent years, the designs of many new blockchain applications have been inspired by the Byzantine fault tolerance (BFT) problem. While traditional BFT protocols assume that most system nodes are honest (in that they follow the protocol), we recognize that blockchains are deployed in environments where nodes are subject to strategic incentives. This paper develops an economic framework for analyzing such cases. Specifically, we assume that 1) non-Byzantine nodes are rational, so we explicitly study their incentives when participating in a BFT consensus process; 2) non-Byzantine nodes are ambiguity averse, and specifically, Knightian uncertain about Byzantine actions; and 3) decisions/inferences are all based on local information. The consensus game then resembles one with preplay “cheap talk” communications. We characterize all equilibria, some of which feature rational leaders withholding messages from some nodes in order to achieve consensus. These findings enrich those from traditional BFT algorithms, where an honest leader always sends messages to all nodes. We also study how the progress of communication technology (i.e., potential message losses) affects the equilibrium consensus outcome.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Racial Discrimination and Housing Outcomes in the United States Rental Market -- by Peter Christensen, Ignacio Sarmiento-Barbieri, Christopher Timmins]]></title>
-        <id>https://www.nber.org/papers/w29516#fromrss</id>
-        <link href="https://www.nber.org/papers/w29516#fromrss"/>
-        <updated>2021-11-30T21:03:43.504Z</updated>
-        <summary type="html"><![CDATA[We report evidence on discriminatory behavior from the largest correspondence study conducted to date in the rental housing market. Using more than 25,000 interactions with rental property managers across the 50 largest U.S. cities, the study reveals that African American and Hispanic/LatinX renters continue to face discriminatory constraints in the majority of U.S. cities although there are important regional differences. Stronger discriminatory constraints on renters of color (particularly African Americans) are also associated with higher levels of residential segregation and larger gaps in intergenerational income mobility. Using matched evidence on the actual rental outcomes at the properties in our experiment, we show that correspondence study measurements of discrimination do indeed predict actual outcomes.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning versus Unlearning: An Experiment on Retractions -- by Duarte Gonçalves, Jonathan Libgober, Jack Willis]]></title>
-        <id>https://www.nber.org/papers/w29512#fromrss</id>
-        <link href="https://www.nber.org/papers/w29512#fromrss"/>
-        <updated>2021-11-30T21:03:43.479Z</updated>
-        <summary type="html"><![CDATA[Widely discredited ideas nevertheless persist. Why do we fail to "unlearn"? We study one explanation: beliefs are resistant to retractions (the revoking of earlier information). Our experimental design allows us to identify updating from retractions - unlearning - and to compare it with updating from equivalent new information - learning. Across different kinds of retractions - for instance, those consistent or contradictory with the prior, or those occurring when prior beliefs are either extreme or moderate - subjects do not fully unlearn from retractions and update approximately one-third less from them than from equivalent new information. While we document a number of well-known biases in belief updating in our data, our results are inconsistent with any explanation that does not treat retractions as inherently different. Instead, our analysis suggests that retractions are harder to process, for instance, due to the intimate reliance on conditional reasoning.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sources and Transmission of Country Risk -- by Tarek Alexander Hassan, Jesse Schreger, Markus Schwedeler, Ahmed Tahoun]]></title>
-        <id>https://www.nber.org/papers/w29526#fromrss</id>
-        <link href="https://www.nber.org/papers/w29526#fromrss"/>
-        <updated>2021-11-30T21:03:43.437Z</updated>
-        <summary type="html"><![CDATA[We use textual analysis of earnings conference calls held by listed firms around the world to measure the amount of risk managers and investors at each firm associate with each country at each point in time. Flexibly aggregating this firm-country-quarter-level data allows us to systematically identify spikes in perceived country risk (“crises”) and document their source and pattern of transmission to foreign firms. While this pattern usually follows a gravity structure, it often changes dramatically during crises. For example, while crises originating in developed countries propagate disproportionately to foreign financial firms, emerging market crises transmit less financially and more to traditionally exposed countries. We apply our measures to show that (i) elevated perceptions of a country's riskiness, particularly those of foreign and financial firms, are associated with significant falls in local asset prices, capital outflows, and reductions in firm-level investment and employment. (ii) Risk transmitted from foreign countries affects the investment decisions of domestic firms.  (iii) Heterogeneous currency loadings on perceived global risk can help explain the cross-country pattern of interest rates and currency risk premia.]]></summary>
+        <title type="html"><![CDATA[Cross-Product and Cross-Market Adjustments Within Multiproduct Firms: Evidence from Antidumping Actions -- by Xiaohua Bao, Bruce A. Blonigen, Zhi Yu]]></title>
+        <id>https://www.nber.org/papers/w29521#fromrss</id>
+        <link href="https://www.nber.org/papers/w29521#fromrss"/>
+        <updated>2021-12-01T00:20:38.909Z</updated>
+        <summary type="html"><![CDATA[Multiproduct firms are responsible for the vast majority of global trade. A prior literature examines how multiproduct firms respond to trade liberalizations that simultaneously affect all of the firms' products and inputs.  In contrast, our study uses Chinese firm-product-level export data to examine how an AD action, a very targeted trade policy against a specific product in a specific export destination, affects a multiproduct firms' price and quantity decisions across its other products and export destinations.  We find robust evidence for a new phenomenon we call within-firm cross-product trade deflection whereby an AD duty against one of the firm's products in one of its export destinations is associated with reduced prices and increased sales of its other products across all markets. This type of effect depends on increasing costs from joint production within multiproduct firms, something that is often assumed away in many models of the multiproduct firm.  We also document for the first time a within-firm chilling effect whereby an AD action in one export destination on a product leads the firm to raise price and lower quantity of the product in other export destinations to lower the risk of AD actions in these other markets.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -159,7 +79,7 @@
         <title type="html"><![CDATA[The Cost of Consumer Collateral: Evidence from Bunching -- by Benjamin L. Collier, Cameron Ellis, Benjamin J. Keys]]></title>
         <id>https://www.nber.org/papers/w29527#fromrss</id>
         <link href="https://www.nber.org/papers/w29527#fromrss"/>
-        <updated>2021-11-30T21:03:43.407Z</updated>
+        <updated>2021-12-01T00:20:38.897Z</updated>
         <summary type="html"><![CDATA[We show that borrowers are highly sensitive to the requirement of posting their homes as collateral. Using administrative loan application and performance data from the U.S. Federal Disaster Loan Program, we exploit a loan amount threshold above which households must post their residence as collateral. One-third of all borrowers select the maximum uncollateralized loan amount, and our bunching estimates suggest that the median borrower is willing to give up 40% of their loan amount to avoid collateral. Exploiting time variation in the loan amount threshold, we find that collateral causally reduces default rates by 35%. Our results help to explain high perceived default costs in the mortgage market, and uniquely quantify the extent to which collateral reduces moral hazard in consumer credit markets.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -169,10 +89,107 @@
         <title type="html"><![CDATA[Local Economic and Political Effects of Trade Deals: Evidence from NAFTA -- by Jiwon Choi, Ilyana Kuziemko, Ebonya L. Washington, Gavin Wright]]></title>
         <id>https://www.nber.org/papers/w29525#fromrss</id>
         <link href="https://www.nber.org/papers/w29525#fromrss"/>
-        <updated>2021-11-30T21:03:43.353Z</updated>
+        <updated>2021-12-01T00:20:38.883Z</updated>
         <summary type="html"><![CDATA[Why have white, less educated voters left the Democratic Party over the past few decades? Scholars have proposed ethnocentrism, social issues and deindustrialization as potential answers. We highlight the role played by the 1994 North American Free Trade Agreement (NAFTA).  In event-study analysis, we demonstrate that counties whose 1990 employment depended on industries vulnerable to NAFTA suffered large and persistent employment losses relative to other counties. These losses begin in the mid-1990s and are only modestly offset by transfer programs.  While exposed counties historically voted Democratic, in the mid-1990s they turn away from the party of the president (Bill Clinton) who ushered in the agreement and by 2000 vote majority Republican in House elections. Employing a variety of micro-data sources, including 1992-1994 respondent-level panel data, we show that protectionist views predict movement toward the GOP in the years that NAFTA is debated and implemented. This shift among protectionist respondents is larger for whites (especially men and those without a college degree) and those with conservative social views, suggesting an interactive effect whereby racial identity and social-issue positions mediate reactions to economic policies.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread -- by N. Meltem Daysal, Hui Ding, Maya Rossin-Slater, Hannes Schwandt]]></title>
+        <id>https://www.nber.org/papers/w29524#fromrss</id>
+        <link href="https://www.nber.org/papers/w29524#fromrss"/>
+        <updated>2021-12-01T00:20:38.860Z</updated>
+        <summary type="html"><![CDATA[While the COVID-19 pandemic has laid bare the large costs of infectious diseases, less attention has been paid to the impacts of more common, endemic respiratory viruses that frequently circulate in the population, especially when it comes to their potential long-term consequences for population health, human capital, and economic outcomes. This paper uses Danish population-level administrative data on 35 birth cohorts of children to provide a comprehensive analysis of both the mechanisms through which infants become infected by respiratory illnesses, as well as the consequences of early-life respiratory disease exposure for their later outcomes. First, we document a striking difference in the likelihood of severe respiratory illness by birth order: younger siblings have two to three times higher rates of hospitalization for respiratory conditions before age one than older siblings at the same age. We argue that the family unit is central in virus transmission, with older children "bringing home" the virus to their younger siblings. We then combine the birth order variation with within-municipality variation in respiratory disease prevalence among preschool-aged children to identify differential long-term impacts of early-life respiratory illness between younger and older siblings. We find that moving from the 25th to the 75th percentile in the local disease prevalence distribution ("disease index") is associated with a 30.9 percent differential increase in the number of respiratory illness hospitalizations in the first year of life for younger compared to older siblings. In the long term, for younger relative to older siblings, we find a 0.5 percent differential reduction in the likelihood of high school graduation, and a 1.3 percent additional reduction in age-30 earnings.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Economic Model of Consensus on Distributed Ledgers -- by Hanna Halaburda, Zhiguo He, Jiasun Li]]></title>
+        <id>https://www.nber.org/papers/w29515#fromrss</id>
+        <link href="https://www.nber.org/papers/w29515#fromrss"/>
+        <updated>2021-12-01T00:20:38.805Z</updated>
+        <summary type="html"><![CDATA[In recent years, the designs of many new blockchain applications have been inspired by the Byzantine fault tolerance (BFT) problem. While traditional BFT protocols assume that most system nodes are honest (in that they follow the protocol), we recognize that blockchains are deployed in environments where nodes are subject to strategic incentives. This paper develops an economic framework for analyzing such cases. Specifically, we assume that 1) non-Byzantine nodes are rational, so we explicitly study their incentives when participating in a BFT consensus process; 2) non-Byzantine nodes are ambiguity averse, and specifically, Knightian uncertain about Byzantine actions; and 3) decisions/inferences are all based on local information. The consensus game then resembles one with preplay “cheap talk” communications. We characterize all equilibria, some of which feature rational leaders withholding messages from some nodes in order to achieve consensus. These findings enrich those from traditional BFT algorithms, where an honest leader always sends messages to all nodes. We also study how the progress of communication technology (i.e., potential message losses) affects the equilibrium consensus outcome.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racial Discrimination and Housing Outcomes in the United States Rental Market -- by Peter Christensen, Ignacio Sarmiento-Barbieri, Christopher Timmins]]></title>
+        <id>https://www.nber.org/papers/w29516#fromrss</id>
+        <link href="https://www.nber.org/papers/w29516#fromrss"/>
+        <updated>2021-12-01T00:20:38.794Z</updated>
+        <summary type="html"><![CDATA[We report evidence on discriminatory behavior from the largest correspondence study conducted to date in the rental housing market. Using more than 25,000 interactions with rental property managers across the 50 largest U.S. cities, the study reveals that African American and Hispanic/LatinX renters continue to face discriminatory constraints in the majority of U.S. cities although there are important regional differences. Stronger discriminatory constraints on renters of color (particularly African Americans) are also associated with higher levels of residential segregation and larger gaps in intergenerational income mobility. Using matched evidence on the actual rental outcomes at the properties in our experiment, we show that correspondence study measurements of discrimination do indeed predict actual outcomes.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Hard and Soft Information Substitutable? Evidence from Lockdown -- by Jennie Bai, Massimo Massa]]></title>
+        <id>https://www.nber.org/papers/w29513#fromrss</id>
+        <link href="https://www.nber.org/papers/w29513#fromrss"/>
+        <updated>2021-12-01T00:20:38.781Z</updated>
+        <summary type="html"><![CDATA[We study information substitutability in the financial market through a quasi-natural experiment: the pandemic-triggered lockdown that has hampered people's physical interactions hence the ability to collect, process, and transmit soft information. Exploiting the cross- sectional and time-series variations of lockdown, we investigate how the difficulty to use soft information has prompted a switch to hard information and its implication on fund investment, performance, and risk management. We show that lockdown reduces fund investment in proximate stocks and generates a portfolio rebalancing toward distant stocks. The re- balancing negatively impacts fund performance by reducing fund raw (excess) return of an additional 0.76% (0.29%) per month during lockdown, suggesting that soft and hard information is not easily substitutable. Lastly, we show that soft information originates mainly from physical human interactions, primarily in cafés, restaurants, bars, and fitness centers; and the virtual world based on Zoom/Skype/Team fails to substitute physical interactions fully, thus cannot provide sufficient soft information.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empirical Perspectives on Auctions -- by Ali Hortaçsu, Isabelle Perrigne]]></title>
+        <id>https://www.nber.org/papers/w29511#fromrss</id>
+        <link href="https://www.nber.org/papers/w29511#fromrss"/>
+        <updated>2021-12-01T00:20:38.755Z</updated>
+        <summary type="html"><![CDATA[The empirical analysis of auction data has become a thriving field of research over the past thirty years. Relying on sophisticated models and advanced econometric methods, it addresses a wide range of policy questions for both public and private institutions. This chapter offers a guide to the literature by stressing how data features and policy questions have shaped research in the field. The chapter is organized by types of goods for sale and covers auctions of timber, construction and services procurement, oil and gas leases, online auctions, internet advertising, electricity, financial securities, spectrum, as well as used goods. It discusses the idiosyncrasies of each applied setting and the respective empirical findings.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID-19, Government Performance, and Democracy: Survey Experimental Evidence from 12 Countries -- by Michael Becher, Nicolas Longuet Marx, Vincent Pons, Sylvain Brouard, Martial Foucault, Vincenzo Galasso, Eric Kerrouche, Sandra León Alfonso, Daniel Stegmueller]]></title>
+        <id>https://www.nber.org/papers/w29514#fromrss</id>
+        <link href="https://www.nber.org/papers/w29514#fromrss"/>
+        <updated>2021-12-01T00:20:38.741Z</updated>
+        <summary type="html"><![CDATA[Beyond its immediate impact on public health and the economy, the COVID-19 pandemic has put democracy under stress. While a common view is that people should blame the government rather than the political system for bad crisis management, an opposing view is that dissatisfaction with government performance may cause deeper dissatisfaction with democracy even in consolidated democratic regimes. We use a pre-registered survey and experiment covering 12 countries and 22,500 respondents to examine the impact of the pandemic on public attitudes about incumbent governments, the functioning of democracy and support for different types of regimes. To estimate causal effects, we leverage experimental treatments using an instrumental variable design. We find that dissatisfaction with the government, which is equally driven by economic and health considerations, decreases satisfaction with how democracy works. However, it does not translate into an embrace of non-democratic regime types.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistakes in Future Consumption, High MPCs Now -- by Chen Lian]]></title>
+        <id>https://www.nber.org/papers/w29517#fromrss</id>
+        <link href="https://www.nber.org/papers/w29517#fromrss"/>
+        <updated>2021-12-01T00:20:38.717Z</updated>
+        <summary type="html"><![CDATA[In a canonical intertemporal consumption problem, I show how anticipation of future consumption mistakes leads to higher current marginal propensities to consume (MPCs). This result is driven by mistakes in future consumption's response to saving changes (i.e., changes in asset balances) and is independent of their specific behavioral foundations. My framework can accommodate many widely studied behavioral biases, such as inattention, present bias, diagnostic expectations, and near-rationality (epsilon-mistakes). This channel helps explain the empirical puzzle on high-liquidity consumers' high MPCs and can be significant. The same channel can also help explain other puzzles in intertemporal choices, such as violations of the fungibility principle, excess discounting of future income, and large risk aversion. Methodologically, I develop a general approach to study predictions of sophistication (i.e., the anticipation of future mistakes) independent of the underlying behavioral biases.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning versus Unlearning: An Experiment on Retractions -- by Duarte Gonçalves, Jonathan Libgober, Jack Willis]]></title>
+        <id>https://www.nber.org/papers/w29512#fromrss</id>
+        <link href="https://www.nber.org/papers/w29512#fromrss"/>
+        <updated>2021-12-01T00:20:38.667Z</updated>
+        <summary type="html"><![CDATA[Widely discredited ideas nevertheless persist. Why do we fail to "unlearn"? We study one explanation: beliefs are resistant to retractions (the revoking of earlier information). Our experimental design allows us to identify updating from retractions - unlearning - and to compare it with updating from equivalent new information - learning. Across different kinds of retractions - for instance, those consistent or contradictory with the prior, or those occurring when prior beliefs are either extreme or moderate - subjects do not fully unlearn from retractions and update approximately one-third less from them than from equivalent new information. While we document a number of well-known biases in belief updating in our data, our results are inconsistent with any explanation that does not treat retractions as inherently different. Instead, our analysis suggests that retractions are harder to process, for instance, due to the intimate reliance on conditional reasoning.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fannie Mae: Mortgage Serious Delinquency Rate Decreased in October]]></title>
+        <id>http://www.calculatedriskblog.com/2021/11/fannie-mae-mortgage-serious-delinquency.html</id>
+        <link href="http://www.calculatedriskblog.com/2021/11/fannie-mae-mortgage-serious-delinquency.html"/>
+        <updated>2021-11-30T21:11:00.003Z</updated>
+        <summary type="html"><![CDATA[Fannie Mae reported that the Single-Family Serious Delinquency decreased to 1.46% in October, from 1.62% in September. The serious delinquency rate is down from 3.05% in October 2020.
+These are mortgage loans that are "three monthly payments or more past due or in foreclosure".
+The Fannie Mae serious delinquency rate peaked in February 2010 at 5.59% following the housing bubble, and peaked at 3.32% in August 2020 during the pandemic.
+Click on graph for larger image
+By vintage, for loans made in 2004 or earlier (1% of portfolio), 4.02% are seriously delinquent (down from 4.25% in September).  For loans made in 2005 through 2008 (2% of portfolio), 6.90% are seriously delinquent (down from 7.21%),  For recent loans, originated in 2009 through 2021 (97% of portfolio), 1.17% are seriously delinquent (down from 1.31%). So, Fannie is still working through a few poor performing loans from the bubble years.
+Mortgages in forbearance are counted as delinquent in this monthly report, but they will not be reported to the credit bureaus.
+This is very different from the increase in delinquencies following the housing bubble.   Lending standards have been fairly solid over the last decade, and most of these homeowners have equity in their homes - and they will be able to restructure their loans once they are employed.
+Freddie Mac reported earlier.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
         </author>
     </entry>
     <entry>
@@ -332,16 +349,6 @@ This graph shows the daily (columns) and 7-day average (line) of positive tests 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Covid-19 recession in France]]></title>
-        <id>https://voxeu.org/article/covid-19-recession-france</id>
-        <link href="https://voxeu.org/article/covid-19-recession-france"/>
-        <updated>2021-11-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Covid-19 recession that hit the French economy was completely non-standard, characterised by an unprecedented and sharp contraction of activity. This column discusses recent findings from the French business cycle dating committee, which show that the recession reached its trough in the second quarter of 2020. Since the third quarter of 2020, the economy has been in a recovery phase, with the majority of commercial sectors experiencing an increase in activity. Nevertheless, past experiences suggest caution about future growth, especially regarding the policy support for economic activity.]]></summary>
-        <author>
-            <name>Laurent Ferrara, Valérie  Mignon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Populism, financial markets, and political capitalism]]></title>
         <id>https://voxeu.org/article/populism-financial-markets-and-political-capitalism</id>
         <link href="https://voxeu.org/article/populism-financial-markets-and-political-capitalism"/>
@@ -361,6 +368,16 @@ Read more about the research behind this video and download the Discussion Pape
 Delis, M, Delis, F, Laeven, L and Ongena, S. 2021. 'Global Evidence on Profit Shifting: The Role of Intangible Assets'. London, Centre for Economic Policy Research.]]></summary>
         <author>
             <name>Manthos  Delis, Fotis Delis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Covid-19 recession in France]]></title>
+        <id>https://voxeu.org/article/covid-19-recession-france</id>
+        <link href="https://voxeu.org/article/covid-19-recession-france"/>
+        <updated>2021-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Covid-19 recession that hit the French economy was completely non-standard, characterised by an unprecedented and sharp contraction of activity. This column discusses recent findings from the French business cycle dating committee, which show that the recession reached its trough in the second quarter of 2020. Since the third quarter of 2020, the economy has been in a recovery phase, with the majority of commercial sectors experiencing an increase in activity. Nevertheless, past experiences suggest caution about future growth, especially regarding the policy support for economic activity.]]></summary>
+        <author>
+            <name>Laurent Ferrara, Valérie  Mignon</name>
         </author>
     </entry>
     <entry>
@@ -490,6 +507,81 @@ Air travel had been off about 20% relative to 2019 for the last four months (wit
 ----- Restaurants: OpenT…]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포스트 코로나 경제학/백일 지음/삶창(삶이보이는창)]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=284093380</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=102&amp;type=item&amp;itemId=284093380"/>
+        <updated>2021-11-29T05:32:00.000Z</updated>
+        <summary type="html"><![CDATA[포스트 코로나 경제학
+백일 지음 / 삶창(삶이보이는창) / 2021년 11월 / ISBN:9788966551439
+정가: 27,000원 / 판매가: 24,300원 / 마일리지: 1,350원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+경제학사 전반을 개략하면서 경제학 언어들을 소개하는 ‘예습 단계’를 먼저 제시한다. 그러면서 중간 중간 ‘생각해보기’를 통해서 경제를 공부하면서 알아야 할 정보를 팁 현식으로 제공하고 있어 경제학 교양 공부에도 아주 유용하게 꾸며져 있다. 이러한 바탕 위에서 저자는 포스트 코로나 시대에 필요한 새 경제 원리를 제시한다.
+
+책머리에 • 5
+프롤로그 포스트 코로나 시대 10대 경제원칙 • 16
+
+1장 경제 기초 터 닦기
+
+1. 경제란 무엇인가 • 28
+2. 현대 경제를 일으킨 원동력-인본주의의 힘 • 30
+3. 부(富)란 무엇인가-무적함대의 귀환 • 43
+4. 가치와 가격의 계산-시장은 두 번 계산한다 • 51
+5. 경제학의 기원-부끄러운 경제학 • 60
+6. ‘적정 비용 적정 효과’-새로운 경제 원리 • 69
+7. 경제통계 처리와 경제학 방법론-존재가 의식을 결정한다 • 73
+
+2장 경제철학과 경제체제
+
+1. 희소성과 기회비용-맨큐의 아이들 • 84
+2. 세상의 모든 경제체제-유토피아를 향한 각개약진 • 89
+3. 한국 경제의 앞날-장밋빛 혹은 회색빛 • 103
+
+3장 시장과 화폐의 이해
+
+1. 시장의 기원과 종류-물물교환에서 인터넷 쇼핑몰까지 • 110
+2. 시장의 역사-칭기즈칸의 영화와 몰락 • 115
+3. 화폐와 환율의 신(新)기준-비트코인 시대 • 120
+
+4장 시장이론
+
+1. 시장의 기초 원리-수요공급의 법칙 • 128
+2. 균형가격과 평균가격-한계가 아니라 평균이다 • 134
+3. 무차별곡선-주관적 욕망의 계산 • 138
+4. 이중가격과 탄력성-현명한 시장 읽기 • 143
+5. 가치의 역설-다이아몬드 가격은 얼마인가 • 147
+6. 모두가 만족하는 후생경제-파레토 최적, 그 허접함 • 150
+7. 투기시장 원리와 시장 안정 수단-계획가격은 살아 있다 • 153
+
+5장 시장의 종류와 미래
+
+1. 기업의 종류와 활동 지표-비용과 노동생산성 • 162
+2. 완전경쟁시장-‘을’들의 전쟁에서 살아남기 • 167
+3. 독점시장과 경쟁력-현실 시장의 지배자는 어떻게 버나 • 171
+4. 글로컬 시장과 세계화-초연결 세계와 지역화의 경제학 • 185
+5. 하이테크 시장과 디지털 네트워크-기업 조직 혁신 이론 • 199
+
+6장 시장의 두 얼굴
+
+1. 독점의 두 얼굴-프로메테우스, 혹은 프랑켄슈타인 • 212
+2. 게임의 법칙-나비효과와 죄수의 딜레마 • 218
+3. 시장실패-뒤끝 있는 경제 • 224
+4. 정부실패-관료제의 종말 • 232
+
+7장 이윤과 소득
+
+1. 홍당무 경제학-소득과 유인 • 238
+2. 이윤 ...
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이론/경제사상]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
@@ -684,7 +776,7 @@ The GDPNow model estimate for real GDP growth (seasonally adjusted annual rate) 
         <updated>2021-11-26T08:10:00.000Z</updated>
         <summary type="html"><![CDATA[다시, 협동조합을 묻다
 김기태.강민수 지음 / 북돋움coop / 2021년 12월 / ISBN:9791197142260
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 71원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
 이벤트: 여성폭력 추방 주간! 수신지 일러스트 2022 벽걸이 달력 (대상 포함 2만원 이상)
 
 
@@ -749,7 +841,7 @@ The GDPNow model estimate for real GDP growth (seasonally adjusted annual rate) 
         <updated>2021-11-26T07:13:00.000Z</updated>
         <summary type="html"><![CDATA[서해5도에서 북한쓰레기를 줍다
 강동완 지음 / 너나드리 / 2021년 12월 / ISBN:9791191774016
-정가: 35,000원 / 판매가: 31,500원 / 마일리지: 144원
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
 이벤트: 여성폭력 추방 주간! 수신지 일러스트 2022 벽걸이 달력 (대상 포함 2만원 이상)
 
 
@@ -856,7 +948,7 @@ part 03 서체와 부록
         <updated>2021-11-26T04:45:00.000Z</updated>
         <summary type="html"><![CDATA[앞으로 100년 인류의 미래를 위한 100장의 지도
 이언 골딘 외 지음, 권태형 외 옮김 / 동아시아 / 2021년 11월 / ISBN:9788962624045
-정가: 32,000원 / 판매가: 28,800원 / 마일리지: 120원
+정가: 32,000원 / 판매가: 28,800원 / 마일리지: 1,600원
 이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
 
 
@@ -905,11 +997,15 @@ part 03 서체와 부록
         <updated>2021-11-26T03:10:00.000Z</updated>
         <summary type="html"><![CDATA[스타벅스 커피 스타벅스 은행 스타벅스 코인
 이보람 지음 / 한국사회솔루션디자인 / 2021년 11월 / ISBN:9791197655500
-정가: 16,800원 / 판매가: 15,120원 / 마일리지: 64원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 16,800원 / 판매가: 15,120원 / 마일리지: 840원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
+
+하워드 슐츠가 스타벅스의 최고경영자가 되어 동네 커피 전문 소매점을 글로벌 커피체인 기업으로 성장시킨 데는 디자인씽킹을 기초로 한 디자인 경영이 있다. 디자인씽킹의 귀재였던 슐츠는 디자인씽킹으로 커피콩 한 알을 비트코인 사업으로 전환시켰다. 스타벅스의 헤아릴 수 없는 커피콩은 어마어마한 부와 명예를 안겨 주었다. 그러니 스타벅스의 성장 스토리에는 얼마나 많은 흥미로운 디자인씽킹 사례와 역사적 스토리텔링이 있을까? 
+
+언제나 고전미 넘치는 이야기와 수수께끼처럼 예측 불가한 미래를 탐구하는 이야기는 흥미진진한 법이다. 스타벅스가 향후 어떻게 금융 산업을 아우르는 글로벌 머니체인 기업으로 성장하는지를 살펴보고, 여러분도 황금알을 부화시키는 디자인씽커가 되어보자.
 
 디자이너의 스토리텔링
 Chapter1
@@ -986,8 +1082,8 @@ Chapter7
         <updated>2021-11-26T02:19:00.000Z</updated>
         <summary type="html"><![CDATA[[큰글씨책] 디지털 머니
 정인호 지음 / 가쎄(GASSE) / 2021년 12월 / ISBN:9791191192391
-정가: 26,000원 / 판매가: 24,700원 / 마일리지: 99원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 26,000원 / 판매가: 24,700원 / 마일리지: 780원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -1120,8 +1216,8 @@ Weekly claims declined to 199,000 last week, the lowes…]]></summary>
         <updated>2021-11-25T02:53:00.000Z</updated>
         <summary type="html"><![CDATA[명쾌하고 야무진 최신 경제 용어 해설
 권기대 지음 / 베가북스 / 2021년 12월 / ISBN:9791168210073
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 84원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -1185,8 +1281,8 @@ Weekly claims declined to 199,000 last week, the lowes…]]></summary>
         <updated>2021-11-25T02:11:00.000Z</updated>
         <summary type="html"><![CDATA[나의 첫 금융 수업
 염지현 지음 / 메이트북스 / 2021년 12월 / ISBN:9791160023596
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 57원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -1248,8 +1344,8 @@ Weekly claims declined to 199,000 last week, the lowes…]]></summary>
         <updated>2021-11-25T01:36:00.000Z</updated>
         <summary type="html"><![CDATA[한국의 눈물, 한국도 일본처럼 투자할 곳이 완전히 사라진다
 손대식 지음 / 지식과감성# / 2021년 12월 / ISBN:9791139201758
-정가: 32,000원 / 판매가: 28,800원 / 마일리지: 117원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 32,000원 / 판매가: 28,800원 / 마일리지: 1,600원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -1507,24 +1603,6 @@ You can subscribe at https://calculatedrisk.substack.com/ (Currently all content
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Personal Income increased 0.5% in October; Spending increased 1.3%]]></title>
-        <id>http://www.calculatedriskblog.com/2021/11/personal-income-increased-05-in-october.html</id>
-        <link href="http://www.calculatedriskblog.com/2021/11/personal-income-increased-05-in-october.html"/>
-        <updated>2021-11-24T15:17:00.004Z</updated>
-        <summary type="html"><![CDATA[The BEA released the Personal Income and Outlays, October 2021 report: 
-Personal income increased $93.4 billion (0.5 percent) in October according to estimates released today by the Bureau of Economic Analysis. Disposable personal income (DPI) increased $63.0 billion (0.3 percent) and personal consumption expenditures (PCE) increased $214.3 billion (1.3 percent).
-Real DPI decreased 0.3 percent in October and Real PCE increased 0.7 percent; goods increased 1.0 percent and services increased 0.5 percent. The PCE price index increased 0.6 percent. Excluding food and energy, the PCE price index increased 0.4 percent.
- emphasis added
-The October PCE price index increased 5.0 percent year-over-year and the October PCE price index, excluding food and energy, increased 4.1 percent year-over-year.
-The following graph shows real Personal Consumption Expenditures (PCE) through October 2021 (2012 dollars). Note that the y-axis doesn't start at zero to better show the change.
- Click on graph for larger image.
-The dashed red lines are the quarterly levels for real PCE.
-Personal income and personal spending were above expectations, and the increase in the PCE price index was above expectations.]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Divergences in life expectancy across US states]]></title>
         <id>https://www.aeaweb.org/research/rising-geographic-disparities-us-mortality</id>
         <link href="https://www.aeaweb.org/research/rising-geographic-disparities-us-mortality"/>
@@ -1541,8 +1619,8 @@ Personal income and personal spending were above expectations, and the increase 
         <updated>2021-11-24T05:13:00.000Z</updated>
         <summary type="html"><![CDATA[한가위 희년 나라 1
 이대환 지음 / 요벨랜드 / 2021년 11월 / ISBN:9791197602504
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 65원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -1839,8 +1917,8 @@ __4.3.3 조...
         <updated>2021-11-24T01:45:00.000Z</updated>
         <summary type="html"><![CDATA[경제기사 궁금증 300문 300답
 곽해선 지음 / 혜다 / 2021년 11월 / ISBN:9791191183139
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 90원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -1908,8 +1986,8 @@ __4.3.3 조...
         <updated>2021-11-24T00:47:00.000Z</updated>
         <summary type="html"><![CDATA[미시경제학 연습
 임봉욱 지음 / 율곡출판사 / 2021년 11월 / ISBN:9791191812053
-정가: 38,000원 / 판매가: 38,000원 / 마일리지: 227원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 38,000원 / 판매가: 38,000원 / 마일리지: 1,140원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -1927,8 +2005,8 @@ __4.3.3 조...
         <updated>2021-11-24T00:39:00.000Z</updated>
         <summary type="html"><![CDATA[경제학
 성태경 지음 / 정독(마인드탭(MindTap)) / 2022년 01월 / ISBN:9791190899963
-정가: 28,000원 / 판매가: 28,000원 / 마일리지: 145원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 28,000원 / 판매가: 28,000원 / 마일리지: 840원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -1980,8 +2058,8 @@ CHAPTER 21 국제무역과 금융
         <updated>2021-11-24T00:24:00.000Z</updated>
         <summary type="html"><![CDATA[이코노컨스트럭션
 박선구.권주안 지음, 대한건설정책연구원 엮음 / 매일경제신문사 / 2021년 11월 / ISBN:9791164843510
-정가: 20,000원 / 판매가: 18,000원 / 마일리지: 76원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 1,000원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -2035,8 +2113,8 @@ PART 4 건설, 그리고 미래
         <updated>2021-11-23T07:02:00.000Z</updated>
         <summary type="html"><![CDATA[조세와 재정의 미래
 홍순만 지음 / 문우사(도서출판) / 2021년 11월 / ISBN:9791185994918
-정가: 19,000원 / 판매가: 19,000원 / 마일리지: 94원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 19,000원 / 판매가: 19,000원 / 마일리지: 570원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -2128,8 +2206,8 @@ CHAPTER 11 미래 조세 개혁의 방향
         <updated>2021-11-22T00:51:00.000Z</updated>
         <summary type="html"><![CDATA[경제의 길
 권남훈 외 지음 / 21세기북스 / 2021년 11월 / ISBN:9788950998219
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 70원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -2186,8 +2264,8 @@ CHAPTER 11 미래 조세 개혁의 방향
         <updated>2021-11-19T02:40:00.000Z</updated>
         <summary type="html"><![CDATA[부를 위한 기회, 에너지 전환과 모빌리티 투자
 장문수.강동진 지음 / 원앤원북스 / 2021년 11월 / ISBN:9791170432692
-정가: 16,500원 / 판매가: 14,850원 / 마일리지: 59원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 16,500원 / 판매가: 14,850원 / 마일리지: 820원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -2333,7 +2411,7 @@ CHAPTER 15 요약과 도약
         <updated>2021-11-19T00:33:00.000Z</updated>
         <summary type="html"><![CDATA[누가 한국 경제를 파괴하는가
 최배근 지음 / 북인어박스 / 2021년 11월 / ISBN:9791197617003
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 61원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
 이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
 
 
@@ -2467,7 +2545,7 @@ Python은 AI와 기계 학습에 관련된 프로그래밍에 최적일 뿐만 �
         <updated>2021-11-18T07:13:00.000Z</updated>
         <summary type="html"><![CDATA[취향의 경제
 유승호 지음 / 따비 / 2021년 11월 / ISBN:9788998439965
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 69원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
 이벤트: 여성폭력 추방 주간! 수신지 일러스트 2022 벽걸이 달력 (대상 포함 2만원 이상)
 
 
@@ -2509,8 +2587,8 @@ Python은 AI와 기계 학습에 관련된 프로그래밍에 최적일 뿐만 �
         <updated>2021-11-18T05:29:00.000Z</updated>
         <summary type="html"><![CDATA[[큰글자도서] 힘든 시대를 위한 좋은 경제학 2
 아비지트 배너지.에스테르 뒤플로 지음, 김승진 옮김 / 생각의힘 / 2021년 10월 / ISBN:9791190955379
-정가: 38,000원 / 판매가: 38,000원 / 마일리지: 142원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 38,000원 / 판매가: 38,000원 / 마일리지: 1,140원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -2554,8 +2632,8 @@ Python은 AI와 기계 학습에 관련된 프로그래밍에 최적일 뿐만 �
         <updated>2021-11-18T05:24:00.000Z</updated>
         <summary type="html"><![CDATA[[큰글자도서] 힘든 시대를 위한 좋은 경제학 1
 아비지트 배너지.에스테르 뒤플로 지음, 김승진 옮김 / 생각의힘 / 2021년 10월 / ISBN:9791190955362
-정가: 32,000원 / 판매가: 32,000원 / 마일리지: 144원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
+정가: 32,000원 / 판매가: 32,000원 / 마일리지: 960원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
 
@@ -2609,7 +2687,7 @@ Python은 AI와 기계 학습에 관련된 프로그래밍에 최적일 뿐만 �
         <updated>2021-11-16T04:48:00.000Z</updated>
         <summary type="html"><![CDATA[매경 아웃룩 2022 대예측
 매경이코노미 엮음 / 매일경제신문사 / 2021년 11월 / ISBN:9791164843480
-정가: 20,000원 / 판매가: 18,000원 / 마일리지: 76원
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 1,000원
 이벤트: 직장인 상태표지판/변색 머그
 
 
@@ -2677,7 +2755,7 @@ ESG 공시 요구 크게 증가 ‘그린워싱’ 경각심도 높아져
         <updated>2021-11-16T01:17:00.000Z</updated>
         <summary type="html"><![CDATA[재테크는 모르지만 부자로 키우고 싶어
 토리텔러 지음 / 동양북스(동양문고) / 2021년 11월 / ISBN:9791157687534
-정가: 15,800원 / 판매가: 14,220원 / 마일리지: 60원
+정가: 15,800원 / 판매가: 14,220원 / 마일리지: 790원
 이벤트:  구매 시, 은행놀이
 
 
@@ -2887,132 +2965,6 @@ Part 2 아이와 함께하는 재테크 레시피
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레이어드 머니 돈이 진화한다/닉 바티아 지음, 정성환 옮김/심플라이프]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=283322414</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=102&amp;type=item&amp;itemId=283322414"/>
-        <updated>2021-11-15T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[레이어드 머니 돈이 진화한다
-닉 바티아 지음, 정성환 옮김 / 심플라이프 / 2021년 11월 / ISBN:9791186757758
-정가: 15,800원 / 판매가: 14,220원 / 마일리지: 55원
-이벤트: 2021년 신간알리미 신청 TOP 20! 적립금 추첨 증정(2천명)
-
-
-
-
-‘오늘날 화폐 시스템은 어떻게 만들어졌을까? 달러 중심의 화폐 시스템은 언제까지 유효할까? 달러를 대체할 화폐는 무엇일까? 과연 국가권력으로부터 독립된 화폐 시스템을 만들 수 있을까? 비트코인과 디지털 화폐의 미래는?’
-
-이런 질문에 분명한 답을 제시하는 책이 출간돼 화제다. 출간되자마자 입소문을 타며 아마존 베스트셀러가 되었고 세계 각국에서 출간되고 있는 는 화폐의 역사를 ‘계층 화폐(Layered Money)’라는 획기적이고 독창적인 틀로 살펴봄으로써 대중이 화폐 시스템을 쉽게 이해하고, 개념을 재정립하도록 도와주는 책이다. 
-
-는 인류가 주화를 처음 쓰던 때부터 금・은, 달러를 거쳐 현재 비트코인에 이르기까지 화폐 시스템이 어떻게 만들어지고 변화해 현재에 이르렀는지 ‘계층 구조’라는 렌즈를 통해 일목요연하게 보여준다. 
-
-책은 또한 비트코인이 등장할 수밖에 없었던 필연성과 비트코인의 개념, 구조, 역할 등도 설명하고 있다. 이 여정을 따라가다 보면 우리가 쓰는 화폐와 시스템이 어떤 필요에 의해 창조되고 운영되며 또 어떤 구조적 문제를 안고 있는지 한눈에 파악할 수 있다.
-
-⦁한국어판 출간에 부쳐
-⦁서문
-
-▶ 1부 초기 화폐의 역사와 계층 화폐 출현
-
-⦁1장  플로린 금화
-⦁2장 계층 화폐의 등장
-
-▶ 2부 계층 화폐의 발전과 달러 시스템의 위기
-
-⦁3장 중앙은행
-⦁4장 미국 연방준비제도
-⦁5장 퇴장하는 금
-⦁6장 위기의 달러 시스템 
-
-▶ 3부 대안을 찾아서 - 비트코인 
-
-⦁7장 화폐 르네상스
-⦁8장 비트코인의 계층 구조
-⦁9장 중앙은행 디지털 화폐
-⦁10장 화폐 선택의 자유
-
-⦁참고문헌 
-
-
-국내도서 > 경제경영 > 재테크/투자 > 재테크/투자 일반
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈의 거짓말/정길원 지음/포레스트북스]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=283306689</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=102&amp;type=item&amp;itemId=283306689"/>
-        <updated>2021-11-15T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[돈의 거짓말
-정길원 지음 / 포레스트북스 / 2021년 11월 / ISBN:9791191347555
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 62원
-이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
-
-
-
-
-노동소득만으로는 더 이상 부를 누릴 수 없는 세상이다. 자본소득이 부에 더 가까이 데려다준다는 데 이견을 내는 사람은 없을 정도로 재테크는 기본적 소양이 되었다. 하지만 금융시장의 나눌 몫은 정해져 있다. 소수가 먼저 가져가면 나머지의 삶은 팍팍해지는 이치인 것이다. 투자하지 않으면 이주당하는 시대에서 우리는 자꾸만 돈을 버는 방법에 시야를 가둔다. 과연 금융시장은 투명하고 우리는 노력만으로 돈을 벌 수 있을까? 
-
-이 책의 저자는 15년 동안 국내 최고의 애널리스트로 일하며 금융시장에서 큰 부를 거머쥔 사람과 순식간에 돈을 잃은 사람을 만나왔다. 그리고 한 가지 사실을 깨달았다. 돈을 버는 일은 예측할 수 없지만, 돈을 절대 잃지 않는 방법은 존재한다는 것이다. 이 책은 역사적으로 다양하게 나타난 금융 사기 사건을 파헤침과 동시에 그 안에 숨겨진 돈을 잃지 않는 절대 공식을 소개함으로써 우리의 자산을 안전하게 지킬 수 있는 방법에 대해 안내한다.
-
-들어가며 · 잃지 않고 버는 법, 속지 않고 사는 법
-
-1부 금융 악당의 모습
-01 돌려막기: 모든 사기의 어머니
-02 담보의 배신
-03 갈라 먹기: 수수료의 함정
-04 권위의 동원
-05 없는 것을 믿게 하는 힘: 내러티브
-
-2부 금융 바보가 되지 않기 위한 원칙
-01 모든 투자는 할인율로 통한다
-02 Less is More
-03 어떻게 단순화할 것인가 1
-04 어떻게 단순화할 것인가 2
-05 감당할 수 있는 투자란?
-06 수제비의 레버리지
-
-3부 투자와 삶의 무기가 되는 생각법
-01 확률론적 사고 1: 맥락과 기회
-02 확률론적 사고 2: 베이지안 추론
-03 콜옵션적 사고: 잃지 않는 투자의 시작
-04 현금흐름적 사고 1: 안 털리는 생각법
-05 현금흐름적 사고 2: 구조적 문제를 푸는 접근
-06 현금흐름적 사고 3: 현금 부자 vs. 현재가치 부자
-
-나가며 · 노동의 허울을 넘는 좋은 투자
-
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2030 극한 경제 시나리오/리차드 데이비스 (Richard Davies) 지음, 고기탁 옮김/부키]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=283295421</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=102&amp;type=item&amp;itemId=283295421"/>
-        <updated>2021-11-15T02:40:00.000Z</updated>
-        <summary type="html"><![CDATA[2030 극한 경제 시나리오
-리차드 데이비스 (Richard Davies) 지음, 고기탁 옮김 / 부키 / 2021년 11월 / ISBN:9788960518940
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 84원
-이벤트: 직장인 상태표지판/변색 머그
-
-
-
-
-코로나 팬데믹이 던지는 메시지는 간단하다. 이와 같은 “극한 상황”이 언제 어디서든 벌어질 수 있으며, 우리의 경제와 삶은 생각보다 쉽게 무너질 수 있다는 것이다. 저자에 따르면 향후 10년 가장 중요한 추세는 “고령화, 디지털화, 불평등화” 3가지다. 현재도 우려를 자아내는 이 추세는 앞으로 더욱 심화하면서 분열과 갈등을 증폭하고 경제만이 아니라 정치, 사회 전반에서 대격변을 불러올 것이다.
-
-극한에 대비하려면 극한에서 배우는 것이 가장 좋다. 이 전략에 따라 저자는 4대륙 9개국 16만 킬로미터를 가로지르는 “극한 경제 여행”을 떠난다. 이 책에서 만나는 여행지는 최선의 성공을 거둔 3곳(아체, 자타리, 루이지애나), 최악의 실패를 겪은 3곳(다리엔, 킨샤사, 글래스고), 최첨단의 미래를 달리는 3곳(아키타, 탈린, 산티아고)이다. 거의 또는 전혀 알려지지 않은 곳들이지만 극한 여행지로는 최고의 핫 스폿들이다. 
-
-최악의 상황에 직면한 곳들이 살아남아 회복하고 성장하는 비결은 무엇인가? 반대로 최고의 조건을 갖춘 곳들이 참담한 실패와 몰락을 겪는 이유는 무엇인가? 임박한 미래를 선도하는 곳들은 어떤 충격과 도전에 직면하며 어떻게 대응하는가? 생생하고 감동적인 일상의 풍경과 현장의 목소리, 풍성하고 날카로운 연구 데이터와 역사를…]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[처음 시작하는 스프링 프레임워크 - 원리부터 실전까지/허진경 지음/부크크(bookk)]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=283289096</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=102&amp;type=item&amp;itemId=283289096"/>
@@ -3192,6 +3144,45 @@ ______비정형 ...
 국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 알고리즘
 국내도서 > 과학 > 의학
 국내도서 > 대학교재/전문서적 > 의약학간호계열 > 기초의학 > 생명과학]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정책은 디테일이다/심학봉 지음/매일경제신문사]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=283287046</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=102&amp;type=item&amp;itemId=283287046"/>
+        <updated>2021-11-15T00:03:00.000Z</updated>
+        <summary type="html"><![CDATA[정책은 디테일이다
+심학봉 지음 / 매일경제신문사 / 2021년 11월 / ISBN:9791164843435
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
+이벤트: 12월 특별선물! 피너츠 피규어 독서등, 크리스마스 오르골 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+대한민국은 그동안 크게 성장했다. 하지만 성장의 후유증 또한 크다. 국가 성공을 위해 희생했던 개인의 때늦은 보상의 욕구가 분출하고 있다. 자유민주주의에서 자유의 시장경쟁 원칙이 무너지고 민주의 법치주의가 위협받고 있다. 
+
+외교와 안보에서도 극심한 분열과 혼란을 보이고 있다. 여기에 경제는 계속해서 추락하고 사람들의 좌절과 분노 그리고 갈등은 좀처럼 진정될 기미가 보이지 않고 있다. 국민적 에너지인 역동성마저 저하되고 있다.
+
+방향은 목표이고 길은 그곳에 이르는 과정이다. 2022년 대선을 향한 경쟁의 총성이 울린 현재, 심학봉 전 의원은 국가가 당면한 이러한 문제들의 올바른 방향성을 재설정하고, 국가가 나아갈 새로운 길을 제안한다.
+
+서문
+제1부 성공에 취해 그림자를 놓치다
+1. 한국에 발을 들인 리바이어던 / 2. 그 시절, 국가들이 힘을 키운 방법 / 3. 회색코뿔소가 우리에게로 온다 / 4. 줄 서지 말고 손잡고 걸어가자! / 5. 해가 저무는 국가들의 모습
+
+제2부 대한민국은 힘이 세다! 우리가 할 수 있는 것
+1. 더 이상 아이 울음소리가 들리지 않는다 /  2. 우리 모두 평등하다는 진리를 잊지 않기 /
+3. 시대가 변했다 좋은 일자리도 변했다 /  4. 새로운 대한민국의 시작? 교육혁신부터! 
+ 
+제3부 천천히 오래도록 함께 가자
+1. 지속가능한 사회, 아름다운 미래의 길 / 2. 다시 만드는 대한민국 ‘우리’공동체 / 3. 대한민국 경제의 중심, 중산층을 살려라 / 4. 강한 국가는 무엇을 가지고 있을까? / 5. 뿌리 깊은 국가정신을 만들자 / 6. 정치적 편향! 이제는 정말 끝내야 해! 
+
+제4부 원 팀이 되면 못 할 것이 없다
+1. 모든 국민이 깨어 있는 그날까지 / 2. 국민과 국가가 함께 걷는 평화의 길 / 3. 국민의 행동력이 나라를 움직인다 
+
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
