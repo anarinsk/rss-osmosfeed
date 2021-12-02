@@ -413,15 +413,6 @@
           "title": "Informational barriers to market access"
         },
         {
-          "id": "https://voxeu.org/article/evolution-wage-gender-gap-firm-level-evidence-france",
-          "author": "Marco G.  Palladino, Alexandra Roulet, Mark Stabile",
-          "description": "What drives gender wage gaps – and how best to close them – remains a contested topic of economic research. Using data from matched employer-employee registers in France from 1995 to 2015, this column finds that discrepancies in pay are driven largely by men and women working in different firms rather than similar men and women being paid differently at the same firm. Understanding why the share of the gender gap ascribed to firms persists over time and across cohorts remains an essential policy puzzle for further reducing wage disparities.",
-          "link": "https://voxeu.org/article/evolution-wage-gender-gap-firm-level-evidence-france",
-          "publishedOn": "2021-12-01T00:00:00.000Z",
-          "wordCount": 2209,
-          "title": "Evolution of the wage gender gap: Firm-level evidence from France"
-        },
-        {
           "id": "https://voxeu.org/article/propagation-and-amplification-local-productivity-spillovers",
           "author": "Xavier Giroud, Simone Lenzu, Quinn Maingi, Holger Mueller",
           "description": "It is widely believed that the productivity gains from place-based policies are geographically highly localised. This column argues instead that productivity spillovers from local place-based policies may propagate far beyond the initial target region to the entire economy, through the plant-level networks of multi-region firms. But while these productivity spillovers amplify the aggregate welfare gains from local place-based policies, they widen economic disparities between individual workers and regions in the economy.",
@@ -429,6 +420,15 @@
           "publishedOn": "2021-12-01T00:00:00.000Z",
           "wordCount": 2441,
           "title": "Propagation and amplification of local productivity spillovers"
+        },
+        {
+          "id": "https://voxeu.org/article/evolution-wage-gender-gap-firm-level-evidence-france",
+          "author": "Marco G.  Palladino, Alexandra Roulet, Mark Stabile",
+          "description": "What drives gender wage gaps – and how best to close them – remains a contested topic of economic research. Using data from matched employer-employee registers in France from 1995 to 2015, this column finds that discrepancies in pay are driven largely by men and women working in different firms rather than similar men and women being paid differently at the same firm. Understanding why the share of the gender gap ascribed to firms persists over time and across cohorts remains an essential policy puzzle for further reducing wage disparities.",
+          "link": "https://voxeu.org/article/evolution-wage-gender-gap-firm-level-evidence-france",
+          "publishedOn": "2021-12-01T00:00:00.000Z",
+          "wordCount": 2209,
+          "title": "Evolution of the wage gender gap: Firm-level evidence from France"
         },
         {
           "id": "https://voxeu.org/content/procurement-focus-rules-discretion-and-emergencies",
@@ -472,7 +472,7 @@
           "description": "Many multinational firms shift profits to where they are taxed least. A new global database reveals which type of firms employ this accounting trick the most. Manthos Delis of Montpellier Business School and Fotis Delis of the University of Piraeus explain what can be done to discourage them.\nRead more about the research behind this video and download the Discussion Paper:\nDelis, M, Delis, F, Laeven, L and Ongena, S. 2021. 'Global Evidence on Profit Shifting: The Role of Intangible Assets'. London, Centre for Economic Policy Research.",
           "link": "https://voxeu.org/content/profit-shifting-role-intangible-assets",
           "publishedOn": "2021-11-30T00:00:00.000Z",
-          "wordCount": 556,
+          "wordCount": null,
           "title": "Profit shifting: The role of intangible assets"
         },
         {
@@ -492,128 +492,83 @@
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
         {
-          "id": "https://www.nber.org/papers/w29525#fromrss",
-          "author": null,
-          "description": "Why have white, less educated voters left the Democratic Party over the past few decades? Scholars have proposed ethnocentrism, social issues and deindustrialization as potential answers. We highlight the role played by the 1994 North American Free Trade Agreement (NAFTA).  In event-study analysis, we demonstrate that counties whose 1990 employment depended on industries vulnerable to NAFTA suffered large and persistent employment losses relative to other counties. These losses begin in the mid-1990s and are only modestly offset by transfer programs.  While exposed counties historically voted Democratic, in the mid-1990s they turn away from the party of the president (Bill Clinton) who ushered in the agreement and by 2000 vote majority Republican in House elections. Employing a variety of micro-data sources, including 1992-1994 respondent-level panel data, we show that protectionist views predict movement toward the GOP in the years that NAFTA is debated and implemented. This shift among protectionist respondents is larger for whites (especially men and those without a college degree) and those with conservative social views, suggesting an interactive effect whereby racial identity and social-issue positions mediate reactions to economic policies.",
-          "link": "https://www.nber.org/papers/w29525#fromrss",
-          "publishedOn": "2021-12-02T12:07:50.295Z",
-          "wordCount": 871,
-          "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA -- by Jiwon Choi, Ilyana Kuziemko, Ebonya L. Washington, Gavin Wright"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29521#fromrss",
-          "author": null,
-          "description": "Multiproduct firms are responsible for the vast majority of global trade. A prior literature examines how multiproduct firms respond to trade liberalizations that simultaneously affect all of the firms' products and inputs.  In contrast, our study uses Chinese firm-product-level export data to examine how an AD action, a very targeted trade policy against a specific product in a specific export destination, affects a multiproduct firms' price and quantity decisions across its other products and export destinations.  We find robust evidence for a new phenomenon we call within-firm cross-product trade deflection whereby an AD duty against one of the firm's products in one of its export destinations is associated with reduced prices and increased sales of its other products across all markets. This type of effect depends on increasing costs from joint production within multiproduct firms, something that is often assumed away in many models of the multiproduct firm.  We also document for the first time a within-firm chilling effect whereby an AD action in one export destination on a product leads the firm to raise price and lower quantity of the product in other export destinations to lower the risk of AD actions in these other markets.",
-          "link": "https://www.nber.org/papers/w29521#fromrss",
-          "publishedOn": "2021-12-02T12:07:50.282Z",
-          "wordCount": 1018,
-          "title": "Cross-Product and Cross-Market Adjustments Within Multiproduct Firms: Evidence from Antidumping Actions -- by Xiaohua Bao, Bruce A. Blonigen, Zhi Yu"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29514#fromrss",
-          "author": null,
-          "description": "Beyond its immediate impact on public health and the economy, the COVID-19 pandemic has put democracy under stress. While a common view is that people should blame the government rather than the political system for bad crisis management, an opposing view is that dissatisfaction with government performance may cause deeper dissatisfaction with democracy even in consolidated democratic regimes. We use a pre-registered survey and experiment covering 12 countries and 22,500 respondents to examine the impact of the pandemic on public attitudes about incumbent governments, the functioning of democracy and support for different types of regimes. To estimate causal effects, we leverage experimental treatments using an instrumental variable design. We find that dissatisfaction with the government, which is equally driven by economic and health considerations, decreases satisfaction with how democracy works. However, it does not translate into an embrace of non-democratic regime types.",
-          "link": "https://www.nber.org/papers/w29514#fromrss",
-          "publishedOn": "2021-12-02T12:07:50.256Z",
-          "wordCount": 1006,
-          "title": "COVID-19, Government Performance, and Democracy: Survey Experimental Evidence from 12 Countries -- by Michael Becher, Nicolas Longuet Marx, Vincent Pons, Sylvain Brouard, Martial Foucault, Vincenzo Galasso, Eric Kerrouche, Sandra León Alfonso, Daniel Stegmueller"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29516#fromrss",
-          "author": null,
-          "description": "We report evidence on discriminatory behavior from the largest correspondence study conducted to date in the rental housing market. Using more than 25,000 interactions with rental property managers across the 50 largest U.S. cities, the study reveals that African American and Hispanic/LatinX renters continue to face discriminatory constraints in the majority of U.S. cities although there are important regional differences. Stronger discriminatory constraints on renters of color (particularly African Americans) are also associated with higher levels of residential segregation and larger gaps in intergenerational income mobility. Using matched evidence on the actual rental outcomes at the properties in our experiment, we show that correspondence study measurements of discrimination do indeed predict actual outcomes.",
-          "link": "https://www.nber.org/papers/w29516#fromrss",
-          "publishedOn": "2021-12-02T12:07:50.135Z",
-          "wordCount": 901,
-          "title": "Racial Discrimination and Housing Outcomes in the United States Rental Market -- by Peter Christensen, Ignacio Sarmiento-Barbieri, Christopher Timmins"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29523#fromrss",
-          "author": null,
-          "description": "We study the labor markets in China and the United States, the two largest economies in the world, by examining the evolution of their cross-sectional age-earnings profiles during the past thirty years. We find that, first, the peak age in the cross-sectional age-earnings profiles, which we refer to as the “golden age,” stayed almost constant at around 45-50 in the U.S., but decreased sharply from 55 to around 35 in China; second, the age-specific earnings grew drastically in China, but stayed almost stagnant in the U.S.; third, the cross-sectional and life-cycle age-earnings profiles were remarkably similar in the U.S., but differed substantially in China. We propose and empirically implement a decomposition framework to infer from the repeated cross-sectional earnings data the experience effect (i.e., human capital accumulation over the life cycle), the cohort effect (i.e., inter-cohort human capital growth), and the time effect (i.e., changes in the human capital rental prices over time), under an identifying assumption that the growth of the experience effect stops at the end of one's working career. The decomposition suggests that China has experienced a much larger inter-cohort productivity growth and higher increase in the rental price to human capital, but lower returns to experience, compared to the U.S. We also use the inferred components to revisit several important and classical applications in macroeconomics and labor economics, including growth accounting and the estimation of TFP growth, and the college wage premium and skill-biased technical change.",
-          "link": "https://www.nber.org/papers/w29523#fromrss",
-          "publishedOn": "2021-12-02T12:07:50.122Z",
-          "wordCount": 1046,
-          "title": "“Golden Ages”: A Tale of the Labor Markets in China and the United States -- by Hanming Fang, Xincheng Qiu"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29520#fromrss",
-          "author": null,
-          "description": "The U.S. population is aging. We examine whether immigration causally affects the likelihood that the U.S.-born elderly live in institutional settings. Using a shift-share instrument to identify exogenous variation in immigration, we find that a 10 percentage point increase in the less-educated foreign-born labor force share in a local area reduces institutionalization among the elderly by 1.5 and 3.8 percentage points for those aged 65+ and 80+, a 26-29 percent effect relative to the mean. The estimates imply that a typical U.S-born individual over age 65 in the year 2000 was 0.5 percentage points (10 percent) less likely to be living in an institution than would have been the case if immigration had remained at 1980 levels. We show that immigration affects the availability and cost of home services, including those provided by home health aides, gardeners and housekeepers, and other less-educated workers, reducing the cost of aging in the community.",
-          "link": "https://www.nber.org/papers/w29520#fromrss",
-          "publishedOn": "2021-12-02T12:07:50.063Z",
-          "wordCount": 955,
-          "title": "Immigrant Labor and the Institutionalization of the U.S.-born Elderly -- by Kristin F. Butcher, Kelsey Moran, Tara Watson"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29512#fromrss",
-          "author": null,
-          "description": "Widely discredited ideas nevertheless persist. Why do we fail to \"unlearn\"? We study one explanation: beliefs are resistant to retractions (the revoking of earlier information). Our experimental design allows us to identify updating from retractions - unlearning - and to compare it with updating from equivalent new information - learning. Across different kinds of retractions - for instance, those consistent or contradictory with the prior, or those occurring when prior beliefs are either extreme or moderate - subjects do not fully unlearn from retractions and update approximately one-third less from them than from equivalent new information. While we document a number of well-known biases in belief updating in our data, our results are inconsistent with any explanation that does not treat retractions as inherently different. Instead, our analysis suggests that retractions are harder to process, for instance, due to the intimate reliance on conditional reasoning.",
-          "link": "https://www.nber.org/papers/w29512#fromrss",
-          "publishedOn": "2021-12-02T12:07:50.037Z",
-          "wordCount": 918,
-          "title": "Learning versus Unlearning: An Experiment on Retractions -- by Duarte Gonçalves, Jonathan Libgober, Jack Willis"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29518#fromrss",
-          "author": null,
-          "description": "Many agricultural and environmental technologies require large upfront investments in exchange for longer-term benefits. This time profile of costs and benefits makes adoption particularly sensitive to liquidity and credit constraints, which are prevalent in low-income settings. We test the importance of these barriers to the adoption of an agricultural technique that helps reduce land degradation and restore soil fertility in Niger. We find little evidence that liquidity or credit constraints deter adoption: instead, providing farmers with training increases the share of adopters by over 90 percentage points, whereas adding conditional or unconditional cash transfers has no additional effect. Adoption increases agricultural output, reduces land turnover and leads to adoption spillovers up to three years after treatment. These results imply that training can be a cost-effective and scalable means of promoting the adoption of profitable technologies.",
-          "link": "https://www.nber.org/papers/w29518#fromrss",
-          "publishedOn": "2021-12-02T12:07:50.014Z",
-          "wordCount": 928,
-          "title": "Harvesting the Rain: The Adoption of Environmental Technologies in the Sahel -- by Jenny C. Aker, Kelsey Jack"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29527#fromrss",
-          "author": null,
-          "description": "We show that borrowers are highly sensitive to the requirement of posting their homes as collateral. Using administrative loan application and performance data from the U.S. Federal Disaster Loan Program, we exploit a loan amount threshold above which households must post their residence as collateral. One-third of all borrowers select the maximum uncollateralized loan amount, and our bunching estimates suggest that the median borrower is willing to give up 40% of their loan amount to avoid collateral. Exploiting time variation in the loan amount threshold, we find that collateral causally reduces default rates by 35%. Our results help to explain high perceived default costs in the mortgage market, and uniquely quantify the extent to which collateral reduces moral hazard in consumer credit markets.",
-          "link": "https://www.nber.org/papers/w29527#fromrss",
-          "publishedOn": "2021-12-02T12:07:49.986Z",
-          "wordCount": 917,
-          "title": "The Cost of Consumer Collateral: Evidence from Bunching -- by Benjamin L. Collier, Cameron Ellis, Benjamin J. Keys"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29517#fromrss",
-          "author": null,
-          "description": "In a canonical intertemporal consumption problem, I show how anticipation of future consumption mistakes leads to higher current marginal propensities to consume (MPCs). This result is driven by mistakes in future consumption's response to saving changes (i.e., changes in asset balances) and is independent of their specific behavioral foundations. My framework can accommodate many widely studied behavioral biases, such as inattention, present bias, diagnostic expectations, and near-rationality (epsilon-mistakes). This channel helps explain the empirical puzzle on high-liquidity consumers' high MPCs and can be significant. The same channel can also help explain other puzzles in intertemporal choices, such as violations of the fungibility principle, excess discounting of future income, and large risk aversion. Methodologically, I develop a general approach to study predictions of sophistication (i.e., the anticipation of future mistakes) independent of the underlying behavioral biases.",
-          "link": "https://www.nber.org/papers/w29517#fromrss",
-          "publishedOn": "2021-12-02T12:07:49.971Z",
-          "wordCount": 967,
-          "title": "Mistakes in Future Consumption, High MPCs Now -- by Chen Lian"
-        },
-        {
           "id": "https://www.nber.org/papers/w29511#fromrss",
           "author": null,
           "description": "The empirical analysis of auction data has become a thriving field of research over the past thirty years. Relying on sophisticated models and advanced econometric methods, it addresses a wide range of policy questions for both public and private institutions. This chapter offers a guide to the literature by stressing how data features and policy questions have shaped research in the field. The chapter is organized by types of goods for sale and covers auctions of timber, construction and services procurement, oil and gas leases, online auctions, internet advertising, electricity, financial securities, spectrum, as well as used goods. It discusses the idiosyncrasies of each applied setting and the respective empirical findings.",
           "link": "https://www.nber.org/papers/w29511#fromrss",
-          "publishedOn": "2021-12-02T12:07:49.948Z",
+          "publishedOn": "2021-12-02T15:03:59.033Z",
           "wordCount": 829,
           "title": "Empirical Perspectives on Auctions -- by Ali Hortaçsu, Isabelle Perrigne"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29526#fromrss",
-          "author": null,
-          "description": "We use textual analysis of earnings conference calls held by listed firms around the world to measure the amount of risk managers and investors at each firm associate with each country at each point in time. Flexibly aggregating this firm-country-quarter-level data allows us to systematically identify spikes in perceived country risk (“crises”) and document their source and pattern of transmission to foreign firms. While this pattern usually follows a gravity structure, it often changes dramatically during crises. For example, while crises originating in developed countries propagate disproportionately to foreign financial firms, emerging market crises transmit less financially and more to traditionally exposed countries. We apply our measures to show that (i) elevated perceptions of a country's riskiness, particularly those of foreign and financial firms, are associated with significant falls in local asset prices, capital outflows, and reductions in firm-level investment and employment. (ii) Risk transmitted from foreign countries affects the investment decisions of domestic firms.  (iii) Heterogeneous currency loadings on perceived global risk can help explain the cross-country pattern of interest rates and currency risk premia.",
-          "link": "https://www.nber.org/papers/w29526#fromrss",
-          "publishedOn": "2021-12-02T12:07:49.755Z",
-          "wordCount": 1019,
-          "title": "Sources and Transmission of Country Risk -- by Tarek Alexander Hassan, Jesse Schreger, Markus Schwedeler, Ahmed Tahoun"
         },
         {
           "id": "https://www.nber.org/papers/w29522#fromrss",
           "author": null,
           "description": "This paper summarizes the results of nearly a dozen new papers presented at the Sundance Conference on Monopsony in Labor Markets held in October 2018.  These papers, to be published as a special issue of the Journal of Human Resources, study various aspects of monopsony and failures of competition in labor markets. It also reports on the new developments in public policies associated with widespread concerns about labor market competition and efforts to ameliorate competitive failures. The conference papers range from studies of the labor supply elasticity individual firms face to studies of local labor market concentration to studies of explicit covenants suppressing labor market competition. New policies range from private and public antitrust litigation to concerns about the effect of mergers and inter-firm agreements on labor market competition. We provide a detailed discussion of the mechanics of the Silicon Valley High Tech Worker conspiracy to suppress competition based on Court documents in the case. Non-compete agreements, which are not enforceable in three states already, have also come under scrutiny.",
           "link": "https://www.nber.org/papers/w29522#fromrss",
-          "publishedOn": "2021-12-02T12:07:49.726Z",
+          "publishedOn": "2021-12-02T15:03:59.004Z",
           "wordCount": 852,
           "title": "Monopsony in the Labor Market: New Empirical Results and New Public Policies -- by Orley C. Ashenfelter, David Card, Henry S. Farber, Michael Ransom"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29525#fromrss",
+          "author": null,
+          "description": "Why have white, less educated voters left the Democratic Party over the past few decades? Scholars have proposed ethnocentrism, social issues and deindustrialization as potential answers. We highlight the role played by the 1994 North American Free Trade Agreement (NAFTA).  In event-study analysis, we demonstrate that counties whose 1990 employment depended on industries vulnerable to NAFTA suffered large and persistent employment losses relative to other counties. These losses begin in the mid-1990s and are only modestly offset by transfer programs.  While exposed counties historically voted Democratic, in the mid-1990s they turn away from the party of the president (Bill Clinton) who ushered in the agreement and by 2000 vote majority Republican in House elections. Employing a variety of micro-data sources, including 1992-1994 respondent-level panel data, we show that protectionist views predict movement toward the GOP in the years that NAFTA is debated and implemented. This shift among protectionist respondents is larger for whites (especially men and those without a college degree) and those with conservative social views, suggesting an interactive effect whereby racial identity and social-issue positions mediate reactions to economic policies.",
+          "link": "https://www.nber.org/papers/w29525#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.989Z",
+          "wordCount": 871,
+          "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA -- by Jiwon Choi, Ilyana Kuziemko, Ebonya L. Washington, Gavin Wright"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29517#fromrss",
+          "author": null,
+          "description": "In a canonical intertemporal consumption problem, I show how anticipation of future consumption mistakes leads to higher current marginal propensities to consume (MPCs). This result is driven by mistakes in future consumption's response to saving changes (i.e., changes in asset balances) and is independent of their specific behavioral foundations. My framework can accommodate many widely studied behavioral biases, such as inattention, present bias, diagnostic expectations, and near-rationality (epsilon-mistakes). This channel helps explain the empirical puzzle on high-liquidity consumers' high MPCs and can be significant. The same channel can also help explain other puzzles in intertemporal choices, such as violations of the fungibility principle, excess discounting of future income, and large risk aversion. Methodologically, I develop a general approach to study predictions of sophistication (i.e., the anticipation of future mistakes) independent of the underlying behavioral biases.",
+          "link": "https://www.nber.org/papers/w29517#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.961Z",
+          "wordCount": 967,
+          "title": "Mistakes in Future Consumption, High MPCs Now -- by Chen Lian"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29523#fromrss",
+          "author": null,
+          "description": "We study the labor markets in China and the United States, the two largest economies in the world, by examining the evolution of their cross-sectional age-earnings profiles during the past thirty years. We find that, first, the peak age in the cross-sectional age-earnings profiles, which we refer to as the “golden age,” stayed almost constant at around 45-50 in the U.S., but decreased sharply from 55 to around 35 in China; second, the age-specific earnings grew drastically in China, but stayed almost stagnant in the U.S.; third, the cross-sectional and life-cycle age-earnings profiles were remarkably similar in the U.S., but differed substantially in China. We propose and empirically implement a decomposition framework to infer from the repeated cross-sectional earnings data the experience effect (i.e., human capital accumulation over the life cycle), the cohort effect (i.e., inter-cohort human capital growth), and the time effect (i.e., changes in the human capital rental prices over time), under an identifying assumption that the growth of the experience effect stops at the end of one's working career. The decomposition suggests that China has experienced a much larger inter-cohort productivity growth and higher increase in the rental price to human capital, but lower returns to experience, compared to the U.S. We also use the inferred components to revisit several important and classical applications in macroeconomics and labor economics, including growth accounting and the estimation of TFP growth, and the college wage premium and skill-biased technical change.",
+          "link": "https://www.nber.org/papers/w29523#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.943Z",
+          "wordCount": 1046,
+          "title": "“Golden Ages”: A Tale of the Labor Markets in China and the United States -- by Hanming Fang, Xincheng Qiu"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29518#fromrss",
+          "author": null,
+          "description": "Many agricultural and environmental technologies require large upfront investments in exchange for longer-term benefits. This time profile of costs and benefits makes adoption particularly sensitive to liquidity and credit constraints, which are prevalent in low-income settings. We test the importance of these barriers to the adoption of an agricultural technique that helps reduce land degradation and restore soil fertility in Niger. We find little evidence that liquidity or credit constraints deter adoption: instead, providing farmers with training increases the share of adopters by over 90 percentage points, whereas adding conditional or unconditional cash transfers has no additional effect. Adoption increases agricultural output, reduces land turnover and leads to adoption spillovers up to three years after treatment. These results imply that training can be a cost-effective and scalable means of promoting the adoption of profitable technologies.",
+          "link": "https://www.nber.org/papers/w29518#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.928Z",
+          "wordCount": 928,
+          "title": "Harvesting the Rain: The Adoption of Environmental Technologies in the Sahel -- by Jenny C. Aker, Kelsey Jack"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29521#fromrss",
+          "author": null,
+          "description": "Multiproduct firms are responsible for the vast majority of global trade. A prior literature examines how multiproduct firms respond to trade liberalizations that simultaneously affect all of the firms' products and inputs.  In contrast, our study uses Chinese firm-product-level export data to examine how an AD action, a very targeted trade policy against a specific product in a specific export destination, affects a multiproduct firms' price and quantity decisions across its other products and export destinations.  We find robust evidence for a new phenomenon we call within-firm cross-product trade deflection whereby an AD duty against one of the firm's products in one of its export destinations is associated with reduced prices and increased sales of its other products across all markets. This type of effect depends on increasing costs from joint production within multiproduct firms, something that is often assumed away in many models of the multiproduct firm.  We also document for the first time a within-firm chilling effect whereby an AD action in one export destination on a product leads the firm to raise price and lower quantity of the product in other export destinations to lower the risk of AD actions in these other markets.",
+          "link": "https://www.nber.org/papers/w29521#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.901Z",
+          "wordCount": 1018,
+          "title": "Cross-Product and Cross-Market Adjustments Within Multiproduct Firms: Evidence from Antidumping Actions -- by Xiaohua Bao, Bruce A. Blonigen, Zhi Yu"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29526#fromrss",
+          "author": null,
+          "description": "We use textual analysis of earnings conference calls held by listed firms around the world to measure the amount of risk managers and investors at each firm associate with each country at each point in time. Flexibly aggregating this firm-country-quarter-level data allows us to systematically identify spikes in perceived country risk (“crises”) and document their source and pattern of transmission to foreign firms. While this pattern usually follows a gravity structure, it often changes dramatically during crises. For example, while crises originating in developed countries propagate disproportionately to foreign financial firms, emerging market crises transmit less financially and more to traditionally exposed countries. We apply our measures to show that (i) elevated perceptions of a country's riskiness, particularly those of foreign and financial firms, are associated with significant falls in local asset prices, capital outflows, and reductions in firm-level investment and employment. (ii) Risk transmitted from foreign countries affects the investment decisions of domestic firms.  (iii) Heterogeneous currency loadings on perceived global risk can help explain the cross-country pattern of interest rates and currency risk premia.",
+          "link": "https://www.nber.org/papers/w29526#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.888Z",
+          "wordCount": 1019,
+          "title": "Sources and Transmission of Country Risk -- by Tarek Alexander Hassan, Jesse Schreger, Markus Schwedeler, Ahmed Tahoun"
         },
         {
           "id": "https://www.nber.org/papers/w29515#fromrss",
           "author": null,
           "description": "In recent years, the designs of many new blockchain applications have been inspired by the Byzantine fault tolerance (BFT) problem. While traditional BFT protocols assume that most system nodes are honest (in that they follow the protocol), we recognize that blockchains are deployed in environments where nodes are subject to strategic incentives. This paper develops an economic framework for analyzing such cases. Specifically, we assume that 1) non-Byzantine nodes are rational, so we explicitly study their incentives when participating in a BFT consensus process; 2) non-Byzantine nodes are ambiguity averse, and specifically, Knightian uncertain about Byzantine actions; and 3) decisions/inferences are all based on local information. The consensus game then resembles one with preplay “cheap talk” communications. We characterize all equilibria, some of which feature rational leaders withholding messages from some nodes in order to achieve consensus. These findings enrich those from traditional BFT algorithms, where an honest leader always sends messages to all nodes. We also study how the progress of communication technology (i.e., potential message losses) affects the equilibrium consensus outcome.",
           "link": "https://www.nber.org/papers/w29515#fromrss",
-          "publishedOn": "2021-12-02T12:07:49.712Z",
+          "publishedOn": "2021-12-02T15:03:58.755Z",
           "wordCount": 922,
           "title": "An Economic Model of Consensus on Distributed Ledgers -- by Hanna Halaburda, Zhiguo He, Jiasun Li"
         },
@@ -622,27 +577,72 @@
           "author": null,
           "description": "While the COVID-19 pandemic has laid bare the large costs of infectious diseases, less attention has been paid to the impacts of more common, endemic respiratory viruses that frequently circulate in the population, especially when it comes to their potential long-term consequences for population health, human capital, and economic outcomes. This paper uses Danish population-level administrative data on 35 birth cohorts of children to provide a comprehensive analysis of both the mechanisms through which infants become infected by respiratory illnesses, as well as the consequences of early-life respiratory disease exposure for their later outcomes. First, we document a striking difference in the likelihood of severe respiratory illness by birth order: younger siblings have two to three times higher rates of hospitalization for respiratory conditions before age one than older siblings at the same age. We argue that the family unit is central in virus transmission, with older children \"bringing home\" the virus to their younger siblings. We then combine the birth order variation with within-municipality variation in respiratory disease prevalence among preschool-aged children to identify differential long-term impacts of early-life respiratory illness between younger and older siblings. We find that moving from the 25th to the 75th percentile in the local disease prevalence distribution (\"disease index\") is associated with a 30.9 percent differential increase in the number of respiratory illness hospitalizations in the first year of life for younger compared to older siblings. In the long term, for younger relative to older siblings, we find a 0.5 percent differential reduction in the likelihood of high school graduation, and a 1.3 percent additional reduction in age-30 earnings.",
           "link": "https://www.nber.org/papers/w29524#fromrss",
-          "publishedOn": "2021-12-02T12:07:49.686Z",
+          "publishedOn": "2021-12-02T15:03:58.721Z",
           "wordCount": 1020,
           "title": "Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread -- by N. Meltem Daysal, Hui Ding, Maya Rossin-Slater, Hannes Schwandt"
         },
         {
-          "id": "https://www.nber.org/papers/w29519#fromrss",
+          "id": "https://www.nber.org/papers/w29527#fromrss",
           "author": null,
-          "description": "It is common to rank different categories by means of preferences that are revealed through data on choices. A prominent example is the ranking of political candidates or parties using the estimated share of support each one receives in surveys or polls about political attitudes. Since these rankings are computed using estimates of the share of support rather than the true share of support, there may be considerable uncertainty concerning the true ranking of the political candidates or parties. In this paper, we consider the problem of accounting for such uncertainty by constructing confidence sets for the rank of each category. We consider both the problem of constructing marginal confidence sets for the rank of a particular category as well as simultaneous confidence sets for the ranks of all categories. A distinguishing feature of our analysis is that we exploit the multinomial structure of the data to develop confidence sets that are valid in finite samples. We additionally develop confidence sets using the bootstrap that are valid only approximately in large samples. We use our methodology to rank political parties in Australia using data from the 2019 Australian Election Survey. We find that our finite-sample confidence sets are informative across the entire ranking of political parties, even in Australian territories with few survey respondents and/or with parties that are chosen by only a small share of the survey respondents. In contrast, the bootstrap-based confidence sets may sometimes be considerably less informative. These findings motivate us to compare these methods in an empirically-driven simulation study, in which we conclude that our finite-sample confidence sets often perform better than their large-sample, bootstrap-based counterparts, especially in settings that resemble our empirical application.",
-          "link": "https://www.nber.org/papers/w29519#fromrss",
-          "publishedOn": "2021-12-02T12:07:49.650Z",
-          "wordCount": 1028,
-          "title": "Finite- and Large-Sample Inference for Ranks using Multinomial Data with an Application to Ranking Political Parties -- by Sergei Bazylik, Magne Mogstad, Joseph P. Romano, Azeem Shaikh, Daniel Wilhelm"
+          "description": "We show that borrowers are highly sensitive to the requirement of posting their homes as collateral. Using administrative loan application and performance data from the U.S. Federal Disaster Loan Program, we exploit a loan amount threshold above which households must post their residence as collateral. One-third of all borrowers select the maximum uncollateralized loan amount, and our bunching estimates suggest that the median borrower is willing to give up 40% of their loan amount to avoid collateral. Exploiting time variation in the loan amount threshold, we find that collateral causally reduces default rates by 35%. Our results help to explain high perceived default costs in the mortgage market, and uniquely quantify the extent to which collateral reduces moral hazard in consumer credit markets.",
+          "link": "https://www.nber.org/papers/w29527#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.664Z",
+          "wordCount": 917,
+          "title": "The Cost of Consumer Collateral: Evidence from Bunching -- by Benjamin L. Collier, Cameron Ellis, Benjamin J. Keys"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29514#fromrss",
+          "author": null,
+          "description": "Beyond its immediate impact on public health and the economy, the COVID-19 pandemic has put democracy under stress. While a common view is that people should blame the government rather than the political system for bad crisis management, an opposing view is that dissatisfaction with government performance may cause deeper dissatisfaction with democracy even in consolidated democratic regimes. We use a pre-registered survey and experiment covering 12 countries and 22,500 respondents to examine the impact of the pandemic on public attitudes about incumbent governments, the functioning of democracy and support for different types of regimes. To estimate causal effects, we leverage experimental treatments using an instrumental variable design. We find that dissatisfaction with the government, which is equally driven by economic and health considerations, decreases satisfaction with how democracy works. However, it does not translate into an embrace of non-democratic regime types.",
+          "link": "https://www.nber.org/papers/w29514#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.646Z",
+          "wordCount": 1006,
+          "title": "COVID-19, Government Performance, and Democracy: Survey Experimental Evidence from 12 Countries -- by Michael Becher, Nicolas Longuet Marx, Vincent Pons, Sylvain Brouard, Martial Foucault, Vincenzo Galasso, Eric Kerrouche, Sandra León Alfonso, Daniel Stegmueller"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29512#fromrss",
+          "author": null,
+          "description": "Widely discredited ideas nevertheless persist. Why do we fail to \"unlearn\"? We study one explanation: beliefs are resistant to retractions (the revoking of earlier information). Our experimental design allows us to identify updating from retractions - unlearning - and to compare it with updating from equivalent new information - learning. Across different kinds of retractions - for instance, those consistent or contradictory with the prior, or those occurring when prior beliefs are either extreme or moderate - subjects do not fully unlearn from retractions and update approximately one-third less from them than from equivalent new information. While we document a number of well-known biases in belief updating in our data, our results are inconsistent with any explanation that does not treat retractions as inherently different. Instead, our analysis suggests that retractions are harder to process, for instance, due to the intimate reliance on conditional reasoning.",
+          "link": "https://www.nber.org/papers/w29512#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.626Z",
+          "wordCount": 918,
+          "title": "Learning versus Unlearning: An Experiment on Retractions -- by Duarte Gonçalves, Jonathan Libgober, Jack Willis"
         },
         {
           "id": "https://www.nber.org/papers/w29513#fromrss",
           "author": null,
           "description": "We study information substitutability in the financial market through a quasi-natural experiment: the pandemic-triggered lockdown that has hampered people's physical interactions hence the ability to collect, process, and transmit soft information. Exploiting the cross- sectional and time-series variations of lockdown, we investigate how the difficulty to use soft information has prompted a switch to hard information and its implication on fund investment, performance, and risk management. We show that lockdown reduces fund investment in proximate stocks and generates a portfolio rebalancing toward distant stocks. The re- balancing negatively impacts fund performance by reducing fund raw (excess) return of an additional 0.76% (0.29%) per month during lockdown, suggesting that soft and hard information is not easily substitutable. Lastly, we show that soft information originates mainly from physical human interactions, primarily in cafés, restaurants, bars, and fitness centers; and the virtual world based on Zoom/Skype/Team fails to substitute physical interactions fully, thus cannot provide sufficient soft information.",
           "link": "https://www.nber.org/papers/w29513#fromrss",
-          "publishedOn": "2021-12-02T12:07:49.587Z",
+          "publishedOn": "2021-12-02T15:03:58.590Z",
           "wordCount": 903,
           "title": "Is Hard and Soft Information Substitutable? Evidence from Lockdown -- by Jennie Bai, Massimo Massa"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29516#fromrss",
+          "author": null,
+          "description": "We report evidence on discriminatory behavior from the largest correspondence study conducted to date in the rental housing market. Using more than 25,000 interactions with rental property managers across the 50 largest U.S. cities, the study reveals that African American and Hispanic/LatinX renters continue to face discriminatory constraints in the majority of U.S. cities although there are important regional differences. Stronger discriminatory constraints on renters of color (particularly African Americans) are also associated with higher levels of residential segregation and larger gaps in intergenerational income mobility. Using matched evidence on the actual rental outcomes at the properties in our experiment, we show that correspondence study measurements of discrimination do indeed predict actual outcomes.",
+          "link": "https://www.nber.org/papers/w29516#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.570Z",
+          "wordCount": 901,
+          "title": "Racial Discrimination and Housing Outcomes in the United States Rental Market -- by Peter Christensen, Ignacio Sarmiento-Barbieri, Christopher Timmins"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29519#fromrss",
+          "author": null,
+          "description": "It is common to rank different categories by means of preferences that are revealed through data on choices. A prominent example is the ranking of political candidates or parties using the estimated share of support each one receives in surveys or polls about political attitudes. Since these rankings are computed using estimates of the share of support rather than the true share of support, there may be considerable uncertainty concerning the true ranking of the political candidates or parties. In this paper, we consider the problem of accounting for such uncertainty by constructing confidence sets for the rank of each category. We consider both the problem of constructing marginal confidence sets for the rank of a particular category as well as simultaneous confidence sets for the ranks of all categories. A distinguishing feature of our analysis is that we exploit the multinomial structure of the data to develop confidence sets that are valid in finite samples. We additionally develop confidence sets using the bootstrap that are valid only approximately in large samples. We use our methodology to rank political parties in Australia using data from the 2019 Australian Election Survey. We find that our finite-sample confidence sets are informative across the entire ranking of political parties, even in Australian territories with few survey respondents and/or with parties that are chosen by only a small share of the survey respondents. In contrast, the bootstrap-based confidence sets may sometimes be considerably less informative. These findings motivate us to compare these methods in an empirically-driven simulation study, in which we conclude that our finite-sample confidence sets often perform better than their large-sample, bootstrap-based counterparts, especially in settings that resemble our empirical application.",
+          "link": "https://www.nber.org/papers/w29519#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.302Z",
+          "wordCount": 1028,
+          "title": "Finite- and Large-Sample Inference for Ranks using Multinomial Data with an Application to Ranking Political Parties -- by Sergei Bazylik, Magne Mogstad, Joseph P. Romano, Azeem Shaikh, Daniel Wilhelm"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29520#fromrss",
+          "author": null,
+          "description": "The U.S. population is aging. We examine whether immigration causally affects the likelihood that the U.S.-born elderly live in institutional settings. Using a shift-share instrument to identify exogenous variation in immigration, we find that a 10 percentage point increase in the less-educated foreign-born labor force share in a local area reduces institutionalization among the elderly by 1.5 and 3.8 percentage points for those aged 65+ and 80+, a 26-29 percent effect relative to the mean. The estimates imply that a typical U.S-born individual over age 65 in the year 2000 was 0.5 percentage points (10 percent) less likely to be living in an institution than would have been the case if immigration had remained at 1980 levels. We show that immigration affects the availability and cost of home services, including those provided by home health aides, gardeners and housekeepers, and other less-educated workers, reducing the cost of aging in the community.",
+          "link": "https://www.nber.org/papers/w29520#fromrss",
+          "publishedOn": "2021-12-02T15:03:58.260Z",
+          "wordCount": 955,
+          "title": "Immigrant Labor and the Institutionalization of the U.S.-born Elderly -- by Kristin F. Butcher, Kelsey Moran, Tara Watson"
         }
       ]
     },
@@ -783,12 +783,21 @@
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
         {
+          "id": "http://www.calculatedriskblog.com/2021/12/weekly-initial-unemployment-claims.html",
+          "author": null,
+          "description": "The DOL reported:\nIn the week ending November 27, the advance figure for seasonally adjusted initial claims was 222,000, an increase of  28,000 from the previous week's revised level. The previous week's level was revised down by 5,000 from 199,000 to  194,000. The 4-week moving average was 238,750, a decrease of 12,250 from the previous week's revised average. This  is the lowest level for this average since March 14, 2020 when it was 225,500. The previous week's average was revised  down by 1,250 from 252,250 to 251,000\nemphasis added\nThe following graph shows the 4-week moving average of weekly claims since 1971.\nClick on graph for larger image.\nThe dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims decreased to 238,750.\nThe previous week was revised down.\nRegular state continued claims decreased to 1,956,000 (SA) from 2,063,000 (SA) the previous week.\nWeekly claims were well below the consensus forecast.",
+          "link": "http://www.calculatedriskblog.com/2021/12/weekly-initial-unemployment-claims.html",
+          "publishedOn": "2021-12-02T13:34:00.001Z",
+          "wordCount": 976,
+          "title": "Weekly Initial Unemployment Claims Increase to 222,000"
+        },
+        {
           "id": "http://www.calculatedriskblog.com/2021/12/november-vehicles-sales-decreased-to.html",
           "author": null,
           "description": "Wards Auto released their estimate of light vehicle sales for November.  Wards Auto estimates sales of 12.86 million SAAR in November 2021 (Seasonally Adjusted Annual Rate), down 1.0% from the October sales rate, and down 19.0% from November 2020. \n\nThis was below the consensus estimate of 13.2 million SAAR.\nClick on graph for larger image.\nThis graph shows light vehicle sales since 2006 from the BEA (blue) and Wards Auto's estimate for November (red).\nThe impact of COVID-19 was significant, and April 2020 was the worst month.\nAfter April 2020, sales increased, and were close to sales in 2019 (the year before the pandemic).  \n\n\nHowever, sales decreased earlier this year due to supply issues. It appears the \"supply chain bottom\" was in September, but sales in November were disappointing.",
           "link": "http://www.calculatedriskblog.com/2021/12/november-vehicles-sales-decreased-to.html",
           "publishedOn": "2021-12-01T23:28:00.000Z",
-          "wordCount": 951,
+          "wordCount": 953,
           "title": "November Vehicles Sales decreased to 12.9 million SAAR"
         },
         {
@@ -997,15 +1006,6 @@
           "publishedOn": "2021-11-28T23:41:00.003Z",
           "wordCount": 969,
           "title": "Monday: Pending Home Sales"
-        },
-        {
-          "id": "http://www.calculatedriskblog.com/2021/11/philly-fed-state-coincident-indexes.html",
-          "author": null,
-          "description": "From the Philly Fed: \nThe Federal Reserve Bank of Philadelphia has released the coincident indexes for the 50 states for October 2021. Over the  past three months, the indexes increased in 49 states and decreased in one state, for a three-month diffusion index of 96.  Additionally, in the past month, the indexes increased in 48 states and decreased in two states, for a one-month diffusion  index of 92. For comparison purposes, the Philadelphia Fed has also developed a similar coincident index for the entire  United States. The Philadelphia Fed’s U.S. index increased 1.4 percent over the past three months and 0.4 percent in  October.\nemphasis added\nNote: These are coincident indexes constructed from state employment data.  An explanation from the Philly Fed: \nThe coincident indexes combine four state-level indicators to summarize current economic conditions in a single statistic. The four state-level variables in each coincident index are nonfarm payroll employment, average hours worked in manufacturing by production workers, the unemployment rate, and wage and salary disbursements deflated by the consumer price index (U.S. city average). The trend for each state’s index is set to the trend of its gross domestic product (GDP), so long-term growth in the state’s index matches long-term growth in its GDP.\nClick on map for larger image.\nHere is a map of the three month change in the Philly Fed state coincident indicators.  This map was all red during the worst of the Pandemic and also at the worst of the Great Recession.\nThe map is almost all positive on a three-month basis.\nSource: Philly Fed. \nAnd here is a graph is of the number of states with one month increasing activity according to the Philly Fed. \n\nThis graph includes states with minor increases (the Philly Fed lists as unchanged).\nIn October, 48 states had increasing activity including minor increases.",
-          "link": "http://www.calculatedriskblog.com/2021/11/philly-fed-state-coincident-indexes.html",
-          "publishedOn": "2021-11-28T17:01:00.000Z",
-          "wordCount": 1134,
-          "title": "Philly Fed: State Coincident Indexes Increased in 48 States in October"
         }
       ]
     }
