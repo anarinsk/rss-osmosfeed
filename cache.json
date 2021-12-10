@@ -389,15 +389,6 @@
           "publishedOn": "2021-11-11T00:54:00.000Z",
           "wordCount": null,
           "title": "파이썬 데이터 클리닝 쿡북/마이클 워커 지음, 최용 옮김/위키북스"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=283068556",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "코드로 배우는 인공지능\n장리커.판후이 지음, 김태헌 옮김 / 제이펍 / 2021년 11월 / ISBN:9791191600421\n정가: 25,000원 / 판매가: 22,500원 / 마일리지: 97원\n이벤트: 수험서.대학교재-마스킹 테이프/젓가락/노트/지워지는 볼펜\n\n\n\n\n개발자에게 바치는 머신러닝 가이드북이다. 철저하게 개발자의 시선에서 접근하고 실제 산업계에서 자주 사용되는 모델에 관해 설명한다. 동시에 신경망의 원리와 기초 구현 방법, 케라스 라이브러리의 사용법과 텐서플로를 활용한 모델 배포 방안도 포함한다. 복잡한 머신러닝 이론 대신, 간단한 AI 구현 코드를 보여주면서 구조와 프로세스를 설명한다. 그리고 초보 학습자가 궁금해할 문제를 선별하여 이러한 문제와 연계해 새로운 내용을 소개한다. 이 책의 모든 장에서 비슷한 방법을 사용하고 있다.\n\n상편\r\nCHAPTER 01 머신러닝의 Hello World 3\r\n1.1 머신러닝에 대한 간략한 소개 3\r\n1.2 머신러닝 애플리케이션의 핵심 개발 프로세스 5\r\n1.3 코드로 시작하기 8\r\n1.4 마무리 11\r\n1.5 참고자료 11\r\n\r\nCHAPTER 02 직접 구현하는 신경망 12\r\n2.1 퍼셉트론 12\r\n2.2 선형 회귀와 경사 하강법 구현 17\r\n2.3 확률적 경사 하강법의 구현 23\r\n2.4 파이썬을 통한 단층 신경망 구현 25\r\n2.5 요약 40\r\n2.6 참고자료 40\r\n\r\nCHAPTER 03 케라스 시작하기 41\r\n3.1 케라스 소개 41\r\n3.2 케라스 개발 입문 42\r\n3.3 케라스 개념 설명 46\r\n3.4 다시 코드 실습으로 72\r\n3.5 요약 77\r\n3.6 참고자료 78\r\n\r\nCHAPTER 04 예측과 분류: 간단한 머신러닝 응용 79\r\n4.1 머신러닝 프레임워크 ? 사이킷런 소개 79\r\n4.2 분류 알고리즘 기초 82\r\n4.3 의사결정 트리 92\r\n4.4 선형 회귀 103\r\n4.5 로지스틱 회귀 104\r\n4.6 신경망 110\r\n4.7 요약 123\r\n4.8 참고자료 123\r\n\r\n하편\r\nCHAPTER 05 추천 시스템 기초 127\r\n5.1 추천 시스템 소개 127\r\n5.2 유사도 계산 130\r\n5.3 협업 필터링 131\r\n5.4 추천 환경에서 사용하는 로지스틱 회귀 모델 137\r\n5.5 여러 모델을 융합한 추천 모델: Wide&Deep 모델 140\r\n5.6 요약 149\r\n5.7 참고자료 149\r\n\r\nCHAPTER 06 실전 프로젝트: 챗봇 만들기 150\r\n6.1 챗봇의 발전 역사 150\r\n6.2 순환 신경망 152\r\n6.3 Seq2Seq 소개 및 구현 161\r\n6.4 어텐션 176\r\n6.5 요약 187\r\n6.6 참고자료 187\r\n\r\nCHAPTER 07 이미지 분류 실전 프로젝트 189\r\n7.1 이미지 분류와 합성곱 신경망 189\r\n7.2 합성곱 신경망의 원리 192\r\n7.3 실전 예제: 교통 표지판 분류 202\r\n7.4 최적화 정책 211\r\n7.5 요약 217\r\n7.6 참고자료 217\r\n\r\nCHAPTER 08 객체 검출 218\r\n8.1 CNN의 진화 219\r\n8.2 YOLO 241\r\n8.3 YOLO v3 구현 252\r\n8.4 요약 292\r\n8.5 참고자료 293\r\n\r\nCHAPTER 09 모델 배포 및 서비스 295\r\n9.1 생산 환경에서의 모델 서비스 295\r\n9.2 텐서플로 서빙의 응용 298\r\n9.3 요약 306\r\n9.4 참고자료 307\n\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 전산수학(SPSS/MATLAB)\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 운영체제/소프트웨어 공학\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=102&type=item&itemId=283068556",
-          "publishedOn": "2021-11-10T23:45:00.000Z",
-          "wordCount": null,
-          "title": "코드로 배우는 인공지능/장리커.판후이 지음, 김태헌 옮김/제이펍"
         }
       ]
     },
@@ -413,13 +404,13 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/output-gaps-potential-output-and-covid-19-crisis",
-          "author": "Kieran Mc Morrow , François Blondeau, Francesca D’Auria, Björn Döhring, Atanas  Hristov, Christoph Maier, Anna Thum-Thysen",
-          "description": "Strong policy actions have dampened the impact of Covid-19 on workers and businesses. Amid a rapid recovery, dents to potential output are set to remain limited and transitory. But many uncertainties persist and some economic scarring from the pandemic may only emerge over the coming years. This column summarises the insights from a recent conference on the implications of the Covid-19 recession for the EU’s growth potential.",
-          "link": "https://voxeu.org/article/output-gaps-potential-output-and-covid-19-crisis",
+          "id": "https://voxeu.org/vox-talks/germanys-stalled-social-mobility",
+          "author": "Sebastian Findeisen, Paul Schüle",
+          "description": "New research uses German census data to track the association between success for a child and the earnings of the parent at a much higher level of detail than was previously possible. Sebastian Findeisen and Paul Schüle tell Tim Phillips about the impact of investment in education, intended to improve social mobility.\nRead more about the research behind this and download the free discussion paper:\nDodin, M, Findeisen, S, Henkel, L, Sachs, D and Schuele, P. 2021. 'Social Mobility in Germany'. CEPR",
+          "link": "https://voxeu.org/vox-talks/germanys-stalled-social-mobility",
           "publishedOn": "2021-12-10T00:00:00.000Z",
-          "wordCount": 3042,
-          "title": "Output gaps, potential output and the Covid-19 crisis"
+          "wordCount": 586,
+          "title": "Germany's stalled social mobility"
         },
         {
           "id": "https://voxeu.org/content/procurement-focus-rules-discretion-and-emergencies-0",
@@ -427,8 +418,17 @@
           "description": "A new CEPR ebook examines how public procurement, especially in an emergency, can cut red tape without increasing corruption and waste. Editors Erica Bosio, Giancarlo Spagnolo, and Oriana Bandiera explain what Covid-19 and other recent events have taught us.\nDownload the eBook:\nOriana Bandiera, Erica Bosio, Giancarlo Spagnolo Procurement in Focus: Rules, Discretion, and Emergencies, CEPR\nRegister for the online eBook launch on 15 December 14:00 GMT",
           "link": "https://voxeu.org/content/procurement-focus-rules-discretion-and-emergencies-0",
           "publishedOn": "2021-12-10T00:00:00.000Z",
-          "wordCount": 569,
+          "wordCount": null,
           "title": "Procurement in focus. Rules, discretion, and emergencies"
+        },
+        {
+          "id": "https://voxeu.org/article/output-gaps-potential-output-and-covid-19-crisis",
+          "author": "Kieran Mc Morrow , François Blondeau, Francesca D’Auria, Björn Döhring, Atanas  Hristov, Christoph Maier, Anna Thum-Thysen",
+          "description": "Strong policy actions have dampened the impact of Covid-19 on workers and businesses. Amid a rapid recovery, dents to potential output are set to remain limited and transitory. But many uncertainties persist and some economic scarring from the pandemic may only emerge over the coming years. This column summarises the insights from a recent conference on the implications of the Covid-19 recession for the EU’s growth potential.",
+          "link": "https://voxeu.org/article/output-gaps-potential-output-and-covid-19-crisis",
+          "publishedOn": "2021-12-10T00:00:00.000Z",
+          "wordCount": 3044,
+          "title": "Output gaps, potential output and the Covid-19 crisis"
         },
         {
           "id": "https://voxeu.org/article/towards-high-wage-high-productivity-economy",
@@ -436,7 +436,7 @@
           "description": "Many commentators have understood the UK government’s proposed ‘high-wage, high-productivity’ model as suggesting that wage increases will themselves lead to innovation and higher productivity. In the November 2021 CfM survey, the panel of UK experts is nearly unanimous that that wage increases generally do not increase productivity in the long run; the consensus is that productivity drives wage increases. A minority thinks that government intervention in wages could lead to higher productivity, but even this minority argues that such policies should be complemented with investments in skills and other productivity-enhancing measures.",
           "link": "https://voxeu.org/article/towards-high-wage-high-productivity-economy",
           "publishedOn": "2021-12-09T00:00:00.000Z",
-          "wordCount": 2365,
+          "wordCount": 2367,
           "title": "Towards a high-wage, high-productivity economy"
         },
         {
@@ -445,17 +445,8 @@
           "description": "The rapid growth of FinTech platforms creates challenges and opportunities for financial markets. This column uses a new dataset from a Portuguese FinTech platform to study the determinants of lending demand and the consequences of FinTech loans for small and medium-sized enterprises. It finds that FinTech lending caters mainly to larger SMEs, with higher profitability and a lower credit risk. Additionally, it shows that firms increase assets, employment, and sales following an approved FinTech loan. Finally, FinTech lending allows firms to diversify their pool of lenders and reduce exposure to shocks in the banking system.",
           "link": "https://voxeu.org/article/effects-fintech-lending-small-and-medium-sized-enterprises",
           "publishedOn": "2021-12-09T00:00:00.000Z",
-          "wordCount": 2603,
+          "wordCount": 2605,
           "title": "The effects of FinTech lending on small and medium-sized enterprises"
-        },
-        {
-          "id": "https://voxeu.org/article/socially-responsible-investors-amplify-positive-externalities-regulatory-enforcement",
-          "author": "Sudipto Dasgupta, Thanh Huynh, Ying Xia",
-          "description": "Whether socially responsible investors have any impact on the environmental, social, and governance policies of portfolio firms has become a much-debated issue. This column shows that firms reduce emissions at their local plants following enforcement actions by the US Environmental Protection Agency against nearby plants of firms operating in the same market, and that the emissions reduction is twice as large if a nearby ‘socially responsible’ mutual fund owns shares of the parent firm of the peer plants. The threat of exit by these funds appears to have real consequences for how the local plants respond to the enforcement action.",
-          "link": "https://voxeu.org/article/socially-responsible-investors-amplify-positive-externalities-regulatory-enforcement",
-          "publishedOn": "2021-12-08T00:00:00.000Z",
-          "wordCount": 3104,
-          "title": "Socially responsible investors amplify the positive externalities of regulatory enforcement"
         },
         {
           "id": "https://voxeu.org/article/financial-incentives-and-other-nudges-do-not-increase-covid-19-vaccinations-among-hesitant",
@@ -463,8 +454,17 @@
           "description": "In the race to protect health and economies from COVID-19, governments must convince vaccine-hesitant populations to get jabbed. This column reports on a study in which unvaccinated members of a Medicaid-managed healthcare plan in the US were offered either financial incentives, different public health messages, or a simple vaccination appointment scheduler. None of the schemes increased overall vaccination rates in this vaccine-hesitant population. Improving take-up may likely require stronger policy levers, from employer rules to government mandates.",
           "link": "https://voxeu.org/article/financial-incentives-and-other-nudges-do-not-increase-covid-19-vaccinations-among-hesitant",
           "publishedOn": "2021-12-08T00:00:00.000Z",
-          "wordCount": 2219,
+          "wordCount": 2221,
           "title": "Financial incentives and other nudges do not increase COVID-19 vaccinations among the hesitant"
+        },
+        {
+          "id": "https://voxeu.org/article/socially-responsible-investors-amplify-positive-externalities-regulatory-enforcement",
+          "author": "Sudipto Dasgupta, Thanh Huynh, Ying Xia",
+          "description": "Whether socially responsible investors have any impact on the environmental, social, and governance policies of portfolio firms has become a much-debated issue. This column shows that firms reduce emissions at their local plants following enforcement actions by the US Environmental Protection Agency against nearby plants of firms operating in the same market, and that the emissions reduction is twice as large if a nearby ‘socially responsible’ mutual fund owns shares of the parent firm of the peer plants. The threat of exit by these funds appears to have real consequences for how the local plants respond to the enforcement action.",
+          "link": "https://voxeu.org/article/socially-responsible-investors-amplify-positive-externalities-regulatory-enforcement",
+          "publishedOn": "2021-12-08T00:00:00.000Z",
+          "wordCount": 3106,
+          "title": "Socially responsible investors amplify the positive externalities of regulatory enforcement"
         },
         {
           "id": "https://voxeu.org/article/socioeconomic-gap-childcare-enrolment",
@@ -472,7 +472,7 @@
           "description": "In many countries, children from families with lower socioeconomic status are less likely than those from higher socioeconomic status families to attend early childcare programmes. This column presents findings from a field experiment in Germany demonstrating that disadvantaged families have difficulties navigating the complex childcare application process, and providing information and personal assistance for applications can substantially reduce the socioeconomic gap in early childcare enrolment. To promote educational equality, policymakers should alleviate behavioural barriers to childcare and other formally non-selective social programmes.",
           "link": "https://voxeu.org/article/socioeconomic-gap-childcare-enrolment",
           "publishedOn": "2021-12-07T00:00:00.000Z",
-          "wordCount": 2341,
+          "wordCount": 2343,
           "title": "The socioeconomic gap in childcare enrolment"
         },
         {
@@ -481,7 +481,7 @@
           "description": "The global market size of outsourcing doubled between 2000 and 2019. While most studies look at foreign outsourcing, this column uses new data on Indian firms to analyse the effects of increased competition from Chinese imports on the domestic outsourcing of manufacturing jobs. It finds that greater import competition is associated with a significant increase in domestic outsourcing. Additionally, it shows that this effect is only present in Indian states with pro-worker labour regulations. Thus, it highlights the important role of domestic institutions in how firms adapt to globalisation.",
           "link": "https://voxeu.org/article/import-competition-labour-market-regulation-and-outsourcing",
           "publishedOn": "2021-12-07T00:00:00.000Z",
-          "wordCount": 2304,
+          "wordCount": 2306,
           "title": "Import competition, labour market regulation, and outsourcing"
         },
         {
@@ -490,17 +490,8 @@
           "description": "During the COVID-19 pandemic, the debate on monetary financing has been reignited and several economists have called for governments to borrow from their central banks to finance larger deficits. This column looks to sub-Saharan Africa, a region where ‘fiscal dominance’ has long been widespread, for useful insights into this debate. It finds that central bank financing of government does have an inflationary impact through the exchange rate channel. Numerical legal limits on central bank financing can be an effective way to mitigate the risks, even if they are not always binding.",
           "link": "https://voxeu.org/article/inflation-and-fiscal-dominance",
           "publishedOn": "2021-12-06T00:00:00.000Z",
-          "wordCount": 2299,
+          "wordCount": 2301,
           "title": "Inflation and ‘fiscal dominance’"
-        },
-        {
-          "id": "https://voxeu.org/article/modernisation-and-china-s-century-humiliation",
-          "author": "Wolfgang Keller, Carol Shiue",
-          "description": "There is little consensus about the impact that the Western colonialism had on China’s economy. This column revisits a period that saw China end centuries of relative isolation and open dozens of ‘treaty ports’ to Western traders, which shifted the focus of capital markets from inland areas to the coast. Western influence also increased the number of banks, firm investment, as well as the adoption of steam engines and industrial machinery, and significantly lowered local interest rates.",
-          "link": "https://voxeu.org/article/modernisation-and-china-s-century-humiliation",
-          "publishedOn": "2021-12-05T00:00:00.000Z",
-          "wordCount": 2362,
-          "title": "Modernisation and China’s ‘century of humiliation’"
         }
       ]
     },
@@ -510,137 +501,146 @@
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
         {
-          "id": "https://www.nber.org/papers/w29545#fromrss",
-          "author": null,
-          "description": "In this article, we provide a comprehensive, empirical assessment of the hypothesis that the Hospital Readmissions Reduction Program (HRRP) affected hospital readmissions. In doing so, we provide evidence as to the validity of prior empirical approaches used to evaluate the HRRP and we present results from a previously unused approach to study this research question—a regression-kink design. Results of our analysis document that the empirical approaches used in most prior research assessing the efficacy of the HRRP often lack internal validity. Therefore, results from these studies may not be informative about the causal consequences of the HRRP. Results from our regression-kink analysis, which we validate, suggest that the HRRP had little effect on hospital readmissions. This finding contrasts with the results of most prior studies, which report that the HRRP significantly reduced readmissions. Our finding is consistent with conceptual considerations related to the assumptions underlying HRRP penalty; in particular, the difficulty of identifying preventable readmissions, the highly imperfect risk adjustment that affects the penalty determination and the absence of proven tools to reduce readmissions.",
-          "link": "https://www.nber.org/papers/w29545#fromrss",
-          "publishedOn": "2021-12-10T09:04:38.059Z",
-          "wordCount": 893,
-          "title": "Did the Hospital Readmissions Reduction Program Reduce Readmissions? An Assessment of Prior Evidence and New Estimates -- by Engy Ziedan, Robert Kaestner"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29541#fromrss",
-          "author": null,
-          "description": "While a growing body of evidence documents large gender disparities in health care and related social insurance programs, little is known about what drives these disparities.  We leverage administrative data and random assignment of doctors to patients inherent within the workers’ compensation insurance claim dispute resolution process to study the impact of gender match between doctors and patients on medical evaluations and subsequent social insurance benefits received. Compared to differences among their male patient counterparts, female patients randomly assigned a female doctor rather than a male doctor are 5.0% more likely to be evaluated as disabled and receive 8.5% more subsequent cash benefits on average. There is no analogous gender-match effect for male patients. The magnitude of these effects implies that having female doctors evaluate patients entirely offsets the observed gender gap in the likelihood of being evaluated as disabled when male doctors evaluate patients. We explore mechanisms through further analysis of the administrative data and complementary survey evidence. In addition, we present broader evidence on gender gaps in workers' compensation insurance and gender homophily in patients' selections of doctors in settings where patients have choice. Combining this evidence, we conduct policy counterfactuals illustrating how policies increasing gender diversity among doctors or increasing gender homophily in patient-doctor matches may impact gender gaps in evaluated disability. Our findings indicate that policies increasing the share of female patients evaluated by female doctors may substantially shrink gender gaps in medical evaluations and associated outcomes.",
-          "link": "https://www.nber.org/papers/w29541#fromrss",
-          "publishedOn": "2021-12-10T09:04:38.007Z",
-          "wordCount": 1146,
-          "title": "Gender Differences in Medical Evaluations: Evidence from Randomly Assigned Doctors -- by Marika Cabral, Marcus Dillender"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29543#fromrss",
-          "author": null,
-          "description": "We find that among stocks dominated by retail investors, the lottery anomaly is amplified by high investor attention (proxied by high analyst coverage, salient earnings surprises, or recency of extreme positive returns) and intense social interactions (proxied by Facebook social connectedness or population density near firm headquarters). Such stocks’ lottery features attract greater Google search volume and retail net buying, followed by more negative earnings surprises and lower announcement-period returns. The findings provide insight into the roles of attention and social interaction in securities markets, and support the hypothesis that these forces contribute to investor attraction to lottery stocks.",
-          "link": "https://www.nber.org/papers/w29543#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.977Z",
-          "wordCount": 933,
-          "title": "Attention, Social Interaction, and Investor Attraction to Lottery Stocks -- by Turan G. Bali, David Hirshleifer, Lin Peng, Yi Tang"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29542#fromrss",
-          "author": null,
-          "description": "Access to microcredit has been shown to generate only modest average benefits for recipient households. We study whether other financial market frictions—in particular, lack of access to a safe place to save—might limit credit's benefits. Working with Kenyan farmers, we cross-randomize access to a simple savings product with a harvest-time loan. Among farmers offered a loan, the additional offer of a savings lockbox increased farm investment by 11% and household consumption by 7%. Results suggest that financial market frictions can interact in important ways and that multifaceted financial access programs might unlock dynamic household gains.",
-          "link": "https://www.nber.org/papers/w29542#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.966Z",
-          "wordCount": 865,
-          "title": "Unlocking the Benefits of Credit through Saving -- by Sanghamitra W. Mukherjee, Lauren F. Bergquist, Marshall Burke, Edward Miguel"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29537#fromrss",
-          "author": null,
-          "description": "The Marshall Plan (1948–1952) was the largest aid transfer in history. This paper estimates its effects on Italy’s postwar economic development. It exploits differences between Italian provinces in the value of reconstruction grants they received. Provinces that could modernize more their infrastructure experienced higher increases in agricultural production, especially for perishable crops. In the same provinces, we observe larger investments in labor-saving machines, the entry of more firms into the industrial sector, and a larger expansion of the industrial and service workforce.",
-          "link": "https://www.nber.org/papers/w29537#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.943Z",
-          "wordCount": 903,
-          "title": "Reconstruction Aid, Public Infrastructure, and Economic Development: The Case of the Marshall Plan in Italy -- by Michela Giorcelli, Nicola Bianchi"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29549#fromrss",
-          "author": null,
-          "description": "We evaluate how nonresponse affects conclusions drawn from survey data and consider how researchers can reliably test and correct for nonresponse bias. To do so, we examine a survey on labor market conditions during the COVID-19 pandemic that used randomly assigned financial incentives to encourage participation. We link the survey data to administrative data sources, allowing us to observe a ground truth for participants and nonparticipants. We find evidence of large nonresponse bias, even after correcting for observable differences between participants and nonparticipants. We apply a range of existing methods that account for nonresponse bias due to unobserved differences, including worst-case bounds, bounds that incorporate monotonicity assumptions, and approaches based on parametric and nonparametric selection models. These methods produce bounds (or point estimates) that are either too wide to be useful or far from the ground truth. We show how these shortcomings can be addressed by modeling how nonparticipation can be both active (declining to participate) and passive (not seeing the survey invitation). The model makes use of variation from the randomly assigned financial incentives, as well as the timing of reminder emails. Applying the model to our data produces bounds (or point estimates) that are narrower and closer to the ground truth than the other methods.",
-          "link": "https://www.nber.org/papers/w29549#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.932Z",
-          "wordCount": 985,
-          "title": "Selection in Surveys -- by Deniz Dutz, Ingrid Huitfeldt, Santiago Lacouture, Magne Mogstad, Alexander Torgovitsky, Winnie van Dijk"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29544#fromrss",
-          "author": null,
-          "description": "The distributions of wealth in the US and many other countries are strikingly concentrated on the top and skewed to the right. To explain the income and wealth inequality, we provide a tractable heterogeneous-agent model with incomplete markets in continuous time. We separate illiquid capital assets from liquid bond assets and introduce capital return jump risks. Under recursive utility, we derive optimal consumption and wealth in closed form and show that the stationary wealth distribution has an exponential right tail. Our calibrated model can match the income and wealth distributions in the US data including the extreme right tail. We also study the effect of taxes on the distribution of wealth.",
-          "link": "https://www.nber.org/papers/w29544#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.920Z",
-          "wordCount": 792,
-          "title": "Capital Return Jumps and Wealth Distribution -- by Jess Benhabib, Wei Cui, Jianjun Miao"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29547#fromrss",
-          "author": null,
-          "description": "Robust support for corporate income taxation is a puzzle for standard tax theory because the tax’s incidence is uncertain and unreliable. We propose a resolution: if the corporate tax is seen as a benefit-based tax, its normative appeal depends on the correspondence between its incidence and that of the benefit which corporations derive from the state’s activities. We show that a simple mechanism makes this correspondence exact—and the net incidence of the tax zero—when the tax base matches what we call the benefit base. As a result, the appeal of the corporate income tax is independent of incidence as conventionally understood.",
-          "link": "https://www.nber.org/papers/w29547#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.896Z",
-          "wordCount": 842,
-          "title": "The Incidence of the Corporate Income Tax is Irrelevant for its (Benefit-Based) Justification -- by Simon M. Naitram, Matthew C. Weinzierl"
-        },
-        {
           "id": "https://www.nber.org/papers/w29536#fromrss",
           "author": null,
           "description": "There is evidence that physicians disproportionately suffer from substance use disorder and mental health problems.  It is not clear, however, whether these phenomena are causal.  We use data on Dutch medical school applicants to examine the effects of becoming a physician on prescription drug use and the receipt of treatment from a mental health facility.  Leveraging variation from lottery outcomes that determine admission into medical schools, we find that becoming a physician increases the use of antidepressants, opioids, anxiolytics, and sedatives, especially for female physicians. Among female applicants towards the bottom of the GPA distribution, becoming a physician increases the likelihood of receiving treatment from a mental health facility.",
           "link": "https://www.nber.org/papers/w29536#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.883Z",
+          "publishedOn": "2021-12-10T12:07:54.433Z",
           "wordCount": 798,
           "title": "The Effects of Becoming a Physician on Prescription Drug Use and Mental Health Treatment -- by D. Mark Anderson, Ron Diris, Raymond Montizaan, Daniel I. Rees"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29548#fromrss",
-          "author": null,
-          "description": "We study the productivity-pay relationship in the United States and Canada along two dimensions. The first is divergence: the degree to which the levels of productivity and pay have diverged. The second is delinkage: the degree to which incremental increases in the rate of productivity growth translate into incremental increases in the rate of growth of pay, holding all else equal. We show that in both countries the pay of typical workers has diverged substantially from average labor productivity over recent decades, driven by both rising labor income inequality and a declining labor share of income. Even as the levels of productivity and pay have grown further apart, we find evidence for some linkage between productivity and pay in both countries: a one percentage point increase in the rate of productivity growth is associated with a positive increase in the rate of pay growth, holding all else equal. This linkage appears stronger in the US than in Canada. Overall, our findings lead us to tentatively conclude that policies or trends which lead to incremental increases in productivity growth, particularly in large relatively closed economies like the USA, will tend to raise middle class incomes. At the same time, other factors orthogonal to productivity growth have been driving productivity and typical pay further apart, emphasizing that much of the evolution in middle class living standards will depend on measures bearing on relative incomes.",
-          "link": "https://www.nber.org/papers/w29548#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.861Z",
-          "wordCount": 932,
-          "title": "Productivity and Pay in the US and Canada -- by Jacob Greenspon, Anna M. Stansbury, Lawrence H. Summers"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29550#fromrss",
-          "author": null,
-          "description": "The COVID-19 pandemic brought unprecedented policy responses and a large literature evaluating their impacts. This paper re-examines this literature and investigates the role of researchers' degrees-of-flexibility on the estimated effects of mobility-reducing policies on social-distancing behavior. We find that two-way fixed effects estimates are not robust to minor changes in usually-unexplored dimensions of the degree-of-flexibility space. While standard robustness tests based on the sequential addition of covariates are very stable, small changes in the outcome variable and its transformation lead to large and sometimes contradictory changes in the estimates, where the same policy can be found to significantly increase or decrease mobility. Yet, due to the large number of degrees-of-flexibility, one can focus on a set of results that appears stable, while ignoring problematic ones. We show that recently developed heterogeneity-robust difference-in-differences estimators only partially mitigate these issues, and discuss how a strategy of identifying the point at which a sequence of ever more-stringent robustness tests eventually fail could increase the credibility of policy evaluations.",
-          "link": "https://www.nber.org/papers/w29550#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.849Z",
-          "wordCount": 865,
-          "title": "Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations -- by Joakim A. Weill, Matthieu Stigler, Olivier Deschenes, Michael R. Springborn"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29546#fromrss",
-          "author": null,
-          "description": "Racial segregation can occur across educational programs or classrooms within a given school, and there has been particular concern that gifted & talented programs may reduce integration within schools. This paper evaluates the contribution of gifted & talented education to racial segregation using data on the presence and racial composition of gifted & talented programs at virtually all US elementary schools over a span of nine school years. I first show that, consistent with widespread perceptions, gifted & talented programs do disproportionately enroll white and Asian students while Black, Hispanic and Native American students are underrepresented. However, I also show that accounting for the within-school racial sorting caused by these programs has little or no effect on standard measures of overall racial segregation. This is primarily because gifted & talented programs are a small share of total enrollments and do enroll non-negligible numbers of under-represented minority students. I also estimate changes in race-specific enrollments after schools initiate or discontinue gifted & talented programs, and find no significant enrollment changes after programs are eliminated or initiated. I conclude that gifted & talented education is a quantitatively small contributor to racial segregation in US elementary schools.",
-          "link": "https://www.nber.org/papers/w29546#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.835Z",
-          "wordCount": 876,
-          "title": "Gifted & Talented Programs and Racial Segregation -- by Owen Thompson"
         },
         {
           "id": "https://www.nber.org/papers/w29539#fromrss",
           "author": null,
           "description": "We construct a measure of consumption-equivalent welfare for Black and White Americans. Our statistic incorporates life expectancy, consumption, leisure, and inequality, with mortality rates playing a key role quantitatively. According to our estimates, welfare for Black Americans was 43% of that for White Americans in 1984 and rose to 60% by 2019. Going back further in time (albeit with more limited data), the gap was even larger, with Black welfare equal to just 28% of White welfare in 1940. On the one hand, there has been remarkable progress for Black Americans: the level of their consumption-equivalent welfare increased by a factor of 28 between 1940 and 2019, when aggregate consumption per person rose a more modest 5-fold. On the other hand, despite this remarkable progress, the welfare gap in 2019 remains disconcertingly large. Mortality from COVID-19 has temporarily reversed a decade of progress, lowering Black welfare by 17% while reducing White welfare by 10%.",
           "link": "https://www.nber.org/papers/w29539#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.367Z",
+          "publishedOn": "2021-12-10T12:07:54.403Z",
           "wordCount": 876,
           "title": "Race and Economic Well-Being in the United States -- by Jean-Felix Brouillette, Charles I. Jones, Peter J. Klenow"
         },
         {
-          "id": "https://www.nber.org/papers/w29530#fromrss",
+          "id": "https://www.nber.org/papers/w29548#fromrss",
           "author": null,
-          "description": "We propose an approach to modeling and estimating discrete choice demand that allows for a large number of zero sale observations, rich unobserved heterogeneity, and endogenous prices. We do so by modeling small market sizes through Poisson arrivals. Each of these arriving consumers then solves a standard discrete choice problem. We present a Bayesian IV estimation approach that addresses sampling error in product shares and scales well to rich data environments. The data requirements are traditional market-level data and measures of consumer search intensity. After presenting simulation studies, we consider an empirical application of air travel demand where product-level sales are sparse. We find considerable variation in demand over time. Periods of peak demand feature both larger market sizes and consumers with higher willingness to pay. This amplifies cyclicality. However, observed frequent price and capacity adjustments offset some of this compounding effect.",
-          "link": "https://www.nber.org/papers/w29530#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.342Z",
+          "description": "We study the productivity-pay relationship in the United States and Canada along two dimensions. The first is divergence: the degree to which the levels of productivity and pay have diverged. The second is delinkage: the degree to which incremental increases in the rate of productivity growth translate into incremental increases in the rate of growth of pay, holding all else equal. We show that in both countries the pay of typical workers has diverged substantially from average labor productivity over recent decades, driven by both rising labor income inequality and a declining labor share of income. Even as the levels of productivity and pay have grown further apart, we find evidence for some linkage between productivity and pay in both countries: a one percentage point increase in the rate of productivity growth is associated with a positive increase in the rate of pay growth, holding all else equal. This linkage appears stronger in the US than in Canada. Overall, our findings lead us to tentatively conclude that policies or trends which lead to incremental increases in productivity growth, particularly in large relatively closed economies like the USA, will tend to raise middle class incomes. At the same time, other factors orthogonal to productivity growth have been driving productivity and typical pay further apart, emphasizing that much of the evolution in middle class living standards will depend on measures bearing on relative incomes.",
+          "link": "https://www.nber.org/papers/w29548#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.391Z",
+          "wordCount": 932,
+          "title": "Productivity and Pay in the US and Canada -- by Jacob Greenspon, Anna M. Stansbury, Lawrence H. Summers"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29533#fromrss",
+          "author": null,
+          "description": "Income differences across US cities are well documented, but little is known about the level of standard of living in each city—defined as the amount of market-based consumption that residents are able to afford. In this paper we provide estimates of the standard of living by commuting zone for households in a given income or education group, and we study how they relate to local cost of living. Using a novel dataset, we observe debit and credit card transactions, check and ACH payments, and cash withdrawals of 5% of US households in 2014 and use it to measure mean consumption expenditures by commuting zone and income group. To measure local prices, we build income-specific consumer price indices by commuting zone. We uncover vast geographical differences in material standard of living for…",
+          "link": "https://www.nber.org/papers/w29533#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.277Z",
+          "wordCount": 1206,
+          "title": "Where is Standard of Living the Highest? Local Prices and the Geography of Consumption -- by Rebecca Diamond, Enrico Moretti"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29537#fromrss",
+          "author": null,
+          "description": "The Marshall Plan (1948–1952) was the largest aid transfer in history. This paper estimates its effects on Italy’s postwar economic development. It exploits differences between Italian provinces in the value of reconstruction grants they received. Provinces that could modernize more their infrastructure experienced higher increases in agricultural production, especially for perishable crops. In the same provinces, we observe larger investments in labor-saving machines, the entry of more firms into the industrial sector, and a larger expansion of the industrial and service workforce.",
+          "link": "https://www.nber.org/papers/w29537#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.214Z",
+          "wordCount": 903,
+          "title": "Reconstruction Aid, Public Infrastructure, and Economic Development: The Case of the Marshall Plan in Italy -- by Michela Giorcelli, Nicola Bianchi"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29543#fromrss",
+          "author": null,
+          "description": "We find that among stocks dominated by retail investors, the lottery anomaly is amplified by high investor attention (proxied by high analyst coverage, salient earnings surprises, or recency of extreme positive returns) and intense social interactions (proxied by Facebook social connectedness or population density near firm headquarters). Such stocks’ lottery features attract greater Google search volume and retail net buying, followed by more negative earnings surprises and lower announcement-period returns. The findings provide insight into the roles of attention and social interaction in securities markets, and support the hypothesis that these forces contribute to investor attraction to lottery stocks.",
+          "link": "https://www.nber.org/papers/w29543#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.179Z",
+          "wordCount": 933,
+          "title": "Attention, Social Interaction, and Investor Attraction to Lottery Stocks -- by Turan G. Bali, David Hirshleifer, Lin Peng, Yi Tang"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29549#fromrss",
+          "author": null,
+          "description": "We evaluate how nonresponse affects conclusions drawn from survey data and consider how researchers can reliably test and correct for nonresponse bias. To do so, we examine a survey on labor market conditions during the COVID-19 pandemic that used randomly assigned financial incentives to encourage participation. We link the survey data to administrative data sources, allowing us to observe a ground truth for participants and nonparticipants. We find evidence of large nonresponse bias, even after correcting for observable differences between participants and nonparticipants. We apply a range of existing methods that account for nonresponse bias due to unobserved differences, including worst-case bounds, bounds that incorporate monotonicity assumptions, and approaches based on parametric and nonparametric selection models. These methods produce bounds (or point estimates) that are either too wide to be useful or far from the ground truth. We show how these shortcomings can be addressed by modeling how nonparticipation can be both active (declining to participate) and passive (not seeing the survey invitation). The model makes use of variation from the randomly assigned financial incentives, as well as the timing of reminder emails. Applying the model to our data produces bounds (or point estimates) that are narrower and closer to the ground truth than the other methods.",
+          "link": "https://www.nber.org/papers/w29549#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.168Z",
+          "wordCount": 985,
+          "title": "Selection in Surveys -- by Deniz Dutz, Ingrid Huitfeldt, Santiago Lacouture, Magne Mogstad, Alexander Torgovitsky, Winnie van Dijk"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29545#fromrss",
+          "author": null,
+          "description": "In this article, we provide a comprehensive, empirical assessment of the hypothesis that the Hospital Readmissions Reduction Program (HRRP) affected hospital readmissions. In doing so, we provide evidence as to the validity of prior empirical approaches used to evaluate the HRRP and we present results from a previously unused approach to study this research question—a regression-kink design. Results of our analysis document that the empirical approaches used in most prior research assessing the efficacy of the HRRP often lack internal validity. Therefore, results from these studies may not be informative about the causal consequences of the HRRP. Results from our regression-kink analysis, which we validate, suggest that the HRRP had little effect on hospital readmissions. This finding contrasts with the results of most prior studies, which report that the HRRP significantly reduced readmissions. Our finding is consistent with conceptual considerations related to the assumptions underlying HRRP penalty; in particular, the difficulty of identifying preventable readmissions, the highly imperfect risk adjustment that affects the penalty determination and the absence of proven tools to reduce readmissions.",
+          "link": "https://www.nber.org/papers/w29545#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.145Z",
+          "wordCount": 893,
+          "title": "Did the Hospital Readmissions Reduction Program Reduce Readmissions? An Assessment of Prior Evidence and New Estimates -- by Engy Ziedan, Robert Kaestner"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29544#fromrss",
+          "author": null,
+          "description": "The distributions of wealth in the US and many other countries are strikingly concentrated on the top and skewed to the right. To explain the income and wealth inequality, we provide a tractable heterogeneous-agent model with incomplete markets in continuous time. We separate illiquid capital assets from liquid bond assets and introduce capital return jump risks. Under recursive utility, we derive optimal consumption and wealth in closed form and show that the stationary wealth distribution has an exponential right tail. Our calibrated model can match the income and wealth distributions in the US data including the extreme right tail. We also study the effect of taxes on the distribution of wealth.",
+          "link": "https://www.nber.org/papers/w29544#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.135Z",
+          "wordCount": 792,
+          "title": "Capital Return Jumps and Wealth Distribution -- by Jess Benhabib, Wei Cui, Jianjun Miao"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29542#fromrss",
+          "author": null,
+          "description": "Access to microcredit has been shown to generate only modest average benefits for recipient households. We study whether other financial market frictions—in particular, lack of access to a safe place to save—might limit credit's benefits. Working with Kenyan farmers, we cross-randomize access to a simple savings product with a harvest-time loan. Among farmers offered a loan, the additional offer of a savings lockbox increased farm investment by 11% and household consumption by 7%. Results suggest that financial market frictions can interact in important ways and that multifaceted financial access programs might unlock dynamic household gains.",
+          "link": "https://www.nber.org/papers/w29542#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.124Z",
+          "wordCount": 865,
+          "title": "Unlocking the Benefits of Credit through Saving -- by Sanghamitra W. Mukherjee, Lauren F. Bergquist, Marshall Burke, Edward Miguel"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29547#fromrss",
+          "author": null,
+          "description": "Robust support for corporate income taxation is a puzzle for standard tax theory because the tax’s incidence is uncertain and unreliable. We propose a resolution: if the corporate tax is seen as a benefit-based tax, its normative appeal depends on the correspondence between its incidence and that of the benefit which corporations derive from the state’s activities. We show that a simple mechanism makes this correspondence exact—and the net incidence of the tax zero—when the tax base matches what we call the benefit base. As a result, the appeal of the corporate income tax is independent of incidence as conventionally understood.",
+          "link": "https://www.nber.org/papers/w29547#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.098Z",
           "wordCount": 842,
-          "title": "Incorporating Search and Sales Information in Demand Estimation -- by Ali Hortaçsu, Olivia R. Natan, Hayden Parsley, Timothy Schwieg, Kevin R. Williams"
+          "title": "The Incidence of the Corporate Income Tax is Irrelevant for its (Benefit-Based) Justification -- by Simon M. Naitram, Matthew C. Weinzierl"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29538#fromrss",
+          "author": null,
+          "description": "This paper studies how fiscal decentralization affects local services. It explores a 1993 reform that increased the fiscal autonomy of Italian municipalities by replacing government transfers with revenues from a local property tax. Our identifica- tion leverages cross-municipal variation in the degree of decentralization that stems from differences in the average age of buildings caused by bombings during WWII. Decentralization reduced local spending but expanded municipal services, such as nursery schools. These effects are larger in areas with greater political competition. The paper also investigates how the reform affected labor markets. Decentralization increased female labor supply—probably through expanded availability of nursery schools—thereby reducing the gender gap in employment.",
+          "link": "https://www.nber.org/papers/w29538#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.087Z",
+          "wordCount": 875,
+          "title": "The Effects of Fiscal Decentralization on Publicly Provided Services and Labor Markets -- by Nicola Bianchi, Michela Giorcelli, Enrica Maria Martino"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29546#fromrss",
+          "author": null,
+          "description": "Racial segregation can occur across educational programs or classrooms within a given school, and there has been particular concern that gifted & talented programs may reduce integration within schools. This paper evaluates the contribution of gifted & talented education to racial segregation using data on the presence and racial composition of gifted & talented programs at virtually all US elementary schools over a span of nine school years. I first show that, consistent with widespread perceptions, gifted & talented programs do disproportionately enroll white and Asian students while Black, Hispanic and Native American students are underrepresented. However, I also show that accounting for the within-school racial sorting caused by these programs has little or no effect on standard measures of overall racial segregation. This is primarily because gifted & talented programs are a small share of total enrollments and do enroll non-negligible numbers of under-represented minority students. I also estimate changes in race-specific enrollments after schools initiate or discontinue gifted & talented programs, and find no significant enrollment changes after programs are eliminated or initiated. I conclude that gifted & talented education is a quantitatively small contributor to racial segregation in US elementary schools.",
+          "link": "https://www.nber.org/papers/w29546#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.074Z",
+          "wordCount": 876,
+          "title": "Gifted & Talented Programs and Racial Segregation -- by Owen Thompson"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29534#fromrss",
+          "author": null,
+          "description": "Using a highly stylized dynamic microsimulation model, we project the labor force of the United States up to the year 2060 and contrast these projections with projections for Germany to assess differential effects on outcomes The projections are consistent with the U S Census Bureau’s and Eurostat’s demographic projections. Our modeling approach allows to show and quantify how policy changes the future size of the labor force, which we assess with a series of what-if scenarios. \nBoth the US and Germany are expected to undergo demographic aging, but their demographic fundamentals differ starkly. This has strong implications for their labor force developments. According to our microsimulation, the US labor force will, despite population aging, increase by 16.2 percent in the age groups 15 to…",
+          "link": "https://www.nber.org/papers/w29534#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.032Z",
+          "wordCount": 1213,
+          "title": "The Impact of Health and Education on Labor Force Participation in Aging Societies – Projections for the United States and Germany from a Dynamic Microsimulation -- by René Böheim, Thomas Horvath, Thomas Leoni, Martin Spielauer"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29535#fromrss",
+          "author": null,
+          "description": "We resuscitated the mixed-frequency vector autoregression (MF-VAR) developed in Schorfheide and Song (2015, JBES) to generate macroeconomic forecasts for the U.S. during the COVID-19 pandemic in real time. The model combines eleven time series observed at two frequencies: quarterly and monthly. We deliberately did not modify the model specification in view of the COVID-19 outbreak, except for the exclusion of crisis observations from the estimation sample. We compare the MF-VAR forecasts to the median forecast from the Survey of Professional Forecasters (SPF). While the MF-VAR performed poorly during 2020:Q2, subsequent forecasts were at par with the SPF forecasts. We show that excluding a few months of extreme observations is a promising way of handling VAR estimation going forward, as an alternative of a sophisticated modeling of outliers.",
+          "link": "https://www.nber.org/papers/w29535#fromrss",
+          "publishedOn": "2021-12-10T12:07:54.018Z",
+          "wordCount": 841,
+          "title": "Real-Time Forecasting with a (Standard) Mixed-Frequency VAR During a Pandemic -- by Frank Schorfheide, Dongho Song"
         },
         {
           "id": "https://www.nber.org/papers/w29532#fromrss",
           "author": null,
           "description": "The U.S. entrepreneurial finance market has changed dramatically over the last two decades. Entrepreneurs raising their first round of venture capital retain 30% more equity in their firm and are more likely to control their board of directors. Late-stage startups are raising larger amounts of capital in the private markets from a growing pool of traditional and new investors. These private market changes have coincided with a sharp decline in the number of firms going public—and when firms do go public, they are older and have raised more private capital. To understand these facts, we provide a systematic description of the differences between private and public firms. Next, we review several regulatory, technological, and competitive changes affecting both startups and investors that help explain how the trade-offs between going public and staying private have changed. We conclude by listing several open research questions.",
           "link": "https://www.nber.org/papers/w29532#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.329Z",
+          "publishedOn": "2021-12-10T12:07:53.996Z",
           "wordCount": 841,
           "title": "Private or Public Equity? The Evolving Entrepreneurial Finance Landscape -- by Michael Ewens, Joan Farre-Mensa"
         },
@@ -649,72 +649,63 @@
           "author": null,
           "description": "We adapt the wage contracting structure in Chari (1983) to a dynamic, balanced-growth setting with re-contracting à la Calvo (1983). The resulting wage-rigidity framework delivers a model very similar to that in Jaimovich and Rebelo (2009), with their habit parameter replaced by our probability of wage-contract resetting. That is, if wage contracts can be reset very frequently, labor supply behaves in accordance with King, Plosser, and Rebelo (1988) preferences, whereas if they are sticky for a long time, we obtain the setting in Greenwood, Hercowitz, and Huffman (1988), thus allowing significant responses of hours to wage changes.",
           "link": "https://www.nber.org/papers/w29540#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.305Z",
+          "publishedOn": "2021-12-10T12:07:53.985Z",
           "wordCount": 795,
           "title": "Macroeconomic Dynamics with Rigid Wage Contracts -- by Tobias Broer, Karl Harmenberg, Per Krusell, Erik Öberg"
         },
         {
-          "id": "https://www.nber.org/papers/w29534#fromrss",
+          "id": "https://www.nber.org/papers/w29541#fromrss",
           "author": null,
-          "description": "Using a highly stylized dynamic microsimulation model, we project the labor force of the United States up to the year 2060 and contrast these projections with projections for Germany to assess differential effects on outcomes The projections are consistent with the U S Census Bureau’s and Eurostat’s demographic projections. Our modeling approach allows to show and quantify how policy changes the future size of the labor force, which we assess with a series of what-if scenarios. \nBoth the US and Germany are expected to undergo demographic aging, but their demographic fundamentals differ starkly. This has strong implications for their labor force developments. According to our microsimulation, the US labor force will, despite population aging, increase by 16.2 percent in the age groups 15 to…",
-          "link": "https://www.nber.org/papers/w29534#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.293Z",
-          "wordCount": 1213,
-          "title": "The Impact of Health and Education on Labor Force Participation in Aging Societies – Projections for the United States and Germany from a Dynamic Microsimulation -- by René Böheim, Thomas Horvath, Thomas Leoni, Martin Spielauer"
+          "description": "While a growing body of evidence documents large gender disparities in health care and related social insurance programs, little is known about what drives these disparities.  We leverage administrative data and random assignment of doctors to patients inherent within the workers’ compensation insurance claim dispute resolution process to study the impact of gender match between doctors and patients on medical evaluations and subsequent social insurance benefits received. Compared to differences among their male patient counterparts, female patients randomly assigned a female doctor rather than a male doctor are 5.0% more likely to be evaluated as disabled and receive 8.5% more subsequent cash benefits on average. There is no analogous gender-match effect for male patients. The magnitude of these effects implies that having female doctors evaluate patients entirely offsets the observed gender gap in the likelihood of being evaluated as disabled when male doctors evaluate patients. We explore mechanisms through further analysis of the administrative data and complementary survey evidence. In addition, we present broader evidence on gender gaps in workers' compensation insurance and gender homophily in patients' selections of doctors in settings where patients have choice. Combining this evidence, we conduct policy counterfactuals illustrating how policies increasing gender diversity among doctors or increasing gender homophily in patient-doctor matches may impact gender gaps in evaluated disability. Our findings indicate that policies increasing the share of female patients evaluated by female doctors may substantially shrink gender gaps in medical evaluations and associated outcomes.",
+          "link": "https://www.nber.org/papers/w29541#fromrss",
+          "publishedOn": "2021-12-10T12:07:53.975Z",
+          "wordCount": 1146,
+          "title": "Gender Differences in Medical Evaluations: Evidence from Randomly Assigned Doctors -- by Marika Cabral, Marcus Dillender"
         },
         {
           "id": "https://www.nber.org/papers/w29529#fromrss",
           "author": null,
           "description": "We model charter school entry and choice of educational practices. Student achievement depends on cognitive ability, motivation, effort, and match of school curriculum to ability. Exercising charter school autonomy over curriculum, to maximize achievement gains, the charter sets curriculum to attract the highest ability students. Achievement gains are modest, consistent with empirical evidence. We next investigate a no-excuses charter that not only chooses curriculum but also enforces an effort minimum. Consistent with the evidence, highly motivated students select into the charter, achievement gains are large, and the largest gains accrue to those who would be lower performers in public school.",
           "link": "https://www.nber.org/papers/w29529#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.281Z",
+          "publishedOn": "2021-12-10T12:07:53.949Z",
           "wordCount": 802,
           "title": "Charter School Practices and Student Selection: An Equilibrium Analysis -- by Dennis Epple, Francisco Martinez-Mora, Richard Romano"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29533#fromrss",
-          "author": null,
-          "description": "Income differences across US cities are well documented, but little is known about the level of standard of living in each city—defined as the amount of market-based consumption that residents are able to afford. In this paper we provide estimates of the standard of living by commuting zone for households in a given income or education group, and we study how they relate to local cost of living. Using a novel dataset, we observe debit and credit card transactions, check and ACH payments, and cash withdrawals of 5% of US households in 2014 and use it to measure mean consumption expenditures by commuting zone and income group. To measure local prices, we build income-specific consumer price indices by commuting zone. We uncover vast geographical differences in material standard of living for…",
-          "link": "https://www.nber.org/papers/w29533#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.255Z",
-          "wordCount": 1206,
-          "title": "Where is Standard of Living the Highest? Local Prices and the Geography of Consumption -- by Rebecca Diamond, Enrico Moretti"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29531#fromrss",
-          "author": null,
-          "description": "In response to the record-breaking COVID19 recession, many governments have adopted unprecedented fiscal stimuli. While countercyclical fiscal policy is effective in fighting conventional recessions, little is known about the effectiveness of fiscal policy in the current environment with widespread shelter-in-place (“lockdown”) policies and the associated considerable limits on economic activity. Using detailed regional variation in economic conditions, lockdown policies, and U.S. government spending, we document that the effects of government spending were stronger during the peak of the pandemic recession, but only in cities that were not subject to strong stay-at-home orders. We examine mechanisms that can account for our evidence and place our findings in the context of other recent evidence from microdata.",
-          "link": "https://www.nber.org/papers/w29531#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.242Z",
-          "wordCount": 854,
-          "title": "Fiscal Multipliers in the COVID19 Recession -- by Alan J. Auerbach, Yuriy Gorodnichenko, Peter McCrory, Daniel Murphy"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29538#fromrss",
-          "author": null,
-          "description": "This paper studies how fiscal decentralization affects local services. It explores a 1993 reform that increased the fiscal autonomy of Italian municipalities by replacing government transfers with revenues from a local property tax. Our identifica- tion leverages cross-municipal variation in the degree of decentralization that stems from differences in the average age of buildings caused by bombings during WWII. Decentralization reduced local spending but expanded municipal services, such as nursery schools. These effects are larger in areas with greater political competition. The paper also investigates how the reform affected labor markets. Decentralization increased female labor supply—probably through expanded availability of nursery schools—thereby reducing the gender gap in employment.",
-          "link": "https://www.nber.org/papers/w29538#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.218Z",
-          "wordCount": 875,
-          "title": "The Effects of Fiscal Decentralization on Publicly Provided Services and Labor Markets -- by Nicola Bianchi, Michela Giorcelli, Enrica Maria Martino"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29535#fromrss",
-          "author": null,
-          "description": "We resuscitated the mixed-frequency vector autoregression (MF-VAR) developed in Schorfheide and Song (2015, JBES) to generate macroeconomic forecasts for the U.S. during the COVID-19 pandemic in real time. The model combines eleven time series observed at two frequencies: quarterly and monthly. We deliberately did not modify the model specification in view of the COVID-19 outbreak, except for the exclusion of crisis observations from the estimation sample. We compare the MF-VAR forecasts to the median forecast from the Survey of Professional Forecasters (SPF). While the MF-VAR performed poorly during 2020:Q2, subsequent forecasts were at par with the SPF forecasts. We show that excluding a few months of extreme observations is a promising way of handling VAR estimation going forward, as an alternative of a sophisticated modeling of outliers.",
-          "link": "https://www.nber.org/papers/w29535#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.205Z",
-          "wordCount": 841,
-          "title": "Real-Time Forecasting with a (Standard) Mixed-Frequency VAR During a Pandemic -- by Frank Schorfheide, Dongho Song"
         },
         {
           "id": "https://www.nber.org/papers/w29528#fromrss",
           "author": null,
           "description": "Large and rapid upswings in illicit drug use display similar properties to infectious disease epidemics. In this chapter, we review research to understand what causes drug epidemics and how they end. Drug market actors are subject to both positive and negative reinforcement that lead to rapid, nonlinear increases and decreases in drug market activity. There is evidence that drug epidemics cause serious problems, including drug overdoses, adverse birth outcomes, homicides, lower educational attainment, and migration from neighborhoods subject to intense drug market activity. Many of these costs are borne by those who do not consume or sell drugs. Given the frequency, size, and impacts of illicit drug epidemics, they deserve more attention by researchers and policy-makers.",
           "link": "https://www.nber.org/papers/w29528#fromrss",
-          "publishedOn": "2021-12-10T09:04:37.187Z",
+          "publishedOn": "2021-12-10T12:07:53.936Z",
           "wordCount": 864,
           "title": "Causes and Consequences of Illicit Drug Epidemics -- by Timothy J. Moore, Rosalie Liccardo Pacula"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29531#fromrss",
+          "author": null,
+          "description": "In response to the record-breaking COVID19 recession, many governments have adopted unprecedented fiscal stimuli. While countercyclical fiscal policy is effective in fighting conventional recessions, little is known about the effectiveness of fiscal policy in the current environment with widespread shelter-in-place (“lockdown”) policies and the associated considerable limits on economic activity. Using detailed regional variation in economic conditions, lockdown policies, and U.S. government spending, we document that the effects of government spending were stronger during the peak of the pandemic recession, but only in cities that were not subject to strong stay-at-home orders. We examine mechanisms that can account for our evidence and place our findings in the context of other recent evidence from microdata.",
+          "link": "https://www.nber.org/papers/w29531#fromrss",
+          "publishedOn": "2021-12-10T12:07:53.909Z",
+          "wordCount": 854,
+          "title": "Fiscal Multipliers in the COVID19 Recession -- by Alan J. Auerbach, Yuriy Gorodnichenko, Peter McCrory, Daniel Murphy"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29550#fromrss",
+          "author": null,
+          "description": "The COVID-19 pandemic brought unprecedented policy responses and a large literature evaluating their impacts. This paper re-examines this literature and investigates the role of researchers' degrees-of-flexibility on the estimated effects of mobility-reducing policies on social-distancing behavior. We find that two-way fixed effects estimates are not robust to minor changes in usually-unexplored dimensions of the degree-of-flexibility space. While standard robustness tests based on the sequential addition of covariates are very stable, small changes in the outcome variable and its transformation lead to large and sometimes contradictory changes in the estimates, where the same policy can be found to significantly increase or decrease mobility. Yet, due to the large number of degrees-of-flexibility, one can focus on a set of results that appears stable, while ignoring problematic ones. We show that recently developed heterogeneity-robust difference-in-differences estimators only partially mitigate these issues, and discuss how a strategy of identifying the point at which a sequence of ever more-stringent robustness tests eventually fail could increase the credibility of policy evaluations.",
+          "link": "https://www.nber.org/papers/w29550#fromrss",
+          "publishedOn": "2021-12-10T12:07:53.887Z",
+          "wordCount": 865,
+          "title": "Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations -- by Joakim A. Weill, Matthieu Stigler, Olivier Deschenes, Michael R. Springborn"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29530#fromrss",
+          "author": null,
+          "description": "We propose an approach to modeling and estimating discrete choice demand that allows for a large number of zero sale observations, rich unobserved heterogeneity, and endogenous prices. We do so by modeling small market sizes through Poisson arrivals. Each of these arriving consumers then solves a standard discrete choice problem. We present a Bayesian IV estimation approach that addresses sampling error in product shares and scales well to rich data environments. The data requirements are traditional market-level data and measures of consumer search intensity. After presenting simulation studies, we consider an empirical application of air travel demand where product-level sales are sparse. We find considerable variation in demand over time. Periods of peak demand feature both larger market sizes and consumers with higher willingness to pay. This amplifies cyclicality. However, observed frequent price and capacity adjustments offset some of this compounding effect.",
+          "link": "https://www.nber.org/papers/w29530#fromrss",
+          "publishedOn": "2021-12-10T12:07:53.869Z",
+          "wordCount": 842,
+          "title": "Incorporating Search and Sales Information in Demand Estimation -- by Ali Hortaçsu, Olivia R. Natan, Hayden Parsley, Timothy Schwieg, Kevin R. Williams"
         }
       ]
     },
