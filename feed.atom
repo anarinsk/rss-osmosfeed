@@ -1,36 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-16T06:07:20.452Z</id>
+    <id>urn:2021-12-16T09:06:00.926Z</id>
     <title>anari: slimfeed</title>
-    <updated>2021-12-16T06:07:20.452Z</updated>
+    <updated>2021-12-16T09:06:00.926Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Simple Allocation Rules and Optimal Portfolio Choice Over the Lifecycle -- by Victor Duarte, Julia Fonseca, Aaron S. Goodman, Jonathan A. Parker]]></title>
-        <id>https://www.nber.org/papers/w29559#fromrss</id>
-        <link href="https://www.nber.org/papers/w29559#fromrss"/>
-        <updated>2021-12-16T06:06:33.104Z</updated>
-        <summary type="html"><![CDATA[We develop a machine-learning solution algorithm to solve for optimal portfolio choice in a detailed and quantitatively-accurate lifecycle model that includes many features of reality modelled only separately in previous work.  We use the quantitative model to evaluate the consumption-equivalent welfare losses from using simple rules for portfolio allocation across stocks, bonds, and liquid accounts instead of the optimal portfolio choices. We find that the consumption-equivalent losses from using an age-dependent rule as embedded in current target-date/lifecycle funds (TDFs) are substantial, around 2 to 3 percent of consumption, despite the fact that TDF rules mimic average optimal behavior by age closely until shortly before retirement. Our model recommends higher average equity shares in the second half of life than the portfolio of the typical TDF, so that the typical TDF portfolio does not improve on investing an age-independent 2/3 share in equity. Finally, optimal equity shares have substantial heterogeneity, particularly by wealth level, state of the business cycle, and dividend-price ratio, implying substantial gains to further customization of advice or TDFs in these dimensions.]]></summary>
+        <title type="html"><![CDATA[Customers and Retail Growth -- by Liran Einav, Peter J. Klenow, Jonathan D. Levin, Raviv Murciano-Goroff]]></title>
+        <id>https://www.nber.org/papers/w29561#fromrss</id>
+        <link href="https://www.nber.org/papers/w29561#fromrss"/>
+        <updated>2021-12-16T09:05:13.855Z</updated>
+        <summary type="html"><![CDATA[Using Visa debit and credit card transactions in the U.S. from 2016 to 2019, we document the importance of customers in accounting for sales variation across merchants, across stores within retail chains, and over time for individual merchants and stores.  Customers, as opposed to transactions per customer or dollar sales per transaction, consistently account for about 80% of sales variation. The top 1% of growing and shrinking merchants account for about 70% of customer and sales reallocation in a given year. In order to illustrate some of the potential implications, we write down an endogenous growth model with and without the customer margin. In the context of this model, we find that the customer margin dramatically increases the size and growth contribution of the largest firms, but lowers the aggregate growth rate by diverting resources from research to customer acquisition activities.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Individual and Collective Information Acquisition: An Experimental Study -- by Pëllumb Reshidi, Alessandro Lizzeri, Leeat Yariv, Jimmy H. Chan, Wing Suen]]></title>
-        <id>https://www.nber.org/papers/w29557#fromrss</id>
-        <link href="https://www.nber.org/papers/w29557#fromrss"/>
-        <updated>2021-12-16T06:06:33.089Z</updated>
-        <summary type="html"><![CDATA[Many committees—juries, political task forces, etc.—spend time gathering costly information before reaching a decision. We report results from lab experiments focused on such information-collection processes. We consider decisions governed by individuals and groups and compare how voting rules affect outcomes. We also contrast static information collection, as in classical hypothesis testing, with dynamic collection, as in sequential hypothesis testing. Several insights emerge. Static information collection is excessive, and sequential information collection is non-stationary, producing declining decision accuracies over time. Furthermore, groups using majority rule yield especially hasty and inaccurate decisions. Nonetheless, sequential information collection is welfare enhancing relative to static collection, particularly when unanimous rules are used.]]></summary>
+        <title type="html"><![CDATA[When (and Why) Providers Do Not Respond to Changes in Reimbursement Rates -- by Marcus Dillender, Lu G. Jinks, Anthony T. Lo Sasso]]></title>
+        <id>https://www.nber.org/papers/w29564#fromrss</id>
+        <link href="https://www.nber.org/papers/w29564#fromrss"/>
+        <updated>2021-12-16T09:05:13.838Z</updated>
+        <summary type="html"><![CDATA[High health care prices contribute to the United States spending more on health care than any other country, but policies that reduce health care payments have the potential to lead to health care access issues if providers reduce their supply in response to reimbursement rate reductions.  In this paper, we examine the impact of reimbursement rates on health care supply by studying a policy that reduced reimbursement rates by 30% in one of the highest-reimbursing workers' compensation insurance systems in the nation. Despite the large decrease in reimbursement rates, we find no evidence that the policy affected the amount of health care that injured workers receive or recoveries after injuries. Our estimates suggest that the policy reduced annual workers' compensation medical costs by over $400 million and indicate that providers may be operating on the inelastic portion of the supply curve for care paid for by high-reimbursing payers.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dominant Currency Paradigm: A Review -- by Gita Gopinath, Oleg Itskhoki]]></title>
-        <id>https://www.nber.org/papers/w29556#fromrss</id>
-        <link href="https://www.nber.org/papers/w29556#fromrss"/>
-        <updated>2021-12-16T06:06:33.077Z</updated>
-        <summary type="html"><![CDATA[A handful of currencies, especially the US dollar, play a dominant role in international trade. We survey the active theoretical and empirical literature that documents patterns of currency use in global trade, the implications of dominant currencies for international transmission of shocks, exchange rate pass-through, expenditure switching, and optimal monetary policy. We describe advances in the endogenous currency choice literature including conditions for the emergence and persistence of dominant currency equilibria.]]></summary>
+        <title type="html"><![CDATA[Randomization for Causality, Ethnography for Mechanisms: Illiquid Savings for Liquor in an Autarkic Society -- by Ricardo Godoy, Dean Karlan, Jonathan Zinman]]></title>
+        <id>https://www.nber.org/papers/w29566#fromrss</id>
+        <link href="https://www.nber.org/papers/w29566#fromrss"/>
+        <updated>2021-12-16T09:05:13.822Z</updated>
+        <summary type="html"><![CDATA[What should researchers do when confronted with surprising results? Financial access innovations usually leave “temptation” spending unaffected or reduced. However, we found that promotion of savings lockboxes in a largely autarkic society increased alcohol consumption and blood pressure, despite no one reporting intentions to save for alcohol. To probe mechanisms that could explain this pattern, we then used ethnographic methods, including direct observations of drinking (“scans”) and debriefing interviews to discuss the earlier trial results. We learn that sponsoring drinks confers prestige, but the stigma attached to drinking by outsiders likely discouraged reporting intentions to save for it.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Training Through Turmoil -- by Felipe Barrera-Osorio, Adriana D. Kugler, Mikko I. Silliman]]></title>
+        <id>https://www.nber.org/papers/w29565#fromrss</id>
+        <link href="https://www.nber.org/papers/w29565#fromrss"/>
+        <updated>2021-12-16T09:05:13.776Z</updated>
+        <summary type="html"><![CDATA[We follow the labor market outcomes of applicants who were randomized into job training a year and a half before the pandemic through the subsequent economic turmoil that resulted from COVID-19. Despite persistently improved labor market outcomes of training participants prior to March 2020, we show that job losses resulting from the pandemic washed away all the benefits of the program. A year and a half after the initial scars of the pandemic, there are no visible signs of recovery of trainees’ labor market outcomes.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID-19 Vaccination Mandates and Vaccine Uptake -- by Alexander Karaivanov, Dongwoo Kim, Shih En Lu, Hitoshi Shigeoka]]></title>
+        <id>https://www.nber.org/papers/w29563#fromrss</id>
+        <link href="https://www.nber.org/papers/w29563#fromrss"/>
+        <updated>2021-12-16T09:05:13.752Z</updated>
+        <summary type="html"><![CDATA[We evaluate the impact of government mandated proof of vaccination requirements for access to public venues and non-essential businesses on COVID-19 vaccine uptake. We find that the announcement of a mandate is associated with a rapid and significant surge in new vaccinations (more than 60\% increase in weekly first doses) using the variation in the timing of these measures across Canadian provinces in a difference-in-differences approach. Time-series analysis for each province and for France, Italy and Germany corroborates this finding, and we estimate cumulative gains of up to 5 percentage points in provincial vaccination rates and 790,000 or more first doses for Canada as a whole as of October 31, 2021 (5 to 13 weeks after the provincial mandate announcements). We also find large vaccination gains in France (3 to 5 mln first doses), Italy (around 6 mln) and Germany (around 3.5 mln) 11 to 16 weeks after the proof of vaccination mandate announcements.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -39,7 +59,7 @@
         <title type="html"><![CDATA[The US-China Trade War and Global Reallocations -- by Pablo Fajgelbaum, Pinelopi K. Goldberg, Patrick J. Kennedy, Amit Khandelwal, Daria Taglioni]]></title>
         <id>https://www.nber.org/papers/w29562#fromrss</id>
         <link href="https://www.nber.org/papers/w29562#fromrss"/>
-        <updated>2021-12-16T06:06:32.986Z</updated>
+        <updated>2021-12-16T09:05:13.718Z</updated>
         <summary type="html"><![CDATA[We study global trade responses to the US-China trade war. We estimate the tariff impacts on product-level exports to the US, China, and rest of world. On average, countries decreased exports to China and increased exports to the US and rest of world. Most countries export products that complement the US and substitute China, and a subset operate along downward-sloping supplies. Heterogeneity in responses, rather than specialization, drives export variation across countries. Surprisingly, global trade increased in the products targeted by tariffs. Thus, despite ending the trend towards tariff reductions, the trade war did not halt global trade growth.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -49,18 +69,8 @@
         <title type="html"><![CDATA[The Missing Intercept: A Demand Equivalence Approach -- by Christian K. Wolf]]></title>
         <id>https://www.nber.org/papers/w29558#fromrss</id>
         <link href="https://www.nber.org/papers/w29558#fromrss"/>
-        <updated>2021-12-16T06:06:32.912Z</updated>
+        <updated>2021-12-16T09:05:13.704Z</updated>
         <summary type="html"><![CDATA[I give conditions under which changes in private spending are accommodated in general equilibrium exactly like changes in aggregate fiscal expenditure. Under such demand equivalence, researchers can use time series evidence on fiscal multipliers to recover the general equilibrium "missing intercept" of shocks to private spending identified in the cross section. I apply this method to deficit-financed stimulus checks, and find a) a large direct consumption spending response, and  b) a fiscal multiplier of one and so a missing intercept close to zero. I also discuss the robustness of this aggregation approach to empirically plausible violations of demand equivalence.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has Global Agricultural Trade Been Resilient Under Covid-19? Findings from an Econometric Assessment of 2020 -- by Shawn Arita, Jason Grant, Sharon S. Sydow, Jayson Beckman]]></title>
-        <id>https://www.nber.org/papers/w29551#fromrss</id>
-        <link href="https://www.nber.org/papers/w29551#fromrss"/>
-        <updated>2021-12-16T06:06:32.895Z</updated>
-        <summary type="html"><![CDATA[Global agricultural trade, which increased at the end of 2020, has been described as “resilient” to the impacts of the COVID-19 coronavirus pandemic; however, the size and channels of its quantitative impacts are not clear. Using a reduced-form, gravity-based econometric model for monthly trade, we estimate the effects of COVID-19 incidence rates, policy restrictions imposed by governments to curb the outbreak, and the de facto reduction in human mobility/lockdown effect on global agricultural trade through the end of 2020. We find that while agricultural trade remained quite stable through the pandemic, the sector as a whole did not go unscathed. First, we estimate that COVID-19 reduced agricultural trade by the approximate range of 5 to 10 percent at the aggregate sector level; a quantified impact two to three times smaller in magnitude than our estimated impact on trade occurring in the non-agricultural sector. Second, we find sharp differences across individual commodities. In particular, we find that non-food items (hides and skins, ethanol, cotton, and other commodities), meat products including seafood, and higher value agri-food products were most severely impacted by the pandemic; however, the COVID- 19 trade effect for the majority of food and bulk agricultural commodity sectors were found to be insignificant, or in a few cases, positive. Finally, we also examine the effects across low vs high income countries, the changing dynamics of the pandemic’s effect on trade flows, and the effects along the extensive product margins of trade.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -69,38 +79,8 @@
         <title type="html"><![CDATA[Let the Worst One Fail: A Credible Solution to the Too-Big-To-Fail Conundrum -- by Thomas Philippon, Olivier Wang]]></title>
         <id>https://www.nber.org/papers/w29560#fromrss</id>
         <link href="https://www.nber.org/papers/w29560#fromrss"/>
-        <updated>2021-12-16T06:06:32.874Z</updated>
+        <updated>2021-12-16T09:05:13.506Z</updated>
         <summary type="html"><![CDATA[We study time-consistent bank resolution mechanisms. When interventions are ex post efficient, a government cannot commit not to inject capital into the banking system. Contrary to common wisdom, we show that the government may still avoid moral hazard and implement the first best allocation by using the distribution of bailouts across banks to provide ex ante incentives. In particular, we analyze properties of credible tournament mechanisms that provide support to the best performing banks and resolve the worst performing ones, including through mergers. Our mechanism continues to perform well if banks are partially substitutable, and if they are heterogeneous in their size, interconnections, and thus systemic risk, as long as bailout funds can be targeted to particular banks.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology-Skill Complementarity and Labor Displacement: Evidence from Linking Two Centuries of Patents with Occupations -- by Leonid Kogan, Dimitris Papanikolaou, Lawrence D. W. Schmidt, Bryan Seegmiller]]></title>
-        <id>https://www.nber.org/papers/w29552#fromrss</id>
-        <link href="https://www.nber.org/papers/w29552#fromrss"/>
-        <updated>2021-12-16T06:06:32.861Z</updated>
-        <summary type="html"><![CDATA[We construct new technology indicators using textual analysis of patent documents and occupation task descriptions that span almost two centuries (1850–2010). At the industry level, improvements in technology are associated with higher labor productivity but a decline in the labor share. Exploiting variation in the extent certain technologies are related to specific occupations, we show that technological innovation has been largely associated with worse labor market outcomes—wages and employment—for incumbent workers in related occupations using a combination of public-use and confidential administrative data. Panel data on individual worker earnings reveal that less educated, older, and more highly-paid workers experience significantly greater declines in average earnings and earnings risk following related technological advances. We reconcile these facts with the standard view of technology-skill complementarity using a model that allows for skill displacement.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COVID-19 Vaccination Mandates and Vaccine Uptake -- by Alexander Karaivanov, Dongwoo Kim, Shih En Lu, Hitoshi Shigeoka]]></title>
-        <id>https://www.nber.org/papers/w29563#fromrss</id>
-        <link href="https://www.nber.org/papers/w29563#fromrss"/>
-        <updated>2021-12-16T06:06:32.812Z</updated>
-        <summary type="html"><![CDATA[We evaluate the impact of government mandated proof of vaccination requirements for access to public venues and non-essential businesses on COVID-19 vaccine uptake. We find that the announcement of a mandate is associated with a rapid and significant surge in new vaccinations (more than 60\% increase in weekly first doses) using the variation in the timing of these measures across Canadian provinces in a difference-in-differences approach. Time-series analysis for each province and for France, Italy and Germany corroborates this finding, and we estimate cumulative gains of up to 5 percentage points in provincial vaccination rates and 790,000 or more first doses for Canada as a whole as of October 31, 2021 (5 to 13 weeks after the provincial mandate announcements). We also find large vaccination gains in France (3 to 5 mln first doses), Italy (around 6 mln) and Germany (around 3.5 mln) 11 to 16 weeks after the proof of vaccination mandate announcements.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Randomization for Causality, Ethnography for Mechanisms: Illiquid Savings for Liquor in an Autarkic Society -- by Ricardo Godoy, Dean Karlan, Jonathan Zinman]]></title>
-        <id>https://www.nber.org/papers/w29566#fromrss</id>
-        <link href="https://www.nber.org/papers/w29566#fromrss"/>
-        <updated>2021-12-16T06:06:32.768Z</updated>
-        <summary type="html"><![CDATA[What should researchers do when confronted with surprising results? Financial access innovations usually leave “temptation” spending unaffected or reduced. However, we found that promotion of savings lockboxes in a largely autarkic society increased alcohol consumption and blood pressure, despite no one reporting intentions to save for alcohol. To probe mechanisms that could explain this pattern, we then used ethnographic methods, including direct observations of drinking (“scans”) and debriefing interviews to discuss the earlier trial results. We learn that sponsoring drinks confers prestige, but the stigma attached to drinking by outsiders likely discouraged reporting intentions to save for it.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -109,58 +89,8 @@
         <title type="html"><![CDATA[Changing Income Risk across the US Skill Distribution: Evidence from a Generalized Kalman Filter -- by J. Carter Braxton, Kyle F. Herkenhoff, Jonathan L. Rothbaum, Lawrence Schmidt]]></title>
         <id>https://www.nber.org/papers/w29567#fromrss</id>
         <link href="https://www.nber.org/papers/w29567#fromrss"/>
-        <updated>2021-12-16T06:06:32.753Z</updated>
+        <updated>2021-12-16T09:05:13.471Z</updated>
         <summary type="html"><![CDATA[For whom has earnings risk changed, and why? To answer these questions, we develop a filtering method that estimates parameters of an income process and recovers persistent and temporary earnings for every individual at every point in time. Our estimation flexibly allows for first and second moments of shocks to depend upon observables as well as spells of zero earnings (i.e., unemployment) and easily integrates into theoretical models. We apply our filter to a unique linkage of 23.5m SSA-CPS records. We first demonstrate that our earnings-based filter successfully captures observable shocks in the SSA-CPS data, such as job switching and layoffs. We then show that despite a decline in overall earnings risk since the 1980s, persistent earnings risk has risen for both employed and unemployed workers, while temporary earnings risk declined. Furthermore, the size of persistent earnings losses associated with full year unemployment has increased by 50%. Using geography, education, and occupation information in the SSA-CPS records, we refute hypotheses related to declining employment prospects among routine and low-skill workers as well as spatial theories related to the decline of the Rust-Belt. We show that rising persistent earnings risk is concentrated among high-skill workers and related to technology adoption. Lastly, we find that rising persistent earnings risk while employed (unemployed) leads to welfare losses equivalent to 1.8% (0.7%) of lifetime consumption, and larger persistent earnings losses while unemployed lead to a 3.3% welfare loss.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health Shocks of the Father and Longevity of the Children's Children -- by Dora Costa]]></title>
-        <id>https://www.nber.org/papers/w29553#fromrss</id>
-        <link href="https://www.nber.org/papers/w29553#fromrss"/>
-        <updated>2021-12-16T06:06:32.727Z</updated>
-        <summary type="html"><![CDATA[Whether and how a paternal health shock cascades across multiple generations to affect descendant health is understudied even though a link between ancestral living conditions and descendant health may constitute an important source of differences in the stock of health capital across families and thus across ethnic, racial and social groups.  I study how a paternal health shock affects grandchildren's longevity in a unique setting where the ancestral stressor is the grandfather's ex-POW status in the US Civil War (1861-5) and the children are born after the war.  Ancestral stress is associated with longevity after age 45 of male-line grandsons but not of granddaughters or female-line grandchildren.  I rule out transmission through socioeconomic channels and direct cultural transmission from grandfather to grandson.  An epigenetic explanation is consistent with observed male-line transmission at epigenetically sensitive ancestral ages and mediation by own late gestational conditions.    Consistent with epigenetic reprogramming depending on the in-utero environment, the association between the veteran's ex-POW status and that of his male-line descendants declines across generations.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Teaching Last: Long-Run Value-Added -- by Michael Gilraine, Nolan G. Pope]]></title>
-        <id>https://www.nber.org/papers/w29555#fromrss</id>
-        <link href="https://www.nber.org/papers/w29555#fromrss"/>
-        <updated>2021-12-16T06:06:32.712Z</updated>
-        <summary type="html"><![CDATA[Teacher value-added (VA) measures how teachers improve their students' contemporaneous test scores. Many teachers, however, argue that contemporaneous test scores are a poor proxy for their permanent influence on students.  This paper considers a new VA measure -- 'long-run VA' -- that captures teachers' contributions that persist by replacing contemporaneous test scores with subsequent test scores in VA estimation.  We find that students assigned to high long-run VA teachers fare substantially better in terms of long-term outcomes.  Policy simulations indicate that the use of long-run VA improves policy effectiveness by a factor of two compared to traditional VA measures.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When (and Why) Providers Do Not Respond to Changes in Reimbursement Rates -- by Marcus Dillender, Lu G. Jinks, Anthony T. Lo Sasso]]></title>
-        <id>https://www.nber.org/papers/w29564#fromrss</id>
-        <link href="https://www.nber.org/papers/w29564#fromrss"/>
-        <updated>2021-12-16T06:06:32.696Z</updated>
-        <summary type="html"><![CDATA[High health care prices contribute to the United States spending more on health care than any other country, but policies that reduce health care payments have the potential to lead to health care access issues if providers reduce their supply in response to reimbursement rate reductions.  In this paper, we examine the impact of reimbursement rates on health care supply by studying a policy that reduced reimbursement rates by 30% in one of the highest-reimbursing workers' compensation insurance systems in the nation. Despite the large decrease in reimbursement rates, we find no evidence that the policy affected the amount of health care that injured workers receive or recoveries after injuries. Our estimates suggest that the policy reduced annual workers' compensation medical costs by over $400 million and indicate that providers may be operating on the inelastic portion of the supply curve for care paid for by high-reimbursing payers.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customers and Retail Growth -- by Liran Einav, Peter J. Klenow, Jonathan D. Levin, Raviv Murciano-Goroff]]></title>
-        <id>https://www.nber.org/papers/w29561#fromrss</id>
-        <link href="https://www.nber.org/papers/w29561#fromrss"/>
-        <updated>2021-12-16T06:06:32.668Z</updated>
-        <summary type="html"><![CDATA[Using Visa debit and credit card transactions in the U.S. from 2016 to 2019, we document the importance of customers in accounting for sales variation across merchants, across stores within retail chains, and over time for individual merchants and stores.  Customers, as opposed to transactions per customer or dollar sales per transaction, consistently account for about 80% of sales variation. The top 1% of growing and shrinking merchants account for about 70% of customer and sales reallocation in a given year. In order to illustrate some of the potential implications, we write down an endogenous growth model with and without the customer margin. In the context of this model, we find that the customer margin dramatically increases the size and growth contribution of the largest firms, but lowers the aggregate growth rate by diverting resources from research to customer acquisition activities.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Training Through Turmoil -- by Felipe Barrera-Osorio, Adriana D. Kugler, Mikko I. Silliman]]></title>
-        <id>https://www.nber.org/papers/w29565#fromrss</id>
-        <link href="https://www.nber.org/papers/w29565#fromrss"/>
-        <updated>2021-12-16T06:06:32.647Z</updated>
-        <summary type="html"><![CDATA[We follow the labor market outcomes of applicants who were randomized into job training a year and a half before the pandemic through the subsequent economic turmoil that resulted from COVID-19. Despite persistently improved labor market outcomes of training participants prior to March 2020, we show that job losses resulting from the pandemic washed away all the benefits of the program. A year and a half after the initial scars of the pandemic, there are no visible signs of recovery of trainees’ labor market outcomes.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -169,8 +99,78 @@
         <title type="html"><![CDATA[Empirical Option Pricing Models -- by David S. Bates]]></title>
         <id>https://www.nber.org/papers/w29554#fromrss</id>
         <link href="https://www.nber.org/papers/w29554#fromrss"/>
-        <updated>2021-12-16T06:06:32.019Z</updated>
+        <updated>2021-12-16T09:05:13.434Z</updated>
         <summary type="html"><![CDATA[This paper is an overview of empirical options research, with primary emphasis on research into systematic stochastic volatility and jump risks relevant for pricing stock index options.  The paper reviews evidence from time series analysis, option prices and option price evolution regarding those risks, and discusses required compensation.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technology-Skill Complementarity and Labor Displacement: Evidence from Linking Two Centuries of Patents with Occupations -- by Leonid Kogan, Dimitris Papanikolaou, Lawrence D. W. Schmidt, Bryan Seegmiller]]></title>
+        <id>https://www.nber.org/papers/w29552#fromrss</id>
+        <link href="https://www.nber.org/papers/w29552#fromrss"/>
+        <updated>2021-12-16T09:05:13.420Z</updated>
+        <summary type="html"><![CDATA[We construct new technology indicators using textual analysis of patent documents and occupation task descriptions that span almost two centuries (1850–2010). At the industry level, improvements in technology are associated with higher labor productivity but a decline in the labor share. Exploiting variation in the extent certain technologies are related to specific occupations, we show that technological innovation has been largely associated with worse labor market outcomes—wages and employment—for incumbent workers in related occupations using a combination of public-use and confidential administrative data. Panel data on individual worker earnings reveal that less educated, older, and more highly-paid workers experience significantly greater declines in average earnings and earnings risk following related technological advances. We reconcile these facts with the standard view of technology-skill complementarity using a model that allows for skill displacement.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Teaching Last: Long-Run Value-Added -- by Michael Gilraine, Nolan G. Pope]]></title>
+        <id>https://www.nber.org/papers/w29555#fromrss</id>
+        <link href="https://www.nber.org/papers/w29555#fromrss"/>
+        <updated>2021-12-16T09:05:13.387Z</updated>
+        <summary type="html"><![CDATA[Teacher value-added (VA) measures how teachers improve their students' contemporaneous test scores. Many teachers, however, argue that contemporaneous test scores are a poor proxy for their permanent influence on students.  This paper considers a new VA measure -- 'long-run VA' -- that captures teachers' contributions that persist by replacing contemporaneous test scores with subsequent test scores in VA estimation.  We find that students assigned to high long-run VA teachers fare substantially better in terms of long-term outcomes.  Policy simulations indicate that the use of long-run VA improves policy effectiveness by a factor of two compared to traditional VA measures.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Individual and Collective Information Acquisition: An Experimental Study -- by Pëllumb Reshidi, Alessandro Lizzeri, Leeat Yariv, Jimmy H. Chan, Wing Suen]]></title>
+        <id>https://www.nber.org/papers/w29557#fromrss</id>
+        <link href="https://www.nber.org/papers/w29557#fromrss"/>
+        <updated>2021-12-16T09:05:13.372Z</updated>
+        <summary type="html"><![CDATA[Many committees—juries, political task forces, etc.—spend time gathering costly information before reaching a decision. We report results from lab experiments focused on such information-collection processes. We consider decisions governed by individuals and groups and compare how voting rules affect outcomes. We also contrast static information collection, as in classical hypothesis testing, with dynamic collection, as in sequential hypothesis testing. Several insights emerge. Static information collection is excessive, and sequential information collection is non-stationary, producing declining decision accuracies over time. Furthermore, groups using majority rule yield especially hasty and inaccurate decisions. Nonetheless, sequential information collection is welfare enhancing relative to static collection, particularly when unanimous rules are used.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Allocation Rules and Optimal Portfolio Choice Over the Lifecycle -- by Victor Duarte, Julia Fonseca, Aaron S. Goodman, Jonathan A. Parker]]></title>
+        <id>https://www.nber.org/papers/w29559#fromrss</id>
+        <link href="https://www.nber.org/papers/w29559#fromrss"/>
+        <updated>2021-12-16T09:05:13.354Z</updated>
+        <summary type="html"><![CDATA[We develop a machine-learning solution algorithm to solve for optimal portfolio choice in a detailed and quantitatively-accurate lifecycle model that includes many features of reality modelled only separately in previous work.  We use the quantitative model to evaluate the consumption-equivalent welfare losses from using simple rules for portfolio allocation across stocks, bonds, and liquid accounts instead of the optimal portfolio choices. We find that the consumption-equivalent losses from using an age-dependent rule as embedded in current target-date/lifecycle funds (TDFs) are substantial, around 2 to 3 percent of consumption, despite the fact that TDF rules mimic average optimal behavior by age closely until shortly before retirement. Our model recommends higher average equity shares in the second half of life than the portfolio of the typical TDF, so that the typical TDF portfolio does not improve on investing an age-independent 2/3 share in equity. Finally, optimal equity shares have substantial heterogeneity, particularly by wealth level, state of the business cycle, and dividend-price ratio, implying substantial gains to further customization of advice or TDFs in these dimensions.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health Shocks of the Father and Longevity of the Children's Children -- by Dora Costa]]></title>
+        <id>https://www.nber.org/papers/w29553#fromrss</id>
+        <link href="https://www.nber.org/papers/w29553#fromrss"/>
+        <updated>2021-12-16T09:05:13.251Z</updated>
+        <summary type="html"><![CDATA[Whether and how a paternal health shock cascades across multiple generations to affect descendant health is understudied even though a link between ancestral living conditions and descendant health may constitute an important source of differences in the stock of health capital across families and thus across ethnic, racial and social groups.  I study how a paternal health shock affects grandchildren's longevity in a unique setting where the ancestral stressor is the grandfather's ex-POW status in the US Civil War (1861-5) and the children are born after the war.  Ancestral stress is associated with longevity after age 45 of male-line grandsons but not of granddaughters or female-line grandchildren.  I rule out transmission through socioeconomic channels and direct cultural transmission from grandfather to grandson.  An epigenetic explanation is consistent with observed male-line transmission at epigenetically sensitive ancestral ages and mediation by own late gestational conditions.    Consistent with epigenetic reprogramming depending on the in-utero environment, the association between the veteran's ex-POW status and that of his male-line descendants declines across generations.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has Global Agricultural Trade Been Resilient Under Covid-19? Findings from an Econometric Assessment of 2020 -- by Shawn Arita, Jason Grant, Sharon S. Sydow, Jayson Beckman]]></title>
+        <id>https://www.nber.org/papers/w29551#fromrss</id>
+        <link href="https://www.nber.org/papers/w29551#fromrss"/>
+        <updated>2021-12-16T09:05:13.236Z</updated>
+        <summary type="html"><![CDATA[Global agricultural trade, which increased at the end of 2020, has been described as “resilient” to the impacts of the COVID-19 coronavirus pandemic; however, the size and channels of its quantitative impacts are not clear. Using a reduced-form, gravity-based econometric model for monthly trade, we estimate the effects of COVID-19 incidence rates, policy restrictions imposed by governments to curb the outbreak, and the de facto reduction in human mobility/lockdown effect on global agricultural trade through the end of 2020. We find that while agricultural trade remained quite stable through the pandemic, the sector as a whole did not go unscathed. First, we estimate that COVID-19 reduced agricultural trade by the approximate range of 5 to 10 percent at the aggregate sector level; a quantified impact two to three times smaller in magnitude than our estimated impact on trade occurring in the non-agricultural sector. Second, we find sharp differences across individual commodities. In particular, we find that non-food items (hides and skins, ethanol, cotton, and other commodities), meat products including seafood, and higher value agri-food products were most severely impacted by the pandemic; however, the COVID- 19 trade effect for the majority of food and bulk agricultural commodity sectors were found to be insignificant, or in a few cases, positive. Finally, we also examine the effects across low vs high income countries, the changing dynamics of the pandemic’s effect on trade flows, and the effects along the extensive product margins of trade.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dominant Currency Paradigm: A Review -- by Gita Gopinath, Oleg Itskhoki]]></title>
+        <id>https://www.nber.org/papers/w29556#fromrss</id>
+        <link href="https://www.nber.org/papers/w29556#fromrss"/>
+        <updated>2021-12-16T09:05:13.137Z</updated>
+        <summary type="html"><![CDATA[A handful of currencies, especially the US dollar, play a dominant role in international trade. We survey the active theoretical and empirical literature that documents patterns of currency use in global trade, the implications of dominant currencies for international transmission of shocks, exchange rate pass-through, expenditure switching, and optimal monetary policy. We describe advances in the endogenous currency choice literature including conditions for the emergence and persistence of dominant currency equilibria.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -213,6 +213,16 @@ Click on graph for larger image.
 This graph shows the daily (columns) and 7-day average (line) of positive tests reported.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reforming the EU macroeconomic policy system: Economic requirements and legal conditions]]></title>
+        <id>https://voxeu.org/article/reforming-eu-macroeconomic-policy-system-economic-requirements-and-legal-conditions</id>
+        <link href="https://voxeu.org/article/reforming-eu-macroeconomic-policy-system-economic-requirements-and-legal-conditions"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The stability and adequacy of the European monetary and fiscal frameworks are increasingly challenged by enduring changes in the economic environment. This column summarises the findings of a group of economists and lawyers specialised in EU matters who undertook a comprehensive assessment of the economic requirements and legal conditions of a well-functioning macroeconomic policy system for the EU and the euro area. They propose reforms of economic framework in line with economic necessities along three dimensions (coordination of fiscal and monetary policies, fiscal rules, and fiscal capacity at EU level) and assess their legal feasibility. They conclude that meaningful reforms that would bring legal clarity and improve economic performance are feasible within the confines of existing primary law.]]></summary>
+        <author>
+            <name>Miguel Poiares Maduro, Philippe Martin, Jean-Claude  Piris, Jean Pisani-Ferry, Lucrezia Reichlin, Armin Steinbach, Beatrice Weder di Mauro</name>
         </author>
     </entry>
     <entry>
@@ -884,16 +894,6 @@ This graph shows the daily (columns) and 7-day average (line) of positive tests 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The real effects of banking the poor]]></title>
-        <id>https://voxeu.org/article/real-effects-banking-poor</id>
-        <link href="https://voxeu.org/article/real-effects-banking-poor"/>
-        <updated>2021-12-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Access to finance is a crucial component of economic development. This column studies the effects of Brazil’s ‘Banks for All’ programme, which targeted underbanked cities not served by government-owned banks. It finds a strong positive effect of the policy on the number of bank branches and on the overall amount of credit and deposits, particularly for cities located in banking ‘deserts’. Additionally, treated cities experienced increases in the number of firms, higher demand for labour, and higher wages, confirming the link between financial and economic development.]]></summary>
-        <author>
-            <name>Julia Fonseca, Adrien Matray</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Central Bank Digital Currency: Considerations, Projects, Outlook]]></title>
         <id>https://voxeu.org/content/central-bank-digital-currency-considerations-projects-outlook-video</id>
         <link href="https://voxeu.org/content/central-bank-digital-currency-considerations-projects-outlook-video"/>
@@ -903,6 +903,16 @@ Download the eBook:
 Dirk Niepelt, Central Bank Digital Currency: Considerations, Projects, Outlook, CEPR, 2021]]></summary>
         <author>
             <name>Dirk Niepelt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The real effects of banking the poor]]></title>
+        <id>https://voxeu.org/article/real-effects-banking-poor</id>
+        <link href="https://voxeu.org/article/real-effects-banking-poor"/>
+        <updated>2021-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Access to finance is a crucial component of economic development. This column studies the effects of Brazil’s ‘Banks for All’ programme, which targeted underbanked cities not served by government-owned banks. It finds a strong positive effect of the policy on the number of bank branches and on the overall amount of credit and deposits, particularly for cities located in banking ‘deserts’. Additionally, treated cities experienced increases in the number of firms, higher demand for labour, and higher wages, confirming the link between financial and economic development.]]></summary>
+        <author>
+            <name>Julia Fonseca, Adrien Matray</name>
         </author>
     </entry>
     <entry>
@@ -1319,16 +1329,6 @@ Here is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally pr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to nudge COVID-19 vaccination while respecting autonomous decision making]]></title>
-        <id>https://voxeu.org/article/how-nudge-covid-19-vaccination-while-respecting-autonomous-decision-making</id>
-        <link href="https://voxeu.org/article/how-nudge-covid-19-vaccination-while-respecting-autonomous-decision-making"/>
-        <updated>2021-12-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vaccination promotion is crucial to ending the Covid-19 pandemic. This column reports on an experiment in Japan examining whether people altered their vaccination intentions based on information about how their decision could affect vaccine uptake by others. Hearing that getting vaccinated could encourage uptake by others around them increased the proportion of older adults who would receive the vaccine if offered for free, while hearing that not getting vaccinated may discourage uptake by others strengthened the intention to get vaccinated among older adults who had already indicated their willingness to be vaccinated. Finally, hearing how likely others of a similar age were to get vaccinated also strengthened existing intentions – whether pro- or anti-vaccination. The ‘nudges’ did not appear to have an effect on younger adults.]]></summary>
-        <author>
-            <name>Shusaku  Sasaki, Tomoya Saito, Fumio Ohtake</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[COVID-19 vaccine rollouts: Drivers and effects on health outcomes]]></title>
         <id>https://voxeu.org/article/covid-19-vaccine-rollouts-drivers-and-effects-health-outcomes</id>
         <link href="https://voxeu.org/article/covid-19-vaccine-rollouts-drivers-and-effects-health-outcomes"/>
@@ -1336,6 +1336,16 @@ Here is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally pr
         <summary type="html"><![CDATA[Cross-country health spillovers from vaccine rollouts mean the pandemic will not be over anywhere until it is over everywhere. This column argues that the success of a country’s vaccine deployment in the first half of 2021 was driven by five primary factors: the severity of its pandemic waves in 2020, its procurement strategies, the quantity of locally produced vaccines, the quality of health infrastructure, and vaccine acceptance. Swift and broad administration of vaccines provides a significant boost to health outcomes, particularly in the midst of major outbreaks and accompanied by containment measures.]]></summary>
         <author>
             <name>Pragyan Deb, Davide Furceri, Daniel Jiménez, Siddharth Kothari, Jonathan D. Ostry, Nour  Tawk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to nudge COVID-19 vaccination while respecting autonomous decision making]]></title>
+        <id>https://voxeu.org/article/how-nudge-covid-19-vaccination-while-respecting-autonomous-decision-making</id>
+        <link href="https://voxeu.org/article/how-nudge-covid-19-vaccination-while-respecting-autonomous-decision-making"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vaccination promotion is crucial to ending the Covid-19 pandemic. This column reports on an experiment in Japan examining whether people altered their vaccination intentions based on information about how their decision could affect vaccine uptake by others. Hearing that getting vaccinated could encourage uptake by others around them increased the proportion of older adults who would receive the vaccine if offered for free, while hearing that not getting vaccinated may discourage uptake by others strengthened the intention to get vaccinated among older adults who had already indicated their willingness to be vaccinated. Finally, hearing how likely others of a similar age were to get vaccinated also strengthened existing intentions – whether pro- or anti-vaccination. The ‘nudges’ did not appear to have an effect on younger adults.]]></summary>
+        <author>
+            <name>Shusaku  Sasaki, Tomoya Saito, Fumio Ohtake</name>
         </author>
     </entry>
     <entry>
@@ -1419,16 +1429,6 @@ As of December 7, 882,000 mortgage holders (1.7%) remain in COVID-19 related for
 emphasis added]]></summary>
         <author>
             <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Economic drivers of inter-regional migration, the role of housing, and public policies]]></title>
-        <id>https://voxeu.org/article/economic-drivers-inter-regional-migration-role-housing-and-public-policies</id>
-        <link href="https://voxeu.org/article/economic-drivers-inter-regional-migration-role-housing-and-public-policies"/>
-        <updated>2021-12-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The capacity of workers to move regions in response to local economic shocks is a key dimension of labour market dynamism that could contribute to recovery from the COVID-19 crisis and support the green transition. This column presents new empirical evidence on how policies can shape the responsiveness of inter-regional migration to regional economic conditions, with a particular focus on housing markets, social policies, and business regulations. It highlights the need for articulating place-based policies to help prospective movers as well as stayers.]]></summary>
-        <author>
-            <name>Orsetta Causa, Maria Chiara Cavalleri, Michael Abendschein, Nhung Luu</name>
         </author>
     </entry>
     <entry>
