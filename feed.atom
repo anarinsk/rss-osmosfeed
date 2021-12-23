@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-23T18:06:35.367Z</id>
+    <id>urn:2021-12-23T21:04:45.653Z</id>
     <title>anari: slimfeed</title>
-    <updated>2021-12-23T18:06:35.367Z</updated>
+    <updated>2021-12-23T21:04:45.653Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Information, Intermediaries, and International Migration -- by Samuel Bazzi, Lisa Cameron, Simone G. Schaner, Firman Witoelar]]></title>
-        <id>https://www.nber.org/papers/w29588#fromrss</id>
-        <link href="https://www.nber.org/papers/w29588#fromrss"/>
-        <updated>2021-12-23T18:05:48.197Z</updated>
-        <summary type="html"><![CDATA[Job seekers often face substantial information frictions related to potential job quality. This is especially true in international labor markets, where intermediaries match prospective migrants with employers abroad. We conducted a randomized trial in Indonesia to explore how information about intermediary quality shapes migration choices and outcomes. Information reduces the migration rate, lowering use of low-quality intermediaries. However, workers who migrate receive better pre-departure preparation and have higher-quality job experiences abroad, despite no change in occupation or destination. Information does not change intentions to migrate or beliefs about the return to migration or intermediary quality. Nor does selection explain the improved outcomes for workers who choose to migrate with the information. Together, our findings are consistent with an increase in the option value of search: with better ability to differentiate offer quality, workers become choosier and ultimately have better migration experiences. This offers a new perspective on the importance of information and matching frictions in global labor markets.]]></summary>
+        <title type="html"><![CDATA[Effect of Health Insurance in India: A Randomized Controlled Trial -- by Anup Malani, Phoebe Holtzman, Kosuke Imai, Cynthia Kinnan, Morgen Miller, Shailender Swaminathan, Alessandra Voena, Bartosz Woda, Gabriella Conti]]></title>
+        <id>https://www.nber.org/papers/w29576#fromrss</id>
+        <link href="https://www.nber.org/papers/w29576#fromrss"/>
+        <updated>2021-12-23T21:03:59.323Z</updated>
+        <summary type="html"><![CDATA[We report on a large randomized controlled trial of hospital insurance for above-poverty-line Indian households.  Households were assigned to free insurance, sale of insurance, sale plus cash transfer, or control.  To estimate spillovers, the fraction of households offered insurance varied across villages.  The opportunity to purchase insurance led to 59.91% uptake and access to free insurance to 78.71% uptake.  Access increased insurance utilization. Positive spillover effects on utilization suggest learning from peers.  Many beneficiaries were unable to use insurance, demonstrating hurdles to expanding access via insurance.  Across a range of health measures, we estimate no significant impacts on health.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inattention and Inequity in School Matching -- by Stefan F. Bucher, Andrew Caplin]]></title>
-        <id>https://www.nber.org/papers/w29586#fromrss</id>
-        <link href="https://www.nber.org/papers/w29586#fromrss"/>
-        <updated>2021-12-23T18:05:47.940Z</updated>
-        <summary type="html"><![CDATA[The attractive properties of the Deferred Acceptance (DA) algorithm rest on the assumption of perfect information. Yet field studies of school matching show that information is imperfect, particularly for disadvantaged students. We model costly strategic learning when schools are ex ante symmetric, agree on their ranking of students, and learning is rationally inattentive. Our analytic solution quantifies how each student’s rank, learning costs and prior beliefs interact to determine their gross and net welfare as well as the extent and form of mistakes they make. In line with the evidence, we find that lower-ranked students are affected disproportionately more by information costs, generally suffering a larger welfare loss than higher-ranked students. Interactions between mechanism design, inattention and inequity are thus of first order importance.]]></summary>
+        <title type="html"><![CDATA[Absenteeism, Productivity, and Relational Contracts Inside the Firm -- by Achyuta Adhvaryu, Jean-François Gauthier, Anant Nyshadham, Jorge A. Tamayo]]></title>
+        <id>https://www.nber.org/papers/w29581#fromrss</id>
+        <link href="https://www.nber.org/papers/w29581#fromrss"/>
+        <updated>2021-12-23T21:03:59.240Z</updated>
+        <summary type="html"><![CDATA[We study relational contracts among managers using unique data that tracks transfers of workers across teams in Indian ready-made garment factories. We focus on how relational contracts help managers cope with worker absenteeism shocks, which are frequent, often large, weakly correlated across teams, and which substantially reduce team productivity. Together these facts imply gains from sharing workers. We show that managers respond to shocks by lending and borrowing workers in a manner consistent with relational contracting, but many potentially beneficial transfers are unrealized. This is because managers’ primary relationships are with a very small subset of potential partners. A borrowing event study around main trading partners’ separations from the firm reinforces the importance of relationships. We show robustness to excluding worker moves least likely to reflect relational borrowing responses to idiosyncratic absenteeism shocks. Counterfactual simulations reveal large gains to reducing costs associated with forming and maintaining additional relationships among managers.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi -- by David Sungho Park, Shilpa Aggarwal, Dahyeon Jeong, Naresh Kumar, Jonathan Robinson, Alan Spearot]]></title>
+        <id>https://www.nber.org/papers/w29584#fromrss</id>
+        <link href="https://www.nber.org/papers/w29584#fromrss"/>
+        <updated>2021-12-23T21:03:59.210Z</updated>
+        <summary type="html"><![CDATA[Women may under-report intimate partner violence (IPV) in surveys due to a variety of social and psychological factors. To understand if anonymized interviewing can allay this concern, we conduct a measurement experiment in rural Liberia and Malawi in which women were asked IPV questions via either self-interviewing (SI) or face-to-face interviewing (FTFI) with an enumerator. We find that about a third of women incorrectly answer basic screening questions over SI, and that it generates placebo effects on innocuous questions even for those who "pass" screening. Because the probability of responding "yes" to any specific IPV question is less than 50%, and that IPV is typically reported as an index (reporting yes to at least one question in a category of violence), such misunderstanding will tend to increase IPV reporting. In Malawi, we find that SI dramatically increases reported IPV, with the incidence of any type of IPV increasing by 13 percentage points on a base of 20%; in Liberia, we find an insignificant and modest increase of 4 percentage points on a base of 39%. Our results suggest SI may spuriously increase reported IPV rates.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -29,18 +39,38 @@
         <title type="html"><![CDATA[Taking the Pulse of Nations: a Biometric Measure of Well-being -- by David G. Blanchflower, Alex Bryson]]></title>
         <id>https://www.nber.org/papers/w29587#fromrss</id>
         <link href="https://www.nber.org/papers/w29587#fromrss"/>
-        <updated>2021-12-23T18:05:47.927Z</updated>
+        <updated>2021-12-23T21:03:59.187Z</updated>
         <summary type="html"><![CDATA[A growing literature identifies associations between subjective and biometric indicators of wellbeing.  These associations, together with the ability of subjective wellbeing (SWB) metrics to predict health and behavioral outcomes, have spawned increasing interest in SWB as an important concept in its own right.  However, some social scientists continue to question the usefulness of SWB metrics.  We contribute to this literature in three ways.  First, we introduce a biometric measure of wellbeing – pulse – which has been largely overlooked.  Using nationally representative data on 165,000 individuals from the Health Survey for England (HSE) and Scottish Health Surveys (SHeS) we show that its correlates are similar in a number of ways to those for SWB, and that it is highly correlated with SWB metrics, as well as self-assessed health.  Second, we examine the determinants of pulse rates in mid-life (age 42) among the 9,000 members of the National Child Development Study (NCDS), a birth cohort born in a single week in 1958 in Britain.  Third, we track the impact of pulse measured in mid-life (age 42) on health and labor market outcomes at age 50 in 2008 and age 55 in 2013.  The probability of working at age 55 is negatively impacted by pulse rate a decade earlier.  The pulse rate has an impact over and above chronic pain measured at age 42.  General health at 55 is lower the higher the pulse rate at age 42, while those with higher pulse rates at 42 also express lower life satisfaction and more pessimism about the future at age 50.  Taken together, these results suggest social scientists can learn a great deal by adding pulse rates to the metrics they use when evaluating people’s wellbeing.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cognitive Uncertainty in Intertemporal Choice -- by Benjamin Enke, Thomas Graeber]]></title>
-        <id>https://www.nber.org/papers/w29577#fromrss</id>
-        <link href="https://www.nber.org/papers/w29577#fromrss"/>
-        <updated>2021-12-23T18:05:47.898Z</updated>
-        <summary type="html"><![CDATA[This paper studies the relevance of cognitive uncertainty – subjective uncertainty over one's utility-maximizing action – for understanding and predicting intertemporal choice. The main idea is that when people are cognitively noisy, such as when a decision is complex, they implicitly treat different time delays to some degree alike. By experimentally measuring and manipulating cognitive uncertainty, we document  three economic implications of this idea. First,  cognitive uncertainty explains various core empirical regularities, such as why people often appear very impatient, why per-period impatience is smaller over long than over short horizons, why discounting is often hyperbolic even when the present is not involved, and why choices frequently violate transitivity. Second, impatience is context-dependent: discounting is substantially more hyperbolic when the decision environment is more complex. Third, cognitive uncertainty matters for choice architecture: people who are nervous about making mistakes are twice as likely to follow expert advice to be more patient.]]></summary>
+        <title type="html"><![CDATA[Inattention and Inequity in School Matching -- by Stefan F. Bucher, Andrew Caplin]]></title>
+        <id>https://www.nber.org/papers/w29586#fromrss</id>
+        <link href="https://www.nber.org/papers/w29586#fromrss"/>
+        <updated>2021-12-23T21:03:59.168Z</updated>
+        <summary type="html"><![CDATA[The attractive properties of the Deferred Acceptance (DA) algorithm rest on the assumption of perfect information. Yet field studies of school matching show that information is imperfect, particularly for disadvantaged students. We model costly strategic learning when schools are ex ante symmetric, agree on their ranking of students, and learning is rationally inattentive. Our analytic solution quantifies how each student’s rank, learning costs and prior beliefs interact to determine their gross and net welfare as well as the extent and form of mistakes they make. In line with the evidence, we find that lower-ranked students are affected disproportionately more by information costs, generally suffering a larger welfare loss than higher-ranked students. Interactions between mechanism design, inattention and inequity are thus of first order importance.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lobbying Physicians: Payments from Industry and Hospital Procurement of Medical Devices -- by Alon Bergman, Matthew Grennan, Ashley Swanson]]></title>
+        <id>https://www.nber.org/papers/w29583#fromrss</id>
+        <link href="https://www.nber.org/papers/w29583#fromrss"/>
+        <updated>2021-12-23T21:03:59.134Z</updated>
+        <summary type="html"><![CDATA[We draw upon newly merged administrative data sets to study the relationship between payments from medical technology firms to physicians and medical device procurement by hospitals. These payments (and the interactions that accompany them) may facilitate the transfer of valuable information to and from physicians. However, they may also influence physicians’ treatment decisions, and in turn hospital device procurement, in favor of paying firms. Payments are pervasive: 87 percent of device sales in our sample occurred at a hospital where a relevant physician received a payment from a device firm. Payments are also highly correlated with spending within a firm-hospital pair: event studies suggest that a large positive increase in payments to a given hospital from a given firm ($438 per physician on average, or 112 percent of the mean) is associated with 27 percent higher expenditures on the paying firm’s devices post-event. Finally, we explore how payments mediate the relationship between expertise and device procurement patterns. Hospitals affiliated with the top Academic Medical Centers (AMCs), which plausibly represent an expert benchmark, purchase a different mix of devices than other hospitals, and payments to hospitals outside the top AMCs are correlated with larger deviations from the procurement patterns of top AMC hospitals.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Information, Intermediaries, and International Migration -- by Samuel Bazzi, Lisa Cameron, Simone G. Schaner, Firman Witoelar]]></title>
+        <id>https://www.nber.org/papers/w29588#fromrss</id>
+        <link href="https://www.nber.org/papers/w29588#fromrss"/>
+        <updated>2021-12-23T21:03:59.114Z</updated>
+        <summary type="html"><![CDATA[Job seekers often face substantial information frictions related to potential job quality. This is especially true in international labor markets, where intermediaries match prospective migrants with employers abroad. We conducted a randomized trial in Indonesia to explore how information about intermediary quality shapes migration choices and outcomes. Information reduces the migration rate, lowering use of low-quality intermediaries. However, workers who migrate receive better pre-departure preparation and have higher-quality job experiences abroad, despite no change in occupation or destination. Information does not change intentions to migrate or beliefs about the return to migration or intermediary quality. Nor does selection explain the improved outcomes for workers who choose to migrate with the information. Together, our findings are consistent with an increase in the option value of search: with better ability to differentiate offer quality, workers become choosier and ultimately have better migration experiences. This offers a new perspective on the importance of information and matching frictions in global labor markets.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -49,18 +79,8 @@
         <title type="html"><![CDATA[The Rise, Fall and Stabilization of U.S. Inflation: Shifting Regimes and Evolving Reputation -- by Robert G. King, Yang K. Lu]]></title>
         <id>https://www.nber.org/papers/w29585#fromrss</id>
         <link href="https://www.nber.org/papers/w29585#fromrss"/>
-        <updated>2021-12-23T18:05:47.883Z</updated>
+        <updated>2021-12-23T21:03:59.082Z</updated>
         <summary type="html"><![CDATA[The rise, fall, and stabilization of US inflation between 1969 and 2005 is consistent with a model of shifting policy regimes that features a forward-looking New Keynesian Phillips curve, policymakers that can or cannot commit, and private sector learning about policymaker type. Using model-implied inflation forecasting rules to extract state variables from the inflation forecasts in the Survey of Professional Forecasters, we provide evidence that policy regimes without commitment prevailed before 1980 and regimes with commitment prevailed afterward. With theory and quantification, we find that evolution of reputational capital is central to understanding the behavior of inflation.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Effects of Letters of Recommendation in the Youth Labor Market -- by Sara B. Heller, Judd B. Kessler]]></title>
-        <id>https://www.nber.org/papers/w29579#fromrss</id>
-        <link href="https://www.nber.org/papers/w29579#fromrss"/>
-        <updated>2021-12-23T18:05:47.869Z</updated>
-        <summary type="html"><![CDATA[Youth employment has been near historic lows in recent years, and racial gaps persist. This paper tests whether information frictions limit young people's labor market success with a field experiment involving over 43,000 youth in New York City. We build software that allows employers to quickly and easily produce letters of recommendation for randomly selected youth who worked under their supervision during a summer youth employment program. We then send these letters to nearly 9,000 youth over two years. Being sent a letter generates a 3 percentage point (4.5 percent) increase in employment the following year, with both employment and earnings increases persisting over the two-year follow-up period. By posting our own job advertisement, we document that while treatment youth do use the letters in applications, there is no evidence of other supply-side responses (i.e., no increased job search, motivation, or confidence); effects appear to be driven by the demand side. Labor market benefits accrue primarily to racial and ethnic minorities, suggesting frictions may contribute to racial employment gaps. But improved employment may also hamper on-time high school graduation. Additional evidence indicates that letters help improve job match quality. Results suggest that expanding the availability credible signals about young workers—particularly for those not on the margin of graduating high school—could improve the efficiency of the youth labor market.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -69,7 +89,7 @@
         <title type="html"><![CDATA[Sufficient Statistics for Nonlinear Tax Systems with Preference Heterogeneity -- by Antoine Ferey, Benjamin Lockwood, Dmitry Taubinsky]]></title>
         <id>https://www.nber.org/papers/w29582#fromrss</id>
         <link href="https://www.nber.org/papers/w29582#fromrss"/>
-        <updated>2021-12-23T18:05:47.844Z</updated>
+        <updated>2021-12-23T21:03:59.059Z</updated>
         <summary type="html"><![CDATA[This paper provides general and empirically implementable sufficient statistics formulas for optimal nonlinear tax systems in the presence of preference heterogeneity. We study unrestricted tax systems on income and savings (or other commodities) that implement the optimal direct-revelation mechanism, as well as simpler tax systems that impose common restrictions like separability between earnings and savings taxes. We characterize the optimum using familiar elasticity concepts and a sufficient statistic for across-income preference heterogeneity: the difference between the cross-sectional variation of savings with income, and the causal effect of income on savings. The Atkinson-Stiglitz Theorem is a knife-edge case corresponding to zero difference, and a number of other key results in optimal tax theory are subsumed as special cases. Our formulas also apply to other sources of across-income heterogeneity, including heterogeneity in rates of return on savings, inheritances, and the ability to shift income between tax bases. We provide tractable extensions of these results that include multidimensional heterogeneity, additional efficiency rationales for taxing heterogeneous returns, and corrective motives to encourage more saving. Applying these formulas in a calibrated model of the U.S. economy, we find that the optimal savings tax is positive and progressive.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -79,118 +99,8 @@
         <title type="html"><![CDATA[Organizational Frictions and Increasing Returns to Automation: Lessons from AT&T in the Twentieth Century -- by James J. Feigenbaum, Daniel P. Gross]]></title>
         <id>https://www.nber.org/papers/w29580#fromrss</id>
         <link href="https://www.nber.org/papers/w29580#fromrss"/>
-        <updated>2021-12-23T18:05:47.831Z</updated>
+        <updated>2021-12-23T21:03:59.038Z</updated>
         <summary type="html"><![CDATA[AT&T was the largest U.S. firm for most of the 20th century. Telephone operators once comprised over 50% of its workforce, but in the late 1910s it initiated a decades-long process of automating telephone operation with mechanical call switching—a technology first invented in the 1880s. We study what drove AT&T to do so, and why it took one firm nearly a century to automate this one basic function. Interdependencies between operators and nearly every other part of the business were obstacles: the manual switchboard was the fulcrum of a complex system which had developed around it, and automation only began after the firm and automatic technology were adapted to work together. Even then, automatic switching was only profitable for AT&T in larger markets—hence diffusion expanded as costs declined and service areas grew. We show that automation supported AT&T's continued growth, generating a positive feedback loop between scale and automation that reinforced AT&T's high market share in local markets.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Labor Productivity Growth and Industrialization in Africa -- by Margaret S. McMillan, Albert Zeufack]]></title>
-        <id>https://www.nber.org/papers/w29570#fromrss</id>
-        <link href="https://www.nber.org/papers/w29570#fromrss"/>
-        <updated>2021-12-23T18:05:47.685Z</updated>
-        <summary type="html"><![CDATA[Manufacturing has made an important contribution to raising living standards in many parts of the world. Concerns about premature deindustrialization have made some observers skeptical about the potential for manufacturing to play this role in Africa. But employment in African manufacturing has grown rapidly over the past 20 years. These employment gains have been accompanied by: (i) large increases in the number of small manufacturing firms; (ii) limited employment gains in large firms; and (iii) robust labor productivity growth in Africa’s large firms. Limited employment growth in Africa’s large manufacturing firms is partly a result of the capital intensity of the manufacturing sub-sectors in which African countries are most engaged – the processing of resources, and partly a result of rising capital intensity in manufacturing. The potential for manufacturing to raise living standards in Africa depends on indirect job creation by large firms through backward and forward linkages and increasing labor productivity in small firms.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Identifying Monetary Policy Shocks Using the Central Bank's Information Set -- by Ruediger Bachmann, Isabel Gödl-Hanisch, Eric R. Sims]]></title>
-        <id>https://www.nber.org/papers/w29572#fromrss</id>
-        <link href="https://www.nber.org/papers/w29572#fromrss"/>
-        <updated>2021-12-23T18:05:47.668Z</updated>
-        <summary type="html"><![CDATA[We identify monetary policy shocks by exploiting variation in the central bank’s information set. To be specific, we use differences between nowcasts of the output gap and inflation with final, revised estimates of these series to isolate movements in the policy rate unrelated to economic conditions. We then compute the effects of a monetary policy shock on the aggregate economy using local projection methods. We find that a contractionary monetary policy shock has a limited negative effect on output but a persistent negative impact on prices. In contrast to alternative identification approaches, we do not observe a price puzzle when analyzing the period from 1987 to 2008. Further, we validate the identification approach in a simple New Keynesian model, augmented by the assumption that the central bank observes the ingredients of the Taylor rule with error.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Neural Networks to Predict Micro-Spatial Economic Growth -- by Arman Khachiyan, Anthony Thomas, Huye Zhou, Gordon H. Hanson, Alex Cloninger, Tajana Rosing, Amit Khandelwal]]></title>
-        <id>https://www.nber.org/papers/w29569#fromrss</id>
-        <link href="https://www.nber.org/papers/w29569#fromrss"/>
-        <updated>2021-12-23T18:05:47.651Z</updated>
-        <summary type="html"><![CDATA[We apply deep learning to daytime satellite imagery to predict changes in income and population at high spatial resolution in US data. For grid cells with lateral dimensions of 1.2km and 2.4km (where the average US county has dimension of 55.6km), our model predictions achieve R2 values of 0.85 to 0.91 in levels, which far exceed the accuracy of existing models, and 0.32 to 0.46 in decadal changes, which have no counterpart in the literature and are 3-4 times larger than for commonly used nighttime lights. Our network has wide application for analyzing localized shocks.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEM Employment Resiliency During Recessions: Evidence from the COVID-19 Pandemic -- by James C. Davis, Holden A. Diethorn, Gerald R. Marschke, Andrew J. Wang]]></title>
-        <id>https://www.nber.org/papers/w29568#fromrss</id>
-        <link href="https://www.nber.org/papers/w29568#fromrss"/>
-        <updated>2021-12-23T18:05:47.637Z</updated>
-        <summary type="html"><![CDATA[Employment in STEM occupations suffered smaller peak-to-trough percentage declines than non-STEM occupations during the Great Recession and COVID-19 recession, suggesting a relative resiliency of STEM employment.  We exploit the sudden peak-to-trough declines in STEM and non-STEM employment during the COVID-19 recession to measure STEM recession-resiliency, decomposing our difference-in-differences estimate into parts explained by various sources.  We find that STEM knowledge importance on the job explains the greatest share of STEM employment resiliency, and that workers in non-STEM occupations who nonetheless use STEM knowledge experienced better employment outcomes. STEM employment resiliency may explain the mild effects of COVID-19 on innovative activity.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Digital Trade Change the Purpose of a Trade Agreement? -- by Robert W. Staiger]]></title>
-        <id>https://www.nber.org/papers/w29578#fromrss</id>
-        <link href="https://www.nber.org/papers/w29578#fromrss"/>
-        <updated>2021-12-23T18:05:47.598Z</updated>
-        <summary type="html"><![CDATA[The design of a trade agreement should reflect its purpose. Does digital trade change the purpose of a trade agreement? To explore this question, I first describe the definitional and classification issues associated with digital trade, and for modeling purposes I adopt a simple taxonomy of the ways in which digital trade can arise and the policies that can be used to restrict such trade. I then review what the theoretical literature on the economics of trade agreements has to say about the purpose of a trade agreement in a pre-digital model world economy, and how this purpose can be seen to be reflected in the broad design features of both GATT and GATS, the WTO agreements that govern international trade in goods and services respectively. Finally, I introduce digital trade into the model world economy and revisit the purpose of a trade agreement. From this perspective I consider whether the rise of digital trade warrants changes in the design of the WTO.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peltzman Revisited: Quantifying 21st Century Opportunity Costs of FDA Regulation -- by Casey B. Mulligan]]></title>
-        <id>https://www.nber.org/papers/w29574#fromrss</id>
-        <link href="https://www.nber.org/papers/w29574#fromrss"/>
-        <updated>2021-12-23T18:05:47.567Z</updated>
-        <summary type="html"><![CDATA[This paper revisits Peltzman (1973) in light of two recent opportunities to quantitatively assess tradeoffs in drug regulation.  First, reduced regulatory barriers to drug manufacturing associated with the 2017 reauthorization of Generic Drug User Fee Amendments were followed by significantly more entry and lower consumer prices for prescription drugs.  Using a simple and versatile industry model and historical data on entry, I find that easing generic restrictions discourages innovation, but this welfare cost is more than offset by consumer benefits from enhanced competition, especially after 2016.  Second, accelerated vaccine approval in 2020 had unprecedented net benefits as it not only improved health but substantially changed the trajectory of the wider economy.  The evidence suggests that cost-benefit analysis of FDA regulation is incomplete without accounting for substitution toward potentially unsafe and ineffective treatments that are both outside FDA jurisdiction and heavily utilized prior to FDA approval.  Moreover, the policy processes initiating these 21st century regulatory changes show a clear influence of Peltzman’s 1973 findings.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private but Misunderstood? Evidence on Measuring Intimate Partner Violence via Self-Interviewing in Rural Liberia and Malawi -- by David Sungho Park, Shilpa Aggarwal, Dahyeon Jeong, Naresh Kumar, Jonathan Robinson, Alan Spearot]]></title>
-        <id>https://www.nber.org/papers/w29584#fromrss</id>
-        <link href="https://www.nber.org/papers/w29584#fromrss"/>
-        <updated>2021-12-23T18:05:47.541Z</updated>
-        <summary type="html"><![CDATA[Women may under-report intimate partner violence (IPV) in surveys due to a variety of social and psychological factors. To understand if anonymized interviewing can allay this concern, we conduct a measurement experiment in rural Liberia and Malawi in which women were asked IPV questions via either self-interviewing (SI) or face-to-face interviewing (FTFI) with an enumerator. We find that about a third of women incorrectly answer basic screening questions over SI, and that it generates placebo effects on innocuous questions even for those who "pass" screening. Because the probability of responding "yes" to any specific IPV question is less than 50%, and that IPV is typically reported as an index (reporting yes to at least one question in a category of violence), such misunderstanding will tend to increase IPV reporting. In Malawi, we find that SI dramatically increases reported IPV, with the incidence of any type of IPV increasing by 13 percentage points on a base of 20%; in Liberia, we find an insignificant and modest increase of 4 percentage points on a base of 39%. Our results suggest SI may spuriously increase reported IPV rates.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Use and Gender in Africa in Times of Structural Transformation -- by Taryn Dinkelman, L. Rachel Ngai]]></title>
-        <id>https://www.nber.org/papers/w29571#fromrss</id>
-        <link href="https://www.nber.org/papers/w29571#fromrss"/>
-        <updated>2021-12-23T18:05:47.525Z</updated>
-        <summary type="html"><![CDATA[Many African countries are still in the early stages of structural transformation. Typically, as economies move through the structural transformation, activities once conducted within the household are outsourced to the market. This has particular implications for women’s time use. In this paper, we document that current patterns of female time use in home production in several African countries closely resemble historical time use patterns in the US. We highlight two stylized facts about women’s time use in Africa. First, in North Africa, women spend very few hours in market work and female labor force participation overall is extremely low. Second, although extensive margin participation of women is high in sub-Saharan Africa, women tend to work in the market for only a few hours each week, with the rest of their work hours spent in home production. These two facts suggest two types of constraints that could slow down the reallocation of female time from home to market as economies grow: Social norms related to women’s market work, and a lack of infrastructure (e.g. household infrastructure and childcare facilities) to facilitate marketizing home production. We discuss recent empirical evidence related to each set of constraints and highlight new avenues for research.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lobbying Physicians: Payments from Industry and Hospital Procurement of Medical Devices -- by Alon Bergman, Matthew Grennan, Ashley Swanson]]></title>
-        <id>https://www.nber.org/papers/w29583#fromrss</id>
-        <link href="https://www.nber.org/papers/w29583#fromrss"/>
-        <updated>2021-12-23T18:05:47.491Z</updated>
-        <summary type="html"><![CDATA[We draw upon newly merged administrative data sets to study the relationship between payments from medical technology firms to physicians and medical device procurement by hospitals. These payments (and the interactions that accompany them) may facilitate the transfer of valuable information to and from physicians. However, they may also influence physicians’ treatment decisions, and in turn hospital device procurement, in favor of paying firms. Payments are pervasive: 87 percent of device sales in our sample occurred at a hospital where a relevant physician received a payment from a device firm. Payments are also highly correlated with spending within a firm-hospital pair: event studies suggest that a large positive increase in payments to a given hospital from a given firm ($438 per physician on average, or 112 percent of the mean) is associated with 27 percent higher expenditures on the paying firm’s devices post-event. Finally, we explore how payments mediate the relationship between expertise and device procurement patterns. Hospitals affiliated with the top Academic Medical Centers (AMCs), which plausibly represent an expert benchmark, purchase a different mix of devices than other hospitals, and payments to hospitals outside the top AMCs are correlated with larger deviations from the procurement patterns of top AMC hospitals.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Pandemic Unemployment Benefits Reduce Employment? Evidence from Early State-Level Expirations in June 2021 -- by Harry  J. Holzer, R. Glenn Hubbard, Michael R. Strain]]></title>
-        <id>https://www.nber.org/papers/w29575#fromrss</id>
-        <link href="https://www.nber.org/papers/w29575#fromrss"/>
-        <updated>2021-12-23T18:05:47.470Z</updated>
-        <summary type="html"><![CDATA[The generosity of Unemployment Insurance (UI) benefits was expanded during the pandemic (FPUC), along with the groups of workers eligible for benefits (PUA). These two programs were set to expire in September 2021, but 18 states opted out of both in June 2021. Using Current Population Survey data, we present difference-in-difference and event study estimates that the flow of unemployed workers into employment increased by around two-thirds following early termination. We construct a counterfactual scenario that implies the national unemployment rate in each of July and August would have been around 0.3 percentage point lower than they were, and the employment-population ratio would have been around 0.1-0.2 percentage point higher than it was, had all states ended FPUC and PUA in June. Expanded eligibility and generosity of UI may have both slowed transitions from unemployment to employment. We also present some suggestive evidence that households with relatively high confidence in their ability to meet expenses may have been less sensitive to the termination of expanded benefits. Finally, we present evidence that early termination reduced the share of households that had no difficulty meeting expenses by five percent. The welfare implications of the early termination of FPUC and PUA are therefore ambiguous.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Absenteeism, Productivity, and Relational Contracts Inside the Firm -- by Achyuta Adhvaryu, Jean-François Gauthier, Anant Nyshadham, Jorge A. Tamayo]]></title>
-        <id>https://www.nber.org/papers/w29581#fromrss</id>
-        <link href="https://www.nber.org/papers/w29581#fromrss"/>
-        <updated>2021-12-23T18:05:47.449Z</updated>
-        <summary type="html"><![CDATA[We study relational contracts among managers using unique data that tracks transfers of workers across teams in Indian ready-made garment factories. We focus on how relational contracts help managers cope with worker absenteeism shocks, which are frequent, often large, weakly correlated across teams, and which substantially reduce team productivity. Together these facts imply gains from sharing workers. We show that managers respond to shocks by lending and borrowing workers in a manner consistent with relational contracting, but many potentially beneficial transfers are unrealized. This is because managers’ primary relationships are with a very small subset of potential partners. A borrowing event study around main trading partners’ separations from the firm reinforces the importance of relationships. We show robustness to excluding worker moves least likely to reflect relational borrowing responses to idiosyncratic absenteeism shocks. Counterfactual simulations reveal large gains to reducing costs associated with forming and maintaining additional relationships among managers.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -199,20 +109,142 @@
         <title type="html"><![CDATA[Is Digital Credit Filling a Hole or Digging a Hole? Evidence from Malawi -- by Valentina Brailovskaya, Pascaline Dupas, Jonathan Robinson]]></title>
         <id>https://www.nber.org/papers/w29573#fromrss</id>
         <link href="https://www.nber.org/papers/w29573#fromrss"/>
-        <updated>2021-12-23T18:05:47.407Z</updated>
+        <updated>2021-12-23T21:03:59.000Z</updated>
         <summary type="html"><![CDATA[Digital credit has expanded rapidly in Africa, mostly in the form of short-term, high-interest loans offered via mobile money. Loan terms are often opaque and consumer financial literacy is low, providing opportunities for predatory lending. A regression discontinuity analysis shows no negative effect of access to digital loans on financial well-being, but the majority of borrowers fail to repay on time and incur high late fees. We randomize exposure to a short phone-based financial literacy intervention. The intervention improved knowledge and marginally improved loan repayment but increased loan demand, increasing overall default risk.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Effect of Health Insurance in India: A Randomized Controlled Trial -- by Anup Malani, Phoebe Holtzman, Kosuke Imai, Cynthia Kinnan, Morgen Miller, Shailender Swaminathan, Alessandra Voena, Bartosz Woda, Gabriella Conti]]></title>
-        <id>https://www.nber.org/papers/w29576#fromrss</id>
-        <link href="https://www.nber.org/papers/w29576#fromrss"/>
-        <updated>2021-12-23T18:05:47.377Z</updated>
-        <summary type="html"><![CDATA[We report on a large randomized controlled trial of hospital insurance for above-poverty-line Indian households.  Households were assigned to free insurance, sale of insurance, sale plus cash transfer, or control.  To estimate spillovers, the fraction of households offered insurance varied across villages.  The opportunity to purchase insurance led to 59.91% uptake and access to free insurance to 78.71% uptake.  Access increased insurance utilization. Positive spillover effects on utilization suggest learning from peers.  Many beneficiaries were unable to use insurance, demonstrating hurdles to expanding access via insurance.  Across a range of health measures, we estimate no significant impacts on health.]]></summary>
+        <title type="html"><![CDATA[Peltzman Revisited: Quantifying 21st Century Opportunity Costs of FDA Regulation -- by Casey B. Mulligan]]></title>
+        <id>https://www.nber.org/papers/w29574#fromrss</id>
+        <link href="https://www.nber.org/papers/w29574#fromrss"/>
+        <updated>2021-12-23T21:03:58.981Z</updated>
+        <summary type="html"><![CDATA[This paper revisits Peltzman (1973) in light of two recent opportunities to quantitatively assess tradeoffs in drug regulation.  First, reduced regulatory barriers to drug manufacturing associated with the 2017 reauthorization of Generic Drug User Fee Amendments were followed by significantly more entry and lower consumer prices for prescription drugs.  Using a simple and versatile industry model and historical data on entry, I find that easing generic restrictions discourages innovation, but this welfare cost is more than offset by consumer benefits from enhanced competition, especially after 2016.  Second, accelerated vaccine approval in 2020 had unprecedented net benefits as it not only improved health but substantially changed the trajectory of the wider economy.  The evidence suggests that cost-benefit analysis of FDA regulation is incomplete without accounting for substitution toward potentially unsafe and ineffective treatments that are both outside FDA jurisdiction and heavily utilized prior to FDA approval.  Moreover, the policy processes initiating these 21st century regulatory changes show a clear influence of Peltzman’s 1973 findings.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labor Productivity Growth and Industrialization in Africa -- by Margaret S. McMillan, Albert Zeufack]]></title>
+        <id>https://www.nber.org/papers/w29570#fromrss</id>
+        <link href="https://www.nber.org/papers/w29570#fromrss"/>
+        <updated>2021-12-23T21:03:58.951Z</updated>
+        <summary type="html"><![CDATA[Manufacturing has made an important contribution to raising living standards in many parts of the world. Concerns about premature deindustrialization have made some observers skeptical about the potential for manufacturing to play this role in Africa. But employment in African manufacturing has grown rapidly over the past 20 years. These employment gains have been accompanied by: (i) large increases in the number of small manufacturing firms; (ii) limited employment gains in large firms; and (iii) robust labor productivity growth in Africa’s large firms. Limited employment growth in Africa’s large manufacturing firms is partly a result of the capital intensity of the manufacturing sub-sectors in which African countries are most engaged – the processing of resources, and partly a result of rising capital intensity in manufacturing. The potential for manufacturing to raise living standards in Africa depends on indirect job creation by large firms through backward and forward linkages and increasing labor productivity in small firms.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Neural Networks to Predict Micro-Spatial Economic Growth -- by Arman Khachiyan, Anthony Thomas, Huye Zhou, Gordon H. Hanson, Alex Cloninger, Tajana Rosing, Amit Khandelwal]]></title>
+        <id>https://www.nber.org/papers/w29569#fromrss</id>
+        <link href="https://www.nber.org/papers/w29569#fromrss"/>
+        <updated>2021-12-23T21:03:58.931Z</updated>
+        <summary type="html"><![CDATA[We apply deep learning to daytime satellite imagery to predict changes in income and population at high spatial resolution in US data. For grid cells with lateral dimensions of 1.2km and 2.4km (where the average US county has dimension of 55.6km), our model predictions achieve R2 values of 0.85 to 0.91 in levels, which far exceed the accuracy of existing models, and 0.32 to 0.46 in decadal changes, which have no counterpart in the literature and are 3-4 times larger than for commonly used nighttime lights. Our network has wide application for analyzing localized shocks.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Digital Trade Change the Purpose of a Trade Agreement? -- by Robert W. Staiger]]></title>
+        <id>https://www.nber.org/papers/w29578#fromrss</id>
+        <link href="https://www.nber.org/papers/w29578#fromrss"/>
+        <updated>2021-12-23T21:03:58.912Z</updated>
+        <summary type="html"><![CDATA[The design of a trade agreement should reflect its purpose. Does digital trade change the purpose of a trade agreement? To explore this question, I first describe the definitional and classification issues associated with digital trade, and for modeling purposes I adopt a simple taxonomy of the ways in which digital trade can arise and the policies that can be used to restrict such trade. I then review what the theoretical literature on the economics of trade agreements has to say about the purpose of a trade agreement in a pre-digital model world economy, and how this purpose can be seen to be reflected in the broad design features of both GATT and GATS, the WTO agreements that govern international trade in goods and services respectively. Finally, I introduce digital trade into the model world economy and revisit the purpose of a trade agreement. From this perspective I consider whether the rise of digital trade warrants changes in the design of the WTO.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cognitive Uncertainty in Intertemporal Choice -- by Benjamin Enke, Thomas Graeber]]></title>
+        <id>https://www.nber.org/papers/w29577#fromrss</id>
+        <link href="https://www.nber.org/papers/w29577#fromrss"/>
+        <updated>2021-12-23T21:03:58.878Z</updated>
+        <summary type="html"><![CDATA[This paper studies the relevance of cognitive uncertainty – subjective uncertainty over one's utility-maximizing action – for understanding and predicting intertemporal choice. The main idea is that when people are cognitively noisy, such as when a decision is complex, they implicitly treat different time delays to some degree alike. By experimentally measuring and manipulating cognitive uncertainty, we document  three economic implications of this idea. First,  cognitive uncertainty explains various core empirical regularities, such as why people often appear very impatient, why per-period impatience is smaller over long than over short horizons, why discounting is often hyperbolic even when the present is not involved, and why choices frequently violate transitivity. Second, impatience is context-dependent: discounting is substantially more hyperbolic when the decision environment is more complex. Third, cognitive uncertainty matters for choice architecture: people who are nervous about making mistakes are twice as likely to follow expert advice to be more patient.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identifying Monetary Policy Shocks Using the Central Bank's Information Set -- by Ruediger Bachmann, Isabel Gödl-Hanisch, Eric R. Sims]]></title>
+        <id>https://www.nber.org/papers/w29572#fromrss</id>
+        <link href="https://www.nber.org/papers/w29572#fromrss"/>
+        <updated>2021-12-23T21:03:58.861Z</updated>
+        <summary type="html"><![CDATA[We identify monetary policy shocks by exploiting variation in the central bank’s information set. To be specific, we use differences between nowcasts of the output gap and inflation with final, revised estimates of these series to isolate movements in the policy rate unrelated to economic conditions. We then compute the effects of a monetary policy shock on the aggregate economy using local projection methods. We find that a contractionary monetary policy shock has a limited negative effect on output but a persistent negative impact on prices. In contrast to alternative identification approaches, we do not observe a price puzzle when analyzing the period from 1987 to 2008. Further, we validate the identification approach in a simple New Keynesian model, augmented by the assumption that the central bank observes the ingredients of the Taylor rule with error.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STEM Employment Resiliency During Recessions: Evidence from the COVID-19 Pandemic -- by James C. Davis, Holden A. Diethorn, Gerald R. Marschke, Andrew J. Wang]]></title>
+        <id>https://www.nber.org/papers/w29568#fromrss</id>
+        <link href="https://www.nber.org/papers/w29568#fromrss"/>
+        <updated>2021-12-23T21:03:58.839Z</updated>
+        <summary type="html"><![CDATA[Employment in STEM occupations suffered smaller peak-to-trough percentage declines than non-STEM occupations during the Great Recession and COVID-19 recession, suggesting a relative resiliency of STEM employment.  We exploit the sudden peak-to-trough declines in STEM and non-STEM employment during the COVID-19 recession to measure STEM recession-resiliency, decomposing our difference-in-differences estimate into parts explained by various sources.  We find that STEM knowledge importance on the job explains the greatest share of STEM employment resiliency, and that workers in non-STEM occupations who nonetheless use STEM knowledge experienced better employment outcomes. STEM employment resiliency may explain the mild effects of COVID-19 on innovative activity.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Pandemic Unemployment Benefits Reduce Employment? Evidence from Early State-Level Expirations in June 2021 -- by Harry  J. Holzer, R. Glenn Hubbard, Michael R. Strain]]></title>
+        <id>https://www.nber.org/papers/w29575#fromrss</id>
+        <link href="https://www.nber.org/papers/w29575#fromrss"/>
+        <updated>2021-12-23T21:03:58.807Z</updated>
+        <summary type="html"><![CDATA[The generosity of Unemployment Insurance (UI) benefits was expanded during the pandemic (FPUC), along with the groups of workers eligible for benefits (PUA). These two programs were set to expire in September 2021, but 18 states opted out of both in June 2021. Using Current Population Survey data, we present difference-in-difference and event study estimates that the flow of unemployed workers into employment increased by around two-thirds following early termination. We construct a counterfactual scenario that implies the national unemployment rate in each of July and August would have been around 0.3 percentage point lower than they were, and the employment-population ratio would have been around 0.1-0.2 percentage point higher than it was, had all states ended FPUC and PUA in June. Expanded eligibility and generosity of UI may have both slowed transitions from unemployment to employment. We also present some suggestive evidence that households with relatively high confidence in their ability to meet expenses may have been less sensitive to the termination of expanded benefits. Finally, we present evidence that early termination reduced the share of households that had no difficulty meeting expenses by five percent. The welfare implications of the early termination of FPUC and PUA are therefore ambiguous.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Use and Gender in Africa in Times of Structural Transformation -- by Taryn Dinkelman, L. Rachel Ngai]]></title>
+        <id>https://www.nber.org/papers/w29571#fromrss</id>
+        <link href="https://www.nber.org/papers/w29571#fromrss"/>
+        <updated>2021-12-23T21:03:58.779Z</updated>
+        <summary type="html"><![CDATA[Many African countries are still in the early stages of structural transformation. Typically, as economies move through the structural transformation, activities once conducted within the household are outsourced to the market. This has particular implications for women’s time use. In this paper, we document that current patterns of female time use in home production in several African countries closely resemble historical time use patterns in the US. We highlight two stylized facts about women’s time use in Africa. First, in North Africa, women spend very few hours in market work and female labor force participation overall is extremely low. Second, although extensive margin participation of women is high in sub-Saharan Africa, women tend to work in the market for only a few hours each week, with the rest of their work hours spent in home production. These two facts suggest two types of constraints that could slow down the reallocation of female time from home to market as economies grow: Social norms related to women’s market work, and a lack of infrastructure (e.g. household infrastructure and childcare facilities) to facilitate marketizing home production. We discuss recent empirical evidence related to each set of constraints and highlight new avenues for research.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Effects of Letters of Recommendation in the Youth Labor Market -- by Sara B. Heller, Judd B. Kessler]]></title>
+        <id>https://www.nber.org/papers/w29579#fromrss</id>
+        <link href="https://www.nber.org/papers/w29579#fromrss"/>
+        <updated>2021-12-23T21:03:58.714Z</updated>
+        <summary type="html"><![CDATA[Youth employment has been near historic lows in recent years, and racial gaps persist. This paper tests whether information frictions limit young people's labor market success with a field experiment involving over 43,000 youth in New York City. We build software that allows employers to quickly and easily produce letters of recommendation for randomly selected youth who worked under their supervision during a summer youth employment program. We then send these letters to nearly 9,000 youth over two years. Being sent a letter generates a 3 percentage point (4.5 percent) increase in employment the following year, with both employment and earnings increases persisting over the two-year follow-up period. By posting our own job advertisement, we document that while treatment youth do use the letters in applications, there is no evidence of other supply-side responses (i.e., no increased job search, motivation, or confidence); effects appear to be driven by the demand side. Labor market benefits accrue primarily to racial and ethnic minorities, suggesting frictions may contribute to racial employment gaps. But improved employment may also hamper on-time high school graduation. Additional evidence indicates that letters help improve job match quality. Results suggest that expanding the availability credible signals about young workers—particularly for those not on the margin of graduating high school—could improve the efficiency of the youth labor market.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hotels: Occupancy Rate Up 8% Compared to Same Week in 2019]]></title>
+        <id>http://www.calculatedriskblog.com/2021/12/hotels-occupancy-rate-up-8-compared-to.html</id>
+        <link href="http://www.calculatedriskblog.com/2021/12/hotels-occupancy-rate-up-8-compared-to.html"/>
+        <updated>2021-12-23T19:15:00.002Z</updated>
+        <summary type="html"><![CDATA[Note: Since occupancy declined sharply at the onset of the pandemic, CoStar is comparing to 2019.
+
+From CoStar: STR: US Hotels Surpass Performance Levels Seen in Comparable Week in 2019
+U.S. hotel performance surpassed the levels seen during the comparable week of 2019, according to STR‘s latest data through December 18.
+December 12-18, 2021 (percentage change from comparable week in 2019*):
+• Occupancy: 53.8% (+7.7%)
+• Average daily rate (ADR): US$121.87 (+11.6%)
+• Revenue per available room (RevPAR): US$65.61 (+20.2%)
+Percentage changes were in part lifted by the comparable week of 2019 (ending 21 December) being closer to Christmas.
+  
+*Due to the steep, pandemic-driven performance declines of 2020, STR is measuring recovery against comparable time periods from 2019.
+   emphasis added
+The following graph shows the seasonal pattern for the hotel occupancy rate using the four week average.
+Click on graph for larger image.
+The red line is for 2021, black is 2020, blue is the median, dashed purple is 2019, and dashed light blue is for 2009 (the worst year on record for hotels prior to 2020).
+
+Although down compared to 2019, the 4-week average of the occupancy rate is now above the median rate for the previous 20 years (Blue).
+
+
+Note: Y-axis doesn't start at zero to better show the seasonal change.
+
+
+The 4-week average of the occupancy rate will bottom seasonally over the next few weeks.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
         </author>
     </entry>
     <entry>
@@ -343,6 +375,16 @@ The scale might change soon (almost record number of new cases reported yesterda
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inflation narratives]]></title>
+        <id>https://voxeu.org/article/inflation-narratives</id>
+        <link href="https://voxeu.org/article/inflation-narratives"/>
+        <updated>2021-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inflation has recently surged in both the US and the EU. This column uses responses from surveys of a representative sample of the US population as well as academic economists and US firm managers to show that households and managers are more likely than experts to think that the current surge in inflation will be persistent. Since the narratives individuals use to explain movements in inflation appear central to whether inflation expectations remain anchored, communication strategies by policymakers could put emphasis on specific narratives that highlight that inflationary pressures are unlikely to persist.]]></summary>
+        <author>
+            <name>Peter Andre, Ingar  Haaland, Chris Roth, Johannes Wohlfart</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Uncovering the role of skills and diversity for firm productivity]]></title>
         <id>https://voxeu.org/article/uncovering-role-skills-and-diversity-firm-productivity</id>
         <link href="https://voxeu.org/article/uncovering-role-skills-and-diversity-firm-productivity"/>
@@ -360,16 +402,6 @@ The scale might change soon (almost record number of new cases reported yesterda
         <summary type="html"><![CDATA[The Covid-19 pandemic prompted an unprecedented fiscal stimulus by many governments to counter the economic recession. This column uses high-frequency data on government spending, lockdown restrictions, and economic indicators in the US to assess the effectiveness of fiscal policy. It shows that government spending increased employment, but only in cities not subject to strict stay-at-home restrictions. It also shows that consumer spending shifted strongly toward durable goods during the pandemic. Well-targeted fiscal measures will be crucial in the case of another recessionary outbreak, especially transfers to firms on the brink of exit.]]></summary>
         <author>
             <name>Alan Auerbach, Yuriy Gorodnichenko, Peter B. McCrory, Daniel Murphy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflation narratives]]></title>
-        <id>https://voxeu.org/article/inflation-narratives</id>
-        <link href="https://voxeu.org/article/inflation-narratives"/>
-        <updated>2021-12-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inflation has recently surged in both the US and the EU. This column uses responses from surveys of a representative sample of the US population as well as academic economists and US firm managers to show that households and managers are more likely than experts to think that the current surge in inflation will be persistent. Since the narratives individuals use to explain movements in inflation appear central to whether inflation expectations remain anchored, communication strategies by policymakers could put emphasis on specific narratives that highlight that inflationary pressures are unlikely to persist.]]></summary>
-        <author>
-            <name>Peter Andre, Ingar  Haaland, Chris Roth, Johannes Wohlfart</name>
         </author>
     </entry>
     <entry>
@@ -923,26 +955,6 @@ c. 음향
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Impacts of natural disasters on perceptions of others]]></title>
-        <id>https://voxeu.org/article/impacts-natural-disasters-perceptions-others</id>
-        <link href="https://voxeu.org/article/impacts-natural-disasters-perceptions-others"/>
-        <updated>2021-12-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Natural disasters can bring out the best in people, even between those who mistrusted one another before calamity struck. This column investigates how a natural disaster affected residents’ perceptions of each other in a region long divided by religious conflict. Using household survey data from Central Sulawesi, Indonesia, before and after the 2018 Sulawesi earthquake, it finds that victims expressed higher expectations for support from other religious groups going forward, suggesting that the experience of intergroup cooperation during the 2018 disaster raised expectations for cooperation during future emergencies.]]></summary>
-        <author>
-            <name>Yasuyuki Todo, Yuzuka Kashiwagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandemic inflation and nonlinear, global Phillips curves]]></title>
-        <id>https://voxeu.org/article/pandemic-inflation-and-nonlinear-global-phillips-curves</id>
-        <link href="https://voxeu.org/article/pandemic-inflation-and-nonlinear-global-phillips-curves"/>
-        <updated>2021-12-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[COVID-19 and the corresponding policy responses have generated uncertainty over inflation around the world. This column shows that when output exceeds potential, the upward pressure on prices (from reductions in slack) is far greater than any equivalent downward pressure (from increases in slack) when output is below potential. This nonlinearity in the Phillips curve, combined with the impact of global factors such as global commodity prices, global slack, exchange rates, and producer price competition, have played an important role in driving the sharp swings in inflation rates during COVID.]]></summary>
-        <author>
-            <name>Kristin Forbes, Joseph Gagnon, Christopher G. Collins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Higher profit taxes reduce firms’ R&D activities]]></title>
         <id>https://voxeu.org/article/higher-profit-taxes-reduce-firms-rd-activities</id>
         <link href="https://voxeu.org/article/higher-profit-taxes-reduce-firms-rd-activities"/>
@@ -960,6 +972,26 @@ c. 음향
         <summary type="html"><![CDATA[Today, one in four nations is governed by a populist. What will this mean for their economies? Moritz Schularick explains that a century of data suggests that the economic and institutional cost of populism is high and long-lasting.]]></summary>
         <author>
             <name>Moritz Schularick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impacts of natural disasters on perceptions of others]]></title>
+        <id>https://voxeu.org/article/impacts-natural-disasters-perceptions-others</id>
+        <link href="https://voxeu.org/article/impacts-natural-disasters-perceptions-others"/>
+        <updated>2021-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Natural disasters can bring out the best in people, even between those who mistrusted one another before calamity struck. This column investigates how a natural disaster affected residents’ perceptions of each other in a region long divided by religious conflict. Using household survey data from Central Sulawesi, Indonesia, before and after the 2018 Sulawesi earthquake, it finds that victims expressed higher expectations for support from other religious groups going forward, suggesting that the experience of intergroup cooperation during the 2018 disaster raised expectations for cooperation during future emergencies.]]></summary>
+        <author>
+            <name>Yasuyuki Todo, Yuzuka Kashiwagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandemic inflation and nonlinear, global Phillips curves]]></title>
+        <id>https://voxeu.org/article/pandemic-inflation-and-nonlinear-global-phillips-curves</id>
+        <link href="https://voxeu.org/article/pandemic-inflation-and-nonlinear-global-phillips-curves"/>
+        <updated>2021-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[COVID-19 and the corresponding policy responses have generated uncertainty over inflation around the world. This column shows that when output exceeds potential, the upward pressure on prices (from reductions in slack) is far greater than any equivalent downward pressure (from increases in slack) when output is below potential. This nonlinearity in the Phillips curve, combined with the impact of global factors such as global commodity prices, global slack, exchange rates, and producer price competition, have played an important role in driving the sharp swings in inflation rates during COVID.]]></summary>
+        <author>
+            <name>Kristin Forbes, Joseph Gagnon, Christopher G. Collins</name>
         </author>
     </entry>
     <entry>
@@ -1270,38 +1302,6 @@ This is usually published several times a week, and provides more in-depth analy
 
 The blog will continue as always!
 You can subscribe at https://calculatedrisk.substack.com/  Currently all content is available for free - and some will always be free - but please subscribe!.]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schedule for Week of December 19, 2021]]></title>
-        <id>http://www.calculatedriskblog.com/2021/12/schedule-for-week-of-december-19-2021.html</id>
-        <link href="http://www.calculatedriskblog.com/2021/12/schedule-for-week-of-december-19-2021.html"/>
-        <updated>2021-12-18T13:11:00.047Z</updated>
-        <summary type="html"><![CDATA[Happy Holidays and Merry Christmas!
-The key economic reports this week are New Home Sales, Existing Home Sales, the 3rd estimate of Q3 GDP, and November Personal income and outlays.
------ Monday, December 20th -----
-No major economic releases scheduled.
------ Tuesday, December 21st -----
-No major economic releases scheduled.
------ Wednesday, December 22nd -----
-7:00 AM ET: The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.
-8:30 AM: Gross Domestic Product, 3rd quarter 2021 (Third estimate). The second estimate of GDP was 2.1%.
-8:30 AM: Chicago Fed National Activity Index for November.  This is a composite index of other data.
-10:00 AM: Existing Home Sales for November from the National Association of Realtors (NAR).  The consensus is for 6.20 million SAAR, down from 6.34 million.
-The graph shows existing home sales from 1994 through the report last month.
-Housing economist Tom Lawler expects the NAR to report sales of 6.45 million SAAR for November.
------ Thursday, December 23rd -----
-8:30 AM: The initial weekly unemployment claims report will be released.  Initial claims were 206 thousand last week.
-8:30 AM: Durable Goods Orders for November. 
-8:30 AM: Personal Income and Outlays for November.  The consensus is for a 0.2% increase in personal income, and for a 1.0% increase in personal spending.
-10:00 AM: New Home Sales for November from the Census Bureau. 
-This graph shows New Home Sales since 1963. The dashed line is the sales rate for last month.
-New home sales were at 745 thousand in October.
-10:00 AM: University of Michigan's Consumer sentiment index (Final for December).
------ Friday, December 24th -----
-All US markets will be closed in observance of the Christmas Holiday.]]></summary>
         <author>
             <name>Calculated Risk</name>
         </author>
