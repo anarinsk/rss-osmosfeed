@@ -1,26 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-27T21:04:29.259Z</id>
+    <id>urn:2021-12-28T00:21:17.868Z</id>
     <title>anari: slimfeed</title>
-    <updated>2021-12-27T21:04:29.259Z</updated>
+    <updated>2021-12-28T00:21:17.868Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Forced Displacement and Human Capital: Evidence from Separated Siblings -- by Giorgio Chiovelli, Stelios Michalopoulos, Elias Papaioannou, Sandra Sequeira]]></title>
-        <id>https://www.nber.org/papers/w29589#fromrss</id>
-        <link href="https://www.nber.org/papers/w29589#fromrss"/>
-        <updated>2021-12-27T21:03:53.440Z</updated>
-        <summary type="html"><![CDATA[We examine the impact of conflict-driven displacement on human capital. We focus on the Mozambican civil war (1977–1992), during which more than four million civilians fled to the countryside, cities, and refugee camps and settlements in neighboring countries. We leverage the full post-war census to compare siblings separated during the war, using those who stayed behind as a counterfactual to one’s displacement path. Uprooted children register higher investments in education. Second, we quantify the relative importance of place-based and displacement effects. The latter increases education and decreases attachment to agriculture by the same rate as being exposed to an environment approximately one standard deviation more developed than one’s birthplace. Third, we conduct a survey in Nampula, whose population doubled during the civil war. Those who fled to the city have significantly higher education than their siblings who remained in the countryside and they converged to the levels of schooling of non-mover urban-born individuals. However, those displaced exhibit significantly lower social/civic capital and have worse mental health, even three decades after the war. These findings reveal that displacement shocks can trigger human capital investments, breaking links with subsistence agriculture, but at the cost of long-lasting, social, and psychological traumas.]]></summary>
+        <title type="html"><![CDATA[The Impact of the COVID-19 Vaccine Distribution on Mental Health Outcomes -- by Virat Agrawal, Jonathan H. Cantor, Neeraj Sood, Christopher M. Whaley]]></title>
+        <id>https://www.nber.org/papers/w29593#fromrss</id>
+        <link href="https://www.nber.org/papers/w29593#fromrss"/>
+        <updated>2021-12-28T00:20:31.604Z</updated>
+        <summary type="html"><![CDATA[The COVID-19 pandemic has led to a “second pandemic” of anxiety and depression. While vaccines are primarily aimed at reducing COVID-19 transmission and mortality risks, they may have important secondary benefits. We use data from U.S. Census Bureau’s Household Pulse Survey merged to state-level COVID-19 vaccination eligibility data to estimate the secondary benefits of COVID-19 vaccination on mental health outcomes. To address endogenous COVID-19 vaccination, we leverage state-level variation in the timing of when age groups are eligible for vaccination. We estimate that COVID-19 vaccination reduces anxiety and depression symptoms by nearly 30%. Nearly all the benefits are private benefits, and we find little evidence of spillover effects, that is, increases in community vaccination rates are not associated with improved anxiety or depression symptoms among the unvaccinated. We find that COVID-19 vaccination is associated with larger reductions in anxiety or depression symptoms among individuals with lower education levels, who rent their housing, who are not able to telework, and who have children in their household. The economic benefit of reductions in anxiety and depression are approximately $350 billion. Our results highlight an important, but understudied, secondary benefit of COVID-19 vaccinations.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Drives Variation in Investor Portfolios? Evidence from Retirement Plans -- by Mark L. Egan, Alexander MacKay, Hanbin Yang]]></title>
-        <id>https://www.nber.org/papers/w29604#fromrss</id>
-        <link href="https://www.nber.org/papers/w29604#fromrss"/>
-        <updated>2021-12-27T21:03:53.422Z</updated>
-        <summary type="html"><![CDATA[We study empirical patterns in investment behavior using a comprehensive data set of defined contribution plans. Using plan-level portfolio allocation data for the near universe of 401(k) plans over the period 2009-2019, we document substantial differences in investment behavior across plans. Plans with wealthier and more educated participants tend to have higher equity exposure while plans with more retirees and minorities tend to have lower equity exposure. These patterns cannot be explained by differences in 401(k) menus or participation costs. To help interpret these facts, we use a revealed preference approach to estimate investors' expectations of stock market returns and risk aversion, where we allow investors to have heterogeneous risk aversion and subjective and potentially biased beliefs. We find that there is substantial variation in both beliefs and risk aversion across investors and over time, and that both sources of variation help explain investors' portfolio decisions. We also provide new evidence to understand how investors form beliefs. We find that investors extrapolate beliefs from past fund returns even when they initially allocate portfolios in new plans. We also find that investors extrapolate beliefs about the market from the past performance of their employer, which suggests that investor experience helps shape beliefs.]]></summary>
+        <title type="html"><![CDATA[Zombie Lending and Policy Traps -- by Viral V. Acharya, Simone Lenzu, Olivier Wang]]></title>
+        <id>https://www.nber.org/papers/w29606#fromrss</id>
+        <link href="https://www.nber.org/papers/w29606#fromrss"/>
+        <updated>2021-12-28T00:20:31.590Z</updated>
+        <summary type="html"><![CDATA[We build a model with heterogeneous firms and banks to analyze how policy affects credit allocation and long-term economic outcomes. When firms are hit by small negative shocks, conventional monetary policy can restore efficient bank lending and production by lowering interest rates. Large shocks, however, necessitate unconventional policy such as regulatory forbearance towards banks to stabilize the economy. Aggressive accommodation runs the risk of introducing zombie lending and a “diabolical sorting”, whereby low-capitalization banks extend new credit or evergreen existing loans to low-productivity firms. If shocks reduce the profitability gap between healthy and zombie firms, the optimal forbearance policy is non-monotone in the size of the shock. In a dynamic setting, policy aimed at avoiding short-term recessions can be trapped into protracted low rates and excessive forbearance, due to congestion externalities imposed by zombie lending on healthier firms. The resulting economic sclerosis delays the recovery from transitory shocks, and can even lead to permanent output losses.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetary Policy and Endogenous Financial Crises -- by Frederic Boissay, Fabrice Collard, Jordi Galí, Cristina Manea]]></title>
+        <id>https://www.nber.org/papers/w29602#fromrss</id>
+        <link href="https://www.nber.org/papers/w29602#fromrss"/>
+        <updated>2021-12-28T00:20:31.576Z</updated>
+        <summary type="html"><![CDATA[We study whether a central bank should deviate from its objective of price stability to promote financial stability. We tackle this question within a textbook New Keynesian model augmented with capital accumulation and microfounded endogenous financial crises. We compare several interest rate rules, under which the central bank responds more or less forcefully to inflation and aggregate output. Our main findings are threefold. First, monetary policy affects the probability of a crisis both in the short run (through aggregate demand) and in the medium run (through savings and capital accumulation). Second, a central bank can both reduce the probability of a crisis and increase welfare by departing from strict inflation targeting and responding systematically to fluctuations in output. Third, financial crises may occur after a long period of unexpectedly loose monetary policy as the central bank abruptly reverses course.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choice Overload? Participation and Asset Allocation in French Employer-Sponsored Saving Plans -- by Marie Briere, James M. Poterba, Ariane Szafarz]]></title>
+        <id>https://www.nber.org/papers/w29601#fromrss</id>
+        <link href="https://www.nber.org/papers/w29601#fromrss"/>
+        <updated>2021-12-28T00:20:31.561Z</updated>
+        <summary type="html"><![CDATA[This paper employs administrative data from one of the largest plan providers in France to investigate the role of plan and default characteristics in affecting whether employees participate in the plan and whether they accept its default investment option. The dataset includes information on the saving choices of 680,392 active employees at 1,610 firms. French employers have wide discretion in structuring employee saving plans.  All plans must offer medium-term investments, which cannot be accessed for five years.  Employers may also offer long-term investments that cannot be accessed until retirement.  When plans include a long-term option, participation is lower than when the plan offers only more liquid medium term investments.  The presence of a long-term saving option also reduces the take-up of the plan’s default investment allocation, which must include a long-term component.  One interpretation of the findings, consistent with the theory of choice overload, is that some employees are unwilling to forego the liquidity of the medium-term option but find it costly to make an active election when they opt out of the default, and therefore choose not to participate in the plan at all.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Evidence of Strengthening Taxes and Spending For Sustainable Development -- by Joshua Aizenman, Yothin Jinjarak, Hien Nguyen, Donghyun Park]]></title>
+        <id>https://www.nber.org/papers/w29594#fromrss</id>
+        <link href="https://www.nber.org/papers/w29594#fromrss"/>
+        <updated>2021-12-28T00:20:31.545Z</updated>
+        <summary type="html"><![CDATA[We trace the linkages between the episodes of fiscal expansion and consolidation in 72 advanced and emerging and developing economies. The findings suggest that fiscal expansions are positively associated with economic growth, which in turn is positively linked with better sustainable development outcomes. The association between fiscal consolidation and growth as well as the sustainable development indicators, however, is not clear-cut. Jointly, more tax revenues and expenditures, together with better governance help explain the association between economic growth and inclusive development. High-income, high-tax-revenue, and manufacture-exporting economies have made significant progress on reducing disease-linked mortality and improving environment protection along with economic growth. Meanwhile, emerging and developing, low-tax-revenue, and commodity-exporting economies have gained notable improvement in poverty reduction, pre-primary enrolment and access to basic sanitation services and clean cooking fuels and technologies, and lowering bribery incidence. On average, the sampled economies have persistently achieved better primary goals such as sanitation, clean fuels and technologies. Achievements in mortality reduction, and environmental protection goals are shown more recently.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Well Managed Firms Make Better Forecasts? -- by Nicholas Bloom, Takafumi Kawakubo, Charlotte Meng, Paul Mizen, Rebecca Riley, Tatsuro Senga, John Van Reenen]]></title>
+        <id>https://www.nber.org/papers/w29591#fromrss</id>
+        <link href="https://www.nber.org/papers/w29591#fromrss"/>
+        <updated>2021-12-28T00:20:31.458Z</updated>
+        <summary type="html"><![CDATA[We link a new UK management survey covering 8,000 firms to panel data on productivity in manufacturing and services. There is a large variation in management practices, which are highly correlated with productivity, profitability and size. Uniquely, the survey collects firms’ micro forecasts of their own sales and also macro forecasts of GDP. We find that better managed firms make more accurate micro and macro forecasts, even after controlling for their size, age, industry and many other factors. We also show better managed firms appear aware that their forecasts are more accurate, with lower subjective uncertainty around central values. These stylized facts suggest that one reason for the superior performance of better managed firms is that they knowingly make more accurate forecasts, enabling them to make superior operational and strategic choices.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -29,7 +69,7 @@
         <title type="html"><![CDATA[Currency Wars, Trade Wars, and Global Demand -- by Olivier Jeanne]]></title>
         <id>https://www.nber.org/papers/w29603#fromrss</id>
         <link href="https://www.nber.org/papers/w29603#fromrss"/>
-        <updated>2021-12-27T21:03:53.378Z</updated>
+        <updated>2021-12-28T00:20:31.438Z</updated>
         <summary type="html"><![CDATA[This paper presents a tractable model of a global economy in which countries can use a broad range of policy instruments---the nominal interest rate, taxes on imports and exports, taxes on capital flows or foreign exchange interventions. Low demand may lead to unemployment because of downward nominal wage stickiness. Markov perfect equilibria with and without international cooperation are characterized in closed form. The welfare costs of trade and currency wars crucially depend on the state of global demand and on the policy instruments that are used by national policymakers. Countries have more incentives to deviate from free trade when global demand is low. Trade wars lower employment if they involve tariffs on imports but raise employment if they involve export subsidies. Tariff wars can lead to self-fulfilling global liquidity traps.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -39,38 +79,8 @@
         <title type="html"><![CDATA[Labor Reallocation and Remote Work During COVID-19: Real-time Evidence from GitHub -- by Grant R. McDermott, Benjamin Hansen]]></title>
         <id>https://www.nber.org/papers/w29598#fromrss</id>
         <link href="https://www.nber.org/papers/w29598#fromrss"/>
-        <updated>2021-12-27T21:03:53.323Z</updated>
+        <updated>2021-12-28T00:20:31.411Z</updated>
         <summary type="html"><![CDATA[We investigate the effect of the COVID-19 pandemic on labor activity using real-time data from millions of GitHub users around the world. We show that the pandemic triggered a sharp pattern of labor reallocation at both the global and regional level. Users were more likely to work on weekends and outside of traditional 9 am to 6 pm hours, especially during the early phase of the pandemic. We also document considerable heterogeneity between different user groups and locations. Some locations show a steady reversion back to historical work patterns, while others have experienced persistent trend deviations in the wake of COVID-19. The pattern of labor reallocation is slightly more pronounced among males in our sample, suggesting that men may have benefited more from the increased flexibility provided by remote work than women. Finally, we show that the pattern of reallocation was accompanied by a simultaneous increase in overall activity, though this effect is more transient. We discuss several potential mechanisms and draw tentative conclusions for broader workplace trends given our study population.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[College Majors and Skills: Evidence from the Universe of Online Job Ads -- by Steven W. Hemelt, Brad Hershbein, Shawn M. Martin, Kevin M. Stange]]></title>
-        <id>https://www.nber.org/papers/w29605#fromrss</id>
-        <link href="https://www.nber.org/papers/w29605#fromrss"/>
-        <updated>2021-12-27T21:03:53.309Z</updated>
-        <summary type="html"><![CDATA[We document the skill content of college majors as perceived by employers and expressed in the near universe of U.S. online job ads. Social and organizational skills are general in that they are sought by employers of almost all college majors, whereas other skills are more specialized. In turn, general majors––Business and General Engineering––have skill profiles similar to all majors; Nursing and Education are specialized. These cross-major differences in skill profiles explain considerable wage variation, with little role for within-major differences in skills across areas. College majors can thus be reasonably conceptualized as portable bundles of skills.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovation Networks and Innovation Policy -- by Ernest Liu, Song Ma]]></title>
-        <id>https://www.nber.org/papers/w29607#fromrss</id>
-        <link href="https://www.nber.org/papers/w29607#fromrss"/>
-        <updated>2021-12-27T21:03:53.277Z</updated>
-        <summary type="html"><![CDATA[We study the optimal allocation of R&D resources in an endogenous growth model with an innovation network, through which one sector’s past innovations may benefit other sectors’ future innovations. First, we provide closed-form sufficient statistics for the optimal path of R&D resource allocation, and we show that planners valuing long-term growth should allocate more R&D toward key sectors that are upstream in the innovation network. Second, we extend to an open-economy setting and illustrate an incentive for countries to free-ride on fundamental technologies: an economy more reliant on foreign knowledge spillovers has less incentive to direct resources toward innovation-upstream sectors, leading to cross-country differences in unilaterally optimal R&D allocations across sectors. Third, we build the global innovation network based on over 30 million global patents and establish its empirical importance for knowledge spillovers. Fourth, we apply the model to evaluate R&D allocations across countries and time. Adopting optimal R&D allocations can generate substantial welfare improvements across the globe. For the United States, R&D misallocation accounts for about 0.68 percentage points of missing annual growth since the 2000s.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inequality in India Declined During COVID -- by Arpit Gupta, Anup Malani, Bartosz Woda]]></title>
-        <id>https://www.nber.org/papers/w29597#fromrss</id>
-        <link href="https://www.nber.org/papers/w29597#fromrss"/>
-        <updated>2021-12-27T21:03:53.263Z</updated>
-        <summary type="html"><![CDATA[We use a large, representative panel data set from India with monthly data on household finances to examine the incidence of economic harms during the COVID pandemic.  We observe a sharp spike in poverty, peaking during India's sharp but short lockdown.  However, there was a striking decrease in income inequality outside the lockdown.  There was a smaller decrease in consumption inequality, likely due to consumption smoothing.  Evidence supports two mechanisms for the decline in income inequality: the capital income of top-quartile earners covaries more with aggregate income, and demand for labor fell more for higher quartiles.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -79,38 +89,38 @@
         <title type="html"><![CDATA[Racial Inequality in Unemployment Insurance Receipt and Take-Up -- by Elira Kuka, Bryan A. Stuart]]></title>
         <id>https://www.nber.org/papers/w29595#fromrss</id>
         <link href="https://www.nber.org/papers/w29595#fromrss"/>
-        <updated>2021-12-27T21:03:53.245Z</updated>
+        <updated>2021-12-28T00:20:31.374Z</updated>
         <summary type="html"><![CDATA[This paper studies differences in receipt and take-up of unemployment insurance (UI) benefits among white and Black individuals. We combine state-level UI regulations with data containing detailed information on individuals’ work history and UI receipt. Black individuals who separate from a job are 24% less likely to receive UI than whites. The UI receipt gap stems primarily from lower take-up of UI benefits among likely eligible individuals, as opposed to differences in benefit eligibility. Statistical decompositions indicate that about one-half of the take-up gap is explained by Black workers’ lower pre-unemployment earnings and higher tendency to live in the South.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zombie Lending and Policy Traps -- by Viral V. Acharya, Simone Lenzu, Olivier Wang]]></title>
-        <id>https://www.nber.org/papers/w29606#fromrss</id>
-        <link href="https://www.nber.org/papers/w29606#fromrss"/>
-        <updated>2021-12-27T21:03:53.197Z</updated>
-        <summary type="html"><![CDATA[We build a model with heterogeneous firms and banks to analyze how policy affects credit allocation and long-term economic outcomes. When firms are hit by small negative shocks, conventional monetary policy can restore efficient bank lending and production by lowering interest rates. Large shocks, however, necessitate unconventional policy such as regulatory forbearance towards banks to stabilize the economy. Aggressive accommodation runs the risk of introducing zombie lending and a “diabolical sorting”, whereby low-capitalization banks extend new credit or evergreen existing loans to low-productivity firms. If shocks reduce the profitability gap between healthy and zombie firms, the optimal forbearance policy is non-monotone in the size of the shock. In a dynamic setting, policy aimed at avoiding short-term recessions can be trapped into protracted low rates and excessive forbearance, due to congestion externalities imposed by zombie lending on healthier firms. The resulting economic sclerosis delays the recovery from transitory shocks, and can even lead to permanent output losses.]]></summary>
+        <title type="html"><![CDATA[What Drives Variation in Investor Portfolios? Evidence from Retirement Plans -- by Mark L. Egan, Alexander MacKay, Hanbin Yang]]></title>
+        <id>https://www.nber.org/papers/w29604#fromrss</id>
+        <link href="https://www.nber.org/papers/w29604#fromrss"/>
+        <updated>2021-12-28T00:20:31.348Z</updated>
+        <summary type="html"><![CDATA[We study empirical patterns in investment behavior using a comprehensive data set of defined contribution plans. Using plan-level portfolio allocation data for the near universe of 401(k) plans over the period 2009-2019, we document substantial differences in investment behavior across plans. Plans with wealthier and more educated participants tend to have higher equity exposure while plans with more retirees and minorities tend to have lower equity exposure. These patterns cannot be explained by differences in 401(k) menus or participation costs. To help interpret these facts, we use a revealed preference approach to estimate investors' expectations of stock market returns and risk aversion, where we allow investors to have heterogeneous risk aversion and subjective and potentially biased beliefs. We find that there is substantial variation in both beliefs and risk aversion across investors and over time, and that both sources of variation help explain investors' portfolio decisions. We also provide new evidence to understand how investors form beliefs. We find that investors extrapolate beliefs from past fund returns even when they initially allocate portfolios in new plans. We also find that investors extrapolate beliefs about the market from the past performance of their employer, which suggests that investor experience helps shape beliefs.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Choice Overload? Participation and Asset Allocation in French Employer-Sponsored Saving Plans -- by Marie Briere, James M. Poterba, Ariane Szafarz]]></title>
-        <id>https://www.nber.org/papers/w29601#fromrss</id>
-        <link href="https://www.nber.org/papers/w29601#fromrss"/>
-        <updated>2021-12-27T21:03:53.175Z</updated>
-        <summary type="html"><![CDATA[This paper employs administrative data from one of the largest plan providers in France to investigate the role of plan and default characteristics in affecting whether employees participate in the plan and whether they accept its default investment option. The dataset includes information on the saving choices of 680,392 active employees at 1,610 firms. French employers have wide discretion in structuring employee saving plans.  All plans must offer medium-term investments, which cannot be accessed for five years.  Employers may also offer long-term investments that cannot be accessed until retirement.  When plans include a long-term option, participation is lower than when the plan offers only more liquid medium term investments.  The presence of a long-term saving option also reduces the take-up of the plan’s default investment allocation, which must include a long-term component.  One interpretation of the findings, consistent with the theory of choice overload, is that some employees are unwilling to forego the liquidity of the medium-term option but find it costly to make an active election when they opt out of the default, and therefore choose not to participate in the plan at all.]]></summary>
+        <title type="html"><![CDATA[Inequality in India Declined During COVID -- by Arpit Gupta, Anup Malani, Bartosz Woda]]></title>
+        <id>https://www.nber.org/papers/w29597#fromrss</id>
+        <link href="https://www.nber.org/papers/w29597#fromrss"/>
+        <updated>2021-12-28T00:20:31.300Z</updated>
+        <summary type="html"><![CDATA[We use a large, representative panel data set from India with monthly data on household finances to examine the incidence of economic harms during the COVID pandemic.  We observe a sharp spike in poverty, peaking during India's sharp but short lockdown.  However, there was a striking decrease in income inequality outside the lockdown.  There was a smaller decrease in consumption inequality, likely due to consumption smoothing.  Evidence supports two mechanisms for the decline in income inequality: the capital income of top-quartile earners covaries more with aggregate income, and demand for labor fell more for higher quartiles.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring U.S. Core Inflation: The Stress Test of COVID-19 -- by Laurence M. Ball, Daniel Leigh, Prachi Mishra, Antonio Spilimbergo]]></title>
-        <id>https://www.nber.org/papers/w29609#fromrss</id>
-        <link href="https://www.nber.org/papers/w29609#fromrss"/>
-        <updated>2021-12-27T21:03:53.160Z</updated>
-        <summary type="html"><![CDATA[Large price changes in industries affected by the COVID-19 pandemic have caused erratic fluctuations in the U.S. headline inflation rate. This paper compares alternative approaches to filtering out the transitory effects of these industry price changes and measuring the underlying or core level of inflation over 2020-2021. The Federal Reserve’s preferred measure of core, the inflation rate excluding food and energy prices, has performed poorly: over most of 2020-21, it is almost as volatile as headline inflation. Measures of core that exclude a fixed set of additional industries, such as the Atlanta Fed’s sticky-price inflation rate, have been less volatile, but the least volatile have been measures that filter out large price changes in any industry, such as the Cleveland Fed’s median inflation rate and the Dallas Fed’s trimmed mean inflation rate. These core measures have followed smooth paths, drifting down when the economy was weak in 2020 and then rising as the economy has rebounded.]]></summary>
+        <title type="html"><![CDATA[Innovation Networks and Innovation Policy -- by Ernest Liu, Song Ma]]></title>
+        <id>https://www.nber.org/papers/w29607#fromrss</id>
+        <link href="https://www.nber.org/papers/w29607#fromrss"/>
+        <updated>2021-12-28T00:20:31.285Z</updated>
+        <summary type="html"><![CDATA[We study the optimal allocation of R&D resources in an endogenous growth model with an innovation network, through which one sector’s past innovations may benefit other sectors’ future innovations. First, we provide closed-form sufficient statistics for the optimal path of R&D resource allocation, and we show that planners valuing long-term growth should allocate more R&D toward key sectors that are upstream in the innovation network. Second, we extend to an open-economy setting and illustrate an incentive for countries to free-ride on fundamental technologies: an economy more reliant on foreign knowledge spillovers has less incentive to direct resources toward innovation-upstream sectors, leading to cross-country differences in unilaterally optimal R&D allocations across sectors. Third, we build the global innovation network based on over 30 million global patents and establish its empirical importance for knowledge spillovers. Fourth, we apply the model to evaluate R&D allocations across countries and time. Adopting optimal R&D allocations can generate substantial welfare improvements across the globe. For the United States, R&D misallocation accounts for about 0.68 percentage points of missing annual growth since the 2000s.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -119,18 +129,8 @@
         <title type="html"><![CDATA[Behavioral Responses to Supply-Side Drug Policy During the Opioid Epidemic -- by Simone Balestra, Helge Liebert, Nicole Maestas, Tisamarie B. Sherry]]></title>
         <id>https://www.nber.org/papers/w29596#fromrss</id>
         <link href="https://www.nber.org/papers/w29596#fromrss"/>
-        <updated>2021-12-27T21:03:53.118Z</updated>
+        <updated>2021-12-28T00:20:31.269Z</updated>
         <summary type="html"><![CDATA[We investigate behavioral responses to a staggered disruption in the supply of prescription opioids across U.S. states: the introduction of electronic Prescription Drug Monitoring Programs (PDMPs). Using administrative datasets, we find PDMPs curtail the proliferation of prescription opioids. Physicians respond to monitoring on the extensive margin, limiting the number of patients to whom they prescribe opioids without adjusting dosage or duration. This decreases supply to long-term opioid users, who evade the restrictions by acquiring prescriptions from out-of-state prescribers and by substituting to heroin. This causes a surge in heroin overdoses, which offsets reductions in hospitalizations and deaths from prescription opioids.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[International Evidence of Strengthening Taxes and Spending For Sustainable Development -- by Joshua Aizenman, Yothin Jinjarak, Hien Nguyen, Donghyun Park]]></title>
-        <id>https://www.nber.org/papers/w29594#fromrss</id>
-        <link href="https://www.nber.org/papers/w29594#fromrss"/>
-        <updated>2021-12-27T21:03:53.104Z</updated>
-        <summary type="html"><![CDATA[We trace the linkages between the episodes of fiscal expansion and consolidation in 72 advanced and emerging and developing economies. The findings suggest that fiscal expansions are positively associated with economic growth, which in turn is positively linked with better sustainable development outcomes. The association between fiscal consolidation and growth as well as the sustainable development indicators, however, is not clear-cut. Jointly, more tax revenues and expenditures, together with better governance help explain the association between economic growth and inclusive development. High-income, high-tax-revenue, and manufacture-exporting economies have made significant progress on reducing disease-linked mortality and improving environment protection along with economic growth. Meanwhile, emerging and developing, low-tax-revenue, and commodity-exporting economies have gained notable improvement in poverty reduction, pre-primary enrolment and access to basic sanitation services and clean cooking fuels and technologies, and lowering bribery incidence. On average, the sampled economies have persistently achieved better primary goals such as sanitation, clean fuels and technologies. Achievements in mortality reduction, and environmental protection goals are shown more recently.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -139,8 +139,38 @@
         <title type="html"><![CDATA[From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in England -- by Camille Terrier, Parag A. Pathak, Kevin Ren]]></title>
         <id>https://www.nber.org/papers/w29600#fromrss</id>
         <link href="https://www.nber.org/papers/w29600#fromrss"/>
-        <updated>2021-12-27T21:03:53.079Z</updated>
+        <updated>2021-12-28T00:20:31.230Z</updated>
         <summary type="html"><![CDATA[Countries and cities around the world increasingly rely on centralized systems to assign students to schools. Two algorithms, deferred acceptance (DA) and immediate acceptance (IA), are widespread. The latter is often criticized for harming disadvantaged families who fail to get access to popular schools. This paper investigates the effect of the national ban of the IA mechanism in England in 2008. Before the ban, 49 English local authorities used DA and 16 used IA. All IA local authorities switched to DA afterwards, giving rise to a cross-market difference-in-differences research design. Our results show that the elimination of IA reduces measures of school quality for low-SES students more than high-SES students. After the ban, low-SES students attend schools with lower value-added and more disadvantaged and low-achieving peers. This effect is primarily driven by a decrease in low-SES admissions at selective schools. Our findings point to an unintended consequence of the IA to DA transition: by encouraging high-SES parents to report their preferences truthfully, DA increases competition for top schools, which crowds out low-SES students.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[College Majors and Skills: Evidence from the Universe of Online Job Ads -- by Steven W. Hemelt, Brad Hershbein, Shawn M. Martin, Kevin M. Stange]]></title>
+        <id>https://www.nber.org/papers/w29605#fromrss</id>
+        <link href="https://www.nber.org/papers/w29605#fromrss"/>
+        <updated>2021-12-28T00:20:31.210Z</updated>
+        <summary type="html"><![CDATA[We document the skill content of college majors as perceived by employers and expressed in the near universe of U.S. online job ads. Social and organizational skills are general in that they are sought by employers of almost all college majors, whereas other skills are more specialized. In turn, general majors––Business and General Engineering––have skill profiles similar to all majors; Nursing and Education are specialized. These cross-major differences in skill profiles explain considerable wage variation, with little role for within-major differences in skills across areas. College majors can thus be reasonably conceptualized as portable bundles of skills.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring U.S. Core Inflation: The Stress Test of COVID-19 -- by Laurence M. Ball, Daniel Leigh, Prachi Mishra, Antonio Spilimbergo]]></title>
+        <id>https://www.nber.org/papers/w29609#fromrss</id>
+        <link href="https://www.nber.org/papers/w29609#fromrss"/>
+        <updated>2021-12-28T00:20:31.165Z</updated>
+        <summary type="html"><![CDATA[Large price changes in industries affected by the COVID-19 pandemic have caused erratic fluctuations in the U.S. headline inflation rate. This paper compares alternative approaches to filtering out the transitory effects of these industry price changes and measuring the underlying or core level of inflation over 2020-2021. The Federal Reserve’s preferred measure of core, the inflation rate excluding food and energy prices, has performed poorly: over most of 2020-21, it is almost as volatile as headline inflation. Measures of core that exclude a fixed set of additional industries, such as the Atlanta Fed’s sticky-price inflation rate, have been less volatile, but the least volatile have been measures that filter out large price changes in any industry, such as the Cleveland Fed’s median inflation rate and the Dallas Fed’s trimmed mean inflation rate. These core measures have followed smooth paths, drifting down when the economy was weak in 2020 and then rising as the economy has rebounded.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forced Displacement and Human Capital: Evidence from Separated Siblings -- by Giorgio Chiovelli, Stelios Michalopoulos, Elias Papaioannou, Sandra Sequeira]]></title>
+        <id>https://www.nber.org/papers/w29589#fromrss</id>
+        <link href="https://www.nber.org/papers/w29589#fromrss"/>
+        <updated>2021-12-28T00:20:30.534Z</updated>
+        <summary type="html"><![CDATA[We examine the impact of conflict-driven displacement on human capital. We focus on the Mozambican civil war (1977–1992), during which more than four million civilians fled to the countryside, cities, and refugee camps and settlements in neighboring countries. We leverage the full post-war census to compare siblings separated during the war, using those who stayed behind as a counterfactual to one’s displacement path. Uprooted children register higher investments in education. Second, we quantify the relative importance of place-based and displacement effects. The latter increases education and decreases attachment to agriculture by the same rate as being exposed to an environment approximately one standard deviation more developed than one’s birthplace. Third, we conduct a survey in Nampula, whose population doubled during the civil war. Those who fled to the city have significantly higher education than their siblings who remained in the countryside and they converged to the levels of schooling of non-mover urban-born individuals. However, those displaced exhibit significantly lower social/civic capital and have worse mental health, even three decades after the war. These findings reveal that displacement shocks can trigger human capital investments, breaking links with subsistence agriculture, but at the cost of long-lasting, social, and psychological traumas.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -149,38 +179,8 @@
         <title type="html"><![CDATA[Spatial Equilibria: The Case of Two Regions -- by Konstantin Kucheryavyy, Gary Lyn, Andrés Rodríguez-Clare]]></title>
         <id>https://www.nber.org/papers/w29592#fromrss</id>
         <link href="https://www.nber.org/papers/w29592#fromrss"/>
-        <updated>2021-12-27T21:03:53.064Z</updated>
+        <updated>2021-12-28T00:20:30.497Z</updated>
         <summary type="html"><![CDATA[In this paper we characterize the set of equilibria in a generalized version of the canonical two-region economic geography model that nests the class of models in Allen and Arkolakis (2014) as well as Krugman (1991). We show that the set of (regular) equilibria corresponds to the set of zeros of a function V(x), where x is the relative price of manufacturing goods produced in the two regions (adjusted by the trade elasticity). Using this approach, we provide sufficient conditions for uniqueness of equilibria that — in contrast to the well-know result in Allen and Arkolakis (2014) — allow for positive agglomeration externalities even in the absence of congestion effects, and highlight the key role played by three additional parameters: the trade elasticity, which regulates the strength of the dispersion force associated with the decline in the terms of trade caused by migration into a region; trade costs, which weaken this dispersion force by limiting trade across regions; and the importance of the agricultural sector, which pushes against agglomeration forces in manufacturing. We also discuss how asymmetries between the two regions tend to push against multiplicity.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monetary Policy and Endogenous Financial Crises -- by Frederic Boissay, Fabrice Collard, Jordi Galí, Cristina Manea]]></title>
-        <id>https://www.nber.org/papers/w29602#fromrss</id>
-        <link href="https://www.nber.org/papers/w29602#fromrss"/>
-        <updated>2021-12-27T21:03:51.683Z</updated>
-        <summary type="html"><![CDATA[We study whether a central bank should deviate from its objective of price stability to promote financial stability. We tackle this question within a textbook New Keynesian model augmented with capital accumulation and microfounded endogenous financial crises. We compare several interest rate rules, under which the central bank responds more or less forcefully to inflation and aggregate output. Our main findings are threefold. First, monetary policy affects the probability of a crisis both in the short run (through aggregate demand) and in the medium run (through savings and capital accumulation). Second, a central bank can both reduce the probability of a crisis and increase welfare by departing from strict inflation targeting and responding systematically to fluctuations in output. Third, financial crises may occur after a long period of unexpectedly loose monetary policy as the central bank abruptly reverses course.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Impact of the COVID-19 Vaccine Distribution on Mental Health Outcomes -- by Virat Agrawal, Jonathan H. Cantor, Neeraj Sood, Christopher M. Whaley]]></title>
-        <id>https://www.nber.org/papers/w29593#fromrss</id>
-        <link href="https://www.nber.org/papers/w29593#fromrss"/>
-        <updated>2021-12-27T21:03:51.613Z</updated>
-        <summary type="html"><![CDATA[The COVID-19 pandemic has led to a “second pandemic” of anxiety and depression. While vaccines are primarily aimed at reducing COVID-19 transmission and mortality risks, they may have important secondary benefits. We use data from U.S. Census Bureau’s Household Pulse Survey merged to state-level COVID-19 vaccination eligibility data to estimate the secondary benefits of COVID-19 vaccination on mental health outcomes. To address endogenous COVID-19 vaccination, we leverage state-level variation in the timing of when age groups are eligible for vaccination. We estimate that COVID-19 vaccination reduces anxiety and depression symptoms by nearly 30%. Nearly all the benefits are private benefits, and we find little evidence of spillover effects, that is, increases in community vaccination rates are not associated with improved anxiety or depression symptoms among the unvaccinated. We find that COVID-19 vaccination is associated with larger reductions in anxiety or depression symptoms among individuals with lower education levels, who rent their housing, who are not able to telework, and who have children in their household. The economic benefit of reductions in anxiety and depression are approximately $350 billion. Our results highlight an important, but understudied, secondary benefit of COVID-19 vaccinations.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do Well Managed Firms Make Better Forecasts? -- by Nicholas Bloom, Takafumi Kawakubo, Charlotte Meng, Paul Mizen, Rebecca Riley, Tatsuro Senga, John Van Reenen]]></title>
-        <id>https://www.nber.org/papers/w29591#fromrss</id>
-        <link href="https://www.nber.org/papers/w29591#fromrss"/>
-        <updated>2021-12-27T21:03:51.584Z</updated>
-        <summary type="html"><![CDATA[We link a new UK management survey covering 8,000 firms to panel data on productivity in manufacturing and services. There is a large variation in management practices, which are highly correlated with productivity, profitability and size. Uniquely, the survey collects firms’ micro forecasts of their own sales and also macro forecasts of GDP. We find that better managed firms make more accurate micro and macro forecasts, even after controlling for their size, age, industry and many other factors. We also show better managed firms appear aware that their forecasts are more accurate, with lower subjective uncertainty around central values. These stylized facts suggest that one reason for the superior performance of better managed firms is that they knowingly make more accurate forecasts, enabling them to make superior operational and strategic choices.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -390,7 +390,7 @@ From Black Knight: Mortgage Delinquencies Continue Steady Improvement; Active Fo
         <updated>2021-12-24T07:14:00.000Z</updated>
         <summary type="html"><![CDATA[기후금융 지속가능한 미래를 여는 열쇠
 박동규.김종대 지음 / 아딘크라 / 2021년 11월 / ISBN:9791189453121
-정가: 18,000원 / 판매가: 18,000원 / 마일리지: 97원
+정가: 18,000원 / 판매가: 18,000원 / 마일리지: 0원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -477,7 +477,7 @@ IV. 기후금융 자금조달 사례연구 및 시사점
         <updated>2021-12-24T03:22:00.000Z</updated>
         <summary type="html"><![CDATA[인공지능이 비즈니스 모델이 되기까지
 이지은.정석찬 지음 / 생능북스 / 2022년 01월 / ISBN:9788970505237
-정가: 21,000원 / 판매가: 18,900원 / 마일리지: 100원
+정가: 21,000원 / 판매가: 18,900원 / 마일리지: 1,050원
 이벤트: 수험서.대학교재-마스킹 테이프/젓가락/노트/지워지는 볼펜
 
 
@@ -607,7 +607,7 @@ The scale might change soon (almost record number of new cases reported recently
         <updated>2021-12-24T01:11:00.000Z</updated>
         <summary type="html"><![CDATA[시장을 뒤흔든 100명의 거인들
 켄 피셔 지음, 이건.김홍식 옮김 / 페이지2(page2) / 2021년 12월 / ISBN:9791190977531
-정가: 35,000원 / 판매가: 31,500원 / 마일리지: 131원
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
 이벤트: 불렛저널 2022 에디션 (대상도서 포함 국내도서 2만원 이상)
 
 
@@ -625,7 +625,7 @@ The scale might change soon (almost record number of new cases reported recently
 
 1장 공룡들
 001 메이어 암셸 로스차일드 Mayer Amschel Rothschild … 게토에서 나와 각광을 받다 
-002 네이선 로스차일드 Nathan Rothschi…]]></summary>
+002 네이선 로스차일드 Nathan Rothsc…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -651,16 +651,6 @@ The scale might change soon (almost record number of new cases reported recently
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New evidence on social mobility in Germany]]></title>
-        <id>https://voxeu.org/article/new-evidence-social-mobility-germany</id>
-        <link href="https://voxeu.org/article/new-evidence-social-mobility-germany"/>
-        <updated>2021-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[According to the OECD, social mobility in Germany is lower than in most other developed economies, reigniting a debate on equality of opportunity and shortcomings of the education system. This column discusses how census data can be used to obtain high quality mobility statistics for Germany. Using the Abitur educational qualification as a measure of opportunity, it suggests that relative mobility has remained constant for recent birth cohorts but points to substantial geographic variation in mobility measures across regions in the country.]]></summary>
-        <author>
-            <name>Majed Dodin, Sebastian Findeisen, Lukas Henkel, Dominik  Sachs, Paul Schüle</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How barriers to trade can be barriers to climate change adaptation]]></title>
         <id>https://voxeu.org/article/how-barriers-trade-can-be-barriers-climate-change-adaptation</id>
         <link href="https://voxeu.org/article/how-barriers-trade-can-be-barriers-climate-change-adaptation"/>
@@ -668,6 +658,16 @@ The scale might change soon (almost record number of new cases reported recently
         <summary type="html"><![CDATA[Global warming is expected to dramatically reduce agricultural productivity in hotter parts of the world. This column considers ways to accommodate that change. Hot, poor countries would benefit by shifting away from agriculture into less vulnerable, non-agricultural sectors as temperatures rise, but such a reallocation of resources is unlikely without a major increase in global trade integration. As long as poor countries import little of their food, they are likely to continue specialising in agriculture to meet domestic subsistence needs, even as their farms become increasingly vulnerable to climate change.]]></summary>
         <author>
             <name>Ishan Nath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New evidence on social mobility in Germany]]></title>
+        <id>https://voxeu.org/article/new-evidence-social-mobility-germany</id>
+        <link href="https://voxeu.org/article/new-evidence-social-mobility-germany"/>
+        <updated>2021-12-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[According to the OECD, social mobility in Germany is lower than in most other developed economies, reigniting a debate on equality of opportunity and shortcomings of the education system. This column discusses how census data can be used to obtain high quality mobility statistics for Germany. Using the Abitur educational qualification as a measure of opportunity, it suggests that relative mobility has remained constant for recent birth cohorts but points to substantial geographic variation in mobility measures across regions in the country.]]></summary>
+        <author>
+            <name>Majed Dodin, Sebastian Findeisen, Lukas Henkel, Dominik  Sachs, Paul Schüle</name>
         </author>
     </entry>
     <entry>
@@ -807,7 +807,7 @@ Weekly claims were at the consensus forecast.]]></summary>
         <updated>2021-12-23T07:47:00.000Z</updated>
         <summary type="html"><![CDATA[신시대 중국의 미래
 김인규 지음 / 푸른사상 / 2021년 12월 / ISBN:9791130818771
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 109원
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -890,8 +890,8 @@ Weekly claims were at the consensus forecast.]]></summary>
         <updated>2021-12-23T06:41:00.000Z</updated>
         <summary type="html"><![CDATA[[세트] 거꾸로 읽는 세계사 + 앞으로 100년 - 전2권
 이언 골딘 외 지음, 권태형 외 옮김 / 알라딘 이벤트 / 2021년 11월 / ISBN:
-정가: 49,500원 / 판매가: 44,550원 / 마일리지: 191원
-이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+정가: 49,500원 / 판매가: 44,550원 / 마일리지: 2,470원
+이벤트:  유시민 X 이진우
 
 
 
@@ -1039,16 +1039,6 @@ The scale might change soon (almost record number of new cases reported yesterda
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uncovering the role of skills and diversity for firm productivity]]></title>
-        <id>https://voxeu.org/article/uncovering-role-skills-and-diversity-firm-productivity</id>
-        <link href="https://voxeu.org/article/uncovering-role-skills-and-diversity-firm-productivity"/>
-        <updated>2021-12-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rising dispersion in productivity across firms has focused attention on the drivers of superior performances of a minority of firms at the ‘productivity frontier’ and disappointing performances of the remaining ‘productivity laggards’. This column brings together data from ten countries to explore how differences in productivity outcomes of frontier and laggard firms depend on the composition, diversity, and competencies of their managers and their workers. Overall, this ‘human side’ explains about a third of the observed differences in productivity across firms, more than is accounted for by differences in capital intensity.]]></summary>
-        <author>
-            <name>Chiara Criscuolo, Peter Gal, Timo Leidecker, Giuseppe Nicoletti</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Covid-19 teaches us about fiscal multipliers]]></title>
         <id>https://voxeu.org/article/what-covid-19-teaches-us-about-fiscal-multipliers</id>
         <link href="https://voxeu.org/article/what-covid-19-teaches-us-about-fiscal-multipliers"/>
@@ -1066,6 +1056,16 @@ The scale might change soon (almost record number of new cases reported yesterda
         <summary type="html"><![CDATA[Inflation has recently surged in both the US and the EU. This column uses responses from surveys of a representative sample of the US population as well as academic economists and US firm managers to show that households and managers are more likely than experts to think that the current surge in inflation will be persistent. Since the narratives individuals use to explain movements in inflation appear central to whether inflation expectations remain anchored, communication strategies by policymakers could put emphasis on specific narratives that highlight that inflationary pressures are unlikely to persist.]]></summary>
         <author>
             <name>Peter Andre, Ingar  Haaland, Chris Roth, Johannes Wohlfart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncovering the role of skills and diversity for firm productivity]]></title>
+        <id>https://voxeu.org/article/uncovering-role-skills-and-diversity-firm-productivity</id>
+        <link href="https://voxeu.org/article/uncovering-role-skills-and-diversity-firm-productivity"/>
+        <updated>2021-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rising dispersion in productivity across firms has focused attention on the drivers of superior performances of a minority of firms at the ‘productivity frontier’ and disappointing performances of the remaining ‘productivity laggards’. This column brings together data from ten countries to explore how differences in productivity outcomes of frontier and laggard firms depend on the composition, diversity, and competencies of their managers and their workers. Overall, this ‘human side’ explains about a third of the observed differences in productivity across firms, more than is accounted for by differences in capital intensity.]]></summary>
+        <author>
+            <name>Chiara Criscuolo, Peter Gal, Timo Leidecker, Giuseppe Nicoletti</name>
         </author>
     </entry>
     <entry>
@@ -1177,7 +1177,7 @@ Mortgage applications decreased 0.6 percent from  one week earlier, according to
         <updated>2021-12-22T07:22:00.000Z</updated>
         <summary type="html"><![CDATA[반도체 대전 2030
 황정수 지음 / 한국경제신문 / 2021년 12월 / ISBN:9788947547758
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 65원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -1329,7 +1329,7 @@ CHAPTER 4 | HTTP 요청과 응답 125
         <updated>2021-12-22T02:30:00.000Z</updated>
         <summary type="html"><![CDATA[선박투자 이야기
 김우석 지음 / 하움출판사 / 2022년 01월 / ISBN:9791164408962
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 69원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -1687,7 +1687,7 @@ The scale might change soon (almost record number of new cases reported today).]
         <updated>2021-12-21T05:03:00.000Z</updated>
         <summary type="html"><![CDATA[문성유의 뉴 노멀 시대와 제주의 미래
 문성유 지음 / KSS(노하우석세스시스템) / 2021년 12월 / ISBN:9788997942411
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 58원
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -1771,7 +1771,7 @@ PART IV. 경제의 민낯 / 알믄 쉽고 모르면 왁왁 경제
         <updated>2021-12-21T00:35:00.000Z</updated>
         <summary type="html"><![CDATA[돈 버는 NFT 처음부터 제대로 만들고 판매하기
 이영호 지음 / 흔들의자 / 2022년 01월 / ISBN:9791186787403
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 94원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -1965,7 +1965,7 @@ Chapter 08 오토 인코더의 응용
         <updated>2021-12-20T02:18:00.000Z</updated>
         <summary type="html"><![CDATA[디지털 리더십
 임일.이무원 지음 / 클라우드나인 / 2021년 12월 / ISBN:9791191334401
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 68원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -1975,7 +1975,7 @@ Chapter 08 오토 인코더의 응용
 
 그럼 디지털 리더십이란 무엇인가? 기존 리더십과는 무엇이 다른가? 이 책에서는 디지털 리더십이란 현재 그리고 앞으로 어떤 디지털 기술을 어떻게 비즈니스에 활용할지에 대한 통찰력을 바탕으로 비즈니스를 이끌어가는 것이라고 정의한다. 디지털 리더십을 갖추려면 디지털 기술에 대한 이해, 디지털 기술 활용으로 얻을 수 있는 비즈니스 기회를 포착하는 통찰력, 그리고 디지털 기술을 효과적으로 실현하는 실행력 등이 필요하다는 것이다.
 
-리더들은 디지털 리더가 되기 위해 진정한 경계인이 …]]></summary>
+리더들은 디지털 리더가 되기 위해 진정한 경계인이…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -1987,7 +1987,7 @@ Chapter 08 오토 인코더의 응용
         <updated>2021-12-20T02:08:00.000Z</updated>
         <summary type="html"><![CDATA[실직 도시
 방준호 지음 / 부키 / 2021년 12월 / ISBN:9788960519039
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 53원
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2166,7 +2166,7 @@ SECTION 05 기본 데이터형
         <updated>2021-12-16T04:35:00.000Z</updated>
         <summary type="html"><![CDATA[위험측정 및 활용
 김철중.박종원 지음 / 한국금융연수원 / 2021년 12월 / ISBN:9788928726905
-정가: 20,000원 / 판매가: 20,000원 / 마일리지: 116원
+정가: 20,000원 / 판매가: 20,000원 / 마일리지: 600원
 이벤트: 수험서.대학교재-마스킹 테이프/젓가락/노트/지워지는 볼펜
 
 
@@ -2677,7 +2677,7 @@ Chapter 05 연산자
         <updated>2021-12-14T02:22:00.000Z</updated>
         <summary type="html"><![CDATA[본질적인 제임스 뷰캐넌
 도널드 J. 부드로.랜들 G. 홀콤 지음, 황수연 옮김 / 리버티 / 2021년 12월 / ISBN:9788998766269
-정가: 12,000원 / 판매가: 10,800원 / 마일리지: 45원
+정가: 12,000원 / 판매가: 10,800원 / 마일리지: 600원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2736,7 +2736,7 @@ Chapter 05 연산자
         <updated>2021-12-14T01:01:00.000Z</updated>
         <summary type="html"><![CDATA[실증의 다리를 건너 세계로
 한국기술사회 지음 / 렛츠북 / 2021년 12월 / ISBN:9791160545036
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 102원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2790,7 +2790,7 @@ Chapter 05 연산자
         <updated>2021-12-14T00:30:00.000Z</updated>
         <summary type="html"><![CDATA[오히려 좋아, 인플레이션
 신동원 지음 / 길벗 / 2021년 12월 / ISBN:9791165218089
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 63원
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2876,7 +2876,7 @@ Chapter 05 연산자
         <updated>2021-12-13T05:20:00.000Z</updated>
         <summary type="html"><![CDATA[모두의 기본소득, 재원을 마련하다
 유영성 외 지음, 경기연구원 엮음 / 다할미디어 / 2021년 12월 / ISBN:9791191656152
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 107원
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3052,7 +3052,7 @@ Chapter 11. 브라우저의 랜더링 과정
         <updated>2021-12-13T01:22:00.000Z</updated>
         <summary type="html"><![CDATA[기술금융기초
 김대철.최정현 지음 / 한국금융연수원 / 2021년 11월 / ISBN:9788928726899
-정가: 22,000원 / 판매가: 22,000원 / 마일리지: 108원
+정가: 22,000원 / 판매가: 22,000원 / 마일리지: 660원
 이벤트: 수험서.대학교재-마스킹 테이프/젓가락/노트/지워지는 볼펜
 
 
@@ -3182,7 +3182,7 @@ chapter 07 상관관계 분석
         <updated>2021-12-10T07:05:00.000Z</updated>
         <summary type="html"><![CDATA[디지털 신세계 메타버스를 선점하라
 자오궈둥.이환환.쉬위엔중 지음, 정주은 옮김, 김정이 감수 / 미디어숲 / 2022년 01월 / ISBN:9791158741365
-정가: 18,800원 / 판매가: 16,920원 / 마일리지: 73원
+정가: 18,800원 / 판매가: 16,920원 / 마일리지: 940원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3261,7 +3261,7 @@ chapter 07 상관관계 분석
         <updated>2021-12-10T06:06:00.000Z</updated>
         <summary type="html"><![CDATA[시세를 연구한다
 구라쓰 야스유키 지음, 전파과학사편집부 옮김 / 전파과학사 / 2021년 11월 / ISBN:9788970449951
-정가: 15,000원 / 판매가: 14,250원 / 마일리지: 59원
+정가: 15,000원 / 판매가: 14,250원 / 마일리지: 750원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3293,7 +3293,7 @@ chapter 07 상관관계 분석
         <updated>2021-12-10T05:50:00.000Z</updated>
         <summary type="html"><![CDATA[블록체인 산업 지도를 바꾼다
 비피기술거래 지음 / 비피기술거래 / 2021년 12월 / ISBN:9791161825397
-정가: 60,000원 / 판매가: 54,000원 / 마일리지: 218원
+정가: 60,000원 / 판매가: 54,000원 / 마일리지: 3,000원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3943,7 +3943,7 @@ SECTION 04 데이터 형식과 배열
         <updated>2021-12-08T04:25:00.000Z</updated>
         <summary type="html"><![CDATA[부동산 버블 붕괴는 어쩌다 시작되었나
 강철구 지음 / 어문학사 / 2021년 12월 / ISBN:9788961849852
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 62원
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3999,7 +3999,7 @@ SECTION 04 데이터 형식과 배열
         <updated>2021-12-08T03:06:00.000Z</updated>
         <summary type="html"><![CDATA[케인스 경제학을 찾아서
 마크 G. 헤이스 지음, 현동균 옮김 / 한울(한울아카데미) / 2021년 12월 / ISBN:9788946073289
-정가: 56,000원 / 판매가: 56,000원 / 마일리지: 255원
+정가: 56,000원 / 판매가: 56,000원 / 마일리지: 560원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -4041,7 +4041,7 @@ SECTION 04 데이터 형식과 배열
         <updated>2021-12-08T02:33:00.000Z</updated>
         <summary type="html"><![CDATA[왜 우리는 불평등한가
 이정우 지음 / EBS BOOKS / 2021년 11월 / ISBN:9788954761451
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 69원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
 이벤트: EBS Class e 인문교양 시리즈 구매 시, 펭수 키링
 
 
@@ -4082,7 +4082,7 @@ SECTION 04 데이터 형식과 배열
         <updated>2021-12-07T02:56:00.000Z</updated>
         <summary type="html"><![CDATA[2050 수소에너지
 백문석 외 지음 / 라온북 / 2021년 12월 / ISBN:9791192072104
-정가: 20,000원 / 판매가: 18,000원 / 마일리지: 68원
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 1,000원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -4167,7 +4167,7 @@ CCUS 기술 현황과 전망
         <updated>2021-12-07T01:14:00.000Z</updated>
         <summary type="html"><![CDATA[세계지식포럼 인사이트 2022
 매일경제 세계지식포럼 사무국 지음 / 매일경제신문사 / 2021년 12월 / ISBN:9791164843572
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 65원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
 이벤트: 12월 특별선물! 책갈피, 방석, 패딩 가방 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
