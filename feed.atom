@@ -1,106 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-05T00:23:16.540Z</id>
+    <id>urn:2022-01-05T03:07:42.319Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-01-05T00:23:16.540Z</updated>
+    <updated>2022-01-05T03:07:42.319Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Vertical Differentiation in Frictional Product Markets -- by James Albrecht, Guido Menzio, Susan Vroman]]></title>
-        <id>https://www.nber.org/papers/w29618#fromrss</id>
-        <link href="https://www.nber.org/papers/w29618#fromrss"/>
-        <updated>2022-01-05T00:22:29.455Z</updated>
-        <summary type="html"><![CDATA[We consider a version of the imperfect competition model of Butters (1977), Varian (1980) and Burdett and Judd (1983) in which sellers make an ex-ante investment in the quality of their variety of the product. Equilibrium exists, is unique and is efficient. In equilibrium, search frictions not only cause sellers to offer different surpluses to buyers but also cause sellers to choose different qualities for their varieties. That is, equilibrium involves endogenous vertical differentiation. As search frictions decline, the market becomes more and more unequal as a smaller and smaller fraction of sellers produces varieties of increasing quality, offers increasing surplus to their customers, and captures an increasing share of the market, while a growing fraction of sellers produces varieties of decreasing quality. Gains from trade and welfare grow. Under some conditions, the growth rate of gains from trade and welfare is constant.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Marginal Cost of Mortality Risk Reduction: Evidence from Housing Markets -- by Kelly Bishop, Nicolai V. Kuminoff, Sophie Mathes, Alvin Murphy]]></title>
-        <id>https://www.nber.org/papers/w29622#fromrss</id>
-        <link href="https://www.nber.org/papers/w29622#fromrss"/>
-        <updated>2022-01-05T00:22:29.202Z</updated>
-        <summary type="html"><![CDATA[We provide the first evidence that spatial variation in all-cause mortality risk is capitalized into US housing prices. Using a hedonic framework, we recover the annual implicit cost of a 0.1 percentage-point reduction in mortality risk among older Americans and find that this figure is both relatively low and decreasing in age, from $1,346 for a 67 year old to $246 for an 87 year old. These estimates are one-fifth of the size of comparable estimates found in the labor market, suggesting that the housing market provides an alternative, substantially cheaper channel to reducing mortality risk.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preemptive Policies and Risk-Off Shocks in Emerging Markets -- by Mitali Das, Gita Gopinath, Ṣebnem Kalemli-Özcan]]></title>
-        <id>https://www.nber.org/papers/w29615#fromrss</id>
-        <link href="https://www.nber.org/papers/w29615#fromrss"/>
-        <updated>2022-01-05T00:22:29.185Z</updated>
-        <summary type="html"><![CDATA[We show that “preemptive” capital flow management measures (CFM) can reduce emerging markets and developing countries’ (EMDE) external finance premia during risk-off shocks, especially for vulnerable countries. Using a panel dataset of 56 EMDEs during 1996–2020 at monthly frequency, we document that countries with preemptive policies in place during the five year window before risk-off shocks experienced relatively lower external finance premia and exchange rate volatility during the shock compared to countries which did not have such pre-emptive policies in place. We use the episodes of Taper Tantrum and COVID-19 as risk-off shocks. Our identification relies on a difference-in-differences methodology with country fixed effects where preemptive policies are ex-ante by construction and cannot be put in place as a response to the shock ex-post. We control the effects of other policies, such as monetary policy, foreign exchange interventions (FXI), easing of inflow CFMs and tightening of outflow CFMs that are used in response to the risk-off shocks. By reducing the impact of risk-off shocks on countries’ funding costs and exchange rate volatility, preemptive policies enable countries’ continued access to international capital markets during troubled times.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Causal Inference from Hypothetical Evaluations -- by B. Douglas Bernheim, Daniel Bjorkegren, Jeffrey Naecker, Michael Pollmann]]></title>
-        <id>https://www.nber.org/papers/w29616#fromrss</id>
-        <link href="https://www.nber.org/papers/w29616#fromrss"/>
-        <updated>2022-01-05T00:22:29.155Z</updated>
-        <summary type="html"><![CDATA[This paper explores methods for inferring the causal effects of treatments on choices by combining data on real choices with hypothetical evaluations. We propose a class of estimators, identify conditions under which they yield consistent estimates, and derive their asymptotic distributions. The approach is applicable in settings where standard methods cannot be used (e.g., due to the absence of helpful instruments, or because the treatment has not been implemented). It can recover heterogeneous treatment effects more comprehensively, and can improve precision. We provide proof of concept using data generated in a laboratory experiment and through a field application.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Political Economy of Anti-Bribery Enforcement -- by Lauren Cohen, Bo Li]]></title>
-        <id>https://www.nber.org/papers/w29624#fromrss</id>
-        <link href="https://www.nber.org/papers/w29624#fromrss"/>
-        <updated>2022-01-05T00:22:29.138Z</updated>
-        <summary type="html"><![CDATA[This paper documents novel evidence on the influence of political incentives in the regulatory enforcement of foreign bribery. Using exogenous variation in the timing and geographic location of U.S. Congressional elections, we find that the probability of a Foreign Corrupt Practices Act (FCPA) enforcement action against foreign firms located in the Senator’s jurisdiction increases significantly pre-election, spiking 23%, with zero equivalent move for equivalently global (but domestic-headquartered) firms in the Senator’s jurisdiction. Using hand-collected case-level data from the U.S. SEC and DOJ, we also observe larger discretion in regions where foreign firms are larger global competitors of in-state firms, operate in locally important industries, and when Senators serve as the Chairman of the Senate Judiciary Committee (which oversees the DOJ). Anti-bribery enforcement has electoral implications, leading to spikes in media coverage of the FCPA enforcement coupled with greater vote shares for the Senator. Moreover, the cases pushed through against these foreign firms just prior to elections appear to be weaker cases. The enforcements result in real effects, as in response to strategic timing in enforcement, firms reallocate business segments and sales.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worker Beliefs About Outside Options -- by Simon Jäger, Christopher Roth, Nina Roussille, Benjamin Schoefer]]></title>
-        <id>https://www.nber.org/papers/w29623#fromrss</id>
-        <link href="https://www.nber.org/papers/w29623#fromrss"/>
-        <updated>2022-01-05T00:22:29.126Z</updated>
-        <summary type="html"><![CDATA[Workers wrongly anchor their beliefs about outside options on their current wage. In particular, low-paid workers underestimate wages elsewhere. We document this anchoring bias by eliciting workers’ beliefs in a representative survey in Germany and comparing them to measures of actual outside options in linked administrative labor market data. In an equilibrium model, such anchoring can give rise to monopsony and labor market segmentation. In line with the model, misperceptions are particularly pronounced among workers in low-wage firms. If workers had correct beliefs, at least 10% of jobs, concentrated in low-wage firms, would not be viable at current wages.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Fiscal Policy in a Networked Economy -- by Joel P. Flynn, Christina Patterson, John Sturm]]></title>
         <id>https://www.nber.org/papers/w29619#fromrss</id>
         <link href="https://www.nber.org/papers/w29619#fromrss"/>
-        <updated>2022-01-05T00:22:29.097Z</updated>
+        <updated>2022-01-05T03:07:07.294Z</updated>
         <summary type="html"><![CDATA[Advanced economies feature complicated networks that connect households, ﬁrms, and regions. How do these structures aﬀect the impact of ﬁscal policy and its optimal targeting? We study these questions in a model with input-output linkages, regional structure, and household heterogeneity in MPCs, consumption baskets, and shock exposures. Theoretically, we derive estimable formulae for the eﬀects of ﬁscal policies on aggregate GDP, or ﬁscal multipliers, and show how network structures determine their size. Empirically, we ﬁnd that multipliers vary substantially across policies, so targeting is important. Beneath these aggregate eﬀects are large spatial and sectoral spillovers from policies directed to any one ﬁrm or household. However, virtually all variation in multipliers stems from diﬀerences in policies’ direct incidence onto households’ MPCs. Thus, while the distributional eﬀects of ﬁscal policy depend on the detailed structure of the economy, maximally expansionary ﬁscal policy simply targets households’ MPCs.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estimating the Effects of Milk Inspections on Infant and Child Mortality, 1880-1910 -- by D. Mark Anderson, Kerwin Kofi Charles, Michael McKelligott, Daniel I. Rees]]></title>
-        <id>https://www.nber.org/papers/w29620#fromrss</id>
-        <link href="https://www.nber.org/papers/w29620#fromrss"/>
-        <updated>2022-01-05T00:22:29.079Z</updated>
-        <summary type="html"><![CDATA[In the mid-19th century, the urban milk supply in the United States was regularly skimmed or diluted with water, reducing its nutritional value. At the urging of public health experts, cities across the country hired milk inspectors, who were tasked with collecting and analyzing milk samples with the goal of preventing adulteration and skimming. Using city-level data for the period 1880-1910, we explore the effects of milk inspections on infant mortality and mortality among children under the age of 5. Event-study estimates are small and statistically insignificant, providing little evidence of post-treatment reductions in either infant or child mortality.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The COVID-19 Pandemic Disrupted Both School Bullying and Cyberbullying -- by Andrew Bacher-Hicks, Joshua Goodman, Jennifer G. Green, Melissa Holt]]></title>
-        <id>https://www.nber.org/papers/w29590#fromrss</id>
-        <link href="https://www.nber.org/papers/w29590#fromrss"/>
-        <updated>2022-01-05T00:22:29.027Z</updated>
-        <summary type="html"><![CDATA[One-fifth of U.S. high school students report being bullied each year. We use internet search data for real-time tracking of bullying patterns as COVID-19 disrupted in-person schooling. We first show that, prepandemic, internet searches contain useful information about actual bullying behavior. We then show that searches for school bullying and cyberbullying dropped 30-35 percent as schools shifted to remote learning in spring 2020. The gradual return to in-person instruction starting in fall 2020 partially returns bullying searches to pre-pandemic levels. This rare positive effect may partly explain recent mixed evidence on the pandemic’s impact on students’ mental health and well-being.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physician Group Influences on Treatment Intensity and Health: Evidence from Physician Switchers -- by Joseph J. Doyle Jr., Becky Staiger]]></title>
-        <id>https://www.nber.org/papers/w29613#fromrss</id>
-        <link href="https://www.nber.org/papers/w29613#fromrss"/>
-        <updated>2022-01-05T00:22:28.993Z</updated>
-        <summary type="html"><![CDATA[Treatment intensity varies remarkably across physicians, yet the key drivers are not well understood. Meanwhile, the organization of healthcare is undergoing a secular transformation as physicians increasingly work in groups. This paper tests whether physicians' group affiliation matters for practice styles and patient health. Using Medicare inpatient claims data, we compare these outcomes before and after physicians switch between groups of varying treatment intensity while remaining in the same hospital to control for practice setting. Event studies show that internists who join more-intensive groups immediately increase their own treatment intensity, with an elasticity of approximately 0.3; the opposite is found for internists who switch to groups that are less intensive. This change in Medicare spending largely stems from greater quantities of care provided, with some evidence of a change in coding behavior.  We do not detect a change in health outcomes, suggesting that treatment intensity induced by group affiliation may not be productive.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -109,38 +19,38 @@
         <title type="html"><![CDATA[Mandated vs. Voluntary Adaptation to Natural Disasters: The Case of U.S. Wildfires -- by Patrick W. Baylis, Judson Boomhower]]></title>
         <id>https://www.nber.org/papers/w29621#fromrss</id>
         <link href="https://www.nber.org/papers/w29621#fromrss"/>
-        <updated>2022-01-05T00:22:28.982Z</updated>
+        <updated>2022-01-05T03:07:07.281Z</updated>
         <summary type="html"><![CDATA[Despite escalating disaster losses and predicted increases in weather-related catastrophes, takeup of protective technologies and behaviors appears limited by myopia, externalities, and other factors. One response to such frictions is to mandate adaptive investment. We measure the effect of California's wildfire building codes on own- and neighboring structure survival using administrative damage and assessment data for most US homes experiencing wildfires since 2000. Differences across jurisdictions and vintages reveal remarkable resilience effects of building codes initially prompted by the deadly 1991 Oakland Firestorm. Codes also benefit neighbors. We use the results to estimate net social benefits of wildfire building standards.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blackouts in the Developing World: The Role of Wholesale Electricity Markets -- by Akshaya Jha, Louis Preonas, Fiona Burlig]]></title>
-        <id>https://www.nber.org/papers/w29610#fromrss</id>
-        <link href="https://www.nber.org/papers/w29610#fromrss"/>
-        <updated>2022-01-05T00:22:28.955Z</updated>
-        <summary type="html"><![CDATA[Blackouts impose substantial economic costs in developing countries. This paper advances a new explanation for their continued prevalence: unlike in high-income countries, where regulatory mandates require utilities to satisfy all electricity demand, utilities in developing countries respond to wholesale electricity prices. As a result, misallocation of output across power plants can decrease the quantity of electricity supplied to end-users. We provide empirical support for this explanation using novel data from India, home to the world’s third-largest electricity sector. In contrast to the developed world, we find that Indian wholesale demand is downward-sloping. Reducing supply-side misallocation would increase electricity supply for the average household by 1.7 percent (enough to power 4.6 million additional households). Justifying a mandate that utilities must satisfy all end-use demand would require consumers to value electricity far above the cost of diesel backup generation. However, such a mandate would likely be cost-effective if paired with supply-side reforms.]]></summary>
+        <title type="html"><![CDATA[Trade, Human Capital, and Income Risk -- by Liuchun Deng, Pravin Krishna, Mine Zeynep Senses, Jens P. Stegmaier]]></title>
+        <id>https://www.nber.org/papers/w29612#fromrss</id>
+        <link href="https://www.nber.org/papers/w29612#fromrss"/>
+        <updated>2022-01-05T03:07:07.250Z</updated>
+        <summary type="html"><![CDATA[In this paper, we empirically assess the causal links between trade and individual income risk and study the role that human capital plays in this relationship using a rich, worker-level, longitudinal data set from Germany spanning 1976 to 2012. Our estimates suggest substantial heterogeneity in labor income risk across workers in different entry cohorts and across workers with different levels of industry- and occupation-specific human capital. Our findings suggest that within-industry changes in imports and exports are causally related to income risk: Imports increase risk and exports decrease risk, and they do so in an economically significant manner. Importantly, we find there to be a complex interplay between human capital and the linkage between trade and risk: While, on average, individuals with higher levels of industry- or occupation-specific human capital experience lower income risk, a given increase in net-imports exposure in an industry increases risk for workers with higher levels of industry tenure more than it does for workers with lower levels of industry tenure. High levels of industry-specific human capital can be costly for workers in highly trade-exposed industries. By contrast, we find no evidence of any interaction between risk, industry trade exposure, and occupation-specific human capital.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Price of Nails since 1695: A Window into Economic Change -- by Daniel E. Sichel]]></title>
-        <id>https://www.nber.org/papers/w29617#fromrss</id>
-        <link href="https://www.nber.org/papers/w29617#fromrss"/>
-        <updated>2022-01-05T00:22:28.941Z</updated>
-        <summary type="html"><![CDATA[This paper focuses on the price of nails since 1695 and the proximate source of changes in those prices. Why nails? They are a basic manufactured product whose form and quality have changed relatively little over the last three centuries, yet the process for producing them has changed dramatically. Accordingly, nails provide a useful prism through which to examine a wide range of economic and technological developments that touch on multiple areas of both micro- and macroeconomics. Several conclusions emerge. First, from the late 1700s to the mid 20th century real nail prices fell by a factor of about 10 relative to overall consumer prices. These declines had important effects on downstream industries, most notably construction. Second, while declining materials prices contribute to reductions in nail prices, the largest proximate source of the decline during this period was multifactor productivity growth in nail manufacturing, highlighting the role of the specialization of labor and re-organization of production processes. Third, the share of nails in GDP dropped back from 0.4 percent of GDP in 1810—comparable to today’s share of household purchases of personal computers—to a de minimis share more recently; accordingly, nails played a bigger role in American life in that earlier period. Finally, real nail prices have increased since the mid 20th century, reflecting in part an upturn in materials prices and a shift toward specialty nails in the wake of import competition, though the introduction of nail guns partly offset these increases for the price of installed nails.]]></summary>
+        <title type="html"><![CDATA[Estimating the Effects of Milk Inspections on Infant and Child Mortality, 1880-1910 -- by D. Mark Anderson, Kerwin Kofi Charles, Michael McKelligott, Daniel I. Rees]]></title>
+        <id>https://www.nber.org/papers/w29620#fromrss</id>
+        <link href="https://www.nber.org/papers/w29620#fromrss"/>
+        <updated>2022-01-05T03:07:07.237Z</updated>
+        <summary type="html"><![CDATA[In the mid-19th century, the urban milk supply in the United States was regularly skimmed or diluted with water, reducing its nutritional value. At the urging of public health experts, cities across the country hired milk inspectors, who were tasked with collecting and analyzing milk samples with the goal of preventing adulteration and skimming. Using city-level data for the period 1880-1910, we explore the effects of milk inspections on infant mortality and mortality among children under the age of 5. Event-study estimates are small and statistically insignificant, providing little evidence of post-treatment reductions in either infant or child mortality.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interest Received by Banks during the Financial Crisis: LIBOR vs Hypothetical SOFR Loans -- by Urban Jermann]]></title>
-        <id>https://www.nber.org/papers/w29614#fromrss</id>
-        <link href="https://www.nber.org/papers/w29614#fromrss"/>
-        <updated>2022-01-05T00:22:28.892Z</updated>
-        <summary type="html"><![CDATA[The credit sensitivity of LIBOR helped lenders during the financial crisis. SOFR is not credit-sensitive and would not have provided that support. The cumulative additional interest from LIBOR during the crisis is estimated to be between 1% to 2% of the notional amount of outstanding loans, depending on the tenor and type of SOFR rate used. The amount of LIBOR business loans owned by banks could have been as high as about 2trn, and the overall additional interest income banks received thanks to LIBOR could have been as high as 30bn dollars. The analysis also shows that a compounded SOFR reduces insurance relative to a term SOFR.]]></summary>
+        <title type="html"><![CDATA[Vertical Differentiation in Frictional Product Markets -- by James Albrecht, Guido Menzio, Susan Vroman]]></title>
+        <id>https://www.nber.org/papers/w29618#fromrss</id>
+        <link href="https://www.nber.org/papers/w29618#fromrss"/>
+        <updated>2022-01-05T03:07:07.213Z</updated>
+        <summary type="html"><![CDATA[We consider a version of the imperfect competition model of Butters (1977), Varian (1980) and Burdett and Judd (1983) in which sellers make an ex-ante investment in the quality of their variety of the product. Equilibrium exists, is unique and is efficient. In equilibrium, search frictions not only cause sellers to offer different surpluses to buyers but also cause sellers to choose different qualities for their varieties. That is, equilibrium involves endogenous vertical differentiation. As search frictions decline, the market becomes more and more unequal as a smaller and smaller fraction of sellers produces varieties of increasing quality, offers increasing surplus to their customers, and captures an increasing share of the market, while a growing fraction of sellers produces varieties of decreasing quality. Gains from trade and welfare grow. Under some conditions, the growth rate of gains from trade and welfare is constant.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -149,7 +59,7 @@
         <title type="html"><![CDATA[International Trade and Innovation -- by Ufuk Akcigit, Marc Melitz]]></title>
         <id>https://www.nber.org/papers/w29611#fromrss</id>
         <link href="https://www.nber.org/papers/w29611#fromrss"/>
-        <updated>2022-01-05T00:22:28.880Z</updated>
+        <updated>2022-01-05T03:07:07.199Z</updated>
         <summary type="html"><![CDATA[This chapter was prepared for the Handbook of International Economics (Vol. 5) edited by Gita Gopinath, Elhanan Helpman, and Kenneth Rogoff. We provide a review of the recent literature -- both theoretical and empirical -- analyzing the multi-dimensional connections between globalization and innovation. We develop a model that features many of those mechanisms that connect trade and innovation. It features the joint selection of firms into innovation and international market participation (in our model, we restrict that participation to exports). Our model also highlights how exposure to international markets affects the incentives for innovation.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -159,20 +69,170 @@
         <title type="html"><![CDATA[Does Physician-Hospital Vertical Integration Signal Care-Coordination? Evidence from Mover-Stayer Analyses of Commercially Insured Enrollees -- by William Encinosa, Avi Dor, PhuongGiang Nguyen]]></title>
         <id>https://www.nber.org/papers/w29599#fromrss</id>
         <link href="https://www.nber.org/papers/w29599#fromrss"/>
-        <updated>2022-01-05T00:22:28.862Z</updated>
+        <updated>2022-01-05T03:07:07.187Z</updated>
         <summary type="html"><![CDATA[We examine the impacts of physician-hospital integration on care fragmentation and other measures of care-coordination using a dynamic model of movers and stayers in commercially insured plans. Although recent growth in the share of practicing physicians belonging to these vertical organizations has sparked considerable policy debate, there is a paucity of evidence on the merits of vertical integration in the private segment of the market. We fill the gap by focusing on care-coordination in the relatively open plans that dominate commercial insurance, namely Preferred Provider Organizations (PPOs). We exploit the fact that physician-hospital integration levels vary dramatically across MSA and focus on orthogonal employment-based transfers for identification. We track 415,000 beneficiaries with 17 million claims between 2010 and 2016. We find that standard two-way fixed effect mover-stayer models produce biased estimates since there are heterogeneous effects of integration. Extending the dynamic event study design of Sun and Abraham (2021) to mover-stayer analyses, we are able to avoid these biases. We find that a move from the 10th to 90th percentile of physician integration level causes a 20% relative decrease in a care fragmentation index; similar declines are found in independent markers of fragmentation such as use of out-of-network and single-service facilities. Vertical integration of either primary care physicians or specialists reduced fragmentation significantly. However, only vertical integration of specialists led to significant reductions in medical spending. Our results are robust when adjusting for moves associated with alternative contractual arrangements among providers that do not require outright ownership.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trade, Human Capital, and Income Risk -- by Liuchun Deng, Pravin Krishna, Mine Zeynep Senses, Jens P. Stegmaier]]></title>
-        <id>https://www.nber.org/papers/w29612#fromrss</id>
-        <link href="https://www.nber.org/papers/w29612#fromrss"/>
-        <updated>2022-01-05T00:22:28.826Z</updated>
-        <summary type="html"><![CDATA[In this paper, we empirically assess the causal links between trade and individual income risk and study the role that human capital plays in this relationship using a rich, worker-level, longitudinal data set from Germany spanning 1976 to 2012. Our estimates suggest substantial heterogeneity in labor income risk across workers in different entry cohorts and across workers with different levels of industry- and occupation-specific human capital. Our findings suggest that within-industry changes in imports and exports are causally related to income risk: Imports increase risk and exports decrease risk, and they do so in an economically significant manner. Importantly, we find there to be a complex interplay between human capital and the linkage between trade and risk: While, on average, individuals with higher levels of industry- or occupation-specific human capital experience lower income risk, a given increase in net-imports exposure in an industry increases risk for workers with higher levels of industry tenure more than it does for workers with lower levels of industry tenure. High levels of industry-specific human capital can be costly for workers in highly trade-exposed industries. By contrast, we find no evidence of any interaction between risk, industry trade exposure, and occupation-specific human capital.]]></summary>
+        <title type="html"><![CDATA[Causal Inference from Hypothetical Evaluations -- by B. Douglas Bernheim, Daniel Bjorkegren, Jeffrey Naecker, Michael Pollmann]]></title>
+        <id>https://www.nber.org/papers/w29616#fromrss</id>
+        <link href="https://www.nber.org/papers/w29616#fromrss"/>
+        <updated>2022-01-05T03:07:07.152Z</updated>
+        <summary type="html"><![CDATA[This paper explores methods for inferring the causal effects of treatments on choices by combining data on real choices with hypothetical evaluations. We propose a class of estimators, identify conditions under which they yield consistent estimates, and derive their asymptotic distributions. The approach is applicable in settings where standard methods cannot be used (e.g., due to the absence of helpful instruments, or because the treatment has not been implemented). It can recover heterogeneous treatment effects more comprehensively, and can improve precision. We provide proof of concept using data generated in a laboratory experiment and through a field application.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preemptive Policies and Risk-Off Shocks in Emerging Markets -- by Mitali Das, Gita Gopinath, Ṣebnem Kalemli-Özcan]]></title>
+        <id>https://www.nber.org/papers/w29615#fromrss</id>
+        <link href="https://www.nber.org/papers/w29615#fromrss"/>
+        <updated>2022-01-05T03:07:07.138Z</updated>
+        <summary type="html"><![CDATA[We show that “preemptive” capital flow management measures (CFM) can reduce emerging markets and developing countries’ (EMDE) external finance premia during risk-off shocks, especially for vulnerable countries. Using a panel dataset of 56 EMDEs during 1996–2020 at monthly frequency, we document that countries with preemptive policies in place during the five year window before risk-off shocks experienced relatively lower external finance premia and exchange rate volatility during the shock compared to countries which did not have such pre-emptive policies in place. We use the episodes of Taper Tantrum and COVID-19 as risk-off shocks. Our identification relies on a difference-in-differences methodology with country fixed effects where preemptive policies are ex-ante by construction and cannot be put in place as a response to the shock ex-post. We control the effects of other policies, such as monetary policy, foreign exchange interventions (FXI), easing of inflow CFMs and tightening of outflow CFMs that are used in response to the risk-off shocks. By reducing the impact of risk-off shocks on countries’ funding costs and exchange rate volatility, preemptive policies enable countries’ continued access to international capital markets during troubled times.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worker Beliefs About Outside Options -- by Simon Jäger, Christopher Roth, Nina Roussille, Benjamin Schoefer]]></title>
+        <id>https://www.nber.org/papers/w29623#fromrss</id>
+        <link href="https://www.nber.org/papers/w29623#fromrss"/>
+        <updated>2022-01-05T03:07:07.122Z</updated>
+        <summary type="html"><![CDATA[Workers wrongly anchor their beliefs about outside options on their current wage. In particular, low-paid workers underestimate wages elsewhere. We document this anchoring bias by eliciting workers’ beliefs in a representative survey in Germany and comparing them to measures of actual outside options in linked administrative labor market data. In an equilibrium model, such anchoring can give rise to monopsony and labor market segmentation. In line with the model, misperceptions are particularly pronounced among workers in low-wage firms. If workers had correct beliefs, at least 10% of jobs, concentrated in low-wage firms, would not be viable at current wages.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physician Group Influences on Treatment Intensity and Health: Evidence from Physician Switchers -- by Joseph J. Doyle Jr., Becky Staiger]]></title>
+        <id>https://www.nber.org/papers/w29613#fromrss</id>
+        <link href="https://www.nber.org/papers/w29613#fromrss"/>
+        <updated>2022-01-05T03:07:06.397Z</updated>
+        <summary type="html"><![CDATA[Treatment intensity varies remarkably across physicians, yet the key drivers are not well understood. Meanwhile, the organization of healthcare is undergoing a secular transformation as physicians increasingly work in groups. This paper tests whether physicians' group affiliation matters for practice styles and patient health. Using Medicare inpatient claims data, we compare these outcomes before and after physicians switch between groups of varying treatment intensity while remaining in the same hospital to control for practice setting. Event studies show that internists who join more-intensive groups immediately increase their own treatment intensity, with an elasticity of approximately 0.3; the opposite is found for internists who switch to groups that are less intensive. This change in Medicare spending largely stems from greater quantities of care provided, with some evidence of a change in coding behavior.  We do not detect a change in health outcomes, suggesting that treatment intensity induced by group affiliation may not be productive.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blackouts in the Developing World: The Role of Wholesale Electricity Markets -- by Akshaya Jha, Louis Preonas, Fiona Burlig]]></title>
+        <id>https://www.nber.org/papers/w29610#fromrss</id>
+        <link href="https://www.nber.org/papers/w29610#fromrss"/>
+        <updated>2022-01-05T03:07:06.381Z</updated>
+        <summary type="html"><![CDATA[Blackouts impose substantial economic costs in developing countries. This paper advances a new explanation for their continued prevalence: unlike in high-income countries, where regulatory mandates require utilities to satisfy all electricity demand, utilities in developing countries respond to wholesale electricity prices. As a result, misallocation of output across power plants can decrease the quantity of electricity supplied to end-users. We provide empirical support for this explanation using novel data from India, home to the world’s third-largest electricity sector. In contrast to the developed world, we find that Indian wholesale demand is downward-sloping. Reducing supply-side misallocation would increase electricity supply for the average household by 1.7 percent (enough to power 4.6 million additional households). Justifying a mandate that utilities must satisfy all end-use demand would require consumers to value electricity far above the cost of diesel backup generation. However, such a mandate would likely be cost-effective if paired with supply-side reforms.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Political Economy of Anti-Bribery Enforcement -- by Lauren Cohen, Bo Li]]></title>
+        <id>https://www.nber.org/papers/w29624#fromrss</id>
+        <link href="https://www.nber.org/papers/w29624#fromrss"/>
+        <updated>2022-01-05T03:07:06.339Z</updated>
+        <summary type="html"><![CDATA[This paper documents novel evidence on the influence of political incentives in the regulatory enforcement of foreign bribery. Using exogenous variation in the timing and geographic location of U.S. Congressional elections, we find that the probability of a Foreign Corrupt Practices Act (FCPA) enforcement action against foreign firms located in the Senator’s jurisdiction increases significantly pre-election, spiking 23%, with zero equivalent move for equivalently global (but domestic-headquartered) firms in the Senator’s jurisdiction. Using hand-collected case-level data from the U.S. SEC and DOJ, we also observe larger discretion in regions where foreign firms are larger global competitors of in-state firms, operate in locally important industries, and when Senators serve as the Chairman of the Senate Judiciary Committee (which oversees the DOJ). Anti-bribery enforcement has electoral implications, leading to spikes in media coverage of the FCPA enforcement coupled with greater vote shares for the Senator. Moreover, the cases pushed through against these foreign firms just prior to elections appear to be weaker cases. The enforcements result in real effects, as in response to strategic timing in enforcement, firms reallocate business segments and sales.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The COVID-19 Pandemic Disrupted Both School Bullying and Cyberbullying -- by Andrew Bacher-Hicks, Joshua Goodman, Jennifer G. Green, Melissa Holt]]></title>
+        <id>https://www.nber.org/papers/w29590#fromrss</id>
+        <link href="https://www.nber.org/papers/w29590#fromrss"/>
+        <updated>2022-01-05T03:07:06.324Z</updated>
+        <summary type="html"><![CDATA[One-fifth of U.S. high school students report being bullied each year. We use internet search data for real-time tracking of bullying patterns as COVID-19 disrupted in-person schooling. We first show that, prepandemic, internet searches contain useful information about actual bullying behavior. We then show that searches for school bullying and cyberbullying dropped 30-35 percent as schools shifted to remote learning in spring 2020. The gradual return to in-person instruction starting in fall 2020 partially returns bullying searches to pre-pandemic levels. This rare positive effect may partly explain recent mixed evidence on the pandemic’s impact on students’ mental health and well-being.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interest Received by Banks during the Financial Crisis: LIBOR vs Hypothetical SOFR Loans -- by Urban Jermann]]></title>
+        <id>https://www.nber.org/papers/w29614#fromrss</id>
+        <link href="https://www.nber.org/papers/w29614#fromrss"/>
+        <updated>2022-01-05T03:07:06.297Z</updated>
+        <summary type="html"><![CDATA[The credit sensitivity of LIBOR helped lenders during the financial crisis. SOFR is not credit-sensitive and would not have provided that support. The cumulative additional interest from LIBOR during the crisis is estimated to be between 1% to 2% of the notional amount of outstanding loans, depending on the tenor and type of SOFR rate used. The amount of LIBOR business loans owned by banks could have been as high as about 2trn, and the overall additional interest income banks received thanks to LIBOR could have been as high as 30bn dollars. The analysis also shows that a compounded SOFR reduces insurance relative to a term SOFR.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Marginal Cost of Mortality Risk Reduction: Evidence from Housing Markets -- by Kelly Bishop, Nicolai V. Kuminoff, Sophie Mathes, Alvin Murphy]]></title>
+        <id>https://www.nber.org/papers/w29622#fromrss</id>
+        <link href="https://www.nber.org/papers/w29622#fromrss"/>
+        <updated>2022-01-05T03:07:06.281Z</updated>
+        <summary type="html"><![CDATA[We provide the first evidence that spatial variation in all-cause mortality risk is capitalized into US housing prices. Using a hedonic framework, we recover the annual implicit cost of a 0.1 percentage-point reduction in mortality risk among older Americans and find that this figure is both relatively low and decreasing in age, from $1,346 for a 67 year old to $246 for an 87 year old. These estimates are one-fifth of the size of comparable estimates found in the labor market, suggesting that the housing market provides an alternative, substantially cheaper channel to reducing mortality risk.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Price of Nails since 1695: A Window into Economic Change -- by Daniel E. Sichel]]></title>
+        <id>https://www.nber.org/papers/w29617#fromrss</id>
+        <link href="https://www.nber.org/papers/w29617#fromrss"/>
+        <updated>2022-01-05T03:07:06.246Z</updated>
+        <summary type="html"><![CDATA[This paper focuses on the price of nails since 1695 and the proximate source of changes in those prices. Why nails? They are a basic manufactured product whose form and quality have changed relatively little over the last three centuries, yet the process for producing them has changed dramatically. Accordingly, nails provide a useful prism through which to examine a wide range of economic and technological developments that touch on multiple areas of both micro- and macroeconomics. Several conclusions emerge. First, from the late 1700s to the mid 20th century real nail prices fell by a factor of about 10 relative to overall consumer prices. These declines had important effects on downstream industries, most notably construction. Second, while declining materials prices contribute to reductions in nail prices, the largest proximate source of the decline during this period was multifactor productivity growth in nail manufacturing, highlighting the role of the specialization of labor and re-organization of production processes. Third, the share of nails in GDP dropped back from 0.4 percent of GDP in 1810—comparable to today’s share of household purchases of personal computers—to a de minimis share more recently; accordingly, nails played a bigger role in American life in that earlier period. Finally, real nail prices have increased since the mid 20th century, reflecting in part an upturn in materials prices and a shift toward specialty nails in the wake of import competition, though the introduction of nail guns partly offset these increases for the price of installed nails.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December Vehicles Sales decreased to 12.44 million SAAR]]></title>
+        <id>http://www.calculatedriskblog.com/2022/01/december-vehicles-sales-decreased-to.html</id>
+        <link href="http://www.calculatedriskblog.com/2022/01/december-vehicles-sales-decreased-to.html"/>
+        <updated>2022-01-05T02:42:00.001Z</updated>
+        <summary type="html"><![CDATA[Wards Auto released their estimate of light vehicle sales for December.  Wards Auto estimates sales of 12.44 million SAAR in December 2021 (Seasonally Adjusted Annual Rate), down 3.2% from the November sales rate, and down 23.7% from December 2020. 
+
+Click on graph for larger image.
+This graph shows light vehicle sales since 2006 from the BEA (blue) and Wards Auto's estimate for December (red).
+The impact of COVID-19 was significant, and April 2020 was the worst month.
+After April 2020, sales increased, and were close to sales in 2019 (the year before the pandemic).  
+
+
+However, sales decreased earlier this year due to supply issues. It appears the "supply chain bottom" was in September, but sales in December were disappointing again.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wednesday: ADP Employment]]></title>
+        <id>http://www.calculatedriskblog.com/2022/01/wednesday-adp-employment.html</id>
+        <link href="http://www.calculatedriskblog.com/2022/01/wednesday-adp-employment.html"/>
+        <updated>2022-01-05T01:27:00.024Z</updated>
+        <summary type="html"><![CDATA[Wednesday:
+• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.
+• 8:15 AM, The ADP Employment Report for December. This report is for private payrolls only (no government). The consensus is for 413,000, down from 534,000 jobs added in November. 
+And on COVID (focus on hospitalizations and deaths):
+
+
+COVID Metrics
+  
+ TodayWeek
+AgoGoal
+ Percent fully Vaccinated62.2%---≥70.0%1
+ Fully Vaccinated (millions)206.6---≥2321
+  
+New Cases per Day3🚩491,652248,571≤5,0002
+  
+Hospitalized3🚩85,42364,152≤3,0002
+  
+Deaths per Day3🚩1,1651,106≤502
+  
+1 Minimum to achieve "herd immunity" (estimated between 70% and 85%).
+2my goals to stop daily posts,
+37-day average for Cases, Currently Hospitalized, and Deaths
+🚩 Increasing 7-day average week-over-week for Cases, Hospitalized, and Deaths     
+✅ Goal met.
+  
+
+Click on graph for larger image.
+This graph shows the daily (columns) and 7-day average (line) of positive tests reported.
+
+New cases are at record levels.  It appears likely hospitalizations will exceed the previous 7-day average record of 124,031 a year ago.
+
+
+Fortunately, deaths are still well below the previous 7-day average record of 3,421 in January 2021.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
         </author>
     </entry>
     <entry>
@@ -1239,27 +1299,6 @@ There is much more in the article.  You can subscribe at https://calculatedrisk.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Question #9 for 2022: What will happen with house prices in 2022?]]></title>
-        <id>http://www.calculatedriskblog.com/2021/12/question-9-for-2022-what-will-happen.html</id>
-        <link href="http://www.calculatedriskblog.com/2021/12/question-9-for-2022-what-will-happen.html"/>
-        <updated>2021-12-30T15:16:00.001Z</updated>
-        <summary type="html"><![CDATA[Today, in the Real Estate Newsletter: Question #9 for 2022: What will happen with house prices in 2022?
-A brief excerpt: 
-Earlier I posted some questions on my blog for next year: Ten Economic Questions for 2022.   Some of these questions concern real estate (inventory, house prices, housing credit, housing starts, new home sales), and I’ll post those in the newsletter (others like GDP and employment will be on my blog).
-I'm adding some thoughts, and maybe some predictions for each question. 
-...
-If inventory doesn’t increase in 2022, house prices will continue to increase at a double-digit pace.   There are several possible reasons for an increase in inventory in 2022.  Here are a few:
-1. A sharp increase in mortgage rates.
-2. Economic problems overseas that spillover into the US.
-3. Unregulated areas of finance causing economic problems.
-4.Affordability (a combination of higher mortgage rates and higher prices).
-A sharp increase in mortgage rates is possible, especially if inflation stays elevated and the pandemic subsides (each wave of the pandemic has pushed down interest rates).   And at some point, affordability will start to matter, but in general - with low mortgage rates - houses are still somewhat affordable (see the bottom of this post on affordability).  
-There is much more in the article.  You can subscribe at https://calculatedrisk.substack.com/]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021 in Research Highlights]]></title>
         <id>https://www.aeaweb.org/research/top-ten-research-highlight-2021</id>
         <link href="https://www.aeaweb.org/research/top-ten-research-highlight-2021"/>
@@ -1267,24 +1306,6 @@ There is much more in the article.  You can subscribe at https://calculatedrisk.
         <summary type="html"><![CDATA[From welfare generosity and work, to the effect of high-tech hubs on innovation, to the recovery of Southern wealth after the Civil War: here are the 10 most-read Research Higlights of 2021.]]></summary>
         <author>
             <name>Tyler Smith and Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Initial Unemployment Claims Decrease to 198,000]]></title>
-        <id>http://www.calculatedriskblog.com/2021/12/weekly-initial-unemployment-claims_30.html</id>
-        <link href="http://www.calculatedriskblog.com/2021/12/weekly-initial-unemployment-claims_30.html"/>
-        <updated>2021-12-30T13:34:00.000Z</updated>
-        <summary type="html"><![CDATA[The DOL reported:
-In the week ending December 25, the advance figure for seasonally adjusted initial claims was 198,000, a decrease of  8,000 from the previous week's revised level. The previous week's level was revised up by 1,000 from 205,000 to  206,000. The 4-week moving average was 199,250, a decrease of 7,250 from the previous week's revised average. This is  the lowest level for this average since October 25, 1969 when it was 199,250. The previous week's average was revised  up by 250 from 206,250 to 206,500.
-emphasis added
-The following graph shows the 4-week moving average of weekly claims since 1971.
-Click on graph for larger image.
-The dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims increased to 206,000.
-The previous week was revised up.
-Regular state continued claims decreased to 1,716,000 (SA) from 1,856,000 (SA) the previous week.
-Weekly claims were below the consensus forecast.]]></summary>
-        <author>
-            <name>Calculated Risk</name>
         </author>
     </entry>
     <entry>
@@ -4563,16 +4584,6 @@ Chapter 11. 브라우저의 랜더링 과정
         <link href="https://www.aeaweb.org/research/policing-research-monica-bell"/>
         <updated>2021-12-08T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Economists need to rethink their approach to studying policing and public safety, starting with separating those two concepts, says Monica Bell in a paper in the Journal of Economic Perspectives.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regressive innovation]]></title>
-        <id>https://www.aeaweb.org/research/charts/opioid-innovation-negative-consequences</id>
-        <link href="https://www.aeaweb.org/research/charts/opioid-innovation-negative-consequences"/>
-        <updated>2021-12-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The opioid epidemic is a stark example of "technological regress" that cannot be explained alone by demand for painkillers, according to a paper in the Journal of Economic Perspectives.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
