@@ -1,76 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-08T21:04:49.150Z</id>
+    <id>urn:2022-01-09T00:22:57.700Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-01-08T21:04:49.150Z</updated>
+    <updated>2022-01-09T00:22:57.700Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Trade, Human Capital, and Income Risk -- by Liuchun Deng, Pravin Krishna, Mine Zeynep Senses, Jens P. Stegmaier]]></title>
-        <id>https://www.nber.org/papers/w29612#fromrss</id>
-        <link href="https://www.nber.org/papers/w29612#fromrss"/>
-        <updated>2022-01-08T21:04:03.101Z</updated>
-        <summary type="html"><![CDATA[In this paper, we empirically assess the causal links between trade and individual income risk and study the role that human capital plays in this relationship using a rich, worker-level, longitudinal data set from Germany spanning 1976 to 2012. Our estimates suggest substantial heterogeneity in labor income risk across workers in different entry cohorts and across workers with different levels of industry- and occupation-specific human capital. Our findings suggest that within-industry changes in imports and exports are causally related to income risk: Imports increase risk and exports decrease risk, and they do so in an economically significant manner. Importantly, we find there to be a complex interplay between human capital and the linkage between trade and risk: While, on average, individuals with higher levels of industry- or occupation-specific human capital experience lower income risk, a given increase in net-imports exposure in an industry increases risk for workers with higher levels of industry tenure more than it does for workers with lower levels of industry tenure. High levels of industry-specific human capital can be costly for workers in highly trade-exposed industries. By contrast, we find no evidence of any interaction between risk, industry trade exposure, and occupation-specific human capital.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vertical Differentiation in Frictional Product Markets -- by James Albrecht, Guido Menzio, Susan Vroman]]></title>
-        <id>https://www.nber.org/papers/w29618#fromrss</id>
-        <link href="https://www.nber.org/papers/w29618#fromrss"/>
-        <updated>2022-01-08T21:04:03.089Z</updated>
-        <summary type="html"><![CDATA[We consider a version of the imperfect competition model of Butters (1977), Varian (1980) and Burdett and Judd (1983) in which sellers make an ex-ante investment in the quality of their variety of the product. Equilibrium exists, is unique and is efficient. In equilibrium, search frictions not only cause sellers to offer different surpluses to buyers but also cause sellers to choose different qualities for their varieties. That is, equilibrium involves endogenous vertical differentiation. As search frictions decline, the market becomes more and more unequal as a smaller and smaller fraction of sellers produces varieties of increasing quality, offers increasing surplus to their customers, and captures an increasing share of the market, while a growing fraction of sellers produces varieties of decreasing quality. Gains from trade and welfare grow. Under some conditions, the growth rate of gains from trade and welfare is constant.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Physician-Hospital Vertical Integration Signal Care-Coordination? Evidence from Mover-Stayer Analyses of Commercially Insured Enrollees -- by William Encinosa, Avi Dor, PhuongGiang Nguyen]]></title>
-        <id>https://www.nber.org/papers/w29599#fromrss</id>
-        <link href="https://www.nber.org/papers/w29599#fromrss"/>
-        <updated>2022-01-08T21:04:03.036Z</updated>
-        <summary type="html"><![CDATA[We examine the impacts of physician-hospital integration on care fragmentation and other measures of care-coordination using a dynamic model of movers and stayers in commercially insured plans. Although recent growth in the share of practicing physicians belonging to these vertical organizations has sparked considerable policy debate, there is a paucity of evidence on the merits of vertical integration in the private segment of the market. We fill the gap by focusing on care-coordination in the relatively open plans that dominate commercial insurance, namely Preferred Provider Organizations (PPOs). We exploit the fact that physician-hospital integration levels vary dramatically across MSA and focus on orthogonal employment-based transfers for identification. We track 415,000 beneficiaries with 17 million claims between 2010 and 2016. We find that standard two-way fixed effect mover-stayer models produce biased estimates since there are heterogeneous effects of integration. Extending the dynamic event study design of Sun and Abraham (2021) to mover-stayer analyses, we are able to avoid these biases. We find that a move from the 10th to 90th percentile of physician integration level causes a 20% relative decrease in a care fragmentation index; similar declines are found in independent markers of fragmentation such as use of out-of-network and single-service facilities. Vertical integration of either primary care physicians or specialists reduced fragmentation significantly. However, only vertical integration of specialists led to significant reductions in medical spending. Our results are robust when adjusting for moves associated with alternative contractual arrangements among providers that do not require outright ownership.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blackouts in the Developing World: The Role of Wholesale Electricity Markets -- by Akshaya Jha, Louis Preonas, Fiona Burlig]]></title>
-        <id>https://www.nber.org/papers/w29610#fromrss</id>
-        <link href="https://www.nber.org/papers/w29610#fromrss"/>
-        <updated>2022-01-08T21:04:02.992Z</updated>
-        <summary type="html"><![CDATA[Blackouts impose substantial economic costs in developing countries. This paper advances a new explanation for their continued prevalence: unlike in high-income countries, where regulatory mandates require utilities to satisfy all electricity demand, utilities in developing countries respond to wholesale electricity prices. As a result, misallocation of output across power plants can decrease the quantity of electricity supplied to end-users. We provide empirical support for this explanation using novel data from India, home to the world’s third-largest electricity sector. In contrast to the developed world, we find that Indian wholesale demand is downward-sloping. Reducing supply-side misallocation would increase electricity supply for the average household by 1.7 percent (enough to power 4.6 million additional households). Justifying a mandate that utilities must satisfy all end-use demand would require consumers to value electricity far above the cost of diesel backup generation. However, such a mandate would likely be cost-effective if paired with supply-side reforms.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interest Received by Banks during the Financial Crisis: LIBOR vs Hypothetical SOFR Loans -- by Urban Jermann]]></title>
-        <id>https://www.nber.org/papers/w29614#fromrss</id>
-        <link href="https://www.nber.org/papers/w29614#fromrss"/>
-        <updated>2022-01-08T21:04:02.974Z</updated>
-        <summary type="html"><![CDATA[The credit sensitivity of LIBOR helped lenders during the financial crisis. SOFR is not credit-sensitive and would not have provided that support. The cumulative additional interest from LIBOR during the crisis is estimated to be between 1% to 2% of the notional amount of outstanding loans, depending on the tenor and type of SOFR rate used. The amount of LIBOR business loans owned by banks could have been as high as about 2trn, and the overall additional interest income banks received thanks to LIBOR could have been as high as 30bn dollars. The analysis also shows that a compounded SOFR reduces insurance relative to a term SOFR.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preemptive Policies and Risk-Off Shocks in Emerging Markets -- by Mitali Das, Gita Gopinath, Ṣebnem Kalemli-Özcan]]></title>
-        <id>https://www.nber.org/papers/w29615#fromrss</id>
-        <link href="https://www.nber.org/papers/w29615#fromrss"/>
-        <updated>2022-01-08T21:04:02.891Z</updated>
-        <summary type="html"><![CDATA[We show that “preemptive” capital flow management measures (CFM) can reduce emerging markets and developing countries’ (EMDE) external finance premia during risk-off shocks, especially for vulnerable countries. Using a panel dataset of 56 EMDEs during 1996–2020 at monthly frequency, we document that countries with preemptive policies in place during the five year window before risk-off shocks experienced relatively lower external finance premia and exchange rate volatility during the shock compared to countries which did not have such pre-emptive policies in place. We use the episodes of Taper Tantrum and COVID-19 as risk-off shocks. Our identification relies on a difference-in-differences methodology with country fixed effects where preemptive policies are ex-ante by construction and cannot be put in place as a response to the shock ex-post. We control the effects of other policies, such as monetary policy, foreign exchange interventions (FXI), easing of inflow CFMs and tightening of outflow CFMs that are used in response to the risk-off shocks. By reducing the impact of risk-off shocks on countries’ funding costs and exchange rate volatility, preemptive policies enable countries’ continued access to international capital markets during troubled times.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estimating the Effects of Milk Inspections on Infant and Child Mortality, 1880-1910 -- by D. Mark Anderson, Kerwin Kofi Charles, Michael McKelligott, Daniel I. Rees]]></title>
-        <id>https://www.nber.org/papers/w29620#fromrss</id>
-        <link href="https://www.nber.org/papers/w29620#fromrss"/>
-        <updated>2022-01-08T21:04:02.878Z</updated>
-        <summary type="html"><![CDATA[In the mid-19th century, the urban milk supply in the United States was regularly skimmed or diluted with water, reducing its nutritional value. At the urging of public health experts, cities across the country hired milk inspectors, who were tasked with collecting and analyzing milk samples with the goal of preventing adulteration and skimming. Using city-level data for the period 1880-1910, we explore the effects of milk inspections on infant mortality and mortality among children under the age of 5. Event-study estimates are small and statistically insignificant, providing little evidence of post-treatment reductions in either infant or child mortality.]]></summary>
+        <title type="html"><![CDATA[The Price of Nails since 1695: A Window into Economic Change -- by Daniel E. Sichel]]></title>
+        <id>https://www.nber.org/papers/w29617#fromrss</id>
+        <link href="https://www.nber.org/papers/w29617#fromrss"/>
+        <updated>2022-01-09T00:22:15.712Z</updated>
+        <summary type="html"><![CDATA[This paper focuses on the price of nails since 1695 and the proximate source of changes in those prices. Why nails? They are a basic manufactured product whose form and quality have changed relatively little over the last three centuries, yet the process for producing them has changed dramatically. Accordingly, nails provide a useful prism through which to examine a wide range of economic and technological developments that touch on multiple areas of both micro- and macroeconomics. Several conclusions emerge. First, from the late 1700s to the mid 20th century real nail prices fell by a factor of about 10 relative to overall consumer prices. These declines had important effects on downstream industries, most notably construction. Second, while declining materials prices contribute to reductions in nail prices, the largest proximate source of the decline during this period was multifactor productivity growth in nail manufacturing, highlighting the role of the specialization of labor and re-organization of production processes. Third, the share of nails in GDP dropped back from 0.4 percent of GDP in 1810—comparable to today’s share of household purchases of personal computers—to a de minimis share more recently; accordingly, nails played a bigger role in American life in that earlier period. Finally, real nail prices have increased since the mid 20th century, reflecting in part an upturn in materials prices and a shift toward specialty nails in the wake of import competition, though the introduction of nail guns partly offset these increases for the price of installed nails.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -79,18 +19,8 @@
         <title type="html"><![CDATA[Worker Beliefs About Outside Options -- by Simon Jäger, Christopher Roth, Nina Roussille, Benjamin Schoefer]]></title>
         <id>https://www.nber.org/papers/w29623#fromrss</id>
         <link href="https://www.nber.org/papers/w29623#fromrss"/>
-        <updated>2022-01-08T21:04:02.851Z</updated>
+        <updated>2022-01-09T00:22:15.528Z</updated>
         <summary type="html"><![CDATA[Workers wrongly anchor their beliefs about outside options on their current wage. In particular, low-paid workers underestimate wages elsewhere. We document this anchoring bias by eliciting workers’ beliefs in a representative survey in Germany and comparing them to measures of actual outside options in linked administrative labor market data. In an equilibrium model, such anchoring can give rise to monopsony and labor market segmentation. In line with the model, misperceptions are particularly pronounced among workers in low-wage firms. If workers had correct beliefs, at least 10% of jobs, concentrated in low-wage firms, would not be viable at current wages.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The COVID-19 Pandemic Disrupted Both School Bullying and Cyberbullying -- by Andrew Bacher-Hicks, Joshua Goodman, Jennifer G. Green, Melissa Holt]]></title>
-        <id>https://www.nber.org/papers/w29590#fromrss</id>
-        <link href="https://www.nber.org/papers/w29590#fromrss"/>
-        <updated>2022-01-08T21:04:02.833Z</updated>
-        <summary type="html"><![CDATA[One-fifth of U.S. high school students report being bullied each year. We use internet search data for real-time tracking of bullying patterns as COVID-19 disrupted in-person schooling. We first show that, prepandemic, internet searches contain useful information about actual bullying behavior. We then show that searches for school bullying and cyberbullying dropped 30-35 percent as schools shifted to remote learning in spring 2020. The gradual return to in-person instruction starting in fall 2020 partially returns bullying searches to pre-pandemic levels. This rare positive effect may partly explain recent mixed evidence on the pandemic’s impact on students’ mental health and well-being.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -99,38 +29,8 @@
         <title type="html"><![CDATA[Causal Inference from Hypothetical Evaluations -- by B. Douglas Bernheim, Daniel Bjorkegren, Jeffrey Naecker, Michael Pollmann]]></title>
         <id>https://www.nber.org/papers/w29616#fromrss</id>
         <link href="https://www.nber.org/papers/w29616#fromrss"/>
-        <updated>2022-01-08T21:04:02.818Z</updated>
+        <updated>2022-01-09T00:22:15.501Z</updated>
         <summary type="html"><![CDATA[This paper explores methods for inferring the causal effects of treatments on choices by combining data on real choices with hypothetical evaluations. We propose a class of estimators, identify conditions under which they yield consistent estimates, and derive their asymptotic distributions. The approach is applicable in settings where standard methods cannot be used (e.g., due to the absence of helpful instruments, or because the treatment has not been implemented). It can recover heterogeneous treatment effects more comprehensively, and can improve precision. We provide proof of concept using data generated in a laboratory experiment and through a field application.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Political Economy of Anti-Bribery Enforcement -- by Lauren Cohen, Bo Li]]></title>
-        <id>https://www.nber.org/papers/w29624#fromrss</id>
-        <link href="https://www.nber.org/papers/w29624#fromrss"/>
-        <updated>2022-01-08T21:04:02.790Z</updated>
-        <summary type="html"><![CDATA[This paper documents novel evidence on the influence of political incentives in the regulatory enforcement of foreign bribery. Using exogenous variation in the timing and geographic location of U.S. Congressional elections, we find that the probability of a Foreign Corrupt Practices Act (FCPA) enforcement action against foreign firms located in the Senator’s jurisdiction increases significantly pre-election, spiking 23%, with zero equivalent move for equivalently global (but domestic-headquartered) firms in the Senator’s jurisdiction. Using hand-collected case-level data from the U.S. SEC and DOJ, we also observe larger discretion in regions where foreign firms are larger global competitors of in-state firms, operate in locally important industries, and when Senators serve as the Chairman of the Senate Judiciary Committee (which oversees the DOJ). Anti-bribery enforcement has electoral implications, leading to spikes in media coverage of the FCPA enforcement coupled with greater vote shares for the Senator. Moreover, the cases pushed through against these foreign firms just prior to elections appear to be weaker cases. The enforcements result in real effects, as in response to strategic timing in enforcement, firms reallocate business segments and sales.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[International Trade and Innovation -- by Ufuk Akcigit, Marc Melitz]]></title>
-        <id>https://www.nber.org/papers/w29611#fromrss</id>
-        <link href="https://www.nber.org/papers/w29611#fromrss"/>
-        <updated>2022-01-08T21:04:02.776Z</updated>
-        <summary type="html"><![CDATA[This chapter was prepared for the Handbook of International Economics (Vol. 5) edited by Gita Gopinath, Elhanan Helpman, and Kenneth Rogoff. We provide a review of the recent literature -- both theoretical and empirical -- analyzing the multi-dimensional connections between globalization and innovation. We develop a model that features many of those mechanisms that connect trade and innovation. It features the joint selection of firms into innovation and international market participation (in our model, we restrict that participation to exports). Our model also highlights how exposure to international markets affects the incentives for innovation.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physician Group Influences on Treatment Intensity and Health: Evidence from Physician Switchers -- by Joseph J. Doyle Jr., Becky Staiger]]></title>
-        <id>https://www.nber.org/papers/w29613#fromrss</id>
-        <link href="https://www.nber.org/papers/w29613#fromrss"/>
-        <updated>2022-01-08T21:04:02.734Z</updated>
-        <summary type="html"><![CDATA[Treatment intensity varies remarkably across physicians, yet the key drivers are not well understood. Meanwhile, the organization of healthcare is undergoing a secular transformation as physicians increasingly work in groups. This paper tests whether physicians' group affiliation matters for practice styles and patient health. Using Medicare inpatient claims data, we compare these outcomes before and after physicians switch between groups of varying treatment intensity while remaining in the same hospital to control for practice setting. Event studies show that internists who join more-intensive groups immediately increase their own treatment intensity, with an elasticity of approximately 0.3; the opposite is found for internists who switch to groups that are less intensive. This change in Medicare spending largely stems from greater quantities of care provided, with some evidence of a change in coding behavior.  We do not detect a change in health outcomes, suggesting that treatment intensity induced by group affiliation may not be productive.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -139,28 +39,8 @@
         <title type="html"><![CDATA[Fiscal Policy in a Networked Economy -- by Joel P. Flynn, Christina Patterson, John Sturm]]></title>
         <id>https://www.nber.org/papers/w29619#fromrss</id>
         <link href="https://www.nber.org/papers/w29619#fromrss"/>
-        <updated>2022-01-08T21:04:02.716Z</updated>
+        <updated>2022-01-09T00:22:15.486Z</updated>
         <summary type="html"><![CDATA[Advanced economies feature complicated networks that connect households, ﬁrms, and regions. How do these structures aﬀect the impact of ﬁscal policy and its optimal targeting? We study these questions in a model with input-output linkages, regional structure, and household heterogeneity in MPCs, consumption baskets, and shock exposures. Theoretically, we derive estimable formulae for the eﬀects of ﬁscal policies on aggregate GDP, or ﬁscal multipliers, and show how network structures determine their size. Empirically, we ﬁnd that multipliers vary substantially across policies, so targeting is important. Beneath these aggregate eﬀects are large spatial and sectoral spillovers from policies directed to any one ﬁrm or household. However, virtually all variation in multipliers stems from diﬀerences in policies’ direct incidence onto households’ MPCs. Thus, while the distributional eﬀects of ﬁscal policy depend on the detailed structure of the economy, maximally expansionary ﬁscal policy simply targets households’ MPCs.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Price of Nails since 1695: A Window into Economic Change -- by Daniel E. Sichel]]></title>
-        <id>https://www.nber.org/papers/w29617#fromrss</id>
-        <link href="https://www.nber.org/papers/w29617#fromrss"/>
-        <updated>2022-01-08T21:04:02.695Z</updated>
-        <summary type="html"><![CDATA[This paper focuses on the price of nails since 1695 and the proximate source of changes in those prices. Why nails? They are a basic manufactured product whose form and quality have changed relatively little over the last three centuries, yet the process for producing them has changed dramatically. Accordingly, nails provide a useful prism through which to examine a wide range of economic and technological developments that touch on multiple areas of both micro- and macroeconomics. Several conclusions emerge. First, from the late 1700s to the mid 20th century real nail prices fell by a factor of about 10 relative to overall consumer prices. These declines had important effects on downstream industries, most notably construction. Second, while declining materials prices contribute to reductions in nail prices, the largest proximate source of the decline during this period was multifactor productivity growth in nail manufacturing, highlighting the role of the specialization of labor and re-organization of production processes. Third, the share of nails in GDP dropped back from 0.4 percent of GDP in 1810—comparable to today’s share of household purchases of personal computers—to a de minimis share more recently; accordingly, nails played a bigger role in American life in that earlier period. Finally, real nail prices have increased since the mid 20th century, reflecting in part an upturn in materials prices and a shift toward specialty nails in the wake of import competition, though the introduction of nail guns partly offset these increases for the price of installed nails.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Marginal Cost of Mortality Risk Reduction: Evidence from Housing Markets -- by Kelly Bishop, Nicolai V. Kuminoff, Sophie Mathes, Alvin Murphy]]></title>
-        <id>https://www.nber.org/papers/w29622#fromrss</id>
-        <link href="https://www.nber.org/papers/w29622#fromrss"/>
-        <updated>2022-01-08T21:04:02.658Z</updated>
-        <summary type="html"><![CDATA[We provide the first evidence that spatial variation in all-cause mortality risk is capitalized into US housing prices. Using a hedonic framework, we recover the annual implicit cost of a 0.1 percentage-point reduction in mortality risk among older Americans and find that this figure is both relatively low and decreasing in age, from $1,346 for a 67 year old to $246 for an 87 year old. These estimates are one-fifth of the size of comparable estimates found in the labor market, suggesting that the housing market provides an alternative, substantially cheaper channel to reducing mortality risk.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -169,8 +49,128 @@
         <title type="html"><![CDATA[Mandated vs. Voluntary Adaptation to Natural Disasters: The Case of U.S. Wildfires -- by Patrick W. Baylis, Judson Boomhower]]></title>
         <id>https://www.nber.org/papers/w29621#fromrss</id>
         <link href="https://www.nber.org/papers/w29621#fromrss"/>
-        <updated>2022-01-08T21:04:02.631Z</updated>
+        <updated>2022-01-09T00:22:15.453Z</updated>
         <summary type="html"><![CDATA[Despite escalating disaster losses and predicted increases in weather-related catastrophes, takeup of protective technologies and behaviors appears limited by myopia, externalities, and other factors. One response to such frictions is to mandate adaptive investment. We measure the effect of California's wildfire building codes on own- and neighboring structure survival using administrative damage and assessment data for most US homes experiencing wildfires since 2000. Differences across jurisdictions and vintages reveal remarkable resilience effects of building codes initially prompted by the deadly 1991 Oakland Firestorm. Codes also benefit neighbors. We use the results to estimate net social benefits of wildfire building standards.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Political Economy of Anti-Bribery Enforcement -- by Lauren Cohen, Bo Li]]></title>
+        <id>https://www.nber.org/papers/w29624#fromrss</id>
+        <link href="https://www.nber.org/papers/w29624#fromrss"/>
+        <updated>2022-01-09T00:22:15.440Z</updated>
+        <summary type="html"><![CDATA[This paper documents novel evidence on the influence of political incentives in the regulatory enforcement of foreign bribery. Using exogenous variation in the timing and geographic location of U.S. Congressional elections, we find that the probability of a Foreign Corrupt Practices Act (FCPA) enforcement action against foreign firms located in the Senator’s jurisdiction increases significantly pre-election, spiking 23%, with zero equivalent move for equivalently global (but domestic-headquartered) firms in the Senator’s jurisdiction. Using hand-collected case-level data from the U.S. SEC and DOJ, we also observe larger discretion in regions where foreign firms are larger global competitors of in-state firms, operate in locally important industries, and when Senators serve as the Chairman of the Senate Judiciary Committee (which oversees the DOJ). Anti-bribery enforcement has electoral implications, leading to spikes in media coverage of the FCPA enforcement coupled with greater vote shares for the Senator. Moreover, the cases pushed through against these foreign firms just prior to elections appear to be weaker cases. The enforcements result in real effects, as in response to strategic timing in enforcement, firms reallocate business segments and sales.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimating the Effects of Milk Inspections on Infant and Child Mortality, 1880-1910 -- by D. Mark Anderson, Kerwin Kofi Charles, Michael McKelligott, Daniel I. Rees]]></title>
+        <id>https://www.nber.org/papers/w29620#fromrss</id>
+        <link href="https://www.nber.org/papers/w29620#fromrss"/>
+        <updated>2022-01-09T00:22:15.425Z</updated>
+        <summary type="html"><![CDATA[In the mid-19th century, the urban milk supply in the United States was regularly skimmed or diluted with water, reducing its nutritional value. At the urging of public health experts, cities across the country hired milk inspectors, who were tasked with collecting and analyzing milk samples with the goal of preventing adulteration and skimming. Using city-level data for the period 1880-1910, we explore the effects of milk inspections on infant mortality and mortality among children under the age of 5. Event-study estimates are small and statistically insignificant, providing little evidence of post-treatment reductions in either infant or child mortality.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vertical Differentiation in Frictional Product Markets -- by James Albrecht, Guido Menzio, Susan Vroman]]></title>
+        <id>https://www.nber.org/papers/w29618#fromrss</id>
+        <link href="https://www.nber.org/papers/w29618#fromrss"/>
+        <updated>2022-01-09T00:22:15.396Z</updated>
+        <summary type="html"><![CDATA[We consider a version of the imperfect competition model of Butters (1977), Varian (1980) and Burdett and Judd (1983) in which sellers make an ex-ante investment in the quality of their variety of the product. Equilibrium exists, is unique and is efficient. In equilibrium, search frictions not only cause sellers to offer different surpluses to buyers but also cause sellers to choose different qualities for their varieties. That is, equilibrium involves endogenous vertical differentiation. As search frictions decline, the market becomes more and more unequal as a smaller and smaller fraction of sellers produces varieties of increasing quality, offers increasing surplus to their customers, and captures an increasing share of the market, while a growing fraction of sellers produces varieties of decreasing quality. Gains from trade and welfare grow. Under some conditions, the growth rate of gains from trade and welfare is constant.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preemptive Policies and Risk-Off Shocks in Emerging Markets -- by Mitali Das, Gita Gopinath, Ṣebnem Kalemli-Özcan]]></title>
+        <id>https://www.nber.org/papers/w29615#fromrss</id>
+        <link href="https://www.nber.org/papers/w29615#fromrss"/>
+        <updated>2022-01-09T00:22:15.380Z</updated>
+        <summary type="html"><![CDATA[We show that “preemptive” capital flow management measures (CFM) can reduce emerging markets and developing countries’ (EMDE) external finance premia during risk-off shocks, especially for vulnerable countries. Using a panel dataset of 56 EMDEs during 1996–2020 at monthly frequency, we document that countries with preemptive policies in place during the five year window before risk-off shocks experienced relatively lower external finance premia and exchange rate volatility during the shock compared to countries which did not have such pre-emptive policies in place. We use the episodes of Taper Tantrum and COVID-19 as risk-off shocks. Our identification relies on a difference-in-differences methodology with country fixed effects where preemptive policies are ex-ante by construction and cannot be put in place as a response to the shock ex-post. We control the effects of other policies, such as monetary policy, foreign exchange interventions (FXI), easing of inflow CFMs and tightening of outflow CFMs that are used in response to the risk-off shocks. By reducing the impact of risk-off shocks on countries’ funding costs and exchange rate volatility, preemptive policies enable countries’ continued access to international capital markets during troubled times.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blackouts in the Developing World: The Role of Wholesale Electricity Markets -- by Akshaya Jha, Louis Preonas, Fiona Burlig]]></title>
+        <id>https://www.nber.org/papers/w29610#fromrss</id>
+        <link href="https://www.nber.org/papers/w29610#fromrss"/>
+        <updated>2022-01-09T00:22:15.350Z</updated>
+        <summary type="html"><![CDATA[Blackouts impose substantial economic costs in developing countries. This paper advances a new explanation for their continued prevalence: unlike in high-income countries, where regulatory mandates require utilities to satisfy all electricity demand, utilities in developing countries respond to wholesale electricity prices. As a result, misallocation of output across power plants can decrease the quantity of electricity supplied to end-users. We provide empirical support for this explanation using novel data from India, home to the world’s third-largest electricity sector. In contrast to the developed world, we find that Indian wholesale demand is downward-sloping. Reducing supply-side misallocation would increase electricity supply for the average household by 1.7 percent (enough to power 4.6 million additional households). Justifying a mandate that utilities must satisfy all end-use demand would require consumers to value electricity far above the cost of diesel backup generation. However, such a mandate would likely be cost-effective if paired with supply-side reforms.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Marginal Cost of Mortality Risk Reduction: Evidence from Housing Markets -- by Kelly Bishop, Nicolai V. Kuminoff, Sophie Mathes, Alvin Murphy]]></title>
+        <id>https://www.nber.org/papers/w29622#fromrss</id>
+        <link href="https://www.nber.org/papers/w29622#fromrss"/>
+        <updated>2022-01-09T00:22:15.337Z</updated>
+        <summary type="html"><![CDATA[We provide the first evidence that spatial variation in all-cause mortality risk is capitalized into US housing prices. Using a hedonic framework, we recover the annual implicit cost of a 0.1 percentage-point reduction in mortality risk among older Americans and find that this figure is both relatively low and decreasing in age, from $1,346 for a 67 year old to $246 for an 87 year old. These estimates are one-fifth of the size of comparable estimates found in the labor market, suggesting that the housing market provides an alternative, substantially cheaper channel to reducing mortality risk.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interest Received by Banks during the Financial Crisis: LIBOR vs Hypothetical SOFR Loans -- by Urban Jermann]]></title>
+        <id>https://www.nber.org/papers/w29614#fromrss</id>
+        <link href="https://www.nber.org/papers/w29614#fromrss"/>
+        <updated>2022-01-09T00:22:15.324Z</updated>
+        <summary type="html"><![CDATA[The credit sensitivity of LIBOR helped lenders during the financial crisis. SOFR is not credit-sensitive and would not have provided that support. The cumulative additional interest from LIBOR during the crisis is estimated to be between 1% to 2% of the notional amount of outstanding loans, depending on the tenor and type of SOFR rate used. The amount of LIBOR business loans owned by banks could have been as high as about 2trn, and the overall additional interest income banks received thanks to LIBOR could have been as high as 30bn dollars. The analysis also shows that a compounded SOFR reduces insurance relative to a term SOFR.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Trade and Innovation -- by Ufuk Akcigit, Marc Melitz]]></title>
+        <id>https://www.nber.org/papers/w29611#fromrss</id>
+        <link href="https://www.nber.org/papers/w29611#fromrss"/>
+        <updated>2022-01-09T00:22:15.296Z</updated>
+        <summary type="html"><![CDATA[This chapter was prepared for the Handbook of International Economics (Vol. 5) edited by Gita Gopinath, Elhanan Helpman, and Kenneth Rogoff. We provide a review of the recent literature -- both theoretical and empirical -- analyzing the multi-dimensional connections between globalization and innovation. We develop a model that features many of those mechanisms that connect trade and innovation. It features the joint selection of firms into innovation and international market participation (in our model, we restrict that participation to exports). Our model also highlights how exposure to international markets affects the incentives for innovation.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The COVID-19 Pandemic Disrupted Both School Bullying and Cyberbullying -- by Andrew Bacher-Hicks, Joshua Goodman, Jennifer G. Green, Melissa Holt]]></title>
+        <id>https://www.nber.org/papers/w29590#fromrss</id>
+        <link href="https://www.nber.org/papers/w29590#fromrss"/>
+        <updated>2022-01-09T00:22:15.280Z</updated>
+        <summary type="html"><![CDATA[One-fifth of U.S. high school students report being bullied each year. We use internet search data for real-time tracking of bullying patterns as COVID-19 disrupted in-person schooling. We first show that, prepandemic, internet searches contain useful information about actual bullying behavior. We then show that searches for school bullying and cyberbullying dropped 30-35 percent as schools shifted to remote learning in spring 2020. The gradual return to in-person instruction starting in fall 2020 partially returns bullying searches to pre-pandemic levels. This rare positive effect may partly explain recent mixed evidence on the pandemic’s impact on students’ mental health and well-being.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physician Group Influences on Treatment Intensity and Health: Evidence from Physician Switchers -- by Joseph J. Doyle Jr., Becky Staiger]]></title>
+        <id>https://www.nber.org/papers/w29613#fromrss</id>
+        <link href="https://www.nber.org/papers/w29613#fromrss"/>
+        <updated>2022-01-09T00:22:15.253Z</updated>
+        <summary type="html"><![CDATA[Treatment intensity varies remarkably across physicians, yet the key drivers are not well understood. Meanwhile, the organization of healthcare is undergoing a secular transformation as physicians increasingly work in groups. This paper tests whether physicians' group affiliation matters for practice styles and patient health. Using Medicare inpatient claims data, we compare these outcomes before and after physicians switch between groups of varying treatment intensity while remaining in the same hospital to control for practice setting. Event studies show that internists who join more-intensive groups immediately increase their own treatment intensity, with an elasticity of approximately 0.3; the opposite is found for internists who switch to groups that are less intensive. This change in Medicare spending largely stems from greater quantities of care provided, with some evidence of a change in coding behavior.  We do not detect a change in health outcomes, suggesting that treatment intensity induced by group affiliation may not be productive.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Physician-Hospital Vertical Integration Signal Care-Coordination? Evidence from Mover-Stayer Analyses of Commercially Insured Enrollees -- by William Encinosa, Avi Dor, PhuongGiang Nguyen]]></title>
+        <id>https://www.nber.org/papers/w29599#fromrss</id>
+        <link href="https://www.nber.org/papers/w29599#fromrss"/>
+        <updated>2022-01-09T00:22:15.228Z</updated>
+        <summary type="html"><![CDATA[We examine the impacts of physician-hospital integration on care fragmentation and other measures of care-coordination using a dynamic model of movers and stayers in commercially insured plans. Although recent growth in the share of practicing physicians belonging to these vertical organizations has sparked considerable policy debate, there is a paucity of evidence on the merits of vertical integration in the private segment of the market. We fill the gap by focusing on care-coordination in the relatively open plans that dominate commercial insurance, namely Preferred Provider Organizations (PPOs). We exploit the fact that physician-hospital integration levels vary dramatically across MSA and focus on orthogonal employment-based transfers for identification. We track 415,000 beneficiaries with 17 million claims between 2010 and 2016. We find that standard two-way fixed effect mover-stayer models produce biased estimates since there are heterogeneous effects of integration. Extending the dynamic event study design of Sun and Abraham (2021) to mover-stayer analyses, we are able to avoid these biases. We find that a move from the 10th to 90th percentile of physician integration level causes a 20% relative decrease in a care fragmentation index; similar declines are found in independent markers of fragmentation such as use of out-of-network and single-service facilities. Vertical integration of either primary care physicians or specialists reduced fragmentation significantly. However, only vertical integration of specialists led to significant reductions in medical spending. Our results are robust when adjusting for moves associated with alternative contractual arrangements among providers that do not require outright ownership.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trade, Human Capital, and Income Risk -- by Liuchun Deng, Pravin Krishna, Mine Zeynep Senses, Jens P. Stegmaier]]></title>
+        <id>https://www.nber.org/papers/w29612#fromrss</id>
+        <link href="https://www.nber.org/papers/w29612#fromrss"/>
+        <updated>2022-01-09T00:22:15.199Z</updated>
+        <summary type="html"><![CDATA[In this paper, we empirically assess the causal links between trade and individual income risk and study the role that human capital plays in this relationship using a rich, worker-level, longitudinal data set from Germany spanning 1976 to 2012. Our estimates suggest substantial heterogeneity in labor income risk across workers in different entry cohorts and across workers with different levels of industry- and occupation-specific human capital. Our findings suggest that within-industry changes in imports and exports are causally related to income risk: Imports increase risk and exports decrease risk, and they do so in an economically significant manner. Importantly, we find there to be a complex interplay between human capital and the linkage between trade and risk: While, on average, individuals with higher levels of industry- or occupation-specific human capital experience lower income risk, a given increase in net-imports exposure in an industry increases risk for workers with higher levels of industry tenure more than it does for workers with lower levels of industry tenure. High levels of industry-specific human capital can be costly for workers in highly trade-exposed industries. By contrast, we find no evidence of any interaction between risk, industry trade exposure, and occupation-specific human capital.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -385,6 +385,164 @@ The first graph shows the year-over-year change in total non-farm employment sin
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[프로그래머를 위한 수학/폴 올랜드 지음, 노희준 외 옮김/한빛아카데미(교재)]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286427065</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286427065"/>
+        <updated>2022-01-07T05:18:00.000Z</updated>
+        <summary type="html"><![CDATA[프로그래머를 위한 수학
+폴 올랜드 지음, 노희준 외 옮김 / 한빛아카데미(교재) / 2021년 12월 / ISBN:9791156645719
+정가: 42,000원 / 판매가: 42,000원 / 마일리지: 2,100원
+이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
+
+
+
+
+프로그래머로 오래 살아남을 수 있는 비법이 담긴 가장 친절한 수학책이다. 파이썬을 이용하여 3D 그래픽스, 게임 설계, 시뮬레이션, 머신러닝 알고리즘에 필요한 수학을 쉽게 설명하고, 상황별 다양한 코딩을 직접 해보며 수학 개념이 작동하는 방식을 깨달을 수 있도록 구성하였다. 선형대수학과 미분적분학이 파이썬 코드 안에서 어떻게 활력 있게 움직이는지 직접 확인해보자.
+
+
+지은이 소개
+옮긴이 소개
+지은이 머리말
+옮긴이 머리말
+이 책에 대하여
+추천사
+수학 기호 표기법
+책 표지에 대하여 
+
+CHAPTER 1 코드로 수학 학습하기
+1.1 수학과 소프트웨어로 돈벌이가 될 문제 풀기
+1.2 수학 공부를 포기할 방법
+1.3 이미 잘 훈련된 좌뇌 사용하기
+
+PART I 벡터와 그래픽스
+CHAPTER 2 2차원 벡터로 그림 그리기
+2.1 2차원 벡터 그리기
+2.2 평면벡터 산술
+2.3 평면의 각과 삼각법
+2.4 벡터 집합 변환하기
+2.5 Matplotlib으로 그림 그리기
+
+CHAPTER 3 3차원 세계로의 도약
+3.1 3차원 공간에서 벡터 그리기
+3.2 3차원에서의 벡터 산술
+3.3 내적 : 벡터 간 가지런함 측정하기
+3.4 외적 : 유향 면적 측정하기
+3.5 2차원에서 3차원 객체 렌더링하기
+
+CHAPTER 4 벡터 변환과 그래픽스
+4.1 3차원 객체 변환
+4.2 일차변환
+
+CHAPTER 5 행렬로 변환 계산하기
+5.1 행렬로 일차변환 표현하기
+5.2 서로 다른 크기의 행렬 해석하기
+5.3 행렬로 벡터를 평행이동하기
+
+CHAPTER 6 고차원으로의 일반화
+6.1 우리가 만든 벡터의 정의 확장하기
+6.2 여러 벡터공간 살펴보기
+6.3 보다 작은 벡터공간 살펴보기
+
+CHAPTER 7 연립일차방정식 풀기
+7.1 아케이드 게임 설계하기
+7.2 직선의 교점 구하기
+7.3 고차원으로 일차방정식 일반화하기
+7.4 연립일차방정식을 풀어서 기저 바꾸기
+
+PART II 미분적분학과 물리 시뮬레이션
+CHAPTER 8 변화율 이해하기
+8.1 부피로 평균 유량 계산하기
+8.2 시간에 따른 평균 유량 플로팅하기
+8.3 순간 유량 근사하기
+8.4 부피 변화량 근사하기
+8.5 시간에 따른 부피 플로팅하기
+
+CHAPTER 9 움직이는 물체 시뮬레이션하기
+9.1 속도가 고정된 움직임을 시뮬레이션하기
+9.2 가속도 시뮬레이션하기
+9.3 오일러 방법 깊게 살펴보기
+9.4 작은 타임스텝으로 오일러 방법 실행하기
+
+CHAPTER 10 기호 수식 다루기
+10.1 컴퓨터 대수 시스템으로 정확한 도함수 구하기
+10.2 대수식 모델링하기
+10.3 기호 수식 동작하게 하기
+10.4 함수의 도함수 구하기
+10.5 도함수 취하...
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
+국내도서 > 과학 > 수학 > 쉽게 배우는 수학]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈의 불장난/신상준 지음/생각의창]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286416267</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286416267"/>
+        <updated>2022-01-07T03:04:00.000Z</updated>
+        <summary type="html"><![CDATA[돈의 불장난
+신상준 지음 / 생각의창 / 2022년 01월 / ISBN:9791197017285
+정가: 16,500원 / 판매가: 14,850원 / 마일리지: 63원
+이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+‘한국은행의 돈 박사’라 불리는 신상준 박사의 ‘돈의 본질’에 대한 인문학적 이야기다. ‘돈이란 무엇인가?’에 대한 해답을 찾아가며, 돈의 모든 것에 대해 강의하듯 설명하고 있다. 야프섬의 돌화폐에서 비트코인까지 돈에 대한 모든 것을 다루면서도, 돈을 통해 흐르는 경제 문제까지 짚어준다.
+
+“종잇조각에 불과한 우리의 지폐가 야프섬의 돌화폐보다 더 큰 가치를 가지고 있을까? 우리의 예금은 어떠한가? 전자적으로만 이체되는 우리의 예금이 구두로만 이전되는 야프섬의 돌화폐와 크게 다를까?”
+
+저자 신상준 박사는 이와 같은 화두를 던지며 독자들과 대화를 시도한다. 돈의 근저에 깔린 ‘가치의 본질’에 대해 이야기하고, 주관적 가치를 객관적 객체에 고정시키고자 한 ‘화폐의 역사’에 대해 이야기한다. 그리고 시대마다 상이한 ‘돈의 철학’과 이를 통해 형성된 ‘돈의 본질’에 대한 다양한 견해를 나눈다. 더 나아가 돈을 둘러싼 ‘권력과 돈의 이데올로기’에 대해 이야기한다.
+
+들어가며_돈의 본질 • 5
+
+1장 화폐 창조
+태양의 땀, 달의 눈물 • 15 / 가격혁명 • 23 / 동인도 • 29
+골드스미스 • 34 / 뱅크 오브 잉글랜드 • 37 / 은의 위기 • 42
+시민 정부 이론 • 45 / 디베이스먼트 • 49 / 연금술사 • 54
+달러의 탄생 • 57 / 오즈의 마법사 • 59 / 남해 버블 • 62
+최종대부자 • 65 / 화폐 창조 • 68
+
+2장 금과 종이의 투쟁
+금본위제 • 75 / 법정화폐와 재즈의 탄생 • 78 / 전쟁과 평화 • 85
+하이퍼인플레이션 • 88 / 황금 십자가 • 90
+브레턴우즈 • 97 / 닉슨 쇼크 • 102
+
+3장 하우스 오브 카드
+플라스틱 머니 • 107 / 주류 경제학의 오해 • 112
+가상 통화와 금융 혁신 • 118 / 종이로 지은 집 • 122
+
+4장 화폐 이데올로기
+애덤 스미스 • 131 / 물리학으로서의 경제학 • 136
+화폐 환상 • 140 / 왕관의 보석 • 145 / 모델 위험 • 148
+효율적 시장 • 151 / 노벨 경제학상 • 154
+
+5장 새로운 화폐적 실험들
+양적 완화 • 163 / 병렬 화폐 • 169 / 신용 화폐 • 171
+민간 화폐 • 174 / 지역 화폐 • 178 / 기업 화폐 • 183 / 모바일 화폐 • 187
+
+6장 비트코인의 공격
+전쟁의 서막 • 193 / 비트코인의 기본 구조 • 197 / 비트코인의 운용 원리 • 203
+오픈소스 • 212 / 수평파들 • 217 / 카오스 • 222
+앞으로의 세계 • 226 / 사이버 골드 • 230 / 블랙홀과 빅뱅 • 234
+
+7장 화폐 현상학
+거부할 수 없는 매력 • 241 / 다시 그리스로 • 245 / 머리와 꼬리 • 249
+가상과 현실 • 252 / 화폐에 대한 세 가지 이론 • 256 / 관념과 사물 • 259
+화폐단위의 문제 • 262 / 화폐 객체 • 265 / 화폐성 • 267 / 환어음과 비트코인 • 271
+
+나가며_돈의 역할 • 278
+보충해서 하고 싶은 말_화폐란 무엇인가 • 286
+
+
+국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Friday: Employment Report]]></title>
         <id>http://www.calculatedriskblog.com/2022/01/friday-employment-report.html</id>
         <link href="http://www.calculatedriskblog.com/2022/01/friday-employment-report.html"/>
@@ -565,7 +723,7 @@ Weekly claims were close to the consensus forecast.]]></summary>
         <updated>2022-01-06T07:08:00.000Z</updated>
         <summary type="html"><![CDATA[Essential C# 7/e
 마크 미카엘리스 지음, 안철진.김도균 옮김 / 에이콘출판 / 2022년 01월 / ISBN:9791161755984
-정가: 50,000원 / 판매가: 45,000원 / 마일리지: 228원
+정가: 50,000원 / 판매가: 45,000원 / 마일리지: 2,500원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -683,7 +841,7 @@ object...
         <updated>2022-01-06T02:32:00.000Z</updated>
         <summary type="html"><![CDATA[실전 자동머신러닝
 아드난 마수드 지음, 이기홍 옮김 / 에이콘출판 / 2022년 01월 / ISBN:9791161756073
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 121원
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -823,7 +981,7 @@ Fortunately, deaths are still well below the previous 7-day average record of 3,
         <updated>2022-01-06T00:03:00.000Z</updated>
         <summary type="html"><![CDATA[따라하면서 배우는 파이썬
 이상철 지음 / 복두출판사 / 2021년 12월 / ISBN:9791166750908
-정가: 13,000원 / 판매가: 13,000원 / 마일리지: 62원
+정가: 13,000원 / 판매가: 13,000원 / 마일리지: 650원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1024,7 +1182,7 @@ Mortgage applications decreased 2.7 percent from two weeks earlier, according to
         <updated>2022-01-05T07:45:00.000Z</updated>
         <summary type="html"><![CDATA[딥러닝을 위한 파이토치 입문
 딥러닝호형 지음 / 영진.com(영진닷컴) / 2022년 01월 / ISBN:9788931465914
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 96원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1356,7 +1514,7 @@ Please subscribe!]]></summary>
         <updated>2022-01-03T03:04:00.000Z</updated>
         <summary type="html"><![CDATA[C++20 : 풍부한 예제로 익히는 핵심 기능
 라이너 그림 지음, 류광 옮김 / 인사이트 / 2022년 01월 / ISBN:9788966263325
-정가: 35,000원 / 판매가: 31,500원 / 마일리지: 139원
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1474,7 +1632,7 @@ C.39 ...
         <updated>2022-01-03T02:30:00.000Z</updated>
         <summary type="html"><![CDATA[난생처음 C 언어 프로그래밍
 김화수 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645870
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 125원
+정가: 25,000원 / 판매가: 25,000원 / 마일리지: 1,250원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -1568,7 +1726,7 @@ CHAPTER 03 변수와 타입
         <updated>2022-01-03T02:13:00.000Z</updated>
         <summary type="html"><![CDATA[컴파일러 개발자가 들려주는 C 이야기
 페터르 판데르린던 지음, 정기훈 옮김 / 인사이트 / 2022년 01월 / ISBN:9788966263318
-정가: 27,000원 / 판매가: 24,300원 / 마일리지: 106원
+정가: 27,000원 / 판매가: 24,300원 / 마일리지: 1,350원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1653,7 +1811,7 @@ CHAPTER 03 변수와 타입
         <updated>2021-12-31T05:52:00.000Z</updated>
         <summary type="html"><![CDATA[Go 언어를 활용한 네트워크 프로그래밍
 애덤 우드벡 지음, 김찬빈 옮김 / 제이펍 / 2022년 01월 / ISBN:9791191600643
-정가: 33,000원 / 판매가: 29,700원 / 마일리지: 127원
+정가: 33,000원 / 판매가: 29,700원 / 마일리지: 1,650원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1745,7 +1903,7 @@ HTTP/2...
         <updated>2021-12-31T05:17:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬 프로그래밍
 박영권 지음 / 시대인 / 2022년 01월 / ISBN:9791138312639
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 90원
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1851,7 +2009,7 @@ ___...
         <updated>2021-12-30T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[이것이 안드로이드다 with 코틀린
 고돈호 지음 / 한빛미디어 / 2022년 01월 / ISBN:9791162245026
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 155원
+정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1996,7 +2154,7 @@ Appendix A 구글 플레이 스토어에 앱 ...
         <updated>2021-12-29T07:04:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬과 코랩기반의 OpenCV로 배우는 영상처리
 고병철.이덕우 지음 / 그린 / 2022년 01월 / ISBN:9788957273326
-정가: 20,000원 / 판매가: 20,000원 / 마일리지: 99원
+정가: 20,000원 / 판매가: 20,000원 / 마일리지: 600원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -2268,7 +2426,7 @@ PART 8
         <updated>2021-12-28T07:48:00.000Z</updated>
         <summary type="html"><![CDATA[컴퓨팅 사고를 위한 파이썬
 한선관.김태령 지음 / 생능 / 2022년 01월 / ISBN:9788970505282
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 138원
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 300원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -2334,7 +2492,7 @@ Chapter 5 터틀 라이브러리
         <updated>2021-12-28T07:42:00.000Z</updated>
         <summary type="html"><![CDATA[데이터 과학을 위한 파이썬 머신러닝
 최성철 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645856
-정가: 30,000원 / 판매가: 30,000원 / 마일리지: 144원
+정가: 30,000원 / 판매가: 30,000원 / 마일리지: 1,500원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -2565,7 +2723,7 @@ CHAPTER 11 나이브 베이지안 분류기
         <updated>2021-12-28T03:19:00.000Z</updated>
         <summary type="html"><![CDATA[자바스크립트 프로그래밍 입문
 윤인성 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645887
-정가: 27,000원 / 판매가: 27,000원 / 마일리지: 132원
+정가: 27,000원 / 판매가: 27,000원 / 마일리지: 1,350원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -2763,7 +2921,7 @@ Chapter 05 함수
         <updated>2021-12-27T23:58:00.000Z</updated>
         <summary type="html"><![CDATA[[세트] Vue.js 프로젝트 투입 일주일 전 + Node.js 프로젝트 투입 일주일 전 - 전2권
 고승원 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:
-정가: 50,500원 / 판매가: 45,450원 / 마일리지: 208원
+정가: 50,500원 / 판매가: 45,450원 / 마일리지: 2,520원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -2872,7 +3030,7 @@ Node.js 프로젝트 투입 일주일 전
         <updated>2021-12-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Node.js 프로젝트 투입 일주일 전
 고승원 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:9791165921170
-정가: 26,000원 / 판매가: 23,400원 / 마일리지: 108원
+정가: 26,000원 / 판매가: 23,400원 / 마일리지: 1,300원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -3284,7 +3442,7 @@ Chapter 07 인공지능은 어떻게 분야별로 적용되고 있을까?
         <updated>2021-12-23T02:37:00.000Z</updated>
         <summary type="html"><![CDATA[프로그래머를 위한 Pythonⓡ파이썬
 폴 데이텔 외 지음, 안진섭 옮김 / 성안당 / 2021년 12월 / ISBN:9788931556827
-정가: 38,000원 / 판매가: 34,200원 / 마일리지: 160원
+정가: 38,000원 / 판매가: 34,200원 / 마일리지: 1,900원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -3450,7 +3608,7 @@ ASML의 EUV 노광장비를 잡아라
         <updated>2021-12-22T02:46:00.000Z</updated>
         <summary type="html"><![CDATA[라라벨 실전 웹 애플리케이션 개발
 다케자와 유키 외 지음, 김모세 옮김 / 제이펍 / 2021년 12월 / ISBN:9791191600476
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 137원
+정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -3595,7 +3753,7 @@ CHAPTER 4 | HTTP 요청과 응답 125
         <updated>2021-12-22T02:09:00.000Z</updated>
         <summary type="html"><![CDATA[[세트] 선형대수와 통계학으로 배우는 머신러닝 with 파이썬 + 알고리즘 구현으로 배우는 선형대수 with 파이썬 - 전2권
 장철원 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:
-정가: 71,500원 / 판매가: 64,350원 / 마일리지: 306원
+정가: 71,500원 / 판매가: 64,350원 / 마일리지: 3,570원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -3620,7 +3778,7 @@ CHAPTER 4 | HTTP 요청과 응답 125
         <updated>2021-12-22T01:39:00.000Z</updated>
         <summary type="html"><![CDATA[알고리즘 구현으로 배우는 선형대수 with 파이썬
 장철원 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:9791165921125
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 147원
+정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -3722,7 +3880,7 @@ ___ 4.5.2 영 행렬의...
         <updated>2021-12-21T07:06:00.000Z</updated>
         <summary type="html"><![CDATA[모두의 리눅스
 미야케 히데아키.오스미 유스케 지음 / 길벗 / 2021년 12월 / ISBN:9791165218157
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 111원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
 이벤트: 길벗IT도서 브랜드전. 이벤드 대상도서 구매 시, 핫팩
 
 
@@ -4018,7 +4176,7 @@ c. 음향
         <updated>2021-12-20T07:41:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬으로 완성하는 비지도 학습 알고리즘
 송동근 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:9791165921101
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 145원
+정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -4177,7 +4335,7 @@ Chapter 08 오토 인코더의 응용
         <updated>2021-12-17T07:33:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬 for Beginner
 우재남 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645740
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 125원
+정가: 25,000원 / 판매가: 25,000원 / 마일리지: 1,250원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -4270,7 +4428,7 @@ SECTION 05 기본 데이터형
         <updated>2021-12-17T07:01:00.000Z</updated>
         <summary type="html"><![CDATA[순환신경망과 PyTorch
 추상목 지음 / 울산대학교출판부(UUP) / 2021년 12월 / ISBN:9791167260055
-정가: 16,000원 / 판매가: 16,000원 / 마일리지: 75원
+정가: 16,000원 / 판매가: 16,000원 / 마일리지: 800원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -4392,101 +4550,6 @@ VaR의 이론적 배경이 되는 포트폴리오 이론을 설명하기 전에 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python으로 배우는 OpenCV 프로그래밍/김동근 지음/가메출판사]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285057429</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285057429"/>
-        <updated>2021-12-16T00:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Python으로 배우는 OpenCV 프로그래밍
-김동근 지음 / 가메출판사 / 2021년 12월 / ISBN:9788980783106
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 117원
-이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
-
-
-
-
-2018년 출간되었던 'Python으로 배우는 OpenCV 프로그래밍'의 개정판으로 내용을 보완하여 Python 3.10과 OpenCV 4.5 사용, Numpy, Matplotlib, pafy, youtube_dl, Pygames. pyOpenGL, 영상 및 비디오 입출력과 녹화, 임계값, 히스토그램 처리, 영상 필터링, 분할, 특징 검출, 디스크립터, 매칭, 비디오에서 이동물체 검출, 물추 추적, 카메라 캘리브레이션, 증강현실, 등에 대하여 프로그래밍 방법을 설명한다.
-
-Chapter 01 시작하기
-01 영상처리와 컴퓨터 비전
-02 OpenCV 개요
-03 파이썬 Numpy Matplotlib OpenCV 설치
-
-Chapter 02 영상 및 비디오 입출력
-01 영상 입출력과 디스플레이
-02 비디오 프레임 캡처와 화면표시
-03 비디오 파일 녹화
-04 matplotlib 비디오 디스플레이
-
-Chapter 03 간단한 그래픽 및 이벤트 처리
-01 직선 및 사각형 그리기
-02 원 및 타원 그리기
-03 다각형 그리기
-04 문자열 출력
-05 키보드 이벤트 처리
-06 마우스 이벤트 처리
-07 트랙바 이벤트 처리
-
-Chapter 04 OpenCV 기본 연산
-01 영상 속성과 화소 접근
-02 관심 영역과 ROI
-03 영상 복사
-04 영상 채널 분리 및 병합
-05 컬러 공간 변환
-06 영상의 크기 변환과 회전
-07 산술연산‧비트연산‧비교 범위‧수치연산 함수
-08 수학 및 통계 함수
-
-Chapter 05 임계값과 히스토그램 처리
-01 임계값 영상
-02 히스토그램 계산
-03 히스토그램 역투영
-04 히스토그램 비교
-05 히스토그램 평활화
-06 CLAHE 히스토그램 평활화
-
-Chapter 06 영상 공간 필터링
-01 블러 필터
-02 미분 필터
-03 일반적인 필터 연산
-04 모폴로지 연산
-05 템플릿 매칭
-
-Chapter 07 영상 분할
-01 Canny 에지 검출
-02 Hough 변환에 의한 직선 및 원 검출
-03 컬러 범위에 의한 영역 분할
-04 윤곽선 검출 및 그리기
-05 영역 채우기‧인페인트‧거리 계산‧워터쉐드
-06 피라미드 기반 분할
-07 K-Means 클러스터링 분할
-08 연결 요소 검출
-
-Chapter 08 영상 특징 검출
-01 코너점 검출
-02 체스보드 패턴 코너점 검출
-03 모멘트 Moments
-04 모양 Shape 관련 특징 검출
-05 모양 매칭
-06 적분 영상
-07 Haar-like 특징
-
-Chapter 09 특징 검출 • 디스크립팅 • 매칭
-01 FastFeatureDetector 특징 검출
-02 MSER 특징 검출
-03 SimpleBlobDetector 특징 검출
-04 GFTTDetector 특징 검출
-05 ORB 특징 검출 및 디스크립터
-06 BRISK 특징 검출 및 디스크립터
-07 KAZE‧AKAZE 특징 검출 및 디스크립터
-08...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > C++
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A big push out of poverty]]></title>
         <id>https://www.aeaweb.org/research/charts/ultra-poor-targeting-long-term</id>
         <link href="https://www.aeaweb.org/research/charts/ultra-poor-targeting-long-term"/>
@@ -4551,60 +4614,6 @@ Chapter 09 특징 검출 • 디스크립팅 • 매칭
 
 
 국내도서 > 경제경영 > 경제학/경제일반 > 경제이론/경제사상]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실증의 다리를 건너 세계로/한국기술사회 지음/렛츠북]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=284919333</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=284919333"/>
-        <updated>2021-12-14T01:01:00.000Z</updated>
-        <summary type="html"><![CDATA[실증의 다리를 건너 세계로
-한국기술사회 지음 / 렛츠북 / 2021년 12월 / ISBN:9791160545036
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 102원
-이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
-
-
-
-
-기술사는 과학기술과 공학을 활용하여 인간을 이롭게 하는 기술전문가라고 할 수 있다. 『실증(實證)의 다리를 건너 세계(世界)로』 발간을 통해 이 땅의 모든 기술사들이 땀 흘리고 수고해온 역경의 과정을 담고자 했다. 더불어 국민들에게 기술사의 중요성과 정체성을 알리는 기회가 되기를 희망하며 다양한 엔지니어링 분야에서 활동하시는 기술사분들의 글을 엮은 것이다.
-
-발간사 1
-발간사 2 _『실증의 다리를 건너 세계로』 발간에 부쳐
-
-제1부 오늘의 당면과제
-1장 50년 전통 산업역군의 산실, 한국기술사회의 당면과제 - 주승호
-2장 기술사법의 발자취와 미래지향의 틀을 마련해야 한다 - 박효성
-3장 4차 산업혁명 시대에 건설엔지니어링과 미래 기술패권을 확보하고 부국의 길로 - 이강건
-4장 대한민국의 힘, 원자력 기술! “원자력의 과거와 현재 그리고 미래” - 허남
-5장 급변하는 산업사회와 미래 에너지 환경 - 정춘병
-6장 4차 산업혁명 시대, 인공지능 산업 발전과 인력양성의 방향은? - 문재현
-
-제2부 실패와 도전의 실증
-7장 산업현장에서의 이론과 실증으로 작은 보국(報國) 실현을 - 윤석용
-8장 미래 기술을 통한 건축물 안전 확보와 가치 창출 - 정광량
-9장 세계에서 가장 경쟁력 높은 건축시공기술, 새로운 도전 - 장덕배
-10장 시공기술의 발전은 창조적 응용력이 있어야 한다 - 김상귀
-11장 이제 토목에서도 국제 경쟁력의 필수는 BIM이다 - 손우화
-12장 4차 산업혁명 시대, 국제 경쟁력을 대비한 건설기술 제도발전 방향 - 정종민
-13장 지반굴착사고! 계측에서 길을 찾다 - 강문기
-14장 경쟁을 통한 장대교량 기술의 발전 - 박명균
-15장 건설산업 방향의 전환점과 미래의 역할에 대하여 - 최찬영
-
-제3부 기술로! 세계로! 미래로!
-16장 21세기 글로벌 철도 르네상스 시대를 준비할 시점 - 안용모
-17장 21세기 해양의 시대, 바다에서 찾는 미래 - 안익성
-18장 섬유 인생 반세기, 한국 섬유기술의 현주소와 미래 기술 - 김해곤
-19장 포스트 코로나 시대를 대비한 기계설비기술의 전망 - 강기호
-20장 스마트 시대, 스마트 도시구축에 적용할 기술 패러다임 - 기유경
-21장 4차 산업혁명 뿌리산업 금형제조업의 스마트 공장 발전과 산업생태계 변화 - 정회우
-22장 조경(造景)은 자연과 함께하는 삶의 예술입니다 - 김윤제, 이원아
-23장 기후위기에 대응하는 도시 내 친환경 물 순환 기법의 수출 전략 - 홍순명
-24장 산림녹화의 선진국, 산림의 가치 증진과 재해방재기술 - 이천용, 임주훈
-
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
