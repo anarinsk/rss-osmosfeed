@@ -467,15 +467,6 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/pulse-biometric-measure-wellbeing",
-          "author": "Alex Bryson, David Blanchflower",
-          "description": "Pulse rates have been overlooked as a potentially valuable way of capturing individuals’ wellbeing. The value of pulse rate as a wellbeing metric is that, unlike subjective wellbeing metrics, it is recorded on an objective cardinal scale. This column uses empirical analyses of the English and Scottish Health Surveys and the 1958 National Child Development Study to show pulse is highly correlated with subjective wellbeing, that pulse equations look very similar to those for subjective wellbeing, and that pulse is predictive of subjective wellbeing and labour market outcomes later in life.",
-          "link": "https://voxeu.org/article/pulse-biometric-measure-wellbeing",
-          "publishedOn": "2022-01-11T00:00:00.000Z",
-          "wordCount": 1744,
-          "title": "Pulse as a biometric measure of wellbeing"
-        },
-        {
           "id": "https://voxeu.org/article/zero-lower-bound-inflation-expectations",
           "author": "Yuriy Gorodnichenko, Dmitriy Sergeyev",
           "description": "Inflation expectations affect the decisions of households, firms, and policymakers. Expectations of negative inflation can be particularly harmful and lead to deflationary spirals when nominal interest rates are near zero. This column uses survey evidence to show that households and firms almost never expect deflation, even when it is a clear possibility. This apparent zero lower bound on inflation expectations has important implications for macroeconomic dynamics and the effectiveness of monetary policy. Unconventional policies, such as forward guidance, which aim to increase inflation expectations may be less effective when expectations are stuck at the zero lower bound.",
@@ -492,6 +483,15 @@
           "publishedOn": "2022-01-11T00:00:00.000Z",
           "wordCount": 530,
           "title": "Price dispersion in wines. Does the Law of One Price apply?"
+        },
+        {
+          "id": "https://voxeu.org/article/pulse-biometric-measure-wellbeing",
+          "author": "Alex Bryson, David Blanchflower",
+          "description": "Pulse rates have been overlooked as a potentially valuable way of capturing individuals’ wellbeing. The value of pulse rate as a wellbeing metric is that, unlike subjective wellbeing metrics, it is recorded on an objective cardinal scale. This column uses empirical analyses of the English and Scottish Health Surveys and the 1958 National Child Development Study to show pulse is highly correlated with subjective wellbeing, that pulse equations look very similar to those for subjective wellbeing, and that pulse is predictive of subjective wellbeing and labour market outcomes later in life.",
+          "link": "https://voxeu.org/article/pulse-biometric-measure-wellbeing",
+          "publishedOn": "2022-01-11T00:00:00.000Z",
+          "wordCount": 1744,
+          "title": "Pulse as a biometric measure of wellbeing"
         },
         {
           "id": "https://voxeu.org/article/using-compensating-efficiencies-assess-eu-merger-policy",
@@ -564,92 +564,101 @@
       "siteUrl": "http://www.nber.org/new.html",
       "articles": [
         {
+          "id": "https://www.nber.org/papers/w29629#fromrss",
+          "author": null,
+          "description": "We develop a Ricardian model of trade in which countries innovate ideas that diffuse across the globe. In this model, the forces of innovation and diffusion combine to shape trade substitution patterns. Innovation makes a country technologically distinct, reducing their substitutability with other countries, while diffusion between countries generates technological similarity and increases head-to-head competition. In the special case of an innovation-only model where countries do not share ideas, productivities are independent across space, and the demand system is CES. As a consequence, departures from CES expenditure reveal diffusion patterns. Our theoretical results provide a mapping between the dynamics of observable trade flows and the dynamics of innovation and knowledge diffusion.",
+          "link": "https://www.nber.org/papers/w29629#fromrss",
+          "publishedOn": "2022-01-11T18:06:12.952Z",
+          "wordCount": 826,
+          "title": "Global Innovation and Knowledge Diffusion -- by Nelson Lind, Natalia Ramondo"
+        },
+        {
           "id": "https://www.nber.org/papers/w29630#fromrss",
           "author": null,
           "description": "Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures.",
           "link": "https://www.nber.org/papers/w29630#fromrss",
-          "publishedOn": "2022-01-11T15:08:36.811Z",
+          "publishedOn": "2022-01-11T18:06:12.938Z",
           "wordCount": 816,
           "title": "Nonprofits in Good Times and Bad Times -- by Christine L. Exley, Nils H. Lehr, Stephen J. Terry"
         },
         {
-          "id": "https://www.nber.org/papers/w29636#fromrss",
+          "id": "https://www.nber.org/papers/w29634#fromrss",
           "author": null,
-          "description": "We quantify the real implications of trade-offs between firm information disclosure and long-term investment efficiency. We estimate a dynamic equilibrium model in which firm managers confront realistic incentives to misreport earnings and distort their real investment choices. The model implies a socially optimal level of disclosure regulation that exceeds the estimated value. Counterfactual analysis reveals that eliminating earnings misreporting completely through disclosure regulation incentivizes managers to distort real investment. Lower earnings informativeness raises the cost of capital, which results in a 5.7% drop in average firm value, but more modest effects on social welfare and aggregate growth.",
-          "link": "https://www.nber.org/papers/w29636#fromrss",
-          "publishedOn": "2022-01-11T15:08:36.735Z",
-          "wordCount": 882,
-          "title": "Information versus Investment -- by Stephen J. Terry, Toni M. Whited, Anastasia A. Zakolyukina"
+          "description": "Cognitive decline may lead older Americans to make poor financial decisions. Preventing poor decisions may require timely transfer of financial control to a reliable agent. Cognitive decline, however, can develop unnoticed, creating the possibility of suboptimal timing of the transfer of control. This paper presents survey-based evidence that wealthholders regard suboptimal timing of the transfer of control, in particular delay due to unnoticed cognitive decline, as a substantial risk to financial well-being. This paper provides a theoretical framework to model such a lack of awareness and the resulting welfare loss.",
+          "link": "https://www.nber.org/papers/w29634#fromrss",
+          "publishedOn": "2022-01-11T18:06:12.906Z",
+          "wordCount": 909,
+          "title": "Cognitive Decline, Limited Awareness, Imperfect Agency, and Financial Well-being -- by John Ameriks, Andrew Caplin, Minjoon Lee, Matthew D. Shapiro, Christopher Tonetti"
         },
         {
           "id": "https://www.nber.org/papers/w29632#fromrss",
           "author": null,
           "description": "The modern financial system features complicated financial intermediation chains, with each layer performing a certain degree of credit/maturity transformation. We develop a dynamic model in which an entrepreneur borrows from overlapping-generation households via layers of funds, forming a credit chain. Each intermediary fund in the chain faces rollover risks from its lenders, and the optimal debt contracts among layers are time invariant and layer independent. The model delivers new insights regarding the benefits of intermediation via layers: the chain structure insulates interim negative fundamental shocks and protects the underlying cash flows from being discounted heavily during bad times, resulting in a greater borrowing capacity. We show that the equilibrium chain length minimizes the run risk for any given contract and find that restricting credit chain length can improve total welfare once the available funding from households has been endogenized.",
           "link": "https://www.nber.org/papers/w29632#fromrss",
-          "publishedOn": "2022-01-11T15:08:36.719Z",
+          "publishedOn": "2022-01-11T18:06:12.850Z",
           "wordCount": 871,
           "title": "Intermediation via Credit Chains -- by Zhiguo He, Jian Li"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29638#fromrss",
-          "author": null,
-          "description": "We provide empirical evidence of the causal effects of changes in financial intermediaries' net worth in the aggregate economy. Our strategy identifies financial shocks as high-frequency changes in the market value of intermediaries' net worth in a narrow window around their earnings announcements, based on U.S. tick-by-tick data. Using these shocks, we estimate that news of a 1-percent decline in intermediaries' net worth leads to a 0.2-0.4 percent decrease in the market value of nonfinancial firms.  These effects are more pronounced for firms with high default risk and low liquidity and when the aggregate net worth of intermediaries is low.",
-          "link": "https://www.nber.org/papers/w29638#fromrss",
-          "publishedOn": "2022-01-11T15:08:36.560Z",
-          "wordCount": 829,
-          "title": "Financial Intermediaries and the Macroeconomy: Evidence from a High-Frequency Identification -- by Pablo Ottonello, Wenting Song"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29635#fromrss",
-          "author": null,
-          "description": "We propose methods for constructing regularized mixtures of density forecasts.  We explore a variety of objectives and regularization penalties, and we use them in a substantive exploration of Eurozone inflation and real interest rate density forecasts.  All individual inflation forecasters (even the ex post best forecaster) are outperformed by our regularized mixtures. From the Great Recession onward, the optimal regularization tends to move density forecasts' probability mass from the centers to the tails, correcting for overconfidence.",
-          "link": "https://www.nber.org/papers/w29635#fromrss",
-          "publishedOn": "2022-01-11T15:08:36.536Z",
-          "wordCount": 885,
-          "title": "On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates -- by Francis X. Diebold, Minchul Shin, Boyuan Zhang"
         },
         {
           "id": "https://www.nber.org/papers/w29637#fromrss",
           "author": null,
           "description": "Though air-quality alert systems (AQAS) cover more than 1.7 billion people worldwide, there has been little welfare analysis of these systems. This paper presents a theoretical framework for deriving lower bounds on the net benefits of an AQAS and applies it to a South Korean system currently covering over 51 million people. Estimating a regression discontinuity design, we find that an alert issuance reduced youth respiratory expenditures by 30% and adult cardiovascular expenditures by 23%. The overall system reduced externalized health expenditures by 28.6 million dollars during 2016–2017, with a minimum benefit-cost ratio of 7.1:1. Including dynamic impacts of alerts increases the minimum benefits (benefit-cost ratio) to 36.7 million dollars (9.2:1). Our findings imply that the AQAS generates significant net benefits and suggests that manipulation of air quality data, which has been observed in other contexts, may negatively impact social welfare.",
           "link": "https://www.nber.org/papers/w29637#fromrss",
-          "publishedOn": "2022-01-11T15:08:36.469Z",
+          "publishedOn": "2022-01-11T18:06:12.836Z",
           "wordCount": 929,
           "title": "Bounds, Benefits, and Bad Air: Welfare Impacts of Pollution Alerts -- by Michael L. Anderson, Minwoo Hyun, Jaecheol Lee"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29636#fromrss",
+          "author": null,
+          "description": "We quantify the real implications of trade-offs between firm information disclosure and long-term investment efficiency. We estimate a dynamic equilibrium model in which firm managers confront realistic incentives to misreport earnings and distort their real investment choices. The model implies a socially optimal level of disclosure regulation that exceeds the estimated value. Counterfactual analysis reveals that eliminating earnings misreporting completely through disclosure regulation incentivizes managers to distort real investment. Lower earnings informativeness raises the cost of capital, which results in a 5.7% drop in average firm value, but more modest effects on social welfare and aggregate growth.",
+          "link": "https://www.nber.org/papers/w29636#fromrss",
+          "publishedOn": "2022-01-11T18:06:12.817Z",
+          "wordCount": 882,
+          "title": "Information versus Investment -- by Stephen J. Terry, Toni M. Whited, Anastasia A. Zakolyukina"
         },
         {
           "id": "https://www.nber.org/papers/w29633#fromrss",
           "author": null,
           "description": "With capital controls, the standard financial market transactions needed for currency carry trade are hard to implement. Using detailed trade data reported by both the mainland Chinese and Hong Kong’s governments, we present evidence that indirect currency carry trade likely takes place via round-trip reimports. We also show that greater state control in terms of more state-owned firms does not reduce such “carry trade by trucks.”",
           "link": "https://www.nber.org/papers/w29633#fromrss",
-          "publishedOn": "2022-01-11T15:08:36.415Z",
+          "publishedOn": "2022-01-11T18:06:12.740Z",
           "wordCount": 787,
           "title": "Currency Carry Trade by Trucks: The Curious Case of China's Massive Imports from Itself -- by Xuepeng Liu, Heiwai Tang, Zhi Wang, Shang-Jin Wei"
         },
         {
-          "id": "https://www.nber.org/papers/w29628#fromrss",
+          "id": "https://www.nber.org/papers/w29635#fromrss",
           "author": null,
-          "description": "How is macroeconomic research conducted and what is it trying to accomplish? We explore these questions using information gleaned from 1,894 articles published in ten leading journals. We find that over the past 40 years there has been a growing emphasis on increasingly sophisticated quantitative theory, such as DSGE modeling, and papers employing these methods now account for the majority of articles in macro journals. The shift towards quantitative theory is mirrored by a decline in the use of econometric methods to test economic hypotheses.  Econometric techniques borrowed from applied microeconomics have to a large extent displaced time series methods, and empirical papers increasingly rely on micro and proprietary data sources. Market imperfections are pervasive, and the amount of research involving financial frictions has increased significantly in the past ten years. The frequency with which non-macro JEL codes appear in macro articles indicates a great deal of overlap between macroeconomics and other fields.",
-          "link": "https://www.nber.org/papers/w29628#fromrss",
-          "publishedOn": "2022-01-11T15:08:36.121Z",
-          "wordCount": 892,
-          "title": "Macroeconomic Research, Present and Past -- by Philip J. Glandon, Kenneth Kuttner, Sandeep Mazumder, Caleb Stroup"
+          "description": "We propose methods for constructing regularized mixtures of density forecasts.  We explore a variety of objectives and regularization penalties, and we use them in a substantive exploration of Eurozone inflation and real interest rate density forecasts.  All individual inflation forecasters (even the ex post best forecaster) are outperformed by our regularized mixtures. From the Great Recession onward, the optimal regularization tends to move density forecasts' probability mass from the centers to the tails, correcting for overconfidence.",
+          "link": "https://www.nber.org/papers/w29635#fromrss",
+          "publishedOn": "2022-01-11T18:06:12.725Z",
+          "wordCount": 885,
+          "title": "On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates -- by Francis X. Diebold, Minchul Shin, Boyuan Zhang"
         },
         {
-          "id": "https://www.nber.org/papers/w29626#fromrss",
+          "id": "https://www.nber.org/papers/w29639#fromrss",
           "author": null,
-          "description": "The price of a safe asset reflects not only the expected discounted future cash flows but also future service flows, since retrading allows partial insurance of idiosyncratic risk in an incomplete markets setting. This lowers the issuers' interest burden and allows the government to run a permanent (primary) deficit without ever paying back its debt. As idiosyncratic risk rises during recessions, so does the value of the service flows bestowing the safe asset with a negative beta. This resolves government debt valuation puzzles. Nevertheless, the government faces a “Debt Laffer Curve”. The paper also has important implications for fiscal debt sustainability.",
-          "link": "https://www.nber.org/papers/w29626#fromrss",
-          "publishedOn": "2022-01-11T15:08:35.853Z",
-          "wordCount": 860,
-          "title": "Debt as Safe Asset -- by Markus K. Brunnermeier, Sebastian A. Merkel, Yuliy Sannikov"
+          "description": "Weak labor markets typically lead young workers to invest in skills. High unemployment during COVID diverged from prior downturns: enrollment at community colleges dropped by 9.5 percent between 2019 and 2020, with the drop larger among men. COVID disruptions generated supply-side impacts on courses of study requiring significant capital and “hands on” experiential learning, particularly programs that deliver of assembly, repair and maintenance (ARM) skills. Community colleges that had relative concentrations of credentials in ARM fields pre-pandemic experienced relatively large enrollment declines. The decline in ARM enrollment explains nearly all the difference in enrollment declines by gender during COVID.",
+          "link": "https://www.nber.org/papers/w29639#fromrss",
+          "publishedOn": "2022-01-11T18:06:12.708Z",
+          "wordCount": 864,
+          "title": "Limited Supply and Lagging Enrollment: Production Technologies and Enrollment Changes at Community Colleges during the Pandemic -- by Diane Whitmore Schanzenbach, Sarah Turner"
+        },
+        {
+          "id": "https://www.nber.org/papers/w29638#fromrss",
+          "author": null,
+          "description": "We provide empirical evidence of the causal effects of changes in financial intermediaries' net worth in the aggregate economy. Our strategy identifies financial shocks as high-frequency changes in the market value of intermediaries' net worth in a narrow window around their earnings announcements, based on U.S. tick-by-tick data. Using these shocks, we estimate that news of a 1-percent decline in intermediaries' net worth leads to a 0.2-0.4 percent decrease in the market value of nonfinancial firms.  These effects are more pronounced for firms with high default risk and low liquidity and when the aggregate net worth of intermediaries is low.",
+          "link": "https://www.nber.org/papers/w29638#fromrss",
+          "publishedOn": "2022-01-11T18:06:12.675Z",
+          "wordCount": 829,
+          "title": "Financial Intermediaries and the Macroeconomy: Evidence from a High-Frequency Identification -- by Pablo Ottonello, Wenting Song"
         },
         {
           "id": "https://www.nber.org/papers/w29631#fromrss",
           "author": null,
           "description": "The network of economists who publish in leading journals is generally perceived as small, exclusive, and tightly knit. We study how author-editor and author-reviewer network connectivity and “match” influences editor decisions and reviewer recommendations of economic research at the Journal of Human Resources (JHR). Our empirical strategy employs several dimensions of fixed effects to overcome concerns of endogenous assignment of papers to editors and reviewers in order to identify causal impacts. Results show that clubs and networks play a large role in influencing both editor and reviewer decisions. Authors who attended the same PhD program, were ever colleagues with, are affiliates of the same NBER program(s), or are more closely linked via coauthorship networks as the handling editor are significantly more likely to avoid a desk rejection. Likewise, authors from the same PhD program or who previously worked with the reviewer are significantly more likely to receive a positive evaluation. We also find that sharing “signals” of ability, such as publishing in “top five”, attending a high ranked PhD program, or being employed by a similarly ranked economics department significantly influences editor decisions and/or reviewer recommendations.",
           "link": "https://www.nber.org/papers/w29631#fromrss",
-          "publishedOn": "2022-01-11T15:08:35.839Z",
+          "publishedOn": "2022-01-11T18:06:12.661Z",
           "wordCount": 929,
           "title": "Clubs and Networks in Economics Reviewing -- by Scott E. Carrell, David N. Figlio, Lester R. Lusher"
         },
@@ -658,45 +667,36 @@
           "author": null,
           "description": "We study how the disclosure of corrupt practices affects the growth of firms involved in illegal interactions with the government using randomized audits of public procurement in Brazil. On average, firms exposed by the anti-corruption program grow larger after the audits, despite experiencing a decrease in procurement contracts. We manually collect new data on the details of thousands of corruption cases, through which we uncover a large heterogeneity in our firm-level effects depending on the degree of involvement in corruption cases. Using investment-, loan-, and worker- level data, we show that the average exposed firms adapt to the loss of government contracts by changing their investment strategy. They increase capital investment and borrow more to finance such investment, while there is no change in their internal organization.  We provide qualitative support to our results by conducting new face-to-face surveys with business owners of government-dependent firms.",
           "link": "https://www.nber.org/papers/w29627#fromrss",
-          "publishedOn": "2022-01-11T15:08:35.795Z",
+          "publishedOn": "2022-01-11T18:06:12.632Z",
           "wordCount": 892,
           "title": "Revealing Corruption: Firm and Worker Level Evidence from Brazil -- by Emanuele Colonnelli, Spyridon Lagaras, Jacopo Ponticelli, Mounu Prem, Margarita Tsoutsoura"
         },
         {
-          "id": "https://www.nber.org/papers/w29629#fromrss",
+          "id": "https://www.nber.org/papers/w29628#fromrss",
           "author": null,
-          "description": "We develop a Ricardian model of trade in which countries innovate ideas that diffuse across the globe. In this model, the forces of innovation and diffusion combine to shape trade substitution patterns. Innovation makes a country technologically distinct, reducing their substitutability with other countries, while diffusion between countries generates technological similarity and increases head-to-head competition. In the special case of an innovation-only model where countries do not share ideas, productivities are independent across space, and the demand system is CES. As a consequence, departures from CES expenditure reveal diffusion patterns. Our theoretical results provide a mapping between the dynamics of observable trade flows and the dynamics of innovation and knowledge diffusion.",
-          "link": "https://www.nber.org/papers/w29629#fromrss",
-          "publishedOn": "2022-01-11T15:08:35.777Z",
-          "wordCount": 826,
-          "title": "Global Innovation and Knowledge Diffusion -- by Nelson Lind, Natalia Ramondo"
+          "description": "How is macroeconomic research conducted and what is it trying to accomplish? We explore these questions using information gleaned from 1,894 articles published in ten leading journals. We find that over the past 40 years there has been a growing emphasis on increasingly sophisticated quantitative theory, such as DSGE modeling, and papers employing these methods now account for the majority of articles in macro journals. The shift towards quantitative theory is mirrored by a decline in the use of econometric methods to test economic hypotheses.  Econometric techniques borrowed from applied microeconomics have to a large extent displaced time series methods, and empirical papers increasingly rely on micro and proprietary data sources. Market imperfections are pervasive, and the amount of research involving financial frictions has increased significantly in the past ten years. The frequency with which non-macro JEL codes appear in macro articles indicates a great deal of overlap between macroeconomics and other fields.",
+          "link": "https://www.nber.org/papers/w29628#fromrss",
+          "publishedOn": "2022-01-11T18:06:12.616Z",
+          "wordCount": 892,
+          "title": "Macroeconomic Research, Present and Past -- by Philip J. Glandon, Kenneth Kuttner, Sandeep Mazumder, Caleb Stroup"
         },
         {
-          "id": "https://www.nber.org/papers/w29634#fromrss",
+          "id": "https://www.nber.org/papers/w29626#fromrss",
           "author": null,
-          "description": "Cognitive decline may lead older Americans to make poor financial decisions. Preventing poor decisions may require timely transfer of financial control to a reliable agent. Cognitive decline, however, can develop unnoticed, creating the possibility of suboptimal timing of the transfer of control. This paper presents survey-based evidence that wealthholders regard suboptimal timing of the transfer of control, in particular delay due to unnoticed cognitive decline, as a substantial risk to financial well-being. This paper provides a theoretical framework to model such a lack of awareness and the resulting welfare loss.",
-          "link": "https://www.nber.org/papers/w29634#fromrss",
-          "publishedOn": "2022-01-11T15:08:35.760Z",
-          "wordCount": 909,
-          "title": "Cognitive Decline, Limited Awareness, Imperfect Agency, and Financial Well-being -- by John Ameriks, Andrew Caplin, Minjoon Lee, Matthew D. Shapiro, Christopher Tonetti"
+          "description": "The price of a safe asset reflects not only the expected discounted future cash flows but also future service flows, since retrading allows partial insurance of idiosyncratic risk in an incomplete markets setting. This lowers the issuers' interest burden and allows the government to run a permanent (primary) deficit without ever paying back its debt. As idiosyncratic risk rises during recessions, so does the value of the service flows bestowing the safe asset with a negative beta. This resolves government debt valuation puzzles. Nevertheless, the government faces a “Debt Laffer Curve”. The paper also has important implications for fiscal debt sustainability.",
+          "link": "https://www.nber.org/papers/w29626#fromrss",
+          "publishedOn": "2022-01-11T18:06:12.585Z",
+          "wordCount": 860,
+          "title": "Debt as Safe Asset -- by Markus K. Brunnermeier, Sebastian A. Merkel, Yuliy Sannikov"
         },
         {
           "id": "https://www.nber.org/papers/w29625#fromrss",
           "author": null,
           "description": "Cartels participating in procurement auctions frequently use bid rotation or prioritize incumbents to allocate contracts. However, establishing a link between observed allocation patterns and firm conduct has been difficult: there are cost-based competitive explanations for such patterns. We show that by focusing on auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive environments. We apply our tests to two datasets: the sample of Ohio milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions from Japan.",
           "link": "https://www.nber.org/papers/w29625#fromrss",
-          "publishedOn": "2022-01-11T15:08:35.698Z",
+          "publishedOn": "2022-01-11T18:06:12.553Z",
           "wordCount": 839,
           "title": "Using Bid Rotation and Incumbency to Detect Collusion: A Regression Discontinuity Approach -- by Kei Kawai, Jun Nakabayashi, Juan M. Ortner, Sylvain Chassang"
-        },
-        {
-          "id": "https://www.nber.org/papers/w29639#fromrss",
-          "author": null,
-          "description": "Weak labor markets typically lead young workers to invest in skills. High unemployment during COVID diverged from prior downturns: enrollment at community colleges dropped by 9.5 percent between 2019 and 2020, with the drop larger among men. COVID disruptions generated supply-side impacts on courses of study requiring significant capital and “hands on” experiential learning, particularly programs that deliver of assembly, repair and maintenance (ARM) skills. Community colleges that had relative concentrations of credentials in ARM fields pre-pandemic experienced relatively large enrollment declines. The decline in ARM enrollment explains nearly all the difference in enrollment declines by gender during COVID.",
-          "link": "https://www.nber.org/papers/w29639#fromrss",
-          "publishedOn": "2022-01-11T15:08:35.674Z",
-          "wordCount": 864,
-          "title": "Limited Supply and Lagging Enrollment: Production Technologies and Enrollment Changes at Community Colleges during the Pandemic -- by Diane Whitmore Schanzenbach, Sarah Turner"
         }
       ]
     },
@@ -800,12 +800,30 @@
       "siteUrl": "http://www.calculatedriskblog.com/",
       "articles": [
         {
+          "id": "http://www.calculatedriskblog.com/2022/01/homebuilder-comments-in-december-still.html",
+          "author": null,
+          "description": "Today, in the Calculated Risk Real Estate Newsletter: Homebuilder Comments in December: “Still a ton of demand for new homes\"\nA brief excerpt: \nSome homebuilder comments courtesy of Rick Palacios Jr., Director of Research at John Burns Real Estate Consulting (a must follow for housing on twitter!):\nHere is Rick’s summary of builder comments for various markets (emphasis added in bold):\nHome builder survey results are in for full month of December. Top themes: 1) Still a ton of demand for new homes. 2) Rampant construction material & labor shortages. 3) Bit of chatter on possible margin compression several quarters ahead. Market commentary to follow…\n#Atlanta builder: “Have virtually no available inventory & huge backlog of 1,000+ units going in to 2022. Still metering sales in most communities, where the demand of waiting buyers still outnumbers our supply.”\n#LasVegas builder: “Busiest orders for December I can remember in a long time.”\n#Charlotte builder: “Haven’t seen this hot of a new homebuilding market in 27 years in Charlotte. Reminds me of the go-go days in the late 1980's right before the S & L's (Savings & Loan Crisis) rocked my new homebuilding world in Southern California.”\nThere is much more in the article.  You can subscribe at https://calculatedrisk.substack.com/",
+          "link": "http://www.calculatedriskblog.com/2022/01/homebuilder-comments-in-december-still.html",
+          "publishedOn": "2022-01-11T17:21:00.002Z",
+          "wordCount": 1039,
+          "title": "Homebuilder Comments in December: “Still a ton of demand for new homes\""
+        },
+        {
+          "id": "http://www.calculatedriskblog.com/2022/01/missing-workers-by-age-group.html",
+          "author": null,
+          "description": "Note: This is an update to an earlier post.\nIn November, Goldman Sachs economists put out a research note on the labor force participation rate: Why Isn’t Labor Force Participation Recovering?\n\nHere are few excerpts from the note: \nWhile the unemployment rate continues to fall quickly, labor force participation has made no progress since August 2020. ... Most of the 5.0mn persons who have exited the labor force since the start of the pandemic are over age 55 (3.4mn), largely reflecting early (1.5mn) and natural (1mn) retirements that likely won’t reverse. The outlook for prime-age persons who have exited the labor force (1.7mn) is more positive, since very few are discouraged and most still view their exits as temporary.\nFirst, there are two important monthly surveys from the BLS. The part…",
+          "link": "http://www.calculatedriskblog.com/2022/01/missing-workers-by-age-group.html",
+          "publishedOn": "2022-01-11T15:11:00.000Z",
+          "wordCount": 1231,
+          "title": "Missing Workers by Age Group"
+        },
+        {
           "id": "http://www.calculatedriskblog.com/2022/01/leading-index-for-commercial-real.html",
           "author": null,
           "description": "From Dodge Data Analytics: Dodge Momentum Index Declines In December \nThe Dodge Momentum Index fell 3% in December to 166.4 (2000=100), down from the revised November reading of 170.7. The Momentum Index, issued by Dodge Construction Network, is a monthly measure of the initial report for nonresidential building projects in planning, which have been shown to lead construction spending for nonresidential buildings by a full year. In December, commercial planning fell 4%, and institutional planning slipped 1%.\nDespite these declines, 2021 was a banner year for the Dodge Momentum Index — despite the lingering risks of COVID-19 and low demand for some types of nonresidential buildings. Throughout the year, the overall Momentum Index increased 23%, the strongest annual gain since 2005. Both the commercial and institutional components of the Momentum Index saw similar gains — with their levels of activity reaching 13- and 14-year highs, respectively.\nemphasis added\n Click on graph for larger image.\nThis graph shows the Dodge Momentum Index since 2002. The index was at 166.4 in December, down from 170.7 in November.\nAccording to Dodge, this index leads \"construction spending for nonresidential buildings by a full year\".  This index suggested a decline in Commercial Real Estate construction through most of 2021, but a solid pickup in 2022.",
           "link": "http://www.calculatedriskblog.com/2022/01/leading-index-for-commercial-real.html",
           "publishedOn": "2022-01-11T13:34:00.004Z",
-          "wordCount": 1043,
+          "wordCount": 1045,
           "title": "Leading Index for Commercial Real Estate \"Declines in December\"; Up Sharply Year-over-year"
         },
         {
@@ -1005,24 +1023,6 @@
           "publishedOn": "2022-01-06T15:03:00.002Z",
           "wordCount": 1029,
           "title": "ISM® Services Index Decreased to 62.0% in December"
-        },
-        {
-          "id": "http://www.calculatedriskblog.com/2022/01/trade-deficit-increased-to-802-billion.html",
-          "author": null,
-          "description": "From the Department of Commerce reported:\nThe U.S. Census Bureau and the U.S. Bureau of Economic Analysis announced today that the goods and services deficit was $80.2 billion in November, up $13.0 billion from $67.2 billion in October, revised.\nNovember exports were $224.2 billion, $0.4 billion more than October exports. November imports were $304.4 billion, $13.4 billion more than October imports.\n  emphasis added\n Click on graph for larger image.\nBoth exports and imports increased in November. \nExports are up 21% compared to November 2020; imports are up 21% compared to November 2020.\nBoth imports and exports decreased sharply due to COVID-19, and have now bounced back (imports more than exports),\nThe second graph shows the U.S. trade deficit, with and without petroleum.\n The blue line is the total deficit, and the black line is the petroleum deficit, and the red line is the trade deficit ex-petroleum products.\nNote that net, imports and exports of petroleum products are close to zero.\nThe trade deficit with China increased to $32.3 billion in November, from $30.6 billion in November 2020.",
-          "link": "http://www.calculatedriskblog.com/2022/01/trade-deficit-increased-to-802-billion.html",
-          "publishedOn": "2022-01-06T13:44:00.006Z",
-          "wordCount": 1004,
-          "title": "Trade Deficit Increased to $80.2 Billion in November"
-        },
-        {
-          "id": "http://www.calculatedriskblog.com/2022/01/weekly-initial-unemployment-claims.html",
-          "author": null,
-          "description": "The DOL reported:\nIn the week ending January 1, the advance figure for seasonally adjusted initial claims was 207,000, an increase of 7,000  from the previous week's revised level. The previous week's level was revised up by 2,000 from 198,000 to 200,000. The  4-week moving average was 204,500, an increase of 4,750 from the previous week's revised average. The previous  week's average was revised up by 500 from 199,250 to 199,750.\nemphasis added\nThe following graph shows the 4-week moving average of weekly claims since 1971.\nClick on graph for larger image.\nThe dashed line on the graph is the current 4-week average. The four-week average of weekly unemployment claims increased to 204,500.\nThe previous week was revised up.\nWeekly claims were close to the consensus forecast.",
-          "link": "http://www.calculatedriskblog.com/2022/01/weekly-initial-unemployment-claims.html",
-          "publishedOn": "2022-01-06T13:34:00.003Z",
-          "wordCount": 951,
-          "title": "Weekly Initial Unemployment Claims Increase to 207,000"
         }
       ]
     }
