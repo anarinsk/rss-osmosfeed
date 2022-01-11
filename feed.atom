@@ -1,65 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-11T03:09:12.456Z</id>
+    <id>urn:2022-01-11T06:07:35.927Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-01-11T03:09:12.456Z</updated>
+    <updated>2022-01-11T06:07:35.927Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Using Bid Rotation and Incumbency to Detect Collusion: A Regression Discontinuity Approach -- by Kei Kawai, Jun Nakabayashi, Juan M. Ortner, Sylvain Chassang]]></title>
-        <id>https://www.nber.org/papers/w29625#fromrss</id>
-        <link href="https://www.nber.org/papers/w29625#fromrss"/>
-        <updated>2022-01-11T03:08:29.412Z</updated>
-        <summary type="html"><![CDATA[Cartels participating in procurement auctions frequently use bid rotation or prioritize incumbents to allocate contracts. However, establishing a link between observed allocation patterns and firm conduct has been difficult: there are cost-based competitive explanations for such patterns. We show that by focusing on auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive environments. We apply our tests to two datasets: the sample of Ohio milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions from Japan.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Innovation and Knowledge Diffusion -- by Nelson Lind, Natalia Ramondo]]></title>
-        <id>https://www.nber.org/papers/w29629#fromrss</id>
-        <link href="https://www.nber.org/papers/w29629#fromrss"/>
-        <updated>2022-01-11T03:08:29.390Z</updated>
-        <summary type="html"><![CDATA[We develop a Ricardian model of trade in which countries innovate ideas that diffuse across the globe. In this model, the forces of innovation and diffusion combine to shape trade substitution patterns. Innovation makes a country technologically distinct, reducing their substitutability with other countries, while diffusion between countries generates technological similarity and increases head-to-head competition. In the special case of an innovation-only model where countries do not share ideas, productivities are independent across space, and the demand system is CES. As a consequence, departures from CES expenditure reveal diffusion patterns. Our theoretical results provide a mapping between the dynamics of observable trade flows and the dynamics of innovation and knowledge diffusion.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cognitive Decline, Limited Awareness, Imperfect Agency, and Financial Well-being -- by John Ameriks, Andrew Caplin, Minjoon Lee, Matthew D. Shapiro, Christopher Tonetti]]></title>
-        <id>https://www.nber.org/papers/w29634#fromrss</id>
-        <link href="https://www.nber.org/papers/w29634#fromrss"/>
-        <updated>2022-01-11T03:08:29.182Z</updated>
-        <summary type="html"><![CDATA[Cognitive decline may lead older Americans to make poor financial decisions. Preventing poor decisions may require timely transfer of financial control to a reliable agent. Cognitive decline, however, can develop unnoticed, creating the possibility of suboptimal timing of the transfer of control. This paper presents survey-based evidence that wealthholders regard suboptimal timing of the transfer of control, in particular delay due to unnoticed cognitive decline, as a substantial risk to financial well-being. This paper provides a theoretical framework to model such a lack of awareness and the resulting welfare loss.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonprofits in Good Times and Bad Times -- by Christine L. Exley, Nils H. Lehr, Stephen J. Terry]]></title>
-        <id>https://www.nber.org/papers/w29630#fromrss</id>
-        <link href="https://www.nber.org/papers/w29630#fromrss"/>
-        <updated>2022-01-11T03:08:29.154Z</updated>
-        <summary type="html"><![CDATA[Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Currency Carry Trade by Trucks: The Curious Case of China's Massive Imports from Itself -- by Xuepeng Liu, Heiwai Tang, Zhi Wang, Shang-Jin Wei]]></title>
-        <id>https://www.nber.org/papers/w29633#fromrss</id>
-        <link href="https://www.nber.org/papers/w29633#fromrss"/>
-        <updated>2022-01-11T03:08:29.135Z</updated>
-        <summary type="html"><![CDATA[With capital controls, the standard financial market transactions needed for currency carry trade are hard to implement. Using detailed trade data reported by both the mainland Chinese and Hong Kong’s governments, we present evidence that indirect currency carry trade likely takes place via round-trip reimports. We also show that greater state control in terms of more state-owned firms does not reduce such “carry trade by trucks.”]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Intermediation via Credit Chains -- by Zhiguo He, Jian Li]]></title>
         <id>https://www.nber.org/papers/w29632#fromrss</id>
         <link href="https://www.nber.org/papers/w29632#fromrss"/>
-        <updated>2022-01-11T03:08:29.100Z</updated>
+        <updated>2022-01-11T06:06:48.568Z</updated>
         <summary type="html"><![CDATA[The modern financial system features complicated financial intermediation chains, with each layer performing a certain degree of credit/maturity transformation. We develop a dynamic model in which an entrepreneur borrows from overlapping-generation households via layers of funds, forming a credit chain. Each intermediary fund in the chain faces rollover risks from its lenders, and the optimal debt contracts among layers are time invariant and layer independent. The model delivers new insights regarding the benefits of intermediation via layers: the chain structure insulates interim negative fundamental shocks and protects the underlying cash flows from being discounted heavily during bad times, resulting in a greater borrowing capacity. We show that the equilibrium chain length minimizes the run risk for any given contract and find that restricting credit chain length can improve total welfare once the available funding from households has been endogenized.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -69,48 +19,28 @@
         <title type="html"><![CDATA[Financial Intermediaries and the Macroeconomy: Evidence from a High-Frequency Identification -- by Pablo Ottonello, Wenting Song]]></title>
         <id>https://www.nber.org/papers/w29638#fromrss</id>
         <link href="https://www.nber.org/papers/w29638#fromrss"/>
-        <updated>2022-01-11T03:08:29.085Z</updated>
+        <updated>2022-01-11T06:06:48.510Z</updated>
         <summary type="html"><![CDATA[We provide empirical evidence of the causal effects of changes in financial intermediaries' net worth in the aggregate economy. Our strategy identifies financial shocks as high-frequency changes in the market value of intermediaries' net worth in a narrow window around their earnings announcements, based on U.S. tick-by-tick data. Using these shocks, we estimate that news of a 1-percent decline in intermediaries' net worth leads to a 0.2-0.4 percent decrease in the market value of nonfinancial firms.  These effects are more pronounced for firms with high default risk and low liquidity and when the aggregate net worth of intermediaries is low.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clubs and Networks in Economics Reviewing -- by Scott E. Carrell, David N. Figlio, Lester R. Lusher]]></title>
-        <id>https://www.nber.org/papers/w29631#fromrss</id>
-        <link href="https://www.nber.org/papers/w29631#fromrss"/>
-        <updated>2022-01-11T03:08:28.621Z</updated>
-        <summary type="html"><![CDATA[The network of economists who publish in leading journals is generally perceived as small, exclusive, and tightly knit. We study how author-editor and author-reviewer network connectivity and “match” influences editor decisions and reviewer recommendations of economic research at the Journal of Human Resources (JHR). Our empirical strategy employs several dimensions of fixed effects to overcome concerns of endogenous assignment of papers to editors and reviewers in order to identify causal impacts. Results show that clubs and networks play a large role in influencing both editor and reviewer decisions. Authors who attended the same PhD program, were ever colleagues with, are affiliates of the same NBER program(s), or are more closely linked via coauthorship networks as the handling editor are significantly more likely to avoid a desk rejection. Likewise, authors from the same PhD program or who previously worked with the reviewer are significantly more likely to receive a positive evaluation. We also find that sharing “signals” of ability, such as publishing in “top five”, attending a high ranked PhD program, or being employed by a similarly ranked economics department significantly influences editor decisions and/or reviewer recommendations.]]></summary>
+        <title type="html"><![CDATA[Limited Supply and Lagging Enrollment: Production Technologies and Enrollment Changes at Community Colleges during the Pandemic -- by Diane Whitmore Schanzenbach, Sarah Turner]]></title>
+        <id>https://www.nber.org/papers/w29639#fromrss</id>
+        <link href="https://www.nber.org/papers/w29639#fromrss"/>
+        <updated>2022-01-11T06:06:48.497Z</updated>
+        <summary type="html"><![CDATA[Weak labor markets typically lead young workers to invest in skills. High unemployment during COVID diverged from prior downturns: enrollment at community colleges dropped by 9.5 percent between 2019 and 2020, with the drop larger among men. COVID disruptions generated supply-side impacts on courses of study requiring significant capital and “hands on” experiential learning, particularly programs that deliver of assembly, repair and maintenance (ARM) skills. Community colleges that had relative concentrations of credentials in ARM fields pre-pandemic experienced relatively large enrollment declines. The decline in ARM enrollment explains nearly all the difference in enrollment declines by gender during COVID.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Information versus Investment -- by Stephen J. Terry, Toni M. Whited, Anastasia A. Zakolyukina]]></title>
-        <id>https://www.nber.org/papers/w29636#fromrss</id>
-        <link href="https://www.nber.org/papers/w29636#fromrss"/>
-        <updated>2022-01-11T03:08:28.593Z</updated>
-        <summary type="html"><![CDATA[We quantify the real implications of trade-offs between firm information disclosure and long-term investment efficiency. We estimate a dynamic equilibrium model in which firm managers confront realistic incentives to misreport earnings and distort their real investment choices. The model implies a socially optimal level of disclosure regulation that exceeds the estimated value. Counterfactual analysis reveals that eliminating earnings misreporting completely through disclosure regulation incentivizes managers to distort real investment. Lower earnings informativeness raises the cost of capital, which results in a 5.7% drop in average firm value, but more modest effects on social welfare and aggregate growth.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debt as Safe Asset -- by Markus K. Brunnermeier, Sebastian A. Merkel, Yuliy Sannikov]]></title>
-        <id>https://www.nber.org/papers/w29626#fromrss</id>
-        <link href="https://www.nber.org/papers/w29626#fromrss"/>
-        <updated>2022-01-11T03:08:28.577Z</updated>
-        <summary type="html"><![CDATA[The price of a safe asset reflects not only the expected discounted future cash flows but also future service flows, since retrading allows partial insurance of idiosyncratic risk in an incomplete markets setting. This lowers the issuers' interest burden and allows the government to run a permanent (primary) deficit without ever paying back its debt. As idiosyncratic risk rises during recessions, so does the value of the service flows bestowing the safe asset with a negative beta. This resolves government debt valuation puzzles. Nevertheless, the government faces a “Debt Laffer Curve”. The paper also has important implications for fiscal debt sustainability.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bounds, Benefits, and Bad Air: Welfare Impacts of Pollution Alerts -- by Michael L. Anderson, Minwoo Hyun, Jaecheol Lee]]></title>
-        <id>https://www.nber.org/papers/w29637#fromrss</id>
-        <link href="https://www.nber.org/papers/w29637#fromrss"/>
-        <updated>2022-01-11T03:08:28.563Z</updated>
-        <summary type="html"><![CDATA[Though air-quality alert systems (AQAS) cover more than 1.7 billion people worldwide, there has been little welfare analysis of these systems. This paper presents a theoretical framework for deriving lower bounds on the net benefits of an AQAS and applies it to a South Korean system currently covering over 51 million people. Estimating a regression discontinuity design, we find that an alert issuance reduced youth respiratory expenditures by 30% and adult cardiovascular expenditures by 23%. The overall system reduced externalized health expenditures by 28.6 million dollars during 2016–2017, with a minimum benefit-cost ratio of 7.1:1. Including dynamic impacts of alerts increases the minimum benefits (benefit-cost ratio) to 36.7 million dollars (9.2:1). Our findings imply that the AQAS generates significant net benefits and suggests that manipulation of air quality data, which has been observed in other contexts, may negatively impact social welfare.]]></summary>
+        <title type="html"><![CDATA[Cognitive Decline, Limited Awareness, Imperfect Agency, and Financial Well-being -- by John Ameriks, Andrew Caplin, Minjoon Lee, Matthew D. Shapiro, Christopher Tonetti]]></title>
+        <id>https://www.nber.org/papers/w29634#fromrss</id>
+        <link href="https://www.nber.org/papers/w29634#fromrss"/>
+        <updated>2022-01-11T06:06:48.485Z</updated>
+        <summary type="html"><![CDATA[Cognitive decline may lead older Americans to make poor financial decisions. Preventing poor decisions may require timely transfer of financial control to a reliable agent. Cognitive decline, however, can develop unnoticed, creating the possibility of suboptimal timing of the transfer of control. This paper presents survey-based evidence that wealthholders regard suboptimal timing of the transfer of control, in particular delay due to unnoticed cognitive decline, as a substantial risk to financial well-being. This paper provides a theoretical framework to model such a lack of awareness and the resulting welfare loss.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -119,7 +49,7 @@
         <title type="html"><![CDATA[Macroeconomic Research, Present and Past -- by Philip J. Glandon, Kenneth Kuttner, Sandeep Mazumder, Caleb Stroup]]></title>
         <id>https://www.nber.org/papers/w29628#fromrss</id>
         <link href="https://www.nber.org/papers/w29628#fromrss"/>
-        <updated>2022-01-11T03:08:28.533Z</updated>
+        <updated>2022-01-11T06:06:48.463Z</updated>
         <summary type="html"><![CDATA[How is macroeconomic research conducted and what is it trying to accomplish? We explore these questions using information gleaned from 1,894 articles published in ten leading journals. We find that over the past 40 years there has been a growing emphasis on increasingly sophisticated quantitative theory, such as DSGE modeling, and papers employing these methods now account for the majority of articles in macro journals. The shift towards quantitative theory is mirrored by a decline in the use of econometric methods to test economic hypotheses.  Econometric techniques borrowed from applied microeconomics have to a large extent displaced time series methods, and empirical papers increasingly rely on micro and proprietary data sources. Market imperfections are pervasive, and the amount of research involving financial frictions has increased significantly in the past ten years. The frequency with which non-macro JEL codes appear in macro articles indicates a great deal of overlap between macroeconomics and other fields.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -129,18 +59,78 @@
         <title type="html"><![CDATA[On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates -- by Francis X. Diebold, Minchul Shin, Boyuan Zhang]]></title>
         <id>https://www.nber.org/papers/w29635#fromrss</id>
         <link href="https://www.nber.org/papers/w29635#fromrss"/>
-        <updated>2022-01-11T03:08:28.518Z</updated>
+        <updated>2022-01-11T06:06:48.453Z</updated>
         <summary type="html"><![CDATA[We propose methods for constructing regularized mixtures of density forecasts.  We explore a variety of objectives and regularization penalties, and we use them in a substantive exploration of Eurozone inflation and real interest rate density forecasts.  All individual inflation forecasters (even the ex post best forecaster) are outperformed by our regularized mixtures. From the Great Recession onward, the optimal regularization tends to move density forecasts' probability mass from the centers to the tails, correcting for overconfidence.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Limited Supply and Lagging Enrollment: Production Technologies and Enrollment Changes at Community Colleges during the Pandemic -- by Diane Whitmore Schanzenbach, Sarah Turner]]></title>
-        <id>https://www.nber.org/papers/w29639#fromrss</id>
-        <link href="https://www.nber.org/papers/w29639#fromrss"/>
-        <updated>2022-01-11T03:08:28.492Z</updated>
-        <summary type="html"><![CDATA[Weak labor markets typically lead young workers to invest in skills. High unemployment during COVID diverged from prior downturns: enrollment at community colleges dropped by 9.5 percent between 2019 and 2020, with the drop larger among men. COVID disruptions generated supply-side impacts on courses of study requiring significant capital and “hands on” experiential learning, particularly programs that deliver of assembly, repair and maintenance (ARM) skills. Community colleges that had relative concentrations of credentials in ARM fields pre-pandemic experienced relatively large enrollment declines. The decline in ARM enrollment explains nearly all the difference in enrollment declines by gender during COVID.]]></summary>
+        <title type="html"><![CDATA[Currency Carry Trade by Trucks: The Curious Case of China's Massive Imports from Itself -- by Xuepeng Liu, Heiwai Tang, Zhi Wang, Shang-Jin Wei]]></title>
+        <id>https://www.nber.org/papers/w29633#fromrss</id>
+        <link href="https://www.nber.org/papers/w29633#fromrss"/>
+        <updated>2022-01-11T06:06:48.431Z</updated>
+        <summary type="html"><![CDATA[With capital controls, the standard financial market transactions needed for currency carry trade are hard to implement. Using detailed trade data reported by both the mainland Chinese and Hong Kong’s governments, we present evidence that indirect currency carry trade likely takes place via round-trip reimports. We also show that greater state control in terms of more state-owned firms does not reduce such “carry trade by trucks.”]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Information versus Investment -- by Stephen J. Terry, Toni M. Whited, Anastasia A. Zakolyukina]]></title>
+        <id>https://www.nber.org/papers/w29636#fromrss</id>
+        <link href="https://www.nber.org/papers/w29636#fromrss"/>
+        <updated>2022-01-11T06:06:48.419Z</updated>
+        <summary type="html"><![CDATA[We quantify the real implications of trade-offs between firm information disclosure and long-term investment efficiency. We estimate a dynamic equilibrium model in which firm managers confront realistic incentives to misreport earnings and distort their real investment choices. The model implies a socially optimal level of disclosure regulation that exceeds the estimated value. Counterfactual analysis reveals that eliminating earnings misreporting completely through disclosure regulation incentivizes managers to distort real investment. Lower earnings informativeness raises the cost of capital, which results in a 5.7% drop in average firm value, but more modest effects on social welfare and aggregate growth.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bounds, Benefits, and Bad Air: Welfare Impacts of Pollution Alerts -- by Michael L. Anderson, Minwoo Hyun, Jaecheol Lee]]></title>
+        <id>https://www.nber.org/papers/w29637#fromrss</id>
+        <link href="https://www.nber.org/papers/w29637#fromrss"/>
+        <updated>2022-01-11T06:06:48.408Z</updated>
+        <summary type="html"><![CDATA[Though air-quality alert systems (AQAS) cover more than 1.7 billion people worldwide, there has been little welfare analysis of these systems. This paper presents a theoretical framework for deriving lower bounds on the net benefits of an AQAS and applies it to a South Korean system currently covering over 51 million people. Estimating a regression discontinuity design, we find that an alert issuance reduced youth respiratory expenditures by 30% and adult cardiovascular expenditures by 23%. The overall system reduced externalized health expenditures by 28.6 million dollars during 2016–2017, with a minimum benefit-cost ratio of 7.1:1. Including dynamic impacts of alerts increases the minimum benefits (benefit-cost ratio) to 36.7 million dollars (9.2:1). Our findings imply that the AQAS generates significant net benefits and suggests that manipulation of air quality data, which has been observed in other contexts, may negatively impact social welfare.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonprofits in Good Times and Bad Times -- by Christine L. Exley, Nils H. Lehr, Stephen J. Terry]]></title>
+        <id>https://www.nber.org/papers/w29630#fromrss</id>
+        <link href="https://www.nber.org/papers/w29630#fromrss"/>
+        <updated>2022-01-11T06:06:48.325Z</updated>
+        <summary type="html"><![CDATA[Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debt as Safe Asset -- by Markus K. Brunnermeier, Sebastian A. Merkel, Yuliy Sannikov]]></title>
+        <id>https://www.nber.org/papers/w29626#fromrss</id>
+        <link href="https://www.nber.org/papers/w29626#fromrss"/>
+        <updated>2022-01-11T06:06:48.312Z</updated>
+        <summary type="html"><![CDATA[The price of a safe asset reflects not only the expected discounted future cash flows but also future service flows, since retrading allows partial insurance of idiosyncratic risk in an incomplete markets setting. This lowers the issuers' interest burden and allows the government to run a permanent (primary) deficit without ever paying back its debt. As idiosyncratic risk rises during recessions, so does the value of the service flows bestowing the safe asset with a negative beta. This resolves government debt valuation puzzles. Nevertheless, the government faces a “Debt Laffer Curve”. The paper also has important implications for fiscal debt sustainability.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clubs and Networks in Economics Reviewing -- by Scott E. Carrell, David N. Figlio, Lester R. Lusher]]></title>
+        <id>https://www.nber.org/papers/w29631#fromrss</id>
+        <link href="https://www.nber.org/papers/w29631#fromrss"/>
+        <updated>2022-01-11T06:06:48.290Z</updated>
+        <summary type="html"><![CDATA[The network of economists who publish in leading journals is generally perceived as small, exclusive, and tightly knit. We study how author-editor and author-reviewer network connectivity and “match” influences editor decisions and reviewer recommendations of economic research at the Journal of Human Resources (JHR). Our empirical strategy employs several dimensions of fixed effects to overcome concerns of endogenous assignment of papers to editors and reviewers in order to identify causal impacts. Results show that clubs and networks play a large role in influencing both editor and reviewer decisions. Authors who attended the same PhD program, were ever colleagues with, are affiliates of the same NBER program(s), or are more closely linked via coauthorship networks as the handling editor are significantly more likely to avoid a desk rejection. Likewise, authors from the same PhD program or who previously worked with the reviewer are significantly more likely to receive a positive evaluation. We also find that sharing “signals” of ability, such as publishing in “top five”, attending a high ranked PhD program, or being employed by a similarly ranked economics department significantly influences editor decisions and/or reviewer recommendations.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Innovation and Knowledge Diffusion -- by Nelson Lind, Natalia Ramondo]]></title>
+        <id>https://www.nber.org/papers/w29629#fromrss</id>
+        <link href="https://www.nber.org/papers/w29629#fromrss"/>
+        <updated>2022-01-11T06:06:48.275Z</updated>
+        <summary type="html"><![CDATA[We develop a Ricardian model of trade in which countries innovate ideas that diffuse across the globe. In this model, the forces of innovation and diffusion combine to shape trade substitution patterns. Innovation makes a country technologically distinct, reducing their substitutability with other countries, while diffusion between countries generates technological similarity and increases head-to-head competition. In the special case of an innovation-only model where countries do not share ideas, productivities are independent across space, and the demand system is CES. As a consequence, departures from CES expenditure reveal diffusion patterns. Our theoretical results provide a mapping between the dynamics of observable trade flows and the dynamics of innovation and knowledge diffusion.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -149,8 +139,18 @@
         <title type="html"><![CDATA[Revealing Corruption: Firm and Worker Level Evidence from Brazil -- by Emanuele Colonnelli, Spyridon Lagaras, Jacopo Ponticelli, Mounu Prem, Margarita Tsoutsoura]]></title>
         <id>https://www.nber.org/papers/w29627#fromrss</id>
         <link href="https://www.nber.org/papers/w29627#fromrss"/>
-        <updated>2022-01-11T03:08:28.450Z</updated>
+        <updated>2022-01-11T06:06:48.183Z</updated>
         <summary type="html"><![CDATA[We study how the disclosure of corrupt practices affects the growth of firms involved in illegal interactions with the government using randomized audits of public procurement in Brazil. On average, firms exposed by the anti-corruption program grow larger after the audits, despite experiencing a decrease in procurement contracts. We manually collect new data on the details of thousands of corruption cases, through which we uncover a large heterogeneity in our firm-level effects depending on the degree of involvement in corruption cases. Using investment-, loan-, and worker- level data, we show that the average exposed firms adapt to the loss of government contracts by changing their investment strategy. They increase capital investment and borrow more to finance such investment, while there is no change in their internal organization.  We provide qualitative support to our results by conducting new face-to-face surveys with business owners of government-dependent firms.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Bid Rotation and Incumbency to Detect Collusion: A Regression Discontinuity Approach -- by Kei Kawai, Jun Nakabayashi, Juan M. Ortner, Sylvain Chassang]]></title>
+        <id>https://www.nber.org/papers/w29625#fromrss</id>
+        <link href="https://www.nber.org/papers/w29625#fromrss"/>
+        <updated>2022-01-11T06:06:48.137Z</updated>
+        <summary type="html"><![CDATA[Cartels participating in procurement auctions frequently use bid rotation or prioritize incumbents to allocate contracts. However, establishing a link between observed allocation patterns and firm conduct has been difficult: there are cost-based competitive explanations for such patterns. We show that by focusing on auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive environments. We apply our tests to two datasets: the sample of Ohio milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions from Japan.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -338,16 +338,6 @@ Here is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally pr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Technology transfer and early industrial development]]></title>
-        <id>https://voxeu.org/article/technology-transfer-and-early-industrial-development</id>
-        <link href="https://voxeu.org/article/technology-transfer-and-early-industrial-development"/>
-        <updated>2022-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding which industrial policies work is important to promote the development of poorer countries. This column examines the effects of technology and knowledge transfers on early industrial development, using evidence from the Sino-Soviet Alliance in the 1950s. The authors find that simultaneously receiving technologically advanced capital goods and know-how transfer had large, persistent effects on plant performance, while the effects of receiving capital only were short-lived. The know-how component was essential to generate horizontal and vertical spillovers and production reallocation from state-owned to privately owned companies since the late 1990s.]]></summary>
-        <author>
-            <name>Michela  Giorcelli, Bo Li</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using compensating efficiencies to assess EU merger policy]]></title>
         <id>https://voxeu.org/article/using-compensating-efficiencies-assess-eu-merger-policy</id>
         <link href="https://voxeu.org/article/using-compensating-efficiencies-assess-eu-merger-policy"/>
@@ -355,6 +345,16 @@ Here is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally pr
         <summary type="html"><![CDATA[The majority of large horizontal mergers are unconditionally cleared by antitrust authorities. Since most horizontal mergers generate incentives to increase prices and/or reduce output, the presumption seems to be that the resulting efficiencies must be sizeable to make them good for consumers. This column uses a novel database covering over 1,000 mergers scrutinised by the European Commission and shows that, under certain assumptions, compensating efficiencies appear too large to be achievable for a large part of the mergers in the sample. The Commission's view on required efficiencies might have been too optimistic and it appears to have been too lax in enforcing its merger policy.]]></summary>
         <author>
             <name>Pauline Affeldt, Tomaso Duso, Klaus Gugler, Joanna Piechucka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technology transfer and early industrial development]]></title>
+        <id>https://voxeu.org/article/technology-transfer-and-early-industrial-development</id>
+        <link href="https://voxeu.org/article/technology-transfer-and-early-industrial-development"/>
+        <updated>2022-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding which industrial policies work is important to promote the development of poorer countries. This column examines the effects of technology and knowledge transfers on early industrial development, using evidence from the Sino-Soviet Alliance in the 1950s. The authors find that simultaneously receiving technologically advanced capital goods and know-how transfer had large, persistent effects on plant performance, while the effects of receiving capital only were short-lived. The know-how component was essential to generate horizontal and vertical spillovers and production reallocation from state-owned to privately owned companies since the late 1990s.]]></summary>
+        <author>
+            <name>Michela  Giorcelli, Bo Li</name>
         </author>
     </entry>
     <entry>
