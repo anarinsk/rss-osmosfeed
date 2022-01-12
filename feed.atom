@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-11T21:05:07.153Z</id>
+    <id>urn:2022-01-12T00:22:52.928Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-01-11T21:05:07.153Z</updated>
+    <updated>2022-01-12T00:22:52.928Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Global Innovation and Knowledge Diffusion -- by Nelson Lind, Natalia Ramondo]]></title>
-        <id>https://www.nber.org/papers/w29629#fromrss</id>
-        <link href="https://www.nber.org/papers/w29629#fromrss"/>
-        <updated>2022-01-11T21:04:20.523Z</updated>
-        <summary type="html"><![CDATA[We develop a Ricardian model of trade in which countries innovate ideas that diffuse across the globe. In this model, the forces of innovation and diffusion combine to shape trade substitution patterns. Innovation makes a country technologically distinct, reducing their substitutability with other countries, while diffusion between countries generates technological similarity and increases head-to-head competition. In the special case of an innovation-only model where countries do not share ideas, productivities are independent across space, and the demand system is CES. As a consequence, departures from CES expenditure reveal diffusion patterns. Our theoretical results provide a mapping between the dynamics of observable trade flows and the dynamics of innovation and knowledge diffusion.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Currency Carry Trade by Trucks: The Curious Case of China's Massive Imports from Itself -- by Xuepeng Liu, Heiwai Tang, Zhi Wang, Shang-Jin Wei]]></title>
-        <id>https://www.nber.org/papers/w29633#fromrss</id>
-        <link href="https://www.nber.org/papers/w29633#fromrss"/>
-        <updated>2022-01-11T21:04:20.386Z</updated>
-        <summary type="html"><![CDATA[With capital controls, the standard financial market transactions needed for currency carry trade are hard to implement. Using detailed trade data reported by both the mainland Chinese and Hong Kong’s governments, we present evidence that indirect currency carry trade likely takes place via round-trip reimports. We also show that greater state control in terms of more state-owned firms does not reduce such “carry trade by trucks.”]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cognitive Decline, Limited Awareness, Imperfect Agency, and Financial Well-being -- by John Ameriks, Andrew Caplin, Minjoon Lee, Matthew D. Shapiro, Christopher Tonetti]]></title>
-        <id>https://www.nber.org/papers/w29634#fromrss</id>
-        <link href="https://www.nber.org/papers/w29634#fromrss"/>
-        <updated>2022-01-11T21:04:20.101Z</updated>
-        <summary type="html"><![CDATA[Cognitive decline may lead older Americans to make poor financial decisions. Preventing poor decisions may require timely transfer of financial control to a reliable agent. Cognitive decline, however, can develop unnoticed, creating the possibility of suboptimal timing of the transfer of control. This paper presents survey-based evidence that wealthholders regard suboptimal timing of the transfer of control, in particular delay due to unnoticed cognitive decline, as a substantial risk to financial well-being. This paper provides a theoretical framework to model such a lack of awareness and the resulting welfare loss.]]></summary>
+        <title type="html"><![CDATA[Nonprofits in Good Times and Bad Times -- by Christine L. Exley, Nils H. Lehr, Stephen J. Terry]]></title>
+        <id>https://www.nber.org/papers/w29630#fromrss</id>
+        <link href="https://www.nber.org/papers/w29630#fromrss"/>
+        <updated>2022-01-12T00:22:05.209Z</updated>
+        <summary type="html"><![CDATA[Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -39,108 +19,8 @@
         <title type="html"><![CDATA[Information versus Investment -- by Stephen J. Terry, Toni M. Whited, Anastasia A. Zakolyukina]]></title>
         <id>https://www.nber.org/papers/w29636#fromrss</id>
         <link href="https://www.nber.org/papers/w29636#fromrss"/>
-        <updated>2022-01-11T21:04:20.085Z</updated>
+        <updated>2022-01-12T00:22:05.174Z</updated>
         <summary type="html"><![CDATA[We quantify the real implications of trade-offs between firm information disclosure and long-term investment efficiency. We estimate a dynamic equilibrium model in which firm managers confront realistic incentives to misreport earnings and distort their real investment choices. The model implies a socially optimal level of disclosure regulation that exceeds the estimated value. Counterfactual analysis reveals that eliminating earnings misreporting completely through disclosure regulation incentivizes managers to distort real investment. Lower earnings informativeness raises the cost of capital, which results in a 5.7% drop in average firm value, but more modest effects on social welfare and aggregate growth.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates -- by Francis X. Diebold, Minchul Shin, Boyuan Zhang]]></title>
-        <id>https://www.nber.org/papers/w29635#fromrss</id>
-        <link href="https://www.nber.org/papers/w29635#fromrss"/>
-        <updated>2022-01-11T21:04:20.073Z</updated>
-        <summary type="html"><![CDATA[We propose methods for constructing regularized mixtures of density forecasts.  We explore a variety of objectives and regularization penalties, and we use them in a substantive exploration of Eurozone inflation and real interest rate density forecasts.  All individual inflation forecasters (even the ex post best forecaster) are outperformed by our regularized mixtures. From the Great Recession onward, the optimal regularization tends to move density forecasts' probability mass from the centers to the tails, correcting for overconfidence.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Financial Intermediaries and the Macroeconomy: Evidence from a High-Frequency Identification -- by Pablo Ottonello, Wenting Song]]></title>
-        <id>https://www.nber.org/papers/w29638#fromrss</id>
-        <link href="https://www.nber.org/papers/w29638#fromrss"/>
-        <updated>2022-01-11T21:04:19.901Z</updated>
-        <summary type="html"><![CDATA[We provide empirical evidence of the causal effects of changes in financial intermediaries' net worth in the aggregate economy. Our strategy identifies financial shocks as high-frequency changes in the market value of intermediaries' net worth in a narrow window around their earnings announcements, based on U.S. tick-by-tick data. Using these shocks, we estimate that news of a 1-percent decline in intermediaries' net worth leads to a 0.2-0.4 percent decrease in the market value of nonfinancial firms.  These effects are more pronounced for firms with high default risk and low liquidity and when the aggregate net worth of intermediaries is low.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bounds, Benefits, and Bad Air: Welfare Impacts of Pollution Alerts -- by Michael L. Anderson, Minwoo Hyun, Jaecheol Lee]]></title>
-        <id>https://www.nber.org/papers/w29637#fromrss</id>
-        <link href="https://www.nber.org/papers/w29637#fromrss"/>
-        <updated>2022-01-11T21:04:19.858Z</updated>
-        <summary type="html"><![CDATA[Though air-quality alert systems (AQAS) cover more than 1.7 billion people worldwide, there has been little welfare analysis of these systems. This paper presents a theoretical framework for deriving lower bounds on the net benefits of an AQAS and applies it to a South Korean system currently covering over 51 million people. Estimating a regression discontinuity design, we find that an alert issuance reduced youth respiratory expenditures by 30% and adult cardiovascular expenditures by 23%. The overall system reduced externalized health expenditures by 28.6 million dollars during 2016–2017, with a minimum benefit-cost ratio of 7.1:1. Including dynamic impacts of alerts increases the minimum benefits (benefit-cost ratio) to 36.7 million dollars (9.2:1). Our findings imply that the AQAS generates significant net benefits and suggests that manipulation of air quality data, which has been observed in other contexts, may negatively impact social welfare.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Limited Supply and Lagging Enrollment: Production Technologies and Enrollment Changes at Community Colleges during the Pandemic -- by Diane Whitmore Schanzenbach, Sarah Turner]]></title>
-        <id>https://www.nber.org/papers/w29639#fromrss</id>
-        <link href="https://www.nber.org/papers/w29639#fromrss"/>
-        <updated>2022-01-11T21:04:19.816Z</updated>
-        <summary type="html"><![CDATA[Weak labor markets typically lead young workers to invest in skills. High unemployment during COVID diverged from prior downturns: enrollment at community colleges dropped by 9.5 percent between 2019 and 2020, with the drop larger among men. COVID disruptions generated supply-side impacts on courses of study requiring significant capital and “hands on” experiential learning, particularly programs that deliver of assembly, repair and maintenance (ARM) skills. Community colleges that had relative concentrations of credentials in ARM fields pre-pandemic experienced relatively large enrollment declines. The decline in ARM enrollment explains nearly all the difference in enrollment declines by gender during COVID.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macroeconomic Research, Present and Past -- by Philip J. Glandon, Kenneth Kuttner, Sandeep Mazumder, Caleb Stroup]]></title>
-        <id>https://www.nber.org/papers/w29628#fromrss</id>
-        <link href="https://www.nber.org/papers/w29628#fromrss"/>
-        <updated>2022-01-11T21:04:19.663Z</updated>
-        <summary type="html"><![CDATA[How is macroeconomic research conducted and what is it trying to accomplish? We explore these questions using information gleaned from 1,894 articles published in ten leading journals. We find that over the past 40 years there has been a growing emphasis on increasingly sophisticated quantitative theory, such as DSGE modeling, and papers employing these methods now account for the majority of articles in macro journals. The shift towards quantitative theory is mirrored by a decline in the use of econometric methods to test economic hypotheses.  Econometric techniques borrowed from applied microeconomics have to a large extent displaced time series methods, and empirical papers increasingly rely on micro and proprietary data sources. Market imperfections are pervasive, and the amount of research involving financial frictions has increased significantly in the past ten years. The frequency with which non-macro JEL codes appear in macro articles indicates a great deal of overlap between macroeconomics and other fields.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clubs and Networks in Economics Reviewing -- by Scott E. Carrell, David N. Figlio, Lester R. Lusher]]></title>
-        <id>https://www.nber.org/papers/w29631#fromrss</id>
-        <link href="https://www.nber.org/papers/w29631#fromrss"/>
-        <updated>2022-01-11T21:04:19.635Z</updated>
-        <summary type="html"><![CDATA[The network of economists who publish in leading journals is generally perceived as small, exclusive, and tightly knit. We study how author-editor and author-reviewer network connectivity and “match” influences editor decisions and reviewer recommendations of economic research at the Journal of Human Resources (JHR). Our empirical strategy employs several dimensions of fixed effects to overcome concerns of endogenous assignment of papers to editors and reviewers in order to identify causal impacts. Results show that clubs and networks play a large role in influencing both editor and reviewer decisions. Authors who attended the same PhD program, were ever colleagues with, are affiliates of the same NBER program(s), or are more closely linked via coauthorship networks as the handling editor are significantly more likely to avoid a desk rejection. Likewise, authors from the same PhD program or who previously worked with the reviewer are significantly more likely to receive a positive evaluation. We also find that sharing “signals” of ability, such as publishing in “top five”, attending a high ranked PhD program, or being employed by a similarly ranked economics department significantly influences editor decisions and/or reviewer recommendations.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intermediation via Credit Chains -- by Zhiguo He, Jian Li]]></title>
-        <id>https://www.nber.org/papers/w29632#fromrss</id>
-        <link href="https://www.nber.org/papers/w29632#fromrss"/>
-        <updated>2022-01-11T21:04:19.607Z</updated>
-        <summary type="html"><![CDATA[The modern financial system features complicated financial intermediation chains, with each layer performing a certain degree of credit/maturity transformation. We develop a dynamic model in which an entrepreneur borrows from overlapping-generation households via layers of funds, forming a credit chain. Each intermediary fund in the chain faces rollover risks from its lenders, and the optimal debt contracts among layers are time invariant and layer independent. The model delivers new insights regarding the benefits of intermediation via layers: the chain structure insulates interim negative fundamental shocks and protects the underlying cash flows from being discounted heavily during bad times, resulting in a greater borrowing capacity. We show that the equilibrium chain length minimizes the run risk for any given contract and find that restricting credit chain length can improve total welfare once the available funding from households has been endogenized.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonprofits in Good Times and Bad Times -- by Christine L. Exley, Nils H. Lehr, Stephen J. Terry]]></title>
-        <id>https://www.nber.org/papers/w29630#fromrss</id>
-        <link href="https://www.nber.org/papers/w29630#fromrss"/>
-        <updated>2022-01-11T21:04:19.592Z</updated>
-        <summary type="html"><![CDATA[Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debt as Safe Asset -- by Markus K. Brunnermeier, Sebastian A. Merkel, Yuliy Sannikov]]></title>
-        <id>https://www.nber.org/papers/w29626#fromrss</id>
-        <link href="https://www.nber.org/papers/w29626#fromrss"/>
-        <updated>2022-01-11T21:04:19.566Z</updated>
-        <summary type="html"><![CDATA[The price of a safe asset reflects not only the expected discounted future cash flows but also future service flows, since retrading allows partial insurance of idiosyncratic risk in an incomplete markets setting. This lowers the issuers' interest burden and allows the government to run a permanent (primary) deficit without ever paying back its debt. As idiosyncratic risk rises during recessions, so does the value of the service flows bestowing the safe asset with a negative beta. This resolves government debt valuation puzzles. Nevertheless, the government faces a “Debt Laffer Curve”. The paper also has important implications for fiscal debt sustainability.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revealing Corruption: Firm and Worker Level Evidence from Brazil -- by Emanuele Colonnelli, Spyridon Lagaras, Jacopo Ponticelli, Mounu Prem, Margarita Tsoutsoura]]></title>
-        <id>https://www.nber.org/papers/w29627#fromrss</id>
-        <link href="https://www.nber.org/papers/w29627#fromrss"/>
-        <updated>2022-01-11T21:04:19.540Z</updated>
-        <summary type="html"><![CDATA[We study how the disclosure of corrupt practices affects the growth of firms involved in illegal interactions with the government using randomized audits of public procurement in Brazil. On average, firms exposed by the anti-corruption program grow larger after the audits, despite experiencing a decrease in procurement contracts. We manually collect new data on the details of thousands of corruption cases, through which we uncover a large heterogeneity in our firm-level effects depending on the degree of involvement in corruption cases. Using investment-, loan-, and worker- level data, we show that the average exposed firms adapt to the loss of government contracts by changing their investment strategy. They increase capital investment and borrow more to finance such investment, while there is no change in their internal organization.  We provide qualitative support to our results by conducting new face-to-face surveys with business owners of government-dependent firms.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -149,10 +29,182 @@
         <title type="html"><![CDATA[Using Bid Rotation and Incumbency to Detect Collusion: A Regression Discontinuity Approach -- by Kei Kawai, Jun Nakabayashi, Juan M. Ortner, Sylvain Chassang]]></title>
         <id>https://www.nber.org/papers/w29625#fromrss</id>
         <link href="https://www.nber.org/papers/w29625#fromrss"/>
-        <updated>2022-01-11T21:04:19.521Z</updated>
+        <updated>2022-01-12T00:22:04.503Z</updated>
         <summary type="html"><![CDATA[Cartels participating in procurement auctions frequently use bid rotation or prioritize incumbents to allocate contracts. However, establishing a link between observed allocation patterns and firm conduct has been difficult: there are cost-based competitive explanations for such patterns. We show that by focusing on auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive environments. We apply our tests to two datasets: the sample of Ohio milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions from Japan.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates -- by Francis X. Diebold, Minchul Shin, Boyuan Zhang]]></title>
+        <id>https://www.nber.org/papers/w29635#fromrss</id>
+        <link href="https://www.nber.org/papers/w29635#fromrss"/>
+        <updated>2022-01-12T00:22:04.458Z</updated>
+        <summary type="html"><![CDATA[We propose methods for constructing regularized mixtures of density forecasts.  We explore a variety of objectives and regularization penalties, and we use them in a substantive exploration of Eurozone inflation and real interest rate density forecasts.  All individual inflation forecasters (even the ex post best forecaster) are outperformed by our regularized mixtures. From the Great Recession onward, the optimal regularization tends to move density forecasts' probability mass from the centers to the tails, correcting for overconfidence.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Currency Carry Trade by Trucks: The Curious Case of China's Massive Imports from Itself -- by Xuepeng Liu, Heiwai Tang, Zhi Wang, Shang-Jin Wei]]></title>
+        <id>https://www.nber.org/papers/w29633#fromrss</id>
+        <link href="https://www.nber.org/papers/w29633#fromrss"/>
+        <updated>2022-01-12T00:22:04.442Z</updated>
+        <summary type="html"><![CDATA[With capital controls, the standard financial market transactions needed for currency carry trade are hard to implement. Using detailed trade data reported by both the mainland Chinese and Hong Kong’s governments, we present evidence that indirect currency carry trade likely takes place via round-trip reimports. We also show that greater state control in terms of more state-owned firms does not reduce such “carry trade by trucks.”]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial Intermediaries and the Macroeconomy: Evidence from a High-Frequency Identification -- by Pablo Ottonello, Wenting Song]]></title>
+        <id>https://www.nber.org/papers/w29638#fromrss</id>
+        <link href="https://www.nber.org/papers/w29638#fromrss"/>
+        <updated>2022-01-12T00:22:04.411Z</updated>
+        <summary type="html"><![CDATA[We provide empirical evidence of the causal effects of changes in financial intermediaries' net worth in the aggregate economy. Our strategy identifies financial shocks as high-frequency changes in the market value of intermediaries' net worth in a narrow window around their earnings announcements, based on U.S. tick-by-tick data. Using these shocks, we estimate that news of a 1-percent decline in intermediaries' net worth leads to a 0.2-0.4 percent decrease in the market value of nonfinancial firms.  These effects are more pronounced for firms with high default risk and low liquidity and when the aggregate net worth of intermediaries is low.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cognitive Decline, Limited Awareness, Imperfect Agency, and Financial Well-being -- by John Ameriks, Andrew Caplin, Minjoon Lee, Matthew D. Shapiro, Christopher Tonetti]]></title>
+        <id>https://www.nber.org/papers/w29634#fromrss</id>
+        <link href="https://www.nber.org/papers/w29634#fromrss"/>
+        <updated>2022-01-12T00:22:04.353Z</updated>
+        <summary type="html"><![CDATA[Cognitive decline may lead older Americans to make poor financial decisions. Preventing poor decisions may require timely transfer of financial control to a reliable agent. Cognitive decline, however, can develop unnoticed, creating the possibility of suboptimal timing of the transfer of control. This paper presents survey-based evidence that wealthholders regard suboptimal timing of the transfer of control, in particular delay due to unnoticed cognitive decline, as a substantial risk to financial well-being. This paper provides a theoretical framework to model such a lack of awareness and the resulting welfare loss.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bounds, Benefits, and Bad Air: Welfare Impacts of Pollution Alerts -- by Michael L. Anderson, Minwoo Hyun, Jaecheol Lee]]></title>
+        <id>https://www.nber.org/papers/w29637#fromrss</id>
+        <link href="https://www.nber.org/papers/w29637#fromrss"/>
+        <updated>2022-01-12T00:22:04.336Z</updated>
+        <summary type="html"><![CDATA[Though air-quality alert systems (AQAS) cover more than 1.7 billion people worldwide, there has been little welfare analysis of these systems. This paper presents a theoretical framework for deriving lower bounds on the net benefits of an AQAS and applies it to a South Korean system currently covering over 51 million people. Estimating a regression discontinuity design, we find that an alert issuance reduced youth respiratory expenditures by 30% and adult cardiovascular expenditures by 23%. The overall system reduced externalized health expenditures by 28.6 million dollars during 2016–2017, with a minimum benefit-cost ratio of 7.1:1. Including dynamic impacts of alerts increases the minimum benefits (benefit-cost ratio) to 36.7 million dollars (9.2:1). Our findings imply that the AQAS generates significant net benefits and suggests that manipulation of air quality data, which has been observed in other contexts, may negatively impact social welfare.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intermediation via Credit Chains -- by Zhiguo He, Jian Li]]></title>
+        <id>https://www.nber.org/papers/w29632#fromrss</id>
+        <link href="https://www.nber.org/papers/w29632#fromrss"/>
+        <updated>2022-01-12T00:22:04.318Z</updated>
+        <summary type="html"><![CDATA[The modern financial system features complicated financial intermediation chains, with each layer performing a certain degree of credit/maturity transformation. We develop a dynamic model in which an entrepreneur borrows from overlapping-generation households via layers of funds, forming a credit chain. Each intermediary fund in the chain faces rollover risks from its lenders, and the optimal debt contracts among layers are time invariant and layer independent. The model delivers new insights regarding the benefits of intermediation via layers: the chain structure insulates interim negative fundamental shocks and protects the underlying cash flows from being discounted heavily during bad times, resulting in a greater borrowing capacity. We show that the equilibrium chain length minimizes the run risk for any given contract and find that restricting credit chain length can improve total welfare once the available funding from households has been endogenized.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macroeconomic Research, Present and Past -- by Philip J. Glandon, Kenneth Kuttner, Sandeep Mazumder, Caleb Stroup]]></title>
+        <id>https://www.nber.org/papers/w29628#fromrss</id>
+        <link href="https://www.nber.org/papers/w29628#fromrss"/>
+        <updated>2022-01-12T00:22:04.092Z</updated>
+        <summary type="html"><![CDATA[How is macroeconomic research conducted and what is it trying to accomplish? We explore these questions using information gleaned from 1,894 articles published in ten leading journals. We find that over the past 40 years there has been a growing emphasis on increasingly sophisticated quantitative theory, such as DSGE modeling, and papers employing these methods now account for the majority of articles in macro journals. The shift towards quantitative theory is mirrored by a decline in the use of econometric methods to test economic hypotheses.  Econometric techniques borrowed from applied microeconomics have to a large extent displaced time series methods, and empirical papers increasingly rely on micro and proprietary data sources. Market imperfections are pervasive, and the amount of research involving financial frictions has increased significantly in the past ten years. The frequency with which non-macro JEL codes appear in macro articles indicates a great deal of overlap between macroeconomics and other fields.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limited Supply and Lagging Enrollment: Production Technologies and Enrollment Changes at Community Colleges during the Pandemic -- by Diane Whitmore Schanzenbach, Sarah Turner]]></title>
+        <id>https://www.nber.org/papers/w29639#fromrss</id>
+        <link href="https://www.nber.org/papers/w29639#fromrss"/>
+        <updated>2022-01-12T00:22:04.063Z</updated>
+        <summary type="html"><![CDATA[Weak labor markets typically lead young workers to invest in skills. High unemployment during COVID diverged from prior downturns: enrollment at community colleges dropped by 9.5 percent between 2019 and 2020, with the drop larger among men. COVID disruptions generated supply-side impacts on courses of study requiring significant capital and “hands on” experiential learning, particularly programs that deliver of assembly, repair and maintenance (ARM) skills. Community colleges that had relative concentrations of credentials in ARM fields pre-pandemic experienced relatively large enrollment declines. The decline in ARM enrollment explains nearly all the difference in enrollment declines by gender during COVID.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debt as Safe Asset -- by Markus K. Brunnermeier, Sebastian A. Merkel, Yuliy Sannikov]]></title>
+        <id>https://www.nber.org/papers/w29626#fromrss</id>
+        <link href="https://www.nber.org/papers/w29626#fromrss"/>
+        <updated>2022-01-12T00:22:04.033Z</updated>
+        <summary type="html"><![CDATA[The price of a safe asset reflects not only the expected discounted future cash flows but also future service flows, since retrading allows partial insurance of idiosyncratic risk in an incomplete markets setting. This lowers the issuers' interest burden and allows the government to run a permanent (primary) deficit without ever paying back its debt. As idiosyncratic risk rises during recessions, so does the value of the service flows bestowing the safe asset with a negative beta. This resolves government debt valuation puzzles. Nevertheless, the government faces a “Debt Laffer Curve”. The paper also has important implications for fiscal debt sustainability.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clubs and Networks in Economics Reviewing -- by Scott E. Carrell, David N. Figlio, Lester R. Lusher]]></title>
+        <id>https://www.nber.org/papers/w29631#fromrss</id>
+        <link href="https://www.nber.org/papers/w29631#fromrss"/>
+        <updated>2022-01-12T00:22:03.992Z</updated>
+        <summary type="html"><![CDATA[The network of economists who publish in leading journals is generally perceived as small, exclusive, and tightly knit. We study how author-editor and author-reviewer network connectivity and “match” influences editor decisions and reviewer recommendations of economic research at the Journal of Human Resources (JHR). Our empirical strategy employs several dimensions of fixed effects to overcome concerns of endogenous assignment of papers to editors and reviewers in order to identify causal impacts. Results show that clubs and networks play a large role in influencing both editor and reviewer decisions. Authors who attended the same PhD program, were ever colleagues with, are affiliates of the same NBER program(s), or are more closely linked via coauthorship networks as the handling editor are significantly more likely to avoid a desk rejection. Likewise, authors from the same PhD program or who previously worked with the reviewer are significantly more likely to receive a positive evaluation. We also find that sharing “signals” of ability, such as publishing in “top five”, attending a high ranked PhD program, or being employed by a similarly ranked economics department significantly influences editor decisions and/or reviewer recommendations.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Innovation and Knowledge Diffusion -- by Nelson Lind, Natalia Ramondo]]></title>
+        <id>https://www.nber.org/papers/w29629#fromrss</id>
+        <link href="https://www.nber.org/papers/w29629#fromrss"/>
+        <updated>2022-01-12T00:22:03.953Z</updated>
+        <summary type="html"><![CDATA[We develop a Ricardian model of trade in which countries innovate ideas that diffuse across the globe. In this model, the forces of innovation and diffusion combine to shape trade substitution patterns. Innovation makes a country technologically distinct, reducing their substitutability with other countries, while diffusion between countries generates technological similarity and increases head-to-head competition. In the special case of an innovation-only model where countries do not share ideas, productivities are independent across space, and the demand system is CES. As a consequence, departures from CES expenditure reveal diffusion patterns. Our theoretical results provide a mapping between the dynamics of observable trade flows and the dynamics of innovation and knowledge diffusion.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revealing Corruption: Firm and Worker Level Evidence from Brazil -- by Emanuele Colonnelli, Spyridon Lagaras, Jacopo Ponticelli, Mounu Prem, Margarita Tsoutsoura]]></title>
+        <id>https://www.nber.org/papers/w29627#fromrss</id>
+        <link href="https://www.nber.org/papers/w29627#fromrss"/>
+        <updated>2022-01-12T00:22:03.900Z</updated>
+        <summary type="html"><![CDATA[We study how the disclosure of corrupt practices affects the growth of firms involved in illegal interactions with the government using randomized audits of public procurement in Brazil. On average, firms exposed by the anti-corruption program grow larger after the audits, despite experiencing a decrease in procurement contracts. We manually collect new data on the details of thousands of corruption cases, through which we uncover a large heterogeneity in our firm-level effects depending on the degree of involvement in corruption cases. Using investment-, loan-, and worker- level data, we show that the average exposed firms adapt to the loss of government contracts by changing their investment strategy. They increase capital investment and borrow more to finance such investment, while there is no change in their internal organization.  We provide qualitative support to our results by conducting new face-to-face surveys with business owners of government-dependent firms.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wednesday: CPI]]></title>
+        <id>http://www.calculatedriskblog.com/2022/01/wednesday-cpi.html</id>
+        <link href="http://www.calculatedriskblog.com/2022/01/wednesday-cpi.html"/>
+        <updated>2022-01-12T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Wednesday:
+• At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purchase applications index.
+• At 8:30 AM, The Consumer Price Index for December from the BLS.  The consensus is for 0.5% increase in CPI, and a 0.5% increase in core CPI.
+On COVID (focus on hospitalizations and deaths):
+
+
+COVID Metrics
+  
+ NowWeek
+AgoGoal
+ Percent fully Vaccinated62.6%---≥70.0%1
+ Fully Vaccinated (millions)207.8---≥2321
+  
+New Cases per Day3🚩750,996509,446≤5,0002
+  
+Hospitalized3🚩119,11586,401≤3,0002
+  
+Deaths per Day3🚩1,6331,163≤502
+  
+1 Minimum to achieve "herd immunity" (estimated between 70% and 85%).
+2my goals to stop daily posts,
+37-day average for Cases, Currently Hospitalized, and Deaths
+🚩 Increasing 7-day average week-over-week for Cases, Hospitalized, and Deaths     
+✅ Goal met.
+  
+
+Click on graph for larger image.
+This graph shows the daily (columns) and 7-day average (line) of positive tests reported.
+
+New cases are at record levels (1.4 million today!).  It appears likely hospitalizations will exceed the previous 7-day average record of 124,031 a year ago.
+
+
+Fortunately, deaths are still well below the previous 7-day average record of 3,421 in January 2021.]]></summary>
+        <author>
+            <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For services firms, small can be beautiful]]></title>
+        <id>https://voxeu.org/article/services-firms-small-can-be-beautiful</id>
+        <link href="https://voxeu.org/article/services-firms-small-can-be-beautiful"/>
+        <updated>2022-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Conventional wisdom is pessimistic about the prospects for services-led development, leading to worries about premature deindustrialisation. This column argues that the services sector deserves more credit for helping drive economic transformation than it generally receives. Using firm-level data from 20 developing economies, the authors find that while services establishments are smaller than manufacturing establishments, this matters less for their productivity. Services firms can scale up without sizing up through investments in human and other more intangible forms of capital can leverage the diffusion of digital technologies.]]></summary>
+        <author>
+            <name>Elwyn Davies, Mary Hallward-Driemeier, Gaurav  Nayyar</name>
         </author>
     </entry>
     <entry>
@@ -281,6 +333,16 @@ Fortunately, deaths are still well below the previous 7-day average record of 3,
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pulse as a biometric measure of wellbeing]]></title>
+        <id>https://voxeu.org/article/pulse-biometric-measure-wellbeing</id>
+        <link href="https://voxeu.org/article/pulse-biometric-measure-wellbeing"/>
+        <updated>2022-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pulse rates have been overlooked as a potentially valuable way of capturing individuals’ wellbeing. The value of pulse rate as a wellbeing metric is that, unlike subjective wellbeing metrics, it is recorded on an objective cardinal scale. This column uses empirical analyses of the English and Scottish Health Surveys and the 1958 National Child Development Study to show pulse is highly correlated with subjective wellbeing, that pulse equations look very similar to those for subjective wellbeing, and that pulse is predictive of subjective wellbeing and labour market outcomes later in life.]]></summary>
+        <author>
+            <name>Alex Bryson, David Blanchflower</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Price dispersion in wines. Does the Law of One Price apply?]]></title>
         <id>https://voxeu.org/content/price-dispersion-wines-does-law-one-price-apply</id>
         <link href="https://voxeu.org/content/price-dispersion-wines-does-law-one-price-apply"/>
@@ -290,16 +352,6 @@ Read more about the research behind this interview and download the free DP:
 Cardebat, J, Gergaud, O, Regibeau, P and Rockett, K. 2021. 'Price Dispersion in Wines'. CEPR]]></summary>
         <author>
             <name>Pierre Régibeau, Katharine Rockett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulse as a biometric measure of wellbeing]]></title>
-        <id>https://voxeu.org/article/pulse-biometric-measure-wellbeing</id>
-        <link href="https://voxeu.org/article/pulse-biometric-measure-wellbeing"/>
-        <updated>2022-01-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pulse rates have been overlooked as a potentially valuable way of capturing individuals’ wellbeing. The value of pulse rate as a wellbeing metric is that, unlike subjective wellbeing metrics, it is recorded on an objective cardinal scale. This column uses empirical analyses of the English and Scottish Health Surveys and the 1958 National Child Development Study to show pulse is highly correlated with subjective wellbeing, that pulse equations look very similar to those for subjective wellbeing, and that pulse is predictive of subjective wellbeing and labour market outcomes later in life.]]></summary>
-        <author>
-            <name>Alex Bryson, David Blanchflower</name>
         </author>
     </entry>
     <entry>
@@ -404,6 +456,347 @@ Air travel had been off about 20% relative to 2019 for the last five months (wit
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[모던 C/옌스 구스테트 지음, 남기혁 옮김/길벗]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286643496</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286643496"/>
+        <updated>2022-01-10T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[모던 C
+옌스 구스테트 지음, 남기혁 옮김 / 길벗 / 2022년 01월 / ISBN:9791165218409
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
+이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
+
+
+
+
+C만이 가진 고유한 개념과 작성 기법을 배워 '더 완전한' C 프로그램을 작성할 수 있다! C 언어는 50년 이상된 프로그래밍 언어이며, 처음 등장한 이후 컴퓨터, 전화기, 카메라, 냉장고, 자동차 등 프로그래밍 인터페이스를 가진 거의 모든 기기에서 사용되고 있다. 이처럼 C로 만든 프로그램이나 시스템은 어디서나 볼 수 있지만 제대로 된 C 관련 자료는 굉장히 드물다. ISO C 표준 공동 편집자인 저자는 최신 C 표준을 기반으로 C만이 가진 고유한 개념과 작성 기법을 소개하고, C 언어에서 특별히 가치 있게 눈여겨볼 부분을 주로 설명한다.
+
+레벨 0 만남
+
+1장 들어가며
+1.1 명령형 프로그래밍 
+1.2 컴파일하고 실행하기 
+1.3 요약 
+
+2장 로그램의 핵심 구조 
+2.1 문법 
+2.2 선언 
+2.3 정의 
+2.4 문장 
+__2.4.1 반복
+__2.4.2 함수 호출 
+__2.4.3 함수 리턴 
+2.5 요약 
+
+레벨 1 친숙 
+
+3장 결국은 제어 
+3.1 조건부 실행 
+3.2 반복문 
+3.3 다중 선택 
+3.4 요약 
+
+4장 계산 표현하기 
+4.1 산술 
+__4.1.1 +, -, *
+__4.1.2 나눗셈과 나머지 
+4.2 오브젝트를 수정하는 연산자 
+4.3 불 연산 
+__4.3.1 비교 연산 
+__4.3.2 논리 연산 
+4.4 삼항 연산자와 조건 연산자 
+4.5 평가 순서
+4.6 요약 
+
+05 값과 데이터 
+5.1 추상 상태 기계 
+__5.1.1 값 
+__5.1.2 타입 
+__5.1.3 바이너리 표현과 추상 상태 기계 
+__5.1.4 최적화 
+5.2 기본 타입 
+5.3 값 지정하기 
+__5.3.1 복소수 상수 
+5.4 암묵적 변환 
+5.5 초기자 
+5.6 이름 있는 상수 
+__5.6.1 읽기 전용 오브젝트 
+__5.6.2 열거형 
+__5.6.3 매크로 
+__5.6.4 복합 리터럴 
+5.7 바이너리 표현 
+__5.7.1 부호 없는 정수 
+__5.7.2 비트 집합과 비트 단위 연산자 
+__5.7.3 시프트 연산자 
+__5.7.4 불 값
+__5.7.5 부호 있는 정수 
+__5.7.6 고정폭 정수 타입 
+__5.7.7 부동 소수점 데이터 
+5.8 요약 
+
+6장 파생 데이터 타입 
+6.1 배열 
+__6.1.1 배열 선언 
+__6.1.2 배열 연산 
+__6.1.3 배열 길이 
+__6.1.4 매개변수로 사용하는 배열
+__6.1.5 스트링은 특별하다 
+6.2 불투명 타입으로 사용하는 포인터 
+6.3 구조체 
+6.4 타입 이름 새로 짓기: 타입 앨리어스 
+6.5 요약 
+
+7장 함수 
+7.1 간단한 함수 
+7.2 main은 특별하다 
+7.3 재귀호출 
+7.4 요약 
+
+8장 C 라이브러리 함수 
+8.1 C 라이브러리의 기본 속성과 제공 함수 
+__8.1.1 헤더 
+__8.1.2 인터페이스 
+__8.1.3 오류 검사 
+__8.1.4 경계값 검사 인터페이스 
+__8.1.5 프로그램 사전조건 
+8.2 수학 함수 
+8.3 입력, ...
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > C]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한권으로 파이썬과 드론 날로 먹기 : 인공지능편 (교재+드론 세트)/이현종.박재일 지음/잇플ITPLE]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286619966</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286619966"/>
+        <updated>2022-01-10T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[한권으로 파이썬과 드론 날로 먹기 : 인공지능편 (교재+드론 세트)
+이현종.박재일 지음 / 잇플ITPLE / 2021년 12월 / ISBN:9791191198188
+정가: 107,800원 / 판매가: 97,020원 / 마일리지: 5,390원
+이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
+
+
+
+
+드론에 대한 이론 및 직접 조종기를 통해 제어하는 법을 시작으로 파이썬에 대한 정의부터 기본문법 사용법을 통해 원하는 기초 프로그램을 만드는 단계를 지나서 학습한 파이썬 문법으로 드론제어에 응용하여 다른 책에서는 다루기 힘든 SW와 HW를 골고루 활용할 수 있도록 하였다. 이 책에서는 크게 3가지 주제로 구분되어있고 특성상 1장부터 시작해서 차례대로 9장까지 볼 수도 있지만, 필요한 부분에 맞춰서 드론 (1~3장), 파이썬 (4~6장), 드론프로그래밍 (7~8장) 9장 OpenCV를 활용한 응용 인공지능중에 순서와 상관없이 활용할 수 있다.
+
+Chapter 1 처음 만나는 드론
+	1) 드론의 정의
+	2) 드론의 가치
+	3) 드론의 원리
+	4) 드론의 구조
+
+Chapter 2 드론조종의 첫걸음
+	1) 드론과 컨트롤러
+	2) 페어링
+	3) 캘리브레이션.호버링,트림
+
+Chapter 3 다양한 기능들
+	1)시뮬레이터 살펴보기
+	2)로킷블릭 살펴보기
+
+Chapter 4 처음 만나는 파이썬
+	1) 파이썬이란?
+	2) 파이썬 설치
+	3) 파이썬  IDLE 실행
+
+Chapter 5 파이썬 시작하기
+	1) 클래스,객체,인스턴스
+	2) 이름공간 Name space
+	3) 상수와 변수
+	4) 데이터형 변환과 입.출력
+	5) 함수, 리스트, 튜플, 딕셔너리
+	6) 모듈
+	7) 조건문
+	8) 반복문
+
+Chapter 6 TKINTER와 TURTLE
+	1) Tkinter를 이용한 계산기 만들기
+	2) 터틀을 이용한 그림 그리기
+
+Chapter 7 파이썬과 드론의 만남
+	1) 패키지 설치
+	2) 버튼 정보 입력받기
+	3) 하드웨어 입력과 화면 출력
+	4) 제어 함수 알아보기
+	5) 드론 정보 확인하기
+
+Chapter 8 파이썬으로 드론 제어하기
+	1) 드론  LED 제어하기
+	2) 드론 제어하기
+	3) 패턴 비행
+
+Chapter 9 영상인식과 드론
+	1) OpenCV 영상인식
+	2) 카메라를 이용한 얼굴인식
+	3) 키보드로 드론 조종하기
+	4) 손짓으로 드론 제어하기
+
+Chapter 10 부록
+	1) 파이썬 드론 미션
+	2) 드론 대회 미션
+	3) 반드시 알아야 할 항공 안전 법
+	4) 조종을 위한 퀵 메뉴얼
+	5) 파이썬에서 자주 일어나는 오류 메시지 정리
+
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털 테라포밍/백승희.이나래 지음/세창출판사(세창미디어)]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286611272</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286611272"/>
+        <updated>2022-01-10T01:24:00.000Z</updated>
+        <summary type="html"><![CDATA[디지털 테라포밍
+백승희.이나래 지음 / 세창출판사(세창미디어) / 2021년 12월 / ISBN:9788955867138
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 56원
+이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+디지털 공간에 현실과 비슷한 환경을 조성하는 것이 바로 디지털 테라포밍이다. 메타버스를 통해 현실의 많은 요소들이 디지털 공간 속에 구현되면서 점차 현실에서 가상으로 일상이 이동하고 있다. 앞으로 메타버스는 우리의 일상을 어떻게 변화시킬까? 우리는 변화의 중심에서 무엇을 알아야 할까? 변화하는 시대에 여유롭게 대처하기 위해서는 메타버스를 둘러싼 기본적인 요소들을 이해해야 한다.
+
+메타버스는 새로운 개념이 아니다. 인지하지 못했지만 이미 우리가 사용하고 있었던 것이기도 하다. 이 책을 통해 메타버스와 이에 관한 다양한 사회적 현상들을 알아 감으로써 미래의 변화를 두려워하기보다는 주도적으로 활용하며 생활할 수 있기를 바란다.
+
+추천의 글 · 4 
+들어가며 · 8 
+
+1장. 우리가 알아야 할 세상, 메타버스 
+1. 메타버스의 탄생 · 17 
+2. 이미 우리와 함께하고 있는 메타버스 · 22 
+3. 메타버스의 구성 · 30 
+4. 메타버스가 지향하는 세상 · 34 
+
+2장. 점차 일상화되는 메타버스 
+1. 다양한 메타버스 플랫폼 · 45 
+2. 메타버스를 준비하는 글로벌 IT 기업들 · 59 
+3. 글로벌 공룡 기업들은 왜 메타버스에 뛰어드는가? · 67 
+4. 메타버스의 현재 · 72 
+
+3장. 메타버스는 어떻게 만들어지는가?
+1. 메타버스의 핵심요소 · 89
+2. 메타버스를 구성하는 기술 · 116
+3. 메타버스 구성기술의 발전 · 130
+
+4장. 메타버스를 통해 바라본 인류의 미래
+1. 인간의 욕구: 인간은 어떤 존재인가? · 141
+2. 앞으로 다가올 미래 · 148
+3. 새로운 직업의 등장 · 164
+
+5장. 메타버스가 시사하는 현재
+1. 우리는 어디로 가고 있는 것일까? · 175 
+2. 이면의 한계 · 180
+3. 우리는 무엇을 준비해야 하는가? · 187
+
+마치며 · 200
+참고문헌 · 203
+
+
+국내도서 > 경제경영 > 마케팅/세일즈 > 트렌드/미래예측
+국내도서 > 경제경영 > 마케팅/세일즈 > 마케팅/브랜드
+국내도서 > 경제경영 > 기업 경영 > 경영전략/혁신
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
+국내도서 > 경제경영 > 기업 경영 > e-비즈니스
+국내도서 > 사회과학 > 미래학]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경제 상식사전/김민구 지음/길벗]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286608685</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286608685"/>
+        <updated>2022-01-10T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[경제 상식사전
+김민구 지음 / 길벗 / 2022년 01월 / ISBN:9791165218072
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 79원
+이벤트: 연말정산 재테크 상식사전 (길벗 재테크 브랜드전 도서 1권 이상)
+
+
+
+
+경제공부를 시작하려는 왕초보에게 필수 코스로 자리 잡은 《경제 상식사전》의 7차 개정판이 출간되었다. 경제 전문 베테랑 기자가 178개의 경제이슈를 엄선하여 재기 넘치는 카툰과 최신 그래프로 경제 초보자도 술술 읽을 수 있도록 구성한 《경제 상식사전》은 경제 현상을 다각도로 이해할 수 있게 도와준다.
+
+지은이의 말 
+경제 상식 자가 진단
+
+----------------------------------------------
+<첫째마당> 경제 기초체력 쌓기
+----------------------------------------------
+001 경기는 일정 주기로 상승과 하강을 반복한다 콘드라티예프 파동 
+002 경제판 ‘제 논에 물 대기’ 근린궁핍화정책 
+003 가상세계와 현실이 공존하는 세상 메타버스 
+004 소득분배의 차이로 알아보는 경제적 불평등 지표 
+005 효율적인 소비를 추구하는 스팁소비 
+006 안정적인 경제력으로 소비를 주도한다 욜디락스
+007 기업의 비재무적 성과를 평가하는 ESG 경영
+008 소비자가 진화한다 -슈머 
+009 나라의 존폐 여부는 인구가 결정한다 인구절벽 
+010 내 것 아닌 공유지니까 막 써 공유지의 비극 
+011 물가가 지속적으로 상승하는 인플레이션 
+012 전쟁터의 술수와 방어전략들 적대적M&A
+013 부(富)는 높은 곳에서 낮은 곳으로 흐른다 트리클다운 이론
+014 짝퉁이 진품을 이기는 그레셤의 법칙 
+015 비쌀수록 잘 팔리는 베블런효과
+016 산을 볼 것이냐 나무를 볼 것이냐 거시경제학 
+017 경제를 동물에 빗댄다? 매파와 비둘기파
+018 국가도 부도가 난다고? 모라토리엄
+019 상처뿐인 영광 승자의 저주
+020 고성장에도 물가가 오르지 않는 골디락스 
+021 돈은 흘러야 제맛 유동성
+022 정부의 돈 잔치는 끝났다 출구전략
+023 기업이 흑자여도 망한다 흑자부도
+024 소수의 부유층만 공략한다 파레토의 법칙 
+025 남들이 사니까 나도 산다! 펭귄효과
+026 잘 모르면 바가지 쓰는 곳! 레몬마켓 
+027 실업률이 1% 늘어나면 GDP는 2.5% 줄어든다? 오쿤의 법칙 
+028 빛 좋은 개살구 분식회계 
+029 하나를 얻으면 하나를 잃는 기회비용 
+030 본전 생각이 나서 포기 못 하겠네 매몰비용 
+031 소비자와 가까운 전방산업
+032 친구 따라 강남 가는 밴드왜건효과 
+033 소비자가 경기를 전망하는 소비자신뢰지수 
+034 기업이 경기를 전망하는 기업경기실사지수 
+035 기업활동의 감시꾼 사외이사제
+036 나라경제의 가계부 경상수지 
+037 작은 기업이 큰 기업을 삼키는 보아뱀 전략 
+038 수요와 공급이 자연적으로 이뤄지는 보이지 않는 손
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R로 하는 빅데이터 분석 : 데이터 전처리와 시각화/김권현 지음/숨은원리]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286608049</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286608049"/>
+        <updated>2022-01-10T00:04:00.000Z</updated>
+        <summary type="html"><![CDATA[R로 하는 빅데이터 분석 : 데이터 전처리와 시각화
+김권현 지음 / 숨은원리 / 2022년 01월 / ISBN:9791196014445
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
+이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
+
+
+
+
+어느 정도 프로그래밍 경험이 있는 독자를 대상으로, 오픈 소스 데이터 분석 도구인 R을 활용하여 데이터를 불러들이고, 가공하고, 시각화하는 방법을 설명한다. 이 책은 시중의 책들과 달리 특정한 기능을 하는 함수들을 설명하기 전에 데이터 전처리의 목적과 기능에 대한 개념적인 이해를 우선 할 수 있도록 도와준다. 그리고 날짜시간 자료형, 문자열 자료형, 정규표현식 등에 대한 원리와 응용 방법을 자세하게 설명하여 복잡한 전처리 과정에서도 논리적 오류를 범하지 않도록 한다. 
+
+분산처리 없이 빅데이터 처리를 할 수 있는 마지막 보류인 데이터테이블을 dplyr 패키지의 함수와 비교하여 이해를 도왔고,ggplot2의 설명에서는 플롯의 수많은 옵션을 정하는 방법을 한 눈에 보기 싶게 보여준다. 그 밖에도 부록으로 RStudio의 치트시트를 수록하였다. 어느 정도 R에 익숙한 독자들에게도 R의 데이터 전처리와 시각화에 대해 좀 더 깊이 알 수 있게 하였다.
+
+서문 
+3판 서문 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ix
+1판 서문 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . …]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sunday Night Futures]]></title>
         <id>http://www.calculatedriskblog.com/2022/01/sunday-night-futures_9.html</id>
         <link href="http://www.calculatedriskblog.com/2022/01/sunday-night-futures_9.html"/>
@@ -420,6 +813,16 @@ Here is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally pr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Technology transfer and early industrial development]]></title>
+        <id>https://voxeu.org/article/technology-transfer-and-early-industrial-development</id>
+        <link href="https://voxeu.org/article/technology-transfer-and-early-industrial-development"/>
+        <updated>2022-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding which industrial policies work is important to promote the development of poorer countries. This column examines the effects of technology and knowledge transfers on early industrial development, using evidence from the Sino-Soviet Alliance in the 1950s. The authors find that simultaneously receiving technologically advanced capital goods and know-how transfer had large, persistent effects on plant performance, while the effects of receiving capital only were short-lived. The know-how component was essential to generate horizontal and vertical spillovers and production reallocation from state-owned to privately owned companies since the late 1990s.]]></summary>
+        <author>
+            <name>Michela  Giorcelli, Bo Li</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Using compensating efficiencies to assess EU merger policy]]></title>
         <id>https://voxeu.org/article/using-compensating-efficiencies-assess-eu-merger-policy</id>
         <link href="https://voxeu.org/article/using-compensating-efficiencies-assess-eu-merger-policy"/>
@@ -430,13 +833,42 @@ Here is a graph from Gasbuddy.com for nationwide gasoline prices.  Nationally pr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Technology transfer and early industrial development]]></title>
-        <id>https://voxeu.org/article/technology-transfer-and-early-industrial-development</id>
-        <link href="https://voxeu.org/article/technology-transfer-and-early-industrial-development"/>
-        <updated>2022-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding which industrial policies work is important to promote the development of poorer countries. This column examines the effects of technology and knowledge transfers on early industrial development, using evidence from the Sino-Soviet Alliance in the 1950s. The authors find that simultaneously receiving technologically advanced capital goods and know-how transfer had large, persistent effects on plant performance, while the effects of receiving capital only were short-lived. The know-how component was essential to generate horizontal and vertical spillovers and production reallocation from state-owned to privately owned companies since the late 1990s.]]></summary>
+        <title type="html"><![CDATA[기본소득, 우리도 할 수 있다/김능현 지음/메이킹북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286607826</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286607826"/>
+        <updated>2022-01-09T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[기본소득, 우리도 할 수 있다
+김능현 지음 / 메이킹북스 / 2022년 01월 / ISBN:9791167910837
+정가: 12,000원 / 판매가: 10,800원 / 마일리지: 42원
+이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+기본소득의 핵심 쟁점인 재원 마련에 대해 다루고 있다. 기본소득과 취지가 중복되거나 사회적 형평성을 해치거나 시장 기능에 왜곡을 초래하는 각종 세제혜택과 보조금, 복지제도를 구조조정함으로써 기본소득을 마련하자는 것이다. 더불어 기존 복지제도에 비해 기본소득이 어떤 장점을 지니고 있는지에 대해서도 기술했다. 최근 우리 사회에 제기된 기본소득 논쟁에 조금이나마 보탬이 되고자 하는 소망이 담겨 있다.
+
+들어가며
+
+기본소득이란 무엇인가
+기본소득의 철학적 기반
+모든 사람에게 나눠주자고? 그럼 돈은 어디서?
+기본소득과 중복되는 세금을 정비하자
+‘세제개혁’만으로 48.6조 아낄 수 있다
+중복되는 복지제도를 정비하자
+정치적 수용 가능성: 기본소득이 복지를 축소시켜서는 안 된다
+기본소득 얼마나 가능할까
+기본소득과 노동
+기본소득과 최저임금
+기본소득과 재정환상
+기본소득, 만병통치약은 아니다
+
+맺음말 - 재벌에게도 기본소득을 -
+참고 문헌
+
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제정책/비평]]></summary>
         <author>
-            <name>Michela  Giorcelli, Bo Li</name>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
@@ -681,7 +1113,7 @@ The first graph shows the year-over-year change in total non-farm employment sin
         <updated>2022-01-07T05:18:00.000Z</updated>
         <summary type="html"><![CDATA[프로그래머를 위한 수학
 폴 올랜드 지음, 노희준 외 옮김 / 한빛아카데미(교재) / 2021년 12월 / ISBN:9791156645719
-정가: 42,000원 / 판매가: 42,000원 / 마일리지: 202원
+정가: 42,000원 / 판매가: 42,000원 / 마일리지: 2,100원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -774,7 +1206,7 @@ CHAPTER 10 기호 수식 다루기
         <updated>2022-01-07T03:04:00.000Z</updated>
         <summary type="html"><![CDATA[돈의 불장난
 신상준 지음 / 생각의창 / 2022년 01월 / ISBN:9791197017285
-정가: 16,500원 / 판매가: 14,850원 / 마일리지: 820원
+정가: 16,500원 / 판매가: 14,850원 / 마일리지: 63원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -898,16 +1330,6 @@ Cuevas Rumin, R, Cuevas Rumin, A, Desmet, K and Ortuño-Ortín, I. 2021. 'The Ge
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Language subsidies to improve knowledge transfers from multinationals]]></title>
-        <id>https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals</id>
-        <link href="https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals"/>
-        <updated>2022-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developing countries regularly use financial incentives to attract multinational companies in the hope of stimulating knowledge transfers and positive spillovers. This column analyses the role of language frictions in impeding transfers of management knowledge within multinationals using survey and experimental evidence from Myanmar. It finds that potential employers value higher English efficiency and prior multinational experience, and an English language course treatment is shown to improve the English ability of domestic managers, increase their interactions with foreign managers, and increase their involvement in the management of company personnel.]]></summary>
-        <author>
-            <name>Louise Guillouet, Amit Khandelwal, Rocco Macchiavello, Matthieu Teachout</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Goldman December Payrolls Preview]]></title>
         <id>http://www.calculatedriskblog.com/2022/01/goldman-december-payrolls-preview.html</id>
         <link href="http://www.calculatedriskblog.com/2022/01/goldman-december-payrolls-preview.html"/>
@@ -936,31 +1358,13 @@ There is much more in the article.  You can subscribe at https://calculatedrisk.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[December Employment Preview]]></title>
-        <id>http://www.calculatedriskblog.com/2022/01/december-employment-preview.html</id>
-        <link href="http://www.calculatedriskblog.com/2022/01/december-employment-preview.html"/>
-        <updated>2022-01-06T15:53:00.003Z</updated>
-        <summary type="html"><![CDATA[On Friday at 8:30 AM ET, the BLS will release the employment report for December.  The consensus is for 400 thousand jobs added, and for the unemployment rate to decrease to 4.1%.
-
-There were 210 thousand jobs added in November, and the unemployment rate was at 4.2%.
-
-Click on graph for larger image.
-• First, currently there are still about 3.9 million fewer jobs than in February 2020 (before the pandemic).
-This graph shows the job losses from the start of the employment recession, in percentage terms.
-The current employment recession was by far the worst recession since WWII in percentage terms.  However, the current employment recession, 20 months after the onset, is now significantly better than the worst of the "Great Recession".
-• ADP Report: The ADP employment report showed a gain of…]]></summary>
-        <author>
-            <name>Calculated Risk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Essential C# 7/e/마크 미카엘리스 지음, 안철진.김도균 옮김/에이콘출판]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286372312</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286372312"/>
         <updated>2022-01-06T07:08:00.000Z</updated>
         <summary type="html"><![CDATA[Essential C# 7/e
 마크 미카엘리스 지음, 안철진.김도균 옮김 / 에이콘출판 / 2022년 01월 / ISBN:9791161755984
-정가: 50,000원 / 판매가: 45,000원 / 마일리지: 228원
+정가: 50,000원 / 판매가: 45,000원 / 마일리지: 2,500원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1078,7 +1482,7 @@ object...
         <updated>2022-01-06T02:32:00.000Z</updated>
         <summary type="html"><![CDATA[실전 자동머신러닝
 아드난 마수드 지음, 이기홍 옮김 / 에이콘출판 / 2022년 01월 / ISBN:9791161756073
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 121원
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1175,7 +1579,7 @@ __AW...
         <updated>2022-01-06T00:03:00.000Z</updated>
         <summary type="html"><![CDATA[따라하면서 배우는 파이썬
 이상철 지음 / 복두출판사 / 2021년 12월 / ISBN:9791166750908
-정가: 13,000원 / 판매가: 13,000원 / 마일리지: 62원
+정가: 13,000원 / 판매가: 13,000원 / 마일리지: 650원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1268,7 +1672,7 @@ F.1 pygame 모듈 설치하기
         <updated>2022-01-05T07:45:00.000Z</updated>
         <summary type="html"><![CDATA[딥러닝을 위한 파이토치 입문
 딥러닝호형 지음 / 영진.com(영진닷컴) / 2022년 01월 / ISBN:9788931465914
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 96원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1366,7 +1770,7 @@ Chapter 5 인공 신경망
         <updated>2022-01-05T05:09:00.000Z</updated>
         <summary type="html"><![CDATA[42가지 사건으로 보는 투기의 세계사
 토르스텐 데닌 지음, 이미정 옮김 / 웅진지식하우스 / 2022년 01월 / ISBN:9788901255347
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 64원
 이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
 
 
@@ -1378,7 +1782,7 @@ Chapter 5 인공 신경망
 
 투기의 세계사에서 1, 2위를 다투는 튤립 파동으로 시작해 비트코인 열풍으로 끝을 맺으며 연대기 순으로 사건들을 소개하고 있다. 1장에서 6장까지는 17~19세기에 벌어진 주요 사건을 다룬다. 역사에 기록된 최초의 시장 붕괴 사건인 네덜란드 튤립 파동부터 오늘날 주식 시장에서 사용되는 캔들 차트가 만들어진 일본의 쌀시장, 원유 시대의 시작을 알린 록펠러의 전략과 스탠더드 오일의 부흥, 미국 밀 시장 조작 사건과 캘리포니아 골드러시까지 다양한 이야기가 쏟아진다.
 
-│프롤로그│거대한 변화…]]></summary>
+│프롤로그│거대한 변화의…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -1394,94 +1798,13 @@ Chapter 5 인공 신경망
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금융소비자보호법 해설/한국금융소비자보호재단 지음/부크크(bookk)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286145193</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286145193"/>
-        <updated>2022-01-03T05:43:00.000Z</updated>
-        <summary type="html"><![CDATA[금융소비자보호법 해설
-한국금융소비자보호재단 지음 / 부크크(bookk) / 2021년 11월 / ISBN:9791137262058
-정가: 30,000원 / 판매가: 30,000원 / 마일리지: 0원
-이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
-
-
-
-
-제1장 총칙
-제1조(목적)
-제2조(정의)
-제3조(금융상품의 유형)
-제4조(금융회사등의 업종구분)
-
-제2장 금융소비자의 권리와 책무 및 국가와 금융상품판매업자등의 책무
-제7조(금융소비자의 기본적 권리)
-제8조(금융소비자의 책무)
-제9조(국가의 책무)
-제10조(금융상품판매업자등의 책무)
-
-제3장 금융상품판매업자등의 등록 등
-제11조(금융상품판매업자등을 제외한 영업행위 금지)
-제12조(금융상품판매업자등의 등록)
-
-제4장 금융상품판매업자등의 영업행위 준수사항
-제1절 영업행위 일반원칙
-제13조(영업행위 준수사항 해석의 기준)
-제14조(신의성실의무 등)
-제15조(차별금지)
-제16조(금융상품판매업자등의 관리책임)
-제2절 금융상품 유형별 영업행위 준수사항
-제17조(적합성원칙)
-제18조(적정성원칙)
-제19조(설명의무)
-제20조(불공정영업행위의 금지)
-제21조(부당권유행위 금지)
-제22조(금융상품등에 관한 광고 관련 준수사항)
-제23조(계약서류의 제공의무)
-제3절 금융상품판매업자등의 업종별 영업행위 준수사항
-제24조(미등록자를 통한 금융상품판매 대리ㆍ중개 금지)
-제25조(금융상품판매대리ㆍ중개업자의 금지행위)
-제26조(금융상품판매대리ㆍ중개업자의 고지의무 등)
-제27조(금융상품자문업자의 영업행위준칙 등)
-제28조(자료의 기록 및 유지ㆍ관리 등)
-
-제5장 금융소비자 보호
-제1절 금융소비자정책 수립 및 금융교육 등
-제29조(금융소비자 보호)
-제30조(금융교육)
-제31조(금융교육협의회)
-제32조(금융상품 비교공시 등)
-제2절 금융분쟁의 조정
-제33조(분쟁조정기구)
-제34조(조정위원회의 구성)
-제35조(조정위원회 위원의 지명철회·위촉해제)
-제36조(분쟁의 조정)
-제37조(조정위원회의 회의)
-제38조(위원의 제척·기피 및 회피)
-제39조(조정의 효력)
-제40조(시효의 중단)
-제41조(소송과의 관계)
-제42조(소액분쟁사건에 관한 특례)
-제3절 손해배상책임 등
-제44조(금융상품판매업자등의 손해배상책임)
-제45조(금융상품직접판매업자의 손해배상책임)
-제46조(청약의 철회)
-제47조(위법계약의 해지)
-
-제6장 감독 및 처분...
-
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정
-국내도서 > 사회과학 > 법과 생활 > 기타법률]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[C++20 : 풍부한 예제로 익히는 핵심 기능/라이너 그림 지음, 류광 옮김/인사이트]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286131990</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286131990"/>
         <updated>2022-01-03T03:04:00.000Z</updated>
         <summary type="html"><![CDATA[C++20 : 풍부한 예제로 익히는 핵심 기능
 라이너 그림 지음, 류광 옮김 / 인사이트 / 2022년 01월 / ISBN:9788966263325
-정가: 35,000원 / 판매가: 31,500원 / 마일리지: 139원
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1599,7 +1922,7 @@ C.39 ...
         <updated>2022-01-03T02:30:00.000Z</updated>
         <summary type="html"><![CDATA[난생처음 C 언어 프로그래밍
 김화수 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645870
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 125원
+정가: 25,000원 / 판매가: 25,000원 / 마일리지: 1,250원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -1693,7 +2016,7 @@ CHAPTER 03 변수와 타입
         <updated>2022-01-03T02:13:00.000Z</updated>
         <summary type="html"><![CDATA[컴파일러 개발자가 들려주는 C 이야기
 페터르 판데르린던 지음, 정기훈 옮김 / 인사이트 / 2022년 01월 / ISBN:9788966263318
-정가: 27,000원 / 판매가: 24,300원 / 마일리지: 106원
+정가: 27,000원 / 판매가: 24,300원 / 마일리지: 1,350원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1778,7 +2101,7 @@ CHAPTER 03 변수와 타입
         <updated>2021-12-31T05:52:00.000Z</updated>
         <summary type="html"><![CDATA[Go 언어를 활용한 네트워크 프로그래밍
 애덤 우드벡 지음, 김찬빈 옮김 / 제이펍 / 2022년 01월 / ISBN:9791191600643
-정가: 33,000원 / 판매가: 29,700원 / 마일리지: 127원
+정가: 33,000원 / 판매가: 29,700원 / 마일리지: 1,650원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1870,7 +2193,7 @@ HTTP/2...
         <updated>2021-12-31T05:17:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬 프로그래밍
 박영권 지음 / 시대인 / 2022년 01월 / ISBN:9791138312639
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 90원
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -1976,7 +2299,7 @@ ___...
         <updated>2021-12-30T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[이것이 안드로이드다 with 코틀린
 고돈호 지음 / 한빛미디어 / 2022년 01월 / ISBN:9791162245026
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 155원
+정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -2073,7 +2396,7 @@ Appendix A 구글 플레이 스토어에 앱 ...
         <updated>2021-12-30T03:18:00.000Z</updated>
         <summary type="html"><![CDATA[빅테크 미래보고서 2025
 야마모토 야스마사 지음, 신현호 옮김 / 반니 / 2022년 01월 / ISBN:9791167960979
-정가: 16,800원 / 판매가: 15,120원 / 마일리지: 840원
+정가: 16,800원 / 판매가: 15,120원 / 마일리지: 62원
 이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
 
 
@@ -2083,7 +2406,7 @@ Appendix A 구글 플레이 스토어에 앱 ...
 
 사무실에 출근하는 날은 아마존의 로보택시를 이용한다. 아마존은 2020년에 자율주행 기술을 연구하는 벤처 기업 Zoox를 인수한 후 이 사업을 추진해왔다. 로보택시 안에 설치된 모니터에서는 아마존이 고객으로부터 얻은 빅데이터를 바탕으로 맞춤형 광고 영상이 나온다. 출장을 가게 될 때는 애플호텔에 묵는다. 호텔 방의 터치 패널에 아이폰을 갖다 대면, 환기 조절, 조명, 음향 등이 자신이 원하는 환경으로 바뀐다. 비용은 추가 할인을 받을 수 있는 애플카드로 결제한다. 점심으로 콩고기로 된 스테이크를 먹고, 쉬는 시간에는 넷플릭스에서 내 취향에 맞게 결말이 바뀐 영화를 본다.
 
-위의 내용은 《빅테크 미래보고서 2025》의 서두에서 그려본 미래 모습의 일부분이다. 추측과 가정으로 이루어져 있지만, 빅테크 기업의 기술과 비즈니스가 앞으로 어떠한 방향으…]]></summary>
+위의 내용은 《빅테크 미래보고서 2025》의 서두에서 그려본 미래 모습의 일부분이다. 추측과 가정으로 이루어져 있지만, 빅테크 기업의 기술과 비즈니스가 앞으로 어떠한 방향으로…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -2095,7 +2418,7 @@ Appendix A 구글 플레이 스토어에 앱 ...
         <updated>2021-12-30T02:44:00.000Z</updated>
         <summary type="html"><![CDATA[2022 경제 大예측
 이코노미스트 편집부 지음 / 중앙일보S / 2021년 12월 / ISBN:9788927812791
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 69원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2109,7 +2432,7 @@ Appendix A 구글 플레이 스토어에 앱 ...
 
 ▶ PROLOGUE
 
-한국 경…]]></summary>
+한국 경제…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -2121,7 +2444,7 @@ Appendix A 구글 플레이 스토어에 앱 ...
         <updated>2021-12-29T07:04:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬과 코랩기반의 OpenCV로 배우는 영상처리
 고병철.이덕우 지음 / 그린 / 2022년 01월 / ISBN:9788957273326
-정가: 20,000원 / 판매가: 20,000원 / 마일리지: 99원
+정가: 20,000원 / 판매가: 20,000원 / 마일리지: 600원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -2163,7 +2486,7 @@ Appendix A 구글 플레이 스토어에 앱 ...
         <updated>2021-12-29T01:21:00.000Z</updated>
         <summary type="html"><![CDATA[행복경제학: 일상의 쾌락이 아닌 진정한 행복을 찾아서
 박정원 지음 / 한울(한울아카데미) / 2021년 12월 / ISBN:9788946081451
-정가: 34,000원 / 판매가: 34,000원 / 마일리지: 340원
+정가: 34,000원 / 판매가: 34,000원 / 마일리지: 148원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2281,7 +2604,7 @@ Appendix A 구글 플레이 스토어에 앱 ...
         <updated>2021-12-29T00:18:00.000Z</updated>
         <summary type="html"><![CDATA[메린이를 위한 메타버스의 모든 것
 매경이코노미 지음 / 매일경제신문사 / 2021년 12월 / ISBN:9791164843664
-정가: 20,000원 / 판매가: 18,000원 / 마일리지: 1,000원
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 66원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2393,7 +2716,7 @@ PART 8
         <updated>2021-12-28T07:48:00.000Z</updated>
         <summary type="html"><![CDATA[컴퓨팅 사고를 위한 파이썬
 한선관.김태령 지음 / 생능 / 2022년 01월 / ISBN:9788970505282
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 138원
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 300원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -2459,7 +2782,7 @@ Chapter 5 터틀 라이브러리
         <updated>2021-12-28T07:42:00.000Z</updated>
         <summary type="html"><![CDATA[데이터 과학을 위한 파이썬 머신러닝
 최성철 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645856
-정가: 30,000원 / 판매가: 30,000원 / 마일리지: 144원
+정가: 30,000원 / 판매가: 30,000원 / 마일리지: 1,500원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -2562,7 +2885,7 @@ CHAPTER 11 나이브 베이지안 분류기
         <updated>2021-12-28T06:31:00.000Z</updated>
         <summary type="html"><![CDATA[불평등한 선진국
 박재용 지음 / 북루덴스 / 2022년 01월 / ISBN:9791197434921
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 83원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2633,7 +2956,7 @@ CHAPTER 11 나이브 베이지안 분류기
         <updated>2021-12-28T04:29:00.000Z</updated>
         <summary type="html"><![CDATA[2022 현장에서 通하는 채권관리 실무사례
 천기문 지음 / 학연 / 2021년 12월 / ISBN:9791158247201
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 1,250원
+정가: 25,000원 / 판매가: 25,000원 / 마일리지: 106원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -2690,7 +3013,7 @@ CHAPTER 11 나이브 베이지안 분류기
         <updated>2021-12-28T03:19:00.000Z</updated>
         <summary type="html"><![CDATA[자바스크립트 프로그래밍 입문
 윤인성 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645887
-정가: 27,000원 / 판매가: 27,000원 / 마일리지: 132원
+정가: 27,000원 / 판매가: 27,000원 / 마일리지: 1,350원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -2804,7 +3127,7 @@ Chapter 05 함수
         <updated>2021-12-28T02:29:00.000Z</updated>
         <summary type="html"><![CDATA[왜 지금 교육 경제학인가
 김희삼 지음 / EBS BOOKS / 2021년 12월 / ISBN:9788954762823
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 78원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2853,7 +3176,7 @@ Chapter 05 함수
         <updated>2021-12-28T01:04:00.000Z</updated>
         <summary type="html"><![CDATA[아이디어가 사회에 미치는 영향
 맨서 올슨 지음, 이성규 옮김 / 해남 / 2021년 12월 / ISBN:9788962381610
-정가: 9,000원 / 판매가: 9,000원 / 마일리지: 270원
+정가: 9,000원 / 판매가: 9,000원 / 마일리지: 42원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2888,7 +3211,7 @@ Chapter 05 함수
         <updated>2021-12-27T23:58:00.000Z</updated>
         <summary type="html"><![CDATA[[세트] Vue.js 프로젝트 투입 일주일 전 + Node.js 프로젝트 투입 일주일 전 - 전2권
 고승원 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:
-정가: 50,500원 / 판매가: 45,450원 / 마일리지: 208원
+정가: 50,500원 / 판매가: 45,450원 / 마일리지: 2,520원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -2915,7 +3238,7 @@ Node.js 프로젝트 투입 일주일 전
         <updated>2021-12-27T08:38:00.000Z</updated>
         <summary type="html"><![CDATA[석차경제 오징어게임의 경제학
 이민원 지음 / 도서출판 디자인21 / 2021년 12월 / ISBN:9788961310765
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 68원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2997,7 +3320,7 @@ Node.js 프로젝트 투입 일주일 전
         <updated>2021-12-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Node.js 프로젝트 투입 일주일 전
 고승원 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:9791165921170
-정가: 26,000원 / 판매가: 23,400원 / 마일리지: 108원
+정가: 26,000원 / 판매가: 23,400원 / 마일리지: 1,300원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -3092,7 +3415,7 @@ ___ 5.3.4 process.exit()
         <updated>2021-12-24T07:14:00.000Z</updated>
         <summary type="html"><![CDATA[기후금융 지속가능한 미래를 여는 열쇠
 박동규.김종대 지음 / 아딘크라 / 2021년 11월 / ISBN:9791189453121
-정가: 18,000원 / 판매가: 18,000원 / 마일리지: 0원
+정가: 18,000원 / 판매가: 18,000원 / 마일리지: 97원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3179,7 +3502,7 @@ IV. 기후금융 자금조달 사례연구 및 시사점
         <updated>2021-12-24T03:22:00.000Z</updated>
         <summary type="html"><![CDATA[인공지능이 비즈니스 모델이 되기까지
 이지은.정석찬 지음 / 생능북스 / 2022년 01월 / ISBN:9788970505237
-정가: 21,000원 / 판매가: 18,900원 / 마일리지: 1,050원
+정가: 21,000원 / 판매가: 18,900원 / 마일리지: 84원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -3269,7 +3592,7 @@ Chapter 07 인공지능은 어떻게 분야별로 적용되고 있을까?
         <updated>2021-12-24T01:11:00.000Z</updated>
         <summary type="html"><![CDATA[시장을 뒤흔든 100명의 거인들
 켄 피셔 지음, 이건.김홍식 옮김 / 페이지2(page2) / 2021년 12월 / ISBN:9791190977531
-정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 131원
 이벤트: 불렛저널 2022 에디션 (대상도서 포함 국내도서 2만원 이상)
 
 
@@ -3287,7 +3610,7 @@ Chapter 07 인공지능은 어떻게 분야별로 적용되고 있을까?
 
 1장 공룡들
 001 메이어 암셸 로스차일드 Mayer Amschel Rothschild … 게토에서 나와 각광을 받다 
-002 네이선 로스차일드 Nathan Rothsc…]]></summary>
+002 네이선 로스차일드 Nathan Rothschi…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -3299,7 +3622,7 @@ Chapter 07 인공지능은 어떻게 분야별로 적용되고 있을까?
         <updated>2021-12-23T07:47:00.000Z</updated>
         <summary type="html"><![CDATA[신시대 중국의 미래
 김인규 지음 / 푸른사상 / 2021년 12월 / ISBN:9791130818771
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 109원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3382,7 +3705,7 @@ Chapter 07 인공지능은 어떻게 분야별로 적용되고 있을까?
         <updated>2021-12-23T06:41:00.000Z</updated>
         <summary type="html"><![CDATA[[세트] 거꾸로 읽는 세계사 + 앞으로 100년 - 전2권
 이언 골딘 외 지음, 권태형 외 옮김 / 알라딘 이벤트 / 2021년 11월 / ISBN:
-정가: 49,500원 / 판매가: 44,550원 / 마일리지: 2,470원
+정가: 49,500원 / 판매가: 44,550원 / 마일리지: 191원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3409,7 +3732,7 @@ Chapter 07 인공지능은 어떻게 분야별로 적용되고 있을까?
         <updated>2021-12-23T02:37:00.000Z</updated>
         <summary type="html"><![CDATA[프로그래머를 위한 Pythonⓡ파이썬
 폴 데이텔 외 지음, 안진섭 옮김 / 성안당 / 2021년 12월 / ISBN:9788931556827
-정가: 38,000원 / 판매가: 34,200원 / 마일리지: 160원
+정가: 38,000원 / 판매가: 34,200원 / 마일리지: 1,900원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -3512,7 +3835,7 @@ Chapter 4 함수
         <updated>2021-12-22T07:22:00.000Z</updated>
         <summary type="html"><![CDATA[반도체 대전 2030
 황정수 지음 / 한국경제신문 / 2021년 12월 / ISBN:9788947547758
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 65원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3575,7 +3898,7 @@ ASML의 EUV 노광장비를 잡아라
         <updated>2021-12-22T02:46:00.000Z</updated>
         <summary type="html"><![CDATA[라라벨 실전 웹 애플리케이션 개발
 다케자와 유키 외 지음, 김모세 옮김 / 제이펍 / 2021년 12월 / ISBN:9791191600476
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 137원
+정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원
 이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
 
 
@@ -3664,7 +3987,7 @@ CHAPTER 4 | HTTP 요청과 응답 125
         <updated>2021-12-22T02:30:00.000Z</updated>
         <summary type="html"><![CDATA[선박투자 이야기
 김우석 지음 / 하움출판사 / 2022년 01월 / ISBN:9791164408962
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 69원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -3720,7 +4043,7 @@ CHAPTER 4 | HTTP 요청과 응답 125
         <updated>2021-12-22T02:09:00.000Z</updated>
         <summary type="html"><![CDATA[[세트] 선형대수와 통계학으로 배우는 머신러닝 with 파이썬 + 알고리즘 구현으로 배우는 선형대수 with 파이썬 - 전2권
 장철원 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:
-정가: 71,500원 / 판매가: 64,350원 / 마일리지: 306원
+정가: 71,500원 / 판매가: 64,350원 / 마일리지: 3,570원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -3745,7 +4068,7 @@ CHAPTER 4 | HTTP 요청과 응답 125
         <updated>2021-12-22T01:39:00.000Z</updated>
         <summary type="html"><![CDATA[알고리즘 구현으로 배우는 선형대수 with 파이썬
 장철원 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:9791165921125
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 147원
+정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원
 이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
 
 
@@ -3847,7 +4170,7 @@ ___ 4.5.2 영 행렬의...
         <updated>2021-12-21T07:06:00.000Z</updated>
         <summary type="html"><![CDATA[모두의 리눅스
 미야케 히데아키.오스미 유스케 지음 / 길벗 / 2021년 12월 / ISBN:9791165218157
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 111원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
 이벤트: 길벗IT도서 브랜드전. 이벤드 대상도서 구매 시, 핫팩
 
 
@@ -3950,7 +4273,7 @@ ___ 4.5.2 영 행렬의...
         <updated>2021-12-21T05:03:00.000Z</updated>
         <summary type="html"><![CDATA[문성유의 뉴 노멀 시대와 제주의 미래
 문성유 지음 / KSS(노하우석세스시스템) / 2021년 12월 / ISBN:9788997942411
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 55원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -4033,7 +4356,7 @@ PART IV. 경제의 민낯 / 알믄 쉽고 모르면 왁왁 경제
         <updated>2021-12-21T00:35:00.000Z</updated>
         <summary type="html"><![CDATA[돈 버는 NFT 처음부터 제대로 만들고 판매하기
 이영호 지음 / 흔들의자 / 2022년 01월 / ISBN:9791186787403
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 101원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -4137,97 +4460,13 @@ c. 음향
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파이썬으로 완성하는 비지도 학습 알고리즘/송동근 지음/비제이퍼블릭]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285309834</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285309834"/>
-        <updated>2021-12-20T07:41:00.000Z</updated>
-        <summary type="html"><![CDATA[파이썬으로 완성하는 비지도 학습 알고리즘
-송동근 지음 / 비제이퍼블릭 / 2021년 12월 / ISBN:9791165921101
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 145원
-이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
-
-
-
-
-실제 이론을 코드로 구현하는 데에는 많은 현실적인 격차가 존재하고, 이론을 완벽히 이해한다고 해도 코드로 구현한다는 건 또 다른 문제이다. 그래서 이 책에서는 비지도 학습의 이론을 간단하게 살펴본 후에 알고리즘의 이론과 수식을 여러 단계로 나누고 파이썬 코드로 단계별 결과들을 최대한 상세하게 다루었다.
-
-또한 텐서플로 2의 오토 인코더와 함께 사용하는 주요 딥러닝 이론들을 실습하고 딥러닝의 활성화 함수, 손실 함수, RNN, CNN, LSTM 등을 소개한다. 마지막으로 다양한 예제 데이터와 함께 그동안 배웠던 이론을 적용하고 머신러닝으로 직접 코딩하면서 결과물을 완성할 수 있도록 했다.
-
-서문 
-저자 소개
-베타 리더 리뷰
-
-Chapter 01 비지도 학습 개요
-1.1 비지도 학습이란?
-1.2 주요 주제 소개
-1.3 비지도 학습의 장단점
-1.4 비지도 학습의 시작
-
-Chapter 02 차원 축소
-2.1 주성분분석
-2.2. 특이값 분해
-2.3 차원 축소의 성능 평가를 위한 재구축 오차
-2.4 다른 차원 축소 기법들
-
-Chapter 03 이상치 탐지
-3.1 데이터 불러오기
-3.2 데이터 표준화와 분할
-3.3 주성분분석의 적용과 해석
-3.4 마할라노비스 거리 측정법
-3.5 재구축 오차
-3.6 답을 안다는 가정에서 성능 평가하기
-3.7 데이터 탐색과 이상치 탐지
-3.8 지도 학습을 이용한 최적화와 결과 해석
-3.9 그 외 sklearn 내장된 이상치 탐지
-
-Chapter 04 군집화
-4.1 군집화 과정
-4.2 희소행렬(Sparse Matrix) 만들기
-4.3 거리 측정법의 소개
-4.4 군집화 알고리즘
-
-Chapter 05 군집화의 응용
-5.1 상위 군집 만들기
-5.2 군집별 등급 지정하기
-5.3 군집별 중요도 구하기
-5.4 텍스트 데이터를 이용한 군집 특성 이해하기
-5.5 군집화 결과 해석하기
-
-Chapter 06 텐서플로 2 소개
-6.1 텐서플로2의 장점과 강점
-6.2 케라스 소개(Keras API)
-6.3 합성곱 신경망(CNN) 소개
-6.4 순환 신경망(RNN)과 장단기 기억 모델(LSTM) 소개
-6.5 모델의 시각화, 저장, 불러오기
-
-Chapter 07 오토 인코더(Auto Encoder)
-7.1 바닐라 오토 인코더(with keras)
-7.2 다양한 오토 인코더의 구조
-
-Chapter 08 오토 인코더의 응용
-8.1 오토 인코더 은닉층을 이용한 군집화 예제
-8.2 오토 인코더의 이상치 탐지
-8.3 오토 인코더에 범주형 변수 추가
-8.4 변분 오토 인코더
-8.5 앙상블 결과
-
-찾아보기
-
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[디지털 리더십/임일.이무원 지음/클라우드나인]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285280123</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285280123"/>
         <updated>2021-12-20T02:18:00.000Z</updated>
         <summary type="html"><![CDATA[디지털 리더십
 임일.이무원 지음 / 클라우드나인 / 2021년 12월 / ISBN:9791191334401
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 68원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -4237,7 +4476,7 @@ Chapter 08 오토 인코더의 응용
 
 그럼 디지털 리더십이란 무엇인가? 기존 리더십과는 무엇이 다른가? 이 책에서는 디지털 리더십이란 현재 그리고 앞으로 어떤 디지털 기술을 어떻게 비즈니스에 활용할지에 대한 통찰력을 바탕으로 비즈니스를 이끌어가는 것이라고 정의한다. 디지털 리더십을 갖추려면 디지털 기술에 대한 이해, 디지털 기술 활용으로 얻을 수 있는 비즈니스 기회를 포착하는 통찰력, 그리고 디지털 기술을 효과적으로 실현하는 실행력 등이 필요하다는 것이다.
 
-리더들은 디지털 리더가 되기 위해 진정한…]]></summary>
+리더들은 디지털 리더가 되기 위해 진정한 …]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -4249,7 +4488,7 @@ Chapter 08 오토 인코더의 응용
         <updated>2021-12-20T02:08:00.000Z</updated>
         <summary type="html"><![CDATA[실직 도시
 방준호 지음 / 부키 / 2021년 12월 / ISBN:9788960519039
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 53원
 이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -4293,227 +4532,6 @@ Chapter 08 오토 인코더의 응용
         <summary type="html"><![CDATA[Being eligible to drive increases teenage mortality by 15 percent, mostly because of motor vehicle fatalities but also poisoning deaths, according to a paper in the American Economic Review: Insights.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이썬 for Beginner/우재남 지음/한빛아카데미(교재)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285153845</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285153845"/>
-        <updated>2021-12-17T07:33:00.000Z</updated>
-        <summary type="html"><![CDATA[파이썬 for Beginner
-우재남 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645740
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 125원
-이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
-
-
-
-
-파이썬을 처음 접하는 독자를 대상으로 일대일 수업처럼 자세히 설명한 책이다. 꼭 알아야 할 핵심 개념은 기본 예제로 최대한 쉽게 설명했으며, 중요한 내용은 응용 예제, 퀴즈, 셀프 스터디, 예제 모음으로 한번 더 복습할 수 있다.
-
-※ 본 도서는 대학 강의용 교재로 개발되었으므로 연습문제 해답은 제공하지 않습니다.
-
-Chapter 01 파이썬 들여다보기
-SECTION 01 프로그래밍 언어의 개념과 종류
-1.1 프로그래밍 언어의 개념
-1.2 프로그래밍 언어의 종류
-SECTION 02 파이썬 소개
-2.1 파이썬의 역사
-2.2 파이썬의 특징
-SECTION 03 파이썬 설치와 실행
-3.1 파이썬 다운로드
-3.2 파이썬 설치
-3.3 파이썬 실행
-요약
-연습문제
-
-Chapter 02 미리 만드는 쓸 만한 프로그램
-SECTION 01 이 장에서 만들 프로그램 
-1.1 [프로그램 1] 간단 계산기 
-1.2 [프로그램 2] 터틀 그래픽 
-SECTION 02 계산기 프로그램의 기본 기능 구현 
-2.1 필요한 변수 준비 
-2.2 더하기 기능 구현 
-2.3 빼기, 곱하기, 나누기 기능 구현 
-SECTION 03 계산기 프로그램 저장 
-3.1 프로그램 저장의 필요성 
-3.2 파이썬 파일 저장 
-3.3 파이썬 파일 실행 
-3.4 파이썬 파일 열기 
-SECTION 04 계산기 프로그램 확장 
-4.1 파이썬 파일 만들어 저장 
-4.2 input( ) 함수를 사용해 값 입력 
-4.3 int( ) 함수를 사용해 정수로 변환 
-SECTION 05 터틀 그래픽 프로그램 작성 
-5.1 터틀 프로그램 기본 틀 만들기 
-5.2 구현할 기능 계획 
-5.3 필요한 변수 준비 
-5.4 기능 1 구현 
-5.5 기능 2 구현 
-5.6 기능 3 구현 
-5.7 터틀 그래픽 프로그램 완성 
-요약 
-연습문제 
-
-Chapter 03 변수와 데이터
-SECTION 01 이 장에서 만들 프로그램 
-1.1 [프로그램 1] 다이아몬드 모양 출력 
-1.2 [프로그램 2] 진수 변환 
-SECTION 02 print( ) 함수를 사용한 다양한 출력 
-2.1 print( ) 함수의 서식 
-2.2 print( ) 함수를 사용한 다양한 출력 
-2.3 print( ) 함수를 사용한 깔끔한 출력 
-2.4 [프로그램 1]의 완성 
-SECTION 03 변수의 선언과 사용 
-3.1 변수의 선언 
-3.2 변수의 사용 
-SECTION 04 데이터 표현 단위와 진수 변환 
-4.1 비트와 바이트 
-4.2 비트 
-4.3 바이트 
-4.4 진수 변환
-4.5 [프로그램 2]의 완성
-SECTION 05 기본 데이터형 
-5.1 숫자형(정수형과 실수형) 
-5.2 불형 
-5.3 문자열 
-요약 
-연습문제 
-응용예제 01 데이터형 크기 확인하기 
-응용예제 02 입력 문자열...
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
-국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순환신경망과 PyTorch/추상목 지음/울산대학교출판부(UUP)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285146296</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285146296"/>
-        <updated>2021-12-17T07:01:00.000Z</updated>
-        <summary type="html"><![CDATA[순환신경망과 PyTorch
-추상목 지음 / 울산대학교출판부(UUP) / 2021년 12월 / ISBN:9791167260055
-정가: 16,000원 / 판매가: 16,000원 / 마일리지: 75원
-이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑
-
-
-
-
-머리말 / 3
-
-제1장 그림으로 이해하는 순환신경망 6
-제2장 RNN 그림을 나타내기 위한 PyTorch 용어 32
-제3장 RNN을 구현할 구글 Colab  46
-제4장 RNN 그림을 PyTorch로 변환 52
-제5장 학습 데이터의 형태(shape)  76
-제6장 신경망 학습이론  92
-제7장 신경망을 저장하고 불러오기 124
-제8장 데이터를 분할하여 RNN을 학습  142
-제9장 RNN 활용(네이버 영화 리뷰) 168
-제10장 RNN의 일반화 LSTM  22
-
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위험측정 및 활용/김철중.박종원 지음/한국금융연수원]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285076777</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285076777"/>
-        <updated>2021-12-16T04:35:00.000Z</updated>
-        <summary type="html"><![CDATA[위험측정 및 활용
-김철중.박종원 지음 / 한국금융연수원 / 2021년 12월 / ISBN:9788928726905
-정가: 20,000원 / 판매가: 20,000원 / 마일리지: 600원
-이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
-
-
-
-
-VaR의 이론적 배경이 되는 포트폴리오 이론을 설명하기 전에 통계적 지식을 연마하는 장을 마련했고, 시장위험을 측정하는 데 사용되는 확률변수인 금융자산의 수익률에 관하여 쉽게 설명하였다. 투자 관리의 기초가 되는 포트폴리오의 기대수익률과 위험을 측정하는 방법에 대해서 자세하게 설명하였다. 그리고 포트폴리오의 기대수익과 위험을 측정하는 방법에 대해서 자세하게 설명하였다. 포트폴리오 이론이 VaR 측정에 어떻게 이용되는지도 탐색해 보았다.
-
-제1편 VaR
-
- 제1장 위험관리와 VaR
-  제1절 위험의 정의와 종류
-  제2절 시장위험에의 노출
-  제3절 VaR의 의미
-
- 제2장 통계 개념
-  제1절 통계학적 기초
-  제2절 자산수익률의 측정
-
- 제3장 포트폴리오 이론과 CAPM
-  제1절 포트폴리오 이론
-  제2절 자본자산 가격결정모형
-
- 제4장 변동성의 추정
-  제1절 변동성의 추정
-  제2절 공분산의 추정
-
- 제5장 VaR의 기본적 측정방법
-  제1절 VaR의 측정
-  제2절 VaR의 일반적 고려사항
-
- 제6장 주식과 외환의 VaR
-  제1절 주식의 VaR
-  제2절 외환의 VaR
-
- 제7장 채권의 VaR
-  제1절 채권의 가치평가와 기본개념
-  제2절 채권포트폴리오의 VaR 계산
-
- 제8장 선도계약과 금리스왑의 VaR
-  제1절 선도계약의 VaR
-  제2절 금리스왑의 VaR
-
- 제9장 옵션의 VaR
-  제1절 옵션의 기본개념
-  제2절 옵션 VaR의 측정
-
- 제10장 VaR의 측정방법과 용도
-  제1절 VaR의 측정방법
-  제2절 VaR의 용도
- 
-제2편 신용위험과 신용자산포트폴리오의 위험측정 및 활용
-
- 제1장 신용위험의 결정요인
-  제1절 신용위험과 신용자산의 질
-  제2절 부도시노출액
-  제3절 부도확률
-  제4절 부도시손실률
-  제5절 부도위험간 상관관계와 유효만기
-
- 제2장 신용자산의 손실분포
-  제1절 신용자산의 이익과 손실의 분포
-  제2절 예상손실의 측정
-  제3절 예상외손실의 측정
-
- 제3장 부도위험의 측정방법
-  제1절 부도위험 측정방법의 발전과 모형의 평가
-  제2절 전통적인 부도위험 측정방법
-  제3절 과거자료를 이용한 부도위험의 측정
-  제4절 채권수익률의 기간구조와 부도위험
-  제5절 옵션가격결정이론과 부도위험
-
- 제4장 바젤협약의 신용위험 측정
-  제1절 바젤협약과 신용위험의 측정
-  제2절 바젤 II의 표준방법에 의한 신용위험의 측정
-  제3절 바젤 II의 내부등급법에 의한 신용위험의 측정
-  제4절 포트폴리오의 신용위험과 편중위험의 측정
-
-  제5장 운영위험의 측정과 활용
-  제1절 운영위험의 개념과 특징
-  제2절 ...
-
-국내도서 > 대학교재/전문서적 > 경상계열 > 경영학
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
