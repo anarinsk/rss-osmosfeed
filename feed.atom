@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-13T21:04:37.632Z</id>
+    <id>urn:2022-01-14T00:22:06.607Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-01-13T21:04:37.632Z</updated>
+    <updated>2022-01-14T00:22:06.607Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Limited Supply and Lagging Enrollment: Production Technologies and Enrollment Changes at Community Colleges during the Pandemic -- by Diane Whitmore Schanzenbach, Sarah Turner]]></title>
-        <id>https://www.nber.org/papers/w29639#fromrss</id>
-        <link href="https://www.nber.org/papers/w29639#fromrss"/>
-        <updated>2022-01-13T21:03:49.922Z</updated>
-        <summary type="html"><![CDATA[Weak labor markets typically lead young workers to invest in skills. High unemployment during COVID diverged from prior downturns: enrollment at community colleges dropped by 9.5 percent between 2019 and 2020, with the drop larger among men. COVID disruptions generated supply-side impacts on courses of study requiring significant capital and “hands on” experiential learning, particularly programs that deliver of assembly, repair and maintenance (ARM) skills. Community colleges that had relative concentrations of credentials in ARM fields pre-pandemic experienced relatively large enrollment declines. The decline in ARM enrollment explains nearly all the difference in enrollment declines by gender during COVID.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Innovation and Knowledge Diffusion -- by Nelson Lind, Natalia Ramondo]]></title>
-        <id>https://www.nber.org/papers/w29629#fromrss</id>
-        <link href="https://www.nber.org/papers/w29629#fromrss"/>
-        <updated>2022-01-13T21:03:49.725Z</updated>
-        <summary type="html"><![CDATA[We develop a Ricardian model of trade in which countries innovate ideas that diffuse across the globe. In this model, the forces of innovation and diffusion combine to shape trade substitution patterns. Innovation makes a country technologically distinct, reducing their substitutability with other countries, while diffusion between countries generates technological similarity and increases head-to-head competition. In the special case of an innovation-only model where countries do not share ideas, productivities are independent across space, and the demand system is CES. As a consequence, departures from CES expenditure reveal diffusion patterns. Our theoretical results provide a mapping between the dynamics of observable trade flows and the dynamics of innovation and knowledge diffusion.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cognitive Decline, Limited Awareness, Imperfect Agency, and Financial Well-being -- by John Ameriks, Andrew Caplin, Minjoon Lee, Matthew D. Shapiro, Christopher Tonetti]]></title>
-        <id>https://www.nber.org/papers/w29634#fromrss</id>
-        <link href="https://www.nber.org/papers/w29634#fromrss"/>
-        <updated>2022-01-13T21:03:49.125Z</updated>
-        <summary type="html"><![CDATA[Cognitive decline may lead older Americans to make poor financial decisions. Preventing poor decisions may require timely transfer of financial control to a reliable agent. Cognitive decline, however, can develop unnoticed, creating the possibility of suboptimal timing of the transfer of control. This paper presents survey-based evidence that wealthholders regard suboptimal timing of the transfer of control, in particular delay due to unnoticed cognitive decline, as a substantial risk to financial well-being. This paper provides a theoretical framework to model such a lack of awareness and the resulting welfare loss.]]></summary>
+        <title type="html"><![CDATA[On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates -- by Francis X. Diebold, Minchul Shin, Boyuan Zhang]]></title>
+        <id>https://www.nber.org/papers/w29635#fromrss</id>
+        <link href="https://www.nber.org/papers/w29635#fromrss"/>
+        <updated>2022-01-14T00:21:20.077Z</updated>
+        <summary type="html"><![CDATA[We propose methods for constructing regularized mixtures of density forecasts.  We explore a variety of objectives and regularization penalties, and we use them in a substantive exploration of Eurozone inflation and real interest rate density forecasts.  All individual inflation forecasters (even the ex post best forecaster) are outperformed by our regularized mixtures. From the Great Recession onward, the optimal regularization tends to move density forecasts' probability mass from the centers to the tails, correcting for overconfidence.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -39,68 +19,8 @@
         <title type="html"><![CDATA[Financial Intermediaries and the Macroeconomy: Evidence from a High-Frequency Identification -- by Pablo Ottonello, Wenting Song]]></title>
         <id>https://www.nber.org/papers/w29638#fromrss</id>
         <link href="https://www.nber.org/papers/w29638#fromrss"/>
-        <updated>2022-01-13T21:03:49.095Z</updated>
+        <updated>2022-01-14T00:21:20.063Z</updated>
         <summary type="html"><![CDATA[We provide empirical evidence of the causal effects of changes in financial intermediaries' net worth in the aggregate economy. Our strategy identifies financial shocks as high-frequency changes in the market value of intermediaries' net worth in a narrow window around their earnings announcements, based on U.S. tick-by-tick data. Using these shocks, we estimate that news of a 1-percent decline in intermediaries' net worth leads to a 0.2-0.4 percent decrease in the market value of nonfinancial firms.  These effects are more pronounced for firms with high default risk and low liquidity and when the aggregate net worth of intermediaries is low.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clubs and Networks in Economics Reviewing -- by Scott E. Carrell, David N. Figlio, Lester R. Lusher]]></title>
-        <id>https://www.nber.org/papers/w29631#fromrss</id>
-        <link href="https://www.nber.org/papers/w29631#fromrss"/>
-        <updated>2022-01-13T21:03:49.083Z</updated>
-        <summary type="html"><![CDATA[The network of economists who publish in leading journals is generally perceived as small, exclusive, and tightly knit. We study how author-editor and author-reviewer network connectivity and “match” influences editor decisions and reviewer recommendations of economic research at the Journal of Human Resources (JHR). Our empirical strategy employs several dimensions of fixed effects to overcome concerns of endogenous assignment of papers to editors and reviewers in order to identify causal impacts. Results show that clubs and networks play a large role in influencing both editor and reviewer decisions. Authors who attended the same PhD program, were ever colleagues with, are affiliates of the same NBER program(s), or are more closely linked via coauthorship networks as the handling editor are significantly more likely to avoid a desk rejection. Likewise, authors from the same PhD program or who previously worked with the reviewer are significantly more likely to receive a positive evaluation. We also find that sharing “signals” of ability, such as publishing in “top five”, attending a high ranked PhD program, or being employed by a similarly ranked economics department significantly influences editor decisions and/or reviewer recommendations.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debt as Safe Asset -- by Markus K. Brunnermeier, Sebastian A. Merkel, Yuliy Sannikov]]></title>
-        <id>https://www.nber.org/papers/w29626#fromrss</id>
-        <link href="https://www.nber.org/papers/w29626#fromrss"/>
-        <updated>2022-01-13T21:03:49.055Z</updated>
-        <summary type="html"><![CDATA[The price of a safe asset reflects not only the expected discounted future cash flows but also future service flows, since retrading allows partial insurance of idiosyncratic risk in an incomplete markets setting. This lowers the issuers' interest burden and allows the government to run a permanent (primary) deficit without ever paying back its debt. As idiosyncratic risk rises during recessions, so does the value of the service flows bestowing the safe asset with a negative beta. This resolves government debt valuation puzzles. Nevertheless, the government faces a “Debt Laffer Curve”. The paper also has important implications for fiscal debt sustainability.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonprofits in Good Times and Bad Times -- by Christine L. Exley, Nils H. Lehr, Stephen J. Terry]]></title>
-        <id>https://www.nber.org/papers/w29630#fromrss</id>
-        <link href="https://www.nber.org/papers/w29630#fromrss"/>
-        <updated>2022-01-13T21:03:49.027Z</updated>
-        <summary type="html"><![CDATA[Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bounds, Benefits, and Bad Air: Welfare Impacts of Pollution Alerts -- by Michael L. Anderson, Minwoo Hyun, Jaecheol Lee]]></title>
-        <id>https://www.nber.org/papers/w29637#fromrss</id>
-        <link href="https://www.nber.org/papers/w29637#fromrss"/>
-        <updated>2022-01-13T21:03:49.014Z</updated>
-        <summary type="html"><![CDATA[Though air-quality alert systems (AQAS) cover more than 1.7 billion people worldwide, there has been little welfare analysis of these systems. This paper presents a theoretical framework for deriving lower bounds on the net benefits of an AQAS and applies it to a South Korean system currently covering over 51 million people. Estimating a regression discontinuity design, we find that an alert issuance reduced youth respiratory expenditures by 30% and adult cardiovascular expenditures by 23%. The overall system reduced externalized health expenditures by 28.6 million dollars during 2016–2017, with a minimum benefit-cost ratio of 7.1:1. Including dynamic impacts of alerts increases the minimum benefits (benefit-cost ratio) to 36.7 million dollars (9.2:1). Our findings imply that the AQAS generates significant net benefits and suggests that manipulation of air quality data, which has been observed in other contexts, may negatively impact social welfare.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macroeconomic Research, Present and Past -- by Philip J. Glandon, Kenneth Kuttner, Sandeep Mazumder, Caleb Stroup]]></title>
-        <id>https://www.nber.org/papers/w29628#fromrss</id>
-        <link href="https://www.nber.org/papers/w29628#fromrss"/>
-        <updated>2022-01-13T21:03:48.988Z</updated>
-        <summary type="html"><![CDATA[How is macroeconomic research conducted and what is it trying to accomplish? We explore these questions using information gleaned from 1,894 articles published in ten leading journals. We find that over the past 40 years there has been a growing emphasis on increasingly sophisticated quantitative theory, such as DSGE modeling, and papers employing these methods now account for the majority of articles in macro journals. The shift towards quantitative theory is mirrored by a decline in the use of econometric methods to test economic hypotheses.  Econometric techniques borrowed from applied microeconomics have to a large extent displaced time series methods, and empirical papers increasingly rely on micro and proprietary data sources. Market imperfections are pervasive, and the amount of research involving financial frictions has increased significantly in the past ten years. The frequency with which non-macro JEL codes appear in macro articles indicates a great deal of overlap between macroeconomics and other fields.]]></summary>
-        <author>
-            <name>National Bureau of Economic Research Working Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Bid Rotation and Incumbency to Detect Collusion: A Regression Discontinuity Approach -- by Kei Kawai, Jun Nakabayashi, Juan M. Ortner, Sylvain Chassang]]></title>
-        <id>https://www.nber.org/papers/w29625#fromrss</id>
-        <link href="https://www.nber.org/papers/w29625#fromrss"/>
-        <updated>2022-01-13T21:03:48.975Z</updated>
-        <summary type="html"><![CDATA[Cartels participating in procurement auctions frequently use bid rotation or prioritize incumbents to allocate contracts. However, establishing a link between observed allocation patterns and firm conduct has been difficult: there are cost-based competitive explanations for such patterns. We show that by focusing on auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive environments. We apply our tests to two datasets: the sample of Ohio milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions from Japan.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -109,28 +29,38 @@
         <title type="html"><![CDATA[Information versus Investment -- by Stephen J. Terry, Toni M. Whited, Anastasia A. Zakolyukina]]></title>
         <id>https://www.nber.org/papers/w29636#fromrss</id>
         <link href="https://www.nber.org/papers/w29636#fromrss"/>
-        <updated>2022-01-13T21:03:48.918Z</updated>
+        <updated>2022-01-14T00:21:20.028Z</updated>
         <summary type="html"><![CDATA[We quantify the real implications of trade-offs between firm information disclosure and long-term investment efficiency. We estimate a dynamic equilibrium model in which firm managers confront realistic incentives to misreport earnings and distort their real investment choices. The model implies a socially optimal level of disclosure regulation that exceeds the estimated value. Counterfactual analysis reveals that eliminating earnings misreporting completely through disclosure regulation incentivizes managers to distort real investment. Lower earnings informativeness raises the cost of capital, which results in a 5.7% drop in average firm value, but more modest effects on social welfare and aggregate growth.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revealing Corruption: Firm and Worker Level Evidence from Brazil -- by Emanuele Colonnelli, Spyridon Lagaras, Jacopo Ponticelli, Mounu Prem, Margarita Tsoutsoura]]></title>
-        <id>https://www.nber.org/papers/w29627#fromrss</id>
-        <link href="https://www.nber.org/papers/w29627#fromrss"/>
-        <updated>2022-01-13T21:03:48.746Z</updated>
-        <summary type="html"><![CDATA[We study how the disclosure of corrupt practices affects the growth of firms involved in illegal interactions with the government using randomized audits of public procurement in Brazil. On average, firms exposed by the anti-corruption program grow larger after the audits, despite experiencing a decrease in procurement contracts. We manually collect new data on the details of thousands of corruption cases, through which we uncover a large heterogeneity in our firm-level effects depending on the degree of involvement in corruption cases. Using investment-, loan-, and worker- level data, we show that the average exposed firms adapt to the loss of government contracts by changing their investment strategy. They increase capital investment and borrow more to finance such investment, while there is no change in their internal organization.  We provide qualitative support to our results by conducting new face-to-face surveys with business owners of government-dependent firms.]]></summary>
+        <title type="html"><![CDATA[Limited Supply and Lagging Enrollment: Production Technologies and Enrollment Changes at Community Colleges during the Pandemic -- by Diane Whitmore Schanzenbach, Sarah Turner]]></title>
+        <id>https://www.nber.org/papers/w29639#fromrss</id>
+        <link href="https://www.nber.org/papers/w29639#fromrss"/>
+        <updated>2022-01-14T00:21:20.005Z</updated>
+        <summary type="html"><![CDATA[Weak labor markets typically lead young workers to invest in skills. High unemployment during COVID diverged from prior downturns: enrollment at community colleges dropped by 9.5 percent between 2019 and 2020, with the drop larger among men. COVID disruptions generated supply-side impacts on courses of study requiring significant capital and “hands on” experiential learning, particularly programs that deliver of assembly, repair and maintenance (ARM) skills. Community colleges that had relative concentrations of credentials in ARM fields pre-pandemic experienced relatively large enrollment declines. The decline in ARM enrollment explains nearly all the difference in enrollment declines by gender during COVID.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates -- by Francis X. Diebold, Minchul Shin, Boyuan Zhang]]></title>
-        <id>https://www.nber.org/papers/w29635#fromrss</id>
-        <link href="https://www.nber.org/papers/w29635#fromrss"/>
-        <updated>2022-01-13T21:03:48.663Z</updated>
-        <summary type="html"><![CDATA[We propose methods for constructing regularized mixtures of density forecasts.  We explore a variety of objectives and regularization penalties, and we use them in a substantive exploration of Eurozone inflation and real interest rate density forecasts.  All individual inflation forecasters (even the ex post best forecaster) are outperformed by our regularized mixtures. From the Great Recession onward, the optimal regularization tends to move density forecasts' probability mass from the centers to the tails, correcting for overconfidence.]]></summary>
+        <title type="html"><![CDATA[Cognitive Decline, Limited Awareness, Imperfect Agency, and Financial Well-being -- by John Ameriks, Andrew Caplin, Minjoon Lee, Matthew D. Shapiro, Christopher Tonetti]]></title>
+        <id>https://www.nber.org/papers/w29634#fromrss</id>
+        <link href="https://www.nber.org/papers/w29634#fromrss"/>
+        <updated>2022-01-14T00:21:19.989Z</updated>
+        <summary type="html"><![CDATA[Cognitive decline may lead older Americans to make poor financial decisions. Preventing poor decisions may require timely transfer of financial control to a reliable agent. Cognitive decline, however, can develop unnoticed, creating the possibility of suboptimal timing of the transfer of control. This paper presents survey-based evidence that wealthholders regard suboptimal timing of the transfer of control, in particular delay due to unnoticed cognitive decline, as a substantial risk to financial well-being. This paper provides a theoretical framework to model such a lack of awareness and the resulting welfare loss.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Bid Rotation and Incumbency to Detect Collusion: A Regression Discontinuity Approach -- by Kei Kawai, Jun Nakabayashi, Juan M. Ortner, Sylvain Chassang]]></title>
+        <id>https://www.nber.org/papers/w29625#fromrss</id>
+        <link href="https://www.nber.org/papers/w29625#fromrss"/>
+        <updated>2022-01-14T00:21:19.973Z</updated>
+        <summary type="html"><![CDATA[Cartels participating in procurement auctions frequently use bid rotation or prioritize incumbents to allocate contracts. However, establishing a link between observed allocation patterns and firm conduct has been difficult: there are cost-based competitive explanations for such patterns. We show that by focusing on auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive environments. We apply our tests to two datasets: the sample of Ohio milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions from Japan.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -139,7 +69,7 @@
         <title type="html"><![CDATA[Currency Carry Trade by Trucks: The Curious Case of China's Massive Imports from Itself -- by Xuepeng Liu, Heiwai Tang, Zhi Wang, Shang-Jin Wei]]></title>
         <id>https://www.nber.org/papers/w29633#fromrss</id>
         <link href="https://www.nber.org/papers/w29633#fromrss"/>
-        <updated>2022-01-13T21:03:48.603Z</updated>
+        <updated>2022-01-14T00:21:19.957Z</updated>
         <summary type="html"><![CDATA[With capital controls, the standard financial market transactions needed for currency carry trade are hard to implement. Using detailed trade data reported by both the mainland Chinese and Hong Kong’s governments, we present evidence that indirect currency carry trade likely takes place via round-trip reimports. We also show that greater state control in terms of more state-owned firms does not reduce such “carry trade by trucks.”]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
@@ -149,8 +79,78 @@
         <title type="html"><![CDATA[Intermediation via Credit Chains -- by Zhiguo He, Jian Li]]></title>
         <id>https://www.nber.org/papers/w29632#fromrss</id>
         <link href="https://www.nber.org/papers/w29632#fromrss"/>
-        <updated>2022-01-13T21:03:48.566Z</updated>
+        <updated>2022-01-14T00:21:19.908Z</updated>
         <summary type="html"><![CDATA[The modern financial system features complicated financial intermediation chains, with each layer performing a certain degree of credit/maturity transformation. We develop a dynamic model in which an entrepreneur borrows from overlapping-generation households via layers of funds, forming a credit chain. Each intermediary fund in the chain faces rollover risks from its lenders, and the optimal debt contracts among layers are time invariant and layer independent. The model delivers new insights regarding the benefits of intermediation via layers: the chain structure insulates interim negative fundamental shocks and protects the underlying cash flows from being discounted heavily during bad times, resulting in a greater borrowing capacity. We show that the equilibrium chain length minimizes the run risk for any given contract and find that restricting credit chain length can improve total welfare once the available funding from households has been endogenized.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Innovation and Knowledge Diffusion -- by Nelson Lind, Natalia Ramondo]]></title>
+        <id>https://www.nber.org/papers/w29629#fromrss</id>
+        <link href="https://www.nber.org/papers/w29629#fromrss"/>
+        <updated>2022-01-14T00:21:19.896Z</updated>
+        <summary type="html"><![CDATA[We develop a Ricardian model of trade in which countries innovate ideas that diffuse across the globe. In this model, the forces of innovation and diffusion combine to shape trade substitution patterns. Innovation makes a country technologically distinct, reducing their substitutability with other countries, while diffusion between countries generates technological similarity and increases head-to-head competition. In the special case of an innovation-only model where countries do not share ideas, productivities are independent across space, and the demand system is CES. As a consequence, departures from CES expenditure reveal diffusion patterns. Our theoretical results provide a mapping between the dynamics of observable trade flows and the dynamics of innovation and knowledge diffusion.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonprofits in Good Times and Bad Times -- by Christine L. Exley, Nils H. Lehr, Stephen J. Terry]]></title>
+        <id>https://www.nber.org/papers/w29630#fromrss</id>
+        <link href="https://www.nber.org/papers/w29630#fromrss"/>
+        <updated>2022-01-14T00:21:19.882Z</updated>
+        <summary type="html"><![CDATA[Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debt as Safe Asset -- by Markus K. Brunnermeier, Sebastian A. Merkel, Yuliy Sannikov]]></title>
+        <id>https://www.nber.org/papers/w29626#fromrss</id>
+        <link href="https://www.nber.org/papers/w29626#fromrss"/>
+        <updated>2022-01-14T00:21:19.853Z</updated>
+        <summary type="html"><![CDATA[The price of a safe asset reflects not only the expected discounted future cash flows but also future service flows, since retrading allows partial insurance of idiosyncratic risk in an incomplete markets setting. This lowers the issuers' interest burden and allows the government to run a permanent (primary) deficit without ever paying back its debt. As idiosyncratic risk rises during recessions, so does the value of the service flows bestowing the safe asset with a negative beta. This resolves government debt valuation puzzles. Nevertheless, the government faces a “Debt Laffer Curve”. The paper also has important implications for fiscal debt sustainability.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revealing Corruption: Firm and Worker Level Evidence from Brazil -- by Emanuele Colonnelli, Spyridon Lagaras, Jacopo Ponticelli, Mounu Prem, Margarita Tsoutsoura]]></title>
+        <id>https://www.nber.org/papers/w29627#fromrss</id>
+        <link href="https://www.nber.org/papers/w29627#fromrss"/>
+        <updated>2022-01-14T00:21:19.839Z</updated>
+        <summary type="html"><![CDATA[We study how the disclosure of corrupt practices affects the growth of firms involved in illegal interactions with the government using randomized audits of public procurement in Brazil. On average, firms exposed by the anti-corruption program grow larger after the audits, despite experiencing a decrease in procurement contracts. We manually collect new data on the details of thousands of corruption cases, through which we uncover a large heterogeneity in our firm-level effects depending on the degree of involvement in corruption cases. Using investment-, loan-, and worker- level data, we show that the average exposed firms adapt to the loss of government contracts by changing their investment strategy. They increase capital investment and borrow more to finance such investment, while there is no change in their internal organization.  We provide qualitative support to our results by conducting new face-to-face surveys with business owners of government-dependent firms.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clubs and Networks in Economics Reviewing -- by Scott E. Carrell, David N. Figlio, Lester R. Lusher]]></title>
+        <id>https://www.nber.org/papers/w29631#fromrss</id>
+        <link href="https://www.nber.org/papers/w29631#fromrss"/>
+        <updated>2022-01-14T00:21:19.824Z</updated>
+        <summary type="html"><![CDATA[The network of economists who publish in leading journals is generally perceived as small, exclusive, and tightly knit. We study how author-editor and author-reviewer network connectivity and “match” influences editor decisions and reviewer recommendations of economic research at the Journal of Human Resources (JHR). Our empirical strategy employs several dimensions of fixed effects to overcome concerns of endogenous assignment of papers to editors and reviewers in order to identify causal impacts. Results show that clubs and networks play a large role in influencing both editor and reviewer decisions. Authors who attended the same PhD program, were ever colleagues with, are affiliates of the same NBER program(s), or are more closely linked via coauthorship networks as the handling editor are significantly more likely to avoid a desk rejection. Likewise, authors from the same PhD program or who previously worked with the reviewer are significantly more likely to receive a positive evaluation. We also find that sharing “signals” of ability, such as publishing in “top five”, attending a high ranked PhD program, or being employed by a similarly ranked economics department significantly influences editor decisions and/or reviewer recommendations.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bounds, Benefits, and Bad Air: Welfare Impacts of Pollution Alerts -- by Michael L. Anderson, Minwoo Hyun, Jaecheol Lee]]></title>
+        <id>https://www.nber.org/papers/w29637#fromrss</id>
+        <link href="https://www.nber.org/papers/w29637#fromrss"/>
+        <updated>2022-01-14T00:21:19.786Z</updated>
+        <summary type="html"><![CDATA[Though air-quality alert systems (AQAS) cover more than 1.7 billion people worldwide, there has been little welfare analysis of these systems. This paper presents a theoretical framework for deriving lower bounds on the net benefits of an AQAS and applies it to a South Korean system currently covering over 51 million people. Estimating a regression discontinuity design, we find that an alert issuance reduced youth respiratory expenditures by 30% and adult cardiovascular expenditures by 23%. The overall system reduced externalized health expenditures by 28.6 million dollars during 2016–2017, with a minimum benefit-cost ratio of 7.1:1. Including dynamic impacts of alerts increases the minimum benefits (benefit-cost ratio) to 36.7 million dollars (9.2:1). Our findings imply that the AQAS generates significant net benefits and suggests that manipulation of air quality data, which has been observed in other contexts, may negatively impact social welfare.]]></summary>
+        <author>
+            <name>National Bureau of Economic Research Working Papers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macroeconomic Research, Present and Past -- by Philip J. Glandon, Kenneth Kuttner, Sandeep Mazumder, Caleb Stroup]]></title>
+        <id>https://www.nber.org/papers/w29628#fromrss</id>
+        <link href="https://www.nber.org/papers/w29628#fromrss"/>
+        <updated>2022-01-14T00:21:19.239Z</updated>
+        <summary type="html"><![CDATA[How is macroeconomic research conducted and what is it trying to accomplish? We explore these questions using information gleaned from 1,894 articles published in ten leading journals. We find that over the past 40 years there has been a growing emphasis on increasingly sophisticated quantitative theory, such as DSGE modeling, and papers employing these methods now account for the majority of articles in macro journals. The shift towards quantitative theory is mirrored by a decline in the use of econometric methods to test economic hypotheses.  Econometric techniques borrowed from applied microeconomics have to a large extent displaced time series methods, and empirical papers increasingly rely on micro and proprietary data sources. Market imperfections are pervasive, and the amount of research involving financial frictions has increased significantly in the past ten years. The frequency with which non-macro JEL codes appear in macro articles indicates a great deal of overlap between macroeconomics and other fields.]]></summary>
         <author>
             <name>National Bureau of Economic Research Working Papers</name>
         </author>
@@ -380,6 +380,228 @@ Mortgage applications increased 1.4 percent from one  week earlier, according to
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[중국을 알지 못하면, 중국을 넘을 수 없다/조평규 지음/좋은땅]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286788065</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286788065"/>
+        <updated>2022-01-12T06:19:00.000Z</updated>
+        <summary type="html"><![CDATA[중국을 알지 못하면, 중국을 넘을 수 없다
+조평규 지음 / 좋은땅 / 2022년 01월 / ISBN:9791138805520
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+시진핑은 최근 ‘역사결의’로 단숨에 ‘모·등·시(毛鄧習)’로 일컬어지며 마오(毛澤東)와 등(鄧小平)의 반열에 올랐다. 중국은 ‘역사결의’로 단단하게 이념적 무장을 하고 미국 등 서방세계와 대결할 준비를 하고 있다.
+
+한국인들은 중국에 대한 혐오로 중국을 무시한다. 중국 것이면 무조건 부정적으로 보는 것이 세태다. 우리가 중국을 무시하고 중국을 제대로 알지 못하면서, 부정적인 인식이 지배하는 한, 한국은 중국의 ‘변두리 국가’의 하나로 전락할 가능성이 매우 높다. 
+
+중국에서 25년을 살면서 기업을 경영한 경험을 가진 저자는 중국을 넘어서기 위해서는, 중국에 대한 공부는 필수적이라고 주장한다. 이 책은 중국진출의 다양한 방법과 기회를 소개하는 실용서이다. 중국과 업무 관련이 있는 경영자, 중국 업무를 보는 회사원이나, 중국을 공부하는 대학생 일반인들에게 좋은 참고서가 될 것이다.
+
+
+서문 
+중국이란 누구인가?… 4
+
+제1장 중국을 제대로 알아야, 중국을 넘을 수 있다
+1) 중국 ‘역사결의(歷史決議)’를 바라보는 시각… 12
+2) ‘마오쩌둥 시대’ 연상시키는 中… 15
+3) 공부하는 경영자가 성과를 낸다… 18
+4) 중국은 우리의 내수 시장이다… 20
+5) 한국의 정치지도자, 중국을 알아야… 24
+6) 중국 ‘쌍순환’ 가치사슬에 올라타라… 27
+7) 도광양회가 주는 교훈… 31
+8) 중국은 공산당의 나라… 34
+9) 중국에서 관시(關係)란 무엇인가?… 38
+
+제2장 중국사업의 기본기
+1) 중국사업 신뢰가 문제다… 43
+2) 중국에 대한 부정적 시각은 정상일까… 46
+3) 중국 인맥이 없다… 50
+4) 중국은 우리의 시장이다… 52
+5) 중국과의 협상전략… 55
+6) 중국에서 실패하는 사람과 기업의 특징… 57
+
+제3장 국가는 거칠게 나아가야
+1) 국가는 거칠게 나아가야… 61
+2) 글로벌 분업으로 성공한 나라의 수준… 64
+3) 중국인의 국내 부동산 취득… 상호주의 원칙 적용해야… 68
+
+제4장 중국에서 기회를 찾아야
+1) 한·중 기술협력 공간은 많다… 72
+2) 중국 도처에 깔린 환경산업 진출 기회… 75
+3) 4차 산업혁명, 중국이 앞서기 시작했다… 78
+4) 중국 반독점법 주목해야 하는 이유… 82
+5) 중국 빅데이터산업에 주목해야 하는 이유… 86
+6) 중국 체제 안정과 빅테크산업 규제… 89
+7) 데이터(DATA)센터와 인공지능(AI)… 93
+8) 커창판을 주목… 96
+9) 앤트그룹 IPO 중단시킨 마윈의 소신 발언… 101
+
+제5장 중국 광동성이 좋아 보인다
+1) 중국 ‘개혁개방 1번지’ 선전의 재도약… 106
+2) 창업하기 좋은 도시… 광둥성 선전시… 110
+3) 중국 남부 웨강아오대만구 경제벨트 부상에 주목하라… 113
+4) 중국 PPP 모델을 이해해야 하는 이유… 118
+
+제6장 중국의 병원, 제약, 바이오 시장의 기회
+1) 커지는 중국 바이오 시장… 우리 기업 진출 서둘러야… 121
+2) 한국의 바이오 기업 중국 진출 모델… 123
+3) 의료협력 제안해 오는 중국… 126
+4) 한국병원의 중국 진출이 매력적인 이유… 129
+
+제7장 중국, 어떻게 바라봐야 하나
+1) 중국, 어떻게 바라봐야 할까… 134
+2)...
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 아시아 경제사/경제전망]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈의 흐름에 올라타라/홍춘욱 지음/스마트북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286781886</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286781886"/>
+        <updated>2022-01-12T05:31:00.000Z</updated>
+        <summary type="html"><![CDATA[돈의 흐름에 올라타라
+홍춘욱 지음 / 스마트북스 / 2022년 01월 / ISBN:9791190238762
+정가: 17,500원 / 판매가: 15,750원 / 마일리지: 870원
+이벤트: 스마트북스 경제경영 브랜드전. 대상도서 2만원 이상 구매 시, 무선 충전패드
+
+
+
+
+“한국 주식은 투자하기 너무 힘드니, 미국 주식에 올인하는 게 어떠냐?”, “어떻게 투자를 시작해야 할지 모르겠다.”『돈의 흐름에 올라타라』는 국내 최고의 이코노미스트 홍춘욱 박사가 이메일과 유튜브 채널에서 매일처럼 받은 수많은 질문들에 답하기 위해 만들어졌다.
+
+한국 주식에 투자해서 성공하기 위한 방법을 몇 가지 단계를 통해 살펴보는 한편, 이 과정에서 발생하는 다양한 질문들에 답하면서 진행되기에, “어떻게 투자를 시작해야 할지 모르겠다”는 분들에게 답을 드릴 수 있을 것이다. 특히 [Stage3]에는 투자성향에 맞춘 다양한 자산배분 전략까지 소개하고 있는데, 한국인에 적합한 자산배분 전략의 기초를 설명하는 부분이 압권이다.
+
+채찍효과 등 한국 투자자들이 꼭 알아야 할 한국의 경제현실을 명쾌하게 설명하고, 그에 맞는 투자법을 데이터를 기반으로 하여 논리적으로 설명하고 있는 것이 특징이다. 더 나은 전망과 근거 있는 분석을 제시하기 위해 투자전략을 검증해가고 업그레이드해 가는 과정이 굉장히 흥미진진하다.
+
+왜 투자고수들이 이 책을 극찬하는지 알 수 있을 것이다. 가장 신뢰받는 애널리스트, 국민연금·은행·증권사 등 30년 동안 경제전문가로 일한 저자의 관록이 돋보이는 책으로, 종잣돈을 모으고 있는 2030세대뿐만 아니라 자산배분이 필…]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS 공인 솔루션스 아키텍트 스터디 가이드 - 어소시에이트 3/e/벤 파이퍼.데이비드 클린턴 지음, 동준상 옮김/에이콘출판]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286769894</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286769894"/>
+        <updated>2022-01-12T03:21:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS 공인 솔루션스 아키텍트 스터디 가이드 - 어소시에이트 3/e
+벤 파이퍼.데이비드 클린턴 지음, 동준상 옮김 / 에이콘출판 / 2022년 01월 / ISBN:9791161756103
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
+이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
+
+
+
+
+AWS 공인 솔루션스 아키텍트 - 어소시에이트 시험은 솔루션 아키텍트로서 업무를 수행하려는 사람을 위한 인증 자격 시험이다. 수험자는 이를 통해 AWS 기반의 견고한 애플리케이션을 설계하고 배포할 수 있는 지식과 역량을 검증받을 수 있다. 
+
+3판은 AWS의 최신 시험 출제 가이드인 SAA-C02를 반영해 효과적이며 효율적인 시험 준비를 돕는다. 시험과 관련된 모든 영역을 체계적으로 분석해 만든 사전 평가, 핵심 서비스의 개요 정리 및 활용, 학습 후 평가 등을 통해 좀 더 입체적으로 AWS의 시험 문제에 대비할 수 있도록 구성했다.  AWS의 다양한 서비스에 대한 체계적인 지식과 경험, 시험 합격을 원하는 예비 수험생에게 완벽한 시험 가이드가 될 것이다.
+
+1부. 핵심적인 AWS 서비스
+
+1장. 클라우드 컴퓨팅 및 AWS의 개요
+__클라우드 컴퓨팅과 가상화
+__AWS 클라우드
+__AWS 플랫폼 아키텍처
+__AWS의 신뢰성 및 서비스 규약
+__AWS 환경에서 작업하기
+__정리
+__시험 대비 전략
+__평가 문제
+
+
+2장. Amazon EC2와 Amazon EBS
+__AWS 컴퓨트 서비스 개요
+__EC2 인스턴스의 개요
+__EC2 스토리지 볼륨
+__EC2 인스턴스 접속하기
+__EC2 인스턴스의 보안 유지
+__EC2 Auto Scaling
+__AWS Systems Manager
+__AWS CLI 예제
+__정리
+__시험 대비 전략
+__평가 문제
+
+
+3장. AWS 스토리지
+__AWS 스토리지 개요
+__S3 서비스 아키텍처
+__S3의 내구성 및 가용성
+__S3 객체 생애주기
+__S3 객체에 접근하기
+__Amazon S3 Glacier
+__기타 스토리지 관련 서비스
+__AWS CLI 예제
+__정리
+__시험 대비 전략
+__평가 문제
+
+
+4장. Amazon VPC
+__Amazon VPC 개요
+__VPC CIDR 블록
+__보조 CIDR 블록
+__서브넷
+__일래스틱 네트워크 인터페이스
+__인터넷 게이트웨이
+__라우트 테이블
+__보안 그룹
+__네트워크 접속 제어 목록
+__퍼블릭 IP 주소
+__탄력적 IP
+__AWS 글로벌 엑셀러레
+__NAT 디바이스
+__VPC 피어링
+__하이브리드 클라우드 네트워킹
+__고성능 컴퓨팅
+__정리
+__시험 대비 전략
+__평가 문제
+
+
+5장. 데이터베이스 서비스
+__AWS 데이터베이스 서비스의 개요
+__관계형 데이터베이스
+__Amazon RDS
+__Amazon Redshift
+__비관계형 데이터베이스(NoSQL)
+__DynamoDB
+__정리
+__시험 대비 전략
+__평가 문제
+
+
+6장. AWS IAM을 이용한 신분 확인 및 권한 부여
+__AWS IAM의 개요
+__IAM 기반의 신분 관리
+__접근권한 관리 도구
+__AWS CLI 예제
+__정리
+__시험 대비 전략
+__평가 문제
+
+
+7장. AWS 모니터링 서비스: CloudTrail, CloudWatch, AWS Config
+__AWS 모니터링 서비스 개요
+__CloudTrail
+__CloudWatch
+__AWS Config
+__정리
+__시험 대비 전략
+__평가 문...
+
+국내도서 > 컴퓨터/모바일 > 활용능력 > 신규 자격증/자격증 기타
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
+국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍
+국내도서 > 수험서/자격증 > 컴퓨터 활용능력 > 신규 자격증/자격증 기타]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wednesday: CPI]]></title>
         <id>http://www.calculatedriskblog.com/2022/01/wednesday-cpi.html</id>
         <link href="http://www.calculatedriskblog.com/2022/01/wednesday-cpi.html"/>
@@ -419,6 +641,61 @@ New cases are at record levels (1.4 million today!).  It appears likely hospita
 Fortunately, deaths are still well below the previous 7-day average record of 3,421 in January 2021.]]></summary>
         <author>
             <name>Calculated Risk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금리 상승기에 부의 저축수단/김영갑 지음/북트리]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286756587</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286756587"/>
+        <updated>2022-01-12T00:08:00.000Z</updated>
+        <summary type="html"><![CDATA[금리 상승기에 부의 저축수단
+김영갑 지음 / 북트리 / 2022년 01월 / ISBN:9791164670956
+정가: 19,800원 / 판매가: 17,820원 / 마일리지: 990원
+이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+시장에서 금리가 상승하게 되면 어떤 부의 저축수단을 선택해야 손해를 보지 않고 보유하고 있는 재산을 보전할 수 있을지, 그리고 기대수익률을 달성할 수 있을지를 주요 투자대상을 중심으로 살펴본 책이다.
+
+누구나 부자가 되고 싶다.
+
+Ⅰ.  돈(money)과 금리(interest)를 공부하면 부자가 될 수 있다.
+01.  돈(money)과 금리(interest rate)
+02.  기준금리 인상
+03.  시장금리 지표
+04.  금리변수를 가지는 경제 현상
+
+Ⅱ.  금리 상승기의 부(富, wealth)의 저축수단
+01.  종잣돈부터 마련하자!
+02.  금리는 얼마만큼 상승할 것인가?
+
+*부동산 투자
+03.  금리와 아파트 투자
+04.  금리와 갭(gap) 투자
+05.  금리와 꼬마빌딩·상가 투자
+
+*주식·채권·금(gold)
+06.  금리와 주식
+07.  금리 상승과 주식투자
+08.  금리 상승기 투자 유망 주식
+09.  금리와 채권(Bond)
+10.  금리와 금(gold) 투자
+
+*금융·파생상품 
+11.  금리 상승기에 재무 구조조정
+12.  달러 표시 자산 확대
+13.  ETF(상장지수펀드), ETN(상장지수증권)
+14.  주가연계증권(ELS)과 파생결합증권(DLS)
+15.  리츠(REITs) 투자
+16.  가상자산(암호화폐) 투자
+
+참고문헌
+
+
+국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
@@ -3981,158 +4258,6 @@ Chapter 4 함수
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반도체 대전 2030/황정수 지음/한국경제신문]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285444385</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285444385"/>
-        <updated>2021-12-22T07:22:00.000Z</updated>
-        <summary type="html"><![CDATA[반도체 대전 2030
-황정수 지음 / 한국경제신문 / 2021년 12월 / ISBN:9788947547758
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
-이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
-
-
-
-
-반도체는 ‘21세기의 전략물자’, ‘산업의 쌀’이라 불리며 휴대폰, PC, 자동차 등의 생산에 꼭 필요한 현대산업에 없어서는 안 될 중요 자원으로 손꼽힌다. 이미 기업 간의 경쟁을 넘어 국가 대 국가로 번지고 있던 반도체 패권을 향한 각국의 움직임이 2020년, 코로나19로 인해 자동차 반도체 품귀가 발생하며 전 세계적인 차원으로 확산됐다. 
-
-각국은 반도체 산업에 대한 지배력이 국가 안보와 경쟁력과 직결된다는 것을 깨닫고, 공급망이 끊겨 문제가 생기지 않도록 반도체 내수화와 핵심 소재 공급망 다변화, 기업간 M&A를 추진하며 국가적 차원의 공격적인 조치와 투자를 단행하고 있다.
-
-훗날 ‘세계 제1차 반도체 대전’으로 기록될지도 모르는 치열한 반도체 패권 다툼 속에서 우리는 어떻게 대처하고 무엇을 준비해야 할까. 한국경제신문 황정수 기자가 현대산업의 중심 실리콘밸리에서 특파원으로 근무하며 취재한 내용을 바탕으로 집필한 이 책을 통해 우리는 반도체 산업에 대한 정확한 이해와 k-반도체의 나아갈 방향을 예측할 수 있을 것이다.
-
-추천의 글
-프롤로그 
-
-1장 불붙은 반도체 전쟁
-자국 반도체 육성을 위한 각국의 전략
-반도체 전쟁의 원인, ‘품귀’
-거세지는 갈등 속 삼성전자의 행보
-신성장동력 확보를 위한 치열한 M&A 전쟁
-[짚어보기] 반도체는 무엇이고 어떻게 만들까?
-
-2장 중국 굴기를 향한 미국의 규제 공세
-반도체 굴기 선언한 중국
-특명! 화웨이를 잡아라
-중국의 반도체 굴기, 일단 꺾였다
-[짚어보기] ‘인재 블랙홀’ 중국에 대항하려면
-
-3장 대격변 속 메이저 플레이어로 등장한 파운드리
-TSMC 쟁탈전
-[짚어보기] 대만 반도체는 왜 강한가?
-파운드리 육성 나선 삼성전자
-ASML의 EUV 노광장비를 잡아라
-
-4장 옛 영광 되찾으려는 일본 반도체 
-패권 전쟁의 서막, 일본의 수출 규제
-[짚어보기] 일본의 수출 규제는 어떤 영향을 끼쳤을까?
-일본 메모리반도체 몰락의 원인
-[짚어보기] 일본 반도체를 누른 삼성전자
-소재·장비엔 숨은 강자 많은 일본
-[짚어보기] 조미료 회사가 반도체 소재를 만든다고?
-
-5장 반도체 전쟁의 미래
-임박한 세대교체
-[짚어보기] 암페어컴퓨팅이 비즈니스 테이블에 함께하게 된 이유
-한국의 미래를 짊어진 삼성전자와 SK하이닉스
-패키징 승부수 띄운 K-반도체
-
-에필로그
-
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라라벨 실전 웹 애플리케이션 개발/다케자와 유키 외 지음, 김모세 옮김/제이펍]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285421091</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285421091"/>
-        <updated>2021-12-22T02:46:00.000Z</updated>
-        <summary type="html"><![CDATA[라라벨 실전 웹 애플리케이션 개발
-다케자와 유키 외 지음, 김모세 옮김 / 제이펍 / 2021년 12월 / ISBN:9791191600476
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원
-이벤트: 수험서.대학교재_텀블러/플래너/코듀로이 파우치/카드지갑
-
-
-
-
-라라벨 최신 버전(8.x) 대응 & 실무 개발자들의 꼼꼼한 설명이 돋보이는 책. 대세 PHP 프레임워크 라라벨 최신 버전을 기준으로 집필된 이 책은 점점 더 커지고 복잡해지는 웹 애플리케이션 개발을 위한 새로운 설계 방법과 기술을 소개한다. 저자들의 오랜 실무 경험과 커뮤니티 활동에서 쌓은 노하우를 실전 예제를 통해 아낌없이 공개한다.
-
-옮긴이 머리말 xiii
-머리말 xv
-베타리더 후기 xvii
-
-PART I | 라라벨 기초 1
-CHAPTER 1 | 라라벨 개요 1
-1-1 라라벨이란? 3
-    1-1-1 라라벨의 특징 3
-    1-1-2 개발 정보 5
-1-2 환경 구축 6
-    1-2-1 라라벨 세일을 이용한 환경 구축 6
-    1-2-2 홈스테드를 이용한 환경 구축 19
-1-3 첫 번째 애플리케이션 31
-    1-3-1 라라벨의 디렉터리 구성 31
-    1-3-2 Welcome 페이지 처리 32
-    1-3-3 첫 번째 페이지 36
-    1-3-4 첫 번째 테스트 코드 37
-    1-3-5 사용자 등록 구현 40
-    1-3-6 사용자 인증 47
-    1-3-7 이벤트 52
-
-CHAPTER 2 | 라라벨 아키텍처 57
-2-1 라이프 사이클 59
-    2-1-1 라라벨 애플리케이션 실행 흐름 59
-    2-1-2 엔트리 포인트 60
-    2-1-3 HTTP 커널 62
-    2-1-4 라우터 63
-    2-1-5 미들웨어 64
-    2-1-6 컨트롤러 65
-2-2 서비스 컨테이너 67
-    2-2-1 서비스 컨테이너란? 67
-    2-2-2 바인드와 리졸브 68
-    2-2-3 바인드 69
-    2-2-4 리졸브 75
-    2-2-5 DI와 서비스 컨테이너 77
-    2-2-6 퍼사드 82
-2-3 서비스 프로바이더 86
-    2-3-1 서비스 프로바이더 동작 기본 87
-    2-3-2 DeferrableProvider 인터페이스 지연 실행 89
-2-4 컨트랙트 91
-    2-4-1 컨트랙트 기본 91
-    2-4-2 컨트랙트를 이용한 기능 대체 93
-
-CHAPTER 3 | 애플리케이션 아키텍처 99
-3-1 MVC와 ADR 101
-    3-1-1 MVC 101
-    3-1-2 ADR 108
-3-2 아키텍처 다루기 116
-    3-2-1 프레임워크와 아키텍처 설계 116
-    3-2-2 아키텍처 설계의 포인트 117
-    3-2-3 레이어드 아키텍처 118
-    3-2-4 레이어드 아키텍처 이후의 세계 123
-
-PART II | 실천패턴 125
-CHAPTER 4 | HTTP 요청과 응답 125
-4-1 요청 핸들링 127
-    4-1-1 요청 취득 127
-    4-1-2 Request 퍼사드 128
-    4-1-3 Request 객체 130
-    4-1-4 폼 요청 131
-4-2 밸리데이션 135
-    4-2-1 밸리데이션 규칙 지정 방법 136
-    4-2-2 밸리데이션 규칙 137
-    4-2-3 밸리데이션 이용 140
-    4-2-4 밸리데이션 ...
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > PHP
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍
-국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[선박투자 이야기/김우석 지음/하움출판사]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285419758</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285419758"/>
@@ -4311,189 +4436,6 @@ ___ 4.5.2 영 행렬의...
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문성유의 뉴 노멀 시대와 제주의 미래/문성유 지음/KSS(노하우석세스시스템)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285351869</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285351869"/>
-        <updated>2021-12-21T05:03:00.000Z</updated>
-        <summary type="html"><![CDATA[문성유의 뉴 노멀 시대와 제주의 미래
-문성유 지음 / KSS(노하우석세스시스템) / 2021년 12월 / ISBN:9788997942411
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
-이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
-
-
-
-
-저자는 ‘어떻게 하면 내 고향 제주를 더 나은 곳, 도민들이 더 행복한 곳으로 만들 수 있을까?’라는 문제의식을 30년 공직생활 내내 마음에 품고 살았다. 퇴임이후 그동안의 경험을 바탕으로 고향 제주도민에 조금이나마 보탬이 되고자 ‘문성유 혼디행복경제연구소’를 열었다.
-
-[머리말] 나만의 북극성을 찾아서 
-[추천사] 초등시절 친구의 추천글 – 이승훈
-중∙고교 동창이 본 문성유 – 고봉수
-대학동창 추천의 글 – 김수정
-
-PART I. 제주의 아들로 태어나 / 영행 커수다
-어린시절
-⦁	용두암 소년의 꿈
-⦁	라디오 퀴즈를 준비하며
-⦁	상식에 눈을 뜬 독서이야기
-⦁	낚시를 통해 배운 기다림의 미학
-가족이야기
-⦁	인생의 멘토이자 롤모델 아버지
-⦁	경청을 가르쳐주신 어머니
-⦁	아내와의 만남과 결혼
-⦁	사랑하는 아들, 딸에게
-| 딸에게 받은 편지 |
-| 아들이 생각하는 아빠 |
-
-학창시절
-⦁	고교시절 난 기수였다
-⦁	경찰이 되길 원했던 아버지
-⦁	수학을 사랑한 인문반 범생이
-⦁	경제의 전문성을 살리려 행정고시 도전
-
-PART II. 행정을 아는 경제전문가 / 정행 살아수다
-공직생활이야기
-⦁	섬나라 선비가 대한민국 머슴이 되어
-⦁	나라의 곳간을 지키며
-⦁	중앙정부입장에서 바라본 제주도
-⦁	중앙부처 제주 출신 공무원 모임을 이끌며
-국가 행정과 기업 경영에 대하여
-⦁	국가예산과 재정행정
-⦁	한국자산관리공사 CEO의 길
-⦁	기업경영과 조직관리의 중요성
-⦁	ESG 경영과 글로벌 환경
-경제전문가의 생각과 담론
-⦁	슬기로운 뉴 노멀 생활
-⦁	국유재산 관리도 ‘뉴트로 시대’로
-⦁	위기의 중소기업 회생시킬 ‘정책백신’
-⦁	제로에너지로 만드는 균형
-
-PART III. 뉴 노멀시대 제주의 미래 / 경허젠 마씸
-격동하는 환경변화를 인지하라
-⦁	앞으로 우리 경제는?
-⦁	위드 코로나 시대를 지배할 패러다임
-⦁	포스트 코로나 시대의 리더십
-⦁	탄소중립의 시대, 해운강국 부활의 뱃고동
-우리 제주가 처한 상황은
-⦁	천혜의 자연환경보존
-⦁	위기에 취약한 제주경제
-⦁	질 높은 일자리 창출 필요
-⦁	청년세대 삶의 질 개선
-미래 제주를 위한 우리의 준비
-⦁	혁신으로 변화하라
-⦁	포용으로 도약하라
-⦁	역지사지로 생상하라
-⦁	누구나 살고 싶은 탐나는 제주도
-
-PART IV. 경제의 민낯 / 알믄 쉽고 모르면 왁왁 경제
-경제란 무엇인가
-⦁	국민경제의 3대 주체 : 가...
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈 버는 NFT 처음부터 제대로 만들고 판매하기/이영호 지음/흔들의자]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=285330304</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=285330304"/>
-        <updated>2021-12-21T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[돈 버는 NFT 처음부터 제대로 만들고 판매하기
-이영호 지음 / 흔들의자 / 2022년 01월 / ISBN:9791186787403
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
-이벤트: 1월 특별선물! 피너츠 알파벳 머그, 명화 바닥 머그 (이벤트 도서 포함, 국내서.외서 5만원 이상)
-
-
-
-
-NFT에 대해 아무것도 모르는 왕초보나 컴맹일지라도 스마트폰 한 대로 직접 NFT를 만들고, 판매하는 방법을 친절히 알려주고 있다. NFT는 도대체 무엇이길래 가격이 매겨지고 거래가 되는지, NFT 거래에서 주의해야 할 전략은 무엇인지 등, 이 책은 필자가 직접 체득한 경험을 바탕으로 독자들이 NFT를 쉽게 배우고 돈 버는데 도움을 주는 내용으로 구성되었기에 이른바 ‘NFT 실전 매뉴얼’이라고 부를 수 있다.
-
-글 들어가며_돈 버는 NFT 처음부터 제대로 만들고 판매하기 
-
-A. NFT란 무엇인가요?
-└ 만질 수 있는 ‘실물자산’ vs. 만질 수 없는 ‘가상자산’
-└ 이제부터 ‘가상자산’이 중요해요!
-[1] NFT란 무엇인가요?
-└ 형태가 없는 가상자산도 누구의 것인지 확인하고 싶어요!
-(1) 가상(암호)화폐 & NFT
-└ 가상화폐란 무엇인가요?
-(2) 블록체인 & NFT
-└ 블록체인이란 무엇인가요?
-(3) 메타버스 & NFT
-└ 메타버스란 무엇인가요?
-[2] 가상자산의 현재를 알아볼까요?
-└ 우리가 아는 가상자산의 종류 : IP 창작물
-a. 금융상품
-b. 아바타
-c. 게임 아이템
-d. 가상화폐
-e. 전자책
-f. 인터넷강의
-g. 영화 등
-h. 1인 방송 동영상
-(1) IP 창작물의 발달 과정
-└ 현재 창작물의 종류
-└ 저작권(콘텐츠 등), 특허권(아이디어 등)
-(2) IP 창작물의 미래
-└ 미래 창작물의 종류
-[3] 가상자산의 미래를 알아볼까요?
-└ 우리가 경험한 가상자산의 거래: 마켓플레이스
-a. 금융상품
-b. 아바타
-c. 게임 아이템
-d. 가상화폐
-e. 전자책
-f. 인터넷강의
-g. 영화 등
-h. 1인 방송 동영상  
-(1) 메타버스 & 마켓플레이스
-a. 홈스페이스(메타버스)
-b. 드론과 로봇
-c. 사물인터넷(IoT)
-(2) 증강현실과 반증강현실 & 마켓플레이스
-a. 홀로그램8
-b. 우주여행
-
-B. NFT 이해하기
-└ NFT에 의한 새로운 가상자산의 등장
-[1] NFT 종류
-(1) 기업의 제품
-a. 고객 사은품(Customer Event)
-b. 브랜드 아이템(Brand Item)
-c. 가상 제품(Virture Product)
-(2) 팬아트
-a. 디지털 싸인
-b. 가상 머천다이징 프로덕트
-(3) 인증용 NFT 아이템
-a. 신분증
-b. 자격증
-(4) 가수들의 디지털 음원
-a. 디지털 MR
-b. 보컬
-(5) 예술가의 디지털 아트
-a. 그림
-b. 사진
-(6) 배우들의 디지털 자산
-a. 디지털 초상
-b. 디지털 음성
-c. 디지털 성명
-(7) 디지털 아티스트의 작품
-a. 디지털 그림
-b. 디지털 음원
-c. 디지털 디자인
-(8) 음악인의 디지털 자산
-a. 연주곡
-b. 멜로디
-c. 음향
-국내도서 > 경제경영 > 마케팅/세일즈 > 트렌드/미래예측
-국내도서 > 경제경영 > 기업 경영 > 경영전략/혁신
-국내도서 > 경제경영 > 재테크/투자 > 재테크/투자 일반
-국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
