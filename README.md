@@ -14,3 +14,7 @@ https://anarinsk.github.io/rss-osmosfeed/
 ## For personal use 
 
 - [Crontabs examples](https://crontab.guru/examples.html)
+
+## For update 
+
+Change frequently? 
