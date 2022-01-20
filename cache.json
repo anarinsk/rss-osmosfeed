@@ -454,6 +454,263 @@
           "title": "이것이 안드로이드다 with 코틀린/고돈호 지음/한빛미디어"
         }
       ]
+    },
+    {
+      "title": "AEA Research Highlights",
+      "feedUrl": "https://www.aeaweb.org/research/rss-feed",
+      "siteUrl": "https://www.aeaweb.org/research",
+      "articles": [
+        {
+          "id": "https://www.aeaweb.org/research/inversions-us-presidential-elections-geruso",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Winning the US presidency with fewer popular votes is much more probable in close races than many people believe, according to a paper in the American Economic Journal: Applied Economics. We spoke with the author about why the Electoral College causes these inversions.",
+          "link": "https://www.aeaweb.org/research/inversions-us-presidential-elections-geruso",
+          "publishedOn": "2022-01-19T15:00:00.000Z",
+          "wordCount": 1649,
+          "title": "Inverted outcomes resulting from the Electoral College system"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/charts/financial-crisis-fraud-ten-years-evidence",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "After more than 10 years of research by economists, there is a large body of evidence that points towards fraud as central cause of the 2008 financial crisis, according to a paper in the Journal of Economic Literature.",
+          "link": "https://www.aeaweb.org/research/charts/financial-crisis-fraud-ten-years-evidence",
+          "publishedOn": "2022-01-18T15:00:00.000Z",
+          "wordCount": 588,
+          "title": "Fraud and the financial crisis"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/over-optimism-growth-impact",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "Overly optimistic economic forecasts can actually backfire and reduce real GDP growth, especially in developing countries where such projections carry more weight, according to a paper in the American Economic Journal: Macroeconomics.",
+          "link": "https://www.aeaweb.org/research/over-optimism-growth-impact",
+          "publishedOn": "2022-01-12T15:00:00.000Z",
+          "wordCount": 952,
+          "title": "The downside of great expectations"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/charts/handwashing-habit-india-experiment",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "How do we get people to habitually wash their hands? An experiment in India showed how putting soap dispensers in households increased handwashing during wintertime over the long-term, according to a paper in the American Economic Journal: Applied Economics.",
+          "link": "https://www.aeaweb.org/research/charts/handwashing-habit-india-experiment",
+          "publishedOn": "2022-01-03T15:00:00.000Z",
+          "wordCount": 592,
+          "title": "Making healthy practices habitual"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/top-ten-research-highlight-2021",
+          "author": "Tyler Smith and Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "From welfare generosity and work, to the effect of high-tech hubs on innovation, to the recovery of Southern wealth after the Civil War: here are the 10 most-read Research Higlights of 2021.",
+          "link": "https://www.aeaweb.org/research/top-ten-research-highlight-2021",
+          "publishedOn": "2021-12-30T15:00:00.000Z",
+          "wordCount": 878,
+          "title": "2021 in Research Highlights"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/charts/top-ten-chart-of-the-week-2021",
+          "author": "Tyler Smith and Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "From the gender wage gap, to the impact of political corruption on societal norms, to how some innovations can backfire: here are the 10 most-read charts of the week of 2021.",
+          "link": "https://www.aeaweb.org/research/charts/top-ten-chart-of-the-week-2021",
+          "publishedOn": "2021-12-28T15:00:00.000Z",
+          "wordCount": 989,
+          "title": "2021 in Charts of the Week"
+        },
+        {
+          "id": "https://www.aeaweb.org/research/prep-school-poor-kids-head-start",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "Head Start significantly boosted educational attainment and economic self-sufficiency for disadvantaged kids later in life, and the long-run impacts are only now becoming clear, according to a paper in the American Economic Review.",
+          "link": "https://www.aeaweb.org/research/prep-school-poor-kids-head-start",
+          "publishedOn": "2021-12-22T15:00:00.000Z",
+          "wordCount": 1485,
+          "title": "The long-run benefits of public preschool"
+        }
+      ]
+    },
+    {
+      "title": "KDI경제정보센터 국외 연구 자료",
+      "feedUrl": "https://eiec.kdi.re.kr/policy/callRss.do?type=EpEnRss",
+      "siteUrl": "http://eiec.kdi.re.kr/policy/internationalList.do",
+      "articles": [
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161902",
+          "author": null,
+          "description": "Standard consumption models assume a notional consumption flow that does not distinguish between nondurable and durable consumption. Such notional-consumption models generate notional marginal propensities to consume (MPC). By contrast, empirical work and policy discussions often highlight marginal propensities for expenditure (MPX), which incorporate spending on a durable stock. We compare the notional-consumption model to an isomorphic model with a durable stock, and map notional MPCs into MPXs. The mapping is especially simple for a one-period horizon: MPX = (1 - s + s/(r+d)) x MPC, with durable share s, real interest rate r, and durable depreciation rate d.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161902",
+          "publishedOn": "2022-01-20T03:44:16.590Z",
+          "wordCount": 663,
+          "title": "A Simple Mapping from MPCs to MPXs"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161911",
+          "author": null,
+          "description": "There is debate about whether regulating drug prices in Medicare will lead manufacturers to compensate by increasing revenues from the unregulated commercial market. We offer evidence on this question by considering how manufacturers responded in a related setting―when they lost revenues due to biosimilar entry in the European Union but maintained monopoly rights in the unregulated US market. We show that, despite sharp reductions to net revenues in the EU, there was not an offsetting increase in US net revenues even though drugmakers held the same theoretical ability to make up losses as they would under Medicare-specific rate regulation. These data are consistent with manufacturers already using their full market power in the US.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161911",
+          "publishedOn": "2022-01-20T03:44:16.557Z",
+          "wordCount": 663,
+          "title": "Do drugmakers “revenue target”? Evidence from the differential timing of biosimilar entry across markets"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161913",
+          "author": null,
+          "description": "OECD countries deliver publicly-funded employment services through different institutional arrangements. While in most OECD countries the majority of such services are delivered by public employment services, in two in five OECD and EU countries (or regions) they are partly or fully contracted out to external providers, including for-profit and not-for-profit entities. Contracting out employment services to outside providers offers many potential benefits: an increased flexibility to scale capacity in line with changes in unemployment, the possibility of offering services more cost-effectively, the option to better tailor services through the use of specialised service providers and the possibility to offer jobseekers choice of providers. However, achieving these benefits will depend on the actual design and monitoring of the contracting arrangements that are put in place. Focusing on the job brokerage, counselling and case-management employment services typically provided by public agencies, this paper reviews the experiences of OECD countries that have contracted out employment services through outcome-based payment schemes. It highlights the need to carefully consider questions related to the design and implementation of this form of contracting: fostering competition amongst potential providers, setting appropriate minimum service requirements and prices for different client groups, and ensuring the accountability of providers through monitoring and evaluations. These issues are discussed based on country examples, which are also detailed in factsheets contained in the online annex of the paper.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161913",
+          "publishedOn": "2022-01-20T03:44:16.300Z",
+          "wordCount": 663,
+          "title": "Paying for results: Contracting out employment services through outcome-based payment schemes in OECD countries"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161901",
+          "author": null,
+          "description": "We study how political constraints, characterized by the degree of flexibility to choose fiscal policy, affect the probability of sovereign default. To that end, we relax the assumption that policymakers always repay their debt in the dynamic model of fiscal policy developed by Battaglini and Coate (2008). In our setup, legislators bargain over taxes, general spending, debt repayment, and a local public good that can be targeted to the region they represent. Under tighter political constraints, more legislators have veto power, implying that local public goods need to be provided to a larger number of regions. The resources that are freed after a default have to be shared with a higher number of individuals, which reduces the benefits from defaulting in per-capita terms. This lowers the incentive to default compared to the case with lax political constraints. The model is calibrated to Argentina and the results conform to robust empirical evidence. An event study for the 2001/2002 sovereign debt crisis shows that political constraints had an important role in the buildup that led to the crisis.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161901",
+          "publishedOn": "2022-01-20T03:44:15.818Z",
+          "wordCount": 663,
+          "title": "Political Constraints and Sovereign Default"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161909",
+          "author": null,
+          "description": "We study the influence of agricultural labor intensity on individualism across U.S. counties. To measure historical labor intensity in agriculture we combine data on crop-specific labor requirements and county-specific crop mix around 1900. To address endogeneity we exploit climate-induced variation in crop mix. Our estimates indicate that an increase of one standard deviation in labor intensity is associated with a reduction of 0.2-0.4 standard deviations in individualism (as captured by the share of children with infrequent names). We further document consistent patterns using within-county changes in labor intensity over time due to both mechanization and the boll weevil shock. While culture transformed in response to changes in labor intensity, we also find that historical agricultural patterns had a lasting imprint that influences geographic variation in individualism today.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161909",
+          "publishedOn": "2022-01-20T03:44:15.800Z",
+          "wordCount": 663,
+          "title": "Agrarian Origins of Individualism and Collectivism"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161874",
+          "author": null,
+          "description": "This paper examines the short-term implications of the COVID-19 pandemic for inequality in developing countries. The analysis takes advantage of high-frequency phone survey data collected by the World Bank to assess the distributional impacts of the pandemic through the channels of job and income losses, food insecurity, and children’s education in the early days of the pandemic and subsequent period of economic recovery leading up to early 2021. It also introduces a methodology for estimating changes in income inequality due to the pandemic by combining data from phone surveys, pre-pandemic household surveys, and macroeconomic projections of sectoral growth rates. The paper finds that the pandemic had dis-equalizing impacts both across and within countries. Even under the assumption of distribution-neutral impacts within countries, the projected income losses are estimated to be higher in the bottom half of the global income distribution. Within countries, disadvantaged groups were more likely to have experienced work and income losses initially and are recovering more slowly. Inequality simulations suggest an increase in the Gini index for 29 of 34 countries in the sample, with an average increase of about 1 percent. Although these short-term impacts on inequality appear to be small, they suggest that projections of global poverty and inequality impacts of COVID-19 under the assumption of distribution-neutral changes within countries are likely to underestimate actual impacts. Finally, the paper argues that the overall inequality impacts of COVID-19 could be larger over the medium-to-long term on account of a slow and uneven recovery in many developing countries, and disparities in learning losses during pandemic-related school closures, which will likely have long-lasting effects on inequality of opportunity and social mobility.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161874",
+          "publishedOn": "2022-01-20T03:44:15.793Z",
+          "wordCount": 663,
+          "title": "COVID-19 and Economic Inequality : Short-Term Impacts with Long-Term Consequences"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161903",
+          "author": null,
+          "description": "In large urban districts, schools enrolling more white students tend to have higher school performance ratings. We use an instrumental variables strategy leveraging centralized school assignment to identify the drivers of the correlation between racial make-up and ratings. Estimates from Denver and New York City suggest the relationship between widely-reported school performance ratings and white enrollment shares reflects selection bias rather than causal school value-added. In fact, value-added in these two cities is essentially unrelated to white enrollment shares. A simple regression adjustment is shown to yield school ratings that are uncorrelated with race, while predicting causal value-added as well or better than the corresponding unadjusted measures.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161903",
+          "publishedOn": "2022-01-20T03:44:15.762Z",
+          "wordCount": 663,
+          "title": "Race and the Mismeasure of School Quality"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161877",
+          "author": null,
+          "description": "The report examines the impacts of the crisis on global and regional trends in employment, unemployment and labour force participation, as well as on job quality, informal employment and working poverty. It also offers an extensive analysis of trends in temporary employment both before and during the COVID-19 crisis. This year’s report provides a comprehensive assessment of how the labour market recovery has unfolded across the world in response to different country measures to tackle the pandemic. It analyses global patterns, regional differences and outcomes across economic sectors and groups of workers. The report also presents projections for the expected labour market recovery.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161877",
+          "publishedOn": "2022-01-20T03:44:15.755Z",
+          "wordCount": 663,
+          "title": "World Employment and Social Outlook: Trends 2022"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161916",
+          "author": null,
+          "description": "Working with confidential microdata requires researchers to focus on the equally important objectives of obtaining results and checking that these results comply with Statistical Disclosure Control (SDC) rules. However, these two objectives may lead to tensions during analysis. In this report, we outline how researchers can resolve this tension, mostly by providing examples but also by suggesting a rule of thumb.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161916",
+          "publishedOn": "2022-01-20T03:44:15.710Z",
+          "wordCount": 663,
+          "title": "Statistical Disclosure Control (SDC) for results derived from aggregated confidential microdata"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161910",
+          "author": null,
+          "description": "This paper estimates the impact of technology sophistication pre-COVID-19 on the performance of firms during the early stages of the pandemic. We exploit a unique data covering firms from Brazil, Senegal, and Vietnam using a treatment effect mediation framework to decompose the results into a direct and an indirect effect. Increasing pre-pandemic technology sophistication by one standard deviation is associated with 3.8pp higher sales. Both effects are positive, but the direct effect is about 5 times larger than the indirect effect. The total effect on sales is markedly nonlinear with significantly smaller estimates of the reduction in sales for firms with more sophisticated pre-pandemic technology. Our results are robust to different measures of digital responses and matching estimators.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161910",
+          "publishedOn": "2022-01-20T03:44:15.703Z",
+          "wordCount": 663,
+          "title": "Technology and Resilience"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161880",
+          "author": null,
+          "description": "In this article, we survey the recent literature and discuss two contrasting views on the impacts of automation on labor demand. A first view predicts that firms that automate reduce employment, even if this may ultimately result in job creations taking advantage of the lower equilibrium wage induced by job destructions. A second approach emphasizes the market size and business stealing effects of automation. Automating firms become more productive, which enables them to lower their quality-adjusted prices, and therefore to increase the demand for their products. The resulting increase in scale translates into higher employment by automating firms, potentially at the expense of their competitors through business stealing. Drawing from our empirical work on French firm-level data and a growing literature covering multiple countries, we provide empirical support for this second view: automation has a positive effect on labor demand at the firm level, which remains positive at the industry level as it is not fully offset by business stealing effects. We discuss the implications of these results for the taxation of automation technologies such as robots.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161880",
+          "publishedOn": "2022-01-20T03:44:15.688Z",
+          "wordCount": 663,
+          "title": "The Effects of Automation on Labor Demand: A Survey of the Recent Literature"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161908",
+          "author": null,
+          "description": "The COVID-19 pandemic has profoundly affected American children, including disruptions to their care and school settings. Children attending in-person child care or school have contended with unpredictable closures and time in remote school, which in turn is subject to its own types of disruptions (hardware, software, and internet failures). This study investigated the frequency and consequences of disruptions to children’s child care and school arrangements during fall 2020. The study includes a representative sample of hourly service-sector workers parents of a young child from a major U.S. city (N = 679); half are non-Hispanic Black, 23% are Hispanic; 18% are non-Hispanic White. Parents were asked to complete 30 days of daily surveys about whether their care and school arrangements went smoothly and as predicted that day, and about their mood, parenting behaviors, and children’s behavior. Results showed that daily disruptions to care and school were common, with families reporting a disruption on 24% of days. Families with children in remote schooling experienced more frequent disruption than families with children in in-person care or school. For all families, care or school disruptions strongly predicted worse child behavior, more negative parental mood, and increased likelihood of losing temper and punishment.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161908",
+          "publishedOn": "2022-01-20T03:44:15.681Z",
+          "wordCount": 663,
+          "title": "Effects of Daily School and Care Disruptions During the COVID-19 Pandemic on Child Mental Health"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161904",
+          "author": null,
+          "description": "As the pandemic spread across the U.S., disagreement among U.S. households about inflation expectations surged along with the mean perceived and expected level of inflation. Simultaneously, the inflation experienced by households became more dispersed. Using matched micro data on spending of households and their macroeconomic expectations, we study the link between the inflation experienced by households in their daily shopping and their perceived and expected levels of inflation both before and during the pandemic. In normal times, realized inflation barely differs across observable dimensions but low income, low education, and Black households experienced a larger increase in realized inflation than other households did. Dispersion in realized and perceived inflation explains a large share of the rise in dispersion in inflation expectations.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161904",
+          "publishedOn": "2022-01-20T03:44:15.672Z",
+          "wordCount": 663,
+          "title": "The Expected, Perceived, and Realized Inflation of U.S. Households before and during the COVID19 Pandemic"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161907",
+          "author": null,
+          "description": "A rich literature documents the benefits of social safety net programs for children. This paper focuses on an unexplored margin: how children’s programs impact parents’ well-being. We explore changes in children’s public health insurance and its effects on parents’ economic and behavioral outcomes. Using a simulated eligibility for Medicaid eligibility expansions in the 1980s and 1990s, we isolate variation in children’s Medicaid eligibility due to changes in government policies. We find that increases in children’s Medicaid eligibility increases the likelihood a mother is married, decreases her labor market participation, and reduces her smoking and alcohol consumption. Our findings suggest improved maternal well-being as measured by the Center for Epidemiological Studies-Depression score, a proxy for mental health. These results uncover a new link that provides an important mechanism, parental well-being, for interpreting the literature’s findings on the long-term, short-term, and intergenerational effects of Medicaid coverage.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161907",
+          "publishedOn": "2022-01-20T03:44:15.665Z",
+          "wordCount": 663,
+          "title": "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161905",
+          "author": null,
+          "description": "A substantial fraction of schools and childcare facilities in the United States closed their in-person operations during the COVID-19 pandemic. These closures may carry substantial costs to the families of affected children. In this paper, we examine the impact of school and childcare closures on parental labor market outcomes during the COVID-19 pandemic. In particular, we test whether COVID-19 school closures have a disproportionate impact on parents of school-age children (age 5-17 years old) and whether childcare closures affect parents of young children (age <5 years old) relative to others. Our results suggest that while closures have had little impact on whether parents work at all, they have had significant effects on whether parents work full time (at least 35 hours) and the number of hours worked per week. These effects are concentrated among low-educated parents, suggesting that such individuals had a more difficult time adjusting their work life to closures.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161905",
+          "publishedOn": "2022-01-20T03:44:15.658Z",
+          "wordCount": 663,
+          "title": "The Impact of School and Childcare Closures on Labor Market Outcomes during the COVID-19 Pandemic"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161900",
+          "author": null,
+          "description": "In line with ESCAP’s objective to strengthen the intra- and inter-regional transport connectivity, the secretariat has undertaken the study project on “Strengthening capacity for operationalizing sustainable transport connectivity along the China-Central Asia-West Asia Economic (CCWA) Corridor”. \r\nWithin the scope of the project, four challenges which impede seamless connectivity along the Corridor were identified: complex overland transport agreements; lack people-to-people exchanges among stakeholders; low level of digitalization and lack of information on transport assets and status of transport infrastructure of countries along the Corridor. To mitigate the challenges within the context above, this project aimed to address the identified challenges through gathering data and information of relevance to develop an evidence base for policy change; creating strategies and policy recommendations which could further enhance seamless and sustainable international transport connectivity along the CCWA Corridor. The assessments were made focusing on three aspects: legal (i), infrastructure and operational (ii) and technology (iii). The findings of the project are compiled and made available in the attached Study Report and Technical Guide.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161900",
+          "publishedOn": "2022-01-20T03:44:15.612Z",
+          "wordCount": 663,
+          "title": "Strengthening capacity for operationalizing sustainable transport connectivity along the China-Central Asia-West Asia Economic Corridor to achieve the 2030 Agenda: Study report"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161914",
+          "author": null,
+          "description": "We construct a model of innovation incorporating R&D externalities, R&D participation, financial market imperfections, and application and allocation of R&D subsidies, estimate it using Finnish R&D project level data and conduct a welfare analysis. The intensive, not the extensive R&D margin is important. Financial market imperfections are small.Tax credits and subsidies do not reach first best R&D but increase R&D 29-47% compared to laissez-faire. Welfare effects are small: Tax credits increase welfare 1%; subsidies reduce welfare once application costs are taken into accout. In terms of fiscal cost, tax credits are 90% more expensive than R&D subsidies.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161914",
+          "publishedOn": "2022-01-20T03:44:15.599Z",
+          "wordCount": 663,
+          "title": "Welfare effects of R&D support policies"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161915",
+          "author": null,
+          "description": "We explore the idea that the financial sector can be a source of non-fundamental risk to the rest of the economy. We also consider whether policy can be used to reduce this risk. Fearing that asset prices might fall, investors could demand safe assets from financial intermediaries. When leveraged intermediaries issue safe assets, this in turn exposes the economy to self-fulfilling asset price crashes. We show that fiscal and monetary policy can prevent such price volatility in either of two ways: The fiscal authority can issue debt or bail out intermediaries, thereby increasing the supply of publicly backed safe assets. The fiscal authority can provide social insurance or central banks can commit to act as a market maker of last resort, thereby reducing the demand for safe assets.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161915",
+          "publishedOn": "2022-01-20T03:44:15.576Z",
+          "wordCount": 663,
+          "title": "The Financial Origins of Non-fundamental Risk"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161906",
+          "author": null,
+          "description": "Some argue that large platforms, such as Alphabet/Google, Amazon, Apple, Facebook and Microsoft (or GAFAM), are unusual in their number, pace and concentration of technology mergers, with the potential to harm market competition. Using a unique taxonomy developed by S&P Global Market Intelligence, we compare the M&A activities of GAFAM to other top acquirers from 2010 to 2020. We find: (i) GAFAM completed more tech acquisitions per firm than other groups of top acquirers, and acquired younger and more consumer-facing firms on average. (ii) The top 25 private equity firms outpaced GAFAM in tech acquisitions per firm since 2018. (iii) GAFAM acquisitions are less concentrated across tech categories than other top acquirer groups, due, in part, to an “acquire-adjacent-and-then-expand” strategy. (iv) Over time, more and more GAFAM and other top acquirers acquire in the same categories. (v) No evidence suggesting that a GAFAM acquisition in a category, compared to similar categories without GAFAM acquisitions, is correlated with a slowdown in the number of new acquirers acquiring in that category. Overall, we find that technology acquisitions do not shield GAFAM from competition, at least not from other GAFAM members or other firms that acquire in the same categories.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161906",
+          "publishedOn": "2022-01-20T03:44:14.540Z",
+          "wordCount": 663,
+          "title": "How Do Top Acquirers Compare in Technology Mergers? New Evidence from an S&P Taxonomy"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161912",
+          "author": null,
+          "description": "This policy brief is the second in a series of thematic policy briefs in the OECD‘s Resourcing Higher Education Project. This project provides a shared knowledge base for OECD member and partner countries on effective policies for higher education resourcing through system-specific and comparative policy analysis. To meet the skill needs of the Finnish economy, its government has set policy targets with respect to educational attainment and globally mobile learners, and backed those targets with additional resources to aid higher education institutions in accomplishing them. At the same time, Finnish policymakers are engaged in an assessment of their higher education landscape, examining whether the distribution of responsibilities among its higher education institutions is effectively coordinated and adapted to national innovation needs. This policy brief assesses the progress of initiatives to expand the capacity of the higher education system and increase its attractiveness to globally mobile learners, and takes stock of Finland’s institutional landscape in light of international experience.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161912",
+          "publishedOn": "2022-01-20T03:44:13.679Z",
+          "wordCount": 663,
+          "title": "Expanding and steering capacity in Finnish higher education: Thematic policy brief"
+        }
+      ]
     }
   ],
   "cliVersion": "1.12.0"
