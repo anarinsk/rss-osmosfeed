@@ -243,7 +243,7 @@
           "description": "쉽게 배우는 자료구조 with 파이썬\n문병로 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645757\n정가: 29,000원 / 판매가: 29,000원 / 마일리지: 137원\n이벤트: 수험서.대학교재_머그컵/플래너/코듀로이 파우치/카드지갑\n\n\n\n\n기본 자료구조와 알고리즘을 밀도 있게 풀어낸 기본서다. 기본 원리는 이해하기 쉽게 단계별로 차근차근 설명하면서도 구현을 위해 논리의 골격을 구성해가는 과정에서는 저자의 내공까지 충실하게 담았다. 자료구조라는 도구를 사용하는 방법에 대한 기본기를 탄탄히 다질 수 있을 뿐만 아니라 효율적이고 최적화된 코드를 통해 실력도 기를 수 있다.\n\nChapter 01 자료구조 소개\r\n01 자료구조란\r\n02 자료구조와 알고리즘\r\n03 자료구조의 추상 데이터 타입\r\n\r\nChapter 02 재귀(자기호출)와 귀납적 사고\r\n01 자료구조와 재귀\r\n02 재귀 구조 예\r\n03 재귀와 수학적 귀납법\r\n연습문제\r\n\r\nChapter 03 알고리즘의 성능\r\n01 알고리즘 수행 시간이란\r\n02 알고리즘 복잡도\r\n\t1 O?표기\r\n\t2 Ω?표기\r\n\t3 Θ?표기\r\n\t4 점근적 표기법의 수학적 정의\r\n\t5 집합 표기를 대신하는 ‘=’\r\n\t6 시각적 정리\r\n연습문제\r\n\r\nChapter 04 파이썬 기초\r\n01 파이썬 언어의 특징\r\n02 파이썬 사용 기초\r\n\t1 파이썬 코드의 수행\r\n\t2 프린트\r\n\t3 수의 처리\r\n\t4 문자열\r\n\t5 제어\r\n\t6 불변 타입과 가변 타입\r\n\t7 리스트, 튜플, 딕셔너리, 집합\r\n\t8 복사호출, 참조호출, 할당호출\r\n\t9 클래스\r\n10 순회 가능 클래스\r\n03 프로그램 수행\r\n04 패키지와 모듈\r\n05 파이썬 개발 환경\r\n\r\nChapter 05 리스트\r\n01 리스트란\r\n\t1 생활 속의 리스트\r\n\t2 리스트의 작업\r\n\t3 리스트의 구현\r\n02 배열 리스트(파이썬 기본 제공)\r\n\t1 리스트의 객체 구조\r\n\t2 리스트의 작업\r\n\t3 파이썬 내장 리스트의 한계\r\n03 연결 리스트\r\n\t1 연결 리스트의 객체 구조\r\n\t2 연결 리스트의 작업\r\n\t3 연결 리스트의 구현\r\n04 배열 리스트와 연결 리스트의 비교\r\n05 연결 리스트의 개선 및 확장\r\n\t1 원형 연결 리스트\r\n\t2 원형 연결 리스트 구현 및 연결 리스트 개선\r\n\t3 양방향 연결 리스트\r\n\t4 양방향 원형 연결 리스트의 구현\r\n연습문제\r\n\r\nChapter 06 스택\r\n01 스택이란\r\n\t1 생활 속의 스택\r\n\t2 스택의 개념과 원리\r\n\t3 추상 데이터 타입 스택\r\n02 리스트를 이용한 스택\r\n\t1 리스트 스택의 객체 구조\r\n\t2 리스트 스택의 작업과 구현\r\n03 연결 리스트를 이용한 스택\r\n\t1 연결 리스트 스택의 객체 구조\r\n\t2 연결 리스트 스택의 작업과 구현\r\n04 스택 응용\r\n\t1 문자열 뒤집기\r\n\t2 Postfix 계산\r\n연습문제\r\n\r\nChapter 07 큐\r\n01 큐란\r\n\t1 생활 속의 큐\r\n\t2 큐의 개념과 원리\r\n\t3 ...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 자료구조\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 알고리즘\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287378275",
           "publishedOn": "2022-01-21T02:55:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "쉽게 배우는 자료구조 with 파이썬/문병로 지음/한빛아카데미(교재)"
         },
         {
@@ -252,7 +252,7 @@
           "description": "쉽게 배우는 자료구조 with 자바\n문병로 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645764\n정가: 29,000원 / 판매가: 29,000원 / 마일리지: 139원\n이벤트: 수험서.대학교재_머그컵/플래너/코듀로이 파우치/카드지갑\n\n\n\n\n기본 자료구조와 알고리즘을 밀도 있게 풀어낸 기본서다. 기본 원리는 이해하기 쉽게 단계별로 차근차근 설명하면서도 구현을 위해 논리의 골격을 구성해가는 과정에서는 저자의 내공까지 충실하게 담았다. 자료구조라는 도구를 사용하는 방법에 대한 기본기를 탄탄히 다질 수 있을 뿐만 아니라 효율적이고 최적화된 코드를 통해 실력도 기를 수 있다.\n\nChapter 01 자료구조 소개\r\n01 자료구조란\r\n02 자료구조와 알고리즘\r\n03 자료구조의 추상 데이터 타입\r\n\r\nChapter 02 재귀(자기호출)와 귀납적 사고\r\n01 자료구조와 재귀\r\n02 재귀 구조 예\r\n03 재귀와 수학적 귀납법\r\n연습문제\r\n\r\nChapter 03 알고리즘의 성능\r\n01 알고리즘 수행 시간이란\r\n02 알고리즘 복잡도\r\n1 O - 표기\r\n2 Ω- 표기\r\n3 Θ- 표기\r\n4 점근적 표기법의 수학적 정의\r\n5 집합 표기를 대신하는 ‘ =’\r\n6 시각적 정리\r\n연습문제\r\n\r\nChapter 04 자바 기초\r\n01 클래스\r\n02 자바 기초 문법\r\n03 인터페이스\r\n04 제네릭\r\n05 패키지\r\n06 프로그램 수행\r\n07 자바 개발 환경과 디버거\r\n\r\nChapter 05 리스트\r\n01 리스트란\r\n1 생활 속의 리스트\r\n2 리스트의 작업\r\n3 리스트의 구현\r\n02 배열 리스트\r\n1 배열 리스트의 객체 구조\r\n2 배열 리스트의 작업\r\n3 배열 리스트의 구현(원소 타입을 확정한 버전)\r\n4 배열 리스트의 구현(제네릭 버전)\r\n03 연결 리스트\r\n1 연결 리스트의 객체 구조\r\n2 연결 리스트의 작업\r\n3 연결 리스트의 구현\r\n04 배열 리스트와 연결 리스트의 비교\r\n05 연결 리스트의 확장\r\n1 원형 연결 리스트\r\n2 양방향 연결 리스트\r\n연습문제\r\n\r\nChapter 06 스택\r\n01 스택이란\r\n1 생활 속의 스택\r\n2 스택의 개념과 원리\r\n3 추상 데이터 타입 스택\r\n02 배열을 이용한 스택\r\n1 배열 스택의 객체 구조\r\n2 배열 스택의 작업\r\n3 배열 스택의 구현\r\n03 연결 리스트를 이용한 스택\r\n1 연결 리스트 스택의 객체 구조\r\n2 연결 리스트 스택의 작업\r\n04 다른 클래스를 재사용한 스택\r\n1 클래스 ‘연결 리스트’ 상속\r\n2 ADT 리스트 사용\r\n05 스택 응용\r\n1 문자열 뒤집기\r\n2 Postfix 계산\r\n연습문제\r\n\r\nChapter 07 큐\r\n01 큐란\r\n1 생활 속의 큐\r\n2 큐의 개념과 원리\r\n3 추상 데이터 타입 큐\r\n02 배열을 이용한 큐\r\n1 배열 큐의 객체 구조\r\n2 배열 큐의 작업\r\n3 배열 큐의 구현\r\n03 연결 리스트를 이용한 큐\r\n1 연결 리스트 큐의 객체 구조\r\n2...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 자바\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 자료구조\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 알고리즘\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287377905",
           "publishedOn": "2022-01-21T02:51:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "쉽게 배우는 자료구조 with 자바/문병로 지음/한빛아카데미(교재)"
         },
         {
@@ -261,7 +261,7 @@
           "description": "생활코딩! 자바 프로그래밍 입문\n이고잉 지음, 위키북스 기획.편집 / 위키북스 / 2022년 02월 / ISBN:9791158393021\n정가: 27,000원 / 판매가: 24,300원 / 마일리지: 118원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n생활코딩에서 제공하는 수업 가운데 생활코딩 'Java1' 수업과 '제어문', '메서드', '객체지향프로그래밍', '상속' 수업을 정리했다. 이 수업은 프로그래밍을 처음 시작하는 분들의 눈높이에 맞게 만들어진 강의로서 동영상이나 텍스트만으로도 학습할 수 있게 만들어졌다. 또한 무엇을 '더' 전달할 것인지 보다는 무엇을 '덜' 전달할지에 집중하여 더 많은 지식을 전달하는 대신 지식 없이도 할 수 있는 방법을 안내한다.\n\n▣ 1장: JAVA1 편\r\n01 수업 소개 \r\n02 자바 설치하기\r\n03 자바 개발환경 설정하기 \r\n04 자바 애플리케이션 \r\n05 Hello Java World \r\n06 데이터와 연산\r\n07 작심삼일 공학 \r\n08 변수 \r\n09 프로그래밍이란 무엇인가? \r\n10 디버거 \r\n11 입력과 출력 \r\n12 직접 컴파일하고 실행하기 \r\n13 자바 문서 보는 법 \r\n14 나의 앱 만들기\r\n15 수업을 마치며 \r\n\r\n▣ 02장: 제어문 편\r\n01 수업 소개 \r\n02 불리언 데이터 타입 \r\n03 비교 연산자 \r\n04 조건문 \r\n05 == vs equals \r\n06 논리 연산자 \r\n07 반복문\r\n08 종합 응용 \r\n\r\n▣ 03장: 메서드 편\r\n01 수업 소개\r\n02 이미 익숙한 메서드 \r\n03 메서드의 기본 형식 \r\n04 메서드의 입력\r\n05 메서드의 출력\r\n06 메서드의 활용\r\n07 수업을 마치며 \r\n08 부록 - 접근 제어자 \r\n09 부록 - static\r\n\r\n▣ 04장: 객체지향 프로그래밍 편\r\n01 수업 소개 \r\n02 남의 클래스 & 남의 인스턴스 \r\n03 변수와 메서드 \r\n04 클래스 \r\n05 인스턴스 \r\n06 static \r\n07 생성자와 this \r\n08 클래스의 활용 \r\n09 수업을 마치며\r\n\r\n▣ 05장: 상속 편\r\n01 수업 소개 \r\n02 기능의 개선과 발전 \r\n03 오버라이딩과 오버로딩\r\n04 this와 super \r\n05 상속과 생성자 \r\n06 수업을 마치며\n\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 자바",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287367125",
           "publishedOn": "2022-01-20T23:54:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "생활코딩! 자바 프로그래밍 입문/이고잉 지음, 위키북스 기획.편집/위키북스"
         },
         {
@@ -270,7 +270,7 @@
           "description": "파이썬으로 익히는 말랑말랑 알고리즘\n김경록 지음 / 비제이퍼블릭 / 2022년 01월 / ISBN:9791165921064\n정가: 30,000원 / 판매가: 27,000원 / 마일리지: 126원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n처음 코딩 테스트를 준비하는 초보자도 어려움없이 배우는 알고리즘 도서. 첫 코드로 속도, 적은 메모리 공간, 깔끔한 변수, 이 모든 것을 고려할 수 없다. 처음엔 투박하게 작성된 코드를 계속해서 다듬고 발전시켜서 멋진 코드로 완성해 간다. 이 과정을 단계별로 하나하나 전부 담았다.\n\n목차\r\n1장. 알고리즘이란? \r\n1.1. 알고리즘을 공부하는 이유 \r\n1.2. 알고리즘이 어려운 이유\r\n1.3. 코딩 테스트 준비의 시작\r\n1.4. 코딩 테스트를 보는 이유\r\n1.5. 좋은 알고리즘이란?\r\n1.6. 알고리즘을 잘하는 개발자가 좋은 개발자인가요?\r\n1.7. 이 책의 목표 \r\n2장. 아는 것 같지만 떠올리기 어려운 기술들 \r\n2.1. 글자 개수만큼 배열 만들기\r\n2.1.1. len()으로 개수 세기\r\n2.1.2. 반복문을 이용해 개수만큼 반복하기\r\n2.1.3. 인덱스로 배열에 접근하기\r\n2.1.4. 인덱스로 배열에 값 넣기\r\n2.1.5. 빈 리스트에 인덱스로 접근하기\r\n2.1.6. 빈 리스트에 값 할당하기\r\n2.1.7. append()로 값 초기화하기\r\n2.1.8. None이 100개 들어 있는 리스트 만들기\r\n2.2. 리스트 안의 숫자 개수 세기\r\n2.3. 자리 바꾸기 swap\r\n2.4. 배열의 인덱스 값 바꾸기\r\n2.5. 중복 제거하기\r\n2.5.1. 셋(Set)이란?\r\n2.5.2. List를 Set으로 바꾸기\r\n2.6. 빈(empty) 리스트([])에서 값을 뽑게 될 때\r\n3장. 입문용 알고리즘 \r\n3.1. 짝수, 홀수 구하는 함수 만들기\r\n3.1.1. ‘%’ 연산자로 나머지 구하기\r\n3.1.2. 구한 나머지를 이용해 짝수, 홀수 판단하기\r\n3.2. 배수인지 알아보기\r\n3.2.1. 배수(multiple)란? \r\n3.2.2. ‘%’ 연산자로 나머지 구하기\r\n3.2.3. 배수인지 아닌지 True, False로 나오게 하기 \r\n3.3. 자릿수들의 합 구하기\r\n3.3.1. ‘/’ 연산자로 몫 구하기\r\n3.3.2. ‘//’ 연산자로 몫 구하기\r\n3.3.3. 10으로 나누어 보기 \r\n3.3.4. 한 번 더 몫과 나머지 구하기\r\n3.3.5. 1의 자리만 있는 숫자를 10으로 나누기 \r\n3.3.6. 반복문 넣기\r\n3.3.7. quotient(몫) 변수 빼기\r\n3.3.8. remainder(나머지) 변수 빼기\r\n3.4. 최댓값(max), 최솟값(min) 구하기\r\n3.4.1. 핵심 로직\r\n3.4.2. 반복문으로 숫자 하나씩 확인하기\r\n3.4.3. result 변수 선언하기\r\n3.4.4. 최댓값 교체하는 로직 넣기’\r\n3.4.5. 음수가 주어졌을 때 문제점\r\n3.4.6. 변수 result의 초기값 설정\r\n3.4.7. 불필요한 연산 제거\r\n3.4.8. 최댓값이 들어있는 인덱스(Index) 출력하기\r\n3.4.9. Index를 리턴하도록 로직 변경하기\r\n3.4.10. Index에 있는 값들 비교\r\n3.4.11. 개선할 부분...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287265300",
           "publishedOn": "2022-01-19T06:14:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "파이썬으로 익히는 말랑말랑 알고리즘/김경록 지음/비제이퍼블릭"
         },
         {
@@ -279,7 +279,7 @@
           "description": "파이썬으로 만드는 나만의 게임\n이수안 지음 / 비제이퍼블릭 / 2022년 01월 / ISBN:9791165921200\n정가: 25,000원 / 판매가: 22,500원 / 마일리지: 102원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n파이썬의 기초 지식과 응용 지식을 함께 함양한다. 기본 문법과 연산자, 제어문, 함수를 익히며 프로젝트를 실습하고, 이 과정에서 파이썬 문법에 대한 기본기를 완전히 습득할 수 있다. 프로그래밍을 처음 접하는 사람이라도 쉽게 시작하며, 실제 실습을 통하여 코딩에 대한 기본기를 성장시킬 수 있다.\r\n\r\n이 책은 Pygame 라이브러리를 이용하여 간단하게 도형을 만드는 것부터 시작하여 하나의 게임을 만드는 프로세스를 친절하게 설명하고 있다. 이해를 위한 예시와 팁은 게임을 처음 만들어 보는 사람들에게 게임에 대한 직관을 가져다준다. 더 나아가 무료 리소스 활용과 실행 파일을 만드는 방법, 게임을 조금 더 업그레이드시킬 수 있는 아이디어도 제시해준다.\n\nChapter 1. 파이썬과 IDE 소개 및 설치\r\n파이썬 소개 및 특징\r\n파이썬 설치 및 환경설정\r\nIDLE\r\nVisual Studio Code 설치\r\n파이참(PyCharm) 설치\r\n\r\nChapter 2. 파이썬 배우기\r\n2.1 변수와 자료형\r\n2.1.1 변수(Variable)\r\n2.1.2 주석(Comment)\r\n2.1.3 정수, 실수, 불리언 자료형\r\n2.1.4 문자열(String)\r\n2.1.5 리스트(List)\r\n2.1.6 딕셔너리(Dictionary)\r\n2.1.7 자료형 변환\r\n2.1.8 자료형 계산\r\n2.2 연산자(Operators)\r\n2.2.1 산술 연산자(Arithmetic Operators)\r\n2.2.2 비교 연산자(Comparison Operators)\r\n2.2.3 할당 연산자(Assignment Operators)\r\n2.2.4 논리 연산자(Logical Operators)\r\n2.2.5 멤버 연산자(Membership Operators)\r\n2.2.6 식별 연산자(Identity Operators)\r\n2.2.7 연산자 우선순위(Operators Precedence)\r\n2.3 제어문\r\n2.3.1 조건문\r\n2.3.2 반복문\r\n2.4 함수(Function)\r\n2.4.1 반환 없는 함수\r\n2.4.2 반환 있는 함수\r\n2.4.3 전역 변수와 지역 변수\r\n2.5 객체(Object)와 클래스(Class)\r\n2.6 모듈(Module)\r\n2.6.1 시간 모듈(Time Module)\r\n2.6.2 랜덤 모듈(Random Module)\r\n\r\nChapter 3. pygame 배우기\r\n3.1 pygame 소개 및 특징\r\n3.2 pygame 라이브러리 설치\r\n3.2.1 터미널에서 pygame 설치\r\n3.2.2 Visual Studio Code에서 pygame 설치\r\n3.2.3 파이참에서 pygame 설치\r\n3.3 pygame 모듈\r\n3.4 pygame 기본\r\n3.5 선, 도형, 글자 그리기\r\n3.6 공놀이 하기\r\n3.7 이미지 사용\r\n3.8 키보드 조작\r\n3.9 마우스 조작\r\n3.10 음악 및 사운드 사용\r\n\r\nChapter 4. 스네이크 게임(Snake Game)\r\n4.1 스네이크 게임 규칙\r\n4.2 스네이크 게임 만들기\r\n4.2.1 패키지 import\r\n4.2.2 게임 화면 구성\r\n4.2.3 방향 개념 이해\r\n4.2.4 색상 정의\r\n4.2.5 뱀 객체 정의\r\n4.2.6 먹이 객체 정의\r\n4.2.7 게임 객체 정의\r\n4.2.8 메인 함수 정의\r\n4.3 스네이크 게임 실행\r\n4.4 스네이크 게임 실행 파일 만들기\r\n4.5 다양한 스네이크 게임\r\n\r\nChapter 5. 핑퐁 게임(Ping Pong Game)\r\n5.1 핑퐁 게임 규칙\r\n5.2 핑퐁 게임 리소스...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287153636",
           "publishedOn": "2022-01-18T01:28:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "파이썬으로 만드는 나만의 게임/이수안 지음/비제이퍼블릭"
         },
         {
@@ -288,7 +288,7 @@
           "description": "마케터의 파이썬\n정희석 지음 / e비즈북스 / 2022년 01월 / ISBN:9791157832361\n정가: 22,000원 / 판매가: 19,800원 / 마일리지: 87원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n현업에서 접하는 각종 사례를 들어 데이터를 가공하고 보고서를 만드는 과정을 보여준다. 빅데이터 분석을 위한 판다스 라이브러리 활용법, 엑셀 파일을 다루는 법, 네이버 오픈 API를 활용하는 법 등 업무 자동화로 효율성을 높이는 코딩을 중점적으로 설명함으로써 현장의 마케터들에게 도움을 준다. 파이썬으로 데이터를 분석할 수 있는 마케터, 보고서를 자동화할 수 있는 마케터는 강력하다. 이 책이 당신의 길잡이가 되어줄 것이다.\n\n프롤로그 \r\n이 책에 대하여 \r\n목차\r\nChapter 01 마케터의 파이썬 \r\n1.1 파이썬, 어디까지 배워야 할까?\r\n1.1.1 파이썬에 입문한 마케터가 느끼는 허들\r\n1.1.2 데이터 분석가와 개발자, 마케터의 파이썬\r\n1.1.3 마케터의 실무와 파이썬\r\n1.2 마케터의 파이썬 입문\r\n1.2.1 파이썬을 배우는 마케터의 자세\r\n1.2.2 엑셀의 한계와 파이썬의 필요성\r\n1.2.3 엑셀과 파이썬\r\n\r\nChapter 02 개발 환경 세팅 \r\n2.1 아나콘다를 사용한 파이썬 설치하기\r\n2.2 주피터 노트북으로 개발 시작하기\r\n2.2.1 아나콘다 내비게이터 실행하기\r\n2.2.2 주피터 노트북의 구성\r\n2.2.3 주피터 노트북 워밍업\r\n\r\nChapter 03 파이썬의 기본 \r\n3.1 숫자와 문자.\r\n3.2 자료형이란?\r\n3.3 파이썬 기본 함수\r\n3.3.1 파이썬의 기본 함수\r\n3.3.2 출력 함수 print와 입력 함수 input\r\n3.3.3 변수\r\n실습 예제\r\n3.4 메서드 (함수)\r\n3.4.1 리스트와 딕셔너리 자료구조\r\n실습 예제\r\n\r\nChapter 04 판다스 \r\n4.1 마케터의 업무를 도와줄 판다스 라이브러리\r\n4.1.1 판다스를 사용하기 위한 기본 코딩\r\n4.1.2 판다스로 파이썬에 엑셀 데이터 가져오기\r\n4.1.3 read_excel, read_csv 함수의 공통 매개변수\r\n4.2 데이터프레임 만들기\r\n4.2.1 인덱스 지정하기\r\n4.2.2 칼럼 순서 지정하기\r\n4.2.3 인덱스 다루기\r\n\r\n4.3 데이터프레임 인덱싱하기\r\n4.3.1 iloc 인덱서 \r\n4.3.2 loc 인덱서\r\n4.3.3 iloc, loc 인덱서를 이용해 값을 변환하기 \r\n4.3.4 칼럼명으로 데이터프레임 열 선택하기\r\n4.3.5 불리언으로 데이터 선택하기\r\n4.4 데이터프레임 함수 사용하기\r\n4.4.1 데이터프레임 제공 함수\r\n4.4.2 데이터프레임 기본 함수\r\n4.4.3 concat과 merge로 데이터 합치기\r\n4.5 데이터프레임 내보내기\r\n4.5.1 xlsx, xls 파일\r\n4.5.2 csv 파일\r\n4.6 시리즈 자료 구조\r\n4.6.1 데이터 처리에 효과적인 시리즈\r\n4.6.2 시리즈 만들기\r\n4.6.3 시리즈 함수\r\n4.6.4 시리즈의 문자열 함수\r\n4.6.5 시리즈 문자열을 인덱싱하고 슬라이싱하기\r\n\r\nChapter 05 조건문 if와 반복문 for 171\r\n5.1 if문\r\n5.1.1 의사 결정과 if문\r\n실습 예제\r\n5.2 for...\n\n국내도서 > 컴퓨터/모바일 > e비즈니스/창업 > e-비즈니스/온라인 창업\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287126493",
           "publishedOn": "2022-01-17T07:54:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "마케터의 파이썬/정희석 지음/e비즈북스"
         },
         {
@@ -297,7 +297,7 @@
           "description": "달구나 파이썬!\n노순국.이금분.정유정 지음 / 연두에디션 / 2021년 12월 / ISBN:9791188831999\n정가: 20,000원 / 판매가: 20,000원 / 마일리지: 97원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n최근 가장 많이 활용되고 있는 언어인 Python 언어를 이용하여, 프로그램에 대한 이해와 기초를 습득하고 코딩(Coding) 실력을 향상시켜 주어진 문제에 대한 해결 능력을 갖추도록 하는데 일조하고자 한다. 이를 위해, 다양한 분야의 예제와 연습문제를 알아보도록 구성하였다. 쉽게 풀이한 이론과 실습을 통해, 코딩 실력을 향상하고 프로그래머로써의 자질을 함양할 수 있을 것이다.\n\n1장 파이썬(Python) 설치 및 프로그래밍\r\n\r\n2장 자료형(Data-type)\r\n\r\n3장 변수\r\n\r\n4장 연산자\r\n\r\n5장 컬렉션 자료형\r\n\r\n6장 조건문\r\n\r\n7장 반복문\r\n\r\n8장 함수\r\n\r\n9장 파일\r\n\r\n10장 터틀 그래픽\n\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287106441",
           "publishedOn": "2022-01-17T05:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "달구나 파이썬!/노순국.이금분.정유정 지음/연두에디션"
         },
         {
@@ -306,7 +306,7 @@
           "description": "만들면서 배우는 파이썬 하나, 둘, 셋\n나인섭 지음 / 연두에디션 / 2021년 12월 / ISBN:9791192187020\n정가: 20,000원 / 판매가: 20,000원 / 마일리지: 103원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n“파이썬”이라는 컴퓨터 프로그램 언어를 사용하여 프로그래밍 할 것이다. 파이썬은 일반 컴퓨터 프로그램 뿐만 아니라 인공지능 컴퓨터 프로그램 작성에도 최적화되어있다고 평가받고 있는 언어다. 일반적으로, 파이썬 프로그램을 배운다는 것은 파이썬 프로그램의 명령들에 적용되는 규칙들의 사용법을 공부하는 과정과 응용 프로그래밍 과정으로 나눌 수 있다. 이 책에서는, 첫 프로그램 언어로 파이썬을 배우는 사람도 쉽게 익힐 수 있도록 안내할 것이다. 단계별로 하나씩, 만들면서 배울 수 있도록 준비했다.\n\nPREFACE\r\n\r\nCHAPTER 0 준비단계\r\n\r\nCHAPTER 1 입 · 출력문\r\n\r\nCHAPTER 2 변수 · 상수 · 자료형\r\n\r\nCHAPTER 3 연산자\r\n\r\nCHAPTER 4 제어문\r\n\r\nCHAPTER 5 함수\r\n\r\nCHAPTER 6 자료형의 확장\r\n\r\nCHAPTER 7 파일 입 · 출력, 예외 처리\r\n\r\nCHAPTER 8 파이썬 스타일 코딩\r\n\r\nCHAPTER 9 클래스와 객체\r\n\r\nCHAPTER 10 모듈과 패키지\r\n\r\nCHAPTER 11 외부 패키지\r\n\r\nCHAPTER 12 응용 프로젝트 수행\r\n\r\nAPPENDIX\n\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287105984",
           "publishedOn": "2022-01-17T04:54:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "만들면서 배우는 파이썬 하나, 둘, 셋/나인섭 지음/연두에디션"
         },
         {
@@ -315,7 +315,7 @@
           "description": "Hello 실전 파이썬 프로그래밍 world\n조상철 지음 / 혜지원 / 2022년 01월 / ISBN:9791167640079\n정가: 22,000원 / 판매가: 19,800원 / 마일리지: 91원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n파이썬의 설치, 함수, 기본적인 문법에서부터 차근차근 안내한다. 기본기를 배우는 데에서 그치는 것이 아니라, 앞서 배운 것들을 활용해 실제 프로그램을 완성해 볼 수 있도록 했다. Chapter 4까지는 파이썬 언어의 기본기를 다루고 있고, Chapter 5부터는 예제를 통해 개발과 프로그래밍 방법을 설명하고 있다. 파이썬 기초를 배웠다고 해도 실전에서 어떻게 코딩을 해야 하는지 감이 안 오는 분들, 실전 코드를 실습해 보며 기초를 익혀 보고 싶은 분들 등 파이썬 입문자에게 도움이 될 책이다.\n\nChapter 1 파이썬 설치하기\r\n- 파이썬 프로그램 설치하기\r\n- 파이썬 실행하기 – IDEL 셸(Shell)창\r\n- 파이썬 실행하기 – 에디터 창\r\n\r\nChapter 2 파이썬 기본 정복하기\r\n- 변수\r\n- 기본 자료형 : 숫자형, 문자형\r\n- 자료 구조 : 리스트, 튜플, 딕셔너리\r\n  1. List\r\n  2. 튜플\r\n  3. dictionary(딕셔너리)\r\n- 출력문과 입력문\r\n  1. 출력문\r\n  2. 입력문\r\n- 들여쓰기, 주석, 세미콜론\r\n\r\nChapter 3 제어문\r\n- 조건문 if\r\n- 반복문 for\r\n- 반복문 while\r\n\r\nChapter 4 함수\r\n- 사용자 정의 함수\r\n- 내장함수\r\n- 람다함수\r\n- 코루틴함수\r\n\r\nChapter 5 클래스\r\n- 클래스\r\n- 상속\r\n- 클래스 self\r\n- 클래스 네임스페이스\r\n\r\nChapter 6 모듈(Module)\r\n- 모듈 만들기\r\n- 클래스와 함수가 들어간 모듈 만들기\r\n- turtle 모듈 활용하기\r\n\r\nChapter 7 Tkinter\r\n- Tkinter 기본 익히기\r\n- 그림판 만들기\r\n- 컬러 사진을 흑백 사진으로 만들기\r\n- 전자 앨범 만들기\r\n\r\nChapter 8 Pygame으로 게임 만들기1 – 슈팅 게임 만들기\r\n- 게임 창 띄우기\r\n- 우주선 움직이기\r\n- 미사일 발사 처리하기\r\n- 적군 우주선 만들기\r\n- 플레이어 우주선과 적군 우주선 충돌 처리하기\r\n- 미사일과 적군 충돌 처리하기\r\n- 점수 표시하기\r\n- Sound 처리하기\r\n- 애니메이션\r\n- 폭발 애니메이션 처리하기\r\n- 플레이어 우주선 에너지 감소 처리하기\r\n- 전체 코드\r\n\r\nChapter 9 Pygame으로 게임 만들기2 – 핑퐁 게임 만들기\r\n- 패들(paddle)과 공 이미지 준비하기\r\n- 패들 클래스로 구현하기\r\n- Ball을 클래스로 구현하기\r\n- 관련 변수 선언하기\r\n- 게임 초기 화면\r\n- 패들과 볼 객체 만들기\r\n- 패들 움직이기\r\n- 서브 구현하기\r\n- 공이 움직이고 있는 중에 실행되는 코드\r\n- 전체 코드\r\n\r\nChapter 10 네트워크 프로그래밍\r\n- 네트워크 이해하기\r\n- TCP 채팅 프로그램을 위한 함수\r\n- 실전 프로그램 – thread를 사용한 TCP 채팅 프로그램\r\n- 합격자 TCP 서버 프로그램 만들기\r\n- 실전 프로그램 – GUI를 사용한 TCP 채팅 ...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287092044",
           "publishedOn": "2022-01-17T01:50:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "Hello 실전 파이썬 프로그래밍 world/조상철 지음/혜지원"
         },
         {
@@ -324,7 +324,7 @@
           "description": "컴퓨팅사고와 파이썬 프로그래밍\n김영탁 지음 / 홍릉(홍릉과학출판사) / 2022년 01월 / ISBN:9791156009443\n정가: 34,000원 / 판매가: 34,000원 / 마일리지: 179원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n1장 컴퓨터 활용, 컴퓨팅사고와 프로그래밍\r\n\r\n2장 프로그램 설계, 알고리즘과 자료구조, 파이썬 프로그램 기본구성\r\n\r\n3장 파이썬 프로그램 식별자, 기본 자료형과 연산, 파이썬 프로그램 디버깅\r\n\r\n4장 파이썬 프로그램 실행 제어 ? 조건문, 반복문\r\n\r\n5장 파이썬 고급 자료형과 관련 연산\r\n\r\n6장 함수 (Function)\r\n\r\n7장 파이썬의 모듈과 패키지\r\n\r\n8장 객체 지향형 프로그래밍, 클래스와 객체\r\n\r\n9장 파일 입출력\r\n\r\n10장 파이썬 Turtle 그래픽\r\n\r\n11장 tkinter Graphic User Interface (GUI)\r\n\r\n12장 파이썬 확장 패키지 (1) - NumPy, 유니버설 함수\r\n\r\n13장 파이썬 확장 패키지 (2) ? Matplotlib, Pandas\r\n\r\n14장 동시처리/병렬처리 구조의 파이썬 프로그램 - Coroutine, Thread, Multiprocess, Synchronization\r\n\r\n15장 파이썬 기반 자료구조와 알고리즘\r\n\r\n16장 파이썬 응용 프로그래밍\n\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=287088603",
           "publishedOn": "2022-01-17T00:43:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "컴퓨팅사고와 파이썬 프로그래밍/김영탁 지음/홍릉(홍릉과학출판사)"
         },
         {
@@ -333,7 +333,7 @@
           "description": "스벨트로 시작하는 웹 프런트엔드\n김근영 지음 / 비제이퍼블릭 / 2022년 01월 / ISBN:9791165921132\n정가: 29,000원 / 판매가: 26,100원 / 마일리지: 124원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n웹 애플리케이션 개발을 위한 ‘Svelte 실전 가이드’이다. 스벨트의 장점과 기능, 기존 프런트엔드 프레임워크와의 차이점 그리고 스벨트가 실전 프로젝트에 어떻게 사용되는지 소개한다. 또한, 실제 백엔드 서버가 있는 환경에서 ‘Todo 서비스’와 ‘SNS 서비스’를 효과적으로 구현한다. 이 과정에서 단순히 하나의 프레임워크를 익히는 것을 넘어 컴포넌트, 상태값, 비동기통신 등 프런트엔드 개발자라면 알아야 하는 기본기를 익힐 수 있다.\n\nChapter 01 Svelte 소개\r\n1-1 웹 프런트엔드의 과거와 현재\r\n1-2 Svelte의 등장\r\n1-3 Svelte 장점\r\n____1-3-1 Write less code: 보다 적은 코드\r\n____1-3-2 No virtual DOM: 가상돔 없이\r\n____1-3-3 Truly reactive: 진정한 반응성\r\n\r\nChapter 02 학습 환경\r\n2-1 REPL을 통한 예제 실행방법 소개\r\n2-2 로컬 개발환경 구축\r\n____2-2-1 Node.js 환경 설정\r\n____2-2-2 비주얼 스튜디오 코드 설치\r\n____2-2-3 Svelte 설치 및 실행\r\n2-3 Svelte 설치 폴더 설명\r\n____2-3-1 기본 구성요소 및 폴더 구조 설명\r\n____2-3-2 Svelte 기본 구성요소\r\n2-4 소스코드 실행방법\r\n\r\nChapter 03 컴포넌트(1) - 기본 사용방법\r\n3-1 컴포넌트 기본\r\n3-2 State(상태값)\r\n3-3 Reactivity(반응성)\r\n____3-3-1 마크업 영역에서의 반응성\r\n____3-3-2 스크립트 영역에서의 반응성 - $:\r\n____3-3-3 다른 프레임워크와 코드 비교\r\n3-4 Event\r\n____3-4-1 이벤트 기본 사용방법\r\n____3-4-2 인라인(inline) 이벤트 사용방법\r\n____3-4-3 이벤트 수식어(modifiers)\r\n3-5 Props를 이용한 컴포넌트 통신방법\r\n____3-5-1 Props 기본 사용방법\r\n____3-5-2 Props 데이터 변경\r\n\r\nChapter 04 컴포넌트(2) - Template 제어\r\n4-1 논리블록 {#if...}\r\n____4-1-1 if 블록\r\n____4-1-2 else 블록\r\n____4-1-3 else-if 블록\r\n4-2 반복블록 {#each...}\r\n____4-2-1 Each 블록\r\n4-3 Binding\r\n____4-3-1 바인딩이란?\r\n____4-3-2 레인지 바인딩\r\n____4-3-3 셀렉트박스 바인딩\r\n____4-3-4 체크박스 바인딩\r\n____4-3-5 group input을 이용한 라디오 버튼 · 체크박스 바인딩\r\n____4-3-6 contenteditable 바인딩\r\n____4-3-7 컴포넌트 바인딩\r\n4-4 슬롯(Slot)\r\n____4-4-1 슬롯이란?\r\n____4-4-2 슬롯 name 설정\r\n____4-4-3 조건에 따른 표현\r\n____4-4-4 슬롯에서의 Props 통신\r\n4-5 라이프사이클\r\n\r\nChapter 05 컴포넌트 통신 고급\r\n5-1 context API\r\n____5-1-1 context API 기본 사용방법\r\n____5-1-2 context API 활용 예제\r\n5-2 dispatch\r\n5-3 store\r\n____5-3-1 writable store\r\n____5-3-2 derived store\r\n____5-3-3 readable store...\n\n국내도서 > 컴퓨터/모바일 > 웹디자인/홈페이지 > HTML/JavaScript\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=286865838",
           "publishedOn": "2022-01-13T07:07:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "스벨트로 시작하는 웹 프런트엔드/김근영 지음/비제이퍼블릭"
         },
         {
@@ -342,7 +342,7 @@
           "description": "케라스로 완성하는 인공 신경망 기본기\n이준 지음 / 에이콘출판 / 2022년 01월 / ISBN:9791161756066\n정가: 25,000원 / 판매가: 22,500원 / 마일리지: 101원\n이벤트: 수험서.대학교재_머그컵/플래너/코듀로이 파우치/카드지갑\n\n\n\n\n파이썬, 텐서플로 그리고 케라스를 활용해 인공 신경망을 손쉽게 구성하는 과정을 보여준다. 서로 다른 7가지의 실전 프로젝트에서 상황에 적합한 인공 신경망(FNN, CNN, RNN, LSTM 등)을 구성해보고, 최적의 인공 신경망을 얻어내기 위한 노하우를 하나씩 살펴본다. 다양한 주제를 다루고 있지만 난이도는 높지 않으며, 간단한 구현 속에서 성능이 향상돼 가는 인공 신경망을 볼 수 있다. 인공 신경망을 처음으로 직접 구현하거나 자신의 문제에 어떻게 적용할지 막막해 하는 독자들에게 추천한다.\n\n1부. 이론: 인공지능과 인공 신경망\r\n\r\n\r\n1장. 인공지능의 분류\r\n1.1 지도학습 \r\n1.2 비지도학습 \r\n1.3 강화학습\r\n\r\n\r\n2장. 지도학습 구현 기법\r\n2.1 선형 회귀 \r\n2.2 단계적 회귀 \r\n2.3 K-최근접 이웃 \r\n2.4 결정 트리\r\n2.5 서포트 벡터 머신\r\n\r\n\r\n3장. 인공 신경망의 구조와 연산\r\n3.1 피드포워드 신경망 \r\n3.2 합성곱 신경망 \r\n3.3 순환 신경망\r\n\r\n\r\n4장. 인공 신경망의 생성 과정과 응용\r\n4.1 데이터 취득 \r\n4.2 인공 신경망의 생성, 학습, 검증\r\n4.3 인공 신경망의 배포\r\n\r\n\r\n2부. 실습: 케라스를 활용한 인공 신경망 구현\r\n\r\n5장. 케라스 소개와 실습 준비\r\n5.1 텐서플로와 케라스\r\n5.2 인공지능 관련 파이썬 패키지 \r\n5.3 파이썬, 파이참, 케라스 설치 \r\n5.4 첫 인공 신경망 구현-집값 추정 회귀 문제\r\n\r\n\r\n6장. 회귀 문제\r\n6.1 피드포워드 신경망을 이용한 회귀-영구자석 전동기의 최고 효율 운전 조건\r\n6.1.1 문제 배경과 인공 신경망의 필요성 \r\n6.1.2 데이터 불러오기와 전처리 \r\n6.1.3 신경망 구성, 훈련, 검증\r\n6.1.4 배포-다른 환경에서 활용하기와 훈련된 모델의 모수 추출하기 \r\n6.2 모수 정규화와 과적합 방지-노이즈를 갖는 데이터 추정 \r\n6.3 연속된 신호의 추정과 출력 변수 가공-비선형 시스템 묘사 \r\n6.3.1 시스템 상태 추정의 의의 \r\n6.3.2 신경망을 이용한 비선형 시스템 묘사 모델 구현\r\n\r\n\r\n7장. 분류 문제\r\n7.1 합성곱 신경망의 활용-패션 이미지 분류 \r\n7.1.1 패션 이미지 데이터셋 소개 \r\n7.1.2 이미지 분류를 위한 인공 신경망 구현 \r\n7.2 순환 신경망의 활용-뉴스 분류 \r\n7.2.1 언어 처리를 위한 연산 기법 \r\n7.2.2 뉴스 분류를 위한 인공 신경망 구현 \r\n7.3 이상 진단 문제의 데이터 취득-전동기 인버터 고장 분류 \r\n7.3.1 문제 배경과 인공 신경망의 필요성 \r\n7.3.2 고장 분류 기법과 고장 데이터 취득 \r\n7.3.3 신경망 구성, 훈련, 검증 \r\n7.3.4 이상 데이터셋 취득과 진단에 관한 조언\r\n\r\n\r\n부록 A\r\nA1. 파이썬 패키지 사용 예제\r\nA2. GPU의 메모리 사용량 제한하기\r\nA3. 텐서플로 불러오기 오류 고치기\n\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론\n국내도서 > 대학교재/전문서적 > 공학계열 > 전기전자공학 > 전기전자 개론\n국내도서 > 과학 > 공학 > 전기/전자공학",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=286848294",
           "publishedOn": "2022-01-13T04:27:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "케라스로 완성하는 인공 신경망 기본기/이준 지음/에이콘출판"
         },
         {
@@ -351,7 +351,7 @@
           "description": "혼자 공부하는 R 데이터 분석\n강전희.엄동란 지음 / 한빛미디어 / 2022년 01월 / ISBN:9791162245019\n정가: 22,000원 / 판매가: 19,800원 / 마일리지: 96원\n이벤트: 수험서.대학교재_머그컵/플래너/코듀로이 파우치/카드지갑\n\n\n\n\n독학으로 R 데이터 분석을 배우는 입문자가 ‘꼭 필요한 내용을 제대로’ 학습할 수 있도록 구성했다. ‘무엇을’, ‘어떻게’ 학습해야 할지조차 모르는 입문자의 막연한 마음을 살펴, 과외 선생님이 알려주듯 친절하게, 그러나 핵심적인 내용만 콕콕 집어준다. 책의 첫 페이지를 펼쳐서 마지막 페이지를 덮을 때까지, 혼자서도 충분히 데이터 분석을 배울 수 있다는 자신감과 확신이 계속될 것이다.\n\nChapter 01 빅데이터와 R\r\n: R 언어를 소개하고 데이터 분석에서 왜 R 언어를 사용하는지 알아봅니다.\r\n01-1 빅데이터와 R 언어\r\n__빅데이터 시대\r\n__R 언어를 소개합니다\r\n__R의 장단점\r\n[3가지 키워드로 정리하는 핵심 포인트]\r\n[확인문제]\r\n\r\n01-2 개발 환경 설치\r\n__R 설치 파일 다운로드하기\r\n__R 설치하기\r\n__R 실행하기\r\n__R 스튜디오 설치 파일 다운로드하기\r\n__R 스튜디오 설치하기\r\n[좀 더 알아보기] R 스튜디오 클라우드 \r\n[4가지 키워드로 정리하는 핵심 포인트]\r\n[확인문제] \r\n\r\n01-3 R 스튜디오 인터페이스와 환경 설정 \r\n__R 스튜디오 인터페이스 \r\n__환경 설정하기 \r\n__필수 작업 환경 설정하기 \r\n__스크립트 생성 및 저장하기 \r\n__코드 실행하기 \r\n[좀 더 알아보기] 도움말 사용하기\r\n[5가지 키워드로 정리하는 핵심 포인트]\r\n[확인문제]\r\n\r\nChapter 02 데이터 분석을 위한 기본 다지기\r\n: 데이터 분석 과정을 알아보고 데이터란 무엇인지 살펴봅니다.\r\n02-1 데이터 분석 과정 \r\n__1단계: 데이터 분석 설계하기 \r\n__2단계: 데이터 준비하기 \r\n__3단계: 데이터 가공하기 \r\n__4단계: 데이터 분석하기 \r\n__5단계: 결론 도출하기 \r\n[5가지 키워드로 정리하는 핵심 포인트] \r\n[확인문제]\r\n\r\n02-2 데이터의 생김새 \r\n__데이터 구조 간 관계 및 데이터 유형 \r\n__벡터 \r\n__범주형 자료 \r\n__행렬과 배열 \r\n__리스트와 데이터 프레임 \r\n[6가지 키워드로 정리하는 핵심 포인트] \r\n[확인문제] \r\n\r\nChapter 03 R 프로그래밍 익히기\r\n:  R 프로그래밍 기본 문법을 알아봅니다.\r\n03-1 변수와 함수 \r\n__변수 만들기 \r\n__함수 호출하기 \r\n__내장 함수 사용하기 \r\n__사용자 정의 함수 만들기 \r\n__return( ) 함수를 사용하는 이유 \r\n[5가지 키워드로 정리하는 핵심 포인트] \r\n[확인문제] \r\n\r\n03-2 패키지 \r\n__패키지 설치하기 \r\n__설치한 패키지 확인하기 \r\n__패키지 로드하기 \r\n__패키지 삭제하기 \r\n__주요 패키지 활용하기 \r\n[좀 더 알아보기] 필요한 패키지 찾아보기 \r\n[4가지 키워드로 정리하는 핵심 포인트]\r\n[표로 정리하는 핵심 함수] \r\n[확인문...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어\n국내도서 > 수험서/자격증 > 민간자격 > 데이터분석",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=286836733",
           "publishedOn": "2022-01-13T02:10:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "혼자 공부하는 R 데이터 분석/강전희.엄동란 지음/한빛미디어"
         },
         {
@@ -360,7 +360,7 @@
           "description": "AWS 공인 솔루션스 아키텍트 스터디 가이드 - 어소시에이트 3/e\n벤 파이퍼.데이비드 클린턴 지음, 동준상 옮김 / 에이콘출판 / 2022년 01월 / ISBN:9791161756103\n정가: 35,000원 / 판매가: 31,500원 / 마일리지: 150원\n이벤트: 수험서.대학교재_머그컵/플래너/코듀로이 파우치/카드지갑\n\n\n\n\nAWS 공인 솔루션스 아키텍트 - 어소시에이트 시험은 솔루션 아키텍트로서 업무를 수행하려는 사람을 위한 인증 자격 시험이다. 수험자는 이를 통해 AWS 기반의 견고한 애플리케이션을 설계하고 배포할 수 있는 지식과 역량을 검증받을 수 있다. \r\n\r\n3판은 AWS의 최신 시험 출제 가이드인 SAA-C02를 반영해 효과적이며 효율적인 시험 준비를 돕는다. 시험과 관련된 모든 영역을 체계적으로 분석해 만든 사전 평가, 핵심 서비스의 개요 정리 및 활용, 학습 후 평가 등을 통해 좀 더 입체적으로 AWS의 시험 문제에 대비할 수 있도록 구성했다.  AWS의 다양한 서비스에 대한 체계적인 지식과 경험, 시험 합격을 원하는 예비 수험생에게 완벽한 시험 가이드가 될 것이다.\n\n1부. 핵심적인 AWS 서비스\r\n\r\n1장. 클라우드 컴퓨팅 및 AWS의 개요\r\n__클라우드 컴퓨팅과 가상화\r\n__AWS 클라우드\r\n__AWS 플랫폼 아키텍처\r\n__AWS의 신뢰성 및 서비스 규약\r\n__AWS 환경에서 작업하기\r\n__정리\r\n__시험 대비 전략\r\n__평가 문제\r\n\r\n\r\n2장. Amazon EC2와 Amazon EBS\r\n__AWS 컴퓨트 서비스 개요\r\n__EC2 인스턴스의 개요\r\n__EC2 스토리지 볼륨\r\n__EC2 인스턴스 접속하기\r\n__EC2 인스턴스의 보안 유지\r\n__EC2 Auto Scaling\r\n__AWS Systems Manager\r\n__AWS CLI 예제\r\n__정리\r\n__시험 대비 전략\r\n__평가 문제\r\n\r\n\r\n3장. AWS 스토리지\r\n__AWS 스토리지 개요\r\n__S3 서비스 아키텍처\r\n__S3의 내구성 및 가용성\r\n__S3 객체 생애주기\r\n__S3 객체에 접근하기\r\n__Amazon S3 Glacier\r\n__기타 스토리지 관련 서비스\r\n__AWS CLI 예제\r\n__정리\r\n__시험 대비 전략\r\n__평가 문제\r\n\r\n\r\n4장. Amazon VPC\r\n__Amazon VPC 개요\r\n__VPC CIDR 블록\r\n__보조 CIDR 블록\r\n__서브넷\r\n__일래스틱 네트워크 인터페이스\r\n__인터넷 게이트웨이\r\n__라우트 테이블\r\n__보안 그룹\r\n__네트워크 접속 제어 목록\r\n__퍼블릭 IP 주소\r\n__탄력적 IP\r\n__AWS 글로벌 엑셀러레\r\n__NAT 디바이스\r\n__VPC 피어링\r\n__하이브리드 클라우드 네트워킹\r\n__고성능 컴퓨팅\r\n__정리\r\n__시험 대비 전략\r\n__평가 문제\r\n\r\n\r\n5장. 데이터베이스 서비스\r\n__AWS 데이터베이스 서비스의 개요\r\n__관계형 데이터베이스\r\n__Amazon RDS\r\n__Amazon Redshift\r\n__비관계형 데이터베이스(NoSQL)\r\n__DynamoDB\r\n__정리\r\n__시험 대비 전략\r\n__평가 문제\r\n\r\n\r\n6장. AWS IAM을 이용한 신분 확인 및 권한 부여\r\n__AWS IAM의 개요\r\n__IAM 기반의 신분 관리\r\n__접근권한 관리 도구\r\n__AWS CLI 예제\r\n__정리\r\n__시험 대비 전략\r\n__평가 문제\r\n\r\n\r\n7장. AWS 모니터링 서비스: CloudTrail, CloudWatch, AWS Config\r\n__AWS 모니터링 서비스 개요\r\n__CloudTrail\r\n__CloudWatch\r\n__AWS Config\r\n__정리\r\n__시험 대비 전략\r\n__평가 문...\n\n국내도서 > 컴퓨터/모바일 > 활용능력 > 신규 자격증/자격증 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍\n국내도서 > 수험서/자격증 > 컴퓨터 활용능력 > 신규 자격증/자격증 기타",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=286769894",
           "publishedOn": "2022-01-12T03:21:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "AWS 공인 솔루션스 아키텍트 스터디 가이드 - 어소시에이트 3/e/벤 파이퍼.데이비드 클린턴 지음, 동준상 옮김/에이콘출판"
         },
         {
@@ -369,7 +369,7 @@
           "description": "웹 크롤링 & 데이터 분석 with 파이썬\n장철원 지음 / 인사이트 / 2022년 01월 / ISBN:9788966263394\n정가: 20,000원 / 판매가: 18,000원 / 마일리지: 80원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n인터넷 정보를 나의 필요나 업무의 요구에 맞게 불러오고 가공하고 자동화하는 모든 것들이 다 웹 크롤링이라는 IT 기술을 기반으로 한다. 이 책은 웹 크롤링 기술에 대한 안내서이자 입문서다. 그동안 파이썬이라는 언어와 크롤링의 난해한 코드로 고개를 떨구던 독자에게, 크롤링 기술은 누구나 쉽게 배울 수 있다는 것을 알려주는 책이다.\r\n\r\n웹 크롤링은 세 가지 기본 개념과 방법만 손에 익히면 입문자도 충분히 구현할 수 있는 기술이다. BeautifulSoup 라이브러리를 이용한 파싱, 동적 웹 페이지를 다루는 Selenium 라이브러리, 그리고 오픈 데이터를 활용하는 API 기술이 그것이다. 다만 이 기술을 제대로 아는 게 중요하다. 이 책은 입문자도 쉽게 따라올 수 있도록 기초부터 차근차근 크롤링 기술의 개념과 방법을 단계적으로 학습하도록 돕는다.\n\n지은이의 글\r\n\r\n1편 웹 크롤링의 핵심 도구, 파이썬 쉽게 배우기\r\n\r\n1장 웹 크롤링에 필요한 환경을 만들자! \r\n파이썬 소개 \r\n아나콘다 설치하고 가상 환경 설정까지  \r\n\r\n2장 뚝딱뚝딱 쉽게 끝내는 파이썬 핵심 문법 \r\n파이썬의 기본 자료형 \r\n조건문 알아보기\r\n반복문 알아보기\r\n예외 처리   \r\n함수  \r\n모듈\r\n패키지/라이브러리\r\n클래스와 객체  \r\n\r\n2편 세 가지만 알면 웹 크롤링이 내 손 안에\r\n\r\n3장 웹 크롤링이란 무엇인가? \r\n웹 크롤링의 기초 개념   \r\n웹 페이지의 뼈대, HTML 기초  \r\nCSS 맛보기  \r\n자바스크립트 맛보기  \r\n\r\n4장 꼭 알아야 할 웹 크롤링 방법 1 ? BeautifulSoup\r\nBeautifulSoup 라이브러리 소개\r\n첫 번째 웹 크롤링 실습\r\n두 번째 웹 크롤링 실습  \r\n웹 크롤링 허용 문제\r\n\r\n5장 꼭 알아야 할 웹 크롤링 방법 2 - 동적 웹 페이지  \r\n해외 축구 웹 사이트 둘러보기  \r\n동적 웹 페이지 다루기  \r\nSelenium 실습하기  \r\n\r\n6장 꼭 알아야 할 웹 크롤링 방법 3 ? API\r\n오픈 API로 부동산 데이터 크롤링하기  \r\nAPI 사용하기\r\n\r\n3편 웹 크롤링과 데이터 분석, 활용\r\n\r\n7장 부동산 웹 크롤링과 데이터 분석 도구 \r\npandas로 한눈에 알아보는 데이터 만들기\r\nmatplotlib으로 데이터 시각화하기   \r\npandas와 matplotlib을 활용한 심화 실습  \r\n파이썬으로 CSV 파일 다루기\r\n파이썬으로 엑셀 파일 다루기\r\n\r\n8장 주식 데이터 웹 크롤링과 데이터베이스 다루기 \r\n주식 데이터 웹 크롤링은 어떻게 할까?  \r\n주식 데이터 크롤링\r\nMySQL 기초  \r\n파이썬으로 MySQL에 데이터 추가하기  \r\n윈도우 스케줄러를 이용한 자동화  \r\n파이썬으로 MySQL 데이터 불러오기  \r\n주식 데이터 시각화\n\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=286684632",
           "publishedOn": "2022-01-11T02:45:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "웹 크롤링 & 데이터 분석 with 파이썬/장철원 지음/인사이트"
         },
         {
@@ -378,7 +378,7 @@
           "description": "모던 C\n옌스 구스테트 지음, 남기혁 옮김 / 길벗 / 2022년 01월 / ISBN:9791165218409\n정가: 30,000원 / 판매가: 27,000원 / 마일리지: 118원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\nC만이 가진 고유한 개념과 작성 기법을 배워 '더 완전한' C 프로그램을 작성할 수 있다! C 언어는 50년 이상된 프로그래밍 언어이며, 처음 등장한 이후 컴퓨터, 전화기, 카메라, 냉장고, 자동차 등 프로그래밍 인터페이스를 가진 거의 모든 기기에서 사용되고 있다. 이처럼 C로 만든 프로그램이나 시스템은 어디서나 볼 수 있지만 제대로 된 C 관련 자료는 굉장히 드물다. ISO C 표준 공동 편집자인 저자는 최신 C 표준을 기반으로 C만이 가진 고유한 개념과 작성 기법을 소개하고, C 언어에서 특별히 가치 있게 눈여겨볼 부분을 주로 설명한다.\n\n레벨 0 만남\r\n\r\n1장 들어가며\r\n1.1 명령형 프로그래밍 \r\n1.2 컴파일하고 실행하기 \r\n1.3 요약 \r\n\r\n2장 로그램의 핵심 구조 \r\n2.1 문법 \r\n2.2 선언 \r\n2.3 정의 \r\n2.4 문장 \r\n__2.4.1 반복\r\n__2.4.2 함수 호출 \r\n__2.4.3 함수 리턴 \r\n2.5 요약 \r\n\r\n레벨 1 친숙 \r\n\r\n3장 결국은 제어 \r\n3.1 조건부 실행 \r\n3.2 반복문 \r\n3.3 다중 선택 \r\n3.4 요약 \r\n\r\n4장 계산 표현하기 \r\n4.1 산술 \r\n__4.1.1 +, -, *\r\n__4.1.2 나눗셈과 나머지 \r\n4.2 오브젝트를 수정하는 연산자 \r\n4.3 불 연산 \r\n__4.3.1 비교 연산 \r\n__4.3.2 논리 연산 \r\n4.4 삼항 연산자와 조건 연산자 \r\n4.5 평가 순서\r\n4.6 요약 \r\n\r\n05 값과 데이터 \r\n5.1 추상 상태 기계 \r\n__5.1.1 값 \r\n__5.1.2 타입 \r\n__5.1.3 바이너리 표현과 추상 상태 기계 \r\n__5.1.4 최적화 \r\n5.2 기본 타입 \r\n5.3 값 지정하기 \r\n__5.3.1 복소수 상수 \r\n5.4 암묵적 변환 \r\n5.5 초기자 \r\n5.6 이름 있는 상수 \r\n__5.6.1 읽기 전용 오브젝트 \r\n__5.6.2 열거형 \r\n__5.6.3 매크로 \r\n__5.6.4 복합 리터럴 \r\n5.7 바이너리 표현 \r\n__5.7.1 부호 없는 정수 \r\n__5.7.2 비트 집합과 비트 단위 연산자 \r\n__5.7.3 시프트 연산자 \r\n__5.7.4 불 값\r\n__5.7.5 부호 있는 정수 \r\n__5.7.6 고정폭 정수 타입 \r\n__5.7.7 부동 소수점 데이터 \r\n5.8 요약 \r\n\r\n6장 파생 데이터 타입 \r\n6.1 배열 \r\n__6.1.1 배열 선언 \r\n__6.1.2 배열 연산 \r\n__6.1.3 배열 길이 \r\n__6.1.4 매개변수로 사용하는 배열\r\n__6.1.5 스트링은 특별하다 \r\n6.2 불투명 타입으로 사용하는 포인터 \r\n6.3 구조체 \r\n6.4 타입 이름 새로 짓기: 타입 앨리어스 \r\n6.5 요약 \r\n\r\n7장 함수 \r\n7.1 간단한 함수 \r\n7.2 main은 특별하다 \r\n7.3 재귀호출 \r\n7.4 요약 \r\n\r\n8장 C 라이브러리 함수 \r\n8.1 C 라이브러리의 기본 속성과 제공 함수 \r\n__8.1.1 헤더 \r\n__8.1.2 인터페이스 \r\n__8.1.3 오류 검사 \r\n__8.1.4 경계값 검사 인터페이스 \r\n__8.1.5 프로그램 사전조건 \r\n8.2 수학 함수 \r\n8.3 입력, ...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > C",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=286643496",
           "publishedOn": "2022-01-10T07:04:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "모던 C/옌스 구스테트 지음, 남기혁 옮김/길벗"
         },
         {
@@ -387,7 +387,7 @@
           "description": "한권으로 파이썬과 드론 날로 먹기 : 인공지능편 (교재+드론 세트)\n이현종.박재일 지음 / 잇플ITPLE / 2021년 12월 / ISBN:9791191198188\n정가: 107,800원 / 판매가: 97,020원 / 마일리지: 443원\n이벤트: 컴퓨터/모바일_코듀로이 파우치 / 카드지갑\n\n\n\n\n드론에 대한 이론 및 직접 조종기를 통해 제어하는 법을 시작으로 파이썬에 대한 정의부터 기본문법 사용법을 통해 원하는 기초 프로그램을 만드는 단계를 지나서 학습한 파이썬 문법으로 드론제어에 응용하여 다른 책에서는 다루기 힘든 SW와 HW를 골고루 활용할 수 있도록 하였다. 이 책에서는 크게 3가지 주제로 구분되어있고 특성상 1장부터 시작해서 차례대로 9장까지 볼 수도 있지만, 필요한 부분에 맞춰서 드론 (1~3장), 파이썬 (4~6장), 드론프로그래밍 (7~8장) 9장 OpenCV를 활용한 응용 인공지능중에 순서와 상관없이 활용할 수 있다.\n\nChapter 1 처음 만나는 드론\r\n\t1) 드론의 정의\r\n\t2) 드론의 가치\r\n\t3) 드론의 원리\r\n\t4) 드론의 구조\r\n\r\nChapter 2 드론조종의 첫걸음\r\n\t1) 드론과 컨트롤러\r\n\t2) 페어링\r\n\t3) 캘리브레이션.호버링,트림\r\n\r\nChapter 3 다양한 기능들\r\n\t1)시뮬레이터 살펴보기\r\n\t2)로킷블릭 살펴보기\r\n\r\nChapter 4 처음 만나는 파이썬\r\n\t1) 파이썬이란?\r\n\t2) 파이썬 설치\r\n\t3) 파이썬  IDLE 실행\r\n\r\nChapter 5 파이썬 시작하기\r\n\t1) 클래스,객체,인스턴스\r\n\t2) 이름공간 Name space\r\n\t3) 상수와 변수\r\n\t4) 데이터형 변환과 입.출력\r\n\t5) 함수, 리스트, 튜플, 딕셔너리\r\n\t6) 모듈\r\n\t7) 조건문\r\n\t8) 반복문\r\n\r\nChapter 6 TKINTER와 TURTLE\r\n\t1) Tkinter를 이용한 계산기 만들기\r\n\t2) 터틀을 이용한 그림 그리기\r\n\r\nChapter 7 파이썬과 드론의 만남\r\n\t1) 패키지 설치\r\n\t2) 버튼 정보 입력받기\r\n\t3) 하드웨어 입력과 화면 출력\r\n\t4) 제어 함수 알아보기\r\n\t5) 드론 정보 확인하기\r\n\r\nChapter 8 파이썬으로 드론 제어하기\r\n\t1) 드론  LED 제어하기\r\n\t2) 드론 제어하기\r\n\t3) 패턴 비행\r\n\r\nChapter 9 영상인식과 드론\r\n\t1) OpenCV 영상인식\r\n\t2) 카메라를 이용한 얼굴인식\r\n\t3) 키보드로 드론 조종하기\r\n\t4) 손짓으로 드론 제어하기\r\n\r\nChapter 10 부록\r\n\t1) 파이썬 드론 미션\r\n\t2) 드론 대회 미션\r\n\t3) 반드시 알아야 할 항공 안전 법\r\n\t4) 조종을 위한 퀵 메뉴얼\r\n\t5) 파이썬에서 자주 일어나는 오류 메시지 정리\n\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=286619966",
           "publishedOn": "2022-01-10T03:10:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "한권으로 파이썬과 드론 날로 먹기 : 인공지능편 (교재+드론 세트)/이현종.박재일 지음/잇플ITPLE"
         },
         {
@@ -396,7 +396,7 @@
           "description": "R로 하는 빅데이터 분석 : 데이터 전처리와 시각화\n김권현 지음 / 숨은원리 / 2022년 01월 / ISBN:9791196014445\n정가: 28,000원 / 판매가: 25,200원 / 마일리지: 111원\n이벤트: 수험서.대학교재_머그컵/플래너/코듀로이 파우치/카드지갑\n\n\n\n\n어느 정도 프로그래밍 경험이 있는 독자를 대상으로, 오픈 소스 데이터 분석 도구인 R을 활용하여 데이터를 불러들이고, 가공하고, 시각화하는 방법을 설명한다. 이 책은 시중의 책들과 달리 특정한 기능을 하는 함수들을 설명하기 전에 데이터 전처리의 목적과 기능에 대한 개념적인 이해를 우선 할 수 있도록 도와준다. 그리고 날짜시간 자료형, 문자열 자료형, 정규표현식 등에 대한 원리와 응용 방법을 자세하게 설명하여 복잡한 전처리 과정에서도 논리적 오류를 범하지 않도록 한다. \r\n\r\n분산처리 없이 빅데이터 처리를 할 수 있는 마지막 보류인 데이터테이블을 dplyr 패키지의 함수와 비교하여 이해를 도왔고,ggplot2의 설명에서는 플롯의 수많은 옵션을 정하는 방법을 한 눈에 보기 싶게 보여준다. 그 밖에도 부록으로 RStudio의 치트시트를 수록하였다. 어느 정도 R에 익숙한 독자들에게도 R의 데이터 전처리와 시각화에 대해 좀 더 깊이 알 수 있게 하였다.\n\n서문 \r\n3판 서문 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ix\r\n1판 서문 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . xi…",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=286608049",
           "publishedOn": "2022-01-10T00:04:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "R로 하는 빅데이터 분석 : 데이터 전처리와 시각화/김권현 지음/숨은원리"
         },
         {
@@ -530,6 +530,15 @@
           "title": "The other great migration"
         },
         {
+          "id": "https://voxeu.org/article/consumption-inequality-digital-age",
+          "author": "Kai Arvai, Katja Mann",
+          "description": "When considering the effect of digitalisation on inequality, researchers usually focus on income inequality. This column compares the consumption baskets of US households to study the effect of digitalisation on consumption inequality. High-income households have a higher share of ICT-intensive products in their consumption, and thus benefit more from price declines in these goods due to digitalisation. The price channel accounts for 22.5% of the increase in consumption inequality between 1960 and 2017.",
+          "link": "https://voxeu.org/article/consumption-inequality-digital-age",
+          "publishedOn": "2022-01-21T00:00:00.000Z",
+          "wordCount": 2001,
+          "title": "Consumption inequality in the digital age"
+        },
+        {
           "id": "https://voxeu.org/article/triple-impact-school-closures-educational-inequality",
           "author": "Francesco  Agostinelli, Matthias Doepke, Giuseppe  Sorrenti, Fabrizio Zilibotti",
           "description": "How have school closures during the Covid-19 pandemic affected children's education? This column argues that channels operating through schools, peer effects, and parental investments have all contributed to massively growing educational inequality during the pandemic. Among 9th graders, children from low-income neighbourhoods in the US are predicted to suffer a learning loss equivalent to almost half a point on the four-point GPA scale, whereas children from high-income neighbourhoods remain unscathed.",
@@ -548,22 +557,13 @@
           "title": "Gender differences in the labour market returns to child behaviour"
         },
         {
-          "id": "https://voxeu.org/article/consumption-inequality-digital-age",
-          "author": "Kai Arvai, Katja Mann",
-          "description": "When considering the effect of digitalisation on inequality, researchers usually focus on income inequality. This column compares the consumption baskets of US households to study the effect of digitalisation on consumption inequality. High-income households have a higher share of ICT-intensive products in their consumption, and thus benefit more from price declines in these goods due to digitalisation. The price channel accounts for 22.5% of the increase in consumption inequality between 1960 and 2017.",
-          "link": "https://voxeu.org/article/consumption-inequality-digital-age",
-          "publishedOn": "2022-01-21T00:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Consumption inequality in the digital age"
-        },
-        {
-          "id": "https://voxeu.org/article/less-or-more-zero",
-          "author": "Juan Dolado, Etienne Lalé, Hélène Turon",
-          "description": "Zero-hours contracts are the subject of heated debate in the UK. While some point to the benefits of flexible contracts under fluctuating demand, others have raised concerns about potential exploitation. This column uses a structural model to examine their equilibrium and welfare effects. The findings suggest that zero-hours contracts should be restricted to job matches where workers opt for such a contract when offered a choice; access to zero-hours contracts should be prioritised for workers employed in small rather than large firms; and the way flexibility over hours is shared between workers and firms should be regulated.",
-          "link": "https://voxeu.org/article/less-or-more-zero",
+          "id": "https://voxeu.org/article/fair-and-inclusive-markets-why-fostering-dynamism-matters",
+          "author": "Philippe Aghion, Reda Cherif, Fuad Hasanov",
+          "description": "Rising inequality and firms’ market power pose challenges to the aims of inclusive growth and shared prosperity. Nevertheless, growth and equity need not be mutually exclusive. This column argues that economic dynamism is crucial for achieving sustained growth and more equal market outcomes. It shows that countries that experienced faster growth over the last four decades have lower market inequality in the 2010s. Policy should be aimed at supporting sophisticated export industries, fostering innovation and creative destruction, and promoting competition.",
+          "link": "https://voxeu.org/article/fair-and-inclusive-markets-why-fostering-dynamism-matters",
           "publishedOn": "2022-01-20T00:00:00.000Z",
-          "wordCount": 2684,
-          "title": "Less (or more) than zero"
+          "wordCount": 2477,
+          "title": "Fair and inclusive markets: Why fostering dynamism matters"
         }
       ]
     },
@@ -640,65 +640,101 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/internationalList.do",
       "articles": [
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162022",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162015",
           "author": null,
-          "description": "We use Finnish household-level registry and survey data to study the effects of ECB’s monetary policy on the distribution of income and wealth. We find that monetary easing has a large positive effect on aggregate economic activity in Finland, but its overall net impact on income and wealth inequality is negligible. Monetary easing increases households’ gross income by reducing unemployment and leading to a general rise in wages, while at the same time it boosts asset prices. These different channels have counteracting effects on income and wealth inequality, as measured by the Gini coefficient and the ratios of income and wealth of the 90th percentile to the 50th percentile. The reduction in aggregate unemployment benefits especially households in lower income quintiles, where the initial rate of unemployment is high. Households in the upper income quintiles, where the rate of employment is higher, benefit relatively more from an increase in wages. An increase in house prices benefits all homeowners. In terms of net wealth, households with large mortgages, in the lower wealth quintiles, benefit the most from an increase in house prices due to a leverage effect. An increase in stock prices, in turn, benefits mainly households in the top wealth quintile.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162022",
-          "publishedOn": "2022-01-24T09:08:16.685Z",
-          "wordCount": null,
-          "title": "Monetary policy and inequality: The Finnish case"
+          "description": "In many cities, restaurants and retail establishments are spatially concentrated. Economists have long recognized the presence of demand externalities that arise from spatial agglomeration as a possible explanation, but empirically identifying this type of spillovers has proven difficult. We test for the presence of agglomeration spillovers in Milan‘s restaurant sector using the abolition of a unique regulation that until recently restricted where new restaurants could locate. Before 2005, Milan mandated a minimum distance between restaurants that kept the spatial distribution of restaurants artificially uniform. As a consequence, restaurants were evenly distributed across neighborhoods. The regulation was abolished in 2005 by a nationwide reform that allowed new restaurants to locate anywhere in the city. Using administrative data on the universe of restaurants and retail establishments in Milan between 2000 and 2012, we study how the spatial distribution of restaurants changed after the reform. Consistent with the existence of significant agglomeration externalities, we find that after 2005, the geographical concentration of restaurants increased sharply. By 2012, 7 years after the liberalization of restaurant entry, the city‘s restaurants had agglomerated in some neighborhoods and deserted others. By contrast, not much happened to the spatial concentration of retail establishments or even retail establishments that sell food, which were never covered by the minimum distance regulations and therefore were not directly affected by its reform. We also find that in neighborhoods where the number of restaurants grew the most after the reform, restaurants reacted to the increased competition by becoming more differentiated based on price, quality and type of cuisine.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162015",
+          "publishedOn": "2022-01-24T12:08:18.267Z",
+          "wordCount": 637,
+          "title": "The Agglomeration of Urban Amenities:  Evidence from Milan Restaurants"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161975",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162014",
           "author": null,
-          "description": "This paper evaluates the impact of an employment subsidy scheme covering employers’ social contribution costs on registered employment in small firms in Turkey. It utilizes a rich, firm-level administrative data set with monthly frequency, which allows for closely following the dynamics of registered employment in firms before and after the implementation of the subsidy. The empirical approach utilizes the geographically targeted implementation of the subsidy to estimate its effects using a difference-in-difference specification. The paper finds that the subsidy scheme had a sizable and positive impact on registered employment in small firms. The results are robust across specifications and to the choice of the control group. Positive effects on formal employment are also fairly constant and sustained over time. Corroborative evidence suggests that the positive effects on registered employment are mainly driven by the formalization of existing workers as opposed to new job creation. Therefore, the results indicate that social security contribution subsidies in small firms can be effective in reducing informality in contexts where informal employment remains common.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161975",
-          "publishedOn": "2022-01-24T09:08:08.270Z",
+          "description": "Headline consumer inflation increased to 5.4 per cent in December from 5.1 in November 2021. Our measure of underlying inflation as measured by the trimmed mean, which excludes 5 per cent of the highest and lowest price changes, increased to 4 per cent in December from 3.4 per cent recorded in November (figure 1). The food and non-alcoholic beverages contributed 0.2 percentage points to the headline figure, with a smaller increase in restaurants and hotels almost completely offset by price reductions in the transport category. Looking at prices of individual items, 19.6 per cent of goods and services prices changed in November, implying an average duration of prices of 5.1 months. 3.6 per cent of prices were reduced due to sales, 3.7 per cent fell for other reasons and 12.3 per cent recorded increases. Our measure of underlying inflation increased in all 12 UK regions. Underlying inflation was highest in London at 5 per cent and lowest in Northern Ireland at 3 per cent in December 2021. Higher inflation in the medium term will likely wipe out pay increases negotiated in the last three months. Higher commodity prices and an additional VAT hike scheduled for April 2022 means consumer prices are likely to remain above the Bank of England’s target until 2024. We expect that the Bank of England will continue to raise interest rates in 2022 but the change in the policy rate will only have an effect some 12 to 18 months later. Our analysis indicates that annual consumer inflation will remain close to 5 per cent in the first half of the year.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162014",
+          "publishedOn": "2022-01-24T12:08:16.550Z",
           "wordCount": 637,
-          "title": "The Effects of Subsidizing Social Security Contributions : Job creation or Informality Reduction"
+          "title": "Underlying Inflation at Record Level High"
         },
         {
           "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161980",
           "author": null,
           "description": "The rate of turnover among senior-level executive branch staff can have a serious impact on the day-to-day performance of the White House―and shape the very nature of a presidency. As Brookings did for Donald Trump, the Institution is now monitoring staffing changes among the upper echelons of President Biden’s administration.\r\nBelow, we offer two sets of resources to help measure and contextualize this turnover. The first set of resources, immediately below, tracks turnover among senior-ranking advisers in the executive office of the president (which does not include Cabinet secretaries); the second set of resources tracks turnover in the Cabinet.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161980",
-          "publishedOn": "2022-01-24T09:08:08.064Z",
+          "publishedOn": "2022-01-24T12:08:16.529Z",
           "wordCount": 637,
           "title": "Tracking turnover in the Biden administration"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161985",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161962",
           "author": null,
-          "description": "With this and every iteration of Foresight Africa, we aim to capture the top priorities for the region in the coming year, offering recommendations for African and global stakeholders for creating and supporting a strong, sustainable, and successful Africa. In doing so, we hope that Foresight Africa 2022 will promote a dialogue on the key issues influencing development policy and practice in Africa during the upcoming year. Such ideas will ultimately provide sound strategies for sustaining and expanding the benefits of economic growth to all people of Africa in the years ahead.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161985",
-          "publishedOn": "2022-01-24T09:08:07.922Z",
-          "wordCount": 5,
-          "title": "Foresight Africa 2022"
+          "description": "We pursue a cross-country comparison of relative financial readiness of older households in Japan and the Republic of Korea relative to the US. Our comparative analysis, using macro-level and harmonized longitudinal household financial data, covers the principal financial channels of old age support: public and private pension plans, family support, and self-management of private financial portfolios. We find that while all three countries have similar public pension systems, older Americans benefit from more developed and better-funded public and private pension systems, as well as individual management of risky financial portfolios. We find that educational and health attainments of household heads and household wealth lead to a greater tendency to hold and manage risky assets. Our decomposition analysis also shows that the gap in stock ownership in Asian countries relative to the US is attributable to lower development levels of financial and pension markets. However, these gaps are shrinking more recently.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161962",
+          "publishedOn": "2022-01-24T12:08:16.455Z",
+          "wordCount": 637,
+          "title": "A Cross-Country Comparison of Old Age Financial Readiness in Asian Countries vs. the United States: The Case of Japan and the Republic of Korea"
         },
         {
           "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162020",
           "author": null,
           "description": "The U.S. criminal justice system has experienced a more than threefold expansion in the past several decades, with the number of inmates in local jails, state prisons, federal prisons, and privately operated facilities rising from 220 per 100,000 residents in 1980 to 756 per 100,000 residents in 2008. The high and growing incarceration rate in the United States has also disproportionately impacted economically disadvantaged and minority communities, with significantly higher arrest, conviction, and incarceration probabilities for black and Hispanic individuals compared with white individuals. The economic consequences of mass incarceration may be substantial, particularly in these economically disadvantaged and minority communities. The rise in incarceration over time has been mirrored by an ever­？growing share of adults who have been in prison or who have a criminal conviction. By some estimates, more than 8 percent of the adult population in the United States had a prior felony conviction in 2010, compared with just 3 percent in 1980. Among the black adult male population, since 2010 an estimated 15 percent have been to prison and 33 percent have had a felony conviction. These criminal records can result in substantial barriers to employment, particularly for minority individuals. Consistent with this idea, unemployment rates are generally substantially higher for black and Hispanic individuals than they are for non­？Hispanic whites, with some of these gaps increasing in the wake of economic recessions and the COVID-19 pandemic. Recent work has shown that the increase in nonwork among men, particularly for black individuals, is partially attributed to rising incarceration rates.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162020",
-          "publishedOn": "2022-01-24T09:08:07.897Z",
+          "publishedOn": "2022-01-24T12:08:16.338Z",
           "wordCount": 637,
           "title": "The Economic Costs of Pretrial Detention"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161950",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161978",
           "author": null,
-          "description": "In many cities, restaurants and retail establishments are spatially concentrated. Economists have long recognized the presence of demand externalities that arise from spatial agglomeration as a possible explanation, but empirically identifying this type of spillovers has proven difficult. We test for the presence of agglomeration spillovers in Milan‘s restaurant sector using the abolition of a unique regulation that until recently restricted where new restaurants could locate. Before 2005, Milan mandated a minimum distance between restaurants that kept the spatial distribution of restaurants artificially uniform. As a consequence, restaurants were evenly distributed across neighborhoods. The regulation was abolished in 2005 by a nationwide reform that allowed new restaurants to locate anywhere in the city. Using administrative data on the universe of restaurants and retail establishments in Milan between 2000 and 2012, we study how the spatial distribution of restaurants changed after the reform. Consistent with the existence of significant agglomeration externalities, we find that after 2005, the geographical concentration of restaurants increased sharply. By 2012, 7 years after the liberalization of restaurant entry, the city‘s restaurants had agglomerated in some neighborhoods and deserted others. By contrast, not much happened to the spatial concentration of retail establishments or even retail establishments that sell food, which were never covered by the minimum distance regulations and therefore were not directly affected by its reform. We also find that in neighborhoods where the number of restaurants grew the most after the reform, restaurants reacted to the increased competition by becoming more differentiated based on price, quality and type of cuisine.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161950",
-          "publishedOn": "2022-01-24T09:08:07.888Z",
+          "description": "Significant Items for Discussion\r\nA. Reports by EASA and UK CAA on status of implementation of the annex on airworthiness and environmental certification (Annex 30 to the TCA, \r\nB. Mechanisms to “…promptly notify the other Party of any investigation when mutual interests are involved” under Article 452 of the TCA",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161978",
+          "publishedOn": "2022-01-24T12:08:15.985Z",
           "wordCount": 637,
-          "title": "The Agglomeration of Urban Amenities: Evidence from Milan Restaurants"
+          "title": "First meeting of the Specialised Committee on Aviation Safety"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162016",
+          "author": null,
+          "description": "Traditional methods for estimating demand are not always well-suited to online markets, where individual products are sold infrequently, unobserved factors such as webpage layout drive substitution, and often only a limited set of product characteristics is observed. We propose a demand model where browsing data-which is abundant in many online settings- is used to infer individual consumers‘ consideration sets. In our model, the underlying variables which drive consideration can be correlated arbitrarily across products. We estimate the model through a constraint maximization approach, based on the insight that these correlations should rationalize the product-pair co-search frequencies that are observed in the data. In turn, these correlations make it possible to estimate more flexible substitution patterns. We apply the model to data from an online retailer, recover the elasticity matrix, and solve for optimal prices.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162016",
+          "publishedOn": "2022-01-24T12:08:15.957Z",
+          "wordCount": 637,
+          "title": "Flexible Demand Estimation with Search Data"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161968",
+          "author": null,
+          "description": "As the pandemic spread across the U.S., disagreement among U.S. households about inflation expectations surged along with the mean perceived and expected level of inflation. Simultaneously, the inflation experienced by households became more dispersed. Using matched micro data on spending of households and their macroeconomic expectations, we study the link between the inflation experienced by households in their daily shopping and their perceived and expected levels of inflation both before and during the pandemic. In normal times, realized inflation barely differs across observable dimensions but low income, low education, and Black households experienced a larger increase in realized inflation than other households did. Dispersion in realized and perceived inflation explains a large share of the rise in dispersion in inflation expectations.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161968",
+          "publishedOn": "2022-01-24T12:08:15.940Z",
+          "wordCount": 637,
+          "title": "The Expected, Perceived, and Realized Inflation of U.S. Households before and during the COVID19 Pandemic"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161985",
+          "author": null,
+          "description": "With this and every iteration of Foresight Africa, we aim to capture the top priorities for the region in the coming year, offering recommendations for African and global stakeholders for creating and supporting a strong, sustainable, and successful Africa. In doing so, we hope that Foresight Africa 2022 will promote a dialogue on the key issues influencing development policy and practice in Africa during the upcoming year. Such ideas will ultimately provide sound strategies for sustaining and expanding the benefits of economic growth to all people of Africa in the years ahead.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161985",
+          "publishedOn": "2022-01-24T12:08:15.931Z",
+          "wordCount": 637,
+          "title": "Foresight Africa 2022"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162022",
+          "author": null,
+          "description": "We use Finnish household-level registry and survey data to study the effects of ECB’s monetary policy on the distribution of income and wealth. We find that monetary easing has a large positive effect on aggregate economic activity in Finland, but its overall net impact on income and wealth inequality is negligible. Monetary easing increases households’ gross income by reducing unemployment and leading to a general rise in wages, while at the same time it boosts asset prices. These different channels have counteracting effects on income and wealth inequality, as measured by the Gini coefficient and the ratios of income and wealth of the 90th percentile to the 50th percentile. The reduction in aggregate unemployment benefits especially households in lower income quintiles, where the initial rate of unemployment is high. Households in the upper income quintiles, where the rate of employment is higher, benefit relatively more from an increase in wages. An increase in house prices benefits all homeowners. In terms of net wealth, households with large mortgages, in the lower wealth quintiles, benefit the most from an increase in house prices due to a leverage effect. An increase in stock prices, in turn, benefits mainly households in the top wealth quintile.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162022",
+          "publishedOn": "2022-01-24T12:08:15.923Z",
+          "wordCount": 637,
+          "title": "Monetary policy and inequality: The Finnish case"
         },
         {
           "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162013",
           "author": null,
           "description": "This report provides recommendations on writing efficient code when working with large data in the technical settings of the Research Data and Service Centre (RDSC). We place specific emphasis on tweaks to code that are easy to implement. In benchmark tests, these tweaks lead to a decrease in computing time of roughly 50 % in both Stata and R where R generally is faster than Stata. We urge researchers to consider both computing time and programming time before making a decision on which language to use.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162013",
-          "publishedOn": "2022-01-24T09:08:07.558Z",
+          "publishedOn": "2022-01-24T12:08:15.914Z",
           "wordCount": 637,
           "title": "Working with large data at the RDSC"
         },
@@ -707,117 +743,81 @@
           "author": null,
           "description": "The economic rebound in the Western Balkan region lost some pace in the third quarter of 2021 but remained strong nonetheless, with the region’s GDP expanding by 8.6% y-o-y, compared to 14.5% in the preceding quarter. Despite weakening base effects, annual output growth continued to benefit from robust domestic and external demand. In line with the robust economic performance, year-on-year employment growth accelerated in the third quarter of 2021 and unemployment rates declined in most countries while labour force participation increased. The region’s current account deficit significantly narrowed to 3.9% of GDP in the four quarters to September, the lowest level in the last ten years, as the strong rebound of services exports and higher remittances inflows generally outweighed the increase in merchandise trade deficits. The economic recovery supported the growth of budget revenues and fiscal deficits narrowed across the Western Balkans in the first eleven months of 2021, while the public debt-to-GDP ratio came down in most countries compared to end-2020.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162018",
-          "publishedOn": "2022-01-24T09:08:07.541Z",
+          "publishedOn": "2022-01-24T12:08:15.898Z",
           "wordCount": 637,
           "title": "EU Candidate Countries’ & Potential Candidates’ Economic Quarterly (CCEQ) ― 4th Quarter 2021"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161978",
-          "author": null,
-          "description": "Significant Items for Discussion\r\nA. Reports by EASA and UK CAA on status of implementation of the annex on airworthiness and environmental certification (Annex 30 to the TCA, \r\nB. Mechanisms to “…promptly notify the other Party of any investigation when mutual interests are involved” under Article 452 of the TCA",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161978",
-          "publishedOn": "2022-01-24T09:08:07.532Z",
-          "wordCount": 637,
-          "title": "First meeting of the Specialised Committee on Aviation Safety"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162023",
-          "author": null,
-          "description": "In light of the recent tit-for-tat trade dispute between China and the US, interest in quantifying the effects of the so-called phase one agreement has risen. To this end, the paper quantifies the impact of the asymmetric managed trade agreement using a multi-country open-economy dynamic general quilibrium model. Besides assessing the direct implications for China and the US, trade diversion effects are also analyzed. The model-based analysis finds noticeable positive (negative) impacts of the agreement for the US (China) as well as negative spillover effects for countries not directly affected by the managed trade deal due to trade diversion. The impact of possible future trade agreements is also examined.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162023",
-          "publishedOn": "2022-01-24T09:08:07.511Z",
-          "wordCount": 637,
-          "title": "The US-China phase one trade deal : An economic analysis of the managed trade agreement"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162019",
-          "author": null,
-          "description": "After years of struggling to get inflation up to their publicly-announced targets, several episodes of short-term interest rates hitting the effective lower bound, and substantial evidence that the long-term equilibrium rate of interest (the one that is expected to prevail when an economy is at full employment and price stability) has been falling, the Federal Reserve in 2020 and the European Central Bank in 2021 revised their monetary policy strategy statements. This report summarizes the discussion of these new frameworks at two panels hosted by the Hutchins Center on Fiscal and Monetary Policy in November 2021. The first panel, moderated by Rachana Shanbhogue of The Economist, included Richard Clarida, then vice chair of the Federal Reserve Board and a key architect of the new framework; Philip Lane, a member of the ECB’s Executive Board and its chief economist; and Ben Bernanke, distinguished senior fellow at Brookings and former chair of the Federal Reserve. Following that, David Wessel of the Hutchins Center moderated a panel of Fed watchers: Julia Coronado of MacroPolicy Perspectives; William Dudley, former president of the Federal Reserve Bank of New York; Ay？eg？l ？ahin of the University of Texas at Austin; and Tiffany Wilding of PIMCO.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162019",
-          "publishedOn": "2022-01-24T09:08:07.493Z",
-          "wordCount": 637,
-          "title": "Taking stock of the new Fed and ECB monetary policy frameworks"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162014",
-          "author": null,
-          "description": "Headline consumer inflation increased to 5.4 per cent in December from 5.1 in November 2021. Our measure of underlying inflation as measured by the trimmed mean, which excludes 5 per cent of the highest and lowest price changes, increased to 4 per cent in December from 3.4 per cent recorded in November (figure 1). The food and non-alcoholic beverages contributed 0.2 percentage points to the headline figure, with a smaller increase in restaurants and hotels almost completely offset by price reductions in the transport category. Looking at prices of individual items, 19.6 per cent of goods and services prices changed in November, implying an average duration of prices of 5.1 months. 3.6 per cent of prices were reduced due to sales, 3.7 per cent fell for other reasons and 12.3 per cent recorded increases. Our measure of underlying inflation increased in all 12 UK regions. Underlying inflation was highest in London at 5 per cent and lowest in Northern Ireland at 3 per cent in December 2021. Higher inflation in the medium term will likely wipe out pay increases negotiated in the last three months. Higher commodity prices and an additional VAT hike scheduled for April 2022 means consumer prices are likely to remain above the Bank of England’s target until 2024. We expect that the Bank of England will continue to raise interest rates in 2022 but the change in the policy rate will only have an effect some 12 to 18 months later. Our analysis indicates that annual consumer inflation will remain close to 5 per cent in the first half of the year.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162014",
-          "publishedOn": "2022-01-24T09:08:07.440Z",
-          "wordCount": 637,
-          "title": "Underlying Inflation at Record Level High"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162017",
-          "author": null,
-          "description": "The substantial gains expected from the agreement depend on its effective implementation and development of its built-in agenda. Further intergovernmental work and strong political will are needed to unlock the potential of the RCEP, overcome implementation challenges, deepen its provisions, and expand its coverage in the future.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162017",
-          "publishedOn": "2022-01-24T09:08:07.430Z",
-          "wordCount": 637,
-          "title": "A Preliminary Assessment of the Regional Comprehensive Economic Partnership"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162016",
-          "author": null,
-          "description": "Traditional methods for estimating demand are not always well-suited to online markets, where individual products are sold infrequently, unobserved factors such as webpage layout drive substitution, and often only a limited set of product characteristics is observed. We propose a demand model where browsing data-which is abundant in many online settings- is used to infer individual consumers‘ consideration sets. In our model, the underlying variables which drive consideration can be correlated arbitrarily across products. We estimate the model through a constraint maximization approach, based on the insight that these correlations should rationalize the product-pair co-search frequencies that are observed in the data. In turn, these correlations make it possible to estimate more flexible substitution patterns. We apply the model to data from an online retailer, recover the elasticity matrix, and solve for optimal prices.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162016",
-          "publishedOn": "2022-01-24T09:08:07.400Z",
-          "wordCount": 637,
-          "title": "Flexible Demand Estimation with Search Data"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161962",
-          "author": null,
-          "description": "We pursue a cross-country comparison of relative financial readiness of older households in Japan and the Republic of Korea relative to the US. Our comparative analysis, using macro-level and harmonized longitudinal household financial data, covers the principal financial channels of old age support: public and private pension plans, family support, and self-management of private financial portfolios. We find that while all three countries have similar public pension systems, older Americans benefit from more developed and better-funded public and private pension systems, as well as individual management of risky financial portfolios. We find that educational and health attainments of household heads and household wealth lead to a greater tendency to hold and manage risky assets. Our decomposition analysis also shows that the gap in stock ownership in Asian countries relative to the US is attributable to lower development levels of financial and pension markets. However, these gaps are shrinking more recently.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161962",
-          "publishedOn": "2022-01-24T09:08:07.392Z",
-          "wordCount": 637,
-          "title": "A Cross-Country Comparison of Old Age Financial Readiness in Asian Countries vs. the United States: The Case of Japan and the Republic of Korea"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162015",
-          "author": null,
-          "description": "In many cities, restaurants and retail establishments are spatially concentrated. Economists have long recognized the presence of demand externalities that arise from spatial agglomeration as a possible explanation, but empirically identifying this type of spillovers has proven difficult. We test for the presence of agglomeration spillovers in Milan‘s restaurant sector using the abolition of a unique regulation that until recently restricted where new restaurants could locate. Before 2005, Milan mandated a minimum distance between restaurants that kept the spatial distribution of restaurants artificially uniform. As a consequence, restaurants were evenly distributed across neighborhoods. The regulation was abolished in 2005 by a nationwide reform that allowed new restaurants to locate anywhere in the city. Using administrative data on the universe of restaurants and retail establishments in Milan between 2000 and 2012, we study how the spatial distribution of restaurants changed after the reform. Consistent with the existence of significant agglomeration externalities, we find that after 2005, the geographical concentration of restaurants increased sharply. By 2012, 7 years after the liberalization of restaurant entry, the city‘s restaurants had agglomerated in some neighborhoods and deserted others. By contrast, not much happened to the spatial concentration of retail establishments or even retail establishments that sell food, which were never covered by the minimum distance regulations and therefore were not directly affected by its reform. We also find that in neighborhoods where the number of restaurants grew the most after the reform, restaurants reacted to the increased competition by becoming more differentiated based on price, quality and type of cuisine.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162015",
-          "publishedOn": "2022-01-24T09:08:07.374Z",
-          "wordCount": 637,
-          "title": "The Agglomeration of Urban Amenities:  Evidence from Milan Restaurants"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162012",
-          "author": null,
-          "description": "We present a method of automatically linking several data sets on companies based on supervised machine learning. We employ this method to perform a record linkage of several company datasets used for research and analytical purposes at the Deutsche Bundesbank. The record linkage process involves comprehensive data pre-processing, blocking / indexing, construction of comparison features, training and testing of a supervised match classification model as well as post-processing to produce a company identifier mapping table for all internal and public company identifiers found in the data. The evaluation of our linkage method shows that the process yields precise match predictions with a sufficiently high coverage / recall to make full automation of company data linkage feasible for typical use cases in research and analytics.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162012",
-          "publishedOn": "2022-01-24T09:08:07.344Z",
-          "wordCount": 637,
-          "title": "Linking Deutsche Bundesbank Company Data"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161977",
-          "author": null,
-          "description": "The use of highly fully automated vehicles, as part of smart transport systems can significantly reduce the economic, social and environmental costs of passenger and freight transport, while enhancing its overall quality and resilience. At the same time, their implementation in Asia and the Pacific is lagging behind due to various factors, including low awareness of the role of smart transport systems, limited capacity for implementation and a lack of regional cooperation, hindering the exchange of best practices and experiences.\r\nWithin this context, the Transport Division undertook a study project on “Facilitating the deployment of highly and fully automated vehicles in road traffic along the Asian Highway Network”. The project aimed to collect data and information on existing technologies supporting highly and automated road freight vehicles, assess the infrastructure requirement to support the operationalization of such vehicles, as well as provide way forward policy recommendations in its development and implementations for countries along Asian Highway Network.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161977",
-          "publishedOn": "2022-01-24T09:08:07.334Z",
-          "wordCount": 637,
-          "title": "Facilitating the deployment of highly and fully automated vehicles in road traffic along the Asian Highway Network"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161968",
-          "author": null,
-          "description": "As the pandemic spread across the U.S., disagreement among U.S. households about inflation expectations surged along with the mean perceived and expected level of inflation. Simultaneously, the inflation experienced by households became more dispersed. Using matched micro data on spending of households and their macroeconomic expectations, we study the link between the inflation experienced by households in their daily shopping and their perceived and expected levels of inflation both before and during the pandemic. In normal times, realized inflation barely differs across observable dimensions but low income, low education, and Black households experienced a larger increase in realized inflation than other households did. Dispersion in realized and perceived inflation explains a large share of the rise in dispersion in inflation expectations.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161968",
-          "publishedOn": "2022-01-24T09:08:07.287Z",
-          "wordCount": 637,
-          "title": "The Expected, Perceived, and Realized Inflation of U.S. Households before and during the COVID19 Pandemic"
         },
         {
           "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162021",
           "author": null,
           "description": "The pandemic-induced global economic crisis has contributed to the re-emergence of sovereign default risk, especially for emerging and developing economies, and has directed attention to the impact of the institutions that are tasked with attempting to predict defaults: the international credit rating agencies. This paper describes four main challenges posed by credit rating agencies, especially from a developing and emerging economies perspective: potential bias in ratings, pro-cyclicality of ratings, governance issues and conflicts of interest, and incorporation of climate risk. It concludes with potential policy solutions addressed at ratings agencies, regulators, and policy makers.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162021",
-          "publishedOn": "2022-01-24T09:08:07.236Z",
+          "publishedOn": "2022-01-24T12:08:15.889Z",
           "wordCount": 637,
           "title": "Credit rating agencies and developing economies"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161950",
+          "author": null,
+          "description": "In many cities, restaurants and retail establishments are spatially concentrated. Economists have long recognized the presence of demand externalities that arise from spatial agglomeration as a possible explanation, but empirically identifying this type of spillovers has proven difficult. We test for the presence of agglomeration spillovers in Milan‘s restaurant sector using the abolition of a unique regulation that until recently restricted where new restaurants could locate. Before 2005, Milan mandated a minimum distance between restaurants that kept the spatial distribution of restaurants artificially uniform. As a consequence, restaurants were evenly distributed across neighborhoods. The regulation was abolished in 2005 by a nationwide reform that allowed new restaurants to locate anywhere in the city. Using administrative data on the universe of restaurants and retail establishments in Milan between 2000 and 2012, we study how the spatial distribution of restaurants changed after the reform. Consistent with the existence of significant agglomeration externalities, we find that after 2005, the geographical concentration of restaurants increased sharply. By 2012, 7 years after the liberalization of restaurant entry, the city‘s restaurants had agglomerated in some neighborhoods and deserted others. By contrast, not much happened to the spatial concentration of retail establishments or even retail establishments that sell food, which were never covered by the minimum distance regulations and therefore were not directly affected by its reform. We also find that in neighborhoods where the number of restaurants grew the most after the reform, restaurants reacted to the increased competition by becoming more differentiated based on price, quality and type of cuisine.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161950",
+          "publishedOn": "2022-01-24T12:08:15.880Z",
+          "wordCount": 637,
+          "title": "The Agglomeration of Urban Amenities: Evidence from Milan Restaurants"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161975",
+          "author": null,
+          "description": "This paper evaluates the impact of an employment subsidy scheme covering employers’ social contribution costs on registered employment in small firms in Turkey. It utilizes a rich, firm-level administrative data set with monthly frequency, which allows for closely following the dynamics of registered employment in firms before and after the implementation of the subsidy. The empirical approach utilizes the geographically targeted implementation of the subsidy to estimate its effects using a difference-in-difference specification. The paper finds that the subsidy scheme had a sizable and positive impact on registered employment in small firms. The results are robust across specifications and to the choice of the control group. Positive effects on formal employment are also fairly constant and sustained over time. Corroborative evidence suggests that the positive effects on registered employment are mainly driven by the formalization of existing workers as opposed to new job creation. Therefore, the results indicate that social security contribution subsidies in small firms can be effective in reducing informality in contexts where informal employment remains common.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161975",
+          "publishedOn": "2022-01-24T12:08:15.872Z",
+          "wordCount": 637,
+          "title": "The Effects of Subsidizing Social Security Contributions : Job creation or Informality Reduction"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161977",
+          "author": null,
+          "description": "The use of highly fully automated vehicles, as part of smart transport systems can significantly reduce the economic, social and environmental costs of passenger and freight transport, while enhancing its overall quality and resilience. At the same time, their implementation in Asia and the Pacific is lagging behind due to various factors, including low awareness of the role of smart transport systems, limited capacity for implementation and a lack of regional cooperation, hindering the exchange of best practices and experiences.\r\nWithin this context, the Transport Division undertook a study project on “Facilitating the deployment of highly and fully automated vehicles in road traffic along the Asian Highway Network”. The project aimed to collect data and information on existing technologies supporting highly and automated road freight vehicles, assess the infrastructure requirement to support the operationalization of such vehicles, as well as provide way forward policy recommendations in its development and implementations for countries along Asian Highway Network.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000161977",
+          "publishedOn": "2022-01-24T12:08:15.864Z",
+          "wordCount": 637,
+          "title": "Facilitating the deployment of highly and fully automated vehicles in road traffic along the Asian Highway Network"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162023",
+          "author": null,
+          "description": "In light of the recent tit-for-tat trade dispute between China and the US, interest in quantifying the effects of the so-called phase one agreement has risen. To this end, the paper quantifies the impact of the asymmetric managed trade agreement using a multi-country open-economy dynamic general quilibrium model. Besides assessing the direct implications for China and the US, trade diversion effects are also analyzed. The model-based analysis finds noticeable positive (negative) impacts of the agreement for the US (China) as well as negative spillover effects for countries not directly affected by the managed trade deal due to trade diversion. The impact of possible future trade agreements is also examined.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162023",
+          "publishedOn": "2022-01-24T12:08:15.848Z",
+          "wordCount": 637,
+          "title": "The US-China phase one trade deal : An economic analysis of the managed trade agreement"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162012",
+          "author": null,
+          "description": "We present a method of automatically linking several data sets on companies based on supervised machine learning. We employ this method to perform a record linkage of several company datasets used for research and analytical purposes at the Deutsche Bundesbank. The record linkage process involves comprehensive data pre-processing, blocking / indexing, construction of comparison features, training and testing of a supervised match classification model as well as post-processing to produce a company identifier mapping table for all internal and public company identifiers found in the data. The evaluation of our linkage method shows that the process yields precise match predictions with a sufficiently high coverage / recall to make full automation of company data linkage feasible for typical use cases in research and analytics.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162012",
+          "publishedOn": "2022-01-24T12:08:15.840Z",
+          "wordCount": 637,
+          "title": "Linking Deutsche Bundesbank Company Data"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162017",
+          "author": null,
+          "description": "The substantial gains expected from the agreement depend on its effective implementation and development of its built-in agenda. Further intergovernmental work and strong political will are needed to unlock the potential of the RCEP, overcome implementation challenges, deepen its provisions, and expand its coverage in the future.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162017",
+          "publishedOn": "2022-01-24T12:08:15.831Z",
+          "wordCount": 637,
+          "title": "A Preliminary Assessment of the Regional Comprehensive Economic Partnership"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162019",
+          "author": null,
+          "description": "After years of struggling to get inflation up to their publicly-announced targets, several episodes of short-term interest rates hitting the effective lower bound, and substantial evidence that the long-term equilibrium rate of interest (the one that is expected to prevail when an economy is at full employment and price stability) has been falling, the Federal Reserve in 2020 and the European Central Bank in 2021 revised their monetary policy strategy statements. This report summarizes the discussion of these new frameworks at two panels hosted by the Hutchins Center on Fiscal and Monetary Policy in November 2021. The first panel, moderated by Rachana Shanbhogue of The Economist, included Richard Clarida, then vice chair of the Federal Reserve Board and a key architect of the new framework; Philip Lane, a member of the ECB’s Executive Board and its chief economist; and Ben Bernanke, distinguished senior fellow at Brookings and former chair of the Federal Reserve. Following that, David Wessel of the Hutchins Center moderated a panel of Fed watchers: Julia Coronado of MacroPolicy Perspectives; William Dudley, former president of the Federal Reserve Bank of New York; Ay？eg？l ？ahin of the University of Texas at Austin; and Tiffany Wilding of PIMCO.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162019",
+          "publishedOn": "2022-01-24T12:08:15.823Z",
+          "wordCount": 637,
+          "title": "Taking stock of the new Fed and ECB monetary policy frameworks"
         }
       ]
     },
@@ -827,184 +827,184 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/domesticList.do",
       "articles": [
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161996",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161997",
           "author": null,
-          "description": "정보통신정책연구원은 「위성인터넷 : 스타링크 사례로부터 얻는 시사점」을 발표하였다.\r\n\r\n- 본 리포트에서는 스타링크 사례로부터 위성인터넷의 발전이 줄 수 있는 시사점을 발굴하고자 함.\r\n\r\n- 스타링크는 ’18년 4월 FCC에 위성 궤도와 위성 4,500여개 운용 권한을 요청하여 승인을 받았고, ‘18년 11월 지상망과 경쟁을 위한 초저궤도인 300km 고도 7,518개 위성운용을 승인 받았다. 이에 그치지않고 ‘20년 5월 위성 3만여 개로 구성되는 2세대 시스템을 FCC에 신청하였음. 스타링크는 위성과 통신하는 수백 개의 게이트웨이 지구국을 운용할 계획임. 사용자 단말의 경우 위치 고정형 단말 100만개 승인을 받았고 항공기, 선박, 차량과 같은 이동체에 설치할 단말을신청한 상태이다. 현재 1,800여 개 위성으로 다수의 국가에서 베타서비스를 진행 중인데, 속도는 유선인터넷 수준에 도달한 것으로 나타남.\r\n\r\n- 또한, 지구국과 클라우드서비스와 연계, 통신사업자와 협력 등을 통해 서비스를 제공할 것으로 예상됨. 스타링크의 위성배치계획을 고려하면 위성인터넷이 혁신과 미래 산업에 필수적인 통신인프라와 서비스플랫폼으로 발전할 가능성이 있음.\r\n \r\n- (중략)앞으로 지배적인 글로벌 위성인터넷 사업자에 대한 해외 국가들의 정책 변화에 주시할 필요가 있음. 마지막으로 위성을 통해 전송되는 데이터가 기하급수적으로 증가할 것이므로 데이터가 집중되는 게이트웨이 지구국의 확보 및 성능이 중요해질 것으로 전망",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161996",
-          "publishedOn": "2022-01-24T09:08:07.580Z",
+          "description": "한국수출입은행이 『’22 월간 국내외 경제 및 산업 동향 1월호』를 발표하였다.\r\n\r\n- 주요국 경제동향: 코로나 19 변종 확산 등에 따른 경기회복 둔화, 물가 상승폭 확대 \r\n\r\n- 환율: 미달러화 가치 급등 후 다소 안정화, 원/달러 환율은 1,200원/달러 돌파 후 소폭 하락 \r\n\r\n- 국제유가: 원유 가격은 12월 말 이후 급등, 천연가스 가격은 1월 들어 급등했으나 하락세로 전환 \r\n\r\n- 수출: 2개월 연속 월 600억 달러 돌파, `21년 연간 6,444억 달러로 역대 최대 실적",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161997",
+          "publishedOn": "2022-01-24T12:08:15.804Z",
           "wordCount": 526,
-          "title": "위성인터넷 : 스타링크 사례로부터 얻는 시사점"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161999",
-          "author": null,
-          "description": "국제금융센터가 ‘코로나19 관련 동향 및 해외시각(1.21)’을 발표하였다.\r\n\r\n- (동향) WHO 집계기준(1.20일), 전세계 코로나19 확진자 수는 336,790,193명(최근 7일 +20,961,268명), 사망자 수는 5,560,718명(최근 7일 +48,607명)\r\n\r\n- (해외시각) (JPM) 미국의 지난주 신규실업급여청구건수가 28.6만건으로 증가하며 오미크론발 경제 여파에 대한 우려가 증대. 오미크론 변이가 팬데믹의 마지막 물결이고 3월까지 삶이 정상으로 돌아간다면 2분기부터 경제활동이 반등을 하겠지만 감염이 지속될 경우 여가 지출과 노동 공급 억제가 연말까지 이어질 가능성",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161999",
-          "publishedOn": "2022-01-24T09:08:07.550Z",
-          "wordCount": 526,
-          "title": "코로나19 관련 동향 및 해외시각(1.21)"
+          "title": "’22 월간 국내외 경제 및 산업 동향 1월호"
         },
         {
           "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162011",
           "author": null,
           "description": "한국금융연구원이 「인도 상업은행의 부실채권 문제와 향후 전망」을 발표하였다.\r\n\r\n- 최근 인도에서는 코로나19 감염 재확산 우려 등으로 인해 상업은행의 부실채권 문제가 심화될  가능성이 제기되고 있음. 2021년 7월 배드뱅크인 국가자산재건회사(NARCL)가 출범했지만 상업은행의 부실채권 문제를 충분히 해소하기에는 한계가 있는 것으로 평가됨. 인도 상업은행의 부실채권 문제를 근본적으로 극복하기 위해서는 ① 은행산업 구조조정 및 재편, ② 금융서비스의 디지털화 등을 통한 수익성 제고, ③ 은행의 지배구조 개선 등의 개혁을 가속화할 필요가 있음.",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162011",
-          "publishedOn": "2022-01-24T09:08:07.502Z",
+          "publishedOn": "2022-01-24T12:08:15.795Z",
           "wordCount": 526,
           "title": "인도 상업은행의 부실채권 문제와 향후 전망"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162007",
-          "author": null,
-          "description": "우리금융경영연구소가 『글로벌 금융회사의 중소기업 대상 비용관리 플랫폼 운영 사례와 시사점』을 발표하였다.\r\n\r\n- 국내외 중소기업은 비용관리 업무 부담에 놓여있으며, 이를 자동화하는 온라인 솔루션에 대한 니즈가 증가하는 상황. 미국, 유럽에서는 핀테크를 중심으로 전체 기업의 99% 이상을 차지하는 중소기업의 비용관리 프로세스 효율화를 위한 소프트웨어, 플랫폼 시장이 성장하고 있음.\r\n\r\n- 글로벌 금융회사들도 중소기업 고객 점유율을 높이고자 비용관리 플랫폼으로 서비스 영역을 확대. [카드] Visa, Amex는 지출 증빙 자동화, 경비지출 분석, 가상카드 발급, 간편결제 등의 기능을 탑재한 비용관리 플랫폼을 개발하여 기업카드 고객의 업무 효율화를 지원. [은행] BoA와 Virgin Money는 핀테크와 제휴, BBVA와 Holvi는 자체적인 솔루션 개발을 통해 비용관리를 포함하는 비즈니스 뱅킹 서비스를 제공\r\n\r\n- 국내 은행은 중소·대기업을 대상으로 광범위한 자금·경영관리 플랫폼을 구축했으나 소기업을 위한 서비스가 상대적으로 부족하며, 카드사는 비용관리 편의를 돕는 솔루션 도입에 소극적\r\n\r\n- 중소기업의 경비지출관리 애로사항을 개선함으로써 적극적으로 타겟 시장을 개척한 글로벌 금융회사의 사례를 참고하여 최적의 서비스 제공 방안을 모색할 필요. 상대적으로 서비스 라인업이 부족하고 선택권이 제한된 소규모 사업자를 대상으로, 핀테크와의 제휴나 자체 기술 개발을 통한 모듈형, 구독형 비용관리 솔루션 구축",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162007",
-          "publishedOn": "2022-01-24T09:08:07.485Z",
-          "wordCount": 526,
-          "title": "글로벌 금융회사의 중소기업 대상 비용관리 플랫폼 운영 사례와 시사점"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161997",
-          "author": null,
-          "description": "한국수출입은행이 『’22 월간 국내외 경제 및 산업 동향 1월호』를 발표하였다.\r\n\r\n- 주요국 경제동향: 코로나 19 변종 확산 등에 따른 경기회복 둔화, 물가 상승폭 확대 \r\n\r\n- 환율: 미달러화 가치 급등 후 다소 안정화, 원/달러 환율은 1,200원/달러 돌파 후 소폭 하락 \r\n\r\n- 국제유가: 원유 가격은 12월 말 이후 급등, 천연가스 가격은 1월 들어 급등했으나 하락세로 전환 \r\n\r\n- 수출: 2개월 연속 월 600억 달러 돌파, `21년 연간 6,444억 달러로 역대 최대 실적",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161997",
-          "publishedOn": "2022-01-24T09:08:07.476Z",
-          "wordCount": 526,
-          "title": "’22 월간 국내외 경제 및 산업 동향 1월호"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161998",
-          "author": null,
-          "description": "국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식 유입폭 축소, 채권 유출 지속’을 발표하였다.\r\n\r\n- 주식펀드 유입폭 축소, 채권펀드는 유출 지속\r\n\r\n- 신흥국들의 신용위험은 하락, 통화가치도 상승",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161998",
-          "publishedOn": "2022-01-24T09:08:07.457Z",
-          "wordCount": 526,
-          "title": "[Fund Flow] 글로벌 펀드자금, 주식 유입폭 축소, 채권 유출 지속"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162005",
-          "author": null,
-          "description": "한국무역협회가 「성장하는 펫케어 산업 최신트렌드와 우리 기업의 글로벌 경쟁력 강화 방안」을 발표하였다.\r\n\r\n- 펫케어 산업이 국내외 소비시장의 신성장동력으로 부상하고 있음. 1인가구의 증가, 고령화 등 세계 인구 구조의 변화로 반려동물 양육 인구가 증가하고, 반려동물을 가족처럼 생각하는 문화가 확산되면서 펫케어 산업의 양적·질적 성장은 더욱 가속화될 전망임.\r\n\r\n- 코로나19로 인해 위축된 경기에도 불구하고 글로벌 펫케어 시장은 지속적으로 성장하여 2020년에는 전년대비 6.9% 증가한 1,421억 달러를 기록했음. 시장 규모의 확대와 함께 생태계 전반의 변화도 눈에 띔. 그동안 펫케어 시장의 발전을 이끌어왔던 선진국의 성장세가 둔화되고 중국·브라질 등 신흥시장이 부상하고 있으며, 다국적 기업의 높은 시장지배력을 뚫고 혁신적 아이디어와 기술로 무장한 로컬 기업과 스타트업의 시장 진출이 확대되고 있음.\r\n\r\n- 국내 시장도 급속도로 확장되고 있음. 2020년 국내 반려동물 양육가구 비중은 27.7%에 달하며, 펫케어 시장은 2016~2020년까지 연평균 증가율 8.4%를 기록했음. 국내 펫케어용품 시장의 특징은 스타트업을 포함한 개인 및 중소기업이 산업 생태계의 발전을 주도하고 있다는 점으로, 관련 특허 출원인 분석 결과 대기업은 2%에 불과한 반면 개인 및 중소기업의 비중은 88%에 달하는 것으로 나타났음.\r\n\r\n- 최근 세계 펫케어 시장을 주도하는 키워드는 반려동물의 가족화를 의미하는 펫휴머니제이션(Pet-Humanization), IoT·AI 등 첨단 기술을 접목시킨 펫테크(Pet-Tech), 빠른 진단과 진료를 제공하는 혁신적인 동물의료(veterinary)임. 사람이 먹는 재료로 만든 식품, 멀리 있어도 반려동물의 위치와 생활습관을 체크할 수 있는 웨어러블 기기, 디지털기술과 빅데이터를 통해 질병 위험을 간편하게 미리 진단하고 아플 때는 화상 상담을 통해 원격 진료하는 서비스까지 다양한 분야에서 제품과 서비스가 고도화되고 있음.\r\n\r\n- 성장하고 있는 세계 펫케어 시장은 독창성과 우수한 기술력으로 무장한 우리 기업들의 새로운 무대가 될 수 있을 것임. 국내 기업의 글로벌 경쟁력 강화를 위해서는 첫째, 펫케어 시장 트렌드를 반영한 제품과 서비스의 개발에 힘써야 함. 둘째, 소비자의 페인포인트(Pain Point, 소비자가 불편을 느끼는 지점)를 면밀히 분석하고 솔루션을 도출하여 차별화 전략으로 삼아야 함. 셋째, 제품과 서비스의 융합을 통해 고객가치를 확대해야 한다. 마지막으로, 선진국 및 신흥국 각각의 특성에 맞는 해외진출 로드맵을 마련해야 함.\r\n\r\n- 아울러 정부는 국내 펫케어 산업을 적극적으로 육성하고, 실효성 높은 지원책 마련을 통해 우리 기업의 글로벌 경쟁력 강화를 지원해야 함. 이를 위해서는 무엇보다 펫케어 산업 관련 명확한 국내 수급과 수출입 현황 파악을 위한 통계 정비가 선행되어야 함. 이와 더불어 혁신제품의 국내 상용화를 저해하는 규제에 대한 신속한 대응과 해외진출의 가장 큰 애로사항으로 꼽히는 해외시장 인증 취득 및 현지 고객응대 등에 대한 보다 적극적인 지원 방안을 마련해야 할 것으로 보임.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162005",
-          "publishedOn": "2022-01-24T09:08:07.448Z",
-          "wordCount": 637,
-          "title": "성장하는 펫케어 산업 최신트렌드와 우리 기업의 글로벌 경쟁력 강화 방안"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162002",
-          "author": null,
-          "description": "한국은행이 『[현지정보] 연준, 중앙은행 디지털통화(CBDC) 보고서 주요 내용』을 발표하였다.\r\n\r\n- 연준은 미국의 중앙은행이 잠재적으로 발행할 수 있는 디지털통화(potential U.S. central bank digital currency, 이하 CDBC)와 관련한 최초의 토의보고서*(discussion paper)를 1.20일 발표**\r\n   * (원문)“Money and Payments: The U.S. Dollar in the Age of Digital Transformation”\r\n ** 동 보고서와 관련 Powell 연준의장은 2021년 5월 20일 화상발표를 통해 글로벌 지급결제 환경의 급속한 변화에 대한 연준의 대응전략을 기술하는 토의보고서를 2021년 여름에 공표할 것이라고 예고한 바 있음. 한편 이와 별도로 보스턴 지역연준은 MIT대학교와 공동으로 CDBC의 기술적 고려사항을 검토하는 보고서를 준비중\r\n\r\n- 동 보고서는 ① 기존 결제시스템 현황, ② 최근 몇 년간 등장한 다양한 유형의 디지털 결제수단과 자산(스테이블코인, 암호화폐 등), ③ CBDC의 잠재적 유용성 및 리스크, ④ CBDC가 결제시스템의 안전성과 효율성을 개선할 수 있는지 여부 및 방법, ⑤ 정책적 고려사항 등으로 구성\r\n\r\n- 연준은 동 보고서가 특정 정책결과를 진전시키기 위한 것이 아니며, 연준이 미국의 CBDC 발행의 적절성에 대해 긴급한 결정을 내릴 것이라는 시그널을 주기 위한 것도 아니라고 명시",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162002",
-          "publishedOn": "2022-01-24T09:08:07.410Z",
-          "wordCount": 526,
-          "title": "[현지정보] 연준, 중앙은행 디지털통화(CBDC) 보고서 주요 내용"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162009",
-          "author": null,
-          "description": "한국금융연구원이 「금리인상에 따른 차주의 DSR 변화 분포와 시사점」을 발표하였다.\r\n\r\n- KCB 샘플 자료를 활용하여 금리 인상에 따른 차주의 총부채원리금상환비율(DSR) 분포 변화를 살펴본 결과, 다른 조건이 동일할 때 금리가 1%P 상승하면, 전체차주의 9.8%는 소득의 5% 이상을 추가 이자 비용으로 부담해야 하는 것으로 나타남. 만일 금리가 1.5%P 상승하면, 동 차주의 비중은 18.6%로 증가함. 가계부채가 전례 없이 누적된 상황에서 이러한 분석 결과는 차주 단위의 위험관리는 물론 잠재적인 실물 부문의 부진을 보완하는 정책이 중요함을 시사함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162009",
-          "publishedOn": "2022-01-24T09:08:07.383Z",
-          "wordCount": 526,
-          "title": "금리인상에 따른 차주의 DSR 변화 분포와 시사점"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162001",
-          "author": null,
-          "description": "서울연구원이 『2차연도 미세먼지 계절관리제 이행평가와 개선과제』를 발표하였다.\r\n\r\n- 서울시 2차 미세먼지 계절관리제 13개 정책 중 배출가스 5등급 차량 운행제한이 ‘가장 효과적’\r\n\r\n- 서울시, 2차 미세먼지 계절관리제 정책으로 4개 분야 13개 대책 시행\r\n\r\n- 서울시 2차 미세먼지 계절관리제로 초미세먼지 직접 배출량이 16.9% ↓",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162001",
-          "publishedOn": "2022-01-24T09:08:07.357Z",
-          "wordCount": 526,
-          "title": "2차연도 미세먼지 계절관리제 이행평가와 개선과제"
         },
         {
           "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161994",
           "author": null,
           "description": "한국지능정보사회진흥원이 『스탠포드「AI 인덱스 2021」을 통해 본 AI 지표 조사의 변화 방향』을 발표하였다.\r\n\r\n- 2021년 스탠포드 AI 인덱스 주요 특징 및 결과\r\n ㅇ HAI는 이전(’19)보다 세분화？다양화된 지표로 2019~2020년 AI 생태계 트렌드를 분석한 내용을 담은 4번째 보고서를 발표(’21.3)\r\n ㅇ 2021년 보고서에는 시대적 상황을 고려하여 코로나19가 AI 기술, 연구개발, 경제 분야에 미친 영향에 관한 내용이 포함   \r\n\r\n- AI 인덱스의 변화 방향과 시사점\r\n ㅇ 활용 효과 측정을 위한 분야별 맞춤 지표 발굴\r\n ㅇ 역기능 모니터링 기능 강화 및 제도화 방안 마련 \r\n ㅇ 정책 수요 발굴을 위한 지표 간 연관 분석 확대",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161994",
-          "publishedOn": "2022-01-24T09:08:07.316Z",
+          "publishedOn": "2022-01-24T12:08:15.784Z",
           "wordCount": 526,
           "title": "스탠포드 「AI 인덱스 2021」을 통해 본 AI 지표 조사의 변화 방향"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162006",
-          "author": null,
-          "description": "KDB미래전략연구소가 「EIB 기후적응 계획의 주요 내용」을 발표하였다.\r\n\r\n- EIB는 EU의 ‘신 EU 기후적응 전략’ 지원 및 글로벌 기후적응 역량 강화를 위해 ’21.10월 ‘EIB 기후적응 계획’을 발표함으로써 EIB의 기후적응 금융지원 계획을 제시. ’25년까지 전체 기후금융의 15%를 기후적응 분야에 할당, 개도국 기후적응 지원 등\r\n\r\n- 동 계획은 EIB의 기후은행 로드맵과 병행 운영되며, 실적평가를 바탕으로 수정·보완될 전망",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162006",
-          "publishedOn": "2022-01-24T09:08:07.296Z",
-          "wordCount": 526,
-          "title": "EIB 기후적응 계획의 주요 내용"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162010",
-          "author": null,
-          "description": "한국금융연구원이 「최근 위안화 강세의 원인과 중국의 환율정책」을 발표하였다.\r\n\r\n- 2021년 달러 강세 기조 속에서도 위안/달러 환율이 하락하는 등 위안화의 강세가 지속되고 있음. 2020년 8월 이후 위안화 환율지수(CFETS)가 지속 상승하는 등 중국 외환당국이 위안화 강세를 유지하려는 장기적인 정책의지를 가지고 개입하였을 가능성이 있음. 다만 미국의 금리인상 등 요인 때문에 2022년에는 위안화가 강세를 지속하기 어려울 것으로 전망됨.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162010",
-          "publishedOn": "2022-01-24T09:08:07.278Z",
-          "wordCount": 526,
-          "title": "최근 위안화 강세의 원인과 중국의 환율정책"
         },
         {
           "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162000",
           "author": null,
           "description": "국제금융센터가 『글로벌 지속가능(Sustainable) 채권 발행 동향 및 전망』을 발표하였다.\r\n\r\n- [동향] ’21년말 기준 글로벌 지속가능(Green, Social, Sustainability, Sustainability-linked 등, 이하 GSS) 채권 발행잔액은 $2.1조를 기록. 연간 발행액은 ’20년 4,850억 → ’21년 $1.1조(+120%)로 크게 증가했으며, Green bond가 $5,214억으로 절반을 차지. 작년 발행된 유로화 투자등급(IG)채권 중 25%, 하이일드(HY)채권 중 20%, 아시아 발행자의 달러화 채권 중 20%, 미국계의 달러화 IG 발행 중 5%가 GSS 채권. 그리니엄(greenium: Green bond를 발행하는 댓가로 요구하는 프리미엄)은 수요 초과 현상으로  달러화 회사채는 평균 -7bp, 유로화 회사채는 -3bp 등을 기록\r\n\r\n- [주요 이슈] 글래스고 기후합의(COP26)에서 공식화한 화석연료의 단계적 축소에 초점을 맞춰 포트폴리오내 탄소중립을 실현하기 위한 투자가 확대될 것으로 기대. 다만 자율적 규제에서 의무화로 옮겨가는 과정에서 부작용도 발생 가능\r\n · 투자 차별화: ESG 펀드 비교시, 현재 시점에서 친환경적인 기업들이 좋은 평가를 받게 되므로 대량의 온실가스를 배출하는 화석연료 회사(=Brown 기업)의 채권은 그린워싱에 대한 우려와 함께 투자가 부진. 그러나 기후변화에 실질적으로 기여할 수 있는 기업을 지원하려는 수요가 증대되면서 미래지향적 데이터 개발 및 활용이 증가  \r\n ·  공시 의무화: 지속가능정보에 대한 공시 의무화가 진행되고 있지만 글로벌 보고 표준이 아직 부재. 산발적으로 공시되는 ESG 정보로 판단이 어려워질 경우 가장 쉬운 방법인 ‘非그린 자산’ 매도(disinvest)로 대응할 수 있으며, 이는 ESG 활동을 저해할 소지\r\n\r\n- [전망] 금년에도 GSS 채권 발행은 수요 증가에 힘입어 늘어날 것으로 보이지만, Brown 기업에 대한 투자가 활성화되어야만 GSS 채권시장의 성장이 가능할 전망. 올해 GSS 채권은 총 $1.4조 내외 발행 예상되며, 이 중 SLB(Sustainability-linked Bond)는 작년 12%에서 20%까지도 증가할 가능성",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162000",
-          "publishedOn": "2022-01-24T09:08:07.268Z",
+          "publishedOn": "2022-01-24T12:08:15.773Z",
           "wordCount": 526,
           "title": "글로벌 지속가능(Sustainable) 채권 발행 동향 및 전망"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161947",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162002",
           "author": null,
-          "description": "국제금융센터가 『미국 국채시장 유동성 저하 배경 및 시사점』을 발표하였다.\r\n\r\n- [이슈] 코로나19 팬데믹 이후 美 국채시장의 유동성* 저하 현상이 관측되고 있어 관련 위험 점검. 특히 작년 10월 이후 미국 국채의 △매수-매도 호가 차이 및 △지표물-비지표물간 금리차이 확대 △장기물 입찰 부진 등 시장유동성 저하 현상이 관찰\r\n * 시장유동성(Market liquidity): 시장참가자들이 보유자산을 큰 폭의 가격변동 없이 원활하게 거래할 수 있는 시장의 능력\r\n\r\n- [분석] 미국 국채시장 유동성 저하 요인으로는 ▲연준 통화정책 불확실성으로 인한 시장금리 변동성 확대 ▲은행 자본규제(SLR) 완화 종료 등에 따른 시장조성 기능 약화와 더불어 ▲헷지펀드 포지션 및 고빈도매매(High-Frequency Trading) 확대 등의 구조적 변화도 지목\r\n · 시장금리 변동성 확대 : 지난해 4분기 중 물가전망에 관한 연준의 입장 변화 등으로 통화정책 향방의 불확실성이 확대되고, 그 결과 시장금리 변동성이 커지고 국채시장 거래가 위축\r\n · 은행 레버리지 규제(SLR) : 은행권 보완적 레버리지비율(Supplementary Leverage Ratio) 규제 완화 종료로 은행권에 연계된 브로커 및 딜러들의 국채 투자여력이 제한\r\n · 헷지펀드 포지션 및 고빈도매매 확대 : 헷지펀드의 과도한 포지션 구축으로 대규모 청산 위험 증가. 고빈도매매의 경우는 변동성 국면에서 거래가 급감하는 경향\r\n · 국채 수급부담 증가 : 미국 국채시장의 규모 자체가 급격하게  커진 점 역시 공공 부문의 개입 없이는 시장이 안정적으로 작동하기 어려워진 원인 중 하나\r\n\r\n- [시사점] 최근 연준의 금리인상 및 양적긴축 등 통화정책 정상화가 빨라질 것으로 예상되면서 장기 국채금리의 변동성이 확대. 이에 더해 그동안 국채 시장의 수요를 지지해왔던 연준의 국채 매입이 종료될 경우 향후 불안 국면에서 시장유동성 부족 재연으로 금리 변동성이 더욱 커질 소지\r\n · 국채시장 금리 변동성의 급격한 확대는 시장심리를 위축시켜 유동성 추가 저하로 이어지는 악순환을 초래할 가능성\r\n · 많은 시장 참가자들이 미국 국채시장의 풍부한 유동성에 의존해 왔고 다른 금융시장과의 연관성도 크기 때문에 미국 국채시장 시장유동성 위축시 금융시스템 전체에 부정적 영향 확산 우려",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161947",
-          "publishedOn": "2022-01-24T09:08:07.245Z",
+          "description": "한국은행이 『[현지정보] 연준, 중앙은행 디지털통화(CBDC) 보고서 주요 내용』을 발표하였다.\r\n\r\n- 연준은 미국의 중앙은행이 잠재적으로 발행할 수 있는 디지털통화(potential U.S. central bank digital currency, 이하 CDBC)와 관련한 최초의 토의보고서*(discussion paper)를 1.20일 발표**\r\n   * (원문)“Money and Payments: The U.S. Dollar in the Age of Digital Transformation”\r\n ** 동 보고서와 관련 Powell 연준의장은 2021년 5월 20일 화상발표를 통해 글로벌 지급결제 환경의 급속한 변화에 대한 연준의 대응전략을 기술하는 토의보고서를 2021년 여름에 공표할 것이라고 예고한 바 있음. 한편 이와 별도로 보스턴 지역연준은 MIT대학교와 공동으로 CDBC의 기술적 고려사항을 검토하는 보고서를 준비중\r\n\r\n- 동 보고서는 ① 기존 결제시스템 현황, ② 최근 몇 년간 등장한 다양한 유형의 디지털 결제수단과 자산(스테이블코인, 암호화폐 등), ③ CBDC의 잠재적 유용성 및 리스크, ④ CBDC가 결제시스템의 안전성과 효율성을 개선할 수 있는지 여부 및 방법, ⑤ 정책적 고려사항 등으로 구성\r\n\r\n- 연준은 동 보고서가 특정 정책결과를 진전시키기 위한 것이 아니며, 연준이 미국의 CBDC 발행의 적절성에 대해 긴급한 결정을 내릴 것이라는 시그널을 주기 위한 것도 아니라고 명시",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162002",
+          "publishedOn": "2022-01-24T12:08:15.754Z",
           "wordCount": 526,
-          "title": "미국 국채시장 유동성 저하 배경 및 시사점"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161988",
-          "author": null,
-          "description": "현대경제연구원이 『코로나 위기 만 2년의 경제·산업구조 변화와 시사점』을 발표하였다.\r\n\r\n- 국내 코로나 첫 확진자가 확인되었던 지난 2020년 1월 20일로부터 만 2년의 시간이 지나간 시점에서 경제 및 산업 구조에 나타난 변화를 살펴보고 시사점을 도출해 보았음.\r\n우선 경제구조 변화의 특징은 첫째, 교역의존도가 코로나 위기 이전 2019년 75.9%에서 2021년 76.9%로 크게 상승하였음. 둘째, 소비가 GDP에서 차지하는 비중은 코로나 위기 이전보다 크게 하락한 반면, 순수출(수출 - 수입)이 GDP에서 차지하는 비중은 코로나 위기 이후 크게 상승하였음. 셋째, 민간 수요(민간소비 + 민간고정투자)가 GDP에서 차지하는 비중은 코로나 위기 이전인 2019년 78.2%에서 위기 이후 2021년 77.0%로 크게 하락한 반면, 정부 수요의 GDP 대비 비중은 2019년 1~3분기 21.8%에서 2021년 1~3분기에는 23.0%로 높아졌음.\r\n\r\n- 다음으로 산업구조 변화의 특징은 첫째, 제조업과 서비스업이 경제 전체에서 차지하는 비중은 코로나 위기 이전과 이후에 큰 변화가 없는 것으로 분석됨 . 둘째, ICT 산업(컴퓨터, 전자 및 광학기기 제조업 + 정보통신업) 부가가치가 GDP에서 차지하는 비중은 코로나 위기 이전인 2019년 1~3분기 10.9%에서 2021년 1~3분기에는 11.3%로 크게 높아졌음. 셋째, 수출 통계를 이용하여 제조업 세부 업종의 수출 비중을 살펴보면, 코로나 위기를 전후로 ICT 산업이 전체 수출 경기를 견인하는 것으로 분석됨. 반면, 비ICT 수출 중에서 특히, 기계와 자동차가 코로나 위기 이전의 위상을 회복하지 못하고 있는 것으로 판단됨. 넷째, 경제 전체로 보면 코로나 위기를 전후로 서비스업의 부가가치가 GDP에서 차지하는 비중에 변화가 없으나, 서비스업 내 세부 업종에 있어서, 도소매업, 숙박·음식업, 문화·기타 산업 등은 크게 위축되었으나,  금융·부동산, 정보통신업 등은 오히려 시장 수요가 확대된 것으로 나타났음. \r\n\r\n- 이와 같은 코로나 위기 이후 경제 및 산업 구조 급변에 대응하기 위해서는 첫째, 코로나 이후 경기 회복의 핵심 동력인 수출의 회복세를 유지하기 위해 시장 외연을 확대하고 공급망 교란에 적극 대응해야 함. 둘째, 직접적인 정부소비지출보다 민간소비를 견인할 수 있는 간접적인 내수진작책이 필요함. 셋째, 코로나 위기에도 기업 투자 확대가 지속될 수 있도록 적극적인 시장 규제 완화 노력이 요구됨. 넷째， ICT 산업의 양적 성장이 경제·산업 구조의 질적 변화로 이어질 수 있도록, 기술 확산 가속을 통한 기존 산업의 디지털 전환을 모색해야 함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161988",
-          "publishedOn": "2022-01-24T09:08:07.226Z",
-          "wordCount": 526,
-          "title": "코로나 위기 만 2년의 경제·산업구조 변화와 시사점"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162008",
-          "author": null,
-          "description": "국토연구원이 『인구감소와 지방분권시대, 지방상수도정책 개선방안』을 발표하였다.\r\n\r\n- 상수도통계상 각 지표를 지자체 인구 규모별로 비교하고 추이를 살펴봄으로써 인구가 부족한 지역일수록 총괄원가 상승, 누수율 증대 등 지방상수도 지속가능성에 지표가 불리하게 나타나고 그 격차는 점점 더 심화되고 있음을 확인\r\n\r\n- 헌법, 관련 법, 국제 협약 등을 참고하여 지방분권시대 기초지자체가 수도사업자로서 지속 기능하려면 국가의 정수 보급책임 강화 및 지원 확대와 기초지자체 간 연계·통합을 위한 광역지자체의 역할을 확대할 필요가 있음을 제시\r\n\r\n- 지자체 맞춤형 정책 수단 발굴을 위하여 1단계로 시설지표(누수율, 경년관비율, 총괄원가), 재정지표(자본수입비중, 소멸위험지수, 급수인구)를 통해 전국 161개 지자체 중 세부유형화 대상 69개 지자체를 선별했으며, 2단계로 공급지표(권역통합 가능성, 광역상수도 의존도)를 통해 4가지 유형으로 분류 후 적정 사업구조를 제안함.\r\n · (유형 ①) 주로 산간지역에 위치한 18개 지자체로 통합 후 조합 설립 등 자체 운영이 적정\r\n · (유형 ②) 주로 자체 취수원이 부족한 23개 지자체로, 도직영 또는 통합위탁이 적정\r\n · (유형 ③) 주로 계통 상 연계가 낮은 16개 지자체로, 국고보조 및 지원확대가 적정\r\n · (유형 ④) 주로 광역의존도가 높은 12개 지자체로, 개별위탁 또는 대도시연계가 적정？\r\n\r\n- [정책방안] ① (지역 간 균형발전을 위한 형평성) 지방상수도 관련 주민 간, 지역 간 형평성을 제고하기 위한 보급정책, 요금정책, 주민참여 등에 대해 법·제도 개선방안 제시 \r\n ② (재정건전화를 위한 효율성) 지자체 재정건전성과 상수도시설 노후화를 고려한 국고지원사업 내용, 요금·원가 산정 방식 등에 대해 법·제도 개선방안 제시  ③ (지방상수도 사업구조 다각화) 지자체 주도의 지속가능한 지방상수도사업 운영을 위한 권역별 통합·위탁 등 사업구조 다각화에 대한 정책 수단 검토 및 방향 제시",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162008",
-          "publishedOn": "2022-01-24T09:08:07.216Z",
-          "wordCount": 526,
-          "title": "인구감소와 지방분권시대, 지방상수도정책 개선방안"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162003",
-          "author": null,
-          "description": "한국금융연구원이 「2022년 은행산업 전망 및 주요 경영과제」를 발표하였다.\r\n\r\n- 2022년 국내은행의 자산 성장세는 둔화될 것이나, 시중금리 상승에 힘입어 자금여력과 수익성은 다소 개선될 것으로 전망됨. 대손비용은 상승할 가능성이 높지만, 금리인상과 코로나19 금융지원 조치의 정상화 속도에 따라 크게 변동될 것으로 예상됨.\r\n\r\n- 이와 같은 실적 전망과 거시경제·시장경쟁 상황 등을 감안할 때, 국내은행은 다음과 같은 사항들을 주요 경영과제로 고려해야 할 것임. 첫째, 시중금리 상승 및 코로나19 금융지원 종료에 따라 부실위험이 급증하지 않도록 시나리오별 경영전략을 수립하고 부실징후 차주에 대한 사전 모니터링을 강화해야 함. 둘째, 금융분야 마이데이터 본격 시행, 전자금융거래법 개정, 은행 부수업무 확대 등에 대비하여 플랫폼 경쟁력을 강화하고 디지털 전환에 속도를 내야 할 것임. 셋째, 팬데믹이 바꾼 금융 분야의 변화를 반영하여 기존 비즈니스 모델의 재정립 및 신규 수익원 발굴에 적극 나서야 함. 넷째, 금융의 공공성 요구가 증대될 것으로 예상됨에 따라 ESG, 금융소비자 보호 등 지속가능경영을 강화할 필요가 있음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162003",
-          "publishedOn": "2022-01-24T09:08:07.206Z",
-          "wordCount": 526,
-          "title": "2022년 은행산업 전망 및 주요 경영과제"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161987",
-          "author": null,
-          "description": "한국농촌경제연구원이 『도농 상생을 위한 스마트워크 복합공간 조성 방안 연구』를 발표하였다.\r\n\r\n- 본 연구는 코로나바이러스감염증(COVID-19)으로 증가한 비대면 업무 및 여가 수요를 흡수하여 농촌에 활력을 불어넣는 역할을 수행할 수 있는 새로운 수단으로써 농촌 스마트워크 복합공간 조성을 제안함. 농촌 스마트워크 복합공간의 조성 및 운영 방안을 마련함으로써 도시와 농촌의 상생 발전에 기여할 수 있다고 판단됨.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161987",
-          "publishedOn": "2022-01-24T09:08:07.117Z",
-          "wordCount": 526,
-          "title": "도농 상생을 위한 스마트워크 복합공간 조성 방안 연구"
+          "title": "[현지정보] 연준, 중앙은행 디지털통화(CBDC) 보고서 주요 내용"
         },
         {
           "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162004",
           "author": null,
           "description": "한국지능정보사회진흥원이 「크리에이터가 알아야 할 디지털윤리 역량 가이드북」을 발표하였다.\r\n\r\n<목 차>\r\n\r\nPART 1. 디지털윤리\r\nPART 2. 저작권\r\nPART 3. 인격권\r\nPART 4. 유해 콘텐츠\r\nPART 5. 광고\r\n\r\n부록. 디지털윤리 체크리스트",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162004",
-          "publishedOn": "2022-01-24T09:08:06.872Z",
+          "publishedOn": "2022-01-24T12:08:15.745Z",
           "wordCount": 526,
           "title": "크리에이터가 알아야 할 디지털윤리 역량 가이드북"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161988",
+          "author": null,
+          "description": "현대경제연구원이 『코로나 위기 만 2년의 경제·산업구조 변화와 시사점』을 발표하였다.\r\n\r\n- 국내 코로나 첫 확진자가 확인되었던 지난 2020년 1월 20일로부터 만 2년의 시간이 지나간 시점에서 경제 및 산업 구조에 나타난 변화를 살펴보고 시사점을 도출해 보았음.\r\n우선 경제구조 변화의 특징은 첫째, 교역의존도가 코로나 위기 이전 2019년 75.9%에서 2021년 76.9%로 크게 상승하였음. 둘째, 소비가 GDP에서 차지하는 비중은 코로나 위기 이전보다 크게 하락한 반면, 순수출(수출 - 수입)이 GDP에서 차지하는 비중은 코로나 위기 이후 크게 상승하였음. 셋째, 민간 수요(민간소비 + 민간고정투자)가 GDP에서 차지하는 비중은 코로나 위기 이전인 2019년 78.2%에서 위기 이후 2021년 77.0%로 크게 하락한 반면, 정부 수요의 GDP 대비 비중은 2019년 1~3분기 21.8%에서 2021년 1~3분기에는 23.0%로 높아졌음.\r\n\r\n- 다음으로 산업구조 변화의 특징은 첫째, 제조업과 서비스업이 경제 전체에서 차지하는 비중은 코로나 위기 이전과 이후에 큰 변화가 없는 것으로 분석됨 . 둘째, ICT 산업(컴퓨터, 전자 및 광학기기 제조업 + 정보통신업) 부가가치가 GDP에서 차지하는 비중은 코로나 위기 이전인 2019년 1~3분기 10.9%에서 2021년 1~3분기에는 11.3%로 크게 높아졌음. 셋째, 수출 통계를 이용하여 제조업 세부 업종의 수출 비중을 살펴보면, 코로나 위기를 전후로 ICT 산업이 전체 수출 경기를 견인하는 것으로 분석됨. 반면, 비ICT 수출 중에서 특히, 기계와 자동차가 코로나 위기 이전의 위상을 회복하지 못하고 있는 것으로 판단됨. 넷째, 경제 전체로 보면 코로나 위기를 전후로 서비스업의 부가가치가 GDP에서 차지하는 비중에 변화가 없으나, 서비스업 내 세부 업종에 있어서, 도소매업, 숙박·음식업, 문화·기타 산업 등은 크게 위축되었으나,  금융·부동산, 정보통신업 등은 오히려 시장 수요가 확대된 것으로 나타났음. \r\n\r\n- 이와 같은 코로나 위기 이후 경제 및 산업 구조 급변에 대응하기 위해서는 첫째, 코로나 이후 경기 회복의 핵심 동력인 수출의 회복세를 유지하기 위해 시장 외연을 확대하고 공급망 교란에 적극 대응해야 함. 둘째, 직접적인 정부소비지출보다 민간소비를 견인할 수 있는 간접적인 내수진작책이 필요함. 셋째, 코로나 위기에도 기업 투자 확대가 지속될 수 있도록 적극적인 시장 규제 완화 노력이 요구됨. 넷째， ICT 산업의 양적 성장이 경제·산업 구조의 질적 변화로 이어질 수 있도록, 기술 확산 가속을 통한 기존 산업의 디지털 전환을 모색해야 함.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161988",
+          "publishedOn": "2022-01-24T12:08:15.729Z",
+          "wordCount": 526,
+          "title": "코로나 위기 만 2년의 경제·산업구조 변화와 시사점"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161987",
+          "author": null,
+          "description": "한국농촌경제연구원이 『도농 상생을 위한 스마트워크 복합공간 조성 방안 연구』를 발표하였다.\r\n\r\n- 본 연구는 코로나바이러스감염증(COVID-19)으로 증가한 비대면 업무 및 여가 수요를 흡수하여 농촌에 활력을 불어넣는 역할을 수행할 수 있는 새로운 수단으로써 농촌 스마트워크 복합공간 조성을 제안함. 농촌 스마트워크 복합공간의 조성 및 운영 방안을 마련함으로써 도시와 농촌의 상생 발전에 기여할 수 있다고 판단됨.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161987",
+          "publishedOn": "2022-01-24T12:08:15.720Z",
+          "wordCount": 526,
+          "title": "도농 상생을 위한 스마트워크 복합공간 조성 방안 연구"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161998",
+          "author": null,
+          "description": "국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식 유입폭 축소, 채권 유출 지속’을 발표하였다.\r\n\r\n- 주식펀드 유입폭 축소, 채권펀드는 유출 지속\r\n\r\n- 신흥국들의 신용위험은 하락, 통화가치도 상승",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161998",
+          "publishedOn": "2022-01-24T12:08:15.710Z",
+          "wordCount": 526,
+          "title": "[Fund Flow] 글로벌 펀드자금, 주식 유입폭 축소, 채권 유출 지속"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161947",
+          "author": null,
+          "description": "국제금융센터가 『미국 국채시장 유동성 저하 배경 및 시사점』을 발표하였다.\r\n\r\n- [이슈] 코로나19 팬데믹 이후 美 국채시장의 유동성* 저하 현상이 관측되고 있어 관련 위험 점검. 특히 작년 10월 이후 미국 국채의 △매수-매도 호가 차이 및 △지표물-비지표물간 금리차이 확대 △장기물 입찰 부진 등 시장유동성 저하 현상이 관찰\r\n * 시장유동성(Market liquidity): 시장참가자들이 보유자산을 큰 폭의 가격변동 없이 원활하게 거래할 수 있는 시장의 능력\r\n\r\n- [분석] 미국 국채시장 유동성 저하 요인으로는 ▲연준 통화정책 불확실성으로 인한 시장금리 변동성 확대 ▲은행 자본규제(SLR) 완화 종료 등에 따른 시장조성 기능 약화와 더불어 ▲헷지펀드 포지션 및 고빈도매매(High-Frequency Trading) 확대 등의 구조적 변화도 지목\r\n · 시장금리 변동성 확대 : 지난해 4분기 중 물가전망에 관한 연준의 입장 변화 등으로 통화정책 향방의 불확실성이 확대되고, 그 결과 시장금리 변동성이 커지고 국채시장 거래가 위축\r\n · 은행 레버리지 규제(SLR) : 은행권 보완적 레버리지비율(Supplementary Leverage Ratio) 규제 완화 종료로 은행권에 연계된 브로커 및 딜러들의 국채 투자여력이 제한\r\n · 헷지펀드 포지션 및 고빈도매매 확대 : 헷지펀드의 과도한 포지션 구축으로 대규모 청산 위험 증가. 고빈도매매의 경우는 변동성 국면에서 거래가 급감하는 경향\r\n · 국채 수급부담 증가 : 미국 국채시장의 규모 자체가 급격하게  커진 점 역시 공공 부문의 개입 없이는 시장이 안정적으로 작동하기 어려워진 원인 중 하나\r\n\r\n- [시사점] 최근 연준의 금리인상 및 양적긴축 등 통화정책 정상화가 빨라질 것으로 예상되면서 장기 국채금리의 변동성이 확대. 이에 더해 그동안 국채 시장의 수요를 지지해왔던 연준의 국채 매입이 종료될 경우 향후 불안 국면에서 시장유동성 부족 재연으로 금리 변동성이 더욱 커질 소지\r\n · 국채시장 금리 변동성의 급격한 확대는 시장심리를 위축시켜 유동성 추가 저하로 이어지는 악순환을 초래할 가능성\r\n · 많은 시장 참가자들이 미국 국채시장의 풍부한 유동성에 의존해 왔고 다른 금융시장과의 연관성도 크기 때문에 미국 국채시장 시장유동성 위축시 금융시스템 전체에 부정적 영향 확산 우려",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161947",
+          "publishedOn": "2022-01-24T12:08:15.691Z",
+          "wordCount": 526,
+          "title": "미국 국채시장 유동성 저하 배경 및 시사점"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161999",
+          "author": null,
+          "description": "국제금융센터가 ‘코로나19 관련 동향 및 해외시각(1.21)’을 발표하였다.\r\n\r\n- (동향) WHO 집계기준(1.20일), 전세계 코로나19 확진자 수는 336,790,193명(최근 7일 +20,961,268명), 사망자 수는 5,560,718명(최근 7일 +48,607명)\r\n\r\n- (해외시각) (JPM) 미국의 지난주 신규실업급여청구건수가 28.6만건으로 증가하며 오미크론발 경제 여파에 대한 우려가 증대. 오미크론 변이가 팬데믹의 마지막 물결이고 3월까지 삶이 정상으로 돌아간다면 2분기부터 경제활동이 반등을 하겠지만 감염이 지속될 경우 여가 지출과 노동 공급 억제가 연말까지 이어질 가능성",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161999",
+          "publishedOn": "2022-01-24T12:08:15.681Z",
+          "wordCount": 526,
+          "title": "코로나19 관련 동향 및 해외시각(1.21)"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161996",
+          "author": null,
+          "description": "정보통신정책연구원은 「위성인터넷 : 스타링크 사례로부터 얻는 시사점」을 발표하였다.\r\n\r\n- 본 리포트에서는 스타링크 사례로부터 위성인터넷의 발전이 줄 수 있는 시사점을 발굴하고자 함.\r\n\r\n- 스타링크는 ’18년 4월 FCC에 위성 궤도와 위성 4,500여개 운용 권한을 요청하여 승인을 받았고, ‘18년 11월 지상망과 경쟁을 위한 초저궤도인 300km 고도 7,518개 위성운용을 승인 받았다. 이에 그치지않고 ‘20년 5월 위성 3만여 개로 구성되는 2세대 시스템을 FCC에 신청하였음. 스타링크는 위성과 통신하는 수백 개의 게이트웨이 지구국을 운용할 계획임. 사용자 단말의 경우 위치 고정형 단말 100만개 승인을 받았고 항공기, 선박, 차량과 같은 이동체에 설치할 단말을신청한 상태이다. 현재 1,800여 개 위성으로 다수의 국가에서 베타서비스를 진행 중인데, 속도는 유선인터넷 수준에 도달한 것으로 나타남.\r\n\r\n- 또한, 지구국과 클라우드서비스와 연계, 통신사업자와 협력 등을 통해 서비스를 제공할 것으로 예상됨. 스타링크의 위성배치계획을 고려하면 위성인터넷이 혁신과 미래 산업에 필수적인 통신인프라와 서비스플랫폼으로 발전할 가능성이 있음.\r\n \r\n- (중략)앞으로 지배적인 글로벌 위성인터넷 사업자에 대한 해외 국가들의 정책 변화에 주시할 필요가 있음. 마지막으로 위성을 통해 전송되는 데이터가 기하급수적으로 증가할 것이므로 데이터가 집중되는 게이트웨이 지구국의 확보 및 성능이 중요해질 것으로 전망",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000161996",
+          "publishedOn": "2022-01-24T12:08:15.672Z",
+          "wordCount": 526,
+          "title": "위성인터넷 : 스타링크 사례로부터 얻는 시사점"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162003",
+          "author": null,
+          "description": "한국금융연구원이 「2022년 은행산업 전망 및 주요 경영과제」를 발표하였다.\r\n\r\n- 2022년 국내은행의 자산 성장세는 둔화될 것이나, 시중금리 상승에 힘입어 자금여력과 수익성은 다소 개선될 것으로 전망됨. 대손비용은 상승할 가능성이 높지만, 금리인상과 코로나19 금융지원 조치의 정상화 속도에 따라 크게 변동될 것으로 예상됨.\r\n\r\n- 이와 같은 실적 전망과 거시경제·시장경쟁 상황 등을 감안할 때, 국내은행은 다음과 같은 사항들을 주요 경영과제로 고려해야 할 것임. 첫째, 시중금리 상승 및 코로나19 금융지원 종료에 따라 부실위험이 급증하지 않도록 시나리오별 경영전략을 수립하고 부실징후 차주에 대한 사전 모니터링을 강화해야 함. 둘째, 금융분야 마이데이터 본격 시행, 전자금융거래법 개정, 은행 부수업무 확대 등에 대비하여 플랫폼 경쟁력을 강화하고 디지털 전환에 속도를 내야 할 것임. 셋째, 팬데믹이 바꾼 금융 분야의 변화를 반영하여 기존 비즈니스 모델의 재정립 및 신규 수익원 발굴에 적극 나서야 함. 넷째, 금융의 공공성 요구가 증대될 것으로 예상됨에 따라 ESG, 금융소비자 보호 등 지속가능경영을 강화할 필요가 있음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162003",
+          "publishedOn": "2022-01-24T12:08:15.662Z",
+          "wordCount": 526,
+          "title": "2022년 은행산업 전망 및 주요 경영과제"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162001",
+          "author": null,
+          "description": "서울연구원이 『2차연도 미세먼지 계절관리제 이행평가와 개선과제』를 발표하였다.\r\n\r\n- 서울시 2차 미세먼지 계절관리제 13개 정책 중 배출가스 5등급 차량 운행제한이 ‘가장 효과적’\r\n\r\n- 서울시, 2차 미세먼지 계절관리제 정책으로 4개 분야 13개 대책 시행\r\n\r\n- 서울시 2차 미세먼지 계절관리제로 초미세먼지 직접 배출량이 16.9% ↓",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162001",
+          "publishedOn": "2022-01-24T12:08:15.643Z",
+          "wordCount": 526,
+          "title": "2차연도 미세먼지 계절관리제 이행평가와 개선과제"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162010",
+          "author": null,
+          "description": "한국금융연구원이 「최근 위안화 강세의 원인과 중국의 환율정책」을 발표하였다.\r\n\r\n- 2021년 달러 강세 기조 속에서도 위안/달러 환율이 하락하는 등 위안화의 강세가 지속되고 있음. 2020년 8월 이후 위안화 환율지수(CFETS)가 지속 상승하는 등 중국 외환당국이 위안화 강세를 유지하려는 장기적인 정책의지를 가지고 개입하였을 가능성이 있음. 다만 미국의 금리인상 등 요인 때문에 2022년에는 위안화가 강세를 지속하기 어려울 것으로 전망됨.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162010",
+          "publishedOn": "2022-01-24T12:08:15.634Z",
+          "wordCount": 526,
+          "title": "최근 위안화 강세의 원인과 중국의 환율정책"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162007",
+          "author": null,
+          "description": "우리금융경영연구소가 『글로벌 금융회사의 중소기업 대상 비용관리 플랫폼 운영 사례와 시사점』을 발표하였다.\r\n\r\n- 국내외 중소기업은 비용관리 업무 부담에 놓여있으며, 이를 자동화하는 온라인 솔루션에 대한 니즈가 증가하는 상황. 미국, 유럽에서는 핀테크를 중심으로 전체 기업의 99% 이상을 차지하는 중소기업의 비용관리 프로세스 효율화를 위한 소프트웨어, 플랫폼 시장이 성장하고 있음.\r\n\r\n- 글로벌 금융회사들도 중소기업 고객 점유율을 높이고자 비용관리 플랫폼으로 서비스 영역을 확대. [카드] Visa, Amex는 지출 증빙 자동화, 경비지출 분석, 가상카드 발급, 간편결제 등의 기능을 탑재한 비용관리 플랫폼을 개발하여 기업카드 고객의 업무 효율화를 지원. [은행] BoA와 Virgin Money는 핀테크와 제휴, BBVA와 Holvi는 자체적인 솔루션 개발을 통해 비용관리를 포함하는 비즈니스 뱅킹 서비스를 제공\r\n\r\n- 국내 은행은 중소·대기업을 대상으로 광범위한 자금·경영관리 플랫폼을 구축했으나 소기업을 위한 서비스가 상대적으로 부족하며, 카드사는 비용관리 편의를 돕는 솔루션 도입에 소극적\r\n\r\n- 중소기업의 경비지출관리 애로사항을 개선함으로써 적극적으로 타겟 시장을 개척한 글로벌 금융회사의 사례를 참고하여 최적의 서비스 제공 방안을 모색할 필요. 상대적으로 서비스 라인업이 부족하고 선택권이 제한된 소규모 사업자를 대상으로, 핀테크와의 제휴나 자체 기술 개발을 통한 모듈형, 구독형 비용관리 솔루션 구축",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162007",
+          "publishedOn": "2022-01-24T12:08:15.599Z",
+          "wordCount": 526,
+          "title": "글로벌 금융회사의 중소기업 대상 비용관리 플랫폼 운영 사례와 시사점"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162006",
+          "author": null,
+          "description": "KDB미래전략연구소가 「EIB 기후적응 계획의 주요 내용」을 발표하였다.\r\n\r\n- EIB는 EU의 ‘신 EU 기후적응 전략’ 지원 및 글로벌 기후적응 역량 강화를 위해 ’21.10월 ‘EIB 기후적응 계획’을 발표함으로써 EIB의 기후적응 금융지원 계획을 제시. ’25년까지 전체 기후금융의 15%를 기후적응 분야에 할당, 개도국 기후적응 지원 등\r\n\r\n- 동 계획은 EIB의 기후은행 로드맵과 병행 운영되며, 실적평가를 바탕으로 수정·보완될 전망",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162006",
+          "publishedOn": "2022-01-24T12:08:15.540Z",
+          "wordCount": 526,
+          "title": "EIB 기후적응 계획의 주요 내용"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162009",
+          "author": null,
+          "description": "한국금융연구원이 「금리인상에 따른 차주의 DSR 변화 분포와 시사점」을 발표하였다.\r\n\r\n- KCB 샘플 자료를 활용하여 금리 인상에 따른 차주의 총부채원리금상환비율(DSR) 분포 변화를 살펴본 결과, 다른 조건이 동일할 때 금리가 1%P 상승하면, 전체차주의 9.8%는 소득의 5% 이상을 추가 이자 비용으로 부담해야 하는 것으로 나타남. 만일 금리가 1.5%P 상승하면, 동 차주의 비중은 18.6%로 증가함. 가계부채가 전례 없이 누적된 상황에서 이러한 분석 결과는 차주 단위의 위험관리는 물론 잠재적인 실물 부문의 부진을 보완하는 정책이 중요함을 시사함.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162009",
+          "publishedOn": "2022-01-24T12:08:15.530Z",
+          "wordCount": 526,
+          "title": "금리인상에 따른 차주의 DSR 변화 분포와 시사점"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162008",
+          "author": null,
+          "description": "국토연구원이 『인구감소와 지방분권시대, 지방상수도정책 개선방안』을 발표하였다.\r\n\r\n- 상수도통계상 각 지표를 지자체 인구 규모별로 비교하고 추이를 살펴봄으로써 인구가 부족한 지역일수록 총괄원가 상승, 누수율 증대 등 지방상수도 지속가능성에 지표가 불리하게 나타나고 그 격차는 점점 더 심화되고 있음을 확인\r\n\r\n- 헌법, 관련 법, 국제 협약 등을 참고하여 지방분권시대 기초지자체가 수도사업자로서 지속 기능하려면 국가의 정수 보급책임 강화 및 지원 확대와 기초지자체 간 연계·통합을 위한 광역지자체의 역할을 확대할 필요가 있음을 제시\r\n\r\n- 지자체 맞춤형 정책 수단 발굴을 위하여 1단계로 시설지표(누수율, 경년관비율, 총괄원가), 재정지표(자본수입비중, 소멸위험지수, 급수인구)를 통해 전국 161개 지자체 중 세부유형화 대상 69개 지자체를 선별했으며, 2단계로 공급지표(권역통합 가능성, 광역상수도 의존도)를 통해 4가지 유형으로 분류 후 적정 사업구조를 제안함.\r\n · (유형 ①) 주로 산간지역에 위치한 18개 지자체로 통합 후 조합 설립 등 자체 운영이 적정\r\n · (유형 ②) 주로 자체 취수원이 부족한 23개 지자체로, 도직영 또는 통합위탁이 적정\r\n · (유형 ③) 주로 계통 상 연계가 낮은 16개 지자체로, 국고보조 및 지원확대가 적정\r\n · (유형 ④) 주로 광역의존도가 높은 12개 지자체로, 개별위탁 또는 대도시연계가 적정？\r\n\r\n- [정책방안] ① (지역 간 균형발전을 위한 형평성) 지방상수도 관련 주민 간, 지역 간 형평성을 제고하기 위한 보급정책, 요금정책, 주민참여 등에 대해 법·제도 개선방안 제시 \r\n ② (재정건전화를 위한 효율성) 지자체 재정건전성과 상수도시설 노후화를 고려한 국고지원사업 내용, 요금·원가 산정 방식 등에 대해 법·제도 개선방안 제시  ③ (지방상수도 사업구조 다각화) 지자체 주도의 지속가능한 지방상수도사업 운영을 위한 권역별 통합·위탁 등 사업구조 다각화에 대한 정책 수단 검토 및 방향 제시",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162008",
+          "publishedOn": "2022-01-24T12:08:15.509Z",
+          "wordCount": 526,
+          "title": "인구감소와 지방분권시대, 지방상수도정책 개선방안"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162005",
+          "author": null,
+          "description": "한국무역협회가 「성장하는 펫케어 산업 최신트렌드와 우리 기업의 글로벌 경쟁력 강화 방안」을 발표하였다.\r\n\r\n- 펫케어 산업이 국내외 소비시장의 신성장동력으로 부상하고 있음. 1인가구의 증가, 고령화 등 세계 인구 구조의 변화로 반려동물 양육 인구가 증가하고, 반려동물을 가족처럼 생각하는 문화가 확산되면서 펫케어 산업의 양적·질적 성장은 더욱 가속화될 전망임.\r\n\r\n- 코로나19로 인해 위축된 경기에도 불구하고 글로벌 펫케어 시장은 지속적으로 성장하여 2020년에는 전년대비 6.9% 증가한 1,421억 달러를 기록했음. 시장 규모의 확대와 함께 생태계 전반의 변화도 눈에 띔. 그동안 펫케어 시장의 발전을 이끌어왔던 선진국의 성장세가 둔화되고 중국·브라질 등 신흥시장이 부상하고 있으며, 다국적 기업의 높은 시장지배력을 뚫고 혁신적 아이디어와 기술로 무장한 로컬 기업과 스타트업의 시장 진출이 확대되고 있음.\r\n\r\n- 국내 시장도 급속도로 확장되고 있음. 2020년 국내 반려동물 양육가구 비중은 27.7%에 달하며, 펫케어 시장은 2016~2020년까지 연평균 증가율 8.4%를 기록했음. 국내 펫케어용품 시장의 특징은 스타트업을 포함한 개인 및 중소기업이 산업 생태계의 발전을 주도하고 있다는 점으로, 관련 특허 출원인 분석 결과 대기업은 2%에 불과한 반면 개인 및 중소기업의 비중은 88%에 달하는 것으로 나타났음.\r\n\r\n- 최근 세계 펫케어 시장을 주도하는 키워드는 반려동물의 가족화를 의미하는 펫휴머니제이션(Pet-Humanization), IoT·AI 등 첨단 기술을 접목시킨 펫테크(Pet-Tech), 빠른 진단과 진료를 제공하는 혁신적인 동물의료(veterinary)임. 사람이 먹는 재료로 만든 식품, 멀리 있어도 반려동물의 위치와 생활습관을 체크할 수 있는 웨어러블 기기, 디지털기술과 빅데이터를 통해 질병 위험을 간편하게 미리 진단하고 아플 때는 화상 상담을 통해 원격 진료하는 서비스까지 다양한 분야에서 제품과 서비스가 고도화되고 있음.\r\n\r\n- 성장하고 있는 세계 펫케어 시장은 독창성과 우수한 기술력으로 무장한 우리 기업들의 새로운 무대가 될 수 있을 것임. 국내 기업의 글로벌 경쟁력 강화를 위해서는 첫째, 펫케어 시장 트렌드를 반영한 제품과 서비스의 개발에 힘써야 함. 둘째, 소비자의 페인포인트(Pain Point, 소비자가 불편을 느끼는 지점)를 면밀히 분석하고 솔루션을 도출하여 차별화 전략으로 삼아야 함. 셋째, 제품과 서비스의 융합을 통해 고객가치를 확대해야 한다. 마지막으로, 선진국 및 신흥국 각각의 특성에 맞는 해외진출 로드맵을 마련해야 함.\r\n\r\n- 아울러 정부는 국내 펫케어 산업을 적극적으로 육성하고, 실효성 높은 지원책 마련을 통해 우리 기업의 글로벌 경쟁력 강화를 지원해야 함. 이를 위해서는 무엇보다 펫케어 산업 관련 명확한 국내 수급과 수출입 현황 파악을 위한 통계 정비가 선행되어야 함. 이와 더불어 혁신제품의 국내 상용화를 저해하는 규제에 대한 신속한 대응과 해외진출의 가장 큰 애로사항으로 꼽히는 해외시장 인증 취득 및 현지 고객응대 등에 대한 보다 적극적인 지원 방안을 마련해야 할 것으로 보임.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162005",
+          "publishedOn": "2022-01-24T12:08:15.487Z",
+          "wordCount": 526,
+          "title": "성장하는 펫케어 산업 최신트렌드와 우리 기업의 글로벌 경쟁력 강화 방안"
         }
       ]
     }
