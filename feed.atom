@@ -1,136 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-07T12:09:01.451Z</id>
+    <id>urn:2022-02-07T15:04:13.473Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-02-07T12:09:01.451Z</updated>
+    <updated>2022-02-07T15:04:13.473Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[When is TSLS Actually LATE?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162263</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162263"/>
-        <updated>2022-02-07T12:08:50.084Z</updated>
-        <summary type="html"><![CDATA[Linear instrumental variable estimators, such as two-stage least squares (TSLS), are commonly interpreted as estimating positively weighted averages of causal effects, referred to as local average treatment effects (LATEs). We examine whether the LATE interpretation actually applies to the types of TSLS specifications that are used in practice. We show that if the specification includes covariates, which most empirical work does, then the LATE interpretation does not apply in general. Instead, the TSLS estimator will in general reflect treatment effects for both compliers and always/never-takers, and some of the treatment effects for the always/never-takers will necessarily be negatively weighted. We show that the only specifications that have a LATE interpretation are ＂saturated＂ specifications that control for covariates nonparametrically, implying that such specifications are both sufficient and necessary for TSLS to have a LATE interpretation, at least without additional parametric assumptions. This result is concerning because, as we document, empirical researchers almost never control for covariates nonparametrically, and rarely discuss or justify parametric specifications of covariates. We develop a decomposition that quantifies the extent to which the usual LATE interpretation fails. We apply the decomposition to four empirical analyses and find strong evidence that the LATE interpretation of TSLS is far from accurate for the types of specifications actually used in practice.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Returns to Innovation in East Asia : The Role of the Business Environment and Firms’ Characteristics]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162284</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162284"/>
-        <updated>2022-02-07T12:08:49.898Z</updated>
-        <summary type="html"><![CDATA[The paper studies the relationship between innovation efforts, innovation outputs, and productivity, using firm-level data from six East Asian countries. Firms are more likely to invest in innovation when they use technology licensed by a foreign company, are part of a large group, and have a more educated workforce. Investment in research and development can significantly boost both product and process innovation. Product innovation yields significant productivity gains. However, productivity gains from process innovation are not detectable in the sample.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two-Way Fixed Effects and Differences-in-Differences with Heterogeneous Treatment Effects: A Survey]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162267</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162267"/>
-        <updated>2022-02-07T12:08:49.884Z</updated>
-        <summary type="html"><![CDATA[Linear regressions with period and group fixed effects are widely used to estimate policies‘ effects: 26 of the 100 most cited papers published by the American Economic Review from 2015 to 2019 estimate such regressions. It has recently been show that those regressions may produce misleading estimates, if the policy‘s effect is heterogeneous between groups or over time, as is often the case. This survey reviews a fast-growing literature that documents this issue, and that proposes alternative estimators robust to heterogeneous effects.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Handbook on the Use of Mobile Phone Data for Official Statistics]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162261</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162261"/>
-        <updated>2022-02-07T12:08:49.860Z</updated>
+        <updated>2022-02-07T15:03:43.008Z</updated>
         <summary type="html"><![CDATA[Mobile phone data has surfaced in recent years as one of the big data sources with great promise for its use in official statistics. There is an expectation that mobile phone data could fill data gaps especially for developing countries given their high penetration rates. The Task Team on Mobile Phone Data has been reviewing the development in the use of mobile phone data for official statistics and drafted this guide to give elaborations for countries which are in the process of designing a project for using mobile phone data for their official statistics or are in the implementation process. The guide comprises four chapters (Applications, Data sources, Access to mobile phone data and partnership models, Methods), followed up by two country case studies.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recognition and enforcement of foreign judgments on civil liability for nuclear damage]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162280</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162280"/>
-        <updated>2022-02-07T12:08:49.789Z</updated>
-        <summary type="html"><![CDATA[Viewed from a general, global perspective, the recognition and enforcement of foreign judgments is not the rule. On the contrary, it generally requires a specific legal basis and justification that a country accepts the rulings of courts of other states and treats them like its own decisions. The main basis for such treatment is most often an international treaty or a supranational instrument (like, for instance, the Brussels Ibis Regulation1 or the revised Lugano Convention of 20072) that provides for the mutual acceptance of foreign court decisions among the states adhering to the respective instrument. In the absence of a specific bilateral or multilateral treaty or supranational instrument, the states autonomously formulate the conditions under which they recognise and enforce foreign judgments. In this respect, some countries follow a more generous, others a more restrictive, course. But, countries do not recognise foreign judgments without preconditions;3 every country provides for a certain type of control. Some, for instance, adhere to the principle of reciprocity. These countries recognise and enforce judgments of other countries only if the other country recognises and enforces their decisions...]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Drives U.S. Corporate Elites‘ Campaign Contribution Behavior?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162257</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162257"/>
-        <updated>2022-02-07T12:08:49.772Z</updated>
-        <summary type="html"><![CDATA[Do U.S. corporate elites contribute to political campaigns purely motivated by ideological considerations ？?? as typically assumed by the literature on individual donors‘ drivers of contributions ？?? or are their donations also a tool of political influence? I investigate this question using a new panel on the contributions to members of U.S. Congress (MCs) by 401,557 corporate leaders of 14,807 U.S. corporations over the 1999-2018 period. I show that donations increase by 11% when a politician is assigned to a committee dealing with policy issues relevant to a corporate leader‘s company. The effect is driven by donations to MCs with the greatest power in the committees. The estimates suggest that (i) 13% of the observed gap in corporate leaders‘ donations to policy relevant versus other MCs is driven by an influence-seeking motive, and (ii) the total corporate leaders‘ donations that are driven by the influence-seeking motive are about 53% of the overall donations by their companies‘ PACs to all MCs over the same period.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addressing Endogeneity Using a Two-stage Copula Generated Regressor Approach]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162264</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162264"/>
-        <updated>2022-02-07T12:08:49.760Z</updated>
-        <summary type="html"><![CDATA[A prominent challenge when drawing causal inference using observational data is the ubiquitous presence of endogenous regressors. The classical econometric method to handle regressor endogeneity requires instrumental variables that must satisfy the stringent condition of exclusion restriction, making it infeasible to use in many settings. We propose new instrument-free methods using copulas to address the endogeneity problem. The existing copula correction method focuses only on the endogenous regressors and may yield biased estimates when exogenous and endogenous regressors are correlated. Furthermore, (nearly) normally distributed endogenous regressors cause model non-identification or finite-sample poor performance. Our proposed two-stage copula endogeneity correction (2sCOPE) method simultaneously overcomes the two key limitations and yields consistent causal-effect estimates with correlated endogenous and exogenous regressors as well as normally distributed endogenous regressors. 2sCOPE employs generated regressors derived from existing regressors to control for endogeneity, and is straightforward to use and broadly applicable. Moreover, we prove that exploiting correlated exogenous regressors can address the problem of insufficient regressor non-normality, relax identification requirements and improve estimation precision (by as much as ∼50% in empirical evaluation). Overall, 2sCOPE can greatly increase the ease of and broaden the applicability of instrument-free methods for dealing with regressor endogeneity. We demonstrate the performance of 2sCOPE via simulation studies and an empirical application.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intergovernmental organisation activities]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162278</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162278"/>
-        <updated>2022-02-07T12:08:49.752Z</updated>
-        <summary type="html"><![CDATA[Published twice a year, the Nuclear Law Bulletin covers legislative developments in almost 60 countries around the world as well as reporting on relevant jurisprudence and administrative decisions, bilateral and international agreements and regulatory activities of international organisations. Each issue typically includes the following sections: Articles, Case Law, National Legislative and Regulatory Activities, International Regulatory Activities, Agreements, News Briefs, and a Supplement.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numeracy, Nutrition and Schooling Efficiency in Sub-Saharan Africa ― 1950 to 2000]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162258</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162258"/>
-        <updated>2022-02-07T12:08:49.733Z</updated>
-        <summary type="html"><![CDATA[School enrolment has increased at an unprecedented scale in Sub-Saharan Africa, but the expected economic development did not materialize. Therefore, focusing on mathematical skills, we provide estimates for basic numerical abilities of the general population born between 1950 and 2000, assess the efficiency of the educational system and a potential determinant. Our database combines several large surveys (IPUMS, MICS, DHS and Afrobarometer). We find that the spatial distribution of numeracy and schooling efficiency has remained very constant over time. As school feeding programs are highly popular as a development policy while being contested, we focus our analysis of determinants on children‘s health. Our baseline OLS model indicates a positive relationship, and these results are confirmed by an instrumental variable approach suggesting a causal link. Thus, our results provide support for school feeding interventions and can provide a long-term perspective on this question.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monetary Policy during Unbalanced Global Recoveries]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162260</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162260"/>
-        <updated>2022-02-07T12:08:49.721Z</updated>
-        <summary type="html"><![CDATA[We study  optimal monetary policy during times of exceptionally high global demand for tradable goods, relative to non-tradable services. The optimal monetary response entails a rise in inflation, which helps rebalance production toward the tradable sector.  While the inflation costs are fully beared domestically, however, part of the gains in terms of higher supply of tradable goods spill over to the rest of the world. National central banks may thus fall into a coordination trap, and implement an excessively tight monetary policy during tradable goods-driven recoveries.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Goldilocks Theory of Fiscal Deficits]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162265</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162265"/>
-        <updated>2022-02-07T12:08:49.280Z</updated>
-        <summary type="html"><![CDATA[This paper proposes a tractable framework to analyze fiscal space and the dynamics of government debt, with a possibly binding zero lower bound (ZLB) constraint. Without the ZLB, a greater primary deficit unambiguously raises debt. However, debt need not explode: When R < G ？ φ, where φ is the sensitivity of R ？ G to debt, a modest permanent increase in the deficit can be sustained forever, a policy we call “free lunch”. With the ZLB, the relationship between deficit and debt can become non-monotone. Both high and low deficits can increase debt, as the latter weaken demand and reduce nominal growth at the ZLB. A rise in income inequality expands fiscal space outside the ZLB, but contracts it at the ZLB. Calibrating the model, we find little space for “free lunch” policies for the United States in 2019, but ample space for Japan.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public Debt Reporting in Developing Countries]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162279</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162279"/>
-        <updated>2022-02-07T12:08:49.242Z</updated>
-        <summary type="html"><![CDATA[More than 20 developing countries do not publish any data on their sovereign debt. In those that do disclose data, public debt statistics usually do not comply with international standards in terms of coverage and definitions. Some information can be deduced through indirect disclosure of debt statistics to external agents, such as the World Bank and the International Monetary Fund, and this can help minimize data gaps. This paper has two main objectives. First, it measures the extent of transparency in direct reporting and identifies the factors that promote it. The results show that debt transparency is fostered by standardized recording and reporting systems, high levels of external scrutiny (for example, Eurobond issuance and ratings), and the presence of highly skilled staff at the local debt office. Second, the paper describes the reporting ecosystem in which two type of channels (direct and indirect) coexist and provides novel estimates of the data gaps across the two. Cross-comparison of direct reporting and the World Bank？International Monetary Fund Debt Sustainability Analysis shows that deviations in public debt stocks can represent up to 30 percent of national gross domestic product. Based on these results, the paper puts forward a call for action to (i) improve debt transparency by focusing on those factors that best promote transparency; (ii) shifting the focus of multilateral development banks’ operations and technical assistance from indirect to direct reporting; (iii) introducing minimum but enforceable international standards for direct reporting; and (iv) promoting the use of modern and integrated debt recording and reporting systems.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a more Resilient and Low-Carbon Caribbean - Report 1: Climate Resiliency and Building Materials in the Caribbean]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162277</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162277"/>
-        <updated>2022-02-07T12:08:49.225Z</updated>
-        <summary type="html"><![CDATA[The Caribbean islands are among the 25 most-vulnerable nations in terms of disasters per-capita or land area, and climate change is only expected to intensify these vulnerabilities. The loss caused by climate events drags the ability of the Caribbean countries to invest in infrastructure and social programs, contributing to slower productivity growth, poorer health outcomes, and lower standards of living. Within this context, building resiliency should become a priority for the Caribbean countries. The series “Building a more resilient and low-carbon Caribbean”, focuses on improving the resiliency, sustainability and decarbonization of the construction industry in the Caribbean. The results show that increasing building resiliency is economically viable for the high-risk islands of the Caribbean, generating long term savings and increasing the infrastructure preparedness to the impacts of CC. Report 1 - Climate Resiliency and Building Materials in the Caribbean, presents a quantification of the economic losses caused by climate impact events in the Caribbean Region and correlate these figures with the most common construction materials, typically used in each of the countries building typologies. The losses caused by hurricanes concentrate mostly in the residential infrastructure and are mainly caused by weaknesses in roofs and their connection to the walls. The analysis suggests that improving the resiliency of outer walls and roofs in the Caribbean could significantly reduce the regions vulnerability to hurricanes and other climate impacts.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -139,58 +19,18 @@
         <title type="html"><![CDATA[Where’s the pork in the surge in recent pork prices? Maybe nowhere, and not in the meatpacking industry]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162282</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162282"/>
-        <updated>2022-02-07T12:08:49.181Z</updated>
+        <updated>2022-02-07T15:03:42.962Z</updated>
         <summary type="html"><![CDATA[Prices for pork and other meat products have increased faster than the economy-wide rate of inflation in 2021, prompting a debate over concentration in the meatpacking industry. However, pork and hog prices have been volatile for decades, and a rush to judgment about the causes of high retail costs should be avoided. Recently, retail markups over wholesale prices have increased rapidly, while wholesale markups over prices paid to farmers for their hogs have changed little and in December 2021 were lower than in January and February 2021―scarcely evidence of more-extensive use of market power by pork meatpackers. The grocery industry is highly competitive, and, like many other consumer goods, retail prices for pork products were affected by higher transportation and labor costs, strong consumer demand, and―late in 2021―a modest decline in the supply of hogs from the farm.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improved Trade Balance with the European Union Raises Challenging Brexit Questions]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162262</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162262"/>
-        <updated>2022-02-07T12:08:49.155Z</updated>
-        <summary type="html"><![CDATA[There has been a significant improvement in the UK’s net trade performance with the European Union (EU) since the 2016 Brexit vote. The previous negative trend in the real net trade balance with EU has not only stopped but is improving. In 2015 and 2016, the overall trade balance was in deficit by ？30 billion and ？33billion, respectively. In 2017 and 2018, the deficit was slightly smaller, at ？26 billion and ？28 billion, with a fall to under ？21 billion in 2019. In 2020, the year of Brexit and Covid-19, there was a surplus of ？3 billion, and in the first eleven months of 2021 a deficit re-emerged, running at an annual rate of ？21 billion. In 2020 and 2021 taken together, the trade balance looks likely to average a deficit of ？10 billion a year, compared with a deficit three times as large before Brexit. A plausible reason for these developments is that the Brexit vote led to a sharp sterling depreciation, making the UK significantly more competitive while crimping domestic demand. However, Covid-19 and a dramatic drop in the EU’s overall trade balance are also likely important influences.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoins: Growth Potential and Impact on Banking]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162271</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162271"/>
-        <updated>2022-02-07T12:08:49.123Z</updated>
-        <summary type="html"><![CDATA[Stablecoins have experienced tremendous growth in the past year, serving as a possible breakthrough innovation in the future of payments. In this paper, we discuss the current use cases and growth opportunities of stablecoins, and we analyze the potential for stablecoins to broadly impact the banking system. The impact of stablecoin adoption on traditional banking and credit provision can vary depending on the sources of inflow and the composition of stablecoin reserves. Among the various scenarios, a two-tiered banking system can both support stablecoin issuance and maintain traditional forms of credit creation. In contrast, a narrow bank approach for digital currencies can lead to disintermediation of traditional banking, but may provide the most stable peg to fiat currencies. Additionally, dollar-pegged stablecoins backed by adequately safe and liquid collateral can potentially serve as a digital safe haven currency during periods of crypto market distress.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capital Structure and Hedging Demand with Incomplete Markets]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162259</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162259"/>
-        <updated>2022-02-07T12:08:49.093Z</updated>
-        <summary type="html"><![CDATA[In this paper we study the role played by hedging demand in shaping firms‘ capital structure.  We develop and study a general equilibrium model with production and incomplete markets where households differ in their risk-sharing needs. Value-maximizing firms cater to these different needs when choosing their leverage, their size, and possibly the risk profile of their production technology. We find that as the demand for hedging increases, firms issue more debt and destine only part of the greater proceeds to investment - the remainder going to shareholders. How much more debt, depends on the availability of competing risk-sharing instruments, such as (government-issued) risk-free debt and derivatives. When the capital structure is jointly shaped by hedging demand and agency - in the form of an asset-substitution problem - the greater risk induced by asymmetric information has countervailing effects on debt: on the one hand, debt is reduced to nudge shareholders into choosing lower risk. This is the standard asset substitution effect. On the other hand, however, the greater risk in production affects the state prices and calls for more debt.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How has educational attainment influenced the labour market outcomes of native- and foreign-born adults?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162281</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162281"/>
-        <updated>2022-02-07T12:08:49.063Z</updated>
-        <summary type="html"><![CDATA[The labour market outcomes for native- and foreign-born adults during the first year of the COVID-19 pandemic vary considerably across countries ？ with inequalities in employment even falling in some cases compared to 2017. In contrast with the 2008 financial crisis, greater educational attainment does not seem to have had a clear protective effect against labour market adversities during the pandemic. This is most likely due to countries’ quick action to mitigate the economic impact of the pandemic and the high involvement of workers with low qualifications to maintain essential services during prolonged confinement periods. However, in some countries, inequalities in earnings were widening before the pandemic and unless appropriate measures are put in place, the economic effects of the current crisis may have a long-lasting negative effect on the integration of immigrants.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate Impacts on South and Southeast Asian Hydropower]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162276</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162276"/>
-        <updated>2022-02-07T12:08:49.035Z</updated>
-        <summary type="html"><![CDATA[Hydropower accounts for 14.5% of total electricity generation in South and Southeast Asia, with a total hydropower installed capacity of 117 GW. The installed hydropower capacity is expected to grow further in order to meet the region’s growing electricity demand and electricity export opportunities, and to maximise the merits of a cost-effective and flexible low-carbon power source. However, climate change poses an increasing challenge to South and Southeast Asian hydropower with rising temperatures, extreme rainfall patterns, melting glaciers, and increasing occurrence of extreme weather events. This report aims to support South and Southeast Asian hydropower in coping with the adverse impacts of climate change and in developing a tailored set of climate resilience measures based on a comprehensive assessment of climate risks and impacts. This report qualitatively assesses climate risks to South and Southeast Asian hydropower and quantitatively examines potential climate impacts, comparing three climate scenarios. Based on the assessment, it identifies measures to enhance climate resilience and provides policy recommendations.]]></summary>
+        <title type="html"><![CDATA[Numeracy, Nutrition and Schooling Efficiency in Sub-Saharan Africa ― 1950 to 2000]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162258</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162258"/>
+        <updated>2022-02-07T15:03:42.893Z</updated>
+        <summary type="html"><![CDATA[School enrolment has increased at an unprecedented scale in Sub-Saharan Africa, but the expected economic development did not materialize. Therefore, focusing on mathematical skills, we provide estimates for basic numerical abilities of the general population born between 1950 and 2000, assess the efficiency of the educational system and a potential determinant. Our database combines several large surveys (IPUMS, MICS, DHS and Afrobarometer). We find that the spatial distribution of numeracy and schooling efficiency has remained very constant over time. As school feeding programs are highly popular as a development policy while being contested, we focus our analysis of determinants on children‘s health. Our baseline OLS model indicates a positive relationship, and these results are confirmed by an instrumental variable approach suggesting a causal link. Thus, our results provide support for school feeding interventions and can provide a long-term perspective on this question.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -199,147 +39,97 @@
         <title type="html"><![CDATA[How have women’s participation and fields of study choice in higher education evolved over time?]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162283</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162283"/>
-        <updated>2022-02-07T12:08:49.011Z</updated>
+        <updated>2022-02-07T15:03:42.876Z</updated>
         <summary type="html"><![CDATA[Women’s participation in higher education has overtaken men’s. However, women have been historically under-represented in some fields and continue to be so: they predominate in education,and health and welfare as their main fields of study, while men predominate in science, technology, engineering and mathematics. Whatever field of study they choose, however, women’s earnings still lag behind men’s in all fields and in all OECD and partner countries.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021년 기업금융시장 분석 및 2022년 전망]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162211</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162211"/>
-        <updated>2022-02-07T12:08:48.907Z</updated>
-        <summary type="html"><![CDATA[KDB미래전략연구소가 『2021년 기업금융시장 분석 및 2022년 전망』을 발표하였다.
-
-- 2019년 미국의 Business Roundtable 연례회의에서 ESG(Environmental, Social, and Governance)의 중요성이 주목받은 이후 주요 국가를 중심으로 관련 규제 도입 및 기업들의 대응이 이뤄지고 있음. 글로벌 제약사들은 자사의 ESG 원칙을 공급망 내 기업들에게 적용하기 위한 행보를 시작하였고, 각국의 규제기관은 ESG 관리가 미흡한 기업에게 제재를 가할 예정임.
-
-- 한국 제약바이오산업은 2020년 사상 첫 무역수지 흑자를 기록하며 10조원에 육박하는 수출 실적을 달성하였으며, 정부에서도 바이오산업을 차세대 먹거리로 낙점하고 정책적 지원을 시행 중임. 또한 국내 주요 기업들이 연이어 의약품 사업에 진출함에 따라 의약품 수출의 중요성이 더욱 높아지고 있음. 이러한 상황에서 ESG 경영의 도입은 한국이 글로벌 제약바이오 시장에서의 경쟁력을 향상시킬 수 있는 좋은 기회임.
-
-- 국내 제약바이오산업은 ESG 경영 도입 초기로, 일부 대형 제약사를 제외한 대부분의 기업들이 ESG 도입 준비 단계에 있음. 다수의 기업들이 ESG 전담부서 신설, 관련 인증 획득 추진 등의 노력을 기울이고 있으며, 주요 기업의 대응사례및 관련지침이 발표되고 있어 기업들의 대응에 도움이 될 전망임. 본 보고서에서는 ESG 제도 및 평가의 해외 동향 및 국내외 제약사들의 ESG 대응 현황을 짚어보고, 이를 바탕으로 국내 제약사들이 고려해야 할 사항 들을 제시하였음.]]></summary>
+        <title type="html"><![CDATA[Addressing Endogeneity Using a Two-stage Copula Generated Regressor Approach]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162264</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162264"/>
+        <updated>2022-02-07T15:03:42.868Z</updated>
+        <summary type="html"><![CDATA[A prominent challenge when drawing causal inference using observational data is the ubiquitous presence of endogenous regressors. The classical econometric method to handle regressor endogeneity requires instrumental variables that must satisfy the stringent condition of exclusion restriction, making it infeasible to use in many settings. We propose new instrument-free methods using copulas to address the endogeneity problem. The existing copula correction method focuses only on the endogenous regressors and may yield biased estimates when exogenous and endogenous regressors are correlated. Furthermore, (nearly) normally distributed endogenous regressors cause model non-identification or finite-sample poor performance. Our proposed two-stage copula endogeneity correction (2sCOPE) method simultaneously overcomes the two key limitations and yields consistent causal-effect estimates with correlated endogenous and exogenous regressors as well as normally distributed endogenous regressors. 2sCOPE employs generated regressors derived from existing regressors to control for endogeneity, and is straightforward to use and broadly applicable. Moreover, we prove that exploiting correlated exogenous regressors can address the problem of insufficient regressor non-normality, relax identification requirements and improve estimation precision (by as much as ∼50% in empirical evaluation). Overall, 2sCOPE can greatly increase the ease of and broaden the applicability of instrument-free methods for dealing with regressor endogeneity. We demonstrate the performance of 2sCOPE via simulation studies and an empirical application.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[22.2월] 국제원자재시장: 지정학적 불안으로 공급 불확실성 지속 전망]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162244</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162244"/>
-        <updated>2022-02-07T12:08:48.886Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘[22.2월] 국제원자재시장: 지정학적 불안으로 공급 불확실성 지속 전망’을 발표하였다.
-
-- [국제원자재가격지수] 1월 에너지, 농산물, 비철금속 부문 등 대부분 상승(전월말 대비)
- · 에너지 비중이 높은 S&P GSCI(S&P Goldman Sachs Commodity Index) 지수는 11.2% 상승(하위 부문별로 에너지 +17.0%, 농산물 +4.4%, 산업금속 +2.5%, 귀금속 -2.0%, 축산물 +5.9% 등).
- · CRB(Commodity Research Bureau Index) 지수는 9.8% 상승. 美 천연가스(+30.7%), 브렌트(+17.3%), WTI(+17.2%), 휘발유(+14.6%), 두바이(+14.4%) 등에너지 전품목 상승. 대두(+12.2%), 옥수수(+5.5%)와 주석(+10.7%), 알루미늄·니켈(+7.6%)도 큰 폭 상승
-
-- [전망] 오미크론 변이 확산에 따른 공급망 차질에 러시아-우크라이나 갈등이 가세하며 공급측면에서의 불확실성으로 당분간 원자재가격 강세가 지속될 전망
- · 유가: 글로벌 원유수요 회복세가 양호하고 러시아-우크라이나 갈등에 따른 공급 불확실성도 높아 당분간 강세기조를 유지할 전망. 타이트한 수급 여건 속에서 對러 제재 가능성, 산유국  여유생산능력 감소 등으로 일각에서는 $100 돌파 전망 제기
- · 곡물價: 강세기조가 유지되는 가운데 남미 수확, 러시아-우크라이나 사태 등에 따라 변동성 확대 예상. 북미지역의 건조한 기후, 브라질·아르헨티나 가뭄, 견조한 글로벌 수요 등 강세요인들이 건재
- · 비철금속價 : 금년에는 지난해보다 수요 증가율이 다소 둔화될 것이나, 전력 등 에너지 부족에 따른 생산비용 상승으로 제련소 공급능력은 제한될 것으로 보여 주요 비철금속 가격은 당분간높은 수준을 유지할 전망]]></summary>
+        <title type="html"><![CDATA[Building a more Resilient and Low-Carbon Caribbean - Report 1: Climate Resiliency and Building Materials in the Caribbean]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162277</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162277"/>
+        <updated>2022-02-07T15:03:42.775Z</updated>
+        <summary type="html"><![CDATA[The Caribbean islands are among the 25 most-vulnerable nations in terms of disasters per-capita or land area, and climate change is only expected to intensify these vulnerabilities. The loss caused by climate events drags the ability of the Caribbean countries to invest in infrastructure and social programs, contributing to slower productivity growth, poorer health outcomes, and lower standards of living. Within this context, building resiliency should become a priority for the Caribbean countries. The series “Building a more resilient and low-carbon Caribbean”, focuses on improving the resiliency, sustainability and decarbonization of the construction industry in the Caribbean. The results show that increasing building resiliency is economically viable for the high-risk islands of the Caribbean, generating long term savings and increasing the infrastructure preparedness to the impacts of CC. Report 1 - Climate Resiliency and Building Materials in the Caribbean, presents a quantification of the economic losses caused by climate impact events in the Caribbean Region and correlate these figures with the most common construction materials, typically used in each of the countries building typologies. The losses caused by hurricanes concentrate mostly in the residential infrastructure and are mainly caused by weaknesses in roofs and their connection to the walls. The analysis suggests that improving the resiliency of outer walls and roofs in the Caribbean could significantly reduce the regions vulnerability to hurricanes and other climate impacts.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[현지정보] 2022년 2월 ECB 통화정책회의 결과]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162243</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162243"/>
-        <updated>2022-02-07T12:08:48.849Z</updated>
-        <summary type="html"><![CDATA[한국은행이 『[현지정보] 2022년 2월 ECB 통화정책회의 결과』를 발표하였다.
-
-- ECB는 2.3일 개최된 정책위원회 회의에서 정책금리는 동결하고 팬데믹 긴급매입프로그램(PEPP) 순매입 조치는 3월말 종료하며 자산매입프로그램(APP) 순매입 규모는 2/4분기(월 400억 유로) 및 3/4분기중(월 300억 유로) 일시 확대(현재 월 200억 유로)하기로 한 종전 결정(2021.12월)을 유지
-
-- 실물경제 및 물가, 금융시장 상황 등과 관련하여 유로지역 경기는 노동시장 개선, 가계소득 증가, 글로벌 경기회복, 확장적 통화·재정정책 등에 힘입어 내수를 중심으로 금년중 강한 회복세를 보이겠으며, 인플레이션은 높은 상승률이 예상보다 장기간 이어지겠으나 오름세는 금년중 둔화될 전망. 금융시장은 은행 대출금리가 낮은 수준을 유지하고 기업대출이 증가하는 등 우호적 금융여건이 유지되고 있는 것으로 판단]]></summary>
+        <title type="html"><![CDATA[Recognition and enforcement of foreign judgments on civil liability for nuclear damage]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162280</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162280"/>
+        <updated>2022-02-07T15:03:42.746Z</updated>
+        <summary type="html"><![CDATA[Viewed from a general, global perspective, the recognition and enforcement of foreign judgments is not the rule. On the contrary, it generally requires a specific legal basis and justification that a country accepts the rulings of courts of other states and treats them like its own decisions. The main basis for such treatment is most often an international treaty or a supranational instrument (like, for instance, the Brussels Ibis Regulation1 or the revised Lugano Convention of 20072) that provides for the mutual acceptance of foreign court decisions among the states adhering to the respective instrument. In the absence of a specific bilateral or multilateral treaty or supranational instrument, the states autonomously formulate the conditions under which they recognise and enforce foreign judgments. In this respect, some countries follow a more generous, others a more restrictive, course. But, countries do not recognise foreign judgments without preconditions;3 every country provides for a certain type of control. Some, for instance, adhere to the principle of reciprocity. These countries recognise and enforce judgments of other countries only if the other country recognises and enforces their decisions...]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECB의 ’22년 자산매입 종료 및 금리인상 가능성 점증]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162240</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162240"/>
-        <updated>2022-02-07T12:08:48.839Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『ECB의 ’22년 자산매입 종료 및 금리인상 가능성 점증』을 발표하였다.
-
-- [이슈] 유럽중앙은행(ECB)은 2.3일 통화정책회의에서 고물가 장기화로 인해 테이퍼링, 금리 인상 등 통화긴축을 가속할 가능성을 시사, 향후 통화정책 정상화 경로를 점검할 필요
-
-- [회의결과] 주요 정책사항은 기존 방침을 유지했지만 인플레이션 상방위험으로 조기 자산매입 종결 및 금리인상 가능성을 시사
-
-- [전망] 물가 상방위험이 단기내 해소되기는 어렵기 때문에 ECB의 통화긴축 기조가 강화 되는 가운데 테이퍼링 속도 가속, 연내 금리인상 가능성 점증
-
-- [영향] ECB의 통화긴축 경로에 대한 금융시장의 재평가는 금리, 환율, 자산가격 전반의 변동성 확대, 이탈리아 등 주변국 취약성 부각, 글로벌 마이너스 채권 축소로 이어질 전망]]></summary>
+        <title type="html"><![CDATA[Two-Way Fixed Effects and Differences-in-Differences with Heterogeneous Treatment Effects: A Survey]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162267</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162267"/>
+        <updated>2022-02-07T15:03:42.471Z</updated>
+        <summary type="html"><![CDATA[Linear regressions with period and group fixed effects are widely used to estimate policies‘ effects: 26 of the 100 most cited papers published by the American Economic Review from 2015 to 2019 estimate such regressions. It has recently been show that those regressions may produce misleading estimates, if the policy‘s effect is heterogeneous between groups or over time, as is often the case. This survey reviews a fast-growing literature that documents this issue, and that proposes alternative estimators robust to heterogeneous effects.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Fund Flow] 글로벌 펀드자금, 주식 유입 지속, 채권 4주 연속 유출]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162241</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162241"/>
-        <updated>2022-02-07T12:08:48.821Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식 유입 지속, 채권 4주 연속 유출’을 발표하였다.
-
-- 주식펀드 유입 지속, 채권펀드 4주 연속 유출
-
-- 신흥국들의 신용위험 상승, 통화가치 상승]]></summary>
+        <title type="html"><![CDATA[How has educational attainment influenced the labour market outcomes of native- and foreign-born adults?]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162281</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162281"/>
+        <updated>2022-02-07T15:03:42.419Z</updated>
+        <summary type="html"><![CDATA[The labour market outcomes for native- and foreign-born adults during the first year of the COVID-19 pandemic vary considerably across countries ？ with inequalities in employment even falling in some cases compared to 2017. In contrast with the 2008 financial crisis, greater educational attainment does not seem to have had a clear protective effect against labour market adversities during the pandemic. This is most likely due to countries’ quick action to mitigate the economic impact of the pandemic and the high involvement of workers with low qualifications to maintain essential services during prolonged confinement periods. However, in some countries, inequalities in earnings were widening before the pandemic and unless appropriate measures are put in place, the economic effects of the current crisis may have a long-lasting negative effect on the integration of immigrants.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영란은행, 금리인상 가속 및 양적긴축 본격화]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162239</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162239"/>
-        <updated>2022-02-07T12:08:46.795Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『영란은행, 금리인상 가속 및 양적긴축 본격화』를 발표하였다.
-
-- [이슈] 영란은행(BoE)은 2.3일 통화정책회의에서 정책금리를 지난해 12월에 이어 인상하고 양적긴축(QT)을 결정
- ※ QT(Quantitative Tightening): 양적완화(QE: Quantitative Easing)와 반대로 중앙은행이 보유자산 만기도래시 재투자를 중단하거나 매각하는 방식으로 대차대조표(B/S)를 축소하는 정책
-
-- [회의결과] BoE는 정책금리를 0.25%에서 0.5%로 25bp 인상하고, 향후 만기도래 자산에 대한 재투자 중단 및 회사채 매각 등 양적긴축을 실시하기로 결정
-
-- [시장 반응] 회사채 매각 등 정책결정이 매파적으로 해석되며 영국 국채금리 급등(10년물 +11bp), 주가 0.7% 하락. 파운드화는 달러 대비 강세(0.15%), 유로화 대비 약세(-1%)
-
-- [전망] 정책금리는 `22.3분기까지 추가 50bp 인상(0.5% → 1%), 포워드가이던스에 따라 정책금리가 1% 도달한 이후 보유국채 매각도 진행될 것으로 예상
-
-- [영향] 과거 긴축사이클에 비하면 정책금리의 장기 인상폭은 크지 않겠지만 단기적으로는 정상화 가속에 따른 금융시장 변동성 확대 위험이 높다는 점에 유의할 필요]]></summary>
+        <title type="html"><![CDATA[Public Debt Reporting in Developing Countries]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162279</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162279"/>
+        <updated>2022-02-07T15:03:42.405Z</updated>
+        <summary type="html"><![CDATA[More than 20 developing countries do not publish any data on their sovereign debt. In those that do disclose data, public debt statistics usually do not comply with international standards in terms of coverage and definitions. Some information can be deduced through indirect disclosure of debt statistics to external agents, such as the World Bank and the International Monetary Fund, and this can help minimize data gaps. This paper has two main objectives. First, it measures the extent of transparency in direct reporting and identifies the factors that promote it. The results show that debt transparency is fostered by standardized recording and reporting systems, high levels of external scrutiny (for example, Eurobond issuance and ratings), and the presence of highly skilled staff at the local debt office. Second, the paper describes the reporting ecosystem in which two type of channels (direct and indirect) coexist and provides novel estimates of the data gaps across the two. Cross-comparison of direct reporting and the World Bank？International Monetary Fund Debt Sustainability Analysis shows that deviations in public debt stocks can represent up to 30 percent of national gross domestic product. Based on these results, the paper puts forward a call for action to (i) improve debt transparency by focusing on those factors that best promote transparency; (ii) shifting the focus of multilateral development banks’ operations and technical assistance from indirect to direct reporting; (iii) introducing minimum but enforceable international standards for direct reporting; and (iv) promoting the use of modern and integrated debt recording and reporting systems.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.3 「사회복지」]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162255</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162255"/>
-        <updated>2022-02-07T12:08:46.779Z</updated>
-        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.3 「사회복지」를 발표하였다.
-
-- ’22년 사회복지 본예산은 195.0조원. 부문별 예산규모를 살펴보면, 공적연금 63.0조원(32.3%), 고용 25.9조원(13.3%), 노인 20.5조원(10.5%), 기초생활보장 16.8조원(8.6%) 등임.]]></summary>
+        <title type="html"><![CDATA[Monetary Policy during Unbalanced Global Recoveries]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162260</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162260"/>
+        <updated>2022-02-07T15:03:41.955Z</updated>
+        <summary type="html"><![CDATA[We study  optimal monetary policy during times of exceptionally high global demand for tradable goods, relative to non-tradable services. The optimal monetary response entails a rise in inflation, which helps rebalance production toward the tradable sector.  While the inflation costs are fully beared domestically, however, part of the gains in terms of higher supply of tradable goods spill over to the rest of the world. National central banks may thus fall into a coordination trap, and implement an excessively tight monetary policy during tradable goods-driven recoveries.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021년 초연결 지능화 시대 D.N.A 분야 혁신기업]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162251</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162251"/>
-        <updated>2022-02-07T12:08:46.772Z</updated>
-        <summary type="html"><![CDATA[한국지능정보사회진흥원이 「2021년 초연결 지능화 시대 D.N.A 분야 혁신기업」을 발표하였다.
-
-<목 차>
-
-1장 조사개요
-2장  D.N.A 산업 주요 현황(180대 기업)
-3장  D.N.A 주요 혁신기업 인터뷰]]></summary>
+        <title type="html"><![CDATA[When is TSLS Actually LATE?]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162263</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162263"/>
+        <updated>2022-02-07T15:03:41.574Z</updated>
+        <summary type="html"><![CDATA[Linear instrumental variable estimators, such as two-stage least squares (TSLS), are commonly interpreted as estimating positively weighted averages of causal effects, referred to as local average treatment effects (LATEs). We examine whether the LATE interpretation actually applies to the types of TSLS specifications that are used in practice. We show that if the specification includes covariates, which most empirical work does, then the LATE interpretation does not apply in general. Instead, the TSLS estimator will in general reflect treatment effects for both compliers and always/never-takers, and some of the treatment effects for the always/never-takers will necessarily be negatively weighted. We show that the only specifications that have a LATE interpretation are ＂saturated＂ specifications that control for covariates nonparametrically, implying that such specifications are both sufficient and necessary for TSLS to have a LATE interpretation, at least without additional parametric assumptions. This result is concerning because, as we document, empirical researchers almost never control for covariates nonparametrically, and rarely discuss or justify parametric specifications of covariates. We develop a decomposition that quantifies the extent to which the usual LATE interpretation fails. We apply the decomposition to four empirical analyses and find strong evidence that the LATE interpretation of TSLS is far from accurate for the types of specifications actually used in practice.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 재정통계 BRIEF No.1 「2022년 본예산」]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162253</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162253"/>
-        <updated>2022-02-07T12:08:46.764Z</updated>
+        <updated>2022-02-07T15:03:41.540Z</updated>
         <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.1 「2022년 본예산」을 발표하였다.
 
 - 2022년 본예산: 총수입 553.6조원, 총지출 607.7조원, 통합재정수지 54.1조원 적자, 국가채무 1,064.4조원]]></summary>
@@ -348,139 +138,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.4 「보건」]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162256</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162256"/>
-        <updated>2022-02-07T12:08:46.756Z</updated>
-        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.4 「보건」을 발표하였다.
-
-- ’22년 사회복지 본예산은 22.7조원. 부문별 예산규모를 살펴보면, 건강보험제도운영 11.9조원(52.4%), 보건의료 10.1조원(44.5%), 식품의약안전 0.7조원(3.1%)임.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현지정보] 22.2월 ECB 통화정책회의 결정에 대한 금융시장 반응 및 평가]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162246</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162246"/>
-        <updated>2022-02-07T12:08:46.748Z</updated>
-        <summary type="html"><![CDATA[한국은행이 『[현지정보] 22.2월 ECB 통화정책회의 결정에 대한 금융시장 반응 및 평가』를 발표하였다.
-
-- (정책결정) ① 정책금리 동결 ② 금년 3월 팬데믹 긴급매입프로그램(PEPP) 종료 ③ 자산매입프로그램(APP) 매입규모 탄력적 조정 계획* 유지
- * 월간 200억 유로인 매입규모를 2/4분기에는 월간 400억 유로로 증액하며 이후에는 단계적으로 축소(3/4분기 300억 유로, 10월 이후 200억 유로)
-
-- (기자간담회) ① 물가전망에 상방위험이 있으며 3월 전망시 이를 보다 면밀히 검토할 계획 ② 정책금리 인상은 양적완화 종료 후 가능하며 자산매입속도 조정도 3월 회의에서 논의할 예정]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인 부동산 거래에 대한 문제점과 규제 방향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162250</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162250"/>
-        <updated>2022-02-07T12:08:46.732Z</updated>
-        <summary type="html"><![CDATA[하나금융경영연구소가 「외국인 부동산 거래에 대한 문제점과 규제 방향」을 발표하였다.
-
-- 우리나라는 ’61년「외국인토지법」시행으로 외국인 토지취득을 엄격히 규제하기 시작하였으나 ’94년 일부 완화되고 ’98년 허가제에서 신고제로 전환하여 추가적 완화. ’16년「외국인토지법」폐지 이후「부동산 거래신고 등에 관한 법률」에 의거하여 통합 관리 시행 중이나 신분 변경 신고 및 보존지역 거래의 사전 허가 이외의 차별적 규제는 없음. 과거 주요 투자자는 미국교포 중심이었으나 점차 순수외국인의 투자가 늘어나고 있고 최근 기타 주거용 부동산의 매입비중이 아파트 비중보다 빠른 속도로 증가하고 있는 상황
-
-- 외국인이 해외 대출을 통해 국내 부동산에 투자하는 경우 대출 규제의 적용이 불가능하고 중과세 대상판별이 어려워 내국인에 대한 역차별 논란이 발생함. 특히 다주택 보유에 관련된 중과세는 ‘세대당 주택수’를 기준으로 적용하여 세대원의 주택 보유실태 파악이 어려운 외국인의 경우 중과세 대상에서 제외되기 쉬움. 비거주자의 양도소득세에 대해 거래금액의 10% 혹은 양도차익의 25% 중 적은 금액을 원천 징수하여 추후 정산하는 국내 제도가 있으나 중과세의 역할은 하지 않음.
-
-- 관세청은 ’21.4월 최근 3년간 외국인 아파트 매매자금을 분석하여 840억 원 상당의 서울 아파트 55채를 불법 취득한 외국인의 사례 등 부정거래를 대거 적발. ’21.11월 기획재정부·한국은행·관세청은 한국은행이 보유한 외국인 부동산 취득 신고 자료를 관세청과 공유하기 위한 시스템 구축 작업을 진행 중이라고 발표. 이에 따라 외국인의 부동산 투기 우려가 확산하여 국회는 추가 취득세 부과, 매수자 자격요건 강화, 대출 제한 등에 관한 법안을 입안하여 규제 논의 시작
-
-- 타국의 외국인 부동산 투자에 대한 규제가 강화되고, 내국인의 부동산 稅부담이 가중되는 시점에서 국내의 외국인 부동산 투자 규정의 조속한 정립이 필요. 현재 여러 국가들이 외국인에 대한 추가 세율을 적용하고 있는 바, 국가 간의 상호주의 위배에 대한 논란을 신속히 해결하여 빠른 시일 내 관련법안 추진 필요. 내국 기업들과의 형평성을 맞추기 위하여, 해외 투자자가 법인 및 신탁 등의 간접투자 루트를 통한 탈세 및 불법 송금의 루트를 사전에 차단하는 법안 정비 필요. 현지 탈세 자금 및 불법 세탁 자금의 국내 부동산 시장 유입을 막기 위하여, 해외에서 송금되어 오는 거래대금의 면밀한 자금 출처 조사 강화가 요구]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도시취약지역 공공주도 정비와 갈등양상별 공공성 확보 방향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162247</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162247"/>
-        <updated>2022-02-07T12:08:46.724Z</updated>
-        <summary type="html"><![CDATA[국토연구원이 「도시취약지역 공공주도 정비와 갈등양상별 공공성 확보 방향」을 발표하였다.
-
-- 최근 공공주도 정비사업 추진 시 도시취약지역(쪽방촌 등)이 사업대상지역으로 포함되면서 정비사업의 공공성을 강조하는 방향으로 정부정책 선회. 정비사업의 공공성을 강조하는 과정에서 이해관계자 간 갈등양상이 다변화하고 있음. 다변화하고 있는 갈등을 단순히 토지등소유자(재개발구역 안의 토지 또는 건축물의 소유자)와 공공 간 갈등으로 축소하거나,적절히 관리하지 못한다면 정비사업 추진 지연, 세입자 주거불안정성 증가 등의 문제가 발생하여 또 다른 사회비용이 발생할 우려가 있음.
-
-- 다변화하는 갈등양상을 파악하고자 공동체·사업·지역 특성을 기준으로 공공주도 정비사업이 논의 중이거나 진행 중인 전국 3개 쪽방촌(서울, 대전, 부산)에 관한 사례연구를 실시한 결과, 갈등양상은 사업 특성보다는 공동체와 지역 특성에 영향을 받는 것으로 나타남. 소유자와 공공 간 갈등 이면에는 소유자 간 갈등이 자리하고 있으며, 대표성을 가진 세입자 중심의 주민조직이 없을 경우 소유자 외 주체는 사업 추진과정에 실질적으로 참여하기 어려움. 조속한 사업 추진을 위해서는 사업대상지별 갈등양상을 파악하고 이를 통해 사업대상지별로 차별화된 공공성 개념을 명확하게 정의할 필요가 있음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.2 「분야별 재정지출」]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162254</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162254"/>
-        <updated>2022-02-07T12:08:46.688Z</updated>
-        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.2 「분야별 재정지출」을 발표하였다.
-
-- ’22년 본예산의 분야별 재정지출은 사회복지 195.0조원, 일반·지방행정 98.1조원, 교육 84.2조원 등으로 편성]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도시회복력 평가지표의 개발과 정책적 활용방안]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162249</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162249"/>
-        <updated>2022-02-07T12:08:46.680Z</updated>
-        <summary type="html"><![CDATA[한국환경연구원이 「도시회복력 평가지표의 개발과 정책적 활용방안」을 발표하였다.
-
-- 기후변화에 따른 재난재해의 발생 및 피해가 증가하는 가운데 인구와 기반시설의 밀도가 높은 도시지역은 피해 유형이 다양하고 그 규모도 큼. 특히, 도시지역 중에서도 물리적·사회적 환경이 열악한 쇠퇴 지역은 재난재해에 따른 취약성과 위험성에 더욱 크게 노출되어 있음. 
-
-- 본고에서는 쇠퇴지역, 특히 도시재생사업의 추진대상이 되는 지역에서의 재난재해 발생 가능성 및 위험 수준 변화 등을 종합적으로 고려하여 총 7가지 재난재해 유형(통합, 폭우, 폭염, 폭설, 강풍, 지진/붕괴, 화재/폭발)을 중심으로, 도시 인프라와 같은 물리적 부문(Green Resilient Infrastructure)과 지역사회 운영 시스템을 포함하는 사회적 부문(Interactive Safety System)으로 구분하여 도시회복력 평가체계를 마련하고자 하였음. 
-
-- 도시회복력 평가지표 개발은 쇠퇴지역의 도시회복력 수준을 파악함으로써, 「도시재생활성화 및 지원에 관한 특별법」에 근거 하여 시군 차원에서 수립하는 『도시재생전략계획』에서는 재난재해로 부터 도시의 취약한 지역을 판단하고 이들 지역에서의 도시재생사업의 추진 방향 및 목표 설정에 기여하고, 도시재생사업지역을 중심으로 수립하는 『도시재생활성화계획』에서는 계획 수립 전후의 도시회복력 수준을 비교함으로써 사업의 적절성 및 도시재생사업의 성과를 판단하는 데 기여할 수 있을 것으로 보임.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융업의 인공지능 활용과 정책과제]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162248</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162248"/>
-        <updated>2022-02-07T12:08:46.665Z</updated>
-        <summary type="html"><![CDATA[한국금융연구원이 『금융업의 인공지능 활용과 정책과제』를 발표하였다.
-
-- 디지털 기술의 급성장과 코로나19 사태로 인해 전(全) 산업에 걸쳐 인공지능(AI)의 도입이 빠르게 확산되고 있음. 인공지능의 도입은 생산성을 향상시킬 수 있지만 인공지능이 갖는 ‘자동화된 대응(의사결정)’이라는 속성으로 인해 다양한 윤리 및 편향성 이슈가 발생할 수 있고, 금융안정성에도 영향을 미칠 수 있음. 본고에서 최근 우리 정부와 금융당국이 추진해온 인공지능 관련 정책을 평가해 보고, 국내은행 대상 서베이와 인터뷰를 토대로 다음과 같은 금융 분야 정책방향과 세부과제를 제시함. 
-
-- 첫째, 인공지능에 대한 규제는 정부가 원칙과 가이드라인을 제시하고 민간이 스스로 세부지침을 정할 수 있도록 연성규율체계를 갖는 것이 바람직함. 이런 맥락에서 정책당국은 금융회사가 AI에 대한 적합성평가역량을 제고할 수 있도록 유도해야 할 것임. 둘째, 규율체계는 인공지능이 유발할 수 있는 심각한 부작용에 초점을 맞추어 리스크 중심으로 접근하는 것이 효과적임. 이를 위해 고위험거래 중심의 규율체계와 손실보상매커니즘을 설계할 필요가 있음. 셋째, 인공지능의 생산성 향상 효과는 결국 데이터의 양과 질에 좌우되기 때문에 정책당국은 금융회사들이 보다 많은 학습데이터(공공데이터 포함)를 활용할 수 있고 자체 모델을 안전하게 테스트할 수 있는 기반을 마련해야 함. 이를 위해 데이터 결합을 활성화 하고 망분리 규제도 현실화시킬 필요가 있음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 관련 동향 및 해외시각(2.4)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162242</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162242"/>
-        <updated>2022-02-07T12:08:46.657Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.4)’을 발표하였다.
-
-- (동향) WHO 집계기준(2월 3일), 전세계 코로나19 확진자 수는 383,509,779명(전일대비 +3,015,863명), 사망자 수는 5,693,824명(전일대비 +12,513명)
-
-- (해외시각) (Capital Economics) 현재 미국의 노동공급 부족은 베이비부머 은퇴, 인구 증가율 둔화, 가족 돌봄 등 다양한 요인들이 결합된 결과. 향후에도 노동력은 팬데믹 이전보다 지속적으로 부족한 상황이 계속될 것이며, 이로 인해 올해 경제성장은 예상보다 미흡하고 임금 및 물가 상승 압력은 오랜 기간 동안 지속될 전망]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현지정보] 영란은행, ’22.2월 통화정책회의 결과 및 시장반응]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162245</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162245"/>
-        <updated>2022-02-07T12:08:46.649Z</updated>
-        <summary type="html"><![CDATA[한국은행이 『[현지정보] 영란은행, ’22.2월 통화정책회의 결과 및 시장반응』을 발표하였다.
-
-- 영란은행은 ‘22.2월 통화정책회의에서 정책금리를 0.25%에서 0.50%로 25bp 인상하고, 보유자산 규모(전체 8,950억 파운드)를 축소하기로 결정. 국내 물가 상승 압력 및 타이트한 노동시장 상황 등을 감안할 때 정책 금리를 인상하는 것이 적절하다고 판단. 추가 긴축은 중기 인플레이션 전망에 좌우될 것이나 현재의 경제상황이 지속된다면 정책금리 추가 인상 등의 조치가 이어질 것임.
-
-- 주요 투자은행들은 일부 통화정책위원들의 정책금리 큰 폭 인상 주장, 보유회사채 조기 매각 등 이번 정책결정이 예상보다 매파적이라고 평가하며 향후 추가 정책금리 인상(3월 또는 5월) 및 국채 매각계획 발표(8월)를 전망]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세계경제·국제금융시장 - 2022 대진단]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162198</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162198"/>
-        <updated>2022-02-07T12:08:46.636Z</updated>
+        <updated>2022-02-07T15:03:41.523Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 『세계경제·국제금융시장 - 2022 대진단』을 발표하였다.
 
 <목 차>
@@ -523,10 +184,90 @@ Part 4
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Drives U.S. Corporate Elites‘ Campaign Contribution Behavior?]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162257</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162257"/>
+        <updated>2022-02-07T15:03:40.448Z</updated>
+        <summary type="html"><![CDATA[Do U.S. corporate elites contribute to political campaigns purely motivated by ideological considerations ？?? as typically assumed by the literature on individual donors‘ drivers of contributions ？?? or are their donations also a tool of political influence? I investigate this question using a new panel on the contributions to members of U.S. Congress (MCs) by 401,557 corporate leaders of 14,807 U.S. corporations over the 1999-2018 period. I show that donations increase by 11% when a politician is assigned to a committee dealing with policy issues relevant to a corporate leader‘s company. The effect is driven by donations to MCs with the greatest power in the committees. The estimates suggest that (i) 13% of the observed gap in corporate leaders‘ donations to policy relevant versus other MCs is driven by an influence-seeking motive, and (ii) the total corporate leaders‘ donations that are driven by the influence-seeking motive are about 53% of the overall donations by their companies‘ PACs to all MCs over the same period.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate Impacts on South and Southeast Asian Hydropower]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162276</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162276"/>
+        <updated>2022-02-07T15:03:37.565Z</updated>
+        <summary type="html"><![CDATA[Hydropower accounts for 14.5% of total electricity generation in South and Southeast Asia, with a total hydropower installed capacity of 117 GW. The installed hydropower capacity is expected to grow further in order to meet the region’s growing electricity demand and electricity export opportunities, and to maximise the merits of a cost-effective and flexible low-carbon power source. However, climate change poses an increasing challenge to South and Southeast Asian hydropower with rising temperatures, extreme rainfall patterns, melting glaciers, and increasing occurrence of extreme weather events. This report aims to support South and Southeast Asian hydropower in coping with the adverse impacts of climate change and in developing a tailored set of climate resilience measures based on a comprehensive assessment of climate risks and impacts. This report qualitatively assesses climate risks to South and Southeast Asian hydropower and quantitatively examines potential climate impacts, comparing three climate scenarios. Based on the assessment, it identifies measures to enhance climate resilience and provides policy recommendations.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved Trade Balance with the European Union Raises Challenging Brexit Questions]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162262</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162262"/>
+        <updated>2022-02-07T15:03:37.556Z</updated>
+        <summary type="html"><![CDATA[There has been a significant improvement in the UK’s net trade performance with the European Union (EU) since the 2016 Brexit vote. The previous negative trend in the real net trade balance with EU has not only stopped but is improving. In 2015 and 2016, the overall trade balance was in deficit by ？30 billion and ？33billion, respectively. In 2017 and 2018, the deficit was slightly smaller, at ？26 billion and ？28 billion, with a fall to under ？21 billion in 2019. In 2020, the year of Brexit and Covid-19, there was a surplus of ？3 billion, and in the first eleven months of 2021 a deficit re-emerged, running at an annual rate of ？21 billion. In 2020 and 2021 taken together, the trade balance looks likely to average a deficit of ？10 billion a year, compared with a deficit three times as large before Brexit. A plausible reason for these developments is that the Brexit vote led to a sharp sterling depreciation, making the UK significantly more competitive while crimping domestic demand. However, Covid-19 and a dramatic drop in the EU’s overall trade balance are also likely important influences.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intergovernmental organisation activities]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162278</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162278"/>
+        <updated>2022-02-07T15:03:37.547Z</updated>
+        <summary type="html"><![CDATA[Published twice a year, the Nuclear Law Bulletin covers legislative developments in almost 60 countries around the world as well as reporting on relevant jurisprudence and administrative decisions, bilateral and international agreements and regulatory activities of international organisations. Each issue typically includes the following sections: Articles, Case Law, National Legislative and Regulatory Activities, International Regulatory Activities, Agreements, News Briefs, and a Supplement.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capital Structure and Hedging Demand with Incomplete Markets]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162259</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162259"/>
+        <updated>2022-02-07T15:03:37.538Z</updated>
+        <summary type="html"><![CDATA[In this paper we study the role played by hedging demand in shaping firms‘ capital structure.  We develop and study a general equilibrium model with production and incomplete markets where households differ in their risk-sharing needs. Value-maximizing firms cater to these different needs when choosing their leverage, their size, and possibly the risk profile of their production technology. We find that as the demand for hedging increases, firms issue more debt and destine only part of the greater proceeds to investment - the remainder going to shareholders. How much more debt, depends on the availability of competing risk-sharing instruments, such as (government-issued) risk-free debt and derivatives. When the capital structure is jointly shaped by hedging demand and agency - in the form of an asset-substitution problem - the greater risk induced by asymmetric information has countervailing effects on debt: on the one hand, debt is reduced to nudge shareholders into choosing lower risk. This is the standard asset substitution effect. On the other hand, however, the greater risk in production affects the state prices and calls for more debt.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Goldilocks Theory of Fiscal Deficits]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162265</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162265"/>
+        <updated>2022-02-07T15:03:37.529Z</updated>
+        <summary type="html"><![CDATA[This paper proposes a tractable framework to analyze fiscal space and the dynamics of government debt, with a possibly binding zero lower bound (ZLB) constraint. Without the ZLB, a greater primary deficit unambiguously raises debt. However, debt need not explode: When R < G ？ φ, where φ is the sensitivity of R ？ G to debt, a modest permanent increase in the deficit can be sustained forever, a policy we call “free lunch”. With the ZLB, the relationship between deficit and debt can become non-monotone. Both high and low deficits can increase debt, as the latter weaken demand and reduce nominal growth at the ZLB. A rise in income inequality expands fiscal space outside the ZLB, but contracts it at the ZLB. Calibrating the model, we find little space for “free lunch” policies for the United States in 2019, but ample space for Japan.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Returns to Innovation in East Asia : The Role of the Business Environment and Firms’ Characteristics]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162284</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162284"/>
+        <updated>2022-02-07T15:03:37.506Z</updated>
+        <summary type="html"><![CDATA[The paper studies the relationship between innovation efforts, innovation outputs, and productivity, using firm-level data from six East Asian countries. Firms are more likely to invest in innovation when they use technology licensed by a foreign company, are part of a large group, and have a more educated workforce. Investment in research and development can significantly boost both product and process innovation. Product innovation yields significant productivity gains. However, productivity gains from process innovation are not detectable in the sample.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stablecoins: Growth Potential and Impact on Banking]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162271</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162271"/>
+        <updated>2022-02-07T15:03:37.496Z</updated>
+        <summary type="html"><![CDATA[Stablecoins have experienced tremendous growth in the past year, serving as a possible breakthrough innovation in the future of payments. In this paper, we discuss the current use cases and growth opportunities of stablecoins, and we analyze the potential for stablecoins to broadly impact the banking system. The impact of stablecoin adoption on traditional banking and credit provision can vary depending on the sources of inflow and the composition of stablecoin reserves. Among the various scenarios, a two-tiered banking system can both support stablecoin issuance and maintain traditional forms of credit creation. In contrast, a narrow bank approach for digital currencies can lead to disintermediation of traditional banking, but may provide the most stable peg to fiat currencies. Additionally, dollar-pegged stablecoins backed by adequately safe and liquid collateral can potentially serve as a digital safe haven currency during periods of crypto market distress.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[재정분권 1단계 전환사업의 재정책임성 측면에서의 변화 - 공무원 인식조사 결과를 바탕으로 -]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162252</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162252"/>
-        <updated>2022-02-07T12:08:42.945Z</updated>
+        <updated>2022-02-07T15:03:37.468Z</updated>
         <summary type="html"><![CDATA[한국지방행정연구원이 「재정분권 1단계 전환사업의 재정책임성 측면에서의 변화 - 공무원 인식조사 결과를 바탕으로 -」를 발표하였다.
 
 - 지자체 전환사업 담당 공무원들이 지방재정의 책임성을 측정하는 질문에 보통(5)이라고 응답한 비율이 전반적으로 20% 가까운 것을 고려하면 지방재정의 건전성 제고 정도 질문 외에는 이양 전과 비슷하다보다는 높아질 것이다라고 응답한 비율이 높았음.
@@ -534,6 +275,275 @@ Part 4
 - 결국 국고보조사업의 지방 이양 즉, 지자체의 자체사업이 되었을 때 재원만 동시에 이양된다면 지방재정의 책임성 확보가 더 양호한 환경임을 알 수 있음.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.2 「분야별 재정지출」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162254</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162254"/>
+        <updated>2022-02-07T15:03:37.449Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.2 「분야별 재정지출」을 발표하였다.
+
+- ’22년 본예산의 분야별 재정지출은 사회복지 195.0조원, 일반·지방행정 98.1조원, 교육 84.2조원 등으로 편성]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Fund Flow] 글로벌 펀드자금, 주식 유입 지속, 채권 4주 연속 유출]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162241</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162241"/>
+        <updated>2022-02-07T15:03:37.439Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식 유입 지속, 채권 4주 연속 유출’을 발표하였다.
+
+- 주식펀드 유입 지속, 채권펀드 4주 연속 유출
+
+- 신흥국들의 신용위험 상승, 통화가치 상승]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.3 「사회복지」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162255</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162255"/>
+        <updated>2022-02-07T15:03:37.430Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.3 「사회복지」를 발표하였다.
+
+- ’22년 사회복지 본예산은 195.0조원. 부문별 예산규모를 살펴보면, 공적연금 63.0조원(32.3%), 고용 25.9조원(13.3%), 노인 20.5조원(10.5%), 기초생활보장 16.8조원(8.6%) 등임.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영란은행, 금리인상 가속 및 양적긴축 본격화]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162239</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162239"/>
+        <updated>2022-02-07T15:03:37.422Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 『영란은행, 금리인상 가속 및 양적긴축 본격화』를 발표하였다.
+
+- [이슈] 영란은행(BoE)은 2.3일 통화정책회의에서 정책금리를 지난해 12월에 이어 인상하고 양적긴축(QT)을 결정
+ ※ QT(Quantitative Tightening): 양적완화(QE: Quantitative Easing)와 반대로 중앙은행이 보유자산 만기도래시 재투자를 중단하거나 매각하는 방식으로 대차대조표(B/S)를 축소하는 정책
+
+- [회의결과] BoE는 정책금리를 0.25%에서 0.5%로 25bp 인상하고, 향후 만기도래 자산에 대한 재투자 중단 및 회사채 매각 등 양적긴축을 실시하기로 결정
+
+- [시장 반응] 회사채 매각 등 정책결정이 매파적으로 해석되며 영국 국채금리 급등(10년물 +11bp), 주가 0.7% 하락. 파운드화는 달러 대비 강세(0.15%), 유로화 대비 약세(-1%)
+
+- [전망] 정책금리는 `22.3분기까지 추가 50bp 인상(0.5% → 1%), 포워드가이던스에 따라 정책금리가 1% 도달한 이후 보유국채 매각도 진행될 것으로 예상
+
+- [영향] 과거 긴축사이클에 비하면 정책금리의 장기 인상폭은 크지 않겠지만 단기적으로는 정상화 가속에 따른 금융시장 변동성 확대 위험이 높다는 점에 유의할 필요]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECB의 ’22년 자산매입 종료 및 금리인상 가능성 점증]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162240</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162240"/>
+        <updated>2022-02-07T15:03:37.400Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 『ECB의 ’22년 자산매입 종료 및 금리인상 가능성 점증』을 발표하였다.
+
+- [이슈] 유럽중앙은행(ECB)은 2.3일 통화정책회의에서 고물가 장기화로 인해 테이퍼링, 금리 인상 등 통화긴축을 가속할 가능성을 시사, 향후 통화정책 정상화 경로를 점검할 필요
+
+- [회의결과] 주요 정책사항은 기존 방침을 유지했지만 인플레이션 상방위험으로 조기 자산매입 종결 및 금리인상 가능성을 시사
+
+- [전망] 물가 상방위험이 단기내 해소되기는 어렵기 때문에 ECB의 통화긴축 기조가 강화 되는 가운데 테이퍼링 속도 가속, 연내 금리인상 가능성 점증
+
+- [영향] ECB의 통화긴축 경로에 대한 금융시장의 재평가는 금리, 환율, 자산가격 전반의 변동성 확대, 이탈리아 등 주변국 취약성 부각, 글로벌 마이너스 채권 축소로 이어질 전망]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금융업의 인공지능 활용과 정책과제]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162248</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162248"/>
+        <updated>2022-02-07T15:03:37.390Z</updated>
+        <summary type="html"><![CDATA[한국금융연구원이 『금융업의 인공지능 활용과 정책과제』를 발표하였다.
+
+- 디지털 기술의 급성장과 코로나19 사태로 인해 전(全) 산업에 걸쳐 인공지능(AI)의 도입이 빠르게 확산되고 있음. 인공지능의 도입은 생산성을 향상시킬 수 있지만 인공지능이 갖는 ‘자동화된 대응(의사결정)’이라는 속성으로 인해 다양한 윤리 및 편향성 이슈가 발생할 수 있고, 금융안정성에도 영향을 미칠 수 있음. 본고에서 최근 우리 정부와 금융당국이 추진해온 인공지능 관련 정책을 평가해 보고, 국내은행 대상 서베이와 인터뷰를 토대로 다음과 같은 금융 분야 정책방향과 세부과제를 제시함. 
+
+- 첫째, 인공지능에 대한 규제는 정부가 원칙과 가이드라인을 제시하고 민간이 스스로 세부지침을 정할 수 있도록 연성규율체계를 갖는 것이 바람직함. 이런 맥락에서 정책당국은 금융회사가 AI에 대한 적합성평가역량을 제고할 수 있도록 유도해야 할 것임. 둘째, 규율체계는 인공지능이 유발할 수 있는 심각한 부작용에 초점을 맞추어 리스크 중심으로 접근하는 것이 효과적임. 이를 위해 고위험거래 중심의 규율체계와 손실보상매커니즘을 설계할 필요가 있음. 셋째, 인공지능의 생산성 향상 효과는 결국 데이터의 양과 질에 좌우되기 때문에 정책당국은 금융회사들이 보다 많은 학습데이터(공공데이터 포함)를 활용할 수 있고 자체 모델을 안전하게 테스트할 수 있는 기반을 마련해야 함. 이를 위해 데이터 결합을 활성화 하고 망분리 규제도 현실화시킬 필요가 있음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현지정보] 2022년 2월 ECB 통화정책회의 결과]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162243</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162243"/>
+        <updated>2022-02-07T15:03:37.381Z</updated>
+        <summary type="html"><![CDATA[한국은행이 『[현지정보] 2022년 2월 ECB 통화정책회의 결과』를 발표하였다.
+
+- ECB는 2.3일 개최된 정책위원회 회의에서 정책금리는 동결하고 팬데믹 긴급매입프로그램(PEPP) 순매입 조치는 3월말 종료하며 자산매입프로그램(APP) 순매입 규모는 2/4분기(월 400억 유로) 및 3/4분기중(월 300억 유로) 일시 확대(현재 월 200억 유로)하기로 한 종전 결정(2021.12월)을 유지
+
+- 실물경제 및 물가, 금융시장 상황 등과 관련하여 유로지역 경기는 노동시장 개선, 가계소득 증가, 글로벌 경기회복, 확장적 통화·재정정책 등에 힘입어 내수를 중심으로 금년중 강한 회복세를 보이겠으며, 인플레이션은 높은 상승률이 예상보다 장기간 이어지겠으나 오름세는 금년중 둔화될 전망. 금융시장은 은행 대출금리가 낮은 수준을 유지하고 기업대출이 증가하는 등 우호적 금융여건이 유지되고 있는 것으로 판단]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 관련 동향 및 해외시각(2.4)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162242</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162242"/>
+        <updated>2022-02-07T15:03:37.372Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.4)’을 발표하였다.
+
+- (동향) WHO 집계기준(2월 3일), 전세계 코로나19 확진자 수는 383,509,779명(전일대비 +3,015,863명), 사망자 수는 5,693,824명(전일대비 +12,513명)
+
+- (해외시각) (Capital Economics) 현재 미국의 노동공급 부족은 베이비부머 은퇴, 인구 증가율 둔화, 가족 돌봄 등 다양한 요인들이 결합된 결과. 향후에도 노동력은 팬데믹 이전보다 지속적으로 부족한 상황이 계속될 것이며, 이로 인해 올해 경제성장은 예상보다 미흡하고 임금 및 물가 상승 압력은 오랜 기간 동안 지속될 전망]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도시취약지역 공공주도 정비와 갈등양상별 공공성 확보 방향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162247</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162247"/>
+        <updated>2022-02-07T15:03:37.364Z</updated>
+        <summary type="html"><![CDATA[국토연구원이 「도시취약지역 공공주도 정비와 갈등양상별 공공성 확보 방향」을 발표하였다.
+
+- 최근 공공주도 정비사업 추진 시 도시취약지역(쪽방촌 등)이 사업대상지역으로 포함되면서 정비사업의 공공성을 강조하는 방향으로 정부정책 선회. 정비사업의 공공성을 강조하는 과정에서 이해관계자 간 갈등양상이 다변화하고 있음. 다변화하고 있는 갈등을 단순히 토지등소유자(재개발구역 안의 토지 또는 건축물의 소유자)와 공공 간 갈등으로 축소하거나,적절히 관리하지 못한다면 정비사업 추진 지연, 세입자 주거불안정성 증가 등의 문제가 발생하여 또 다른 사회비용이 발생할 우려가 있음.
+
+- 다변화하는 갈등양상을 파악하고자 공동체·사업·지역 특성을 기준으로 공공주도 정비사업이 논의 중이거나 진행 중인 전국 3개 쪽방촌(서울, 대전, 부산)에 관한 사례연구를 실시한 결과, 갈등양상은 사업 특성보다는 공동체와 지역 특성에 영향을 받는 것으로 나타남. 소유자와 공공 간 갈등 이면에는 소유자 간 갈등이 자리하고 있으며, 대표성을 가진 세입자 중심의 주민조직이 없을 경우 소유자 외 주체는 사업 추진과정에 실질적으로 참여하기 어려움. 조속한 사업 추진을 위해서는 사업대상지별 갈등양상을 파악하고 이를 통해 사업대상지별로 차별화된 공공성 개념을 명확하게 정의할 필요가 있음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 기업금융시장 분석 및 2022년 전망]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162211</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162211"/>
+        <updated>2022-02-07T15:03:37.340Z</updated>
+        <summary type="html"><![CDATA[KDB미래전략연구소가 『2021년 기업금융시장 분석 및 2022년 전망』을 발표하였다.
+
+- 2019년 미국의 Business Roundtable 연례회의에서 ESG(Environmental, Social, and Governance)의 중요성이 주목받은 이후 주요 국가를 중심으로 관련 규제 도입 및 기업들의 대응이 이뤄지고 있음. 글로벌 제약사들은 자사의 ESG 원칙을 공급망 내 기업들에게 적용하기 위한 행보를 시작하였고, 각국의 규제기관은 ESG 관리가 미흡한 기업에게 제재를 가할 예정임.
+
+- 한국 제약바이오산업은 2020년 사상 첫 무역수지 흑자를 기록하며 10조원에 육박하는 수출 실적을 달성하였으며, 정부에서도 바이오산업을 차세대 먹거리로 낙점하고 정책적 지원을 시행 중임. 또한 국내 주요 기업들이 연이어 의약품 사업에 진출함에 따라 의약품 수출의 중요성이 더욱 높아지고 있음. 이러한 상황에서 ESG 경영의 도입은 한국이 글로벌 제약바이오 시장에서의 경쟁력을 향상시킬 수 있는 좋은 기회임.
+
+- 국내 제약바이오산업은 ESG 경영 도입 초기로, 일부 대형 제약사를 제외한 대부분의 기업들이 ESG 도입 준비 단계에 있음. 다수의 기업들이 ESG 전담부서 신설, 관련 인증 획득 추진 등의 노력을 기울이고 있으며, 주요 기업의 대응사례및 관련지침이 발표되고 있어 기업들의 대응에 도움이 될 전망임. 본 보고서에서는 ESG 제도 및 평가의 해외 동향 및 국내외 제약사들의 ESG 대응 현황을 짚어보고, 이를 바탕으로 국내 제약사들이 고려해야 할 사항 들을 제시하였음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[22.2월] 국제원자재시장: 지정학적 불안으로 공급 불확실성 지속 전망]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162244</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162244"/>
+        <updated>2022-02-07T15:03:37.330Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘[22.2월] 국제원자재시장: 지정학적 불안으로 공급 불확실성 지속 전망’을 발표하였다.
+
+- [국제원자재가격지수] 1월 에너지, 농산물, 비철금속 부문 등 대부분 상승(전월말 대비)
+ · 에너지 비중이 높은 S&P GSCI(S&P Goldman Sachs Commodity Index) 지수는 11.2% 상승(하위 부문별로 에너지 +17.0%, 농산물 +4.4%, 산업금속 +2.5%, 귀금속 -2.0%, 축산물 +5.9% 등).
+ · CRB(Commodity Research Bureau Index) 지수는 9.8% 상승. 美 천연가스(+30.7%), 브렌트(+17.3%), WTI(+17.2%), 휘발유(+14.6%), 두바이(+14.4%) 등에너지 전품목 상승. 대두(+12.2%), 옥수수(+5.5%)와 주석(+10.7%), 알루미늄·니켈(+7.6%)도 큰 폭 상승
+
+- [전망] 오미크론 변이 확산에 따른 공급망 차질에 러시아-우크라이나 갈등이 가세하며 공급측면에서의 불확실성으로 당분간 원자재가격 강세가 지속될 전망
+ · 유가: 글로벌 원유수요 회복세가 양호하고 러시아-우크라이나 갈등에 따른 공급 불확실성도 높아 당분간 강세기조를 유지할 전망. 타이트한 수급 여건 속에서 對러 제재 가능성, 산유국  여유생산능력 감소 등으로 일각에서는 $100 돌파 전망 제기
+ · 곡물價: 강세기조가 유지되는 가운데 남미 수확, 러시아-우크라이나 사태 등에 따라 변동성 확대 예상. 북미지역의 건조한 기후, 브라질·아르헨티나 가뭄, 견조한 글로벌 수요 등 강세요인들이 건재
+ · 비철금속價 : 금년에는 지난해보다 수요 증가율이 다소 둔화될 것이나, 전력 등 에너지 부족에 따른 생산비용 상승으로 제련소 공급능력은 제한될 것으로 보여 주요 비철금속 가격은 당분간높은 수준을 유지할 전망]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도시회복력 평가지표의 개발과 정책적 활용방안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162249</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162249"/>
+        <updated>2022-02-07T15:03:37.027Z</updated>
+        <summary type="html"><![CDATA[한국환경연구원이 「도시회복력 평가지표의 개발과 정책적 활용방안」을 발표하였다.
+
+- 기후변화에 따른 재난재해의 발생 및 피해가 증가하는 가운데 인구와 기반시설의 밀도가 높은 도시지역은 피해 유형이 다양하고 그 규모도 큼. 특히, 도시지역 중에서도 물리적·사회적 환경이 열악한 쇠퇴 지역은 재난재해에 따른 취약성과 위험성에 더욱 크게 노출되어 있음. 
+
+- 본고에서는 쇠퇴지역, 특히 도시재생사업의 추진대상이 되는 지역에서의 재난재해 발생 가능성 및 위험 수준 변화 등을 종합적으로 고려하여 총 7가지 재난재해 유형(통합, 폭우, 폭염, 폭설, 강풍, 지진/붕괴, 화재/폭발)을 중심으로, 도시 인프라와 같은 물리적 부문(Green Resilient Infrastructure)과 지역사회 운영 시스템을 포함하는 사회적 부문(Interactive Safety System)으로 구분하여 도시회복력 평가체계를 마련하고자 하였음. 
+
+- 도시회복력 평가지표 개발은 쇠퇴지역의 도시회복력 수준을 파악함으로써, 「도시재생활성화 및 지원에 관한 특별법」에 근거 하여 시군 차원에서 수립하는 『도시재생전략계획』에서는 재난재해로 부터 도시의 취약한 지역을 판단하고 이들 지역에서의 도시재생사업의 추진 방향 및 목표 설정에 기여하고, 도시재생사업지역을 중심으로 수립하는 『도시재생활성화계획』에서는 계획 수립 전후의 도시회복력 수준을 비교함으로써 사업의 적절성 및 도시재생사업의 성과를 판단하는 데 기여할 수 있을 것으로 보임.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현지정보] 22.2월 ECB 통화정책회의 결정에 대한 금융시장 반응 및 평가]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162246</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162246"/>
+        <updated>2022-02-07T15:03:35.281Z</updated>
+        <summary type="html"><![CDATA[한국은행이 『[현지정보] 22.2월 ECB 통화정책회의 결정에 대한 금융시장 반응 및 평가』를 발표하였다.
+
+- (정책결정) ① 정책금리 동결 ② 금년 3월 팬데믹 긴급매입프로그램(PEPP) 종료 ③ 자산매입프로그램(APP) 매입규모 탄력적 조정 계획* 유지
+ * 월간 200억 유로인 매입규모를 2/4분기에는 월간 400억 유로로 증액하며 이후에는 단계적으로 축소(3/4분기 300억 유로, 10월 이후 200억 유로)
+
+- (기자간담회) ① 물가전망에 상방위험이 있으며 3월 전망시 이를 보다 면밀히 검토할 계획 ② 정책금리 인상은 양적완화 종료 후 가능하며 자산매입속도 조정도 3월 회의에서 논의할 예정]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인 부동산 거래에 대한 문제점과 규제 방향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162250</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162250"/>
+        <updated>2022-02-07T15:03:34.400Z</updated>
+        <summary type="html"><![CDATA[하나금융경영연구소가 「외국인 부동산 거래에 대한 문제점과 규제 방향」을 발표하였다.
+
+- 우리나라는 ’61년「외국인토지법」시행으로 외국인 토지취득을 엄격히 규제하기 시작하였으나 ’94년 일부 완화되고 ’98년 허가제에서 신고제로 전환하여 추가적 완화. ’16년「외국인토지법」폐지 이후「부동산 거래신고 등에 관한 법률」에 의거하여 통합 관리 시행 중이나 신분 변경 신고 및 보존지역 거래의 사전 허가 이외의 차별적 규제는 없음. 과거 주요 투자자는 미국교포 중심이었으나 점차 순수외국인의 투자가 늘어나고 있고 최근 기타 주거용 부동산의 매입비중이 아파트 비중보다 빠른 속도로 증가하고 있는 상황
+
+- 외국인이 해외 대출을 통해 국내 부동산에 투자하는 경우 대출 규제의 적용이 불가능하고 중과세 대상판별이 어려워 내국인에 대한 역차별 논란이 발생함. 특히 다주택 보유에 관련된 중과세는 ‘세대당 주택수’를 기준으로 적용하여 세대원의 주택 보유실태 파악이 어려운 외국인의 경우 중과세 대상에서 제외되기 쉬움. 비거주자의 양도소득세에 대해 거래금액의 10% 혹은 양도차익의 25% 중 적은 금액을 원천 징수하여 추후 정산하는 국내 제도가 있으나 중과세의 역할은 하지 않음.
+
+- 관세청은 ’21.4월 최근 3년간 외국인 아파트 매매자금을 분석하여 840억 원 상당의 서울 아파트 55채를 불법 취득한 외국인의 사례 등 부정거래를 대거 적발. ’21.11월 기획재정부·한국은행·관세청은 한국은행이 보유한 외국인 부동산 취득 신고 자료를 관세청과 공유하기 위한 시스템 구축 작업을 진행 중이라고 발표. 이에 따라 외국인의 부동산 투기 우려가 확산하여 국회는 추가 취득세 부과, 매수자 자격요건 강화, 대출 제한 등에 관한 법안을 입안하여 규제 논의 시작
+
+- 타국의 외국인 부동산 투자에 대한 규제가 강화되고, 내국인의 부동산 稅부담이 가중되는 시점에서 국내의 외국인 부동산 투자 규정의 조속한 정립이 필요. 현재 여러 국가들이 외국인에 대한 추가 세율을 적용하고 있는 바, 국가 간의 상호주의 위배에 대한 논란을 신속히 해결하여 빠른 시일 내 관련법안 추진 필요. 내국 기업들과의 형평성을 맞추기 위하여, 해외 투자자가 법인 및 신탁 등의 간접투자 루트를 통한 탈세 및 불법 송금의 루트를 사전에 차단하는 법안 정비 필요. 현지 탈세 자금 및 불법 세탁 자금의 국내 부동산 시장 유입을 막기 위하여, 해외에서 송금되어 오는 거래대금의 면밀한 자금 출처 조사 강화가 요구]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.4 「보건」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162256</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162256"/>
+        <updated>2022-02-07T15:03:34.377Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.4 「보건」을 발표하였다.
+
+- ’22년 사회복지 본예산은 22.7조원. 부문별 예산규모를 살펴보면, 건강보험제도운영 11.9조원(52.4%), 보건의료 10.1조원(44.5%), 식품의약안전 0.7조원(3.1%)임.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현지정보] 영란은행, ’22.2월 통화정책회의 결과 및 시장반응]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162245</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162245"/>
+        <updated>2022-02-07T15:03:34.356Z</updated>
+        <summary type="html"><![CDATA[한국은행이 『[현지정보] 영란은행, ’22.2월 통화정책회의 결과 및 시장반응』을 발표하였다.
+
+- 영란은행은 ‘22.2월 통화정책회의에서 정책금리를 0.25%에서 0.50%로 25bp 인상하고, 보유자산 규모(전체 8,950억 파운드)를 축소하기로 결정. 국내 물가 상승 압력 및 타이트한 노동시장 상황 등을 감안할 때 정책 금리를 인상하는 것이 적절하다고 판단. 추가 긴축은 중기 인플레이션 전망에 좌우될 것이나 현재의 경제상황이 지속된다면 정책금리 추가 인상 등의 조치가 이어질 것임.
+
+- 주요 투자은행들은 일부 통화정책위원들의 정책금리 큰 폭 인상 주장, 보유회사채 조기 매각 등 이번 정책결정이 예상보다 매파적이라고 평가하며 향후 추가 정책금리 인상(3월 또는 5월) 및 국채 매각계획 발표(8월)를 전망]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 초연결 지능화 시대 D.N.A 분야 혁신기업]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162251</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162251"/>
+        <updated>2022-02-07T15:03:34.305Z</updated>
+        <summary type="html"><![CDATA[한국지능정보사회진흥원이 「2021년 초연결 지능화 시대 D.N.A 분야 혁신기업」을 발표하였다.
+
+<목 차>
+
+1장 조사개요
+2장  D.N.A 산업 주요 현황(180대 기업)
+3장  D.N.A 주요 혁신기업 인터뷰]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The spread of the Women’s Temperance Crusade]]></title>
+        <id>https://www.aeaweb.org/research/networks-collective%20action-temperance-crusade</id>
+        <link href="https://www.aeaweb.org/research/networks-collective%20action-temperance-crusade"/>
+        <updated>2022-02-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Women’s Temperance Crusade shows how information along rail and telegraph networks interacted to shape the protesters’ collective action, according to a paper in the American Economic Review.]]></summary>
+        <author>
+            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
     <entry>
