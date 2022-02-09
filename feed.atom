@@ -1,62 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-08T21:04:24.127Z</id>
+    <id>urn:2022-02-09T00:21:41.983Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-02-08T21:04:24.127Z</updated>
+    <updated>2022-02-09T00:21:41.983Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[[현지정보] 美 2022.1월 고용지표 내용 및 뉴욕 금융시장 반응]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162285</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162285"/>
-        <updated>2022-02-08T21:03:59.671Z</updated>
-        <summary type="html"><![CDATA[한국은행이 『[현지정보] 美 2022.1월 고용지표 내용 및 뉴욕 금융시장 반응』을 발표하였다.
-
-- ’22.1월중 비농업부문 취업자수(Non-farm Payrolls)는 전월대비 46.7만명 증가하여 시장 예상치(+12.5만명)를 큰 폭 상회. 민간부문 취업자수는 44.4만명 증가(+3.5만명 예상)하였고 정부부문 취업자수는 2.3만명 증가(+9.0만명 예상). 이는 팬데믹 직전에 비해 여가·호텔·식당(-1.8백만명) 및 교육·의료(-0.6백만명)를 중심으로 2.9백만명 감소(‘20.2월 152.5백만명 → ‘22.1월 149.6백만명)한 수준. 직전 2개월치(’21.11~12월중) 취업자수는 총 70.9만명 상향 조정(민간부문 +64.9만명, 정부부문 +6.0만명)
-
-- 경제활동참가율이 큰 폭 상승(61.9% → 62.2%, 예상 61.9%)하고 실업률도 상승(3.9% → 4.0%, 예상 3.9%). 시간당 평균임금 상승률은 전년동월대비(4.9% → 5.7%, 예상 5.2%) 및 전월대비(0.5% → 0.7%, 예상 0.7%) 모두 크게 확대
-
-- 시장참가자들은 취업자수 증가, 직전 2개월 취업자수 상향 조정 등이 예상을 크게 상회한 점에 주목하면서도 노동시장 개선세가 다소 과장되어 나타났을 가능성을 제기. 주요 투자은행들은 연준이 3월 FOMC에서 정책금리를 25bp 내지 50bp 인상하고 점도표상 금리인상 횟수를 상향조정할 것이라는 기존 전망을 대체로 유지]]></summary>
+        <title type="html"><![CDATA[Labor Market Fluidity and Human Capital Accumulation]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162309</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162309"/>
+        <updated>2022-02-09T00:21:20.742Z</updated>
+        <summary type="html"><![CDATA[Using panel data from 23 OECD countries, I document that wages grow more over the life-cycle in countries where job-to-job mobility is more common. A life-cycle theory of job shopping and accumulation of skills on the job highlights that a more fluid labor market allows workers to faster relocate to jobs where they can better use their skills, incentivizing accumulation of skills. Lower labor market fluidity reduces life-cycle wage growth by 20 percent and aggregate labor productivity by nine percent across the OECD relative to the US. I derive a set of testable predictions for training and confront them with comparable cross-country training data, finding support for the theory.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reimagining the Future of Transport across Asia and the Pacific]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162312</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162312"/>
-        <updated>2022-02-08T21:03:59.647Z</updated>
+        <updated>2022-02-09T00:21:19.375Z</updated>
         <summary type="html"><![CDATA[Transport projects need to be designed for tomorrow‘s reality, not today‘s. They can take years to plan and build and are then in operation for a much longer period: decisions during the concept and design phase need to consider changes that could happen in the years ahead. This study sets out emerging trends that are likely to impact the future of transport services. It also provides draft visions of what future transport strategies could look like, up to 2050. Together with trend cards and a playbook, it aims to help countries apply futures thinking to envision what types of transportation systems, networks, and infrastructure would be needed to realize their preferred futures.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The (Un)Importance of Inheritance]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162307</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162307"/>
-        <updated>2022-02-08T21:03:59.639Z</updated>
-        <summary type="html"><![CDATA[Transfers from parents―either in the form of gifts or inheritances―have received much attention as a source of inequality. This paper uses a 19-year panel of administrative data for the population of Norway to examine the share of the Total Inflows available to an individual (defined as the capitalized sum of net labor income, government transfers, and gifts and inheritances received over the period) accounted for by capitalized gifts and inheritances. Perhaps surprisingly, we find that gifts and inheritances ㅁ represent a small share of Total Inflows; this is true across the distribution of Total Inflows, as well as at all levels of net wealth at a point in time. Gifts and inheritances are only an important source of income flows among those who have very wealthy parents. Additionally, gifts and inheritances have very little effect on the distribution of Total Inflows ？ when we do a counterfactual Total Inflows distribution with zero gifts and inheritances, it is not much different from the actual distribution. Our findings suggest that inheritance taxes may do little to mitigate the extreme wealth inequality in society.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[International Voids, Capital Markets and Temporary Migration : Evidence from Bangladesh]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162300</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162300"/>
-        <updated>2022-02-08T21:03:59.621Z</updated>
-        <summary type="html"><![CDATA[Limited access to credit due to poorly functioning institutions is a key constraint to business creation. This paper examines the role played by temporary migration in addressing the institutional void of limited access to loans by aspiring entrepreneurs. Using rich data from one of the major migrant-sending countries globally, Bangladesh, it provides evidence on how migration is employed as a common intermediate step to accumulate the capital required for entrepreneurship. The paper offers, for the first time, a detailed account of the financial costs and returns to temporary migration as a risky investment. It shows that international migration shares many common features with classical entrepreneurial investments: it requires the payment of a considerable upfront cost, generates high returns, and is risky. The paper shows that temporary migrants usually get high returns from their migration episode and are often successful in starting entrepreneurial activities back home, thanks to faster accumulation of savings overseas. Given the similarities shared by Bangladesh and other major migrant-sending countries globally, the key findings of the paper are relevant beyond the Bangladeshi context studied by this paper.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expectations Formation and Forward Information]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162305</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162305"/>
-        <updated>2022-02-08T21:03:59.383Z</updated>
-        <summary type="html"><![CDATA[We propose a model where forecasters have access to noisy signals about the future (forward information). In this setting, information varies not only across agents but also across horizons. As a result, estimated persistence of forecasts deviates from persistence of fundamentals and the ability of forecasts at shorter horizons to explain forecasts at longer horizons is limited. These properties tend to diminish as the forecast horizon increases. We document that this novel pattern is consistent with survey data for professional forecasters. We provide further evidence that time-series and cross-sectional variation in professional forecasts is driven by forward information. We propose a simple method for extracting the forward information component from survey and provide several applications of forward information.]]></summary>
+        <title type="html"><![CDATA[Multi-cutoff RD designs with observations located at each cutoff:  problems and solutions]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162304</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162304"/>
+        <updated>2022-02-09T00:21:19.158Z</updated>
+        <summary type="html"><![CDATA[In RD designs with multiple cutoffs, the identification of an average causal effect across cutoffs may be problematic if a marginally exposed subject is located exactly at each cutoff. This occurs whenever a fixed number of treatment slots is allocated starting from the subject with the highest (or lowest) value of the score, until exhaustion. Exploiting the ``within‘‘ variability at each cutoff is the safest and likely efficient option. Alternative strategies exist, but they do not always guarantee identification of a meaningful causal effect and are less precise. To illustrate our findings, we revisit the study of Pop-Eleches and Urquiola (2013).]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -65,7 +39,7 @@
         <title type="html"><![CDATA[Stablecoins: Growth Potential and Impact on Banking]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162271</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162271"/>
-        <updated>2022-02-08T21:03:59.279Z</updated>
+        <updated>2022-02-09T00:21:19.028Z</updated>
         <summary type="html"><![CDATA[Stablecoins have experienced tremendous growth in the past year, serving as a possible breakthrough innovation in the future of payments. In this paper, we discuss the current use cases and growth opportunities of stablecoins, and we analyze the potential for stablecoins to broadly impact the banking system. The impact of stablecoin adoption on traditional banking and credit provision can vary depending on the sources of inflow and the composition of stablecoin reserves. Among the various scenarios, a two-tiered banking system can both support stablecoin issuance and maintain traditional forms of credit creation. In contrast, a narrow bank approach for digital currencies can lead to disintermediation of traditional banking, but may provide the most stable peg to fiat currencies. Additionally, dollar-pegged stablecoins backed by adequately safe and liquid collateral can potentially serve as a digital safe haven currency during periods of crypto market distress.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
@@ -75,78 +49,8 @@
         <title type="html"><![CDATA[Sustainable Finance Recovery: Innovating Finance for the Implementation of the 2030 Agenda for Sustainable Development]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162311</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162311"/>
-        <updated>2022-02-08T21:03:59.091Z</updated>
+        <updated>2022-02-09T00:21:18.903Z</updated>
         <summary type="html"><![CDATA[While the flow of finance is growing, the effects of the pandemic have only made things more challenging as measures to contain its spread have put all countries under fiscal stress posing a substantial risk to the 2030 Agenda for Sustainable Development. Although the funding needed to address these challenges is unprecedented, changes within the international financial ecosystem, for example, the growing importance of environmental, social, and governance (ESG) investors, provide opportunities for recovery efforts to coexist with the region’s sustainable development ambitions. The multi-scalar nature of the challenge means that no single actor or action will be sufficient by itself. As such, the focus has increasingly shifted to innovative policies and tools that can help leverage additional financing. Essentially, the multifaceted nature of the problem means that all stakeholders, including development institutions, national governments, and private sector financial markets and institutions, have a vital role. And despite the long list of current and emerging financing instruments available, more work is needed to raise awareness of the changing financial ecosystem and the part these policies and mechanisms can play in leveraging opportunities to increase investments in the Sustainable Development Goals (SDGs).]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How has private expenditure on tertiary education evolved over time and how does it affect participation in education?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162316</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162316"/>
-        <updated>2022-02-08T21:03:59.066Z</updated>
-        <summary type="html"><![CDATA[On average in OECD countries, private sources account for a significant share of investment in tertiary educational institutions. Private expenditure on tertiary educational institutions increased faster than public expenditure between 2010 and 2016 on average across OECD countries, although this varies from country to country. Participation in tertiary education is not correlated to the funding model in tertiary institutions and high levels of private expenditure at tertiary education are not necessarily associated with lower enrolment. Financial support mechanisms in the form of grants or loans help alleviate the financial burden to households, particularly in countries where private spending on tertiary education is high.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demand and Supply Shocks : Evidence from Corporate Earning Calls]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162315</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162315"/>
-        <updated>2022-02-08T21:03:59.035Z</updated>
-        <summary type="html"><![CDATA[This paper quantifies global demand, supply, and uncertainty shocks and compares two major global recessions: the 2008？09 Great Recession and the COVID-19 pandemic. Two alternative approaches are used to decompose economic shocks: text mining techniques on earning call transcripts and a structural Bayesian vector autoregression model. The results highlight sharp contrast in the size of supply and demand shocks over time and across sectors. While the Great Recession was characterized by demand shocks, COVID-19 caused sizable disruptions to both demand and supply. These shocks were broad-based with varying relative importance across major sectors. Furthermore, certain sub-sectors, such as professional and business services, internet retail, and grocery/department stores, fared better than others during the pandemic. The results imply that both targeted policies and conventional countercyclical fiscal and monetary policy can accelerate the economic recovery. Large demand shocks highlight an environment of deficient demand with countercyclical policy calibrated to the size of these shocks.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Targeted Furlough Scheme to Help the Economy in Downturns]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162298</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162298"/>
-        <updated>2022-02-08T21:03:59.026Z</updated>
-        <summary type="html"><![CDATA[The Coronavirus Job Retention Scheme (CJRS) is an important success story of the Covid-19 pandemic in the UK. The policy supported household finances by guarding employees from redundancy while also relaxing businesses’ financial constraints by lowering their wage bills. However, it is often overlooked that the CJRS was vital in making possible national lockdowns during 2020 and 2021, thereby curtailing the spread of the disease. For a future lockdown to be feasible would require the simultaneous reintroduction of a furlough scheme (G？rtz et al., 2021) and there may be applications of a version of this scheme in any future economic downturn. In principle, this could be an automatic stabiliser that complements other fiscal policy responses to a downturn. Germany and Switzerland have long-standing furlough schemes that were successfully deployed during the great recession and have remained in place since. Evidence shows these schemes help firms reorganise their operations during episodes of severe financial distress and that they tend to recover without capital and jobs being destroyed through bankruptcy. These are targeted schemes such that only affected sectors would be eligible. Ultimately, this is a question for politicians who would need to decide whether public finances are able to bear the scheme’s cost.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Education and Income Gradients in Longevity: The Role of Policy]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162308</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162308"/>
-        <updated>2022-02-08T21:03:59.017Z</updated>
-        <summary type="html"><![CDATA[Education and income are strong predictors of health and longevity. In the last 20 years many efforts have been made to understand if these relationships are causal and what the possible role of policy should be as a result. The evidence from various studies is ambiguous: the effects of education and income policies on health are heterogeneous and vary over time, and across places and populations. I discuss explanations for these disparate results and suggest directions for future research.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APCTT Working Paper on Innovation, Transfer and Diffusion of Fourth Industrial Revolution (4IR) Technologies to Catalyze Sustainable Development in Asia-Pacific]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162313</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162313"/>
-        <updated>2022-02-08T21:03:58.999Z</updated>
-        <summary type="html"><![CDATA[Countries in the Asia-Pacific region are fast embracing the fourth industrial revolution (4IR) technologies and the coronavirus pandemic has fast-tracked the adoption of such technologies. At the same time, the pandemic has adversely impacted the advancements towards achieving the 2030 Sustainable Development Goals (SDGs). While many developed and some developing countries are harnessing the benefits of 4IR technologies to achieve their SDGs, there is a risk that many developing and least developed countries (LDCs) could be left behind. Given this situation, this paper presents an overview of the status, opportunities and challenges related to 4IR technologies for sustainable development in the Asia-Pacific and draws some lessons for regional cooperation. It presents a comparison of the co…]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Promising Interventions Fail :  Personalized Coaching for Teachers in a Middle-Income Country]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162299</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162299"/>
-        <updated>2022-02-08T21:03:58.991Z</updated>
-        <summary type="html"><![CDATA[Children in developing countries have deep deficits in math and language. Personalized coaching for teachers has been proposed as a way of raising teacher quality and child achievement. The authors designed a coaching program that focused on one aspect of teacher quality―teacher-child interactions―that researchers in education and psychology have argued is critical for child development and learning. The coaching program was implemented in Ecuador, with 100 1st grade teachers randomly assigned to treatment and 100 to control. Coaching improved the quality of teacher-child interactions but reduced child achievement. These results underline the importance of evaluating new forms of professional development for teachers, even those that follow best practice, before these interventions are taken to scale.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supporting Lagging Students and Learning for All: Applying the Diagnose-and-Supplement System of Basic Skills in the Republic of Korea]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162301</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162301"/>
-        <updated>2022-02-08T21:03:58.983Z</updated>
-        <summary type="html"><![CDATA[Understanding students’ abilities and skills relative to the demands of the curriculum and guiding them accordingly is a vital part of maintaining a high-quality education system. Students below the basic level of academic skills need more time to learn and more personalized guidance from their teachers. The Republic of Korea has been meeting this need by developing and running the Diagnose-and-Supplement System of Basic Skills (DASOBS). This system is used to guide academically underachieving students by diagnosing their basic academic abilities constantly and in stages, and providing them with supplemental material that matches their academics. This system is intended to raise the degree of attention paid by schools and teachers to students who are easily isolated from the rest of the cl…]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -155,38 +59,28 @@
         <title type="html"><![CDATA[Pakistan’s Economy and Trade in the Age of Global Value Chains]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162310</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162310"/>
-        <updated>2022-02-08T21:03:58.974Z</updated>
+        <updated>2022-02-09T00:21:18.502Z</updated>
         <summary type="html"><![CDATA[The report combines innovative analytical tools with the latest available data to explore Pakistan’s involvement in GVCs. It produces indicators on factors including Pakistan’s rate of GVC participation, its patterns of specialization, and the price competitiveness of its exports. It is a joint publication with the Islamic Development Bank Institute.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Expecting Brexit]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162302</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162302"/>
-        <updated>2022-02-08T21:03:58.965Z</updated>
-        <summary type="html"><![CDATA[The Brexit vote precipitated the unravelling of the UK‘s membership of the world‘s deepest economic integration agreement. This paper reviews evidence on the realized economic effects of Brexit. The 2016 Brexit referendum changed expectations about future UK-EU relations. Studying its consequences provides new insights regarding the economic impacts of news and uncertainty shocks. Voting for Brexit had large negative effects on the UK economy between 2016 and 2019, leading to higher import and consumer prices, lower investment, and slower real wage and GDP growth. However, at the aggregate level, there was little or no trade diversion away from the EU, implying that many of the anticipated long-run effects of Brexit did not materialize before the new UK-EU trade relationship came into force in 2021.]]></summary>
+        <title type="html"><![CDATA[APCTT Working Paper on Innovation, Transfer and Diffusion of Fourth Industrial Revolution (4IR) Technologies to Catalyze Sustainable Development in Asia-Pacific]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162313</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162313"/>
+        <updated>2022-02-09T00:21:18.404Z</updated>
+        <summary type="html"><![CDATA[Countries in the Asia-Pacific region are fast embracing the fourth industrial revolution (4IR) technologies and the coronavirus pandemic has fast-tracked the adoption of such technologies. At the same time, the pandemic has adversely impacted the advancements towards achieving the 2030 Sustainable Development Goals (SDGs). While many developed and some developing countries are harnessing the benefits of 4IR technologies to achieve their SDGs, there is a risk that many developing and least developed countries (LDCs) could be left behind. Given this situation, this paper presents an overview of the status, opportunities and challenges related to 4IR technologies for sustainable development in the Asia-Pacific and draws some lessons for regional cooperation. It presents a comparison of the co…]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Idiosyncratic Income Risk and Aggregate Fluctuations]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162306</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162306"/>
-        <updated>2022-02-08T21:03:58.948Z</updated>
-        <summary type="html"><![CDATA[We study the role of idiosyncratic income shocks for aggregate fluctuations within a simple heterogeneous household framework with no binding borrowing constraints. We show that the presence of idiosyncratic income shocks affects the economy’s response to an aggregate shock in a way that can be captured by a consumption weighted average of the changes in uncertainty generated by the shock. We apply this framework to two example economies ―an endowment economy and a New Keynesian economy― and show that under plausible calibrations the impact of idiosyncratic income shocks on aggregate fluctuations is quantitatively small, since most of the changes in uncertainty are concentrated among poorer (low consumption) households.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-cutoff RD designs with observations located at each cutoff:  problems and solutions]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162304</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162304"/>
-        <updated>2022-02-08T21:03:58.940Z</updated>
-        <summary type="html"><![CDATA[In RD designs with multiple cutoffs, the identification of an average causal effect across cutoffs may be problematic if a marginally exposed subject is located exactly at each cutoff. This occurs whenever a fixed number of treatment slots is allocated starting from the subject with the highest (or lowest) value of the score, until exhaustion. Exploiting the ``within‘‘ variability at each cutoff is the safest and likely efficient option. Alternative strategies exist, but they do not always guarantee identification of a meaningful causal effect and are less precise. To illustrate our findings, we revisit the study of Pop-Eleches and Urquiola (2013).]]></summary>
+        <title type="html"><![CDATA[The (Un)Importance of Inheritance]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162307</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162307"/>
+        <updated>2022-02-09T00:21:18.397Z</updated>
+        <summary type="html"><![CDATA[Transfers from parents―either in the form of gifts or inheritances―have received much attention as a source of inequality. This paper uses a 19-year panel of administrative data for the population of Norway to examine the share of the Total Inflows available to an individual (defined as the capitalized sum of net labor income, government transfers, and gifts and inheritances received over the period) accounted for by capitalized gifts and inheritances. Perhaps surprisingly, we find that gifts and inheritances ㅁ represent a small share of Total Inflows; this is true across the distribution of Total Inflows, as well as at all levels of net wealth at a point in time. Gifts and inheritances are only an important source of income flows among those who have very wealthy parents. Additionally, gifts and inheritances have very little effect on the distribution of Total Inflows ？ when we do a counterfactual Total Inflows distribution with zero gifts and inheritances, it is not much different from the actual distribution. Our findings suggest that inheritance taxes may do little to mitigate the extreme wealth inequality in society.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -195,68 +89,150 @@
         <title type="html"><![CDATA[Output Concerns and Precautionary Savings in Emerging Markets‘ Debt and Reserve Accumulation]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162303</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162303"/>
-        <updated>2022-02-08T21:03:58.932Z</updated>
+        <updated>2022-02-09T00:21:18.388Z</updated>
         <summary type="html"><![CDATA[We study the joint behavior of external debt, international reserves, and the real interest rate based on a dynamic regime-switching small open economy model that incorporates the salient features of economic crises in emerging markets. Unlike reduced form analyses where contributions from different channels are difficult to delineate, our model allows separately assessing both possible motives behind reserve accumulation: mercantilistic behavior (output externalities) and precautionary savings. Using data from 24 emerging countries for 50 years, we estimate the model and show that both motives matter, but to differing degrees, in many of our sample countries, with international reserves serving as an instrument to sustain higher levels of output and insure against disruptions from crises. The model is quantitatively successful at matching various aspects of the data that exhibit substantial variation across these countries. Importantly, when present sudden stop risk and output externalities both have differing impact on debt and reserve management of different countries because of offsetting income and substitution effects.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Expectations Formation and Forward Information]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162305</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162305"/>
+        <updated>2022-02-09T00:21:18.380Z</updated>
+        <summary type="html"><![CDATA[We propose a model where forecasters have access to noisy signals about the future (forward information). In this setting, information varies not only across agents but also across horizons. As a result, estimated persistence of forecasts deviates from persistence of fundamentals and the ability of forecasts at shorter horizons to explain forecasts at longer horizons is limited. These properties tend to diminish as the forecast horizon increases. We document that this novel pattern is consistent with survey data for professional forecasters. We provide further evidence that time-series and cross-sectional variation in professional forecasts is driven by forward information. We propose a simple method for extracting the forward information component from survey and provide several applications of forward information.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Targeted Furlough Scheme to Help the Economy in Downturns]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162298</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162298"/>
+        <updated>2022-02-09T00:21:18.372Z</updated>
+        <summary type="html"><![CDATA[The Coronavirus Job Retention Scheme (CJRS) is an important success story of the Covid-19 pandemic in the UK. The policy supported household finances by guarding employees from redundancy while also relaxing businesses’ financial constraints by lowering their wage bills. However, it is often overlooked that the CJRS was vital in making possible national lockdowns during 2020 and 2021, thereby curtailing the spread of the disease. For a future lockdown to be feasible would require the simultaneous reintroduction of a furlough scheme (G？rtz et al., 2021) and there may be applications of a version of this scheme in any future economic downturn. In principle, this could be an automatic stabiliser that complements other fiscal policy responses to a downturn. Germany and Switzerland have long-standing furlough schemes that were successfully deployed during the great recession and have remained in place since. Evidence shows these schemes help firms reorganise their operations during episodes of severe financial distress and that they tend to recover without capital and jobs being destroyed through bankruptcy. These are targeted schemes such that only affected sectors would be eligible. Ultimately, this is a question for politicians who would need to decide whether public finances are able to bear the scheme’s cost.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Promising Interventions Fail :  Personalized Coaching for Teachers in a Middle-Income Country]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162299</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162299"/>
+        <updated>2022-02-09T00:21:18.356Z</updated>
+        <summary type="html"><![CDATA[Children in developing countries have deep deficits in math and language. Personalized coaching for teachers has been proposed as a way of raising teacher quality and child achievement. The authors designed a coaching program that focused on one aspect of teacher quality―teacher-child interactions―that researchers in education and psychology have argued is critical for child development and learning. The coaching program was implemented in Ecuador, with 100 1st grade teachers randomly assigned to treatment and 100 to control. Coaching improved the quality of teacher-child interactions but reduced child achievement. These results underline the importance of evaluating new forms of professional development for teachers, even those that follow best practice, before these interventions are taken to scale.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How has private expenditure on tertiary education evolved over time and how does it affect participation in education?]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162316</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162316"/>
+        <updated>2022-02-09T00:21:18.347Z</updated>
+        <summary type="html"><![CDATA[On average in OECD countries, private sources account for a significant share of investment in tertiary educational institutions. Private expenditure on tertiary educational institutions increased faster than public expenditure between 2010 and 2016 on average across OECD countries, although this varies from country to country. Participation in tertiary education is not correlated to the funding model in tertiary institutions and high levels of private expenditure at tertiary education are not necessarily associated with lower enrolment. Financial support mechanisms in the form of grants or loans help alleviate the financial burden to households, particularly in countries where private spending on tertiary education is high.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인 부동산 거래에 대한 문제점과 규제 방향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162250</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162250"/>
+        <updated>2022-02-09T00:21:18.339Z</updated>
+        <summary type="html"><![CDATA[하나금융경영연구소가 「외국인 부동산 거래에 대한 문제점과 규제 방향」을 발표하였다.
+
+- 우리나라는 ’61년「외국인토지법」시행으로 외국인 토지취득을 엄격히 규제하기 시작하였으나 ’94년 일부 완화되고 ’98년 허가제에서 신고제로 전환하여 추가적 완화. ’16년「외국인토지법」폐지 이후「부동산 거래신고 등에 관한 법률」에 의거하여 통합 관리 시행 중이나 신분 변경 신고 및 보존지역 거래의 사전 허가 이외의 차별적 규제는 없음. 과거 주요 투자자는 미국교포 중심이었으나 점차 순수외국인의 투자가 늘어나고 있고 최근 기타 주거용 부동산의 매입비중이 아파트 비중보다 빠른 속도로 증가하고 있는 상황
+
+- 외국인이 해외 대출을 통해 국내 부동산에 투자하는 경우 대출 규제의 적용이 불가능하고 중과세 대상판별이 어려워 내국인에 대한 역차별 논란이 발생함. 특히 다주택 보유에 관련된 중과세는 ‘세대당 주택수’를 기준으로 적용하여 세대원의 주택 보유실태 파악이 어려운 외국인의 경우 중과세 대상에서 제외되기 쉬움. 비거주자의 양도소득세에 대해 거래금액의 10% 혹은 양도차익의 25% 중 적은 금액을 원천 징수하여 추후 정산하는 국내 제도가 있으나 중과세의 역할은 하지 않음.
+
+- 관세청은 ’21.4월 최근 3년간 외국인 아파트 매매자금을 분석하여 840억 원 상당의 서울 아파트 55채를 불법 취득한 외국인의 사례 등 부정거래를 대거 적발. ’21.11월 기획재정부·한국은행·관세청은 한국은행이 보유한 외국인 부동산 취득 신고 자료를 관세청과 공유하기 위한 시스템 구축 작업을 진행 중이라고 발표. 이에 따라 외국인의 부동산 투기 우려가 확산하여 국회는 추가 취득세 부과, 매수자 자격요건 강화, 대출 제한 등에 관한 법안을 입안하여 규제 논의 시작
+
+- 타국의 외국인 부동산 투자에 대한 규제가 강화되고, 내국인의 부동산 稅부담이 가중되는 시점에서 국내의 외국인 부동산 투자 규정의 조속한 정립이 필요. 현재 여러 국가들이 외국인에 대한 추가 세율을 적용하고 있는 바, 국가 간의 상호주의 위배에 대한 논란을 신속히 해결하여 빠른 시일 내 관련법안 추진 필요. 내국 기업들과의 형평성을 맞추기 위하여, 해외 투자자가 법인 및 신탁 등의 간접투자 루트를 통한 탈세 및 불법 송금의 루트를 사전에 차단하는 법안 정비 필요. 현지 탈세 자금 및 불법 세탁 자금의 국내 부동산 시장 유입을 막기 위하여, 해외에서 송금되어 오는 거래대금의 면밀한 자금 출처 조사 강화가 요구]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The European Union’s Safeguard for Rice Imports from Cambodia and Myanmar]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162314</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162314"/>
-        <updated>2022-02-08T21:03:58.924Z</updated>
+        <updated>2022-02-09T00:21:18.324Z</updated>
         <summary type="html"><![CDATA[Following the rapid growth of Indica rice imports from Cambodia and Myanmar, the European Union (EU) adopted safeguard measures to reinstate the common-customs tariff rate of 175 euros per ton from 2019, with a progressive liberalization over three years. To estimate the impact of safeguard duties, this paper uses a sample of milled rice imports in 28 EU importers at the monthly level during 2017-2020 and adopts a standard triple differences approach. The results show that safeguard duties have a significantly negative impact on import values and quantity of affected goods, and a significantly positive impact on import prices. Safeguard duties appear to induce trade redirection to other third markets, but produce little substitution effects for EU rice producers.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Labor Market Fluidity and Human Capital Accumulation]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162309</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162309"/>
-        <updated>2022-02-08T21:03:58.906Z</updated>
-        <summary type="html"><![CDATA[Using panel data from 23 OECD countries, I document that wages grow more over the life-cycle in countries where job-to-job mobility is more common. A life-cycle theory of job shopping and accumulation of skills on the job highlights that a more fluid labor market allows workers to faster relocate to jobs where they can better use their skills, incentivizing accumulation of skills. Lower labor market fluidity reduces life-cycle wage growth by 20 percent and aggregate labor productivity by nine percent across the OECD relative to the US. I derive a set of testable predictions for training and confront them with comparable cross-country training data, finding support for the theory.]]></summary>
+        <title type="html"><![CDATA[Education and Income Gradients in Longevity: The Role of Policy]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162308</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162308"/>
+        <updated>2022-02-09T00:21:18.316Z</updated>
+        <summary type="html"><![CDATA[Education and income are strong predictors of health and longevity. In the last 20 years many efforts have been made to understand if these relationships are causal and what the possible role of policy should be as a result. The evidence from various studies is ambiguous: the effects of education and income policies on health are heterogeneous and vary over time, and across places and populations. I discuss explanations for these disparate results and suggest directions for future research.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.2 「분야별 재정지출」]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162254</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162254"/>
-        <updated>2022-02-08T21:03:58.898Z</updated>
-        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.2 「분야별 재정지출」을 발표하였다.
-
-- ’22년 본예산의 분야별 재정지출은 사회복지 195.0조원, 일반·지방행정 98.1조원, 교육 84.2조원 등으로 편성]]></summary>
+        <title type="html"><![CDATA[Supporting Lagging Students and Learning for All: Applying the Diagnose-and-Supplement System of Basic Skills in the Republic of Korea]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162301</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162301"/>
+        <updated>2022-02-09T00:21:18.308Z</updated>
+        <summary type="html"><![CDATA[Understanding students’ abilities and skills relative to the demands of the curriculum and guiding them accordingly is a vital part of maintaining a high-quality education system. Students below the basic level of academic skills need more time to learn and more personalized guidance from their teachers. The Republic of Korea has been meeting this need by developing and running the Diagnose-and-Supplement System of Basic Skills (DASOBS). This system is used to guide academically underachieving students by diagnosing their basic academic abilities constantly and in stages, and providing them with supplemental material that matches their academics. This system is intended to raise the degree of attention paid by schools and teachers to students who are easily isolated from the rest of the cl…]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금융업의 인공지능 활용과 정책과제]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162248</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162248"/>
-        <updated>2022-02-08T21:03:58.890Z</updated>
-        <summary type="html"><![CDATA[한국금융연구원이 『금융업의 인공지능 활용과 정책과제』를 발표하였다.
-
-- 디지털 기술의 급성장과 코로나19 사태로 인해 전(全) 산업에 걸쳐 인공지능(AI)의 도입이 빠르게 확산되고 있음. 인공지능의 도입은 생산성을 향상시킬 수 있지만 인공지능이 갖는 ‘자동화된 대응(의사결정)’이라는 속성으로 인해 다양한 윤리 및 편향성 이슈가 발생할 수 있고, 금융안정성에도 영향을 미칠 수 있음. 본고에서 최근 우리 정부와 금융당국이 추진해온 인공지능 관련 정책을 평가해 보고, 국내은행 대상 서베이와 인터뷰를 토대로 다음과 같은 금융 분야 정책방향과 세부과제를 제시함. 
-
-- 첫째, 인공지능에 대한 규제는 정부가 원칙과 가이드라인을 제시하고 민간이 스스로 세부지침을 정할 수 있도록 연성규율체계를 갖는 것이 바람직함. 이런 맥락에서 정책당국은 금융회사가 AI에 대한 적합성평가역량을 제고할 수 있도록 유도해야 할 것임. 둘째, 규율체계는 인공지능이 유발할 수 있는 심각한 부작용에 초점을 맞추어 리스크 중심으로 접근하는 것이 효과적임. 이를 위해 고위험거래 중심의 규율체계와 손실보상매커니즘을 설계할 필요가 있음. 셋째, 인공지능의 생산성 향상 효과는 결국 데이터의 양과 질에 좌우되기 때문에 정책당국은 금융회사들이 보다 많은 학습데이터(공공데이터 포함)를 활용할 수 있고 자체 모델을 안전하게 테스트할 수 있는 기반을 마련해야 함. 이를 위해 데이터 결합을 활성화 하고 망분리 규제도 현실화시킬 필요가 있음.]]></summary>
+        <title type="html"><![CDATA[International Voids, Capital Markets and Temporary Migration : Evidence from Bangladesh]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162300</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162300"/>
+        <updated>2022-02-09T00:21:18.299Z</updated>
+        <summary type="html"><![CDATA[Limited access to credit due to poorly functioning institutions is a key constraint to business creation. This paper examines the role played by temporary migration in addressing the institutional void of limited access to loans by aspiring entrepreneurs. Using rich data from one of the major migrant-sending countries globally, Bangladesh, it provides evidence on how migration is employed as a common intermediate step to accumulate the capital required for entrepreneurship. The paper offers, for the first time, a detailed account of the financial costs and returns to temporary migration as a risky investment. It shows that international migration shares many common features with classical entrepreneurial investments: it requires the payment of a considerable upfront cost, generates high returns, and is risky. The paper shows that temporary migrants usually get high returns from their migration episode and are often successful in starting entrepreneurial activities back home, thanks to faster accumulation of savings overseas. Given the similarities shared by Bangladesh and other major migrant-sending countries globally, the key findings of the paper are relevant beyond the Bangladeshi context studied by this paper.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도시취약지역 공공주도 정비와 갈등양상별 공공성 확보 방향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162247</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162247"/>
-        <updated>2022-02-08T21:03:58.882Z</updated>
-        <summary type="html"><![CDATA[국토연구원이 「도시취약지역 공공주도 정비와 갈등양상별 공공성 확보 방향」을 발표하였다.
+        <title type="html"><![CDATA[Idiosyncratic Income Risk and Aggregate Fluctuations]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162306</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162306"/>
+        <updated>2022-02-09T00:21:18.291Z</updated>
+        <summary type="html"><![CDATA[We study the role of idiosyncratic income shocks for aggregate fluctuations within a simple heterogeneous household framework with no binding borrowing constraints. We show that the presence of idiosyncratic income shocks affects the economy’s response to an aggregate shock in a way that can be captured by a consumption weighted average of the changes in uncertainty generated by the shock. We apply this framework to two example economies ―an endowment economy and a New Keynesian economy― and show that under plausible calibrations the impact of idiosyncratic income shocks on aggregate fluctuations is quantitatively small, since most of the changes in uncertainty are concentrated among poorer (low consumption) households.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demand and Supply Shocks : Evidence from Corporate Earning Calls]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162315</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162315"/>
+        <updated>2022-02-09T00:21:18.283Z</updated>
+        <summary type="html"><![CDATA[This paper quantifies global demand, supply, and uncertainty shocks and compares two major global recessions: the 2008？09 Great Recession and the COVID-19 pandemic. Two alternative approaches are used to decompose economic shocks: text mining techniques on earning call transcripts and a structural Bayesian vector autoregression model. The results highlight sharp contrast in the size of supply and demand shocks over time and across sectors. While the Great Recession was characterized by demand shocks, COVID-19 caused sizable disruptions to both demand and supply. These shocks were broad-based with varying relative importance across major sectors. Furthermore, certain sub-sectors, such as professional and business services, internet retail, and grocery/department stores, fared better than others during the pandemic. The results imply that both targeted policies and conventional countercyclical fiscal and monetary policy can accelerate the economic recovery. Large demand shocks highlight an environment of deficient demand with countercyclical policy calibrated to the size of these shocks.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expecting Brexit]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162302</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162302"/>
+        <updated>2022-02-09T00:21:18.275Z</updated>
+        <summary type="html"><![CDATA[The Brexit vote precipitated the unravelling of the UK‘s membership of the world‘s deepest economic integration agreement. This paper reviews evidence on the realized economic effects of Brexit. The 2016 Brexit referendum changed expectations about future UK-EU relations. Studying its consequences provides new insights regarding the economic impacts of news and uncertainty shocks. Voting for Brexit had large negative effects on the UK economy between 2016 and 2019, leading to higher import and consumer prices, lower investment, and slower real wage and GDP growth. However, at the aggregate level, there was little or no trade diversion away from the EU, implying that many of the anticipated long-run effects of Brexit did not materialize before the new UK-EU trade relationship came into force in 2021.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[은행] 글로벌 은행산업 트렌드(2.7)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162290</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162290"/>
+        <updated>2022-02-09T00:21:18.237Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘[은행] 글로벌 은행산업 트렌드(2.7)’를 발표하였다.
 
-- 최근 공공주도 정비사업 추진 시 도시취약지역(쪽방촌 등)이 사업대상지역으로 포함되면서 정비사업의 공공성을 강조하는 방향으로 정부정책 선회. 정비사업의 공공성을 강조하는 과정에서 이해관계자 간 갈등양상이 다변화하고 있음. 다변화하고 있는 갈등을 단순히 토지등소유자(재개발구역 안의 토지 또는 건축물의 소유자)와 공공 간 갈등으로 축소하거나,적절히 관리하지 못한다면 정비사업 추진 지연, 세입자 주거불안정성 증가 등의 문제가 발생하여 또 다른 사회비용이 발생할 우려가 있음.
+- 지난주 글로벌 은행산업 주요 이슈는 ▲미국의 은행 M&A 증가세 지속 전망 ▲JPM의 유럽 결제시장 진출 강화 ▲BNP의 대고객 공급망 문제 지원. Santander의 미국 모기지 철수, 영국 핀테크의 해외진출 박차, 태국의 디지털 은행 출범 준비 등
 
-- 다변화하는 갈등양상을 파악하고자 공동체·사업·지역 특성을 기준으로 공공주도 정비사업이 논의 중이거나 진행 중인 전국 3개 쪽방촌(서울, 대전, 부산)에 관한 사례연구를 실시한 결과, 갈등양상은 사업 특성보다는 공동체와 지역 특성에 영향을 받는 것으로 나타남. 소유자와 공공 간 갈등 이면에는 소유자 간 갈등이 자리하고 있으며, 대표성을 가진 세입자 중심의 주민조직이 없을 경우 소유자 외 주체는 사업 추진과정에 실질적으로 참여하기 어려움. 조속한 사업 추진을 위해서는 사업대상지별 갈등양상을 파악하고 이를 통해 사업대상지별로 차별화된 공공성 개념을 명확하게 정의할 필요가 있음.]]></summary>
+- 은행권 주가는 금리 상승에 따른 수익 증가 수혜 기대 등을 반영해 상승. 미국 +4.3%, 유럽 +4.4%, 일본 +1.9%, 중국 휴장, 한국 +3.2%]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -265,7 +241,7 @@
         <title type="html"><![CDATA[[현지정보] 2022년 2월 ECB 통화정책회의 결과]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162243</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162243"/>
-        <updated>2022-02-08T21:03:58.871Z</updated>
+        <updated>2022-02-09T00:21:18.223Z</updated>
         <summary type="html"><![CDATA[한국은행이 『[현지정보] 2022년 2월 ECB 통화정책회의 결과』를 발표하였다.
 
 - ECB는 2.3일 개최된 정책위원회 회의에서 정책금리는 동결하고 팬데믹 긴급매입프로그램(PEPP) 순매입 조치는 3월말 종료하며 자산매입프로그램(APP) 순매입 규모는 2/4분기(월 400억 유로) 및 3/4분기중(월 300억 유로) 일시 확대(현재 월 200억 유로)하기로 한 종전 결정(2021.12월)을 유지
@@ -276,17 +252,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021년 초연결 지능화 시대 D.N.A 분야 혁신기업]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162251</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162251"/>
-        <updated>2022-02-08T21:03:58.861Z</updated>
-        <summary type="html"><![CDATA[한국지능정보사회진흥원이 「2021년 초연결 지능화 시대 D.N.A 분야 혁신기업」을 발표하였다.
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.2 「분야별 재정지출」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162254</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162254"/>
+        <updated>2022-02-09T00:21:18.207Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.2 「분야별 재정지출」을 발표하였다.
 
-<목 차>
-
-1장 조사개요
-2장  D.N.A 산업 주요 현황(180대 기업)
-3장  D.N.A 주요 혁신기업 인터뷰]]></summary>
+- ’22년 본예산의 분야별 재정지출은 사회복지 195.0조원, 일반·지방행정 98.1조원, 교육 84.2조원 등으로 편성]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -295,7 +267,7 @@
         <title type="html"><![CDATA[주간 Wall Street 인사이트(2.7)]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162293</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162293"/>
-        <updated>2022-02-08T21:03:58.831Z</updated>
+        <updated>2022-02-09T00:21:18.188Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 ‘주간 Wall Street 인사이트(2.7)’를 발표하였다.
 
 - [파월 의장의 “humble”, “nimble” 발언] 향후 정상화 경로에 대한 논란이 여전  
@@ -308,10 +280,90 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.3 「사회복지」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162255</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162255"/>
+        <updated>2022-02-09T00:21:18.170Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.3 「사회복지」를 발표하였다.
+
+- ’22년 사회복지 본예산은 195.0조원. 부문별 예산규모를 살펴보면, 공적연금 63.0조원(32.3%), 고용 25.9조원(13.3%), 노인 20.5조원(10.5%), 기초생활보장 16.8조원(8.6%) 등임.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도시취약지역 공공주도 정비와 갈등양상별 공공성 확보 방향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162247</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162247"/>
+        <updated>2022-02-09T00:21:18.162Z</updated>
+        <summary type="html"><![CDATA[국토연구원이 「도시취약지역 공공주도 정비와 갈등양상별 공공성 확보 방향」을 발표하였다.
+
+- 최근 공공주도 정비사업 추진 시 도시취약지역(쪽방촌 등)이 사업대상지역으로 포함되면서 정비사업의 공공성을 강조하는 방향으로 정부정책 선회. 정비사업의 공공성을 강조하는 과정에서 이해관계자 간 갈등양상이 다변화하고 있음. 다변화하고 있는 갈등을 단순히 토지등소유자(재개발구역 안의 토지 또는 건축물의 소유자)와 공공 간 갈등으로 축소하거나,적절히 관리하지 못한다면 정비사업 추진 지연, 세입자 주거불안정성 증가 등의 문제가 발생하여 또 다른 사회비용이 발생할 우려가 있음.
+
+- 다변화하는 갈등양상을 파악하고자 공동체·사업·지역 특성을 기준으로 공공주도 정비사업이 논의 중이거나 진행 중인 전국 3개 쪽방촌(서울, 대전, 부산)에 관한 사례연구를 실시한 결과, 갈등양상은 사업 특성보다는 공동체와 지역 특성에 영향을 받는 것으로 나타남. 소유자와 공공 간 갈등 이면에는 소유자 간 갈등이 자리하고 있으며, 대표성을 가진 세입자 중심의 주민조직이 없을 경우 소유자 외 주체는 사업 추진과정에 실질적으로 참여하기 어려움. 조속한 사업 추진을 위해서는 사업대상지별 갈등양상을 파악하고 이를 통해 사업대상지별로 차별화된 공공성 개념을 명확하게 정의할 필요가 있음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 초연결 지능화 시대 D.N.A 분야 혁신기업]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162251</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162251"/>
+        <updated>2022-02-09T00:21:18.154Z</updated>
+        <summary type="html"><![CDATA[한국지능정보사회진흥원이 「2021년 초연결 지능화 시대 D.N.A 분야 혁신기업」을 발표하였다.
+
+<목 차>
+
+1장 조사개요
+2장  D.N.A 산업 주요 현황(180대 기업)
+3장  D.N.A 주요 혁신기업 인터뷰]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 관련 동향 및 해외시각(2.7)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162291</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162291"/>
+        <updated>2022-02-09T00:21:18.146Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.7)’을 발표하였다.
+
+- (동향) WHO 집계기준(2월 4일), 전세계 코로나19 확진자 수는 386,548,962명(전일대비 +2,871,646명), 사망자 수는 5,705,754명(전일대비 +11,527명)
+
+- (해외시각) (JPM) 지난주 ECB와 BoE가 Fed의 매파적 기조에 동조. BoE는 다음달 3번째 금리인상에 나설 것으로 보이며, ECB도 예상보다 빠른 정상화에 착수할 전망. 최근의 높은 인플레이션과 노동시장 타이트닝 가속화 상황에서 중앙은행들이 시장 신뢰를 구축하기 위해 빠른 행보를 취하는 것으로 평가. 향후 인플레이션은 연말로 접어들면서 공급망 제약 완화 및 천연가스 가격 하락에 힘입어 하락하겠지만, 노동시장이 추가로 타이트해지고 인플레이션 압력이 여러 부문에서 나타날 것이므로 중앙은행들의 통화정책 긴축기조는 지속될 전망]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.1 「2022년 본예산」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162253</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162253"/>
+        <updated>2022-02-09T00:21:18.125Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.1 「2022년 본예산」을 발표하였다.
+
+- 2022년 본예산: 총수입 553.6조원, 총지출 607.7조원, 통합재정수지 54.1조원 적자, 국가채무 1,064.4조원]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 ESG의 주요 이슈는?]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162297</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162297"/>
+        <updated>2022-02-09T00:21:18.117Z</updated>
+        <summary type="html"><![CDATA[하나금융연구소가 「2022년 ESG의 주요 이슈는?」을 발표하였다.
+
+- 글로벌 탄소중립 이행이 가속화되면서 ESG는 사회와 경제, 투자에서 주류로 자리잡고 있음. ESG로의 자금유입 확대로 민간자본은 규제기관과 더불어 기업들의 ESG 촉구에 기여하고 있고, 그동안 ESG 투자 한계로 거론되었던 ESG 평가도 진전되어 2022년은 평가 표준이 자리잡는 분기점이 될 것으로 기대됨. 기업 온실가스 보고 범위 확장에 따른 탄소중립의 뉴 아마존 효과도 향후 ESG 주요 키워드가 되겠으며 행동주의 투자 확대, 기후금융의 참가자로서 사모펀드 부상 또한 관전 포인트임.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[주간이슈(2.7) : 미국 1월 CPI, 2개월 연속 7%대 이어질지 주목]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162289</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162289"/>
-        <updated>2022-02-08T21:03:58.813Z</updated>
+        <updated>2022-02-09T00:21:18.109Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 ‘주간이슈(2.7) : 미국 1월 CPI, 2개월 연속 7%대 이어질지 주목’을 발표하였다.
 
 - 미국 1월 CPI, 2개월 연속 7%대 이어질지 주목. 영국 4Q GDP도 관심
@@ -330,74 +382,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재정분권 1단계 전환사업의 재정책임성 측면에서의 변화 - 공무원 인식조사 결과를 바탕으로 -]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162252</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162252"/>
-        <updated>2022-02-08T21:03:58.804Z</updated>
-        <summary type="html"><![CDATA[한국지방행정연구원이 「재정분권 1단계 전환사업의 재정책임성 측면에서의 변화 - 공무원 인식조사 결과를 바탕으로 -」를 발표하였다.
-
-- 지자체 전환사업 담당 공무원들이 지방재정의 책임성을 측정하는 질문에 보통(5)이라고 응답한 비율이 전반적으로 20% 가까운 것을 고려하면 지방재정의 건전성 제고 정도 질문 외에는 이양 전과 비슷하다보다는 높아질 것이다라고 응답한 비율이 높았음.
-
-- 결국 국고보조사업의 지방 이양 즉, 지자체의 자체사업이 되었을 때 재원만 동시에 이양된다면 지방재정의 책임성 확보가 더 양호한 환경임을 알 수 있음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.3 「사회복지」]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162255</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162255"/>
-        <updated>2022-02-08T21:03:58.782Z</updated>
-        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.3 「사회복지」를 발표하였다.
-
-- ’22년 사회복지 본예산은 195.0조원. 부문별 예산규모를 살펴보면, 공적연금 63.0조원(32.3%), 고용 25.9조원(13.3%), 노인 20.5조원(10.5%), 기초생활보장 16.8조원(8.6%) 등임.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 관련 동향 및 해외시각(2.7)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162291</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162291"/>
-        <updated>2022-02-08T21:03:58.772Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.7)’을 발표하였다.
-
-- (동향) WHO 집계기준(2월 4일), 전세계 코로나19 확진자 수는 386,548,962명(전일대비 +2,871,646명), 사망자 수는 5,705,754명(전일대비 +11,527명)
-
-- (해외시각) (JPM) 지난주 ECB와 BoE가 Fed의 매파적 기조에 동조. BoE는 다음달 3번째 금리인상에 나설 것으로 보이며, ECB도 예상보다 빠른 정상화에 착수할 전망. 최근의 높은 인플레이션과 노동시장 타이트닝 가속화 상황에서 중앙은행들이 시장 신뢰를 구축하기 위해 빠른 행보를 취하는 것으로 평가. 향후 인플레이션은 연말로 접어들면서 공급망 제약 완화 및 천연가스 가격 하락에 힘입어 하락하겠지만, 노동시장이 추가로 타이트해지고 인플레이션 압력이 여러 부문에서 나타날 것이므로 중앙은행들의 통화정책 긴축기조는 지속될 전망]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.1 「2022년 본예산」]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162253</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162253"/>
-        <updated>2022-02-08T21:03:58.750Z</updated>
-        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.1 「2022년 본예산」을 발표하였다.
-
-- 2022년 본예산: 총수입 553.6조원, 총지출 607.7조원, 통합재정수지 54.1조원 적자, 국가채무 1,064.4조원]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 ESG의 주요 이슈는?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162297</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162297"/>
-        <updated>2022-02-08T21:03:58.728Z</updated>
-        <summary type="html"><![CDATA[하나금융연구소가 「2022년 ESG의 주요 이슈는?」을 발표하였다.
-
-- 글로벌 탄소중립 이행이 가속화되면서 ESG는 사회와 경제, 투자에서 주류로 자리잡고 있음. ESG로의 자금유입 확대로 민간자본은 규제기관과 더불어 기업들의 ESG 촉구에 기여하고 있고, 그동안 ESG 투자 한계로 거론되었던 ESG 평가도 진전되어 2022년은 평가 표준이 자리잡는 분기점이 될 것으로 기대됨. 기업 온실가스 보고 범위 확장에 따른 탄소중립의 뉴 아마존 효과도 향후 ESG 주요 키워드가 되겠으며 행동주의 투자 확대, 기후금융의 참가자로서 사모펀드 부상 또한 관전 포인트임.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[일본 증권업계의 ESG 대응 현황]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162286</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162286"/>
-        <updated>2022-02-08T21:03:58.713Z</updated>
+        <updated>2022-02-09T00:21:18.100Z</updated>
         <summary type="html"><![CDATA[자본시장연구원이 『일본 증권업계의 ESG 대응 현황』을 발표하였다.
 
 - 전 세계 지속가능투자(Sustainable Investment)의 규모가 증가하는 가운데 일본에서도 ESG 투자에 대한 강화 기조가 확산되고 있음. 그동안 일본 정부 및 관련 기관들은 지배구조(G)와 환경(E) 중심의 대책을 내놓았으며 최근에는 사회(S)의 확산에 대한 논의가 이어지고 있음. 증권회사는 시장의 자금부족 해결과 금융중개 기능의 충실화를 목표로 ESG 금융상품을 설계, 취급하고 있으며 ESG 부서를 설치하여 경영전략을 수립 및 추진하고 있음. ESG 투자가 기업의 지속가능성을 높이고 수익성을 제고하기 위한 국제적 기류임을 인식함에 따라 일본 정부와 관련기관은 제도 마련을 위한 논의와 함께 모니터링을 강화하고 있으며 증권업계에서도 ESG 경영 전략은 더욱 확대될 것]]></summary>
@@ -406,42 +394,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외국인 부동산 거래에 대한 문제점과 규제 방향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162250</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162250"/>
-        <updated>2022-02-08T21:03:58.702Z</updated>
-        <summary type="html"><![CDATA[하나금융경영연구소가 「외국인 부동산 거래에 대한 문제점과 규제 방향」을 발표하였다.
-
-- 우리나라는 ’61년「외국인토지법」시행으로 외국인 토지취득을 엄격히 규제하기 시작하였으나 ’94년 일부 완화되고 ’98년 허가제에서 신고제로 전환하여 추가적 완화. ’16년「외국인토지법」폐지 이후「부동산 거래신고 등에 관한 법률」에 의거하여 통합 관리 시행 중이나 신분 변경 신고 및 보존지역 거래의 사전 허가 이외의 차별적 규제는 없음. 과거 주요 투자자는 미국교포 중심이었으나 점차 순수외국인의 투자가 늘어나고 있고 최근 기타 주거용 부동산의 매입비중이 아파트 비중보다 빠른 속도로 증가하고 있는 상황
-
-- 외국인이 해외 대출을 통해 국내 부동산에 투자하는 경우 대출 규제의 적용이 불가능하고 중과세 대상판별이 어려워 내국인에 대한 역차별 논란이 발생함. 특히 다주택 보유에 관련된 중과세는 ‘세대당 주택수’를 기준으로 적용하여 세대원의 주택 보유실태 파악이 어려운 외국인의 경우 중과세 대상에서 제외되기 쉬움. 비거주자의 양도소득세에 대해 거래금액의 10% 혹은 양도차익의 25% 중 적은 금액을 원천 징수하여 추후 정산하는 국내 제도가 있으나 중과세의 역할은 하지 않음.
-
-- 관세청은 ’21.4월 최근 3년간 외국인 아파트 매매자금을 분석하여 840억 원 상당의 서울 아파트 55채를 불법 취득한 외국인의 사례 등 부정거래를 대거 적발. ’21.11월 기획재정부·한국은행·관세청은 한국은행이 보유한 외국인 부동산 취득 신고 자료를 관세청과 공유하기 위한 시스템 구축 작업을 진행 중이라고 발표. 이에 따라 외국인의 부동산 투기 우려가 확산하여 국회는 추가 취득세 부과, 매수자 자격요건 강화, 대출 제한 등에 관한 법안을 입안하여 규제 논의 시작
-
-- 타국의 외국인 부동산 투자에 대한 규제가 강화되고, 내국인의 부동산 稅부담이 가중되는 시점에서 국내의 외국인 부동산 투자 규정의 조속한 정립이 필요. 현재 여러 국가들이 외국인에 대한 추가 세율을 적용하고 있는 바, 국가 간의 상호주의 위배에 대한 논란을 신속히 해결하여 빠른 시일 내 관련법안 추진 필요. 내국 기업들과의 형평성을 맞추기 위하여, 해외 투자자가 법인 및 신탁 등의 간접투자 루트를 통한 탈세 및 불법 송금의 루트를 사전에 차단하는 법안 정비 필요. 현지 탈세 자금 및 불법 세탁 자금의 국내 부동산 시장 유입을 막기 위하여, 해외에서 송금되어 오는 거래대금의 면밀한 자금 출처 조사 강화가 요구]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[은행] 글로벌 은행산업 트렌드(2.7)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162290</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162290"/>
-        <updated>2022-02-08T21:03:58.683Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘[은행] 글로벌 은행산업 트렌드(2.7)’를 발표하였다.
-
-- 지난주 글로벌 은행산업 주요 이슈는 ▲미국의 은행 M&A 증가세 지속 전망 ▲JPM의 유럽 결제시장 진출 강화 ▲BNP의 대고객 공급망 문제 지원. Santander의 미국 모기지 철수, 영국 핀테크의 해외진출 박차, 태국의 디지털 은행 출범 준비 등
-
-- 은행권 주가는 금리 상승에 따른 수익 증가 수혜 기대 등을 반영해 상승. 미국 +4.3%, 유럽 +4.4%, 일본 +1.9%, 중국 휴장, 한국 +3.2%]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021년 한국인의 행복조사 주요 결과]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162294</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162294"/>
-        <updated>2022-02-08T21:03:58.330Z</updated>
+        <updated>2022-02-09T00:21:18.090Z</updated>
         <summary type="html"><![CDATA[국회미래연구원이 『2021년 한국인의 행복조사 주요 결과』를 발표하였다.
 
 - 2021년 「한국인의 행복조사」의 결과, 한국인 전체 평균의 전반적 행복감은 6.56점(응답 범위: 0~10점)으로 2020년도 6.83점을 기록했던 것에 비해 소폭이지만 통계적으로 유의하게 행복 수준이 낮아졌음.
@@ -456,10 +412,38 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[최근 상장사 대규모 횡령 사태와 내부회계관리제도의 시사점]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162287</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162287"/>
+        <updated>2022-02-09T00:21:18.071Z</updated>
+        <summary type="html"><![CDATA[자본시장연구원이 『최근 상장사 대규모 횡령 사태와 내부회계관리제도의 시사점』을 발표하였다.
+
+- 코스닥 상장사의 대규모 횡령 사태로 내부회계관리제도의 실효성에 대한 논란이 불거졌음. 2016년도부터 2021년까지 주권상장법인을 대상으로 횡령ㆍ배임 사건의 발생 빈도를 전수 조사한 결과 2019년도부터 단계적으로 시행된 내부회계관리제도의 감사는 횡령ㆍ배임 사건을 예방하는 데 일정 부분 기여한 것으로 판단됨. 그럼에도 불구하고 최고경영진의 확고한 의지 없이는 이와 같은 대규모 횡령 사태의 재발을 막기 어렵다는 점에서 관련 제도의 보완 방안을 마련할 필요가 있음. 
+
+- 첫째, 중요성 금액 기준을 초과하는 금융자산 및 금융부채에 대해서는 중간재무제표의 검토 과정에서 계정잔액의 입증가능 여부에 대해 보다 엄격한 검토 절차를 수행할 필요가 있음. 둘째, 횡령ㆍ배임죄의 형량에 대한 예측가능성을 높여 위반 동기를 원천적으로 억제할 필요가 있음. 셋째, 경영진과 이사회가 내부회계관리제도의 충실한 설계와 운영을 입증하는 경우 인적ㆍ금전적 제재를 경감하는 조항을 명문화하여 내부회계관리제도의 실효적 구축 및 운영에 대한 인센티브를 제공할 필요가 있음. 마지막으로 내부고발 유인을 확대하여 대규모 부정 사태의 예방과 조기 적발 유인을 제고할 필요가 있음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금융업의 인공지능 활용과 정책과제]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162248</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162248"/>
+        <updated>2022-02-09T00:21:18.061Z</updated>
+        <summary type="html"><![CDATA[한국금융연구원이 『금융업의 인공지능 활용과 정책과제』를 발표하였다.
+
+- 디지털 기술의 급성장과 코로나19 사태로 인해 전(全) 산업에 걸쳐 인공지능(AI)의 도입이 빠르게 확산되고 있음. 인공지능의 도입은 생산성을 향상시킬 수 있지만 인공지능이 갖는 ‘자동화된 대응(의사결정)’이라는 속성으로 인해 다양한 윤리 및 편향성 이슈가 발생할 수 있고, 금융안정성에도 영향을 미칠 수 있음. 본고에서 최근 우리 정부와 금융당국이 추진해온 인공지능 관련 정책을 평가해 보고, 국내은행 대상 서베이와 인터뷰를 토대로 다음과 같은 금융 분야 정책방향과 세부과제를 제시함. 
+
+- 첫째, 인공지능에 대한 규제는 정부가 원칙과 가이드라인을 제시하고 민간이 스스로 세부지침을 정할 수 있도록 연성규율체계를 갖는 것이 바람직함. 이런 맥락에서 정책당국은 금융회사가 AI에 대한 적합성평가역량을 제고할 수 있도록 유도해야 할 것임. 둘째, 규율체계는 인공지능이 유발할 수 있는 심각한 부작용에 초점을 맞추어 리스크 중심으로 접근하는 것이 효과적임. 이를 위해 고위험거래 중심의 규율체계와 손실보상매커니즘을 설계할 필요가 있음. 셋째, 인공지능의 생산성 향상 효과는 결국 데이터의 양과 질에 좌우되기 때문에 정책당국은 금융회사들이 보다 많은 학습데이터(공공데이터 포함)를 활용할 수 있고 자체 모델을 안전하게 테스트할 수 있는 기반을 마련해야 함. 이를 위해 데이터 결합을 활성화 하고 망분리 규제도 현실화시킬 필요가 있음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[글로벌 외환시장의 변동성 확대 위험 점검]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162295</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162295"/>
-        <updated>2022-02-08T21:03:58.312Z</updated>
+        <updated>2022-02-09T00:21:18.047Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 『글로벌 외환시장의 변동성 확대 위험 점검』을 발표하였다.
 
 - [이슈] 인플레이션, 통화정책 정상화 등 자산가격 하방압력을 높이는 변수들의 불확실성이 큰 상황에서, `21년에 여타 금융시장 대비 안정적 흐름을 보였던 외환 시장이 금년에도 제한적인 변동성을 보일지에 대한 시장 관심이 확대. 금년 들어서는 글로벌 외환시장의 변동성을 나타내는 CVIX(Currency Volatility Index)가 상승세를 나타내고 있으나 여전히 역사적으로 낮은 수준에 머물고 있어 향후 외환시장 변동성의 향방에 영향을 미칠 수 있는 위험요인을 점검
@@ -472,10 +456,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[현지정보] 美 2022.1월 고용지표 내용 및 뉴욕 금융시장 반응]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162285</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162285"/>
+        <updated>2022-02-09T00:21:17.750Z</updated>
+        <summary type="html"><![CDATA[한국은행이 『[현지정보] 美 2022.1월 고용지표 내용 및 뉴욕 금융시장 반응』을 발표하였다.
+
+- ’22.1월중 비농업부문 취업자수(Non-farm Payrolls)는 전월대비 46.7만명 증가하여 시장 예상치(+12.5만명)를 큰 폭 상회. 민간부문 취업자수는 44.4만명 증가(+3.5만명 예상)하였고 정부부문 취업자수는 2.3만명 증가(+9.0만명 예상). 이는 팬데믹 직전에 비해 여가·호텔·식당(-1.8백만명) 및 교육·의료(-0.6백만명)를 중심으로 2.9백만명 감소(‘20.2월 152.5백만명 → ‘22.1월 149.6백만명)한 수준. 직전 2개월치(’21.11~12월중) 취업자수는 총 70.9만명 상향 조정(민간부문 +64.9만명, 정부부문 +6.0만명)
+
+- 경제활동참가율이 큰 폭 상승(61.9% → 62.2%, 예상 61.9%)하고 실업률도 상승(3.9% → 4.0%, 예상 3.9%). 시간당 평균임금 상승률은 전년동월대비(4.9% → 5.7%, 예상 5.2%) 및 전월대비(0.5% → 0.7%, 예상 0.7%) 모두 크게 확대
+
+- 시장참가자들은 취업자수 증가, 직전 2개월 취업자수 상향 조정 등이 예상을 크게 상회한 점에 주목하면서도 노동시장 개선세가 다소 과장되어 나타났을 가능성을 제기. 주요 투자은행들은 연준이 3월 FOMC에서 정책금리를 25bp 내지 50bp 인상하고 점도표상 금리인상 횟수를 상향조정할 것이라는 기존 전망을 대체로 유지]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[산업과 기업의 부실징후 변화와 시사점]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162296</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162296"/>
-        <updated>2022-02-08T21:03:55.628Z</updated>
+        <updated>2022-02-09T00:21:17.741Z</updated>
         <summary type="html"><![CDATA[산업연구원이 「산업과 기업의 부실징후 변화와 시사점」을 발표하였다.
 
 - 우리나라 제조업 내 산업과 기업의 부실징후 변화를 스펙트럼 방식으로 각각 파악하고, 나아가 양자를 통합하는 관점에서 산업과 기업의 부실징후 구조를 파악. 산업 차원의 부실징후 변화를 보면, 분석 초기 연도인 2010년부터 2020년까지 부실징후 산업군의 비중은 상승하고 양호 산업군의 비중은 하락한 경향. 기업 차원의 부실징후 변화를 보면, 외감기업과 상장사 모두 2009년 글로벌 금융위기 이후 2020년까지 부실징후 기업군의 비중이 상승하고 양호 기업군의 비중은 하락하는 경향 
@@ -486,15 +486,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최근 상장사 대규모 횡령 사태와 내부회계관리제도의 시사점]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162287</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162287"/>
-        <updated>2022-02-08T21:03:55.608Z</updated>
-        <summary type="html"><![CDATA[자본시장연구원이 『최근 상장사 대규모 횡령 사태와 내부회계관리제도의 시사점』을 발표하였다.
+        <title type="html"><![CDATA[재정분권 1단계 전환사업의 재정책임성 측면에서의 변화 - 공무원 인식조사 결과를 바탕으로 -]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162252</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162252"/>
+        <updated>2022-02-09T00:21:17.719Z</updated>
+        <summary type="html"><![CDATA[한국지방행정연구원이 「재정분권 1단계 전환사업의 재정책임성 측면에서의 변화 - 공무원 인식조사 결과를 바탕으로 -」를 발표하였다.
 
-- 코스닥 상장사의 대규모 횡령 사태로 내부회계관리제도의 실효성에 대한 논란이 불거졌음. 2016년도부터 2021년까지 주권상장법인을 대상으로 횡령ㆍ배임 사건의 발생 빈도를 전수 조사한 결과 2019년도부터 단계적으로 시행된 내부회계관리제도의 감사는 횡령ㆍ배임 사건을 예방하는 데 일정 부분 기여한 것으로 판단됨. 그럼에도 불구하고 최고경영진의 확고한 의지 없이는 이와 같은 대규모 횡령 사태의 재발을 막기 어렵다는 점에서 관련 제도의 보완 방안을 마련할 필요가 있음. 
+- 지자체 전환사업 담당 공무원들이 지방재정의 책임성을 측정하는 질문에 보통(5)이라고 응답한 비율이 전반적으로 20% 가까운 것을 고려하면 지방재정의 건전성 제고 정도 질문 외에는 이양 전과 비슷하다보다는 높아질 것이다라고 응답한 비율이 높았음.
 
-- 첫째, 중요성 금액 기준을 초과하는 금융자산 및 금융부채에 대해서는 중간재무제표의 검토 과정에서 계정잔액의 입증가능 여부에 대해 보다 엄격한 검토 절차를 수행할 필요가 있음. 둘째, 횡령ㆍ배임죄의 형량에 대한 예측가능성을 높여 위반 동기를 원천적으로 억제할 필요가 있음. 셋째, 경영진과 이사회가 내부회계관리제도의 충실한 설계와 운영을 입증하는 경우 인적ㆍ금전적 제재를 경감하는 조항을 명문화하여 내부회계관리제도의 실효적 구축 및 운영에 대한 인센티브를 제공할 필요가 있음. 마지막으로 내부고발 유인을 확대하여 대규모 부정 사태의 예방과 조기 적발 유인을 제고할 필요가 있음.]]></summary>
+- 결국 국고보조사업의 지방 이양 즉, 지자체의 자체사업이 되었을 때 재원만 동시에 이양된다면 지방재정의 책임성 확보가 더 양호한 환경임을 알 수 있음.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -552,6 +552,364 @@ Deb, P, Furceri, D, Ostry, J and Tawk, N. 2021. 'Creative Destruction During Cri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[20세기 사회주의의 역사적 성격/문영찬 지음/노사과연(노동사회과학연구소)]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=288540936</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=288540936"/>
+        <updated>2022-02-07T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[20세기 사회주의의 역사적 성격
+문영찬 지음 / 노사과연(노동사회과학연구소) / 2022년 01월 / ISBN:9788993852400
+정가: 25,000원 / 판매가: 23,750원 / 마일리지: 113원
+이벤트: 수험서.대학교재_플랫파우치 / To do list 메모지 / 숄더 에코백 / 형광펜
+
+
+
+
+20세기 사회주의에 대한 평가의 문제는 단순한 역사의 문제가 아니다. 지금의 현실에서, 21세기의 조건에서 새로운 사회주의 운동의 성립, 변혁 운동의 재정립을 위한 사활적 문제이며, 무수한 이론적 쟁점들을 규명해야 하는 문제이다. 지금 우리 앞에는 약 70여 년에 걸쳐 존재했던 사회주의 혁명과 건설의 경험이 놓여 있다. 이 경험, 역사적 성공과 좌절, 실패의 경험을 21세기의 새로운 사회주의 혁명의 승리를 위한 자산으로 전환시키려는 노력이 필요하다.
+
+차례
+
+    서문 ㆍ i
+
+제1장
+    제1차 세계 대전과 러시아 10월 사회주의 대혁명의 승리 ㆍ 1
+
+1. 러시아에서 자본주의의 발전 _1
+2. 당 건설을 위한 투쟁 _3
+3. 1905년 러시아의 제1차 혁명 _6
+4. 반동기 그리고 새로운 고양 _11
+5. 제1차 세계 대전과 1917년 2월 혁명 _15
+6. 레닌의 “4월 테제” _22
+7. 10월 사회주의 대혁명의 승리 _25
+
+제2장
+제국주의의 간섭과 내전, 그리고 전시 공산주의
+    ― 쏘련에서 사회주의 생산관계의 확립 과정(1) ㆍ 29
+
+1. 전쟁의 종식과 쏘비에트 권력의 공고화를 위한 볼쉐비끼의 투쟁 _29
+2. 사회주의 생산관계의 수립을 위한 최초의 혁명적 조치들 _34
+3. 제국주의의 간섭과 내전의 발발 _47
+4. 전시 공산주의 _58
+
+제3장
+신경제 정책(NEP)하에서 계획과 시장의 모순
+그리고 전후(戰後) 경제의 회복
+    ― 쏘련에서 사회주의 생산관계의 확립 과정(2) ㆍ 67
+
+1. 내전의 종식과 신경제 정책(NEP)으로의 전환 _67
+2. 신경제 정책(NEP)하에서 계획과 시장의 모순 _76
+3. 전후(戰後) 경제의 회복 그리고 공업화의 결의 _92
+4. 뜨로쯔끼의 분파 투쟁과 일국 사회주의 논쟁 _98
+
+제4장 사회주의적 공업화와 농업의 전반적 집단화:
+사회주의 생산관계의 확립
+    ― 쏘련에서 사회주의 생산관계의 확립 과정(3) ㆍ 107
+
+1. 국민 경제 개조의 준비기(1926-1929년) _107
+2. 제1차 5개년 계획 _112
+3. 농업의 전반적인 집단화 과정 _123
+4. 제2차 5개년 계획 _143
+
+제5장    제2차 세계 대전과 사회주의 세계 체제의 성립 ㆍ 152
+
+1. 파씨즘의 등장과 전쟁 위기의 격화 _152
+2. 1930년대 후반 쏘련 내부의 계급 투쟁과 3차 5개년 계획 _158
+3. 제2차 세계 대전의 발발과 전시 경제의 조직화 _166
+4. 전후 복구와 사회주의 건설의 새로운 조건 _177
+5. 사회주의 세계 체제의 형성 _189
+
+제6장    쏘련에서 수정주의의 발생과 전개 ㆍ 197
+
+1. 흐루쇼프 수정주의의 발생 _197
+2. 흐루쇼프 수정주의의 경제적 측면 _211
+3. 흐루쇼프의 연속으로서 브레쥐네프 수정주의 _221...
+
+국내도서 > 대학교재/전문서적 > 경상계열 > 경제학
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이론/경제사상
+국내도서 > 사회과학 > 사회사상/사회사상사 > 사회주의/공산주의]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파이썬 텍스트 마이닝 완벽 가이드/박상언.강주영.정석찬 지음/위키북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=288539164</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=288539164"/>
+        <updated>2022-02-07T04:36:00.000Z</updated>
+        <summary type="html"><![CDATA[파이썬 텍스트 마이닝 완벽 가이드
+박상언.강주영.정석찬 지음 / 위키북스 / 2022년 02월 / ISBN:9791158393007
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
+이벤트: 수험서 분철 당일배송 오픈!
+
+
+
+
+실무에 바로 적용할 수 있는 실전적인 예제를 중심으로 텍스트 마이닝을 설명한다. 특히 초보자를 위해 텍스트 전처리 과정의 개념과 다양하고 상세한 활용방법을 기초부터 설명한다. 문서 분류와 감성 분석 같은 텍스트 마이닝 작업을 대상으로 다양한 머신러닝 기법을 사용하는 예를 보여주며, 차원을 축소하고 결과를 시각화하는 방법, 토픽 모델링을 수행하고 토픽 트렌드를 구해서 시각화하는 방법을 설명한다.
+
+기본적인 딥러닝 기법을 이용한 문서 분류 외에, 최근 많이 사용되는 BERT를 이용한 미세조정학습까지 포함한다. 또한 한국어 문서 분석에 자신을 갖도록 대부분의 장에 관련 예제를 충분히 다뤘다.
+
+[1부] 텍스트 마이닝 기초
+
+▣ 01장: 텍스트 마이닝 기초
+1.1 텍스트 마이닝의 정의
+1.2 텍스트 마이닝 패러다임의 변화 
+___1.2.1 카운트 기반의 문서 표현
+___1.2.2 시퀀스 기반의 문서 표현
+1.3 텍스트 마이닝에 필요한 지식과 도구
+___1.3.1 자연어 처리 기법
+___1.3.2 통계학과 선형대수
+___1.3.3 시각화 기법
+___1.3.4 머신러닝
+___1.3.5 딥러닝
+1.4 텍스트 마이닝의 주요 적용분야 
+___1.4.1 문서 분류
+___1.4.2 문서 생성
+___1.4.3 문서 요약
+___1.4.4 질의응답
+___1.4.5 기계번역
+___1.4.6 토픽 모델링
+1.5 이 책의 실습 환경과 사용 소프트웨어
+___1.5.1 기본 실습 환경
+___1.5.2 자연어 처리 관련 라이브러리
+___1.5.3 머신러닝 관련 라이브러리 
+___1.5.4 딥러닝 관련 라이브러리
+
+▣ 02장: 텍스트 전처리
+2.1 텍스트 전처리의 개념
+___2.1.1 왜 전처리가 필요한가?
+___2.1.2 전처리의 단계
+___2.1.3 실습 구성
+2.2 토큰화
+___2.2.1 문장 토큰화
+___2.2.2 단어 토큰화 
+___2.2.3 정규표현식을 이용한 토큰화
+___2.2.4 노이즈와 불용어 제거 
+2.3 정규화
+___2.3.1 어간 추출 
+___2.3.2 표제어 추출
+2.4 품사 태깅
+___2.4.1 품사의 이해
+___2.4.2 NLTK를 활용한 품사 태깅
+___2.4.3 한글 형태소 분석과 품사 태깅
+___2.4.4 참고자료
+
+▣ 03장: 그래프와 워드 클라우드 
+3.1 단어 빈도 그래프 - 많이 쓰인 단어는?
+3.2 워드 클라우드로 내용을 한눈에 보기 
+3.3 한국어 문서에 대한 그래프와 워드 클라우드
+
+[2부] BOW 기반의 텍스트 마이닝
+
+▣ 04장: 카운트 기반의 문서 표현 
+4.1 카운트 기반 문서 표현의 개념
+4.2 BOW 기반의 카운트 벡터 생성
+4.3 사이킷런으로 카운트 벡터 생성
+4.4 한국어 텍스트의 카운트 벡터 변환
+___4.4.1 데이터 다운로드
+4.5 카운트 벡터의 활용
+4.6 TF-IDF로 성능을 높여보자
+
+▣ 05장: BOW 기반의 문서 분류
+5.1 20 뉴스그룹 데이터 준비 및 특성 추출
+___5.1.1 데이터셋 확인 및 분리
+___5.1.2 카운트 기반 특성 추출
+5.2 머신러닝과 문서 ...
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 프로그래밍 쿡북 2/e/애런 토레스 지음, 장세윤 옮김/에이콘출판]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=288533199</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=288533199"/>
+        <updated>2022-02-07T03:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Go 프로그래밍 쿡북 2/e
+애런 토레스 지음, 장세윤 옮김 / 에이콘출판 / 2022년 03월 / ISBN:9791161756158
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
+이벤트: 수험서 분철 당일배송 오픈!
+
+
+
+
+Go 언어로 개발할 때 필요한 가이드라인을 제공한다. 파일 입출력, 커맨드라인 도구, 데이터 변환 및 합성, 에러 처리, 네트워크 프로그래밍, 데이터 베이스, 웹 클라이언트 API, 마이크로서비스 애플리케이션 제작 방법, 코드 테스트 방법, 병렬 처리, 분산 시스템, 리액티브 프로그래밍, 서버리스 프로그래밍에 이르기까지 총망라해 설명한다. 
+
+여기에 실제 개발에 활용할 수 있는 모듈화된 예제를 제공해서 애플리케이션 개발 과정에서 예제 코드를 참고하기에 편리하다. Go 언어가 제공하는 기능에 대한 전반적인 내용을 공부하고 싶은 독자와 애플리케이션 개발 과정에서 특정 기능에 대한 예제 코드를 참고하고 싶은 독자에게 훌륭한 참고서가 될 것이다.
+
+01장. I/O와 파일 시스템
+__기술적 요구 사항 
+__일반적인 I/O 인터페이스 사용하기 
+____예제 구현  
+____예제 분석  
+__bytes와 strings 패키지 사용하기 
+____예제 구현  
+____예제 분석  
+__디렉터리와 파일을 활용한 작업 
+____예제 구현  	
+____예제 분석  
+__CSV 포맷을 활용한 작업 
+____예제 구현  
+____예제 분석  
+__임시 파일을 활용한 작업 
+____예제 구현  
+____예제 분석  
+__text/template과 html/template을 활용한 작업 
+____예제 구현  
+____예제 분석  
+	
+02장. 명령줄 도구
+__기술적 요구 사항 
+__명령줄 플래그 사용하기 
+____예제 구현  
+____예제 분석  
+__명령줄 매개변수 사용하기  
+____예제 구현  
+____예제 분석  
+__환경 변수 읽기 및 설정하기 
+____예제 구현  
+____예제 분석  
+__TOML, YAML, JSON을 사용한 환경 설정 
+____예제 구현  
+____예제 분석  
+__유닉스 파이프를 활용한 작업 
+____예제 구현  
+____예제 분석  
+__신호 잡기 및 처리 
+____예제 구현  
+____예제 분석  
+__ANSI 컬러 애플리케이션 
+____예제 구현  
+____예제 분석  
+
+03장. 데이터 변환 및 구성
+__기술적 요구 사항 
+__데이터 타입 변환 및 인터페이스 형 변환  
+____예제 구현  
+____예제 분석  
+__math와 math/big을 활용한 숫자 데이터 타입 작업 
+____예제 구현  
+____예제 분석  
+__통화 변환과 float64에 대한 고려 
+____예제 구현  
+____예제 분석  
+__인코딩과 디코딩에 포인터와 SQL NullType 사용하기 
+____예제 구현  
+____예제 분석  
+__Go 데이터의 인코딩 및 디코딩 
+____예제 구현  
+____예제 분석  
+__Go의 구조체 태그와 기본적인 리플렉션 
+____예제 구현  
+____예제 분석  
+__클로저를 사용해 컬렉션 구현하기 
+____예제 구현  
+____예제 분석  
+
+04장, Go의 오류 처리
+__기술적 요구 사항 
+__오류 처리 및 Error 인터페이스 
+____예제 구현  
+____예제 분석  
+__pkg/errors 패키지 사용하기 및 오류 래핑 
+____예...
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[처음 만나는 행동경제학/신임철 지음/에이콘출판]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=288532454</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=288532454"/>
+        <updated>2022-02-07T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[처음 만나는 행동경제학
+신임철 지음 / 에이콘출판 / 2022년 02월 / ISBN:9791161756189
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 80원
+이벤트: 2월 특별선물! 책모양, 태블릿, 무선 이어폰 파우치 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+행동경제학 전문가가 재미있게 풀어 쓴 인문학 같은 경제서. 행동경제학의 기본적인 내용을 친숙하고 재밌는 사례를 들어 마치 옆에서 이야기하듯이 설명한다. 저자는 노벨경제학상 수상자인 로버트 쉴러에게 행동경제학을 직접 배워, 행동경제학 논문으로 박사 학위를 받은 행동경제학 전문가다. 쉽고 친절하게 설명하며, 학문적으로도 상당한 수준의 지식을 전달한다.
+
+1장. 행동경제학이 도대체 뭐야?: 심리학+경제학 
+행동경제학의 정의 | 행동경제학의 역사 | 주류경제학에 대한 비판 | '생각'에 대한 생각 | 행동재무학 | 노벨경제학상 | 행동경제학을 공부해야 하는 이유
+
+2장. 사람들은 대충 직감으로 신속하게 판단한다: 휴리스틱과 편향
+이용가능성 편향 | 언론과 이용가능성 편향 | 대표성 편향 | 감정 휴리스틱 | 후회회피 편향 | 확증편향 | 필터버블 | 인공지능 | 드레퓌스 사건 | 보수주의 편향 | 관성 | 앵커효과
+
+3장. 확실한 이득은 취하되 확실한 손실은 피한다: 전망이론
+전망이론과 기대효용이론 | 확실성 효과와 손실회피 | 손실회피 | 손실회피와 후회회피 | 지불의 고통 | 보유효과 | 어린 왕자와 장미꽃 | 고립효과 | 고립효과와 전망이론 | 가치함수 | 준거점이 투자와 마케팅에 미치는 영향
+
+4장. 어떤 관점에서 바라보느냐에 따라 풍경이 바뀐다: 프레이밍 효과
+프레임과 프레이밍 효과 | 초원복국 사건 | 복지정책을 둘러싼 프레임 전쟁 | 낙태를 바라보는 두 개의 프레임 | 인종차별 프레임의 변화 | 현대미술의 이해 | 프레이밍 효과와 전망이론 | 아시아 질병 문제 | 디폴트값 효과 | 퇴직연금과 디폴트옵션 | 지금은 맞고 그때는 틀리다 | 시간의 프레임과 경제적 가치 판단 | 강대국의 내로남불 | 서는 데가 바뀌면 풍경도 달라지는 거야 | 카인과 아벨 | 기후변화 | 노동시간 감축 | 매몰비용 | 화폐착각 | 공정성
+
+5장. 엄마는 왜 노점상에게 콩나물을 살 때 값을 깎으려고 할까?: 심리적 회계 
+심리적 회계의 정의 | 기말고사 문제 | 소비자 행동 | 자기통제 | 처분 효과
+
+6장. 사람들은 과연 자신의 선택에 얼마나 확신을 갖고 있을까?: 자신감과 군중심리
+자신감 | 과신편향 | 과신편향과 통제편향 | 과신편향이 투자에 미치는 영향 | 사기꾼 증후군 | 똑똑한 여성들의 사기꾼 증후군 | 오즈의 마법사 | 메타인지 | 군중심리 | 3의 법칙 | 선덜랜드 마라톤 | 네트워크 효과 | 밴드왜건 효과 | 스놉효과 | 넛지 마케팅 | 베블런 효과 | 크라우드소싱과 집단지성
+
+7장. 행동경제학의 사촌들이 있다: 게임이론과 점증모형 
+게임이론의 정의 | 용의자의 딜레마 게임 | 사슴사냥 게임 | 상대적 이득 | 정책결정모형 | 주류경제...
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이론/경제사상
+국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달러의 역설/정필모 지음/21세기북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=288525203</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=288525203"/>
+        <updated>2022-02-07T01:31:00.000Z</updated>
+        <summary type="html"><![CDATA[달러의 역설
+정필모 지음 / 21세기북스 / 2022년 02월 / ISBN:9788950999025
+정가: 19,000원 / 판매가: 17,100원 / 마일리지: 77원
+이벤트: 2월 특별선물! 책모양, 태블릿, 무선 이어폰 파우치 (이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+2015년 처음 출간되어 세계 경제위기의 진실을 밝힌 『달러의 역설』이 저자의 서문을 더해 새롭게 출간되었다. 초판 출간 후 6년이 지난 지금도, 달러 기축통화를 기반으로 하는 세계 경제 질서와 경제 패권의 판도는 근본적으로 달라지지 않았음을 지적하고 있다.
+
+세계 최대 적자국이자 세계 경제위기의 진원지인 미국. 미국은 2008년 글로벌 금융위기 이후 경상수지와 재정수지 적자가 더욱 심화되면서 세계에서 가장 많은 빚을 진 나라가 되었다. 하지만 국제통화기금(IMF)은 지난 1월에 발표한 2015년 전망 보고서에서 올해 미국 경제는 호전적인 데 비해 다른 국가들의 경제는 부정적일 것이라는 전망을 내놓았다. 
+
+왜 미국을 제외한 다른 나라들은 달러로 인한 경제 위기의 피해를 감당하면서도 결국 달러에 의존할 수밖에는 없는 것일까? 이 책 『달러의 역설』은 바로 이 논리적 모순 상황이 세계 금융위기를 유발했다고 지적하고, 그 위기에서 벗어날 대안을 모색하고 해법을 제시한다.
+
+추천의 말•5
+두 번째 판을 내며•7
+이 책을 시작하며 ‘골디락스’에서 ‘화이트 스완’으로•10
+프롤로그 대마는 죽지 않는다•18
+
+CHAPTER 1 달러, 다시 태풍의 눈이 되다
+‘금리전쟁’의 시작•26 | 대충격의 예고편 ‘버냉키 쇼크’•28 | 잉태된 위험 ‘자산 버블’•30 | 양적완화 효과의 명암•33 | 부채 화폐화debt monetization의 함정•36 | 이웃 나라 가난하게 만들기•39 | ‘빈익빈 부익부’는 신흥국에서도 마찬가지•42 | 이익의 사유화, 손실의 사회화•47 | 딜레마에 빠진 세계 경제•49 | 디플레이션 경고음•52 | 위기의 악순환•58
+
+CHAPTER 2 역사로부터 배우다
+기축통화는 정치·경제·군사력의 산물•64 | 팍스 달러리움Pax Dollarium 시대의 개막•67 | 브레튼 우즈 체제의 붕괴와 자본자유화•69 | ‘플라자’에서 ‘루브르’까지•73 | ‘블랙 먼데이’의 교훈•76 | 브레튼 우즈 체제는 왜 자본 이동을 제한했나?•79 | 고정환율제냐, 시장변동환율제냐?•81 | 쉽지 않은 불균형 해소•84
+
+CHAPTER 3 위기를 부른 금융세계화
+금융위기는 복합적이다•92 | 위기는 금융자유화의 대가•96 | 금융자본을 위한 세계화•98 | 세계화의 정신적 지주 ‘워싱턴 컨센서스’•100 | 금융자유화의 함정•103 | 경제 주권의 제한•107 | 경상수지 위기에서 자본수지 위기로•109 | 외환보유액은 얼마가 좋을까?•114 | 한국의 적정 외환보유액은?•117 | 금융 변동성 키운 IT•120 | 보이지 않는 위험, ‘그림자 금융’•123
+
+CHAPTER 4 적자의 늪에 빠진 달러 제국
+‘쌍둥이 적자’의 악순환•130 | 재정수지 흑자는 잠시, 적자는 계속•132 | 경상수지 적자는 과잉 투자·소비의 결과•136 | 대책 없는 빚 늘리기•143 | 천문학적 부채를 둘러싼 해프닝•147 | 연방준비제도에 대한 오해와 진실•150
+
+CHAPTER 5 그래도 달러는 강하다
+‘슈퍼 달러super dollar ’ 시대•156 | 달러 ‘대세 상승기’의 배경•159 | 견고한 달러 기축통화의 위상•162 | 오일, 달러의 ‘아킬레스건’에서 ‘버팀목’으로•164 | 석유를 무기로 미국과 싸우겠다고?•168 | 석유도 금융상품이다•172 | 러시아의 운명을 좌우하는 유가•175 | 통화전쟁에서 미국이 이길 수밖에 없는 이유•179
+
+CHAPTER 6 달러에 발목 잡힌 중국
+불안한 ...
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
+국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IMF surcharges: A lose-lose policy for global recovery]]></title>
         <id>https://voxeu.org/article/imf-surcharges-lose-lose-policy-global-recovery</id>
         <link href="https://voxeu.org/article/imf-surcharges-lose-lose-policy-global-recovery"/>
@@ -588,7 +946,7 @@ Deb, P, Furceri, D, Ostry, J and Tawk, N. 2021. 'Creative Destruction During Cri
         <updated>2022-02-04T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[명품 HTML5+CSS3+Javascript 웹 프로그래밍
 황기태 지음 / 생능 / 2022년 02월 / ISBN:9788970505459
-정가: 30,000원 / 판매가: 30,000원 / 마일리지: 156원
+정가: 30,000원 / 판매가: 30,000원 / 마일리지: 900원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -966,7 +1324,7 @@ The post How Should R&D Procurement Be Structured? appeared first on Microeconom
         <updated>2022-01-28T07:51:00.000Z</updated>
         <summary type="html"><![CDATA[단단한 심층강화학습
 로라 그레서.와 룬 켕 지음, 김성우 옮김 / 제이펍 / 2022년 02월 / ISBN:9791191600674
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 118원
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
 이벤트: 수험서.대학교재_플랫파우치 / To do list 메모지 / 숄더 에코백 / 형광펜
 
 
@@ -1283,7 +1641,7 @@ CHAPTER 12	중앙은행제도의 한계와 대안 / 26...
         <updated>2022-01-28T00:45:00.000Z</updated>
         <summary type="html"><![CDATA[기본에 집중한 파이썬 프로그래밍
 손승일 지음 / 21세기사 / 2022년 01월 / ISBN:9791168330115
-정가: 30,000원 / 판매가: 28,500원 / 마일리지: 137원
+정가: 30,000원 / 판매가: 28,500원 / 마일리지: 1,500원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -1374,7 +1732,7 @@ CHAPTER 7 반복문(Loop)
         <updated>2022-01-27T06:53:00.000Z</updated>
         <summary type="html"><![CDATA[실전! 파이토치 딥러닝 프로젝트
 아쉬쉬 란잔 자 지음, 김정인 옮김 / 위키북스 / 2022년 02월 / ISBN:9791158393052
-정가: 32,000원 / 판매가: 28,800원 / 마일리지: 124원
+정가: 32,000원 / 판매가: 28,800원 / 마일리지: 1,600원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -1476,7 +1834,7 @@ ___트랜스포머 모델 아키텍처
         <updated>2022-01-27T02:48:00.000Z</updated>
         <summary type="html"><![CDATA[이제 시작이야! 컴퓨팅 사고력으로 인공지능까지 : 파이썬
 전수진.박주연.김수환 지음 / 연두에디션 / 2022년 01월 / ISBN:9791192187037
-정가: 23,000원 / 판매가: 23,000원 / 마일리지: 116원
+정가: 23,000원 / 판매가: 23,000원 / 마일리지: 0원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -1638,6 +1996,24 @@ IV. 미술 속 2차, 3차, 4차 AI 산업혁명 이야기
 
 
 
+경제학에 대해 다룬 도서이며 〈21세가 자본주의 대전환〉, 〈노동과 시장〉, 〈산업 대전환 시대 산업정책의 방향과 전략〉 등을 수록하고 있다.
+
+추천의 글 1
+추천의 글 2
+들어가는 글
+
+1장 21세가 자본주의 대전환
+2장 혁신적 포용국가와 정치의 진화
+3장 노동과 시장
+4장 주거와 부동산 시장
+5장 산업 대전환 시대 산업정책의 방향과 전략
+6장 데이터경제 생태계의 건전한 발전을 위한 정책과제
+7장 새로운 성장동력 확충을 위한 금융의 과제
+8장 지속 가능 경제를 위한 자본시장의 새판 짜기
+
+참고문헌
+
+
 국내도서 > 경제경영 > 경제학/경제일반 > 경제정책/비평
 국내도서 > 대학교재/전문서적 > 경상계열 > 경제학]]></summary>
         <author>
@@ -1714,7 +2090,7 @@ PART3. 일의 미래와 해결 방안
         <updated>2022-01-26T04:26:00.000Z</updated>
         <summary type="html"><![CDATA[이토록 쉬운 데이터 요약과 시각화 with R
 임경덕 지음 / 루비페이퍼 / 2022년 02월 / ISBN:9791186710715
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 88원
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -2175,7 +2551,7 @@ GDP는 무엇일까? 스태그플레이션의 정확한 개념은? 이처럼 경
         <updated>2022-01-24T01:08:00.000Z</updated>
         <summary type="html"><![CDATA[말랑말랑 파이썬 유쾌한 맛!
 신유선 지음 / 북스힐 / 2022년 01월 / ISBN:9791159714108
-정가: 16,000원 / 판매가: 16,000원 / 마일리지: 73원
+정가: 16,000원 / 판매가: 16,000원 / 마일리지: 800원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -2250,7 +2626,7 @@ GDP는 무엇일까? 스태그플레이션의 정확한 개념은? 이처럼 경
         <updated>2022-01-21T02:55:00.000Z</updated>
         <summary type="html"><![CDATA[쉽게 배우는 자료구조 with 파이썬
 문병로 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645757
-정가: 29,000원 / 판매가: 29,000원 / 마일리지: 137원
+정가: 29,000원 / 판매가: 29,000원 / 마일리지: 1,450원
 이벤트: 수험서.대학교재_플랫파우치 / To do list 메모지 / 숄더 에코백 / 형광펜
 
 
@@ -2356,7 +2732,7 @@ Chapter 07 큐
         <updated>2022-01-21T02:51:00.000Z</updated>
         <summary type="html"><![CDATA[쉽게 배우는 자료구조 with 자바
 문병로 지음 / 한빛아카데미(교재) / 2022년 01월 / ISBN:9791156645764
-정가: 29,000원 / 판매가: 29,000원 / 마일리지: 139원
+정가: 29,000원 / 판매가: 29,000원 / 마일리지: 1,450원
 이벤트: 수험서.대학교재_플랫파우치 / To do list 메모지 / 숄더 에코백 / 형광펜
 
 
@@ -2531,7 +2907,7 @@ PART 4 격동하는 미래 산업
         <updated>2022-01-20T23:54:00.000Z</updated>
         <summary type="html"><![CDATA[생활코딩! 자바 프로그래밍 입문
 이고잉 지음, 위키북스 기획.편집 / 위키북스 / 2022년 02월 / ISBN:9791158393021
-정가: 27,000원 / 판매가: 24,300원 / 마일리지: 118원
+정가: 27,000원 / 판매가: 24,300원 / 마일리지: 1,350원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -2771,7 +3147,7 @@ Chapter 4 연결의 가치
         <updated>2022-01-19T06:14:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬으로 익히는 말랑말랑 알고리즘
 김경록 지음 / 비제이퍼블릭 / 2022년 01월 / ISBN:9791165921064
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 126원
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -2994,7 +3370,7 @@ Chapter 35 개발도상경제의 경제성장
         <updated>2022-01-18T01:28:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬으로 만드는 나만의 게임
 이수안 지음 / 비제이퍼블릭 / 2022년 01월 / ISBN:9791165921200
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 102원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -3088,7 +3464,7 @@ Chapter 5. 핑퐁 게임(Ping Pong Game)
         <updated>2022-01-17T07:54:00.000Z</updated>
         <summary type="html"><![CDATA[마케터의 파이썬
 정희석 지음 / e비즈북스 / 2022년 01월 / ISBN:9791157832361
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 87원
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -3178,7 +3554,7 @@ Chapter 05 조건문 if와 반복문 for 171
         <updated>2022-01-17T04:54:00.000Z</updated>
         <summary type="html"><![CDATA[만들면서 배우는 파이썬 하나, 둘, 셋
 나인섭 지음 / 연두에디션 / 2021년 12월 / ISBN:9791192187020
-정가: 20,000원 / 판매가: 20,000원 / 마일리지: 103원
+정가: 20,000원 / 판매가: 20,000원 / 마일리지: 0원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -3223,76 +3599,13 @@ APPENDIX
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앞으로 10년 빅테크 수업/조원경 지음/페이지2(page2)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=287095732</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=287095732"/>
-        <updated>2022-01-17T02:41:00.000Z</updated>
-        <summary type="html"><![CDATA[앞으로 10년 빅테크 수업
-조원경 지음 / 페이지2(page2) / 2022년 01월 / ISBN:9791190977555
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 62원
-이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
-
-
-
-
-미래를 바꿀 4가지 혁신기술에 대해 이야기하고 있다. 데이터 과학을 기본으로 하고 있어 머리로는 이해해도 피부로는 와닿지 않는 기술 개념들을 제대로 이해하기 위해서는 다양한 사례와 관점이 필요하다. 책에는 기술을 선도하는 유명 해외 기업의 사례뿐 아니라 국제 경쟁력을 갖추어가는 중인 여러 국내 기업 사례도 대거 등장한다. 
-
-또한 앞으로의 경제 생태계가 어떻게 바뀔지에 대한 거시적인 전망과 분석도 놓치지 않았다. 왜 전 세계의 수많은 기업가들이 혁신기술을 움켜쥐려 하는지, 쇠락의 길을 걷던 기업이 시대의 흐름을 어떻게 이용해 부활하게 되었는지, 앞으로 경제 질서는 어떻게 달라질 것인지도 담겨 있다. 사회의 축이 바뀌는 과정 속에서 10년 후 미래의 모습을 예측하며, 변화에 올라타기 위해 각자 준비해야 할 것들을 찾아나가보자.
-
-프롤로그 | 미래의 부를 당기는 혁신의 물결 앞에서
-
-제1장
-연결의 힘_디지털 미
-: AI 메타버스와 NFT, 
-  가상세계가 현실세계를 바꾸다
-
-가상세계와 현실세계의 연결점 
-연결의 힘이 보여주는 생산성과 공감 | 아이언맨의 자비스와 제임스 캐머런의 아바타 | 진화하는 인공지능 기술 | 개인정보를 관리하고 적극적으로 활용하는 마이데이터
-
-나의 분신, 디지털 미 
-과거, 현재, 미래를 연결하는 디지털 아바타 | 디지털 미와 디지털 아바타의 차이점 | 디지털 미가 할 수 있는 일들 | 내게 딱 맞는 맞춤형 조언을 해주는 디지털 미
-
-디지털 미의 과제와 디지털 트윈의 등장 
-디지털 미 기술과 관련된 여러 과제들 | 디지털 트윈 기술의 발전과 가상 쌍둥이의 탄생 | 신체가 명을 다해도 가족 곁에 남아 있는 디지털 트윈| 나의 페르소나, 메타클론
-
-AI는 인간을 대체할 수 있을까? 
-디지털 미와 AI는 인간의 대체재가 아니다 | 예술하는 AI, 과연 이것은 진짜 예술인가 | 철학자들의 생각을 빌려 바라본 디지털 미의 존재 이유
-
-다음 시대를 이끌 메타버스와 NFT 
-메타버스에 열광하는 이유, ‘커넥팅’ | NFT는 디지털 트윈 역할을 하는 가상자산 | NFT가 만드는 새로운 연결과 투자의 힘 | NFT는 새로운 버블일까? | NFT의 가치와 과제
-
-디지털 미가 그리는 미래 투자 지도 
-딥러닝과 투자 | 데이터 센터와 클라우드 시장의 확장
-
-[직업의 미래] 딥러닝을 넘어 딥필링이 이끄는 세계 
-[투자의 미래] 엔비디아, 인도, 메타버스, NFT에서 찾은 IT의 미래 
-
-제2장
-공감의 힘_서브미
-: 구독경제와 블록체인, 
-  기존 시장의 판도를 뒤흔들다
-
-공감, 그리고 구독 
-배우자는 구독할 수 없나요? | 에피소드, 저마다의 경험을 담습니다 | 구독경제와 블록체인이 만드는 K-코인 | 그 시절 신문구독과 지금의 구독은 무엇이 다를까? | 머신러닝으로 우리 강아지를 행복하게 | 디지털 구독 서비스 급등의 이유
-
-공감은 어떻게 기업의 매출이 되는가 
-‘규칙 없음’이 규칙인 넷플릭스 | 치열한 OTT 경쟁 속에서도 자신만만한 넷플릭스의 비밀 | 혁신 기업의 공감전략 | 공감형 리더와 공감형 브랜드 | 펠로톤이 열어가는 신 구독경제
-
-국내도서 > 경제경영 > 마케팅/세일즈 > 트렌드/미래예측
-국내도서 > 경제경영 > 기업 경영 > 경영전략/혁신
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello 실전 파이썬 프로그래밍 world/조상철 지음/혜지원]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=287092044</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=287092044"/>
         <updated>2022-01-17T01:50:00.000Z</updated>
         <summary type="html"><![CDATA[Hello 실전 파이썬 프로그래밍 world
 조상철 지음 / 혜지원 / 2022년 01월 / ISBN:9791167640079
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 91원
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -3384,73 +3697,13 @@ Chapter 10 네트워크 프로그래밍
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 소사이어티 AI Society/김태헌.이벌찬 지음/미래의창]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=287088909</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=287088909"/>
-        <updated>2022-01-17T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[AI 소사이어티 AI Society
-김태헌.이벌찬 지음 / 미래의창 / 2022년 01월 / ISBN:9791191464696
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 62원
-이벤트: 2월 특별선물! 책모양, 태블릿, 무선 이어폰 파우치 (이벤트 도서 포함, 국내서.외서 5만원 이상)
-
-
-
-
-AI가 바꿔놓은 새로운 세상의 모습을 다양한 최신 사례를 바탕으로 전달하는 이 책은 AI 변혁의 최전선에서 일하는 데이터 과학자와 매일 바뀌는 세상을 모니터링하는 기자가 협업해 내놓은 결과물이다. 구사회에서 신사회로 넘어가는 시기에는 기술을 포용하는 사람과 그렇지 않은 사람 간에 뚜렷한 경계선이 그어진다.
-
-AI가 변화시킨 세상이 궁금한 사람, AI에 대해 막연한 두려움을 가진 사람, 하루빨리 AI 소사이어티에 편입되고 싶은 사람이라면 어서 이 책을 만나보길 권한다. AI와 공존하는 세상에서 놀라운 혜택을 누리며 살아가는 스마트 인류로 거듭나는 방법이 이 안에 담겨 있다.
-
-들어가며 
-
-Part 1 우리는 이미 AI 소사이어티에 살고 있다
-내가 알던 세상이 사라졌다
-AI 기술은 그냥 커피가 아닌 티오피
-AI가 바꿔놓은 새로운 세상의 발견
-
-Part 2 AI 소사이어티의 3가지 특징
-새로운 WWW의 시대로
-연결Wire: 모든 대상과 연결되다
-협업With: 도구에서 동료가 되다
-확장Widen: 가상 세계까지 공간이 확장되다
-
-Part 3 AI 소사이어티의 5가지 혜택
-AI의 능력은 곧 인간이 누릴 혜택
-첫 번째 혜택: 당신의 미래를 예측한다
-두 번째 혜택: 당신의 취향을 저격한다
-세 번째 혜택: 당신의 신체 능력을 강화한다
-네 번째 혜택: 기계와의 소통이 쉬워진다
-다섯 번째 혜택: 당신을 대신해 창조한다
-
-Part 4 유토피아인가 디스토피아인가
-AI 소사이어티를 평가하는 4가지 잣대
-자유를 침해하는가
-생존을 위협하는가
-진실을 왜곡하는가
-불평등을 심화하는가
-공포의 대상에서 적응해야 할 대상으로
-
-Part 5 AI 소사이어티에서 승자가 되는 법
-균등하지 않은 미래
-국가: 데이터 부국을 건설하라
-기업: 거인의 등에 올라타라
-개인: AI 리터러시를 갖춰라
-
-나가며 / 주
-
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[컴퓨팅사고와 파이썬 프로그래밍/김영탁 지음/홍릉(홍릉과학출판사)]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=287088603</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=287088603"/>
         <updated>2022-01-17T00:43:00.000Z</updated>
         <summary type="html"><![CDATA[컴퓨팅사고와 파이썬 프로그래밍
 김영탁 지음 / 홍릉(홍릉과학출판사) / 2022년 01월 / ISBN:9791156009443
-정가: 34,000원 / 판매가: 34,000원 / 마일리지: 179원
+정가: 34,000원 / 판매가: 34,000원 / 마일리지: 1,020원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -3495,50 +3748,13 @@ Part 5 AI 소사이어티에서 승자가 되는 법
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자유경제 톡톡/현진권 지음, 윤서인 그림/백년동안]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286908345</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286908345"/>
-        <updated>2022-01-14T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[자유경제 톡톡
-현진권 지음, 윤서인 그림 / 백년동안 / 2022년 01월 / ISBN:9791186061886
-정가: 13,000원 / 판매가: 11,700원 / 마일리지: 45원
-이벤트: 2월 특별선물! 책모양, 태블릿, 무선 이어폰 파우치 (이벤트 도서 포함, 국내서.외서 5만원 이상)
-
-
-
-
-주류 경제학에서조차 힘을 얻고 있는 “시장보다 정부의 역할 중요하다”라는 명제를 뒤엎는 시장경제 교과서 『자유경제 톡톡』을 펴냈다. 아주대 교수, 청와대 비서관, 자유경제원 원장, 국회도서관장 등을 지낸 ‘평생 경제학자’ 현진권의 글에 작가 윤서인의 만화를 곁들여 경제학의 이론과 실제를 쉽게 이해하도록 돕는다.
-
-책은 “시장은 악, 정부는 천사”라는 인식이 팽배해 시장이 위축되는 모습을 보며, 인간의 삶이 풍요로워지려면 ‘시장’에 대한 오해부터 풀어야겠다는 문제의식에서 기획되었다. 지난 세기 사회주의와 시장경제의 싸움을 통해 시장경제가 인류에게 번영을 가져다준다는 교훈을 얻었음에도, 여전히 평등을 내세우는 ‘사회주의의 유령’이 떠돌아다니고 있는 것을 책은 우려한다. “잘못된 사상은 잘못된 정책으로 이어져 우리의 경제 기적 신화를 지우고 있다. 우리의 경제학은 자유와 시장에 대한 음모와 거짓을 타파하고 사회주의 경제와 싸우는 경제학이 돼야 한다.”
-
-머리말
-
-제1부_ 자유와 개인
-제2부_ 인간 행동을 이해하자
-제3부_ 시장의 탄생
-제4부_ 시장경제 대 사회주의
-제5부_ 시장은 경쟁이다
-제6부_ 착한 정부는 없다
-제7부_ 시장경제의 오해
-제8부_ 시장경제와 대한민국
-
-추천 도서
-
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이론/경제사상]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스벨트로 시작하는 웹 프런트엔드/김근영 지음/비제이퍼블릭]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=286865838</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=286865838"/>
         <updated>2022-01-13T07:07:00.000Z</updated>
         <summary type="html"><![CDATA[스벨트로 시작하는 웹 프런트엔드
 김근영 지음 / 비제이퍼블릭 / 2022년 01월 / ISBN:9791165921132
-정가: 29,000원 / 판매가: 26,100원 / 마일리지: 124원
+정가: 29,000원 / 판매가: 26,100원 / 마일리지: 1,450원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
@@ -3625,7 +3841,7 @@ ____5-3-3 readable store...
         <updated>2022-01-13T04:27:00.000Z</updated>
         <summary type="html"><![CDATA[케라스로 완성하는 인공 신경망 기본기
 이준 지음 / 에이콘출판 / 2022년 01월 / ISBN:9791161756066
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 101원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
 이벤트: 수험서.대학교재_플랫파우치 / To do list 메모지 / 숄더 에코백 / 형광펜
 
 
@@ -3719,7 +3935,7 @@ A3. 텐서플로 불러오기 오류 고치기
         <updated>2022-01-13T02:10:00.000Z</updated>
         <summary type="html"><![CDATA[혼자 공부하는 R 데이터 분석
 강전희.엄동란 지음 / 한빛미디어 / 2022년 01월 / ISBN:9791162245019
-정가: 22,000원 / 판매가: 19,800원 / 마일리지: 96원
+정가: 22,000원 / 판매가: 19,800원 / 마일리지: 1,100원
 이벤트: 혼공 노트 (혼자 공부하는 시리즈 1권 이상)
 
 
@@ -3823,7 +4039,7 @@ __주요 패키지 활용하기
         <updated>2022-01-12T03:21:00.000Z</updated>
         <summary type="html"><![CDATA[AWS 공인 솔루션스 아키텍트 스터디 가이드 - 어소시에이트 3/e
 벤 파이퍼.데이비드 클린턴 지음, 동준상 옮김 / 에이콘출판 / 2022년 01월 / ISBN:9791161756103
-정가: 35,000원 / 판매가: 31,500원 / 마일리지: 150원
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
 이벤트: 수험서.대학교재_플랫파우치 / To do list 메모지 / 숄더 에코백 / 형광펜
 
 
@@ -3942,7 +4158,7 @@ __평가 문...
         <updated>2022-01-11T02:45:00.000Z</updated>
         <summary type="html"><![CDATA[웹 크롤링 & 데이터 분석 with 파이썬
 장철원 지음 / 인사이트 / 2022년 01월 / ISBN:9788966263394
-정가: 20,000원 / 판매가: 18,000원 / 마일리지: 80원
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 1,000원
 이벤트: 수험서 분철 당일배송 오픈!
 
 
