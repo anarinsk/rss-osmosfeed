@@ -1,176 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-22T03:01:24.953Z</id>
+    <id>urn:2022-02-22T06:01:45.555Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-02-22T03:01:24.953Z</updated>
+    <updated>2022-02-22T06:01:45.556Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Digitalization and Resilience: Firm-level Evidence During the COVID-19 Pandemic]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162685</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162685"/>
-        <updated>2022-02-22T03:01:19.216Z</updated>
-        <summary type="html"><![CDATA[The COVID-19 pandemic has resulted in an unprecedented shock to firms with adverse consequences for existing productive capacities. At the same time, digitalization has increasingly been touted as a key pathway for mitigating economic losses from the pandemic, and we expect firms facing digital constraints to be less resilient to supply shocks. This paper uses firm-level data to investigate whether digitally-enabled firms have been able to mitigate economic losses arising from the pandemic better than digitally-constrained firms in the Middle East and Central Asia region using a difference-in-differences approach. Controlling for demand conditions, we find that digitally-enabled firms faced a lower decline in sales by about 4 percentage points during the pandemic compared to digitally-constrained firms, suggesting that digitalization acted as a hedge during the pandemic. Against this backdrop, our results suggest that policymakers need to close the digital gap and accelerate firms’ digital transformation. This will be essential for economies to bounce back from the pandemic, and build the foundations for future resilience.]]></summary>
+        <title type="html"><![CDATA[해외사례 조사를 통한 한국 증권업 건전성 규제의 개선 방향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162657</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162657"/>
+        <updated>2022-02-22T06:01:23.228Z</updated>
+        <summary type="html"><![CDATA[자본시장연구원이 『해외사례 조사를 통한 한국 증권업 건전성 규제의 개선 방향』을 발표하였다.
+
+-  본 연구에서는 오랜 역사를 가지고 증권업 건전성 규제를 발전시켜 온 미국, 유럽, 일본 등 주요국 제도를 소개하고 순자본비율 도입 이후 한국 증권업의 변화를 진단함. 또한 주요국 증권업 건전성 규제와 한국과의 규제 격차 분석을 통해 한국 증권업 건전성 규제의 개선 방향을 제시하고자 함.
+
+- 우선 주요국 증권업 건전성 규제를 분석한 결과 미국 NCR 규제는 청산기업 관점의 유동성 규제 철학에 기초하여 파산시 고객 자산 보호를 최우선 목표로 두며 발전해 왔음. 미국은 1934년 증권거래법 시작과 함께 NCR 규제를 도입하였으며 1975년 통일 순자본규제(Uniform Net Capital Rule) 도입 등 수차례의 개정을 거쳐 현재 표준방법, 대체방법, 대체순자본방법 등 세가지 유형의 자기자본 규제 비율 산식을 마련하고 있음. 또한 소형 브로커-딜러의 경우 총채무가 일정 규모를 초과하면 자기자본 대비 총채무 비율을 15배 이내로 제한하고 있으며, 중대형 브로커-딜러에게는 별도의 레버리지비율 규제를 적용하고 있지는 않음. 다만 브로커-딜러의 연결 금융회사의 레버리지비율이 1,100%를 초과하면 금융당국에게 보고하는 의무를 부여하고 있음.
+
+- 영국, 유럽에서 주요 사용하는 바젤 방식 규제는 계속기업 관점의 건전성 규제 철학에 기초하여 증권회사의 파산 예방을 강조하는 방향으로 발전해 왔음. 과거 바젤 방식의 증권업 규제는 시중은행에게 적용되는 자기자본 규제와 그 형태가 유사함. 2021년 하반기 이후 유…]]></summary>
         <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Localization in the Age of Economic Globalization]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162677</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162677"/>
-        <updated>2022-02-22T03:01:19.057Z</updated>
-        <summary type="html"><![CDATA[The agglomeration indexes together aim to show how domestic sectors contribute to the global economy. The indexes measure the scale of value-added sourced from and/or absorbed into domestic economy sectors and the concentration of value added in the domestic market. They are extended to account for the distribution of activities within domestic sectors.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supply Bottlenecks: Where, Why, How Much, and What Next?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162682</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162682"/>
-        <updated>2022-02-22T03:01:18.923Z</updated>
-        <summary type="html"><![CDATA[Supply constraints hurt the economic recovery and boosted inflation in 2021. We find that in the euro area, manufacturing output and GDP would have been about 6 and 2 percent higher, respectively, and half of the rise in manufacturing producer price inflation would not have occurred in the absence of supply bottlenecks. Globally, shutdowns can explain up to 40 percent of the supply shocks. Sectors that are more reliant on differentiated inputs―such as autos―are harder hit. Late last year industry experts expected supply shortages for autos to largely dissipate by mid-2022 and broader bottlenecks by end-2022, but given the Omicron wave, disruptions will last for longer, possibly into 2023. With supply constraints adding to price pressures, the challenge for policymakers is to support recovery without allowing high inflation to become entrenched.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China’s Declining Business Dynamism]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162683</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162683"/>
-        <updated>2022-02-22T03:01:18.904Z</updated>
-        <summary type="html"><![CDATA[After impressive growth in the 2000s, China‘s productivity has more recently stagnated. We use firm-level data to analyze productivity and firm dynamism trends from 2003 to 2018. We document six facts that together show a decline in China’s business dynamism. We show that (i) the revenue share of young firms has declined, (ii) the life-cycle growth of young firms relative to older incumbents has slowed, (iii) weaker life-cycle growth can be explained by slower productivity growth and weaker investment in intangibles, (iv) younger and smaller firms are more capital constrained than their older and larger counterparts, (v) the responsiveness of capital growth to the marginal product of capital has declined, and (vi) large productivity gaps between SOEs and private firms persist. We find that business dynamism is weaker in provinces where SOEs account for a larger share of the capital stock. Our results suggest that declining private business dynamism is an important factor in explaining China‘s sluggish TFP growth and that SOE reform could boost productivity growth indirectly by stimulating business dynamism.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
+            <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Liquidation value and loan pricing]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162676</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162676"/>
-        <updated>2022-02-22T03:01:18.592Z</updated>
+        <updated>2022-02-22T06:01:22.803Z</updated>
         <summary type="html"><![CDATA[We show that the liquidation value of collateral depends on who is pledging it. We employ transaction-level data on overnight repurchase agreements (repo) and loan-level credit registry data on corporate loans. We find that borrowers on the repo market pay a 2.6 basis points rate premium when their default risk is positively correlated with the risk of the collateral that they pledge. The premium in corporate loan markets amounts to 25 basis points. Our results imply that liquidation value contains a component at the borrower-collateral level, and that lenders monitor and price-in the interdependency between borrower and collateral risk.JEL CodeG21 : Financial Economics→Financial Institutions and Services→Banks, Depository Institutions, Micro Finance Institutions, MortgagesG12 : Financial Economics→General Financial Markets→Asset Pricing, Trading Volume, Bond Interest RatesD53 : Microeconomics→General Equilibrium and Disequilibrium→Financial MarketsD47 : Microeconomics→Market Structure and Pricing→Market DesignE43 : Macroeconomics and Monetary Economics→Money and Interest Rates→Interest Rates: Determination, Term Structure, and Effects]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Global Plastics Outlook]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162693</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162693"/>
-        <updated>2022-02-22T03:01:18.569Z</updated>
-        <summary type="html"><![CDATA[While plastics are extremely useful materials for modern society, plastics production and waste generation continue to increase with worsening environmental impacts despite international, national and local policy responses, as well as industry commitments. The urgent need to make the lifecycle of plastics more circular calls for an expansion of national policies and improved international co-operation to mitigate environmental impacts all along the value chain. The first of two reports, this Outlook intends to inform and support policy efforts to combat plastic leakage. The report quantifies the current production, use, disposal and key environmental impacts throughout the entire plastics lifecycle and identifies opportunities for reducing the negative externalities. It also investigates how plastics use and waste have been affected by the COVID-19 pandemic across sectors and regions. The Outlook identifies four key levers for bending the plastics curve: stronger support for recycled (secondary) plastics markets; policies to boost technological innovation in plastics; more ambitious domestic policy measures; and greater international co-operation.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Competition in the Era of Big Data]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162688</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162688"/>
-        <updated>2022-02-22T03:01:18.561Z</updated>
-        <summary type="html"><![CDATA[The advent of rich and highly？detailed information on individual web？browsing and purchase histories― an instance of so？called Big Data―has begun to make feasible sophisticated forms of personalized pricing, heretofore considered too informationally demanding to implement. We argue these pricing strategies are especially relevant in markets for differentiated experience goods. Taking the view that this ability to price discriminate both intertemporally and interpersonally will become increasingly relevant in the future, here we investigate its implications on the dynamics of prices and on efficiency in such markets. In particular, we derive a simple characterization of the equilibrium pricing rule that shows how prices contain a variety？ specific dynamic component that depends on the relative informativeness of competing varieties about consumers’ tastes. Over time, this pricing rule leads to discontinuous price changes that take the form of fluctuating price discounts for a given consumer. We provide evidence on the gains associated with these sophisticated forms of price discrimination using data on individual consumers’ purchases of Apple and Samsung products over time. We estimate primitives in the setting in which firms use the uniform pricing rule we observe in the data and then simulate the counterfactual world with first-degree price discrimination. We find that a significant fraction of consumers are better off under price discrimination relative to uniform pricing, as price discrimination intensifies competition for each individual consumer. Consumers worse off under price discrimination are those who are a good match for only Apple or Samsung. Firm profits from these consumers are correspondingly higher under price discrimination.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has the Willingness to Work Fallen during the Covid Pandemic?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162680</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162680"/>
-        <updated>2022-02-22T03:01:18.552Z</updated>
-        <summary type="html"><![CDATA[We examine the effect of the Covid pandemic on willingness to work along both the extensive and intensive margins of labor supply. Special survey questions in the Job Search Supplement of the Survey of Consumer Expectations (SCE) allow us to elicit information about individuals‘ desired work hours for the 2013-2021 period. Using these questions, along with workers‘ actual labor market participation, we construct a labor market underutilization measure, the Aggregate Hours Gap (AHG), following Faberman et al. (2020).  The AHG captures changes in labor market underutilization for the full population along both the extensive and intensive margins using data on desired work hours as a measure of their potential labor supply. We find that the sharp increase in the AHG during the Covid pandemic essentially disappeared by the end of 2021. We also document a sharp decline in desired work hours during the pandemic that persists through the end of 2021 and is roughly double the drop in the labor force participation rate. Ignoring the decline in desired hours overstates the degree of underutilization by 2.5 percentage points (12.5%). Our findings suggest that, as of 2021Q4, the labor market is tighter than suggested by the unemployment rate and the adverse labor supply effect of the pandemic is more pronounced than implied by the labor force participation rate. These discrepancies underscore the importance of taking into account the intensive margin for both labor market underutilization and potential labor supply.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing the effectiveness of sub-national biodiversity policy: Practices in France and Scotland, United Kingdom]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162673</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162673"/>
-        <updated>2022-02-22T03:01:18.521Z</updated>
-        <summary type="html"><![CDATA[Sub-national governments have a key role in delivering on national and international biodiversity commitments. Drawing on policy practices from Scotland (UK), France and other signatories to the Edinburgh Declaration, this paper provides an overview and analysis of sub-national strategies, plans and mechanisms to ensure policy coherence and co-ordination. It then examines the policy instruments that subnational governments can leverage to deliver positive biodiversity outcomes. The paper highlights, among other things, the need to: develop clear and measurable biodiversity targets at sub-national level; incorporate biodiversity considerations into sub-national climate action plans and urban, rural and regional development strategies, plans and instruments; and promote nature-based solutions at a sub-national level to harness synergies between climate mitigation, climate adaptation and biodiversity.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global production linkages and stock market co-movement]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162678</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162678"/>
-        <updated>2022-02-22T03:01:18.479Z</updated>
-        <summary type="html"><![CDATA[Although real integration conceptually plays an important role for the comovement of international equity markets, documenting this link empirically has proven challenging. We construct a new dataset of theory-guided, relevant measures of bilateral trade in final and intermediate goods and services. With these measures, we provide evidence of a strong link between changes in real integration ？ in particular global value chains ？ and equity market comovement. This also holds when controlling for financial openness and other factors that could confound the role of real openness. These results suggest that supply chain disruptions, for instance due to political tensions and the COVID-19 crisis, might also affect the interconnections between stock markets via rippling through the global production network.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent trends in transport and insurance costs and estimates at disaggregated product level]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162679</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162679"/>
-        <updated>2022-02-22T03:01:18.471Z</updated>
-        <summary type="html"><![CDATA[This paper updates the OECD International Transport and Insurance Cost (ITIC) of Merchandise Trade database, which covers more than 180 countries and partners, and over 1000 products from 1995 to 2020. Transport and insurance costs, also known as CIF-FOB margins, are estimated using a gravity model. A cross-validation procedure is used to evaluate model performance. In addition to describing the methodology, the paper highlights that transport and insurance costs are declining as a fraction of trade value, but this reduction has been flattening out in more recent years. However, an alternative measure, the explicit CIF-FOB margins per kilogramme imported, suggests that transport and insurance costs have been actually rising since 2002. Both CIF-FOB margins and cost per kilogramme imported show increases in 2020 when compared to 2019. This is robust to corrections for compositional changes. The methodology is used to produce the International Transport and Insurance Costs of Merchandise Trade data base and the data is made publically available on .Stat under the International Trade and Balance of Payments heading.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devaluations, Deposit Dollarization, and Household Heterogeneity]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162672</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162672"/>
-        <updated>2022-02-22T03:01:18.453Z</updated>
-        <summary type="html"><![CDATA[We study the aggregate and re-distributive effects of currency devaluations in a small open economy heterogeneous households model with leverage-constrained banks. Our framework captures three stylized facts about liability dollarization in emerging economies: i) banks and firms borrow in foreign currency; ii) households save in dollar-denominated local bank deposits; and iii) such deposits are mainly held by wealthier households. The resulting currency mismatch causes an erosion of banks‘ net worth during a devaluation, depressing credit supply. The ensuing macroeconomic downturn is amplified by a strong reduction of consumption among poorer households in response to rising borrowing costs and falling labor income. Richer households are partially insured, as they are holding a larger share of their wealth in foreign currency denominated assets. We show that a larger currency hedging by wealthier households deepens the recession and amplifies the negative spillovers for poorer agents. When deposit dollarization is high, welfare gains can arise if monetary policy dampens a depreciation.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fees, Incentives, and Efficiency in Large Double Auctions]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162675</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162675"/>
-        <updated>2022-02-22T03:01:18.445Z</updated>
-        <summary type="html"><![CDATA[Fees are omnipresent in markets but, with few exceptions, are omitted in economic models- such as Double Auctions-of these markets. Allowing for general fee structures, we show that their impact on incentives and efficiency in large Double Auctions hinges on whether the fees are homogeneous (as, e.g., fixed fees and price fees) or heterogeneous (as, e.g., bid-ask spread fees). Double Auctions with homogeneous fees share the key advantages of Double Auctions without fees: markets with homogeneous fees are asymptotically strategyproof and efficient. We further show that these advantages are preserved even if traders have misspecified beliefs. In contrast, heterogeneous fees lead to complex strategic behavior (price guessing) and may result in severe market failures. Allowing for aggregate uncertainty, we extend these insights to market organizations other than the Double Auction.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pension Incentives and Retirement Planning in Rural China: Evidence for the New Rural Pension Scheme]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162691</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162691"/>
-        <updated>2022-02-22T03:01:18.437Z</updated>
-        <summary type="html"><![CDATA[This paper estimates the impact of social pension programs on retirement planning in rural China, focusing on the New Rural Pension Scheme (NRPS). Retirement planning is defined as an individual‘s intention to detach from the workforce at a given age instead of working for as long as physically possible. We also consider an individual‘s self-reported health characteristics and subjective life expectancy. Overall, we find that the NRPS does not incentivize younger workers (those under 60？years of age) to plan their retirement; instead, they are more likely to remain in the workforce permanently to compensate for the additional costs. However, the NRPS provides a greater incentive for older workers (those 60？years of age and older) to plan their retirement than if there was no scheme. This result is particularly relevant for older unhealthy workers with a longer subjective life expectancy. We also find evidence that mental health status is key for the effectiveness of the policy.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State-Level Economic Policy Uncertainty]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162687</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162687"/>
-        <updated>2022-02-22T03:01:18.424Z</updated>
-        <summary type="html"><![CDATA[We quantify and study state-level economic policy uncertainty. Tapping digital archives for nearly 3,500 local newspapers, we construct three monthly indexes for each state: one that captures state and local sources of policy uncertainty (EPU-S), one that captures national and international sources (EPU-N), and a composite index that captures both. EPU-S rises around gubernatorial elections and own-state episodes like the California electricity crisis of 2000-01 and the Kansas tax experiment of 2012. EPU-N rises around presidential elections and in response to 9-11, Gulf Wars I and II, the 2011 debt-ceiling crisis, the 2012 fiscal cliff episode, and federal government shutdowns. Close elections elevate policy uncertainty much more than the average election. The COVID-19 pandemic drove huge increases in policy uncertainty and unemployment, more so in states with stricter government-mandated lockdowns. VAR models fit to pre-COVID data imply that upward shocks to own-state EPU foreshadow weaker economic activity in the state.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Market Prices in Double Auctions]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162674</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162674"/>
-        <updated>2022-02-22T03:01:18.407Z</updated>
-        <summary type="html"><![CDATA[We address some open issues regarding the characterization of double auctions. Our model is a two-sided commodity market with either finitely or infinitely many traders. We first unify existing formulations for both finite and infinite markets and generalize the characterization of market clearing in the presence of ties. Second, we define a mechanism that achieves market clearing in any, finite or infinite, market instance and show that it coincides with the k-double auction by Rustichini et al. (1994) in the former case. In particular, it clarifies the consequences of ties in submissions and makes common regularity assumptions obsolete. Finally, we show that the resulting generalized mechanism implements Walrasian competitive equilibrium.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essays on a 21st century multilateralism that works for all]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162670</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162670"/>
-        <updated>2022-02-22T03:01:18.389Z</updated>
-        <summary type="html"><![CDATA[There is no general agreement on what shape the “world order” will take in the years and decades ahead. What is certain, however, is that humanity will have to deal with huge and in many ways unprecedented transformations and challenges, such as the digitalization of economies and societies, climate change and mitigation, pandemic preparedness, extreme income and wealth concentration, and new types of “weapons” associated with dual-use technologies. There are great opportunities for improved well-being associated with many of these challenges. Digitalization and artificial intelligence (AI) could result in tremendous increases in productivity, and the green transformation necessitated by climate change could constitute the greatest economic, social, and business opportunity since the indus…]]></summary>
+        <title type="html"><![CDATA[Digitalization and Resilience: Firm-level Evidence During the COVID-19 Pandemic]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162685</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162685"/>
+        <updated>2022-02-22T06:01:22.787Z</updated>
+        <summary type="html"><![CDATA[The COVID-19 pandemic has resulted in an unprecedented shock to firms with adverse consequences for existing productive capacities. At the same time, digitalization has increasingly been touted as a key pathway for mitigating economic losses from the pandemic, and we expect firms facing digital constraints to be less resilient to supply shocks. This paper uses firm-level data to investigate whether digitally-enabled firms have been able to mitigate economic losses arising from the pandemic better than digitally-constrained firms in the Middle East and Central Asia region using a difference-in-differences approach. Controlling for demand conditions, we find that digitally-enabled firms faced a lower decline in sales by about 4 percentage points during the pandemic compared to digitally-constrained firms, suggesting that digitalization acted as a hedge during the pandemic. Against this backdrop, our results suggest that policymakers need to close the digital gap and accelerate firms’ digital transformation. This will be essential for economies to bounce back from the pandemic, and build the foundations for future resilience.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -179,18 +45,40 @@
         <title type="html"><![CDATA[Preferences for Reforms: Endowments vs. Beliefs]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162684</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162684"/>
-        <updated>2022-02-22T03:01:18.380Z</updated>
+        <updated>2022-02-22T06:01:22.766Z</updated>
         <summary type="html"><![CDATA[Are preferences for reforms driven by individuals’ own endowments or beliefs? To address this question, we conducted a cross-country survey on people’s opinions on employment protection legislation―an area where reform has proven to be difficult and personal interests are at stake. We find that individuals’ beliefs matter more than their own endowments and personal pay-offs. A randomized information treatment confirms that beliefs explain views about reform, but beliefs can change with new information. Our results are robust to several robustness tests, including to alternative estimation techniques and samples.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Secular Drivers of the Natural Rate of Interest in the United States: A Quantitative Evaluation]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162681</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162681"/>
-        <updated>2022-02-22T03:01:18.370Z</updated>
-        <summary type="html"><![CDATA[We develop a heterogeneous agent, overlapping generations model with nonhomothetic preferences that nests several explanations for the decline in the natural rate of interest (r？) suggested in the literature: demographic change, a slowdown in productivity growth, a rise in income inequality, and public policy. The model can account for a 2.2 percentage point (pp) decline in r？ between 1975 and 2015, which is within the range of empirical estimates. Rising income inequality is an important driver (-0.70 pp), and together with demographic change (-0.71 pp) and the slowdown in productivity growth (-1.0 pp) explains most of the decline. Growing public debt is the major counteracting force (+0.31 pp). Permanent income inequality is of greater importance than inequality due to uninsurable income risk, and matching the degree of nonhomotheticity in consumption and savings behavior to empirical estimates is essential for this result. We predict that r？ will reach a low of 0.38% by 2030, after which a slow reversal will begin. The natural rate will stabilize at 1% in the long run, a low level when compared with the postwar path of r？ implied by the model. This remains true even if we take into account soaring public debt levels due to the COVID-19 pandemic. Policy can have considerable impact on the level of r？ through the tax and transfer system.]]></summary>
+        <title type="html"><![CDATA[시중 유동자금의 벤처투자 유입을 위한 제도 개선 방안 연구]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162664</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162664"/>
+        <updated>2022-02-22T06:01:22.747Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 「시중 유동자금의 벤처투자 유입을 위한 제도 개선 방안 연구」를 발표하였다.
+
+- 본 연구는 최근 급격히 증가하고 있는 시중 유동자금이 기업 투자로 전환되어 고부가가치를 창출하고, 생산적 에너지로 활용될 수 있도록 벤처투자 확대를 위한 정책적 고려가 필요하다는 문제의식에서 출발. 이에 본 연구는 민간의 투자 활성화를 위해 엔젤투자 촉진을 위한 정책 방향과 제도 개선 방안 모색을 목적으로 추진함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Plastics Outlook]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162693</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162693"/>
+        <updated>2022-02-22T06:01:22.718Z</updated>
+        <summary type="html"><![CDATA[While plastics are extremely useful materials for modern society, plastics production and waste generation continue to increase with worsening environmental impacts despite international, national and local policy responses, as well as industry commitments. The urgent need to make the lifecycle of plastics more circular calls for an expansion of national policies and improved international co-operation to mitigate environmental impacts all along the value chain. The first of two reports, this Outlook intends to inform and support policy efforts to combat plastic leakage. The report quantifies the current production, use, disposal and key environmental impacts throughout the entire plastics lifecycle and identifies opportunities for reducing the negative externalities. It also investigates how plastics use and waste have been affected by the COVID-19 pandemic across sectors and regions. The Outlook identifies four key levers for bending the plastics curve: stronger support for recycled (secondary) plastics markets; policies to boost technological innovation in plastics; more ambitious domestic policy measures; and greater international co-operation.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fees, Incentives, and Efficiency in Large Double Auctions]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162675</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162675"/>
+        <updated>2022-02-22T06:01:22.105Z</updated>
+        <summary type="html"><![CDATA[Fees are omnipresent in markets but, with few exceptions, are omitted in economic models- such as Double Auctions-of these markets. Allowing for general fee structures, we show that their impact on incentives and efficiency in large Double Auctions hinges on whether the fees are homogeneous (as, e.g., fixed fees and price fees) or heterogeneous (as, e.g., bid-ask spread fees). Double Auctions with homogeneous fees share the key advantages of Double Auctions without fees: markets with homogeneous fees are asymptotically strategyproof and efficient. We further show that these advantages are preserved even if traders have misspecified beliefs. In contrast, heterogeneous fees lead to complex strategic behavior (price guessing) and may result in severe market failures. Allowing for aggregate uncertainty, we extend these insights to market organizations other than the Double Auction.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -199,198 +87,176 @@
         <title type="html"><![CDATA[The Dynamics of Global Sourcing]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162671</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162671"/>
-        <updated>2022-02-22T03:01:18.349Z</updated>
+        <updated>2022-02-22T06:01:22.092Z</updated>
         <summary type="html"><![CDATA[This paper studies an import model that incorporates both static crosscountry interdependence and dynamic dependence in firm-level decisions. I find that the benefit of sourcing from one country increases as a firm imports from more countries. Furthermore, using a partial identification approach under the revealed preferences assumption, I provide evidence for the sunk costs of importing, which make establishing relationships with new sellers costlier than maintaining existing ones. The coexistence of cross-country interdependence and sunk costs implies that temporary trade policy changes can have long-lasting effects on both the targeted and non-targeted markets through firm-level decisions.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글로벌 금융회사의 가상자산 수탁서비스 현황과 시사점]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162605</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162605"/>
-        <updated>2022-02-22T03:01:18.340Z</updated>
-        <summary type="html"><![CDATA[우리금융경영연구소가 『글로벌 금융회사의 가상자산 수탁서비스 현황과 시사점』을 발표하였다.
+        <title type="html"><![CDATA[Essays on a 21st century multilateralism that works for all]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162670</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162670"/>
+        <updated>2022-02-22T06:01:22.077Z</updated>
+        <summary type="html"><![CDATA[There is no general agreement on what shape the “world order” will take in the years and decades ahead. What is certain, however, is that humanity will have to deal with huge and in many ways unprecedented transformations and challenges, such as the digitalization of economies and societies, climate change and mitigation, pandemic preparedness, extreme income and wealth concentration, and new types of “weapons” associated with dual-use technologies. There are great opportunities for improved well-being associated with many of these challenges. Digitalization and artificial intelligence (AI) could result in tremendous increases in productivity, and the green transformation necessitated by climate change could constitute the greatest economic, social, and business opportunity since the indus…]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Market Prices in Double Auctions]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162674</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162674"/>
+        <updated>2022-02-22T06:01:22.069Z</updated>
+        <summary type="html"><![CDATA[We address some open issues regarding the characterization of double auctions. Our model is a two-sided commodity market with either finitely or infinitely many traders. We first unify existing formulations for both finite and infinite markets and generalize the characterization of market clearing in the presence of ties. Second, we define a mechanism that achieves market clearing in any, finite or infinite, market instance and show that it coincides with the k-double auction by Rustichini et al. (1994) in the former case. In particular, it clarifies the consequences of ties in submissions and makes common regularity assumptions obsolete. Finally, we show that the resulting generalized mechanism implements Walrasian competitive equilibrium.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global production linkages and stock market co-movement]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162678</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162678"/>
+        <updated>2022-02-22T06:01:22.061Z</updated>
+        <summary type="html"><![CDATA[Although real integration conceptually plays an important role for the comovement of international equity markets, documenting this link empirically has proven challenging. We construct a new dataset of theory-guided, relevant measures of bilateral trade in final and intermediate goods and services. With these measures, we provide evidence of a strong link between changes in real integration ？ in particular global value chains ？ and equity market comovement. This also holds when controlling for financial openness and other factors that could confound the role of real openness. These results suggest that supply chain disruptions, for instance due to political tensions and the COVID-19 crisis, might also affect the interconnections between stock markets via rippling through the global production network.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pension Incentives and Retirement Planning in Rural China: Evidence for the New Rural Pension Scheme]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162691</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162691"/>
+        <updated>2022-02-22T06:01:22.052Z</updated>
+        <summary type="html"><![CDATA[This paper estimates the impact of social pension programs on retirement planning in rural China, focusing on the New Rural Pension Scheme (NRPS). Retirement planning is defined as an individual‘s intention to detach from the workforce at a given age instead of working for as long as physically possible. We also consider an individual‘s self-reported health characteristics and subjective life expectancy. Overall, we find that the NRPS does not incentivize younger workers (those under 60？years of age) to plan their retirement; instead, they are more likely to remain in the workforce permanently to compensate for the additional costs. However, the NRPS provides a greater incentive for older workers (those 60？years of age and older) to plan their retirement than if there was no scheme. This result is particularly relevant for older unhealthy workers with a longer subjective life expectancy. We also find evidence that mental health status is key for the effectiveness of the policy.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China’s Declining Business Dynamism]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162683</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162683"/>
+        <updated>2022-02-22T06:01:22.044Z</updated>
+        <summary type="html"><![CDATA[After impressive growth in the 2000s, China‘s productivity has more recently stagnated. We use firm-level data to analyze productivity and firm dynamism trends from 2003 to 2018. We document six facts that together show a decline in China’s business dynamism. We show that (i) the revenue share of young firms has declined, (ii) the life-cycle growth of young firms relative to older incumbents has slowed, (iii) weaker life-cycle growth can be explained by slower productivity growth and weaker investment in intangibles, (iv) younger and smaller firms are more capital constrained than their older and larger counterparts, (v) the responsiveness of capital growth to the marginal product of capital has declined, and (vi) large productivity gaps between SOEs and private firms persist. We find that business dynamism is weaker in provinces where SOEs account for a larger share of the capital stock. Our results suggest that declining private business dynamism is an important factor in explaining China‘s sluggish TFP growth and that SOE reform could boost productivity growth indirectly by stimulating business dynamism.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing the effectiveness of sub-national biodiversity policy: Practices in France and Scotland, United Kingdom]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162673</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162673"/>
+        <updated>2022-02-22T06:01:22.036Z</updated>
+        <summary type="html"><![CDATA[Sub-national governments have a key role in delivering on national and international biodiversity commitments. Drawing on policy practices from Scotland (UK), France and other signatories to the Edinburgh Declaration, this paper provides an overview and analysis of sub-national strategies, plans and mechanisms to ensure policy coherence and co-ordination. It then examines the policy instruments that subnational governments can leverage to deliver positive biodiversity outcomes. The paper highlights, among other things, the need to: develop clear and measurable biodiversity targets at sub-national level; incorporate biodiversity considerations into sub-national climate action plans and urban, rural and regional development strategies, plans and instruments; and promote nature-based solutions at a sub-national level to harness synergies between climate mitigation, climate adaptation and biodiversity.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State-Level Economic Policy Uncertainty]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162687</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162687"/>
+        <updated>2022-02-22T06:01:22.022Z</updated>
+        <summary type="html"><![CDATA[We quantify and study state-level economic policy uncertainty. Tapping digital archives for nearly 3,500 local newspapers, we construct three monthly indexes for each state: one that captures state and local sources of policy uncertainty (EPU-S), one that captures national and international sources (EPU-N), and a composite index that captures both. EPU-S rises around gubernatorial elections and own-state episodes like the California electricity crisis of 2000-01 and the Kansas tax experiment of 2012. EPU-N rises around presidential elections and in response to 9-11, Gulf Wars I and II, the 2011 debt-ceiling crisis, the 2012 fiscal cliff episode, and federal government shutdowns. Close elections elevate policy uncertainty much more than the average election. The COVID-19 pandemic drove huge increases in policy uncertainty and unemployment, more so in states with stricter government-mandated lockdowns. VAR models fit to pre-COVID data imply that upward shocks to own-state EPU foreshadow weaker economic activity in the state.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secular Drivers of the Natural Rate of Interest in the United States: A Quantitative Evaluation]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162681</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162681"/>
+        <updated>2022-02-22T06:01:22.007Z</updated>
+        <summary type="html"><![CDATA[We develop a heterogeneous agent, overlapping generations model with nonhomothetic preferences that nests several explanations for the decline in the natural rate of interest (r？) suggested in the literature: demographic change, a slowdown in productivity growth, a rise in income inequality, and public policy. The model can account for a 2.2 percentage point (pp) decline in r？ between 1975 and 2015, which is within the range of empirical estimates. Rising income inequality is an important driver (-0.70 pp), and together with demographic change (-0.71 pp) and the slowdown in productivity growth (-1.0 pp) explains most of the decline. Growing public debt is the major counteracting force (+0.31 pp). Permanent income inequality is of greater importance than inequality due to uninsurable income risk, and matching the degree of nonhomotheticity in consumption and savings behavior to empirical estimates is essential for this result. We predict that r？ will reach a low of 0.38% by 2030, after which a slow reversal will begin. The natural rate will stabilize at 1% in the long run, a low level when compared with the postwar path of r？ implied by the model. This remains true even if we take into account soaring public debt levels due to the COVID-19 pandemic. Policy can have considerable impact on the level of r？ through the tax and transfer system.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has the Willingness to Work Fallen during the Covid Pandemic?]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162680</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162680"/>
+        <updated>2022-02-22T06:01:21.989Z</updated>
+        <summary type="html"><![CDATA[We examine the effect of the Covid pandemic on willingness to work along both the extensive and intensive margins of labor supply. Special survey questions in the Job Search Supplement of the Survey of Consumer Expectations (SCE) allow us to elicit information about individuals‘ desired work hours for the 2013-2021 period. Using these questions, along with workers‘ actual labor market participation, we construct a labor market underutilization measure, the Aggregate Hours Gap (AHG), following Faberman et al. (2020).  The AHG captures changes in labor market underutilization for the full population along both the extensive and intensive margins using data on desired work hours as a measure of their potential labor supply. We find that the sharp increase in the AHG during the Covid pandemic essentially disappeared by the end of 2021. We also document a sharp decline in desired work hours during the pandemic that persists through the end of 2021 and is roughly double the drop in the labor force participation rate. Ignoring the decline in desired hours overstates the degree of underutilization by 2.5 percentage points (12.5%). Our findings suggest that, as of 2021Q4, the labor market is tighter than suggested by the unemployment rate and the adverse labor supply effect of the pandemic is more pronounced than implied by the labor force participation rate. These discrepancies underscore the importance of taking into account the intensive margin for both labor market underutilization and potential labor supply.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Localization in the Age of Economic Globalization]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162677</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162677"/>
+        <updated>2022-02-22T06:01:21.981Z</updated>
+        <summary type="html"><![CDATA[The agglomeration indexes together aim to show how domestic sectors contribute to the global economy. The indexes measure the scale of value-added sourced from and/or absorbed into domestic economy sectors and the concentration of value added in the domestic market. They are extended to account for the distribution of activities within domestic sectors.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devaluations, Deposit Dollarization, and Household Heterogeneity]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162672</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162672"/>
+        <updated>2022-02-22T06:01:21.973Z</updated>
+        <summary type="html"><![CDATA[We study the aggregate and re-distributive effects of currency devaluations in a small open economy heterogeneous households model with leverage-constrained banks. Our framework captures three stylized facts about liability dollarization in emerging economies: i) banks and firms borrow in foreign currency; ii) households save in dollar-denominated local bank deposits; and iii) such deposits are mainly held by wealthier households. The resulting currency mismatch causes an erosion of banks‘ net worth during a devaluation, depressing credit supply. The ensuing macroeconomic downturn is amplified by a strong reduction of consumption among poorer households in response to rising borrowing costs and falling labor income. Richer households are partially insured, as they are holding a larger share of their wealth in foreign currency denominated assets. We show that a larger currency hedging by wealthier households deepens the recession and amplifies the negative spillovers for poorer agents. When deposit dollarization is high, welfare gains can arise if monetary policy dampens a depreciation.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply Bottlenecks: Where, Why, How Much, and What Next?]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162682</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162682"/>
+        <updated>2022-02-22T06:01:21.965Z</updated>
+        <summary type="html"><![CDATA[Supply constraints hurt the economic recovery and boosted inflation in 2021. We find that in the euro area, manufacturing output and GDP would have been about 6 and 2 percent higher, respectively, and half of the rise in manufacturing producer price inflation would not have occurred in the absence of supply bottlenecks. Globally, shutdowns can explain up to 40 percent of the supply shocks. Sectors that are more reliant on differentiated inputs―such as autos―are harder hit. Late last year industry experts expected supply shortages for autos to largely dissipate by mid-2022 and broader bottlenecks by end-2022, but given the Omicron wave, disruptions will last for longer, possibly into 2023. With supply constraints adding to price pressures, the challenge for policymakers is to support recovery without allowing high inflation to become entrenched.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent trends in transport and insurance costs and estimates at disaggregated product level]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162679</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162679"/>
+        <updated>2022-02-22T06:01:21.947Z</updated>
+        <summary type="html"><![CDATA[This paper updates the OECD International Transport and Insurance Cost (ITIC) of Merchandise Trade database, which covers more than 180 countries and partners, and over 1000 products from 1995 to 2020. Transport and insurance costs, also known as CIF-FOB margins, are estimated using a gravity model. A cross-validation procedure is used to evaluate model performance. In addition to describing the methodology, the paper highlights that transport and insurance costs are declining as a fraction of trade value, but this reduction has been flattening out in more recent years. However, an alternative measure, the explicit CIF-FOB margins per kilogramme imported, suggests that transport and insurance costs have been actually rising since 2002. Both CIF-FOB margins and cost per kilogramme imported show increases in 2020 when compared to 2019. This is robust to corrections for compositional changes. The methodology is used to produce the International Transport and Insurance Costs of Merchandise Trade data base and the data is made publically available on .Stat under the International Trade and Balance of Payments heading.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Competition in the Era of Big Data]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162688</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162688"/>
+        <updated>2022-02-22T06:01:21.938Z</updated>
+        <summary type="html"><![CDATA[The advent of rich and highly？detailed information on individual web？browsing and purchase histories― an instance of so？called Big Data―has begun to make feasible sophisticated forms of personalized pricing, heretofore considered too informationally demanding to implement. We argue these pricing strategies are especially relevant in markets for differentiated experience goods. Taking the view that this ability to price discriminate both intertemporally and interpersonally will become increasingly relevant in the future, here we investigate its implications on the dynamics of prices and on efficiency in such markets. In particular, we derive a simple characterization of the equilibrium pricing rule that shows how prices contain a variety？ specific dynamic component that depends on the relative informativeness of competing varieties about consumers’ tastes. Over time, this pricing rule leads to discontinuous price changes that take the form of fluctuating price discounts for a given consumer. We provide evidence on the gains associated with these sophisticated forms of price discrimination using data on individual consumers’ purchases of Apple and Samsung products over time. We estimate primitives in the setting in which firms use the uniform pricing rule we observe in the data and then simulate the counterfactual world with first-degree price discrimination. We find that a significant fraction of consumers are better off under price discrimination relative to uniform pricing, as price discrimination intensifies competition for each individual consumer. Consumers worse off under price discrimination are those who are a good match for only Apple or Samsung. Firm profits from these consumers are correspondingly higher under price discrimination.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은행의 대출 증가와 주가수익률: 우리나라 은행의 사례를 중심으로]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162633</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162633"/>
+        <updated>2022-02-22T06:01:21.930Z</updated>
+        <summary type="html"><![CDATA[한국금융연구원이 『은행의 대출 증가와 주가수익률: 우리나라 은행의 사례를 중심으로』를 발표하였다.
 
-- 개인과 기관투자자들의 가상자산 포트폴리오 편입 확대로 시장의 성장이 두드러지면서 글로벌 금융회사들이 적극적으로 가상자산 수탁업에 진출. 기업의 가상자산 투자 수요가 증대되고 관련 제도가 정비되는 가운데, 금융회사는 수익구조를 다변화하고자 사업 경쟁력에 우위가 있고 리스크 관리가 용이한 가상자산 수탁업 진출을 시도
+- 글로벌 금융위기 이후 신용확장 국면과 이후 경제적 성과와의 관계에 대한 많은 연구들이 이루어졌음. 기존연구에서는 경기에 대한 낙관적인 기대 또는 위험에 대한 인식부족을 이유로 은행을 통한 신용팽창이 이루어진 이후 충격이 발생하면 경기사이클에 대한 부정적인 영향을 미칠 수 있다고 이론적 관점이 제시되었고, 최근에는 이러한 가설들이 다양한 실증연구 결과들로 뒷받침됨. 특히, 거시적인 관점에서 벗어나 은행별 자료를 이용한 미시적인 분석에서도 은행의 대출 증가 이후에 주가로 표현되는 은행의 성과는 긍정적이지 않은 것으로 나타남. 
 
-- 글로벌 금융회사는 주로 기업·기관투자자 전용 가상자산 수탁 서비스를 제공하고 있으며, 개인의 투자 니즈와 보안 우려가 높아지면서 일부에서는 개인 대상으로 서비스를 확대. 
- · [기업·기관 대상] Fidelity, Vontobel, US Bank는 전담 조직·법인을 구축하고, 관련 핀테크와 제휴하여 강력한 보안을 갖춘 가상화폐 수탁 서비스를 본격 제공 
- · [개인 대상] BBVA, Vast Bank, CBA는 가상화폐 매매·수탁 솔루션을 뱅킹앱에 결합하는 방식으로 PB, 리테일 고객을 대상으로 서비스를 확대   
-
-- 국내 금융회사는 가상자산 사업자와의 제휴를 통해 수탁 비즈니스에 간접 참여를 시도. 은행들은 현행 은행법 하에서 가상자산 사업을 직접 영위할 수 없어 합작법인 설립, 지분 투자의 방식으로 간접적으로 수탁업 진출을 추진  
-
-- 국내 금융회사는 국내 가상자산 비즈니스와 규제 정비 과정을 모니터링하며 우선적으로 기업·기관 대상 수탁서비스를 체계화하고, 향후 관련 사업 확장을 모색할 필요. 합작법인을 통해 수탁 기술력과 운영 노하우를 확보하고, 규모의 경제 달성이 중요한 수탁업 특성을 감안해 법인고객을 최대한 유치하고, 수탁 대상 가상자산 범위를 확대.  향후 가상자산 업권법 제정 동향에 따라 지분 투자 확대나 직접 사업 진출을 통해 기업 대상 수탁 서비스를 적극 추진하고, 단계적으로 사업 확장 방안을 모색]]></summary>
+- 본 연구에서는 우리나라 자료를 이용하여 이러한 현상이 우리나라에서도 나타나고 있는지를 실증적으로 살펴봄. 본 연구는 우리나라에서도 2000년 이후 은행의 대출확대, 또는 신용팽창은 주가로 나타나는 은행의 성과에 부정적인 영향을 미쳤다는 실증분석 결과를 제시함. 특히, 국내 은행의 대출을 기업대출과 가계대출로 구분해 보았을 때, 기업대출의 경우 더욱 뚜렷한 결과를 보여주고 있는데, 이러한 결과는 은행의 경영관점의 성과관리를 위해서는 단순한 은행의 대출확대라는 외형적 성장보다는 위험에 대한 관리능력이 중요할 수 있다는 함의를 나타내고 있음.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 국내 경제 성장률 전망 3.0%로 하향조정 - 2월 경제 브리프]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162574</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162574"/>
-        <updated>2022-02-22T03:01:18.328Z</updated>
-        <summary type="html"><![CDATA[우리금융경영연구소가 『2022년 국내 경제 성장률 전망 3.0%로 하향조정 - 2월 경제 브리프』를 발표하였다.
+        <title type="html"><![CDATA[해외 주요 스타트업 육성정책 심층연구]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162667</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162667"/>
+        <updated>2022-02-22T06:01:21.921Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 『해외 주요 스타트업 육성정책 심층연구』를 발표하였다.
 
-- 코로나 확산세 지속, 글로벌 성장률 둔화, 국내외 통화 긴축 가속화, 추경 등을 반영하여 2022년 국내 GDP 성장률 전망치를 기존 3.3%에서 3.0%로 하향 조정
+- 본 연구는 해외 주요 스타트업 육성정책에 관한 최근의 현황을 파악하고, 국내 적용 가능한 시사점을 도출하는 데 주요 목적을 둠. 본 연구의 목적을 위하여 창업이 활발히 이루어지며 세계 최첨단 기술 분야를 선도해 나가고 있는 이스라엘을 비롯하여 에스토니아, 유럽 내 새로운 스타트업 생태계를 주도하는 영국, 핀란드, 독일 그리고 게임 분야에서 젊은 연령층의 스타트업이 부각되고 있는 터키 등 6개 국가를 대상으로 연구
 
-- 2022년 국내 경제는 오미크론 변이 확산 등으로 당초 예상(2021.11월 3.3% 전망)에 미치지 못하지만, 견조한 제조업 수요, 점진적인 서비스업 개선, 확장적 재정에 힘입어 2년 연속 잠재성장률을 상회하는 양호한 성장세를 지속할 전망
-* 우리금융경영연구소 경제전망모형에 따르면, 당초 전제치 대비 미국 성장률 하향 조정(-1.2%p), 기준금리 인상폭 확대(50bp)는 2022년 국내 GDP 성장률에 각각 0.13%p, 0.09%p 하향 요인, 추경(14조원)은 0.05%p 상향 요인으로 추정
-
-- GDP 지출항목별로는 오미크론 변이 확산·금리 인상을 반영하여 민간소비 전망치를 소폭 낮추고, 공급 병목 지속·글로벌 성장세 둔화를 감안하여 수출·설비투자 전망치를 하향 조정
-
-- 2022년 소비자물가는 원자재 가격 오름세, 수요측 물가 압력 증대로 상승폭이 당초 예상보다 대폭 확대(기존 전망 1.9% → 수정 전망 2.8%)
-
-- 취업자는 서비스업 고용 증가, 제조업·건설경기 회복, 정부 일자리사업 등으로 개선폭이 증대(38.6만명 → 39.3만명)
-
-- 경상수지는 국제유가 상승, 수출 증가세 둔화로 흑자폭(678억달러 → 540억달러)이 줄어들고, 통합재정수지는 소상공인 지원을 위한 추경 편성으로 적자규모(54조원 → 68조원)가 확대
-
-- 전국 주택매매가격은 시중금리 상승에 따른 원리금 상환 부담, 세제·대출 규제 강화 영향으로 오름폭이 축소(3.70% → 1.54%)]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남 소매유통·관광산업 현황 및 전망]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162598</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162598"/>
-        <updated>2022-02-22T03:01:18.320Z</updated>
-        <summary type="html"><![CDATA[한국수출입은행이 『베트남 소매유통·관광산업 현황 및 전망』을 발표하였다.
-
-<목 차>
-
-요약 
-Ⅰ. 베트남 소매유통·관광산업 매력도 
-Ⅱ. 소매유통산업 
-Ⅲ. 관광산업 
-Ⅳ. 결론 및 시사점]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중소기업 기술사업화 역량강화사업 성과 분석 및 성과 제고 방안]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162607</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162607"/>
-        <updated>2022-02-22T03:01:18.301Z</updated>
-        <summary type="html"><![CDATA[중소벤처기업연구원이 『중소기업 기술사업화 역량강화사업 성과 분석 및 성과 제고 방안』을 발표하였다.
-
-- [연구배경] 정부의 R&D 예산이 확대되고 있는 가운데 중소기업의 지속가능한 성장과 고부가가치 및 양질의 일자리 창출을 위해 중소기업의 기술사업화 역량강화가 중요 과제로 부상. 한편, 중소기업 R&D 투자 확대 및 높은 기술개발 성공률에도 불구하고 실제 중소기업 부문의 사업화 추진 성공률은 절반 수준에 불과. 이에 따라 기술개발 성공률 제고를 위한 기술사업화 역량강화가 중소기업 부문에서 중요한 선결 과제로 부상. 하지만 중소기업 기술사업화 역량강화에 필요한 체계적 정책연구가 최근까지도 미진한 측면이 존재하여 효율적 정책 대응을 위한 백업 자료가 부족. 기술사업화 역량강화사업에 따른 실증 성과 분석과 더불어 역량강화 제고를 위해 중요한 요인 분석 등은 정책 개선 및 대응에 필요한 백업 자료의 확보 요구
-
-- [연구목적] 본 연구는 중소벤처기업진흥공단의 중소기업 기술사업화 역량강화 지원사업의 전반적 성과를 분석하고 기술사업화 역량강화 제고에 필요한 요인을 모색하는 데 그 목적이 있음. 본 사업과 유사한 타 부처의 중소기업 기술사업화 역량강화사업을 발굴하고, 해당 사업들과의 비교를 통해 본 사업의 제도 운용에 관한 시사점 도출. 성과 분석에서는 경제적 관점에서 개별 참여(및 탈락) 기업의 정량 자료를 비교？활용하여 역량강화 지원사업의 전반적 성과와 더불어 세부 부문별 성과를 분석. 역량강화 제고를 위한 요인 분석에서는 참여업체의 정성적 설문조사 결과를 토대로 성과 및 만족도에 미치는 직간접적 요인을 파악하여 역량강화를 위한 정책 대안 모색]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아세안의 국토정보를 활용한 지속가능한 인프라 구축방안]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162629</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162629"/>
-        <updated>2022-02-22T03:01:18.293Z</updated>
-        <summary type="html"><![CDATA[국토연구원이 「아세안의 국토정보를 활용한 지속가능한 인프라 구축방안」을 발표하였다.
-
-- 아세안의 지속가능한 인프라 구축을 위하여 아세안 국가 간 공동으로 활용할 수 있는 국토정보 구축 및 공동활용체계가 필요. 아세안 국가별, 국내 및 국제기구에서 구축한 아세안 국토정보 현황을 조사한 결과, 원활한 정보 수집과 공유를 담당하는 기관이나 통합된 플랫폼이 부재. 국내의 대표적인 아세안의 기초현황 자료로는 한-아세안 센터에서 매년 발간하는 한-아세안 통계집이 있음. 세계은행, 유엔환경계획기구(UNEP), 에스리(ESRI)의 ArcGIS Dataset, LandScan 등의 국제기구와 산업체에서는 아세안 국토 관련 문헌정보 및 공간정보를 구축 또는 제공
-
-- 아세안의 국토정보를 공동으로 활용하여 적용이 가능한 인프라 협력 분야 사례로 교통(Asian Highway Network), 해양환경(해양 원유 유출 감지) 등을 들 수 있음. 아세안 연계성 강화의 대표적 사업인 아시안 하이웨이(Asian Highway Network) 구축 현황정보를 도로등급, 도로밀도 등의 공간 DB로 구축하여 활용 가능. 해양 원유 유출 사고 발생 시 사고지역의 지도화 및 분석, 아세안 각국의 가용 인력과 장비 등의 정보와 도로·항구 등의 접근 가능성을 파악하고 공동 대응전략 수립 및 모니터링
-
-- [정책방안] ① (인프라 구축 및 데이터 접근성 확보) 아세안 국가별 우선순위 사업을 고려한 아세안 국토정보 활용 기반의 수요 맞춤형 인프라 구축사업 선정 및 데이터 접근성 확보  ② (아세안 국토정보 공동활용방안 마련) 아세안 간 국토정보 유형별·분야별 공동활용 표준모델을 개발하고 파일럿 프로그램 운영 및 관련 전문가 교류 정례화  ③ (제도적 연계성 기반조성) 아세안 간 국토정보 공동활용을 위한 표준화 등의 법·제도 마련 및 아세안 연계성 사업지원과 평가를 위한 아세안 국토정보 활용협의체 구성. 한-아세안 국가별 국토정보 공공·민간 간 협력관계 유지를 위한 거버넌스 구축 ④ (국토정보 모니터링체계) 아세안-한국-국제기구의 협력을 통해 아세안 연계성 이행사업을 지속적으로 모니터링하고 평가하기 위한 아세안 국토정보 모니터링체계 구축]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국미디어패널조사로 본 주관적 삶의 만족도]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162603</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162603"/>
-        <updated>2022-02-22T03:01:18.283Z</updated>
-        <summary type="html"><![CDATA[정보통신정책연구원이 「한국미디어패널조사로 본 주관적 삶의 만족도」를 발표하였다.
-
-- 전체 개인(평균)의 개인적, 관계적, 집단적 측면의 주관적 삶의 만족도는 2013년 이후 점차적으로 상승하는 것으로 나타났으나, 연령대별로 살펴보았을 경우 40대 이하의 연령대는 평균적인 만족도를 항상 상회하는 반면 50대 이상의 연령대는 평균 만족도보다 떨어지는 것으로 나타남.
-
-- 특히 코로나19 이후 타 연령대에서 주관적 삶의 만족도가 증가한 반면, 50대 이상의 연령대의 만족도가 하락하여 이에 주목 할 필요가 있음.
-
-- 코로나19 이후 ‘즐거운’, ‘행복한’, ‘편안한’ 등의 긍정적인 감정을 경험한 빈도 역시 50~60대(‘즐거운’ 감정 빈도 감소는 70대 에서도 나타남)에서 하락하는 것으로 나타남.
-
-- 2021년 본인의 삶에 대한 긍정적인 생각 동의정도 또는 정신건강 관련 문항을 살펴보았을 때에도, 50대 이상의 연령대가 평균적인 측정수치보다 떨어짐.
-
-- 중장년층(50대 이상)의 인구통계학적인 특성에 따른 주관적 삶의 만족도를 살펴보았을 때, 남성, 직업이 있는, 2세대 가구(부부+자녀), 고용주일수록 만족도가 높았으며, 양끝단의 소득 구간을 제외하면 소득이 증가할수록 대체적으로 만족도가 높게 나타남.
-
-- 미디어 이용행태에 따른 중장년층의 주관적 삶의 만족도를 살펴보면, SNS, OTT, 인스턴트 메신저, 이메일 계정, 전자상거래, 클라우드 서비스 등을 이용하는 경우 만족도가 높은 것으로 나타나 삶의 만족도와 미디어 이용행태의 높은 상관관계를 확인함.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 채권시장의 시스템 위험 요인 점검]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162597</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162597"/>
-        <updated>2022-02-22T03:01:18.275Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『미국 채권시장의 시스템 위험 요인 점검』을 발표하였다.
-
-- [이슈] 높은 인플레이션과 연준의 적극적 대응이 가시화됨에 따라 미국 채권시장에서 개방형 채권펀드(Open-Ended Bond Funds, OEFs)의 시스템 리스크 유발 우려가 제기. 연준의 통화정책 완화, 수익률 호조 등으로 개방형 채권펀드의 시장 영향력이 글로벌 금융위기 이후 빠르게 증가했으나, 이제 이를 둘러싼 제반 여건들이 전환되고 있어 시장여건 급변시 채권펀드들이 금융 안전성을 약화시킬 우려가 존재. 개방형 채권펀드의 환매는 매일 가능한 반면, 투자대상은 유동성이 낮은 장기 저신용 채권까지 확대→ 위기시 유동성 미스매치에 의한 채권투매위험 존재
-
-- [위험요인] 개방형 채권펀드가 금융시장의 시스템 위험을 유발할 수 있는 원인은 ①운용 규모의 급격한 확대에 따른 영향력 증가, ②위기 시 환매에 따른 투매(fire sale) 발생 가능성, ③보유채권의 유동화 능력이 생각보다 낮을 가능성 등이 거론. (운용규모 급증) 미국 채권시장에서 개방형 채권펀드의 운용규모는 ‘08년말 $9,158억 →’21년말 $5.6조로 글로벌 금융위기 이후 6배 가량 확대. (투매위험) 시장여건이 악화되는 경우 잔존투자자에게 불리해 먼저 환매하려는 수요가 투매 유발 가능.  보유자산의 유사성도 높아 환매시 쏠림현상 가능성도 상당. (유동화 능력 과대평가)  채권펀드 운용자들은 고객 환매 요청에 대비하는 데 있어 평상시 자신들의 보유자산 유동화 능력을 과대평가하는 경향
-
-- [시사점] 개방형 채권펀드의 규모 확대로 시장여건 급변시 채권투매 가능성이 있으나, 주요 중앙은행들이 인플레이션 압력에 대응해 정책 정상화에 나서고 있어 채권시장 불안시에도 중앙은행의 적극적인 개입을 기대하기 어려울 전망. 채권펀드들의 규모 확대를 견인해온 연준의 통화정책 등 제반 여건들이 전환되고 있고 채권펀드들의 수익성도 악화될 가능성이 높아 시장 불안시 환매 유인이 확대될 소지.  향후 연준의 정책 정상화 과정에서 개방형 채권펀드의 자금유출입 추이를 주시할 필요]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연준, 가파른 속도의 통화긴축 기조 재확인]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162599</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162599"/>
-        <updated>2022-02-22T03:01:18.253Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『연준, 가파른 속도의 통화긴축 기조 재확인』을 발표하였다.
-
-- [이슈] 2.17일(현지시간) 발표된 1월 FOMC 의사록의 주요 내용 및 시장반응을 평가
-
-- [의사록 내용] 1월 FOMC 의결문 및 기자회견 내용과 비교할 때 적정 B/S 규모 추정의 어려움 인정, MBS 매각 가능성 시사 등을 제외하면 새로운 정보는 제한적
-
-- [시장반응] 1월 FOMC 의결문 및 기자회견 내용에 비해 새로운 정보가 많지 않아 금융시장 영향은 제한적인 가운데 정책금리 인상 기대도 소폭 완화
-
-- [전망] 2월 물가 및 고용지표 결과에 따라 3월 50bp 인상 가능성이 재부각될 위험은 상존하며  양적긴축 논의도 5월 이후 본격화될 것으로 예상]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방소멸 대응 정책 방향과 추진전략]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162602</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162602"/>
-        <updated>2022-02-22T03:01:18.245Z</updated>
-        <summary type="html"><![CDATA[국토연구원이 「지방소멸 대응 정책 방향과 추진전략」을 발표하였다.
-
-- 지방소멸 대응 정책 패러다임의 전환 필요
- · (정책 융합) 인구사회정책 위주 접근방식에서 탈피, 지역발전정책과 융합(policy mix) 필요. 자연적 감소(출산율 저하와 고령화)보다 사회적 감소(유출)가 지방 인구감소의 주요 요인으로 나타나, 기존의 저출산 대책만으로는 지방소멸 위기에 대응하기 곤란
- · (장소 기반 통합적 접근) 지역의 주도성·자율성 강화와 지역 단위의 전략적 사업 연계·통합 추진방안(place-based integrated approach) 모색·강화. 부처별 개별 공모사업 추진 탈피, 부처 협업 및 지역단위 연계·통합적 사업 추진 강화
-
--  지방소멸 대응 정책 목표와 추진전략
- · (비전) 인구감소시대 지속가능한 지역발전과 사회통합 구현
- · (목표) 활력 있는 지역 + 동등한 삶의 질 + 자립적인 지역
- · (추진전략) 
-      ① 전 생애에 걸쳐 건강하고 품격 있는 생활 실현(보육여건 개선, 교육기반 확충과 지역인재 양성, 의료·건강 인프라 조성 등)
-      ② 개성 있는 매력공간 창출로 생활인구 확보와 유출 억제(유연거주 제도화와 생활·관계 인구 확충, 스마트 생활공간과 주거·이동 편의 지원, 매력공간 창출과 문화향유 기회 확대 등)
-      ③ 지역자원 기반 생산·소득 및 좋은 일자리 확충(일자리 창출과 지역산업의 생산성 제고, 기업유치 촉진과 공공기관 이전 등)
-      ④ 지역 간 교류·협력으로 상생과 공존의 사회문화 확산(지역 간 연계협력과 생활권 공유 추진, 도시와 교류·상생 프로그램 확대, 주민참여형 지역관리 활성화 등)
-      ⑤ 지역이 주도하는 분권 역량과 실증기반 강화(지역 주도의 계획 수립과 지원시책 자율 선택, 포괄보조 지원 확대와 중앙-지방 간 협약 체결, 지방소멸 위기대응 모니터링과 성공모델 응용·확산 등)
-
-- 지역 주도의 계획 수립, 포괄적 재정 지원, 불합리한 규제 개선
- · 지역 주도의 계획 수립과 자율적 추진체계, 중앙-지방 협약, 포괄적 재정 지원
- · 지방소멸 위기 진단과 상시 모니터링체계 구축·운영 등 정보 공유와 활용
- · 인구감소시대 불합리한 규제 발굴·개선, ‘인구감소지역 지원 특별법안’ 마련 등]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현지정보] 최근 인구성장세 둔화에 따른 중국정부의 대응]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162596</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162596"/>
-        <updated>2022-02-22T03:01:18.231Z</updated>
-        <summary type="html"><![CDATA[한국은행이 『[현지정보] 최근 인구성장세 둔화에 따른 중국정부의 대응』을 발표하였다.
-
-- 중국의 인구는 최근 몇 년간 출생인구가 급감하면서 총인구의 성장세가 크게 약화되고 인구의 고령화도 심화되는 상황. 중국정부는 “3자녀 출산 허용” 등 출산율 제고 정책을 중심으로 인구 성장세 유지를 위한 여러 대책을 도입하고 있으나 단기간 내에 가시적인 효과를 거두기는 쉽지 않을 전망]]></summary>
+- 한편 스타트업에 대한 정책적 개념은 명확하게 정립되지 않아 광의의 창업기업 혹은 기술기반의 벤처기업 의미로 사용되는 등 혼용되고 있음. 본 연구에서는 해외 정책의 경우는 국가별 현지에서 통용되는 스타트업 개념으로 조사하고, 한국의 경우는 중기부 스타트업 지원대상 기준에 근거하여 일반 창업과는 구분하여 창업한지 7년 이내의 기술기반 혁신형 기업으로 개념을 정립하여 조사. 또한 국가별 핵심 지원정책과 관련하여 국내 적용 가능한 부분이 있는지, 스타트업 지원정책의 핵심 이슈가 무엇인지 등에 관하여 전문가 의견을 조사？분석]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -399,7 +265,7 @@
         <title type="html"><![CDATA[디지털 전환 핵심기술 관련 지역산업 클러스터 분석과 활용방안 연구]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162631</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162631"/>
-        <updated>2022-02-22T03:01:18.221Z</updated>
+        <updated>2022-02-22T06:01:21.905Z</updated>
         <summary type="html"><![CDATA[산업연구원이 『디지털 전환 핵심기술 관련 지역산업 클러스터 분석과 활용방안 연구』를 발표하였다.
 
 - 디지털 기술을 활용한 혁신성장은 4차 산업혁명과 맞물려 산업 생산성 향상과 새로운 부문의 일자리 창출 등 경제발전의 기회로 부각되고 있으며, 경제정책의 기조에서 디지털 기술과 접목한 혁신성장이 더욱 강조됨.
@@ -416,131 +282,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나19 관련 동향 및 해외시각(2.17)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162601</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162601"/>
-        <updated>2022-02-22T03:01:17.928Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.17)’을 발표하였다.
-
-- (동향) WHO 집계기준(2월 16일), 전세계 코로나19 확진자 수는 414,525,183명(전일대비 +2,070,069명), 사망자 수는 5,832,333명(전일대비 +10,575명)
-
-- (해외시각) (Goldman Sachs) `22년 세계 경제는 지속적인 의료 개선과 이연 소비에 힘입어 잠재성장률보다 1%p 높은 4.3% 성장할 전망. 오미크론 확산에 따른 1분기 부진 후 2분기부터 반등이 예상되나, 3분기부터는 긴축적인 금융여건, 이전보다 느린 재개방 속도 등으로 반등세 둔화 예상. 수요 증가세 완화 속 상품/노동 공급이 개선되면서 인플레이션은 선진국 중앙은행의 목표 수준으로 안정될 전망]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DC형 퇴직연금의 노후안전망 역할 강화 연구]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162604</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162604"/>
-        <updated>2022-02-22T03:01:17.918Z</updated>
-        <summary type="html"><![CDATA[자본시장연구원이 『DC형 퇴직연금의 노후안전망 역할 강화 연구』를 발표하였다.
-
-- 단층연금에서 다층연금으로 연금제도의 진화적 역사를 한 마디로 요약하면 DB형 연금에서 DC형 연금으로 전환임. 영미형 국가에서 DC형은 순수 DC형을 중심으로, 유럽 국가에서는 DB형과 DC형 성격을 절충한 소위 혼합형 연금 형태로 발전하였음. 그런데 어떤 유형의 DC형 연금이든 DC형 연금의 성장은 노후소득안전망의 관점에서 보면 노후안전망의 약화를 의미함. DC형 연금은 고령으로 근로 능력을 상실한 국민들의 노후소득 마련에서 국가나 회사의 책임이 아닌 근로자 자신의 책임을 강화하는 제도이기 때문임. 연금자산 축적과정에서 투자위험과 인플레이션위험을 근로자 자신이 부담해야 하며 연금화 결정과 장수위험의 관리도 근로자 자신이 부담해야 함. 노후안전망으로서의 강점 때문이 아닌 DB형 연금의 성장 한계 때문에 DC형 연금이 연금제도의 주류가 되고 있는 것임.
-
-- 때문에 DC형 연금의 노후안전망 기능을 강화하려는 시장과 산업, 정부와 국제기구의 제도 개혁 움직임은 일찍부터 나타났음. 퇴직연금의 사적연금으로서 한계를 극복하기 위한 의무가입 또는 자동가입제도가 확산되고 있으며, 투자위험 관리를 위한 디폴트옵션제도나 혼합형 연금제도의 도입, 그리고 노후자산의 임의 유출 억제와 연금화를 위한 제도적 유인이 강화되고 있음. 편차가 있지만 이런 흐름은 때로는 금전적 유인의 강화로, 그리고 때로는 제도적 강제를 통해 이루어지고 있음.
-
-- IRP를 포함해 연금자산의 40%가 DC형 연금인 우리나라도 근년들어 DC형 연금의 노후안전망 기…]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국의 리쇼어링(reshoring) 정책 및 영향 평가]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162600</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162600"/>
-        <updated>2022-02-22T03:01:17.904Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『미국의 리쇼어링(reshoring) 정책 및 영향 평가』를 발표하였다.
-
-- [이슈] 팬데믹에 따른 글로벌 공급망 취약성 부각, G2 전략적 경쟁 등의 영향으로 미국 기업들의 리쇼어링이 강화되고 있어 현재까지의 경과, 향후 전망 및 경제 영향을 점검
-
-- [경과] ’08년 금융위기 이후 오바마 행정부가 일자리 확대 등을 위해 리쇼어링 정책을 추진하기 시작했으며 트럼프 행정부에서 무역수지 개선, 국가안보 강화를 위해 본격화되고 바이든 행정부에서는 공급망 복원력 향상의 일환으로 가속화
-
-- [전망] 미국의 리쇼어링 정책기조 강화로 제조업 본국회귀가 점진적으로 확대될 것이며, 니어쇼어링, 동맹국 협력 강화 등 공급망 다변화 노력도 병행될 것으로 예상
- · (리쇼어링 정책기조 강화) 국가안보와 공급망 강화에 긴요한 반도체, 배터리 등 핵심 산업을 중심으로 보조금 지급, 세제개혁 등의 방식으로 리쇼어링 지원을 확대할 전망
- · (점진적 리쇼어링 확대) 생산설비 이전에 통상 3~5년정도가 소요됨을 감안할 때 단기내 큰 실적을 거두기는 어려우나 중장기 정책 지원에 힘입어 지속적으로 증가할 전망
- · (공급망 다변화) 리쇼어링 외에도 니어쇼어링과 중국 외 저비용 생산국으로의 생산 기지 이전을 병행 추진하고 동맹국과의 협력을 강화할 전망
-
-- [영향] 팬데믹 이후 미국의 리쇼어링 정책이 확대되면서 미국 내 산업 생태계 강화에 따른 투자 증가, 일자리 창출, 대외불균형 완화 등의 긍정적 영향이 기대되나, 노동비용 상승에 따른 물가상승압력 확대 및 경제블럭화 등의 부정적 영향도 발생할 수 있음에 유의할 필요
- · (투자 증가) 고위 기술산업 중심 산업구조 재편, 자동화 가속 등에 따른 투자 확대 기대
- · (일자리 창출) 오바마 행정부부터 리쇼어링 정책이 추진되면서 미국 제조업 일자리가 증가세, 제조업의 본국회귀 및 투자유치 확대 노력에 힘입어 점진적 증가 기대
- · (물가상승압력 확대) 공급망 강화를 위한 리쇼어링 증가시 인건비 상승 등에 따른 최종제품 가격 인상으로 인플레이션 위험이 구조화될 가능성
- · (경제블럭화 심화) 리쇼어링 확대는 G2분쟁 이후의 경제블럭화 양상을 더욱 심화시켜 글로벌 교역 둔화 등으로 이어질 우려]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중소기업 결제환경 개선을 위한 어음대체제도 개선방안 연구]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162606</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162606"/>
-        <updated>2022-02-22T03:01:16.724Z</updated>
-        <summary type="html"><![CDATA[중소벤처기업연구원이 『중소기업 결제환경 개선을 위한 어음대체제도 개선방안 연구』를 발표하였다.
-
-- 어음은 신용창출이나 유동화 등 자금 융통의 한 방법으로서 순기능에도 불구, 구매기업이 결제지연 등 불공정 거래 관행의 수단으로 사용하는 점 등 논란이 되어 왔음. 정부는 다양한 대체결제수단을 마련하고, 중소기업의 원활한 자금조달과 금융거래 공정성 등을 저해하는 문제 해소를 ’22년까지 「약속어음 단계적 폐지방안」 국정과제로 추진
-
-- (연구목적) 어음 대체수단의 활성화 방안을 마련하고, 이들의 원활한 작동을 위한 법적？제도적 체계성 확립. 어음의 순기능？역기능에 따른 상생결제, 외상매출채권, 전자채권 등 대체수단을 검토하고, 외담대 중심의 결제수단 개선방안 및 활성화 방안 도출]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Fund Flow] 글로벌 펀드자금, 주식 유입 큰 폭 축소, 채권 6주 연속 유출]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162628</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162628"/>
-        <updated>2022-02-22T03:01:15.168Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식 유입 큰 폭 축소, 채권 6주 연속 유출’을 발표하였다.
-
-- 주식펀드 유입 큰 폭 축소, 채권펀드 6주 연속 유출
-
-- 신흥국들의 신용위험 상승, 통화가치 상승]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행의 대출 증가와 주가수익률: 우리나라 은행의 사례를 중심으로]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162633</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162633"/>
-        <updated>2022-02-22T03:01:15.152Z</updated>
-        <summary type="html"><![CDATA[한국금융연구원이 『은행의 대출 증가와 주가수익률: 우리나라 은행의 사례를 중심으로』를 발표하였다.
-
-- 글로벌 금융위기 이후 신용확장 국면과 이후 경제적 성과와의 관계에 대한 많은 연구들이 이루어졌음. 기존연구에서는 경기에 대한 낙관적인 기대 또는 위험에 대한 인식부족을 이유로 은행을 통한 신용팽창이 이루어진 이후 충격이 발생하면 경기사이클에 대한 부정적인 영향을 미칠 수 있다고 이론적 관점이 제시되었고, 최근에는 이러한 가설들이 다양한 실증연구 결과들로 뒷받침됨. 특히, 거시적인 관점에서 벗어나 은행별 자료를 이용한 미시적인 분석에서도 은행의 대출 증가 이후에 주가로 표현되는 은행의 성과는 긍정적이지 않은 것으로 나타남. 
-
-- 본 연구에서는 우리나라 자료를 이용하여 이러한 현상이 우리나라에서도 나타나고 있는지를 실증적으로 살펴봄. 본 연구는 우리나라에서도 2000년 이후 은행의 대출확대, 또는 신용팽창은 주가로 나타나는 은행의 성과에 부정적인 영향을 미쳤다는 실증분석 결과를 제시함. 특히, 국내 은행의 대출을 기업대출과 가계대출로 구분해 보았을 때, 기업대출의 경우 더욱 뚜렷한 결과를 보여주고 있는데, 이러한 결과는 은행의 경영관점의 성과관리를 위해서는 단순한 은행의 대출확대라는 외형적 성장보다는 위험에 대한 관리능력이 중요할 수 있다는 함의를 나타내고 있음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 관련 동향 및 해외시각(2.18)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162627</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162627"/>
-        <updated>2022-02-22T03:01:07.526Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.18)’을 발표하였다.
-
--(동향) WHO 집계기준(2월 17일), 전세계 코로나19 확진자 수는 416,614,051명(전일대비 +2,023,138명), 사망자 수는 5,844,097명(전일대비 +10,994명)
-
-- (해외시각) (Continuum Economics) 새로운 연준의 점도표를 반영하여 2년물 및 10년물 국채에 대한 ’22년말 금리 전망치를 각각 2.05%와 2.45%로 상향조정. 인플레이션 압력 완화 여부는 ’22년 하반기에야 명확해질 것으로 판단. 여전히 임금 상승 및 광범위한 인플레이션에 대한 불확실성이 상존하며, 이에 따른 연준의 공격적인 긴축 강행 등의 리스크가 존재. 미국 국채금리 상승, `23~`24년 경기 하방위험 증가 등을 감안해 `22년말 S&P500 전망치를 기존 4,500에서 4,250으로 하향조정. 연준이 `23~`24년에 중립금리 이상으로 긴축할 경우 S&P500는 3,800~4,000까지 매도세가 강화될 소지]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role of Regional Banks in SME Financing in Japan]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162632</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162632"/>
-        <updated>2022-02-22T03:01:07.509Z</updated>
-        <summary type="html"><![CDATA[This paper describes the role of Japan‘s regional financial institutions in SME financing and what efforts are being made by private financial institutions and the government to address their challenges. Japan‘s local regions are at risk of weakening due to declining birth rates and aging populations, and the government implements measures to revitalize local areas. Japanese people have a growing demand for the active role of regional financial institutions, which have essential information on the regional economy. Traditionally, regional financial institutions have focused on lending. The macroeconomic situations, such as a surplus of funds and the Bank of Japan‘s negative interest rates policy, have caused lending rates to continue to fall. Against this backdrop, the earnings of regional financial institutions have been on a downward trend, but lower credit costs have mitigated the deterioration in earnings until now. However, the spread of the COVID-19 in 2020 exacerbates the over-indebtedness of small and medium-sized enterprises (SMEs). There is a widespread sense of crisis that the local economy will collapse if the situation continues, and regional financial institutions will find it difficult to operate. To help companies suffering from the COVID-19 crisis and carry out regional development activities, regional financial institutions must perform new functions beyond traditional functions, while lending will continue to be an essential business for banks in the future. To help regional financial institutions engage in new businesses, the Japanese government has pushed for significant deregulation. However, for banks to effectively support SMEs, banks need to know their customers very well. Therefore there is a strong need to improve their ability constantly to assess customers‘ business potential.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스리랑카 경제위기의 주요 원인과 전망]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162630</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162630"/>
-        <updated>2022-02-22T03:01:07.487Z</updated>
+        <updated>2022-02-22T06:01:21.897Z</updated>
         <summary type="html"><![CDATA[대외경제정책연구원이 「스리랑카 경제위기의 주요 원인과 전망」을 발표하였다.
 
 - 최근 스리랑카 경제는 대외채무 증가 및 외환보유고 감소, 높은 인플레이션으로 인해 불안정성이 확대되고 있음.
@@ -557,6 +302,293 @@
 - 한국은 ODA를 바탕으로 스리랑카와 다양한 분야에서 협력을 지속해온 가운데, 스리랑카 경제 동향을 긴밀하게 모니터링하여 선제적으로 지원방안을 모색하는 한편, 스리랑카 진출 및 투자 기업을 위한 대응 전략을 수립할 필요가 있음.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벤처투자 SAFE 활성화를 위한 지원방안 연구]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162665</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162665"/>
+        <updated>2022-02-22T06:01:21.888Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 『벤처투자 SAFE 활성화를 위한 지원방안 연구』를 발표하였다.
+
+- 중소벤처기업부는 2020년 8월 벤처투자법의 시행을 통해 조건부지분인수계약(SAFE)을 국내에 도입. SAFE 관련 표준계약서를 마련하고, 최근 들어서는 벤처인증과 연결하는 것을 목적으로 한 벤처기업법 개정을 추진하는 등 SAFE의 성공적인 안착을 위해 노력 중임. 
+
+- 우리나라의 벤처투자 규모는 증가하는 추세이지만, 창업초기기업에 대한 벤처투자는 상대적으로 감소하는 상황. 3년 미만 창업초기 벤처기업은 정보의 비대칭성과 높은 거래비용으로 인해 투자유치 및 접근에 큰 장애가 존재. 반면에, 시리즈 A 투자가 본격화되는 업력 3-7년 미만의 벤처기업에 대한 투자비중은 큰 폭으로 증가하는 추세
+
+- SAFE는 불확실한 기업성장성을 두고 벌이는 가치평가(Valuation) 논쟁에 대한 대안을 제공할 수 있어 국내에서 활성화의 필요성이 대두됨. 그러나 SAFE 발행의 법적 근거 부족에 따른 문제가 발생. 또한, SAFE를 채권증권으로 보아야 할지 아니면 지분증권으로 보아야 할지에 대한 회계기준 및 세제혜택이 불분명. 투자위험요인에 대한 대책 마련 등으로 SAFE의 광범위한 활용을 기대하고자 함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아세안의 국토정보를 활용한 지속가능한 인프라 구축방안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162629</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162629"/>
+        <updated>2022-02-22T06:01:21.880Z</updated>
+        <summary type="html"><![CDATA[국토연구원이 「아세안의 국토정보를 활용한 지속가능한 인프라 구축방안」을 발표하였다.
+
+- 아세안의 지속가능한 인프라 구축을 위하여 아세안 국가 간 공동으로 활용할 수 있는 국토정보 구축 및 공동활용체계가 필요. 아세안 국가별, 국내 및 국제기구에서 구축한 아세안 국토정보 현황을 조사한 결과, 원활한 정보 수집과 공유를 담당하는 기관이나 통합된 플랫폼이 부재. 국내의 대표적인 아세안의 기초현황 자료로는 한-아세안 센터에서 매년 발간하는 한-아세안 통계집이 있음. 세계은행, 유엔환경계획기구(UNEP), 에스리(ESRI)의 ArcGIS Dataset, LandScan 등의 국제기구와 산업체에서는 아세안 국토 관련 문헌정보 및 공간정보를 구축 또는 제공
+
+- 아세안의 국토정보를 공동으로 활용하여 적용이 가능한 인프라 협력 분야 사례로 교통(Asian Highway Network), 해양환경(해양 원유 유출 감지) 등을 들 수 있음. 아세안 연계성 강화의 대표적 사업인 아시안 하이웨이(Asian Highway Network) 구축 현황정보를 도로등급, 도로밀도 등의 공간 DB로 구축하여 활용 가능. 해양 원유 유출 사고 발생 시 사고지역의 지도화 및 분석, 아세안 각국의 가용 인력과 장비 등의 정보와 도로·항구 등의 접근 가능성을 파악하고 공동 대응전략 수립 및 모니터링
+
+- [정책방안] ① (인프라 구축 및 데이터 접근성 확보) 아세안 국가별 우선순위 사업을 고려한 아세안 국토정보 활용 기반의 수요 맞춤형 인프라 구축사업 선정 및 데이터 접근성 확보  ② (아세안 국토정보 공동활용방안 마련) 아세안 간 국토정보 유형별·분야별 공동활용 표준모델을 개발하고 파일럿 프로그램 운영 및 관련 전문가 교류 정례화  ③ (제도적 연계성 기반조성) 아세안 간 국토정보 공동활용을 위한 표준화 등의 법·제도 마련 및 아세안 연계성 사업지원과 평가를 위한 아세안 국토정보 활용협의체 구성. 한-아세안 국가별 국토정보 공공·민간 간 협력관계 유지를 위한 거버넌스 구축 ④ (국토정보 모니터링체계) 아세안-한국-국제기구의 협력을 통해 아세안 연계성 이행사업을 지속적으로 모니터링하고 평가하기 위한 아세안 국토정보 모니터링체계 구축]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제비교로 보는 한국인의 행복]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162655</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162655"/>
+        <updated>2022-02-22T06:01:21.872Z</updated>
+        <summary type="html"><![CDATA[한국보건사회연구원이 「국제비교로 보는 한국인의 행복」을 발표하였다.
+
+- 주요 선진국과 비교할 때 우리나라는 경제성장 수준에 비해 국민들이 누리는 평균적인 행복 수준이 낮음. 특히 한국에서는 행복의 불평등이 국민총행복을 저해하는 요인으로 작동하고 있음.
+
+- 이 글에서는 국제 비교 관점에서 한국인의 행복에 주목하여 생애주기에 따라 중장년 및 노인의 취약성, 종사상 지위에 따라 자영업자의 취약성을 확인하였음. 또한 곤란한 일이 있을 때 도움을 받을 수 있는 지지 체계가 없는 사회적 고립은 행복을 저해하는 요인으로서 새로운 사회적 위험의 등장을 시사함.
+
+- 행복의 관점에서 취약한 계층을 발견하고 그들의 삶을 촘촘하게 지원함으로써 행복 불평등을 줄일 수 있도록 복지국가의 제도적 여건을 공고히 할 것을 제안함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술기반 벤처기업을 위한 IP금융 고도화 방안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162659</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162659"/>
+        <updated>2022-02-22T06:01:21.854Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 「기술기반 벤처기업을 위한 IP금융 고도화 방안」을 발표하였다.
+
+- 기술기반 벤처？스타트업의 자금조달 애로사항* 해결을 위하여 복합형태(보증-융자-투자)의 지식재산(IP) 금융상품 도입 필요성 대두
+* (재무제표 중심) 기술력이 우수한 혁신기업이더라도 스케일업을 위한 투자(비용)로 인해 재무제표가 악화되면 자금조달 애로
+
+- 「기술기반 벤처？스타트업 복합금융 지원방안(’20.01, 정부부처 합동)」에 新금융상품인 ’IP 투자옵션부 보증’*  제안
+* (IP 투자옵션부 보증) IP보증 후 일정 시점에 보증액의 일부를 IP지분으로 전환(융자상환)하는 상품 * 일반 투자옵션부 보증과 달리 해당 기업의 지분이 아닌 IP소유권에 지분투자
+
+- (연구목적) ‘IP 투자옵션부 보증’ 도입에 따른 다양한 현안 사전 검토. IP금융의 국내？외 시장조사 및 정책 현황을 분석하여 문제점 파악. 제도 도입의 당위성 점검 및 현안에 대한 사전 검토. 제도의 효과적 운용방안 제시
+
+- (연구범위) 국내외 IP금융현황 분석 및 IP금융 고도화 방안 제시. 국내？외 IP금융 현황 및 시사점. 국내？외 IP비즈니스 사례 분석 및 시사점. ‘IP 투자옵션부 보증’ 도입에 따른 쟁점 분석 및 실현 방안 제시]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 청년층 고용노동통계]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162654</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162654"/>
+        <updated>2022-02-22T06:01:21.846Z</updated>
+        <summary type="html"><![CDATA[한국노동연구원이 『2021 청년층 고용노동통계』를 발표하였다.
+
+<목 차>
+
+Ⅰ. 고용 일반 1
+Ⅱ. 비정규직 20
+Ⅲ. 근로조건 33
+Ⅳ. 기타 통계 68]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지방세 시가표준액 조사를 위한 부동산 시장 동향(2022.2월호)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162669</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162669"/>
+        <updated>2022-02-22T06:01:21.827Z</updated>
+        <summary type="html"><![CDATA[한국지방세연구원이 『지방세 시가표준액 조사를 위한 부동산 시장 동향(2022.2월호)』을 발표하였다.
+
+<목 차>
+
+Ⅰ. 들어가며
+Ⅱ. [이슈] 주택거래와 취득세 세입 영향 점검
+Ⅲ. [동향] 경제 및 부동산 시장 동향
+Ⅳ. 정책적 시사점]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수출 중소기업의 디지털 혁신 현황 및 정책과제]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162661</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162661"/>
+        <updated>2022-02-22T06:01:21.816Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 『수출 중소기업의 디지털 혁신 현황 및 정책과제』를 발표하였다.
+
+- 코로나19로 4차 산업혁명 시대 전개가 촉진되면서 수출 분야에서도 디지털 전환에 대비한 디지털 혁신이 중요해짐. 마케팅？유통이 중요했던 과거와 달리, 급변하는 글로벌 소비자의 취향, AR/VR, 3D 프린팅 등 첨단기술이 접목된 비대면 거래 등에 대한 대응이 관건. 따라서 수출 분야의 디지털 혁신은 마케팅？유통 단계(협의의 개념)를 넘어 생산 가치사슬 전 단계에 4차 산업혁명 기술이 도입？활용되는 것(광의의 개념)을 의미. 디지털 혁신에는 4차 산업혁명 기술 관련 인프라 구축의 선결과 함께 비용？인력 면에서 많은 노력과 자원 동원이 필요한바, 여력이 부족한 수출 중소기업에 대해 정책지원이 요구됨. 이에 본 연구는 수출 중소기업의 디지털 혁신 현황과 성과를 점검하고, 디지털 수출혁신 촉진을 위한 정책과제를 제시함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중소기업 교역구조 다변화 성과와 시사점]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162662</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162662"/>
+        <updated>2022-02-22T06:01:21.798Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 『중소기업 교역구조 다변화 성과와 시사점』을 발표하였다.
+
+- 대외의존도가 높은 개방형 경제구조인 우리나라는 수출 중심의 상품 교역 확대를 통해 경제성장을 주도. 우리 기업의 국제화 진전을 위해 다양한 정책적 노력과 시도를 지속, 대외환경 및 경제？산업구조 변화에 따라 새로운 통상정책과 전략을 제시
+
+- 다만 특정 해외시장 및 품목에 대한 과도한 의존도와 이로 인한 교역구조의 불안정성은 해결해야 할 과제로 지속 제기. 최근 10년간 중국, 미국 등 수출입 상위 10개 국가에 대한 의존도는 지속 증가하는 추세. 대외환경의 불확실성으로 인한 교역구조의 불안정성은 중견？대기업보다 중소기업이 상대적으로 취약
+
+- 최근 미-중 무역분쟁, 코로나19, 보호무역주의 확산 등은 우리 중소기업의 교역구조 혁신 필요성을 재확인하는 계기로 작용. 중소기업의 교역시장 확대와 연구개발을 통한 품목 확대 및 경쟁력 제고, 무역인프라 개선 등은 기업과 정부 모두에게 중요한 과제로 대두
+
+- 본고는 중소기업 교역시장 및 품목 다변화 관점에서 최근 10년간 우리 중소기업의 교역구조 혁신 성과를 점검하고 시사점을 제시하는 데 목적을 둠. 중소기업 특성을 고려한 교역구조 분석 선행연구는 부재, 기업 무역데이터를 활용한 교역구조의 동태적 변화와 특징 분석을 통해 차별성 확보. 또한 정부정책 및 지원사업과 중소기업 수출경쟁력 간의 인과관계 규명을 통해 성과 제고를 위한 효과적인 정부지원 방향과 과제 제시]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수출유망중소기업 지정 평가지표 개선방안 연구]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162660</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162660"/>
+        <updated>2022-02-22T06:01:21.783Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 『수출유망중소기업 지정 평가지표 개선방안 연구』를 발표하였다.
+
+- 최근 코로나19 이후 더욱 치열해진 해외시장을 목표로 한 수출중소기업의 성장이 국가 경제의 미래를 좌우하는 중요한 요인으로 부각. 정부는 수출 증진 도모를 위해 ‘성장 가능성이 높은 수출 중소기업’을 발굴하여 수출유망중소기업으로 지정하고 수출지원기관을 통해 우대지원 혜택을 제공하는 수출유망중소기업 지정사업을 2000년부터 추진. 본 연구의 목적은 수출유망중소기업 지정사업 평가지표 개선방안을 도출하고 이를 위한 정책 과제를 제언하는 데 있음.
+
+- 본 연구는 5장으로 구성되고, 제1장에서는 연구 배경 및 목적이 기술됨. 제2장에서는 수출유망중소기업 평가지표 관련 선행연구 검토 및 지정사업 현황과 지정기업 특성 분석이 수행되고, 연구방법으로는 문헌조사와 통계분석이 이루어짐. 제3장에서는 수출유망중소기업 지정 평가체계 현황 및 평가와 관련 이슈 분석이 수행되고, 연구방법으로는 문헌조사, 전문가 인터뷰 및 자문, 현장 담당자 서면조사가 활용됨. 제4장에서는 수출유망중소기업 지정 평가지표 개선방안이 도출되고, 연구방법으로는 문헌조사, 전문가 인터뷰 및 자문, 델파이 및 AHP 조사가 수행됨. 제5장에서는 수출유망중소기업 지정 평가지표 개선을 위한 정책 제언이 사업 운영 및 평가체계？지표 관련 개선 방향과 발전 전략 중심으로 제시됨.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴시니어를 위한 특화 금융의 필요성]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162656</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162656"/>
+        <updated>2022-02-22T06:01:21.775Z</updated>
+        <summary type="html"><![CDATA[하나금융경영연구소가 「뉴시니어를 위한 특화 금융의 필요성」을 발표하였다.
+
+- 2021년 주민등록 인구 기준, 50대는 859만 명(16.6%)으로 타 연령대 대비 가장 큰 비중을 차지하여 시니어마켓의 잠재 파워를 확인. 고객 수를 시장의 크기로 규정한다면 50대 이상 시니어마켓에 대한 기업의 관심은 당연한 선택이고, 실제 욜드(Young OLD; 베이비부머 주도의 젊은 노인층) 산업은 2030년까지 2020년(72조 원)의 2배 이상인 168조 원까지 성장할 것으로 전망
+
+- 50대 이상 시니어가 금융회사에 미치는 수익 기여도는 매우 커 적극적 관리가 필요. 당행 기준, 50 대 이상 고객의 거래 금액은 총 거래 규모의 절반 이상을 차지하고, 평균 거래 금액은 40대 이하 대비 약 2배 높아 수익 기여도가 매우 높은 편. 50대→ 60대 전환 시 ‘은퇴’, ‘ 자녀 독립’ 등 생애 중요 이벤트를 거치면서 자산의 변화가 크게 발생함에 따라 맞춤 관리가 필요
+
+- 특히 경제적 여유가 있는 뉴시니어(MA시니어)는 금융 트렌드에 액티브하게 반응하고 새로운 시도를 주저하지 않으므로 거래 활성화를 위한 마케팅 활동 및 신규제안이 유효. 뉴시니어의 절반 이상이 최근 1년 내 금융기관을 신규로 거래했고, 수동적/상황적 요구 때문이 아니라 새로운 기관/상품/서비스에 대한 관심으로 자발적 선택
+
+- 뉴시니어는 디지털 채널에 수용적이고, 향후 디지털 기반의 고도화된 금융서비스 기대. 뉴시니어를 하나의 고객군으로 정의하고 일괄 마케팅을 시행하는 것보다 금융니즈에
+차이를 보일 수 있는 세분화 특징을 추가로 고려하여 맞춤 관리할 필요. 시니어에 특화된 금융 오퍼를 경험할 경우 해당기관의 거래를 활성화하고 로열티를 강화하는데 긍정적 영향. 주요 은행들은 시니어 특화 플랫폼을 구성해 금융+비금융 서비스를 제공하나 약 20%만이 시니어 특화 금융을 경험했다고 응답해, 소비자에게 도달할 수 있는 적극적 관리 필요]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비상장 벤처기업의 복수의결권 활용 가이드라인 연구]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162663</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162663"/>
+        <updated>2022-02-22T06:01:21.344Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 『비상장 벤처기업의 복수의결권 활용 가이드라인 연구』를 발표하였다.
+
+- 본 연구에서는 정부가 2020년 12월 23일에 발의한 「벤처기업법」 일부개정법률안을 전제로 비상장 벤처기업의 복수의결권주식제도를 고찰. 연구의 범위는 벤처기업법 개정안상 복수의결권주식제도에 대한 구체적 고찰과 복수의결권주식 도입 최근 해외 사례, 벤처기업법 개정안 축조해설을 포함. 또한, 주식회사인 벤처기업이 복수의결권주식 발행 시 정관 개정, 주주총회 개최 등에 사용되는 「상법」 등 관련법을 고려하여 예상되는 주요 쟁점도 필요하면 논의에 포함시켰음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 KB 부동산 보고서]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162658</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162658"/>
+        <updated>2022-02-22T06:01:19.261Z</updated>
+        <summary type="html"><![CDATA[KB금융지주경영연구소가 「2022 KB 부동산 보고서」를 발표하였다.
+
+<목 차>
+
+Ⅰ. 2021년 주택시장 진단과 주요 이슈
+   1. 2021년 주택시장 진단과 2022년 전망
+   2. 주택시장 7대 이슈
+     1) 임대차법 시행 2년, 전세시장 안정은 언제쯤
+     2) 수도권 주택시장을 뒤흔드는 3기 신도시와 GTX
+     3) 지방 주택시장, 동반 상승에서 차별화 장세로
+     4) 비아파트 및 외곽지역의 부상과 지속 가능성
+     5) 다주택자 보유세 부담 증가와 매물 출현 가능성
+     6) 정부의 대규모 주택 공급계획, 향후 진행 과정 주목
+     7) 두 번의 선거, 그리고 주택시장
+
+Ⅱ. 부동산시장 설문조사
+   1. 부동산시장 전문가 설문 결과
+   2. 지역 공인중개사 설문 결과
+   3. KB 자산관리전문가(PB) 설문 결과
+
+Ⅲ. 수도권 주택시장 점검
+   1. 서울 강남
+   2. 서울 강북
+   3. 경기 인천
+
+Ⅳ. 2021년 상업용 부동산시장 진단과 2022년 전망
+
+Ⅴ. 심층분석 리포트
+    주택가격 급등에 따른 버블 우려 점검]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세입세출결산 분석(2011~2021년)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162668</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162668"/>
+        <updated>2022-02-22T06:01:18.964Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 『세입세출결산 분석(2011~2021년)』을 발표하였다.
+
+-  dBrain의 결산정보를 활용하여, 2011년부터 2021년까지 총 11년의 세입세출, 이월·불용, 세계잉여금 추이를 도식화하고 분석함으로써 우리나라의 재정을 한눈에 담아 이해할 수 있도록 구성함.
+
+<목 차>
+
+1. 세입세출결산
+ 1) 세입결산
+？① 세입-일반회계
+？② 세입-특별회계
+ 2) 세출결산
+？① 세출-일반회계
+？② 세출-특별회계
+
+2. 이월·불용
+ 1) 이월
+？① 이월-일반회계
+？② 이월-특별회계
+ 2) 불용
+？① 불용-일반회계
+？② 불용-특별회계
+참고 : 지방교육재정교부금 이월·불용 추이 (2020년 기준)
+
+3. 세계잉여금
+ 1) 세계잉여금
+？① 세계잉여금-일반회계
+？② 세계잉여금-특별회계
+
+4. 종합]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[창업·벤처 지원사업의 성과창출 유형 식별]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162666</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162666"/>
+        <updated>2022-02-22T06:01:18.681Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 『창업？벤처 지원사업의 성과창출 유형 식별』을 발표하였다.
+
+- 본 연구는 지원 사업 유형 및 사업군 식별을 통해 정책 지원의 성과창출 경로를 분석함으로써 통합？협력적 지원의 유용성 검증 및 향후 정책과제 도출.
+
+- 개별 사업에 대한 지원 기업 성과 향상에 치중한 기존 연구의 한계를 극복. 사업 간 연계 및 유사성, 사업군 유형과 지원 기업 간 대응을 통해 연계와 유형 측면에서 창업？벤처 지원 사업 재평가. 매출증가율, 고용증가율 등의 기업 재무 자료와 사업 정보와 같은 관측 자료를 활용하여 창업 지원사업을 연계와 유형 관점에서 분석]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The intergenerational transmission of cognitive skills]]></title>
+        <id>https://voxeu.org/article/intergenerational-transmission-cognitive-skills</id>
+        <link href="https://voxeu.org/article/intergenerational-transmission-cognitive-skills"/>
+        <updated>2022-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Parents influence their children in many ways, but which family features actually cause the strong intergenerational linkages that we observe? This column presents the first causal evidence on cognitive skill transmission in the family. Using Dutch survey and registry data, the authors show that parents’ maths and language skills strongly affect the same skills in their children, and that skills within dynasties are not just genetically determined but are significantly affected by educational experiences. This highlights the importance of good educational environments in alleviating persistent inequalities.]]></summary>
+        <author>
+            <name>Eric Hanushek, Babs Jacobs, Guido Schwerdt, Rolf van der Velden, Stan Vermeulen, Simon  Wiederhold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immigration and the care of America’s older population]]></title>
+        <id>https://voxeu.org/article/immigration-and-care-america-s-older-population</id>
+        <link href="https://voxeu.org/article/immigration-and-care-america-s-older-population"/>
+        <updated>2022-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The caregiving workforce in the US will have to dramatically expand to meet the needs of the ageing population. This column argues that less-educated immigration could partially solve the problem. Using data from 1980 to 2017, the authors show that immigration increases the supply of home care for the elderly in the US and reduces its cost, while at the same time improving the quality of care for those who live in institutions.]]></summary>
+        <author>
+            <name>Kristin Butcher, Kelsey Moran, Tara Watson</name>
         </author>
     </entry>
     <entry>
@@ -826,26 +858,6 @@ Aksoy, C, Carpenter, C, de Haas, R, Dolls, M and Windsteiger, L. 2022. 'Reducing
 국내도서 > 역사 > 테마로 보는 역사 > 경제사]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Financial education is effective and efficient]]></title>
-        <id>https://voxeu.org/article/financial-education-effective-and-efficient</id>
-        <link href="https://voxeu.org/article/financial-education-effective-and-efficient"/>
-        <updated>2022-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Financial education programmes are sometimes dismissed by critics claiming ‘mixed evidence’ on their effectiveness. This column analyses a full set of available randomised controlled trials evaluating the causal impact of financial education around the world to show that this claim is misleading. Financial education is effective in improving both knowledge and behaviour, even adjusting for publication selection bias. Moreover, available estimates indicate these improvements come at relatively low costs.]]></summary>
-        <author>
-            <name>Tim Kaiser, Annamaria Lusardi, Lukas Menkhoff, Carly Urban</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Female time use and structural transformation in Africa]]></title>
-        <id>https://voxeu.org/article/female-time-use-and-structural-transformation-africa</id>
-        <link href="https://voxeu.org/article/female-time-use-and-structural-transformation-africa"/>
-        <updated>2022-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The entry of women into the labour force is central to the ongoing structural transformation of African economies. This column uses detailed time-use data to document the scale and nature of female participation in both unpaid work in the home and paid work in the market. While female labour force participation is high, most hours continue to be worked in the home, on tasks such as cooking and cleaning, rather than in the market. This suggests an important role for policy to address both technological and cultural barriers to paid market work for women.]]></summary>
-        <author>
-            <name>Taryn Dinkelman, Liwa Rachel Ngai</name>
         </author>
     </entry>
     <entry>
