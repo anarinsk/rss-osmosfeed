@@ -571,7 +571,7 @@
           "description": "What are the economic imperatives and legal hurdles for reform? A new CEPR Policy Insight identifies the fault lines in the EU framework and suggests what can be done economically and legally to repair them.\nRead more about this research and download the Policy Insight:\nM. Maduro, P. Martin, JC Piris, J. Pisani-Ferry, L. Reichlin, A. Steinbach, B. Weder di Mauro, Revisiting the EU framework: Economic necessities and legal options, CEPR Policy Insight No 114.",
           "link": "https://voxeu.org/content/revisiting-eu-framework-economic-necessities-and-legal-options",
           "publishedOn": "2022-03-01T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 684,
           "title": "Revisiting the EU framework. Economic necessities and legal options",
           "imageUrl": null
         },
@@ -606,16 +606,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/shared-responsibility-and-emission-reduction-targets",
-          "author": "Palizha Airebule, Haitao Cheng, Jota Ishikawa",
-          "description": "Carbon emissions are conventionally measured solely from the perspective of producers. Critics argue that this weakens the emission reduction targets set by participants of the United Nations Climate Change Conferences. This column analyses the emissions of the five largest polluters using a novel measure that accounts for both the consumer and producer perspective. This increases measured emissions from the US and Japan and reduces those from China, India, and Russia due to international trade patterns. The finding raises important questions about how to appropriately allocate responsibility for reducing carbon emissions in the future.",
-          "link": "https://voxeu.org/article/shared-responsibility-and-emission-reduction-targets",
-          "publishedOn": "2022-02-28T00:00:00.000Z",
-          "wordCount": 2119,
-          "title": "Shared responsibility and emission reduction targets",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/post-2008-boom-foreign-currency-corporate-bonds",
           "author": "Charles Calomiris, Mauricio Larrain, Sergio Schmukler, Tomás Williams",
           "description": "The 2008 global crisis was followed by a boom of US dollar-denominated bonds in emerging markets. This column shows that this post-2008 growth was characterised particularly by large bonds, with principal greater than or equal to $500 million. Key drivers of this boom were the development of emerging market corporate bond indices and the increasing interest of institutional investors from developed countries in emerging markets. This growth in dollar-denominated borrowing could create instability in emerging markets, especially as US monetary policy begins to tighten.",
@@ -623,6 +613,16 @@
           "publishedOn": "2022-02-28T00:00:00.000Z",
           "wordCount": 1899,
           "title": "The post-2008 boom in foreign currency corporate bonds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/shared-responsibility-and-emission-reduction-targets",
+          "author": "Palizha Airebule, Haitao Cheng, Jota Ishikawa",
+          "description": "Carbon emissions are conventionally measured solely from the perspective of producers. Critics argue that this weakens the emission reduction targets set by participants of the United Nations Climate Change Conferences. This column analyses the emissions of the five largest polluters using a novel measure that accounts for both the consumer and producer perspective. This increases measured emissions from the US and Japan and reduces those from China, India, and Russia due to international trade patterns. The finding raises important questions about how to appropriately allocate responsibility for reducing carbon emissions in the future.",
+          "link": "https://voxeu.org/article/shared-responsibility-and-emission-reduction-targets",
+          "publishedOn": "2022-02-28T00:00:00.000Z",
+          "wordCount": 2119,
+          "title": "Shared responsibility and emission reduction targets",
           "imageUrl": null
         }
       ]
@@ -632,6 +632,16 @@
       "feedUrl": "https://www.aeaweb.org/research/rss-feed",
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
+        {
+          "id": "https://www.aeaweb.org/research/ellora-derenoncourt-great-migration",
+          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
+          "description": "The Great Migration improved the economic prospects for millions of Black Americans escaping the Jim Crow South. We spoke with Ellora Derenoncourt  about her paper in the American Economic Review about what happened for the generations that followed.",
+          "link": "https://www.aeaweb.org/research/ellora-derenoncourt-great-migration",
+          "publishedOn": "2022-03-02T15:00:00.000Z",
+          "wordCount": 2062,
+          "title": "Moving on up?",
+          "imageUrl": "https://www.aeaweb.org/content/file?id=16205"
+        },
         {
           "id": "https://www.aeaweb.org/research/charts/employment-finnish-basic-income",
           "author": "Tyler Smith (research.highlights@aeapubs.org)",
@@ -747,13 +757,13 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/internationalList.do",
       "articles": [
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162818",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162820",
           "author": null,
-          "description": "The purpose of this paper is to investigate the main drivers of the change in the credit risk provisions at a portfolio level for the banks that have been subject of the 2018 EBA stress tests. Therefore, we perform a holistic review of the drivers of the three-year projections of credit losses. First, we define a model containing all the macroeconomic variables considered by the EBA methodological approach. By adding a three-dimension set of explanatory variables, entity-, banking sector- and portfolio-level aspects, we verify whether the published results show some kind of relation with these explanatory variables. Our results show that, although EBA variables explain most part of credit risk provisions, we obtain evidence about the role played by bank-level variables, banking sector features in each country, and the specific characteristics of the portfolio in explaining part of the provisions. Moreover, the results also indicate the existence of complementary/substitution effects of both bank- and portfolio-level variables with the characteristics of the banking sector when explaining credit risk provisions.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162818",
-          "publishedOn": "2022-03-02T12:01:52.355Z",
+          "description": "This post is the fourth in a six-part series titled “The State of Economic Equity.” This series examines the challenges facing vulnerable workers this year and possible ways to improve their economic security and resiliency in an economy reshaped by the pandemic.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162820",
+          "publishedOn": "2022-03-02T15:02:02.669Z",
           "wordCount": 666,
-          "title": "A study on the EBA stress test results: influence of bank, portfolio, and country-level characteristics",
+          "title": "Addressing the Housing Affordability Crisis as COVID-19’s Impact Continues",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -761,9 +771,19 @@
           "author": null,
           "description": "We document two robust features of the cross-sectional distribution of usual weekly hours and hourly wages. First, usual weekly hours are heavily concentrated around 40 hours, while at the same time a substantial share of total hours come from individuals who work more than 50 hours. Second, mean hourly wages are non-monotonic across the usual hours distribution, with a peak at 50 hours. We develop and estimate a model of labor supply to account for these features. The novel feature of our model is that earnings are non-linear in hours, with the extent of nonlinearity varying over the hours distribution. Our estimates imply significant wage penalties for individuals that deviate from 40 hours in either direction, leading to a large mass of individuals that work 40 hours and are not very responsive to shocks. This has important implications for the role of labor supply as a mechanism for self-insurance in a standard heterogeneous agent-incomplete markets model and for empirical strategies designed to estimate labor supply parameters.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162830",
-          "publishedOn": "2022-03-02T12:01:52.287Z",
+          "publishedOn": "2022-03-02T15:02:02.416Z",
           "wordCount": 666,
           "title": "Hours and Wages",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162796",
+          "author": null,
+          "description": "Exploiting the introduction of the ECB’s tiering system for remunerating excess reserve holdings, we document the importance of access to the money market for bank lending. We show that the two-tier system produced positive wealth effects for banks with excess reserves and encouraged a reallocation of liquidity toward banks with unused exemptions. This ultimately decreased the fragmentation in the money market and enhanced the monetary policy transmission mechanism. The increased access to money market by banks with unused allowances incentivizes them to extend more credit than other banks, including banks with excess liquidity whose valuations increase the most.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162796",
+          "publishedOn": "2022-03-02T15:02:02.375Z",
+          "wordCount": 666,
+          "title": "Money markets and bank lending: evidence from the adoption of tiering",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -771,7 +791,7 @@
           "author": null,
           "description": "The impact of the Covid-19 pandemic on the UK labour market has been extremely heterogeneous across occupation and industrial sectors. Using novel data on job search, we document how individuals adjust their job search behaviour in response to changing employment patterns across occupations and industries in the UK. We observe that workers changed their search direction in favour of expanding occupations and industries as the pandemic developed. This suggests job searchers do respond to occupation-wide and industry-wide conditions in addition to idiosyncratic career concerns. However, non-employed workers and those with low education levels are more attached to their previous occupations and more likely to target declining ones. We also see workers from declining occupations making fewer transitions to expanding occupations than those who start in such occupations, despite targeting these jobs relatively frequently. This suggests those at the margins of the labour market may be least able to escape occupations that declined during the pandemic.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162831",
-          "publishedOn": "2022-03-02T12:01:52.111Z",
+          "publishedOn": "2022-03-02T15:02:02.340Z",
           "wordCount": 666,
           "title": "Search and Reallocation in the Covid-19 Pandemic: Evidence from the UK",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -781,39 +801,9 @@
           "author": null,
           "description": "The COVID-19 pandemic has shown that bioinformatics--a multidisciplinary field that combines biological knowledge with computer programming concerned with the acquisition, storage, analysis, and dissemination of biological data--has a fundamental role in scientific research strategies in all disciplines involved in fighting the virus and its variants. It aids in sequencing and annotating genomes and their observed mutations; analyzing gene and protein expression; simulation and modeling of DNA, RNA, proteins and biomolecular interactions; and mining of biological literature, among many other critical areas of research. Studies suggest that bioinformatics skills in the Latin American and Caribbean region are relatively incipient, and thus its scientific systems cannot take full advantage of the increasing availability of bioinformatic tools and data. This dataset is a catalog of bioinformatics software for researchers and professionals working in life sciences. It includes more than 300 different tools for varied uses, such as data analysis, visualization, repositories and databases, data storage services, scientific communication, marketplace and collaboration, and lab resource management. Most tools are available as web-based or desktop applications, while others are programming libraries. It also includes 10 suggested entries for other third-party repositories that could be of use.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162823",
-          "publishedOn": "2022-03-02T12:01:51.938Z",
+          "publishedOn": "2022-03-02T15:02:02.083Z",
           "wordCount": 666,
           "title": "Bioinformatics for Researchers in Life Sciences: Tools and Learning Resources",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162835",
-          "author": null,
-          "description": "Several federal policies have been proposed to regionally limit how fed cattle can be marketed to force minimum volumes of negotiated cash trades for fed cattle. Marketing agreements incentivizing producers to generate higher-quality beef have resulted in beef and cattle genetic improvements and more intense cattle feeding practices, which provide higher-quality beef products to consumers. Consumers and cattle producers have benefited as beef products have become more aligned with consumer preferences, yet Congress and the Biden administration are contemplating policies that would undermine such advancements.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162835",
-          "publishedOn": "2022-03-02T12:01:51.872Z",
-          "wordCount": 666,
-          "title": "Policies dictating how cattle can be marketed threaten the beef industry’s progress",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162820",
-          "author": null,
-          "description": "This post is the fourth in a six-part series titled “The State of Economic Equity.” This series examines the challenges facing vulnerable workers this year and possible ways to improve their economic security and resiliency in an economy reshaped by the pandemic.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162820",
-          "publishedOn": "2022-03-02T12:01:51.855Z",
-          "wordCount": 666,
-          "title": "Addressing the Housing Affordability Crisis as COVID-19’s Impact Continues",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162821",
-          "author": null,
-          "description": "We estimate heterogeneous treatment effects of the EIB financial support on European firms between 2008 and 2015. The relevant control groups are created with propensity score matching and the effects are estimated in a difference-in-differences framework, controlling for firm-level and country-sector-year fixed effects. We find that the positive effects of EIB-supported lending on job creation and investments were larger for smaller and younger firms. Moreover, we find evidence that longer maturities and more advantageous loan pricing are associated with larger employment and investment effects, while no larger impact is observed for larger loan volumes. Overall, the results suggest that benefits of the EIB support are rather observed on an intensive, rather than on an extensive, margin.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162821",
-          "publishedOn": "2022-03-02T12:01:51.842Z",
-          "wordCount": 666,
-          "title": "Estimating conditional treatment effects of EIB lending to SMEs in Europe",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -821,7 +811,7 @@
           "author": null,
           "description": "This paper studies the impact of unanticipated monetary policy news around FOMC announcements on secondary market corporate loan spreads. I find that the reaction of loan spreads to monetary policy news is weaker than that of bond spreads: following an unanticipated monetary policy tightening (easing) shock, loan spreads do not increase (decrease) as much as bond spreads do. Decomposition of the spreads into compensations for expected defaults and risk premiums shows that differential reactions of loan and bond risk premiums are the main driver of the differential spread reactions. This paper further finds that the weaker loan spread reactions to monetary policy shocks are more pronounced for riskier loans. Lastly, reactions of primary market loan spreads to monetary policy shocks are also muted. These findings highlight heterogeneous impacts of monetary policy across different types of corporate credit markets, possibly reflecting heterogeneous investor demand responses to monetary policy in those markets.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162834",
-          "publishedOn": "2022-03-02T12:01:51.800Z",
+          "publishedOn": "2022-03-02T15:02:02.025Z",
           "wordCount": 666,
           "title": "How Does Monetary Policy Affect Prices of Corporate Loans?",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -831,19 +821,49 @@
           "author": null,
           "description": "In supporting children’s development, countries invest in the future successes of economies and societies. Awareness of the critical role early childhood education and care (ECEC) plays in setting a strong foundation for children’s learning, development and well-being has grown among policy makers worldwide. The OECD Quality beyond Regulations policy review provides countries with an overview of the different dimensions of quality in ECEC. It also highlights policies that can enhance process quality in particular. From this review, emerged the present report, taking an in-depth look at Luxembourg’s ECEC system. It outlines the system’s main strengths and challenges, focusing on workforce development and quality assurance through the monitoring system. The report provides tailored policy recommendations to improve provision in line with national goals.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162827",
-          "publishedOn": "2022-03-02T12:01:51.790Z",
+          "publishedOn": "2022-03-02T15:02:02.016Z",
           "wordCount": 666,
           "title": "Strengthening Early Childhood Education and Care in Luxembourg",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162796",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162821",
           "author": null,
-          "description": "Exploiting the introduction of the ECB’s tiering system for remunerating excess reserve holdings, we document the importance of access to the money market for bank lending. We show that the two-tier system produced positive wealth effects for banks with excess reserves and encouraged a reallocation of liquidity toward banks with unused exemptions. This ultimately decreased the fragmentation in the money market and enhanced the monetary policy transmission mechanism. The increased access to money market by banks with unused allowances incentivizes them to extend more credit than other banks, including banks with excess liquidity whose valuations increase the most.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162796",
-          "publishedOn": "2022-03-02T12:01:51.749Z",
+          "description": "We estimate heterogeneous treatment effects of the EIB financial support on European firms between 2008 and 2015. The relevant control groups are created with propensity score matching and the effects are estimated in a difference-in-differences framework, controlling for firm-level and country-sector-year fixed effects. We find that the positive effects of EIB-supported lending on job creation and investments were larger for smaller and younger firms. Moreover, we find evidence that longer maturities and more advantageous loan pricing are associated with larger employment and investment effects, while no larger impact is observed for larger loan volumes. Overall, the results suggest that benefits of the EIB support are rather observed on an intensive, rather than on an extensive, margin.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162821",
+          "publishedOn": "2022-03-02T15:02:02.006Z",
           "wordCount": 666,
-          "title": "Money markets and bank lending: evidence from the adoption of tiering",
+          "title": "Estimating conditional treatment effects of EIB lending to SMEs in Europe",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162822",
+          "author": null,
+          "description": "50 per cent tuition fee had been successful in equipping them with good knowledge to manage and run their businesses more effectively. However, many women-led SMEs also felt that policies of human resource development were not beneficial for them to attract quality human resources, since most workers were attracted to work in bigger enterprises and in cities. Some of the other key challenges are that the terms for providing free tuition for workers of SMEs needing to have six-month employment is not considered useful for most small and micro-sized women-owned enterprises. Secondly, the trainings on entrepreneurship and business administration, implemented by the People’s Committees of provinces, do not have specific percentage targets for women-owned SMEs or SMEs employing a large number of women. Finally, the content of most trainings is not targeted or specific to address the knowledge, skills and capacity gaps of womenowned SMEs.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162822",
+          "publishedOn": "2022-03-02T15:02:01.996Z",
+          "wordCount": 666,
+          "title": "The SME Law and Its Impact on Women Entrepreneurs in Viet Nam",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162832",
+          "author": null,
+          "description": "The organizational structure of the bureaucracy is a key determinant of policy outcomes. Bureaucratic agencies exhibit wide variation in their organizational capacity, which allows politicians to strategically shape policy implementation. This paper examines what bureaucratic structure implies for the ability of voters to hold politi cians electorally accountable. It explicitly models differences in organizational capacity across bureaucratic agencies and considers a problem where a politician must decide not only which policy to choose but which agency, or combination of agencies, will implement it. The choice of implementation feeds back into the choice of policy and this, in turn, affects how voters perceive the performance of the incumbent. This creates a chain of interdependence from agency structure to policy choice and political accountability. The formal model shows that the variation in organizational capacity serves the interests of voters by improving electoral control of politicians.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162832",
+          "publishedOn": "2022-03-02T15:02:01.986Z",
+          "wordCount": 666,
+          "title": "How Organizational Capacity Can Improve Electoral Accountability",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162818",
+          "author": null,
+          "description": "The purpose of this paper is to investigate the main drivers of the change in the credit risk provisions at a portfolio level for the banks that have been subject of the 2018 EBA stress tests. Therefore, we perform a holistic review of the drivers of the three-year projections of credit losses. First, we define a model containing all the macroeconomic variables considered by the EBA methodological approach. By adding a three-dimension set of explanatory variables, entity-, banking sector- and portfolio-level aspects, we verify whether the published results show some kind of relation with these explanatory variables. Our results show that, although EBA variables explain most part of credit risk provisions, we obtain evidence about the role played by bank-level variables, banking sector features in each country, and the specific characteristics of the portfolio in explaining part of the provisions. Moreover, the results also indicate the existence of complementary/substitution effects of both bank- and portfolio-level variables with the characteristics of the banking sector when explaining credit risk provisions.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162818",
+          "publishedOn": "2022-03-02T15:02:01.955Z",
+          "wordCount": 666,
+          "title": "A study on the EBA stress test results: influence of bank, portfolio, and country-level characteristics",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -851,19 +871,29 @@
           "author": null,
           "description": "This brochure is published within the framework of the Scheme for the Application of International Standards for Fruit and Vegetables established by OECD in 1962. It comprises explanatory notes and illustrations to facilitate the uniform interpretation of the Leeks Standard. This brochure illustrates the standard text and demonstrates the quality parameters on high quality photographs. Thus, it is a valuable tool for the inspection authorities, professional bodies and traders interested in international trade of leeks.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162828",
-          "publishedOn": "2022-03-02T12:01:51.692Z",
+          "publishedOn": "2022-03-02T15:02:01.945Z",
           "wordCount": 666,
           "title": "International Standards for Fruit and Vegetables : Leeks",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162826",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162835",
           "author": null,
-          "description": "Global warming and air pollution threaten human health, economic prosperity and human capital accumulation. The current review presents empirical findings on the effect of adverse environmental conditions on cognition, with a focus on pollution and high temperatures. The review takes a life-course perspective and quantifies both the direct and indirect effects of cumulative and transitory exposure to adverse conditions on cognition starting in-utero all the way to exposure in old age. The review makes clear that exposure to pollutants and high temperatures has economically meaningful costs for both individuals and societies, stemming from lower human capital accumulation. Furthermore, the evidence presented indicates that adverse environmental conditions have large distributional consequences, leading to widening disparities in educational opportunities both across countries and across socio-economic groups within-countries. The review discusses the mechanisms underpinning these effects and explores policies that have the potential to mitigate the negative impact of adverse conditions on cognition.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162826",
-          "publishedOn": "2022-03-02T12:01:51.683Z",
+          "description": "Several federal policies have been proposed to regionally limit how fed cattle can be marketed to force minimum volumes of negotiated cash trades for fed cattle. Marketing agreements incentivizing producers to generate higher-quality beef have resulted in beef and cattle genetic improvements and more intense cattle feeding practices, which provide higher-quality beef products to consumers. Consumers and cattle producers have benefited as beef products have become more aligned with consumer preferences, yet Congress and the Biden administration are contemplating policies that would undermine such advancements.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162835",
+          "publishedOn": "2022-03-02T15:02:01.936Z",
           "wordCount": 666,
-          "title": "Global warming, pollution and cognitive developments: The effects of high pollution and temperature levels on cognitive ability throughout the life course",
+          "title": "Policies dictating how cattle can be marketed threaten the beef industry’s progress",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162824",
+          "author": null,
+          "description": "This book examines the role of state-owned enterprises (SOEs) in contributing to the fiscal instability of the Bahamas, Barbados, Guyana, Jamaica, Suriname, and Trinidad and Tobago (CCB6), with the aim of providing tangible guidance for policymakers seeking to address this issue. Using an original dataset of SOE performance in the Caribbean, the contributors focus on the fiscal implications of unchecked growth, poor oversight, and mismanagement of SOEs, with particular focus on commercial SOEs. The authors examine the historical, economic, and socio-political context of SOEs in the CCB6 and stress the need for simultaneous fiscal reform both at the federal and firm levels. The authors analyze the SOE sectors growth and performance to date, revealing entrenched challenges, specifically around incentives and accountability. The recommendations propose adaptations of accepted international best practices and lay out long-term objectives and the more feasible points of entry for fiscal reform.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162824",
+          "publishedOn": "2022-03-02T15:02:01.916Z",
+          "wordCount": 666,
+          "title": "Smoldering Embers: Do State-Owned Enterprises Threaten Fiscal Stability in the Caribbean?",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -871,7 +901,7 @@
           "author": null,
           "description": "Does the digitization of transactions in an economy increase tax compliance? This paper studies the effect of financial incentives on the adoption of electronic payment technology and on tax compliance by firms. Exploiting administrative data and policy variation from Uruguay, the paper shows that i) consumer value-added tax rebates for credit and debit card transactions trigger an immediate 50 percent increase in the number of card transactions, ii) firms‘ use of card machines increases only on the intensive margin, and iii) tax compliance is unaffected. Endogenous card machine adoption and a low share of card sales in total reported sales can rationalize the findings.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162825",
-          "publishedOn": "2022-03-02T12:01:51.675Z",
+          "publishedOn": "2022-03-02T15:02:01.906Z",
           "wordCount": 666,
           "title": "Electronic Payment Technology and Tax Compliance : Evidence from Uruguay’s Financial Inclusion Reform",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -881,7 +911,7 @@
           "author": null,
           "description": "Recent research developed under the ECB research task force on Monetary Policy, Macroprudential Policy and Financial Stability highlights the existence of trade-offs and spillovers that monetary policy and macroprudential authorities face when deciding on their policy interventions. Monetary policy measures are key to support the supply of credit to the economy, but they could also have unintended consequences on financial stability risks. Macroprudential policies are instead effective in limiting financial stability risks, but they could also reduce the length of economic expansions by preventing credit from flowing to productive economic activities. In addition, since monetary and macroprudential policies transmit to the broad economy via the financial system, they unavoidably affect each other’s effectiveness. Taking these factors into account is key for the design and implementation of both policies.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162819",
-          "publishedOn": "2022-03-02T12:01:51.633Z",
+          "publishedOn": "2022-03-02T15:02:01.896Z",
           "wordCount": 666,
           "title": "Monetary policy, macroprudential policy and financial stability",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -891,29 +921,9 @@
           "author": null,
           "description": "In March 2020, international markets seized up with a violence unequaled since the global financial crisis nearly a dozen years before. As economies around the world locked down in the face of the potentially deadly but completely novel SARS-CoV-2 virus, stock markets fell, firms and governments scrambled for cash, liquidity strains emerged even in the market for US Treasurys, and capital flows to emerging-market and developing economies (EMDEs) reversed violently. This paper reviews the evolution of global financial markets since the global financial crisis, changes in academic thinking about these markets’ domestic impacts, the strains seen during the COVID-19 crisis, and perils that may lie ahead. A key theme is that stability will be enhanced if the global community embraces reforms that elevate market resilience, rather than depending on skillful policymakers wielding aggressive but ad hoc policy interventions to ride to the rescue again.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162836",
-          "publishedOn": "2022-03-02T12:01:51.604Z",
+          "publishedOn": "2022-03-02T15:02:01.887Z",
           "wordCount": 666,
           "title": "The international financial system after COVID-19",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162824",
-          "author": null,
-          "description": "This book examines the role of state-owned enterprises (SOEs) in contributing to the fiscal instability of the Bahamas, Barbados, Guyana, Jamaica, Suriname, and Trinidad and Tobago (CCB6), with the aim of providing tangible guidance for policymakers seeking to address this issue. Using an original dataset of SOE performance in the Caribbean, the contributors focus on the fiscal implications of unchecked growth, poor oversight, and mismanagement of SOEs, with particular focus on commercial SOEs. The authors examine the historical, economic, and socio-political context of SOEs in the CCB6 and stress the need for simultaneous fiscal reform both at the federal and firm levels. The authors analyze the SOE sectors growth and performance to date, revealing entrenched challenges, specifically around incentives and accountability. The recommendations propose adaptations of accepted international best practices and lay out long-term objectives and the more feasible points of entry for fiscal reform.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162824",
-          "publishedOn": "2022-03-02T12:01:51.589Z",
-          "wordCount": 666,
-          "title": "Smoldering Embers: Do State-Owned Enterprises Threaten Fiscal Stability in the Caribbean?",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162832",
-          "author": null,
-          "description": "The organizational structure of the bureaucracy is a key determinant of policy outcomes. Bureaucratic agencies exhibit wide variation in their organizational capacity, which allows politicians to strategically shape policy implementation. This paper examines what bureaucratic structure implies for the ability of voters to hold politi cians electorally accountable. It explicitly models differences in organizational capacity across bureaucratic agencies and considers a problem where a politician must decide not only which policy to choose but which agency, or combination of agencies, will implement it. The choice of implementation feeds back into the choice of policy and this, in turn, affects how voters perceive the performance of the incumbent. This creates a chain of interdependence from agency structure to policy choice and political accountability. The formal model shows that the variation in organizational capacity serves the interests of voters by improving electoral control of politicians.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162832",
-          "publishedOn": "2022-03-02T12:01:51.541Z",
-          "wordCount": 666,
-          "title": "How Organizational Capacity Can Improve Electoral Accountability",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -921,19 +931,9 @@
           "author": null,
           "description": "We use UK transaction-level data during the Covid-19 pandemic to study whether mortgage payment holidays (PH) can act as a mechanism for smoothing household consumption following negative aggregate shocks. Our results suggest that mortgage PH were accessed by both households with pre-existing financial vulnerabilities and by those with stronger balance sheets, including buy-to-let investors. We also find that the temporary liquidity relief provided by PH allowed liquidity-constrained households to maintain higher annual consumption growth compared to those non-eligible for the policy. Finally, we find that mortgage PH led to higher saving rates for more financially-stable households.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162833",
-          "publishedOn": "2022-03-02T12:01:51.527Z",
+          "publishedOn": "2022-03-02T15:02:01.867Z",
           "wordCount": 666,
           "title": "Consumption effects of mortgage payment holidays: evidence during the Covid-19 pandemic",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162822",
-          "author": null,
-          "description": "50 per cent tuition fee had been successful in equipping them with good knowledge to manage and run their businesses more effectively. However, many women-led SMEs also felt that policies of human resource development were not beneficial for them to attract quality human resources, since most workers were attracted to work in bigger enterprises and in cities. Some of the other key challenges are that the terms for providing free tuition for workers of SMEs needing to have six-month employment is not considered useful for most small and micro-sized women-owned enterprises. Secondly, the trainings on entrepreneurship and business administration, implemented by the People’s Committees of provinces, do not have specific percentage targets for women-owned SMEs or SMEs employing a large number of women. Finally, the content of most trainings is not targeted or specific to address the knowledge, skills and capacity gaps of womenowned SMEs.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162822",
-          "publishedOn": "2022-03-02T12:01:51.518Z",
-          "wordCount": 666,
-          "title": "The SME Law and Its Impact on Women Entrepreneurs in Viet Nam",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -941,9 +941,19 @@
           "author": null,
           "description": "This brochure is published within the framework of the Scheme for the Application of International Standards for Fruit and Vegetables established by OECD in 1962. It comprises explanatory notes and illustrations to facilitate the uniform interpretation of the current apples standard. It demonstrates the quality parameters on high quality photographs. Thus it is a valuable tool for the inspection authorities, professional bodies and traders interested in international trade in apples. This brochure is available in electronic format only.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162829",
-          "publishedOn": "2022-03-02T12:01:51.491Z",
+          "publishedOn": "2022-03-02T15:02:01.858Z",
           "wordCount": 666,
           "title": "International Standards for Fruit and Vegetables : Apples",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162826",
+          "author": null,
+          "description": "Global warming and air pollution threaten human health, economic prosperity and human capital accumulation. The current review presents empirical findings on the effect of adverse environmental conditions on cognition, with a focus on pollution and high temperatures. The review takes a life-course perspective and quantifies both the direct and indirect effects of cumulative and transitory exposure to adverse conditions on cognition starting in-utero all the way to exposure in old age. The review makes clear that exposure to pollutants and high temperatures has economically meaningful costs for both individuals and societies, stemming from lower human capital accumulation. Furthermore, the evidence presented indicates that adverse environmental conditions have large distributional consequences, leading to widening disparities in educational opportunities both across countries and across socio-economic groups within-countries. The review discusses the mechanisms underpinning these effects and explores policies that have the potential to mitigate the negative impact of adverse conditions on cognition.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000162826",
+          "publishedOn": "2022-03-02T15:02:01.704Z",
+          "wordCount": 666,
+          "title": "Global warming, pollution and cognitive developments: The effects of high pollution and temperature levels on cognitive ability throughout the life course",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         }
       ]
@@ -954,11 +964,81 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/domesticList.do",
       "articles": [
         {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162815",
+          "author": null,
+          "description": "국회미래연구원이 「동북아 환경분쟁 이슈 및 대응전략」을 발표하였다.\r\n\r\n- 본 보고서는(1) 동북아 지역에 이미 존재하는 국제환경분쟁 이슈의 트렌드를 분석하고 (2) 과거 국가 간 오염물질 이동 문제해결 여건과 현존하는 동북아 환경분쟁 여건 간의 비교를 통하여 (3) 동북아 환경분쟁 대응전략을 제안했음.\r\n\r\n- 유해물질에 노출은 인간의 건강을 위협하는 중요한 요소이며, 우리나라는 동북아 국가로부터 유입되는 오염물질 리스크가 지속 또는 증가될 것으로 예상됨에 따라 국민건강 보호를 위해 오염물질 배출 감축 및 안전관리 기준 강화를 위한 동북아 국가 공동의 대응전략을 도출할 필요가 있음. 동북아 국가 공동의 대응전략을 도출할 때에는 현재 진행중인 문제해결을 넘어 미래에 발생 가능한 위험을 줄이기 위한 공동의 노력을 약속하는 방향으로 관점을 전환할 필요가 있으며, 투명한 정보교류 활동 강화와 함께 협력 내용과 지역 범위를 포괄적으로 확대하는 방향으로 추진할 것을 제안하였음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162815",
+          "publishedOn": "2022-03-02T15:02:01.964Z",
+          "wordCount": 703,
+          "title": "동북아 환경분쟁 이슈 및 대응전략",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162792",
+          "author": null,
+          "description": "국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.25)’을 발표하였다.\r\n\r\n- (동향) WHO 집계기준(2월 24일), 전세계 코로나19 확진자 수는 428,511,601명(전일대비 +1,826,122명), 사망자 수는 5,911,081명(전일대비 +11,041명)\r\n\r\n- (해외시각) (Goldman Sachs) 팬데믹 시대의 경기부양책은 저소득층 미국인에게 양날의 검. 각종 부양책들은 미국이 경기침체의 늪에서 벗어나는 데 도움이 되었지만 현재 높은 인플레이션을 부추기고 있어 가계 실질소득이 감소중. 팬데믹 기간 동안 막대한 유동성이 풀리면서 쇼핑 열풍이  불고 원자재 공급부족으로 물가가 급등하는 부작용이 초래될 우려",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162792",
+          "publishedOn": "2022-03-02T15:02:01.849Z",
+          "wordCount": 703,
+          "title": "코로나19 관련 동향 및 해외시각(2.25)",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162811",
+          "author": null,
+          "description": "포스코경영연구소가 『마케팅 대전환기, 위기와 기회』를 발표하였다.\r\n\r\n- 마케팅은 최근 몇 년 동안 훨씬 더 데이터 중심적이고 실시간을 중시하는 방향으로 급변하였음. 현재 AI ？ IoT ？ 블록체인 등 엄청난 속도로 발전하는 기술과 전례 없는 팬데믹으로 소비자를 둘러싼 환경이 격변함에 따라 마케팅 역할에 대한 변화 요구가 강하게 일어나고 있음. 패러다임이 변하는 시기에 기업의 확고한 영역을 구축하기 위해서는 마케팅이 비즈니스를 성장시키는 역할을 주도적으로 해야 함.\r\n\r\n- 격변하는 기술이 일상에 큰 변화를 가져옴에 따라 마케팅에서도 상상하지 못했던 영역까지 새로운 기회가 열림. 인공지능(AI)은 마케팅의 모든 단계를 더욱 정교화하였으며, 개인 고객별로 맞춤형 대응이 가능하도록 함. 머신러닝은 복잡한 예측과 의사결정을 위해 방대한 양의 데이터를 사용하여 이미지 인식, 문자 해독, 고객 분류 등을 함으로써 고객들이 마케팅 프로모션이나 자극에 어떻게 반응할지 예측할 수 있음. 가상현실(Virtual Reality) 기술은 소비자들에게 새로운 경험을 제공함으로써 기존과 다른 마케팅 기회를 창출하는데, 가상현실 기술을 통하여 고객들은 브랜드 경험의 영역에서 비용이나 공간, 이동 거리의 제약 없이 새로운 체험을 할 수 있음. 증강현실(Augmented Reality)은 실제와 가상의 경계를 불분명하게 하여 고객들에게 오프라인 경험을 보다 풍성하게 제공하는데, 스마트폰을 통해서 쉽게 접할 수 있고, 오프라인 매장과 연계하여 체험마케팅 등을 진행할 수 있음. 블록체인 기술은 디지털 시대에 거래의 검증이나 증명 등과 같이 투명성과 정확성이 요구되는 마케팅 분야에서 활용될 기회가 열려 있음.\r\n\r\n- 새로운 자극들과 변화가 많아진 환경에서 소비자들은 오히려 진정성 있고 신뢰할 수 있는 브랜드에 대한 높은 충성도를 보임. 소비자의 충성도(loyalty)는 소비자 마음속에 자리잡은 브랜드가 있다는 의미로, 시대가 변하여도 고객의 충성도를 이끌어 내는 일은 기업에게 매우 중요함. 사회와 환경에 대한 기여를 하면서 기업의 본업을 성장시키는 브랜드에 소비자들은 변하지 않는 신뢰를 보낼 것이며, 기업은 이러한 신뢰와 친밀감을 기반한 소통을 통해 격변하는 환경 속에서도 브랜드의 가치를 공고히 하고 고객과 궁극의 관계를 이끌어 낼 수 있을 것임.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162811",
+          "publishedOn": "2022-03-02T15:02:01.839Z",
+          "wordCount": 703,
+          "title": "마케팅 대전환기, 위기와 기회",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162788",
+          "author": null,
+          "description": "국제금융센터가 『최근 우크라이나 사태에 대한 시장반응 및 해외시각①』을 발표하였다.\r\n\r\n- [동향] 러시아 푸틴 대통령은 2.24일(현지시간) 우크라이나 돈바스 지역에서의 특별 군사 작전을 승인했으며, 우크라이나는 전면전이 시작되었다며 계엄령 선포\r\n\r\n- [금융시장 반응] 국제금융시장은 러시아의 우크라이나 침공이 현실화됨에 따라 주요국 주가가 급락하는 등 위험회피성향 고조\r\n\r\n- [해외시각] 우크라이나 사태 본격화는 이미 높아진 인플레이션 위험을 가중시키는 악재라는 점에서 중앙은행들의 긴축시도와 맞물려 있어 과거 지정학적 리스크들과 달리 금융시장에 미치는 영향이 상당기간 지속될 것이라는 우려도 상당",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162788",
+          "publishedOn": "2022-03-02T15:02:01.830Z",
+          "wordCount": 703,
+          "title": "최근 우크라이나 사태에 대한 시장반응 및 해외시각①",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162814",
+          "author": null,
+          "description": "한국농촌경제연구원이 『농업용수 비점오염 관리 실태와 개선 방향』을 발표하였다. \r\n\r\n- 이 연구에서는 농업용수 비점오염 관리 실태를 비구조적 관리 방식 중심으로 파악하고, 보다 효과적인 관리에 필요한 정책 방향을 제안함. 특히 다음 사항을 세부적으로 파악하고자 하였음. 첫째, 관리 주체 및 제도 설계 측면에서 농업용수 비점오염 관리 개선 과제를 도출함. 기존 규제 또는 경제적 유인 제공 방식의 보완책으로 자율적 공유자원 관리 방식의 가능성을 타진했음. 둘째, 사례 지역 면담 조사 및 설문 조사 결과를 바탕으로 농업용수 비점오염 관리 과정에서 먼저 개선해야 할 과제를 도출했음. 셋째, 앞의 논의를 토대로 농업용수 비점오염 비구조적 관리 정책 개선 방향을 제안했음.\r\n\r\n<목 차>\r\n\r\n제1장 서론\r\n제2장 농업용수 비점오염 실태와 특징\r\n제3장 농업용수 비점오염 관리 정책 현황과 한계\r\n제4장 국내 사례 지역 조사와 시사점\r\n제5장 농업용수 비점오염 관리 활동 참여 마을 설문 조사 결과와 시사점\r\n제6장 농업용수 비점오염 관리 정책 개선 방향",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162814",
+          "publishedOn": "2022-03-02T15:02:01.811Z",
+          "wordCount": 703,
+          "title": "농업용수 비점오염 관리 실태와 개선 방향",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162785",
+          "author": null,
+          "description": "한국금융연구원이 「일본의 전환금융 현황과 향후 과제」를 발표하였다.\r\n\r\n- 일본에서는 2050년 탈탄소화 실현을 위해 탈탄소화 조기 달성이 어려운 기업들을 대상으로 기업의 장기 전환전략에 근거해 자금을 지원하는 전환금융(transition finance)이 크게 주목받고 있음. 특히 일본 정부는 전환금융의 정착을 위해 전환금융 기본지침 마련, 산업별 로드맵 책정 등에 적극적으로 나서고 있음. 도입 초기 단계인 전환금융은 친환경을 가장한 그린워싱 우려, 산업별 로드맵의 낮은 실현가능성, 금융기관 투융자기업의 탄소배출량 증가 등의 문제점을 지적받고 있음. 이를 해소하기 위해서는 산업별 로드맵의 고도화, 금융기관에 대한 지원책 등을 마련할 필요가 있음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162785",
+          "publishedOn": "2022-03-02T15:02:01.802Z",
+          "wordCount": 703,
+          "title": "일본의 전환금융 현황과 향후 과제",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162765",
+          "author": null,
+          "description": "한국수출입은행이 『‘22 월간 국내외 경제 및 산업 동향 2월호』를 발표하였다.\r\n\r\n- 주요국 경제동향 : 완만한 성장세 유지 불구, 오미크론 확산 및 고인플레로 경기심리 악화 \r\n\r\n- 환율 : 원/달러 환율은 1,200원/달러 돌파 후 소폭하락 \r\n\r\n- 국제유가 : 원유 가격은 12월 말 이후 급등세 지속, 천연가스 가격은 1월 이후 급등락 반복 \r\n\r\n- 수출 : 주요 품목·지역에서 고르게 증가하며 15개월 연속 증가",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162765",
+          "publishedOn": "2022-03-02T15:02:01.793Z",
+          "wordCount": 703,
+          "title": "’22 월간 국내외 경제 및 산업 동향 2월호",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
           "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162793",
           "author": null,
           "description": "국토연구원이 「참여형 도시계획 확립을 위한 커뮤니티 보드 도입·운영 방안」을 발표하였다.\r\n\r\n- 현행 도시계획 주민참여 제도는 경직적이고 폐쇄적인 구조로 인해 사회적 요구를 충분히 반영하지 못하며, 이로 인해 지역과 거주민에 대한 고려 없이 도시계획이 결정·허가되거나 그에 따른 사회적 갈등이 발생\r\n\r\n- 도시계획 참여 제도의 문제를 해소하고 참여형 도시계획을 확립하기 위해 ‘커뮤니티 보드(Community Board)’라는 도시계획 관련 주민대표조직의 도입·운영 필요\r\n\r\n- 미국의 뉴욕과 휴스턴, 수원시와 세종시 사례를 분석하여 다음과 같은 시사점 도출. 주민조직 운영 시에는 법적 근거를 마련하여 역할과 권한을 부여하고, 조직 구성과 운영에 대한 명확한 규정을 마련하며, 행정·재정적 지원 체계를 갖추는 것이 중요\r\n\r\n- 지자체 차원에서 도시계획·개발 안건에 대한 주민참여를 강화할 목적으로 적정한 공간 범위를 정하여 커뮤니티 보드를 설치·운영할 수 있으며, 이때 ‘권한 부여’, ‘참여 확대’, ‘정보 공유’ 세 가지를 기본 원칙으로 설정하는 것이 바람직\r\n\r\n- 커뮤니티 보드 도입 시에는 ① 적정 공간 단위, ② 신설 또는 기존 조직 활용 등의 도입 방식, ③ 대표성 확보를 위한 규모 및 구성 방식, ④ 주요 기능과 역할 분담, ⑤ 효과적인 기능 수행을 위한 운영 방식을 결정하는 것이 필요\r\n\r\n- [정책방안] ① (중앙정부) 「국토의 계획 및 이용에 관한 법률」과 관련 지침에 커뮤니티 보드 도입·운영의 법적 근거를 마련하여 주민들이 적극적으로 참여하고 권한을 행사할 수 있는 기반 형성  ② (지방정부) 커뮤니티 보드의 체계적 도입·운영을 위해 설치, 규모, 구성, 주요 기능, 세부 운영 방침 등을 규정하는 조례 또는 지침을 마련 및 효과적으로 시행  ③ 단기적으로는 커뮤니티 보드에 간단한 자문이나 의견 청취 기능 정도를 부여하여 시범적으로 운영하고, 향후 위상과 역량 향상에 따라 단계적으로 기능 확장",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162793",
-          "publishedOn": "2022-03-02T12:01:51.902Z",
+          "publishedOn": "2022-03-02T15:02:01.783Z",
           "wordCount": 703,
           "title": "참여형 도시계획 확립을 위한 커뮤니티 보드 도입·운영 방안",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -968,7 +1048,7 @@
           "author": null,
           "description": "서울연구원이 『유역특성 기반의 서울시 침수위험성 분석』을 발표하였다.\r\n\r\n- 최근 10년 동안 서울특별시(이하 서울시)에는 2010년, 2011년, 2018년에 큰 침수피해가 발생하였음. 단시간의 집중호우로 서울시 곳곳에서 건물 및 공공시설 침수와 산사태가 발생하였고 큰 재산피해와 인명피해로 이어졌음. 주요 수해 원인은 배수시설의 설계용량을 초과하는 강우로 인한 우수배제 불량, 하수관거 통수능 부족, 저지대 노면수의 집중 등으로 분석되었음.\r\n\r\n- 이에 서울시는 기존 상습침수지역과 2010년, 2011년 집중호우로 발생한 침수피해를 바탕으로 34개의 침수취약지역을 선정하고, 이들 지역에 2011년 3월부터 2023년 12월까지 총사업비 1조 5,300억여 원을 투입하여 하수관거 정비, 펌프장 신설 및 증설, 저류조 신설 등 배수능력을 확충하는 사업을 진행해오고 있으며, 2021년 현재 30개 지역의 정비를 완료한 상태임.\r\n\r\n- 하지만, 기후변화로 인해 집중형 배수시설의 설계용량을 초과하는 강우의 발생빈도가 증가하고, 극한홍수 발생위험과 기상예측 불확실성이 커짐에 따라, 배수시설의 용량을 증설하는 구조적인 침수대책으로 침수취약지역을 관리하는 집중형 우수배제체계 중심의 침수관리만으로는 안전한 침수대응이 어렵게 되었음.\r\n\r\n- 지난 2020년 여름 집중호우로 인해 전국적으로 1조 원 이상의 재산피해가 발생하였으나, 재해위험지구로 설정된 894개 지구에서 집중호우 및 피해가 발생하지 않은 사실은, 앞서 분석한 바와 같이 현재의 침수관리 대책이 강우특성의 시공간적 변화에 적절하게 대응하기 어렵다는 것을 단적으로 보여주고 있음.\r\n\r\n- 더욱이, 10~30년 빈도로 구축된 서울시 우수배제체계의 설계용량을 초과하는 강우의 발생빈도가 증가하고 있기 때문에 서울시와 같이 인구밀도와 교통량, 그리고 전역에 분포된 주요 기반시설 및 지하시설 등 침수발생 시 피해를 확대시킬 수 있는 요인들의 밀도가 높은 지역은 침수가 발생하더라도 신속하게 회복 및 복구하여 도시의 기능을 수행할 수 있도록 하는 리질리언스(resilience) 측면의 침수관리가 매우 중요함.\r\n\r\n- 그러므로, 불확실성이 큰 강우특성에 기반한 침수위험지역관리보다는 유역 내 침수발생 및 피해를 가중시키는 취약성을 중심으로 한 위험성 평가와, 이를 기반으로 소규모 유역단위로 유역 내 취약요인을 점차 개선해나가는 지구단위 저영향개발 계획 등의 도시계획적 전략의 확대 및 침수취약지역의 체계적 관리, 그리고 소규모 침수방지시설, 저영향개발(LID)시설 확충 등 분산형 침수관리 대책의 확대를 통해 서울시의 침수대응 및 관리 역량을 높이고 기후변화에 대한 적응력을 향상시켜야 하겠음.",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162809",
-          "publishedOn": "2022-03-02T12:01:51.833Z",
+          "publishedOn": "2022-03-02T15:02:01.764Z",
           "wordCount": 703,
           "title": "유역특성 기반의 서울시 침수위험성 분석",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -978,79 +1058,9 @@
           "author": null,
           "description": "We develop a dynamic model of two-sided matching with search and learning frictions. Agents engage in a search for a potential partner and, upon meeting, may gradually acquire information about their compatibility as a couple, a process we refer to as dating. Dating is mutually exclusive and, as such, introduces a tradeoff between becoming better informed about one‘s compatibility with a potential partner and  meeting other,  more promising, potential partners. We derive a closed-form solution for the unique steady-state equilibrium when agents are ex-ante homogeneous, and characterize it when they are vertically heterogeneous. In the steady state, agents date for longer than is socially optimal, an inefficiency that is alleviated by a small degree of asymmetry in dating costs between partners. Furthermore, block segregation fails, yet matching is assortative - in a probabilistic sense we refer to as single-crossing in marriage probabilities.  Motivated by recent advances in matching technologies in decentralized markets, we study the effects of improvements in search and learning technologies and show that they differ qualitatively.",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162817",
-          "publishedOn": "2022-03-02T12:01:51.781Z",
+          "publishedOn": "2022-03-02T15:02:01.754Z",
           "wordCount": 703,
           "title": "Learning in the Marriage Market: The Economics of Dating",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162812",
-          "author": null,
-          "description": "한국금융연구원이 「스테이블코인의 영향과 규제 필요성」을 발표하였다.\r\n\r\n- 準화폐적 스테이블코인은 지급결제, 통화정책 등 금융전반에 큰 영향을 미칠 전망이나 규제차익 발생 및 소비자보호 미흡이 우려되는 등 규제의 틀은 아직 미비한 상황임. 향후 주요국에서 스테이블코인에 대한 규제체계 구축이 가시화될 것으로 예상되는 바, 우리나라도 경제 및 금융부문에 미칠 영향을 면밀히 분석·검토하여 바람직한 규제 방향을 정립할 필요가 있음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162812",
-          "publishedOn": "2022-03-02T12:01:51.767Z",
-          "wordCount": 703,
-          "title": "스테이블코인의 영향과 규제 필요성",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162791",
-          "author": null,
-          "description": "한국수출입은행이 『수출 기업 해외 공급망 현황 및 영향 조사』를 발표하였다.\r\n\r\n<목 차>\r\n \r\n1. 수출기업의 해외 공급망 활용 현황 \r\n2. ‘21년도 공급망 악화에 따른 수출 영향 \r\n3. ‘22년도 공급망 악화에 따른 영향 전망 \r\n4. 해외 공급망 문제 대응 방안 \r\n5. 시사점",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162791",
-          "publishedOn": "2022-03-02T12:01:51.700Z",
-          "wordCount": 703,
-          "title": "수출 기업 해외 공급망 현황 및 영향 조사",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162789",
-          "author": null,
-          "description": "국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.24)’을 발표하였다.\r\n\r\n- (동향) WHO 집계기준(2월 23일), 전세계 코로나19 확진자 수는 426,624,859명(전일대비 +1,666,103명), 사망자 수는 5,899,578명(전일대비 +7,523명)\r\n\r\n- (해외시각) (JPM) 우크라이나 리스크는 미국 기업의 실적 저하를 유발시키기도 하지만, 에너지가격 급등으로 인한 경제 전반의 타격이 상당할 전망. 중앙은행이 인플레이션에 타게팅하여 공격적으로 대응하는 상황에서는 우크라이나발 에너지 가격 쇼크가 투자 심리와 성장 전망을 크게 훼손할 우려",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162789",
-          "publishedOn": "2022-03-02T12:01:51.651Z",
-          "wordCount": 703,
-          "title": "코로나19 관련 동향 및 해외시각(2.24)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162765",
-          "author": null,
-          "description": "한국수출입은행이 『‘22 월간 국내외 경제 및 산업 동향 2월호』를 발표하였다.\r\n\r\n- 주요국 경제동향 : 완만한 성장세 유지 불구, 오미크론 확산 및 고인플레로 경기심리 악화 \r\n\r\n- 환율 : 원/달러 환율은 1,200원/달러 돌파 후 소폭하락 \r\n\r\n- 국제유가 : 원유 가격은 12월 말 이후 급등세 지속, 천연가스 가격은 1월 이후 급등락 반복 \r\n\r\n- 수출 : 주요 품목·지역에서 고르게 증가하며 15개월 연속 증가",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162765",
-          "publishedOn": "2022-03-02T12:01:51.642Z",
-          "wordCount": 703,
-          "title": "’22 월간 국내외 경제 및 산업 동향 2월호",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162786",
-          "author": null,
-          "description": "한국금융연구원이 「기술기업의 은행 소유·운영에 따른 편익 및 리스크와 정책방안」을 발표하였다.\r\n\r\n- 최근 BIS의 보고서는 기술기업이 은행을 소유·운영할 시 발생하는 편익과 리스크를 분석하고 이에 따른 정책방안을 제시함. 기술기업은 기술력, 편의성, 데이터, 금융포용, 경쟁촉진 측면에서 장점이 있지만 이해상충, 경제력 집중 및 반경쟁적 행위, 전이 및 시스템리스크, 통합감독 애로 등의 리스크를 야기할 수 있음. 따라서 이러한 편익을 장려하는 가운데 리스크를 완화하기 위한 규제·감독 정책을 수립할 필요가 있음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162786",
-          "publishedOn": "2022-03-02T12:01:51.624Z",
-          "wordCount": 703,
-          "title": "기술기업의 은행 소유·운영에 따른 편익 및 리스크와 정책방안",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162792",
-          "author": null,
-          "description": "국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.25)’을 발표하였다.\r\n\r\n- (동향) WHO 집계기준(2월 24일), 전세계 코로나19 확진자 수는 428,511,601명(전일대비 +1,826,122명), 사망자 수는 5,911,081명(전일대비 +11,041명)\r\n\r\n- (해외시각) (Goldman Sachs) 팬데믹 시대의 경기부양책은 저소득층 미국인에게 양날의 검. 각종 부양책들은 미국이 경기침체의 늪에서 벗어나는 데 도움이 되었지만 현재 높은 인플레이션을 부추기고 있어 가계 실질소득이 감소중. 팬데믹 기간 동안 막대한 유동성이 풀리면서 쇼핑 열풍이  불고 원자재 공급부족으로 물가가 급등하는 부작용이 초래될 우려",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162792",
-          "publishedOn": "2022-03-02T12:01:51.580Z",
-          "wordCount": 703,
-          "title": "코로나19 관련 동향 및 해외시각(2.25)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162788",
-          "author": null,
-          "description": "국제금융센터가 『최근 우크라이나 사태에 대한 시장반응 및 해외시각①』을 발표하였다.\r\n\r\n- [동향] 러시아 푸틴 대통령은 2.24일(현지시간) 우크라이나 돈바스 지역에서의 특별 군사 작전을 승인했으며, 우크라이나는 전면전이 시작되었다며 계엄령 선포\r\n\r\n- [금융시장 반응] 국제금융시장은 러시아의 우크라이나 침공이 현실화됨에 따라 주요국 주가가 급락하는 등 위험회피성향 고조\r\n\r\n- [해외시각] 우크라이나 사태 본격화는 이미 높아진 인플레이션 위험을 가중시키는 악재라는 점에서 중앙은행들의 긴축시도와 맞물려 있어 과거 지정학적 리스크들과 달리 금융시장에 미치는 영향이 상당기간 지속될 것이라는 우려도 상당",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162788",
-          "publishedOn": "2022-03-02T12:01:51.570Z",
-          "wordCount": 703,
-          "title": "최근 우크라이나 사태에 대한 시장반응 및 해외시각①",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1058,79 +1068,19 @@
           "author": null,
           "description": "국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식 유입 소폭 증가, 채권 유출 큰 폭 축소’를 발표하였다.\r\n\r\n- 주식펀드 유입 소폭 증가, 채권펀드 유출 큰 폭 축소\r\n\r\n-  신흥국들의 신용위험 상승, 통화가치 하락",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162787",
-          "publishedOn": "2022-03-02T12:01:51.550Z",
+          "publishedOn": "2022-03-02T15:02:01.743Z",
           "wordCount": 703,
           "title": "[Fund Flow] 글로벌 펀드자금, 주식 유입 소폭 증가, 채권 유출 큰 폭 축소",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162783",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162789",
           "author": null,
-          "description": "국제금융센터가 ‘주간이슈(2.28) : 러시아의 우크라이나 행보 및 서방의 대응에 주목’을 발표하였다.\r\n\r\n- 러시아의 우크라이나 행보 및 서방의 대응에 주목. 바이든 2022 국정연설도 관심 \r\n\r\n- 미국 2월 고용지표 발표. 주요국 2월 제조업지수 및 유로존 2월 CPI도 관심 \r\n\r\n- 파월 의회 반기통화정책 청문회 출석. 파월 등 5명의 연준 지명자 인준표결 재추진 \r\n\r\n- 중국 양회 개막. 금년 경제운영 등 청사진을 가늠   \r\n\r\n- 인도·브라질·캐나다·호주의 4Q GDP 발표. 한국은 수정치 발표  \r\n\r\n- OPEC+ 회의 개최. 우크라이나 사태 불구 현 생산수준 유지 가능성",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162783",
-          "publishedOn": "2022-03-02T12:01:51.475Z",
+          "description": "국제금융센터가 ‘코로나19 관련 동향 및 해외시각(2.24)’을 발표하였다.\r\n\r\n- (동향) WHO 집계기준(2월 23일), 전세계 코로나19 확진자 수는 426,624,859명(전일대비 +1,666,103명), 사망자 수는 5,899,578명(전일대비 +7,523명)\r\n\r\n- (해외시각) (JPM) 우크라이나 리스크는 미국 기업의 실적 저하를 유발시키기도 하지만, 에너지가격 급등으로 인한 경제 전반의 타격이 상당할 전망. 중앙은행이 인플레이션에 타게팅하여 공격적으로 대응하는 상황에서는 우크라이나발 에너지 가격 쇼크가 투자 심리와 성장 전망을 크게 훼손할 우려",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162789",
+          "publishedOn": "2022-03-02T15:02:01.735Z",
           "wordCount": 703,
-          "title": "주간이슈(2.28) : 러시아의 우크라이나 행보 및 서방의 대응에 주목",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162785",
-          "author": null,
-          "description": "한국금융연구원이 「일본의 전환금융 현황과 향후 과제」를 발표하였다.\r\n\r\n- 일본에서는 2050년 탈탄소화 실현을 위해 탈탄소화 조기 달성이 어려운 기업들을 대상으로 기업의 장기 전환전략에 근거해 자금을 지원하는 전환금융(transition finance)이 크게 주목받고 있음. 특히 일본 정부는 전환금융의 정착을 위해 전환금융 기본지침 마련, 산업별 로드맵 책정 등에 적극적으로 나서고 있음. 도입 초기 단계인 전환금융은 친환경을 가장한 그린워싱 우려, 산업별 로드맵의 낮은 실현가능성, 금융기관 투융자기업의 탄소배출량 증가 등의 문제점을 지적받고 있음. 이를 해소하기 위해서는 산업별 로드맵의 고도화, 금융기관에 대한 지원책 등을 마련할 필요가 있음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162785",
-          "publishedOn": "2022-03-02T12:01:51.466Z",
-          "wordCount": 703,
-          "title": "일본의 전환금융 현황과 향후 과제",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162814",
-          "author": null,
-          "description": "한국농촌경제연구원이 『농업용수 비점오염 관리 실태와 개선 방향』을 발표하였다. \r\n\r\n- 이 연구에서는 농업용수 비점오염 관리 실태를 비구조적 관리 방식 중심으로 파악하고, 보다 효과적인 관리에 필요한 정책 방향을 제안함. 특히 다음 사항을 세부적으로 파악하고자 하였음. 첫째, 관리 주체 및 제도 설계 측면에서 농업용수 비점오염 관리 개선 과제를 도출함. 기존 규제 또는 경제적 유인 제공 방식의 보완책으로 자율적 공유자원 관리 방식의 가능성을 타진했음. 둘째, 사례 지역 면담 조사 및 설문 조사 결과를 바탕으로 농업용수 비점오염 관리 과정에서 먼저 개선해야 할 과제를 도출했음. 셋째, 앞의 논의를 토대로 농업용수 비점오염 비구조적 관리 정책 개선 방향을 제안했음.\r\n\r\n<목 차>\r\n\r\n제1장 서론\r\n제2장 농업용수 비점오염 실태와 특징\r\n제3장 농업용수 비점오염 관리 정책 현황과 한계\r\n제4장 국내 사례 지역 조사와 시사점\r\n제5장 농업용수 비점오염 관리 활동 참여 마을 설문 조사 결과와 시사점\r\n제6장 농업용수 비점오염 관리 정책 개선 방향",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162814",
-          "publishedOn": "2022-03-02T12:01:51.441Z",
-          "wordCount": 703,
-          "title": "농업용수 비점오염 관리 실태와 개선 방향",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162816",
-          "author": null,
-          "description": "농업은 여러 산업 부문 중에서 기후변화 영향이 가장 큰 분야에 속한다. 특히 기후변화와 그에 따른 기상이변은 농업생산에 절대적인 영향을 미친다. 또한 농업은 기후변화 적응의 효과성이 가장 높은 분야이기도 하다. 따라서 농업은 기후변화 적응이 적합성과 필요성 모두 높고 기후변화 적응 주류화가 필수적인 분야이다.\r\n다만 현재 우리나라 농업부문의 경우 기후변화 적응 주류화를 위한 정책기반이 부족하고 농업부문 기후변화 적응 주류화 관련 현황과 여건, 실현요인 및 장애요인을 분석하고 그에 따른 개선방안을 통한 제도개선 노력이 ...",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162816",
-          "publishedOn": "2022-03-02T12:01:51.432Z",
-          "wordCount": 703,
-          "title": "농업부문 기후변화 적응 주류화를 위한 정책 과제",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162790",
-          "author": null,
-          "description": "서울연구원이 『서울시 공공건축물 에너지소비 관리방향』을 발표하였다.\r\n\r\n- 서울시, 공공건축물 신축시 설계기준 강화…사용단계 관리체계는 미흡\r\n\r\n- 공공건축물 에너지관리 담당 전담부서 없이 그린리모델링사업 추진도 문제",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162790",
-          "publishedOn": "2022-03-02T12:01:51.274Z",
-          "wordCount": 703,
-          "title": "서울시 공공건축물 에너지소비 관리방향",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162810",
-          "author": null,
-          "description": "한국금융연구원이 「최근 인플레이션 동향과 정책적 시사점」을 발표하였다.\r\n\r\n- 최근 수입물가 및 생산자물가가 높은 상승률을 이어가는 가운데 새해를 전후하여 그동안 누적된 비용상승 압력을 가격에 전가시키는 등 가격 상승세가 빠르게 확산되고 있다는 점 등을 고려할 때 올해 소비자물가는 당초 전망보다 상당폭 높은 수준에서 움직일 것으로 예상됨. 이에 따라 금리인상, 민간부채의 적정수준 유지 등을 통해 인플레이션 확산을 방지하고 그 부작용을 완화하기 위한 정책대응 기조를 일관성 있게 유지해 나가야 할 것으로 판단됨.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162810",
-          "publishedOn": "2022-03-02T12:01:51.150Z",
-          "wordCount": 703,
-          "title": "최근 인플레이션 동향과 정책적 시사점",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162815",
-          "author": null,
-          "description": "국회미래연구원이 「동북아 환경분쟁 이슈 및 대응전략」을 발표하였다.\r\n\r\n- 본 보고서는(1) 동북아 지역에 이미 존재하는 국제환경분쟁 이슈의 트렌드를 분석하고 (2) 과거 국가 간 오염물질 이동 문제해결 여건과 현존하는 동북아 환경분쟁 여건 간의 비교를 통하여 (3) 동북아 환경분쟁 대응전략을 제안했음.\r\n\r\n- 유해물질에 노출은 인간의 건강을 위협하는 중요한 요소이며, 우리나라는 동북아 국가로부터 유입되는 오염물질 리스크가 지속 또는 증가될 것으로 예상됨에 따라 국민건강 보호를 위해 오염물질 배출 감축 및 안전관리 기준 강화를 위한 동북아 국가 공동의 대응전략을 도출할 필요가 있음. 동북아 국가 공동의 대응전략을 도출할 때에는 현재 진행중인 문제해결을 넘어 미래에 발생 가능한 위험을 줄이기 위한 공동의 노력을 약속하는 방향으로 관점을 전환할 필요가 있으며, 투명한 정보교류 활동 강화와 함께 협력 내용과 지역 범위를 포괄적으로 확대하는 방향으로 추진할 것을 제안하였음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162815",
-          "publishedOn": "2022-03-02T12:01:48.026Z",
-          "wordCount": 703,
-          "title": "동북아 환경분쟁 이슈 및 대응전략",
+          "title": "코로나19 관련 동향 및 해외시각(2.24)",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1138,19 +1088,79 @@
           "author": null,
           "description": "국제금융센터가 「중국의 정책규제 완화 움직임 및 시사점」을 발표하였다.\r\n\r\n- [이슈] 중국이 코로나19 이후에도 △부동산 억제 △IT기업 규제 △탄소 중립 등을 강도 높게 추진해 왔으나, 작년 말부터 각종 정책규제를 완화하는 변화가 감지\r\n · (부동산 규제 완화) 무주택자의 주택담보대출(LTV) 비율을 70%에서 80%로 높이고 가산금리를 인하하는 등 수요를 촉진하고 부동산 개발기업에 대한 대출규제도 완화\r\n · (플랫폼 규제 완화) 중국 발전개혁위원회는 국내총생산(GDP)에서의 디지털경제 비중을 현재의 7.8%에서 `25년 10%까지 높이겠다면서 플랫폼 기업의 투자 확대를 주문\r\n · (탄소중립 속도조절) 최근 중국 생태환경부는 석탄 채굴 제한을 완화하고 철강업체의 탄소배출량 정점 도달시기를 5년 연기하는 한편 신에너지차 보조금도 축소\r\n\r\n- [배경] 코로나19 장기화와 규제 부작용으로 인해 경기부양 필요성이 커진 가운데 금년 가을 당대회 및 시진핑 3연임 결정 등을 위해 사회적 불만을 최소화할 필요\r\n · (경기 하방압력 대응) 작년 하반기부터 △전력난 △생산자물가 급등 △부동산시장 침체 등 규제 부작용이 심화하면서 지난해 4분기 성장률이 4.0%로 둔화\r\n · (정치적 안정 노력) 금년 가을 공산당 당대회에 맞춰 시진핑 3연임을 결정하기 위해서는 공동부유 및 제로 코로나 등으로 인한 서민과 기업의 불만도 완화할 필요\r\n\r\n- [시사점] 중국의 정책규제 완화가 단기 경제성장을 촉진하면서 글로벌 공급망 안정 등에도 기여할 전망. 그러나, 불균형 해소 및 산업구조 개선 등이 지연되는 데다 친환경 정책 퇴보 등이 선진국과의 갈등을 격화시키는 요인으로 작용할 가능성. \r\n · (경제성장 기여) 중국 경제의 성장세 둔화를 우려하는 목소리가 큰 상황에서 각종 정책규제 완화는 경기 하방압력을 완화하고 산업생산도 확대시킬 것으로 기대\r\n · (불균형 심화) 장기 목표로 제시한 공동부유의 성과가 지연되고 불균형 성장이 고착화되면서 향후 정치·경제의 잠재적 불안요인으로 작용할 우려. 부실기업 지원 등으로 한계기업 퇴출이 지연되면서 구조개혁 차질도 발생\r\n  ·(대외갈등 빌미) 친환경 정책의 큰 틀이 변화하지는 않겠지만, 중국과 주요국의 탄소중립 협력 약화는 서방의 반발과 함께 反中 감정을 자극할 가능성",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162813",
-          "publishedOn": "2022-03-02T12:01:47.939Z",
+          "publishedOn": "2022-03-02T15:02:01.724Z",
           "wordCount": 703,
           "title": "중국의 정책규제 완화 움직임 및 시사점",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162811",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162816",
           "author": null,
-          "description": "포스코경영연구소가 『마케팅 대전환기, 위기와 기회』를 발표하였다.\r\n\r\n- 마케팅은 최근 몇 년 동안 훨씬 더 데이터 중심적이고 실시간을 중시하는 방향으로 급변하였음. 현재 AI ？ IoT ？ 블록체인 등 엄청난 속도로 발전하는 기술과 전례 없는 팬데믹으로 소비자를 둘러싼 환경이 격변함에 따라 마케팅 역할에 대한 변화 요구가 강하게 일어나고 있음. 패러다임이 변하는 시기에 기업의 확고한 영역을 구축하기 위해서는 마케팅이 비즈니스를 성장시키는 역할을 주도적으로 해야 함.\r\n\r\n- 격변하는 기술이 일상에 큰 변화를 가져옴에 따라 마케팅에서도 상상하지 못했던 영역까지 새로운 기회가 열림. 인공지능(AI)은 마케팅의 모든 단계를 더욱 정교화하였으며, 개인 고객별로 맞춤형 대응이 가능하도록 함. 머신러닝은 복잡한 예측과 의사결정을 위해 방대한 양의 데이터를 사용하여 이미지 인식, 문자 해독, 고객 분류 등을 함으로써 고객들이 마케팅 프로모션이나 자극에 어떻게 반응할지 예측할 수 있음. 가상현실(Virtual Reality) 기술은 소비자들에게 새로운 경험을 제공함으로써 기존과 다른 마케팅 기회를 창출하는데, 가상현실 기술을 통하여 고객들은 브랜드 경험의 영역에서 비용이나 공간, 이동 거리의 제약 없이 새로운 체험을 할 수 있음. 증강현실(Augmented Reality)은 실제와 가상의 경계를 불분명하게 하여 고객들에게 오프라인 경험을 보다 풍성하게 제공하는데, 스마트폰을 통해서 쉽게 접할 수 있고, 오프라인 매장과 연계하여 체험마케팅 등을 진행할 수 있음. 블록체인 기술은 디지털 시대에 거래의 검증이나 증명 등과 같이 투명성과 정확성이 요구되는 마케팅 분야에서 활용될 기회가 열려 있음.\r\n\r\n- 새로운 자극들과 변화가 많아진 환경에서 소비자들은 오히려 진정성 있고 신뢰할 수 있는 브랜드에 대한 높은 충성도를 보임. 소비자의 충성도(loyalty)는 소비자 마음속에 자리잡은 브랜드가 있다는 의미로, 시대가 변하여도 고객의 충성도를 이끌어 내는 일은 기업에게 매우 중요함. 사회와 환경에 대한 기여를 하면서 기업의 본업을 성장시키는 브랜드에 소비자들은 변하지 않는 신뢰를 보낼 것이며, 기업은 이러한 신뢰와 친밀감을 기반한 소통을 통해 격변하는 환경 속에서도 브랜드의 가치를 공고히 하고 고객과 궁극의 관계를 이끌어 낼 수 있을 것임.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162811",
-          "publishedOn": "2022-03-02T12:01:47.928Z",
+          "description": "농업은 여러 산업 부문 중에서 기후변화 영향이 가장 큰 분야에 속한다. 특히 기후변화와 그에 따른 기상이변은 농업생산에 절대적인 영향을 미친다. 또한 농업은 기후변화 적응의 효과성이 가장 높은 분야이기도 하다. 따라서 농업은 기후변화 적응이 적합성과 필요성 모두 높고 기후변화 적응 주류화가 필수적인 분야이다.\r\n다만 현재 우리나라 농업부문의 경우 기후변화 적응 주류화를 위한 정책기반이 부족하고 농업부문 기후변화 적응 주류화 관련 현황과 여건, 실현요인 및 장애요인을 분석하고 그에 따른 개선방안을 통한 제도개선 노력이 ...",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162816",
+          "publishedOn": "2022-03-02T15:02:01.694Z",
           "wordCount": 703,
-          "title": "마케팅 대전환기, 위기와 기회",
+          "title": "농업부문 기후변화 적응 주류화를 위한 정책 과제",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162810",
+          "author": null,
+          "description": "한국금융연구원이 「최근 인플레이션 동향과 정책적 시사점」을 발표하였다.\r\n\r\n- 최근 수입물가 및 생산자물가가 높은 상승률을 이어가는 가운데 새해를 전후하여 그동안 누적된 비용상승 압력을 가격에 전가시키는 등 가격 상승세가 빠르게 확산되고 있다는 점 등을 고려할 때 올해 소비자물가는 당초 전망보다 상당폭 높은 수준에서 움직일 것으로 예상됨. 이에 따라 금리인상, 민간부채의 적정수준 유지 등을 통해 인플레이션 확산을 방지하고 그 부작용을 완화하기 위한 정책대응 기조를 일관성 있게 유지해 나가야 할 것으로 판단됨.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162810",
+          "publishedOn": "2022-03-02T15:02:01.685Z",
+          "wordCount": 703,
+          "title": "최근 인플레이션 동향과 정책적 시사점",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162790",
+          "author": null,
+          "description": "서울연구원이 『서울시 공공건축물 에너지소비 관리방향』을 발표하였다.\r\n\r\n- 서울시, 공공건축물 신축시 설계기준 강화…사용단계 관리체계는 미흡\r\n\r\n- 공공건축물 에너지관리 담당 전담부서 없이 그린리모델링사업 추진도 문제",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162790",
+          "publishedOn": "2022-03-02T15:02:01.663Z",
+          "wordCount": 703,
+          "title": "서울시 공공건축물 에너지소비 관리방향",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162791",
+          "author": null,
+          "description": "한국수출입은행이 『수출 기업 해외 공급망 현황 및 영향 조사』를 발표하였다.\r\n\r\n<목 차>\r\n \r\n1. 수출기업의 해외 공급망 활용 현황 \r\n2. ‘21년도 공급망 악화에 따른 수출 영향 \r\n3. ‘22년도 공급망 악화에 따른 영향 전망 \r\n4. 해외 공급망 문제 대응 방안 \r\n5. 시사점",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162791",
+          "publishedOn": "2022-03-02T15:02:01.653Z",
+          "wordCount": 703,
+          "title": "수출 기업 해외 공급망 현황 및 영향 조사",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162812",
+          "author": null,
+          "description": "한국금융연구원이 「스테이블코인의 영향과 규제 필요성」을 발표하였다.\r\n\r\n- 準화폐적 스테이블코인은 지급결제, 통화정책 등 금융전반에 큰 영향을 미칠 전망이나 규제차익 발생 및 소비자보호 미흡이 우려되는 등 규제의 틀은 아직 미비한 상황임. 향후 주요국에서 스테이블코인에 대한 규제체계 구축이 가시화될 것으로 예상되는 바, 우리나라도 경제 및 금융부문에 미칠 영향을 면밀히 분석·검토하여 바람직한 규제 방향을 정립할 필요가 있음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162812",
+          "publishedOn": "2022-03-02T15:02:01.630Z",
+          "wordCount": 703,
+          "title": "스테이블코인의 영향과 규제 필요성",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162783",
+          "author": null,
+          "description": "국제금융센터가 ‘주간이슈(2.28) : 러시아의 우크라이나 행보 및 서방의 대응에 주목’을 발표하였다.\r\n\r\n- 러시아의 우크라이나 행보 및 서방의 대응에 주목. 바이든 2022 국정연설도 관심 \r\n\r\n- 미국 2월 고용지표 발표. 주요국 2월 제조업지수 및 유로존 2월 CPI도 관심 \r\n\r\n- 파월 의회 반기통화정책 청문회 출석. 파월 등 5명의 연준 지명자 인준표결 재추진 \r\n\r\n- 중국 양회 개막. 금년 경제운영 등 청사진을 가늠   \r\n\r\n- 인도·브라질·캐나다·호주의 4Q GDP 발표. 한국은 수정치 발표  \r\n\r\n- OPEC+ 회의 개최. 우크라이나 사태 불구 현 생산수준 유지 가능성",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162783",
+          "publishedOn": "2022-03-02T15:02:01.621Z",
+          "wordCount": 703,
+          "title": "주간이슈(2.28) : 러시아의 우크라이나 행보 및 서방의 대응에 주목",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162786",
+          "author": null,
+          "description": "한국금융연구원이 「기술기업의 은행 소유·운영에 따른 편익 및 리스크와 정책방안」을 발표하였다.\r\n\r\n- 최근 BIS의 보고서는 기술기업이 은행을 소유·운영할 시 발생하는 편익과 리스크를 분석하고 이에 따른 정책방안을 제시함. 기술기업은 기술력, 편의성, 데이터, 금융포용, 경쟁촉진 측면에서 장점이 있지만 이해상충, 경제력 집중 및 반경쟁적 행위, 전이 및 시스템리스크, 통합감독 애로 등의 리스크를 야기할 수 있음. 따라서 이러한 편익을 장려하는 가운데 리스크를 완화하기 위한 규제·감독 정책을 수립할 필요가 있음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000162786",
+          "publishedOn": "2022-03-02T15:02:01.610Z",
+          "wordCount": 703,
+          "title": "기술기업의 은행 소유·운영에 따른 편익 및 리스크와 정책방안",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         }
       ]
