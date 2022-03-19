@@ -541,7 +541,7 @@
           "description": "Does compulsory religious education make us more likely to believe as adults, and does it make us more ethical? Ludger Woessmann, Larissa Zierow, and Benjamin Arold explain to Tim Phillips what educational reform in Germany can tell us.",
           "link": "https://voxeu.org/vox-talks/do-schools-change-our-religious-attitudes",
           "publishedOn": "2022-03-18T00:00:00.000Z",
-          "wordCount": 586,
+          "wordCount": null,
           "title": "Do schools change our religious attitudes?",
           "imageUrl": null
         },
@@ -551,7 +551,7 @@
           "description": "The COVID-19 pandemic has coincided with a further rapid increase in corporate indebtedness. This column argues that high levels of corporate debt may distort the transmission of monetary policy and make contractionary monetary policy less effective in controlling inflation. Consequently, the trade-off between inflation stabilisation and output stabilisation becomes more problematic when there is a large volume of corporate debt in the economy.",
           "link": "https://voxeu.org/article/corporate-legacy-debt-inflation-and-efficacy-monetary-policy",
           "publishedOn": "2022-03-18T00:00:00.000Z",
-          "wordCount": 3173,
+          "wordCount": null,
           "title": "Corporate legacy debt, inflation, and the efficacy of monetary policy",
           "imageUrl": null
         },
@@ -561,7 +561,7 @@
           "description": "There is ongoing debate over how to judge a company's performance beyond profits alone. This column devises a way of accounting for who benefits from a company's value creation and why. The authors identify eight pathways through which economic value from corporations flows to households and the economy, and how these have evolved over the past 25 years. The analysis also suggests a growing disparity between types of companies in terms of their impacts on the eight pathways.",
           "link": "https://voxeu.org/article/accounting-companies-value-creation-and-societal-impact",
           "publishedOn": "2022-03-18T00:00:00.000Z",
-          "wordCount": 3004,
+          "wordCount": null,
           "title": "Accounting for companies' value creation and societal impact",
           "imageUrl": null
         },
@@ -767,103 +767,13 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/internationalList.do",
       "articles": [
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163582",
-          "author": null,
-          "description": "How has globalization affected the relative taxation of labor and capital, and why? To address this question, this paper builds and analyzes a new database of effective macroeconomic tax rates covering 150 countries since 1965, constructed by combining national accounts data with government revenue statistics. Four main findings are obtained. (1) The effective tax rates on labor and capital have converged globally since the 1960s, due to a 10 percentage-point increase in labor taxation and a 5 percentage-point decline in capital taxation. (2) The decline in capital taxation is concentrated in high-income countries. By contrast, capital taxation has increased in developing countries since the 1990s, albeit from a low base. (3) Consistently across a variety of research designs, the findings show that the rise in capital taxation in developing countries can be explained by a tax capacity effect of international trade: trade openness leads to a concentration of economic activity in formal corporate structures, where capital taxes are easier to impose. (4) At the same time, international economic integration reduces statutory tax rates, due to increased tax competition. In high-income countries, this negative tax competition effect of trade has dominated, while in developing countries, the positive tax-capacity effect of international trade appears to have prevailed.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163582",
-          "publishedOn": "2022-03-19T12:01:34.415Z",
-          "wordCount": 613,
-          "title": "Globalization and Factor Income Taxation",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163578",
-          "author": null,
-          "description": "We study tournaments where winning a rank-dependent prize requires passing a reserve - a minimum performance standard. Agents‘ performance is determined by effort and noise. For log-concave noise distributions the optimal reserve is at the modal performance, and the optimal prize scheme is winner-take-all. In contrast, for log-convex noise distributions the optimal reserve is at the lower bound of the distribution of performance, which is passed with probability one in equilibrium, and it is optimal to award equal prizes to all qualifying agents. These pay schemes are optimal in a general class of symmetric monotone contracts that may depend on cardinal performance.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163578",
-          "publishedOn": "2022-03-19T12:01:34.276Z",
-          "wordCount": 613,
-          "title": "Tournaments with Reserve Performance",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163626",
-          "author": null,
-          "description": "The FRED Blog has used the yearly Current Population Survey conducted by the U.S. Census Bureau to illustrate measures of inequality and highlight the difference between households and families. (A household includes all people living in a housing unit; a family includes only those related by marriage, blood, or adoption.) This post compares inequality for both household and family incomes across racial and ethnic groups. The FRED graph above describes household inequality with something called the Gini ratio. This Gini ratio is a statistical measure of how unequal incomes are within a group. A value of 1 indicates absolute inequality, where one household earns all the income and the rest of them earn nothing. A value of 0 indicates absolute equality, where all households earn the same income. The data show very similar degrees of income inequality for Asian, White, and Hispanic households. Black households consistently record higher income inequality than all other racial and ethnic groups. That means that the inequality between the high-earning Black households and the low-earning Black households is more pronounced than between the high-earning and low-earning households in the other population groups.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163626",
-          "publishedOn": "2022-03-19T12:01:34.229Z",
-          "wordCount": 613,
-          "title": "Income inequality across racial groups and the Gini ratio",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163587",
-          "author": null,
-          "description": "Do girls and boys report different feelings during teaching and learning for creativity and critical thinking? This document highlights differences between the emotions reported by male and female secondary students in a project about fostering creativity and critical thinking run by the Centre for Educational Research and Innovation at the OECD. We explore data from 10 271 secondary school students in 184 schools in 9 countries and draw implications for classroom and system level attempts to embed creativity and critical thinking in education. The emotions associated with learning can lead to different experiences and perceptions of creativity and critical thinking and affect students’ skills development. The information provided here aims to help educators provide more customised support to boys and girls navigating different emotional experiences, and so support equitable outcomes when developing creativity and critical thinking.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163587",
-          "publishedOn": "2022-03-19T12:01:34.196Z",
-          "wordCount": 613,
-          "title": "How do girls and boys feel when developing creativity and critical thinking?: Lessons for gender equity",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163593",
-          "author": null,
-          "description": "This publication explores lessons from case studies on the governance of public？private partnerships (PPPs) in the water and sanitation sector in Asia and the Pacific. It aims to support governments and private practitioners in meeting the challenge of providing universal access to water and sanitation in the region‘s fast-growing cities. The report suggests three key areas for action. First, governments can establish a water governance framework supported by capable public institutions, a buoyant revenue regime, and transparent targeted subsidies. Second, they can develop the enabling environment through a sector-specific PPP strategy, rigorous project preparation, and a sound fiscal framework. Third, they can embed transaction design that incorporates bankability, balanced risk allocation, efficient and competitive procurement, and clear performance metrics linked to payment.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163593",
-          "publishedOn": "2022-03-19T12:01:33.947Z",
-          "wordCount": 613,
-          "title": "A Governance Approach to Urban Water Public？Private Partnerships: Case Studies and Lessons from Asia and the Pacific",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
           "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163579",
           "author": null,
           "description": "A buyer wants to purchase an innovative good from a seller. Both parties are risk-neutral, and payments from the buyer to the seller must be non-negative. After the contract is signed, the seller privately observes a signal, which may be informative about the seller‘s costs. We compare two contracting regimes. In the case of specific performance, the courts enforce the trade level specified in the contract. In the case of at-will contracting, the seller is free to walk away from the contract after the signal has been realized. While the buyer prefers specific performance and the seller prefers at-will contracting, the optimal regime from an economic efficiency point-of-view depends on the informativeness of the signal.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163579",
-          "publishedOn": "2022-03-19T12:01:33.939Z",
+          "publishedOn": "2022-03-19T15:01:45.266Z",
           "wordCount": 613,
           "title": "How (Not) to Purchase Novel Goods and Services: Specific Performance Versus At-Will Contracts",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163586",
-          "author": null,
-          "description": "Cyber attacks can impair banks operations and precipitate bank runs. When digital infrastructure is shared, banks defend themselves by investing in cybersecurity but can free-ride on the security measures of others. Ex ante free-riding by banks interacts with the ex post coordination frictions underpinning bank runs. While the temptation to free-ride induces underinvestment in cybersecurity, the prospect of a run encourages greater investment. System-wide cybersecurity is suboptimal and sensitive to rollover risk and bank heterogeneity. Regulatory measures, including negligence rules, liquidity regulation and cyber hygiene notices, facilitate constrained efficient cybersecurity investment. We suggest testable hypotheses to inform empirical work in this area.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163586",
-          "publishedOn": "2022-03-19T12:01:33.909Z",
-          "wordCount": 613,
-          "title": "Cybersecurity and financial stabilityDiscussion paper 08/2022: Kartik Anand, Chanelle Duley, Prasanna Gai",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163591",
-          "author": null,
-          "description": "Growth in Average Weekly Earnings including bonuses (AWE) was 4.8 per cent in the 3 months to January 2022, stronger than the 4.0 per cent that we predicted in February. We now forecast private-sector AWE to increase from 5.1 per cent in the 3 months to December 2021 to 7.5 per cent in the first quarter of 2022. We continue to expect public-sector AWE growth to stabilise between 2 ½ and 3 per cent until the first quarter of 2022 due to the current policy of moderation in public-sector pay.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163591",
-          "publishedOn": "2022-03-19T12:01:33.892Z",
-          "wordCount": 613,
-          "title": "Real income squeeze gets tighter",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163572",
-          "author": null,
-          "description": "Moving labor from agriculture to manufacturing - “industrialization” - is often viewed as essential for the development of poor countries. We present new evidence on the channels through which industrialization can help poor countries close the productivity gap with rich countries. To achieve this, we leverage recent data releases by the Groningen Growth and Development Centre and build a new dataset of comparable labor productivity levels in agriculture and manufacturing for 64 mostly poor countries during 1990？2018. We find two key results: (i) cross-country labor productivity gaps in manufacturing are larger than in the aggregate and (ii) there is no tendency for manufacturing labor productivity to converge. While these results challenge the notion that expanding manufacturing employment is essential for the development of today’s poor countries, we also find that higher labor productivity growth in manufacturing is associated with higher labor productivity growth in the aggregate and in several key sectors.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163572",
-          "publishedOn": "2022-03-19T12:01:33.859Z",
-          "wordCount": 613,
-          "title": "New Evidence on Sectoral Labor Productivity: Implications for Industrialization and Development",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163569",
-          "author": null,
-          "description": "U.S. stock volatility is 33 percent lower during wartime and periods of conflict. This is true even for World Wars I and II, which would seemingly increase uncertainty. In a seminal paper, Schwert (1989) identified the “war puzzle” as one of the most surprising facts from two centuries of stock volatility data. We propose an explanation for the puzzle: the profits of firms become easier to forecast during wartime due to massive government spending. We test this hypothesis using newly-constructed data on more than 100 years of defense spending. The aggregate analysis finds that defense spending reduces stock volatility. The sector level regressions show that defense spending predicts lower stock volatility for firms that produce military goods. Finally, an event-study demonstrates that earnings forecasts of defense firms by equity analysts become significantly less disperse after 9/11 and the invasions of Afghanistan (2001) and Iraq (2003).",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163569",
-          "publishedOn": "2022-03-19T12:01:33.842Z",
-          "wordCount": 613,
-          "title": "Stock Volatility and the War Puzzle",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -871,69 +781,29 @@
           "author": null,
           "description": "For a large set of countries, we document how the labor earnings inequality varies with GDP per capita. As countries get richer, the mean-to-median ratio and the Gini coefficient decline. Yet, this decline masks divergent patterns: while inequality at the top of the earnings distribution falls, inequality at the bottom increases. We interpret these facts within a model economy with heterogeneous workers and firms, featuring industry dynamics, search and matching frictions, and skill accumulation of workers through learning-by-doing and on-the-job training. The benchmark economy is calibrated to the UK. We then study how the earnings distribution changes with distortions that penalize high-productivity firms and frictions that reduce match formation.  Distortions and frictions reduce employment, average firm size, and GDP per capita. They also affect how much firms are willing to pay workers, how well high-skill workers are matched with high-productivity firms, and how much training workers receive. The model generates the observed cross-country relation between GDP per capita and earnings inequality, as well as a host of cross-country facts on firm size distribution, firms‘ training decisions, and workers‘ life-cycle and job tenure earnings profiles.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163577",
-          "publishedOn": "2022-03-19T12:01:33.815Z",
+          "publishedOn": "2022-03-19T15:01:45.239Z",
           "wordCount": 613,
           "title": "Misallocation and Inequality",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163573",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163578",
           "author": null,
-          "description": "This paper considers extensions of 2-dimensional factor models to higher-dimension data that can be represented as tensors. I describe decompositions of tensors that generalize the standard matrix singular value decomposition and principal component analysis to higher dimensions. I estimate the model using a 3-dimensional data set consisting of 25 characteristics of 1,342 mutual funds observed over 34 quarters. The tensor factor models reduce the data dimensionality by 97% while capturing 93% of the variation of the data. I relate higher-dimensional tensor models to standard 2-dimensional models and show that the components of the model have clear economic interpretations.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163573",
-          "publishedOn": "2022-03-19T12:01:33.797Z",
+          "description": "We study tournaments where winning a rank-dependent prize requires passing a reserve - a minimum performance standard. Agents‘ performance is determined by effort and noise. For log-concave noise distributions the optimal reserve is at the modal performance, and the optimal prize scheme is winner-take-all. In contrast, for log-convex noise distributions the optimal reserve is at the lower bound of the distribution of performance, which is passed with probability one in equilibrium, and it is optimal to award equal prizes to all qualifying agents. These pay schemes are optimal in a general class of symmetric monotone contracts that may depend on cardinal performance.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163578",
+          "publishedOn": "2022-03-19T15:01:45.216Z",
           "wordCount": 613,
-          "title": "High Dimensional Factor Models with an Application to Mutual Fund Characteristics",
+          "title": "Tournaments with Reserve Performance",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163575",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163572",
           "author": null,
-          "description": "An institutional perspective emphasizes the fact that behaviour is shaped by rules that humans superimpose on their economic environment. In the context of the family, such rules govern vital processes such as family formation, dissolution, and inter-generational property transmission. Here we outline such a perspective, showing that it has important implications for policy and represents a relatively under-explored area of research in the economics of the family. We first document the extensive and systematic variation in family rules that exists both contemporaneously and historically. We then show that understanding this variation is important, yet under-appreciated, by drawing together a broad range of research that studies the far reaching consequences of family rules. We proceed with a structured review of existing research that attempts to understand the origins of various family rules. The institutional perspective makes clear that much important and exciting work remains to be done in terms of understanding the origin of the rules that govern family-related behaviour.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163575",
-          "publishedOn": "2022-03-19T12:01:33.788Z",
+          "description": "Moving labor from agriculture to manufacturing - “industrialization” - is often viewed as essential for the development of poor countries. We present new evidence on the channels through which industrialization can help poor countries close the productivity gap with rich countries. To achieve this, we leverage recent data releases by the Groningen Growth and Development Centre and build a new dataset of comparable labor productivity levels in agriculture and manufacturing for 64 mostly poor countries during 1990？2018. We find two key results: (i) cross-country labor productivity gaps in manufacturing are larger than in the aggregate and (ii) there is no tendency for manufacturing labor productivity to converge. While these results challenge the notion that expanding manufacturing employment is essential for the development of today’s poor countries, we also find that higher labor productivity growth in manufacturing is associated with higher labor productivity growth in the aggregate and in several key sectors.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163572",
+          "publishedOn": "2022-03-19T15:01:44.628Z",
           "wordCount": 613,
-          "title": "An Institutional Perspective on the Economics of the Family",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163581",
-          "author": null,
-          "description": "We study the stock market effects of the arrival of the three rounds of “stimulus checks” to U.S. taxpayers and the single round of direct payments to Hong Kong citizens. The first two rounds of U.S. checks appear to have increased retail buying and share prices of retail-dominated portfolios. The Hong Kong payments increased overall market turnover and share prices in Hong Kong and mainland Chinese markets, especially in large-cap portfolios. We cannot rule out that these price effects were permanent. The findings raise novel questions about the role of fiscal stimulus in the stock market.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163581",
-          "publishedOn": "2022-03-19T12:01:33.780Z",
-          "wordCount": 613,
-          "title": "Stock Market Stimulus",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163592",
-          "author": null,
-          "description": "The next 30 years are pivotal for the future of the global climate. To have a fighting chance at limiting warming to 2°C, a threshold beyond which Earth may not be able to sustain human life, we need reductions in the range of 25 to 55 percent of cumulative global emissions by 2050. Potentially halving the world’s carbon output in thirty years requires innovation and mobilization on a scale greater than the most ambitious projects ever attempted, like harnessing the potential of atomic energy or landing humans on the moon. As the largest per capita emitter of CO2, the U.S. has a unique obligation and opportunity to lead the way through a transformative investment in clean energy research and development. The recent bipartisan infrastructure bill is a starting point, authorizing $65 billion for clean energy and grid investments and another $7.5 billion for a national network of electric vehicle charging stations.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163592",
-          "publishedOn": "2022-03-19T12:01:33.744Z",
-          "wordCount": 613,
-          "title": "Net-zero innovation hubs: 3 priorities to drive America’s clean energy future",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163583",
-          "author": null,
-          "description": "Public-private partnerships (PPPs) in infrastructure provision have expanded around the world since the early 1990s. Well-structured PPPs can unleash efficiency gains, but PPPs create liabilities for governments, including contingent ones. This paper assesses the fiscal risks from contingent liabilities from early termination of PPPs in a sample of developing countries. It analyzes the drivers of early termination and identifies systematic contractual, institutional, and macroeconomic factors that can help predict the probability that a PPP project will be terminated early, using a flexible parametric hazard regression. Using the probability distributions from the regression analysis, it simulates scenarios of fiscal risks for governments from early termination of PPPs in the electricity and transport sectors, adopting a value-at-risk approach. The findings indicate that the rate of early terminations decreases with direct government support, greater constraints on executive power, and the award of the PPP by subnational governments; it increases with project size and macro-financial shocks. The simulations show that fiscal risks from infrastructure PPP portfolios are not negligible in some countries, reaching as high as 2.8 percent of GDP. A severe macro-financial shock substantially increases the estimates, with the value at risk the year after the shock 11？20 times larger.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163583",
-          "publishedOn": "2022-03-19T12:01:33.708Z",
-          "wordCount": 613,
-          "title": "Fiscal Risks from Early Termination of Public-Private Partnerships in Infrastructure",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163574",
-          "author": null,
-          "description": "The human capital investment model with endogenous labor supply is generalized to consumer and health behaviors while retaining the tractability of comparative-static analysis of a single first-order condition. Accounting for the endogenous specialization responses is essential to properly distinguish supply and demand factors and to understand how the magnitude of their effects vary across time and circumstances. Even signing effects of policy interventions can hinge on the existence and extent of personal increasing returns. Applications include the gender gap in earnings, the dynamics of substance abuse, effects of taxes on human capital, the tradeoff between product quality and quantity, and unintended consequences of energy regulation. Metrics are provided for assessing the extent of personal increasing returns.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163574",
-          "publishedOn": "2022-03-19T12:01:33.698Z",
-          "wordCount": 613,
-          "title": "Personal Increasing Returns: Analytics and Applications",
+          "title": "New Evidence on Sectoral Labor Productivity: Implications for Industrialization and Development",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -941,7 +811,7 @@
           "author": null,
           "description": "A mixed-frequency semi-structural model is used for estimating unobservable quantities such as the output gap, the Phillips curve and the NAIRU in real time. We consider two specifications: in one the output gap is observed as the official CBO measure, in the other is unobserved and derived via minimal theory-based restrictions. We find that the CBO model implies a smoother trend output but the second model better captures the business cycle dynamics of nominal and real variables. The methodology offers both a framework for evaluating official estimates of unobserved quantities of economic interest and tracking them in real time.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163576",
-          "publishedOn": "2022-03-19T12:01:33.662Z",
+          "publishedOn": "2022-03-19T15:01:44.551Z",
           "wordCount": 613,
           "title": "Monitoring the Economy in Real Time: Trends and Gaps in Real Activity and Prices",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -951,9 +821,139 @@
           "author": null,
           "description": "We explore how consumption heterogeneity affects the international transmission mechanism of monetary shocks and the choice of optimal monetary policy in an open economy. Incorporating two types of agents (Ricardian versus Keynesian) into a standard open economy macro model, we find that there are sizeable ranges of household heterogeneity in which monetary policy become ineffective, but this depends sensitively on the interaction of aggregate demand and relative price effects. We derive the global optimal monetary policy with household heterogeneity under alternative pricing regimes. PPI targeting is still the optimal monetary policy under PCP and can restore the economy to the efficient equilibrium. Under LCP, however, the presence of consumption heterogeneity and currency misalignment implies that CPI inflation targeting is no longer optimal in most cases. Finally, we show that when fiscal instruments such as an import tax and export subsidy are introduced, both currency misalignment and consumption heterogeneity can be eliminated, and even under LCP, PPI targeting is the optimal monetary rule.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163571",
-          "publishedOn": "2022-03-19T12:01:33.653Z",
+          "publishedOn": "2022-03-19T15:01:44.543Z",
           "wordCount": 613,
           "title": "Consumption Heterogeneity and Monetary Policy in an Open Economy",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163573",
+          "author": null,
+          "description": "This paper considers extensions of 2-dimensional factor models to higher-dimension data that can be represented as tensors. I describe decompositions of tensors that generalize the standard matrix singular value decomposition and principal component analysis to higher dimensions. I estimate the model using a 3-dimensional data set consisting of 25 characteristics of 1,342 mutual funds observed over 34 quarters. The tensor factor models reduce the data dimensionality by 97% while capturing 93% of the variation of the data. I relate higher-dimensional tensor models to standard 2-dimensional models and show that the components of the model have clear economic interpretations.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163573",
+          "publishedOn": "2022-03-19T15:01:44.525Z",
+          "wordCount": 613,
+          "title": "High Dimensional Factor Models with an Application to Mutual Fund Characteristics",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163581",
+          "author": null,
+          "description": "We study the stock market effects of the arrival of the three rounds of “stimulus checks” to U.S. taxpayers and the single round of direct payments to Hong Kong citizens. The first two rounds of U.S. checks appear to have increased retail buying and share prices of retail-dominated portfolios. The Hong Kong payments increased overall market turnover and share prices in Hong Kong and mainland Chinese markets, especially in large-cap portfolios. We cannot rule out that these price effects were permanent. The findings raise novel questions about the role of fiscal stimulus in the stock market.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163581",
+          "publishedOn": "2022-03-19T15:01:44.517Z",
+          "wordCount": 613,
+          "title": "Stock Market Stimulus",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163569",
+          "author": null,
+          "description": "U.S. stock volatility is 33 percent lower during wartime and periods of conflict. This is true even for World Wars I and II, which would seemingly increase uncertainty. In a seminal paper, Schwert (1989) identified the “war puzzle” as one of the most surprising facts from two centuries of stock volatility data. We propose an explanation for the puzzle: the profits of firms become easier to forecast during wartime due to massive government spending. We test this hypothesis using newly-constructed data on more than 100 years of defense spending. The aggregate analysis finds that defense spending reduces stock volatility. The sector level regressions show that defense spending predicts lower stock volatility for firms that produce military goods. Finally, an event-study demonstrates that earnings forecasts of defense firms by equity analysts become significantly less disperse after 9/11 and the invasions of Afghanistan (2001) and Iraq (2003).",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163569",
+          "publishedOn": "2022-03-19T15:01:44.483Z",
+          "wordCount": 613,
+          "title": "Stock Volatility and the War Puzzle",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163587",
+          "author": null,
+          "description": "Do girls and boys report different feelings during teaching and learning for creativity and critical thinking? This document highlights differences between the emotions reported by male and female secondary students in a project about fostering creativity and critical thinking run by the Centre for Educational Research and Innovation at the OECD. We explore data from 10 271 secondary school students in 184 schools in 9 countries and draw implications for classroom and system level attempts to embed creativity and critical thinking in education. The emotions associated with learning can lead to different experiences and perceptions of creativity and critical thinking and affect students’ skills development. The information provided here aims to help educators provide more customised support to boys and girls navigating different emotional experiences, and so support equitable outcomes when developing creativity and critical thinking.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163587",
+          "publishedOn": "2022-03-19T15:01:44.450Z",
+          "wordCount": 613,
+          "title": "How do girls and boys feel when developing creativity and critical thinking?: Lessons for gender equity",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163574",
+          "author": null,
+          "description": "The human capital investment model with endogenous labor supply is generalized to consumer and health behaviors while retaining the tractability of comparative-static analysis of a single first-order condition. Accounting for the endogenous specialization responses is essential to properly distinguish supply and demand factors and to understand how the magnitude of their effects vary across time and circumstances. Even signing effects of policy interventions can hinge on the existence and extent of personal increasing returns. Applications include the gender gap in earnings, the dynamics of substance abuse, effects of taxes on human capital, the tradeoff between product quality and quantity, and unintended consequences of energy regulation. Metrics are provided for assessing the extent of personal increasing returns.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163574",
+          "publishedOn": "2022-03-19T15:01:44.441Z",
+          "wordCount": 613,
+          "title": "Personal Increasing Returns: Analytics and Applications",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163575",
+          "author": null,
+          "description": "An institutional perspective emphasizes the fact that behaviour is shaped by rules that humans superimpose on their economic environment. In the context of the family, such rules govern vital processes such as family formation, dissolution, and inter-generational property transmission. Here we outline such a perspective, showing that it has important implications for policy and represents a relatively under-explored area of research in the economics of the family. We first document the extensive and systematic variation in family rules that exists both contemporaneously and historically. We then show that understanding this variation is important, yet under-appreciated, by drawing together a broad range of research that studies the far reaching consequences of family rules. We proceed with a structured review of existing research that attempts to understand the origins of various family rules. The institutional perspective makes clear that much important and exciting work remains to be done in terms of understanding the origin of the rules that govern family-related behaviour.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163575",
+          "publishedOn": "2022-03-19T15:01:44.433Z",
+          "wordCount": 613,
+          "title": "An Institutional Perspective on the Economics of the Family",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163583",
+          "author": null,
+          "description": "Public-private partnerships (PPPs) in infrastructure provision have expanded around the world since the early 1990s. Well-structured PPPs can unleash efficiency gains, but PPPs create liabilities for governments, including contingent ones. This paper assesses the fiscal risks from contingent liabilities from early termination of PPPs in a sample of developing countries. It analyzes the drivers of early termination and identifies systematic contractual, institutional, and macroeconomic factors that can help predict the probability that a PPP project will be terminated early, using a flexible parametric hazard regression. Using the probability distributions from the regression analysis, it simulates scenarios of fiscal risks for governments from early termination of PPPs in the electricity and transport sectors, adopting a value-at-risk approach. The findings indicate that the rate of early terminations decreases with direct government support, greater constraints on executive power, and the award of the PPP by subnational governments; it increases with project size and macro-financial shocks. The simulations show that fiscal risks from infrastructure PPP portfolios are not negligible in some countries, reaching as high as 2.8 percent of GDP. A severe macro-financial shock substantially increases the estimates, with the value at risk the year after the shock 11？20 times larger.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163583",
+          "publishedOn": "2022-03-19T15:01:44.395Z",
+          "wordCount": 613,
+          "title": "Fiscal Risks from Early Termination of Public-Private Partnerships in Infrastructure",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163592",
+          "author": null,
+          "description": "The next 30 years are pivotal for the future of the global climate. To have a fighting chance at limiting warming to 2°C, a threshold beyond which Earth may not be able to sustain human life, we need reductions in the range of 25 to 55 percent of cumulative global emissions by 2050. Potentially halving the world’s carbon output in thirty years requires innovation and mobilization on a scale greater than the most ambitious projects ever attempted, like harnessing the potential of atomic energy or landing humans on the moon. As the largest per capita emitter of CO2, the U.S. has a unique obligation and opportunity to lead the way through a transformative investment in clean energy research and development. The recent bipartisan infrastructure bill is a starting point, authorizing $65 billion for clean energy and grid investments and another $7.5 billion for a national network of electric vehicle charging stations.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163592",
+          "publishedOn": "2022-03-19T15:01:44.386Z",
+          "wordCount": 613,
+          "title": "Net-zero innovation hubs: 3 priorities to drive America’s clean energy future",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163593",
+          "author": null,
+          "description": "This publication explores lessons from case studies on the governance of public？private partnerships (PPPs) in the water and sanitation sector in Asia and the Pacific. It aims to support governments and private practitioners in meeting the challenge of providing universal access to water and sanitation in the region‘s fast-growing cities. The report suggests three key areas for action. First, governments can establish a water governance framework supported by capable public institutions, a buoyant revenue regime, and transparent targeted subsidies. Second, they can develop the enabling environment through a sector-specific PPP strategy, rigorous project preparation, and a sound fiscal framework. Third, they can embed transaction design that incorporates bankability, balanced risk allocation, efficient and competitive procurement, and clear performance metrics linked to payment.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163593",
+          "publishedOn": "2022-03-19T15:01:44.376Z",
+          "wordCount": 613,
+          "title": "A Governance Approach to Urban Water Public？Private Partnerships: Case Studies and Lessons from Asia and the Pacific",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163586",
+          "author": null,
+          "description": "Cyber attacks can impair banks operations and precipitate bank runs. When digital infrastructure is shared, banks defend themselves by investing in cybersecurity but can free-ride on the security measures of others. Ex ante free-riding by banks interacts with the ex post coordination frictions underpinning bank runs. While the temptation to free-ride induces underinvestment in cybersecurity, the prospect of a run encourages greater investment. System-wide cybersecurity is suboptimal and sensitive to rollover risk and bank heterogeneity. Regulatory measures, including negligence rules, liquidity regulation and cyber hygiene notices, facilitate constrained efficient cybersecurity investment. We suggest testable hypotheses to inform empirical work in this area.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163586",
+          "publishedOn": "2022-03-19T15:01:44.366Z",
+          "wordCount": 613,
+          "title": "Cybersecurity and financial stabilityDiscussion paper 08/2022: Kartik Anand, Chanelle Duley, Prasanna Gai",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163582",
+          "author": null,
+          "description": "How has globalization affected the relative taxation of labor and capital, and why? To address this question, this paper builds and analyzes a new database of effective macroeconomic tax rates covering 150 countries since 1965, constructed by combining national accounts data with government revenue statistics. Four main findings are obtained. (1) The effective tax rates on labor and capital have converged globally since the 1960s, due to a 10 percentage-point increase in labor taxation and a 5 percentage-point decline in capital taxation. (2) The decline in capital taxation is concentrated in high-income countries. By contrast, capital taxation has increased in developing countries since the 1990s, albeit from a low base. (3) Consistently across a variety of research designs, the findings show that the rise in capital taxation in developing countries can be explained by a tax capacity effect of international trade: trade openness leads to a concentration of economic activity in formal corporate structures, where capital taxes are easier to impose. (4) At the same time, international economic integration reduces statutory tax rates, due to increased tax competition. In high-income countries, this negative tax competition effect of trade has dominated, while in developing countries, the positive tax-capacity effect of international trade appears to have prevailed.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163582",
+          "publishedOn": "2022-03-19T15:01:44.336Z",
+          "wordCount": 613,
+          "title": "Globalization and Factor Income Taxation",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163626",
+          "author": null,
+          "description": "The FRED Blog has used the yearly Current Population Survey conducted by the U.S. Census Bureau to illustrate measures of inequality and highlight the difference between households and families. (A household includes all people living in a housing unit; a family includes only those related by marriage, blood, or adoption.) This post compares inequality for both household and family incomes across racial and ethnic groups. The FRED graph above describes household inequality with something called the Gini ratio. This Gini ratio is a statistical measure of how unequal incomes are within a group. A value of 1 indicates absolute inequality, where one household earns all the income and the rest of them earn nothing. A value of 0 indicates absolute equality, where all households earn the same income. The data show very similar degrees of income inequality for Asian, White, and Hispanic households. Black households consistently record higher income inequality than all other racial and ethnic groups. That means that the inequality between the high-earning Black households and the low-earning Black households is more pronounced than between the high-earning and low-earning households in the other population groups.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163626",
+          "publishedOn": "2022-03-19T15:01:44.327Z",
+          "wordCount": 613,
+          "title": "Income inequality across racial groups and the Gini ratio",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163591",
+          "author": null,
+          "description": "Growth in Average Weekly Earnings including bonuses (AWE) was 4.8 per cent in the 3 months to January 2022, stronger than the 4.0 per cent that we predicted in February. We now forecast private-sector AWE to increase from 5.1 per cent in the 3 months to December 2021 to 7.5 per cent in the first quarter of 2022. We continue to expect public-sector AWE growth to stabilise between 2 ½ and 3 per cent until the first quarter of 2022 due to the current policy of moderation in public-sector pay.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163591",
+          "publishedOn": "2022-03-19T15:01:44.295Z",
+          "wordCount": 613,
+          "title": "Real income squeeze gets tighter",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -961,7 +961,7 @@
           "author": null,
           "description": "Infrastructure is critical to economic development. When infrastructure companies are owned and operated by the government, however, they create significant sources of fiscal risk. These fiscal risks can be sizable, but they are often preventable with proper planning, risk assessment, and strict rules and procedures for corporate and fiscal governance. This paper examines fiscal risk stemming from state-owned enterprises (SOEs) in the infrastructure sector in a sample of 135 firms in 19 countries from an original database of SOE financials for 2009？18. The paper develops a typology of fiscal risks and their determinants, builds new measures of fiscal injections to SOEs, and documents them using the novel database. The results show that governments support SOEs through a remarkably wide range of fiscal instruments. The fiscal cost of supporting infrastructure SOEs is usually below 1 percent of gross domestic product. Support is more prevalent and frequent than previously thought. The findings show that fiscal risk stems not only from “tail risk,” but also from the everyday operation of infrastructure SOEs. The paper calculates the Altman Z” score (a measure of default risk) and shows that it can be used to forecast the need for fiscal injections in SOEs.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000163584",
-          "publishedOn": "2022-03-19T12:01:33.634Z",
+          "publishedOn": "2022-03-19T15:01:44.123Z",
           "wordCount": 613,
           "title": "Smoke and Mirrors : Infrastructure State-Owned Enterprises and Fiscal Risks",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -974,23 +974,33 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/domesticList.do",
       "articles": [
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163484",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163537",
           "author": null,
-          "description": "한국은행이 「최근 홍콩 주가지수 급락세 지속 배경 및 평가」를 발표하였다.\r\n\r\n- 최근 홍콩 증시가 하락세를 보이는 가운데 특히 H지수(HSCEI)의 급락세가 지속되는 모습(3.11일 ？2.7%, 3.14일 ？7.15%). 한국이나 중국본토 대비 낙폭이 상대적으로 훨씬 크며 금일 주가지수(종가기준 6,555.5)는 2008년 금융위기 이후 최저치를 기록\r\n\r\n- 최근 홍콩 H지수 급락세가 지속되는 것은 지정학적 리스크 등 대외적 요인과 대내적 요인이 복합적으로 작용한 데 주로 기인\r\n\r\n- 우크라이나 관련 지정학적 리스크와 미중 갈등 지속, 미 연준의 금리인상. 전망 등을 감안할 때 당분간 홍콩 H지수는 높은 변동성이 지속될 가능성. 특히 대외개방도가 높은 홍콩증시에서 중국 관련 주가지수의 하락이 본토보다 큰 폭으로 나타나고 있는 것은 향후 중국 경제에 대한 글로벌 투자자들의 시각이 이전보다 다소 부정적으로 변화된 것으로 평가. 한편 홍콩 H지수의 경우 국내에서 발행되는 ELS(Equity Linked Securities)의 준거자산으로 많이 활용되고 있으나 H지수 급락에 따른 영향은 제한적일 것으로 예상",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163484",
-          "publishedOn": "2022-03-19T12:01:33.981Z",
+          "description": "KDB미래전략연구소가 「최근 북한의 비료 수급 동향과 시사점」을 발표하였다.\r\n\r\n- 북한은 제8기 4차 노동당 전원회의에서 ‘농업발전 4대 요소 실현방안’을 제시하고 비료 등 농업 필수자재에 대한 투자 확대 계획을 발표\r\n\r\n- 비료 수급은 자체 생산역량이 부족하여 중국과 무역을 통해 부족량을 충당하였으나, 코로나19로 인한 국경봉쇄로 대내외 수급에 차질 발생\r\n\r\n- 식량 자급 목표 달성을 위해 비료 등 농업 필수 자재의 안정적인 수급이 필요하며, 농업 전반에 대한 지속적인 투자 필요",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163537",
+          "publishedOn": "2022-03-19T15:01:44.684Z",
           "wordCount": 871,
-          "title": "최근 홍콩 주가지수 급락세 지속 배경 및 평가",
+          "title": "최근 북한의 비료 수급 동향과 시사점",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163513",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163552",
           "author": null,
-          "description": "한국무역협회가 『2022년 양회를 통해 본 중국의 경제·산업 정책방향과 시사점』을 발표하였다.\r\n\r\n- 중국은 지난 1~2월 지방양회와 3월 전국 양회를 개최하여 2021년 경제성과를 되돌아보고 2022년 경제성장 목표와 정책 방향을 제시했음. 전국 31개 성시중 25개 지역에서 당초 제시했던 경제성장률 목표를 달성하였고, 절반에 가까운 14개 지역은 전국 평균 경제성장률(8.1%)을 상회하였음. 주요 해외 및 중국 연구기관은 중국의 2022년 경제성장률을 4% 후반에서 5% 초반으로 전망한 가운데, 중국 정부는 수요 위축, 공급 충격, 성장 둔화 등 3중고에 직면해 있는 상황에도 불구하고 ‘5.5%’(지방정부 평균은 6.3%) 성장이라는 도전적인 목표를 설정하였음.\r\n\r\n- 2022년 지방 및 전국 양회를 통해 발표된 정부업무보고 자료에 따르면, 2022년 중국의 경제·산업정책 키워드는 △안정적 성장, △강소기업 육성, △세금부담 완화, △질적 성장(고품질 발전), △쌍탄소(탄소피크 및 탄소중립) 시행, △지역 개발 등 6가지로 압축할 수 있음. 특히 전국 31개 성시 중 절반에 가까운 14개 성시에서 2022년의 최우선 과제로 안정적 성장을 채택하였음. 향후 안정적 성장을 달성하기 위해 투자 확대와 소비 촉진을 주요 수단으로 활용할 것으로 예상됨. 전정특신(전문화·정밀화·특성화·혁신) 강소기업 육성, 중소·영세 기업을 위한 세금부담 완화 등 기업 지원정책도 대폭 강화할 것으로 보임. 한편, 차세대 반도체, 인공지능 등 신산업을 육성하고 기존 제조업 공정의 스마트화를 촉진하는 등 산업구조 전환을 통한 고품질 발전을 실현하기 위해 다양한 정책수단을 동원할 전망임. 중국은 ‘2025년까지 탄소중립 정책 기반 조성, 2030년까지 탄소 배출 정점, 2060년까지 탄소중립 달성’라는 정책 로드맵을 제시한 가운데, 저탄소·청정에너지 산업 분야에서 비즈니스 기회가 확대될 것으로 예상됨. 베이징-텐진-허베이를 연결하는 ‘징진지(京津冀)’, 홍콩, 마카오, 광둥성을 연결하는 ‘웨이강아오다완취’ 등 거대 지역경제권 통합 개발 프로젝트와, ‘탈빈곤’을 넘어선 ‘농촌 진흥’, ‘식량안보’ 역시 중요 과제로 채택됐음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163513",
-          "publishedOn": "2022-03-19T12:01:33.964Z",
+          "description": "중소벤처기업연구원이 『포스트 코로나시대 재도전정책 발전방안』을 발표하였다.\r\n\r\n- 포스트 코로나시대 미증유의 경영 환경 및 여건 변화에서 폐업하고 한계기업으로 변하고 있는 기업들이 증가하고 있음. 어려운 기업들이 재도전 재도약하기 위해 효율적이고 혁신적인 지원정책을 수립하고 현 지원사업의 발전적 개선안을 도출, 제시하는 것이 본 연구의 목적\r\n\r\n- 연구범위로 재도전정책은 현재 중기부의 정의에 따르면 사업전환, 구조개선, 재창업 등과 관련된 정책이라고 할 수 있음. 본 연구에서는 위 3개의 분야 중에서 재창업과 관련된 정책으로 한정해 연구가 이루어짐. 우리나라에서는 아직 재창업에 대한 인식 부족과 재창업 관련 생태계가 선진국에 비해 덜 성숙된 면이 있음. 실패가 자산이 되어 재도전할 수 있는 문화 조성이 필요하며 코로나로 인해 많은 기업이 파산하거나 어려움에 처한 상황에서 재도전정책의 필요성이 제기됨.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163552",
+          "publishedOn": "2022-03-19T15:01:44.675Z",
           "wordCount": 871,
-          "title": "2022년 양회를 통해 본 중국의 경제·산업 정책방향과 시사점",
+          "title": "포스트 코로나시대 재도전정책 발전방안",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163557",
+          "author": null,
+          "description": "우리금융경영연구소가 『 AI와 빅데이터가 자산운용사의 경쟁력을 좌우 - 글로벌 자산운용사의 AI, 빅데이터 활용 사례와 시사점』을 발표하였다.\r\n\r\n- 글로벌 자산운용사들은 경쟁 심화, 규제 강화에 대응하여 AI, 빅데이터 관련 디지털 기술에 대한 투자를 확대\r\n\r\n- 디지털 기술 활용이 운용 수익률 제고, 매매주문 성과 개선 등에 효과적인 것으로 나타남에 따라 디지털 경쟁력이 향후 자산운용업의 판도를 좌우할 것으로 전망\r\n\r\n- 운용수수료 경쟁이 치열해지고 있는 국내 시장에서도 수익성 개선을 위해 자산운용사들이 디지털 기술 관련 투자를 적극 확대할 필요",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163557",
+          "publishedOn": "2022-03-19T15:01:44.656Z",
+          "wordCount": 871,
+          "title": "AI와 빅데이터가 자산운용사의 경쟁력을 좌우 - 글로벌 자산운용사의 AI, 빅데이터 활용 사례와 시사점",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -998,9 +1008,39 @@
           "author": null,
           "description": "우리금융경영연구소가 『우크라이나 사태 관련 변동성 지속 전망 - 3월 금융시장 브리프』를 발표하였다.\r\n\r\n- 3월 금융시장에서는 우크라이나 사태로 급락한 주가지수가 밸류에이션 부담 축소, 견조한 수출증가세를 바탕으로 완만하게 반등하는 가운데, 미 연준의 기준금리 인상 기대를 반영하여 국채금리와 달러화가 상승세를 이어갈 전망(다만, 지정학적 리스크에 대한 불확실성이 상존하여 시장 변동성은 높은 수준을 유지할 것으로 보임)\r\n\r\n- 한국은행은 우크라이나 사태의 전개 방향, 3차례 금리인상의 파급효과, 주택시장·가계대출 동향을 점검하면서 4월 14일 금통위에서 기준금리를 1.25%로 동결(3월에는 금리를 결정하는 금통위 미개최)",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163556",
-          "publishedOn": "2022-03-19T12:01:33.956Z",
+          "publishedOn": "2022-03-19T15:01:44.646Z",
           "wordCount": 871,
           "title": "우크라이나 사태 관련 변동성 지속 전망 - 3월 금융시장 브리프",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163540",
+          "author": null,
+          "description": "중소벤처기업연구원이 『테크노파크 기능 제고 및 활성화를 위한 중장기 전략과 과제』를 발표하였다.\r\n\r\n- 테크노파크 기능 제고 및 활성화를 위한 중장기 전략과 과제",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163540",
+          "publishedOn": "2022-03-19T15:01:44.637Z",
+          "wordCount": 871,
+          "title": "테크노파크 기능 제고 및 활성화를 위한 중장기 전략과 과제",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163542",
+          "author": null,
+          "description": "중소벤처기업연구원이 『산업부문별 혁신생태계 평가모형 및 혁신역량 지도 구축 - 바이오헬스산업-』을 발표하였다.\r\n\r\n- 본 연구에서는 생태계 관점에서 산업에 속한 이해관계자들 사이의 관계 속에서 문제점을 진단한 뒤 이에 맞는 정책적 대안을 모색할 수 있는 산업생태계 평가모형을 개발해 보고자 하였음. 산업생태계 관점에서의 평가모형이란 특정 산업의 원활한 혁신활동을 가능케 하는 참여자-인프라-제도적 환경 사이의 유기적 관련성을 포괄하는 개념적 틀을 의미함. 이러한 생태계 관점의 평가모형 구축을 시도해 볼 필요성은 빠른 기술변화와 대내외 환경변화로 발생하는 복잡한 문제들이 개별 요소에 대한 분석만으로 문제를 진단하고 그에 대한 정책적 대안을 발굴하기 쉽지 않은 현실과 관련이 있음.\r\n\r\n- 이에 본 연구에서는 먼저 산업을 생태계적 관점에서 진단하고 그에 기초해 필요한 정책대안을 발굴할 수 있는 평가모형을 개발한 뒤, 이 모형을 최근에 정책적 관심의 대상이 되는 신산업의 하나인 바이오헬스산업에 적용해 봄으로써 활용 가능성을 실제로 확인해 보고자 하였음. 산업생태계의 진단이 필요한 영역은 통상 아직 산업구조가 성숙하지 못했거나, 성숙했더라도 구조개선이 필요한 부문이 될 수 있으며, 이러한 부문은 대부분 창업기업 또는 중소기업이 활동의 중심이 됨으로써 정부지원이나 새로운 규제가 필요한 영역인 경우가 많음.  때문에 본 연구에서는 중소기업이 중심이 되는 산업 부문의 생태계를 전제로 이에 대한 평가모형을 설계하는 것에 주안점을 두었음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163542",
+          "publishedOn": "2022-03-19T15:01:44.608Z",
+          "wordCount": 871,
+          "title": "산업부문별 혁신생태계 평가모형 및 혁신역량 지도 구축 - 바이오헬스산업-",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163513",
+          "author": null,
+          "description": "한국무역협회가 『2022년 양회를 통해 본 중국의 경제·산업 정책방향과 시사점』을 발표하였다.\r\n\r\n- 중국은 지난 1~2월 지방양회와 3월 전국 양회를 개최하여 2021년 경제성과를 되돌아보고 2022년 경제성장 목표와 정책 방향을 제시했음. 전국 31개 성시중 25개 지역에서 당초 제시했던 경제성장률 목표를 달성하였고, 절반에 가까운 14개 지역은 전국 평균 경제성장률(8.1%)을 상회하였음. 주요 해외 및 중국 연구기관은 중국의 2022년 경제성장률을 4% 후반에서 5% 초반으로 전망한 가운데, 중국 정부는 수요 위축, 공급 충격, 성장 둔화 등 3중고에 직면해 있는 상황에도 불구하고 ‘5.5%’(지방정부 평균은 6.3%) 성장이라는 도전적인 목표를 설정하였음.\r\n\r\n- 2022년 지방 및 전국 양회를 통해 발표된 정부업무보고 자료에 따르면, 2022년 중국의 경제·산업정책 키워드는 △안정적 성장, △강소기업 육성, △세금부담 완화, △질적 성장(고품질 발전), △쌍탄소(탄소피크 및 탄소중립) 시행, △지역 개발 등 6가지로 압축할 수 있음. 특히 전국 31개 성시 중 절반에 가까운 14개 성시에서 2022년의 최우선 과제로 안정적 성장을 채택하였음. 향후 안정적 성장을 달성하기 위해 투자 확대와 소비 촉진을 주요 수단으로 활용할 것으로 예상됨. 전정특신(전문화·정밀화·특성화·혁신) 강소기업 육성, 중소·영세 기업을 위한 세금부담 완화 등 기업 지원정책도 대폭 강화할 것으로 보임. 한편, 차세대 반도체, 인공지능 등 신산업을 육성하고 기존 제조업 공정의 스마트화를 촉진하는 등 산업구조 전환을 통한 고품질 발전을 실현하기 위해 다양한 정책수단을 동원할 전망임. 중국은 ‘2025년까지 탄소중립 정책 기반 조성, 2030년까지 탄소 배출 정점, 2060년까지 탄소중립 달성’라는 정책 로드맵을 제시한 가운데, 저탄소·청정에너지 산업 분야에서 비즈니스 기회가 확대될 것으로 예상됨. 베이징-텐진-허베이를 연결하는 ‘징진지(京津冀)’, 홍콩, 마카오, 광둥성을 연결하는 ‘웨이강아오다완취’ 등 거대 지역경제권 통합 개발 프로젝트와, ‘탈빈곤’을 넘어선 ‘농촌 진흥’, ‘식량안보’ 역시 중요 과제로 채택됐음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163513",
+          "publishedOn": "2022-03-19T15:01:44.599Z",
+          "wordCount": 871,
+          "title": "2022년 양회를 통해 본 중국의 경제·산업 정책방향과 시사점",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1008,7 +1048,7 @@
           "author": null,
           "description": "KDB미래전략연구소가 「최근 소비자물가 동향 점검」을 발표하였다.\r\n\r\n- 국내 소비자물가지수는 원자재 가격 상승, 경제활동 정상화에 따른 수급 불일치 등 대내외 요인이 복합적으로 작용하며 상승폭이 확대\r\n\r\n- 물가불안 요인 지속으로 당분간 소비자물가 상승 압력은 유지될 것으로 예상",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163520",
-          "publishedOn": "2022-03-19T12:01:33.930Z",
+          "publishedOn": "2022-03-19T15:01:44.582Z",
           "wordCount": 871,
           "title": "최근 소비자물가 동향 점검",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -1018,59 +1058,9 @@
           "author": null,
           "description": "한국은행이 「영란은행, 러시아의 우크라이나 침공 관련 암호자산 제재 공동성명 발표」를 발표하였다.\r\n\r\n- 영란은행은 3.11일 재무부 금융제재이행국(OFSI) 및 FCA와의 공동성명을 통해 러시아의 우크라이나 침공 이후 처음으로 제재 관련 입장을 공식적으로 표명. 동 성명을 통해 러시아 등에 부과된 금융재재 대상에 암호자산(Cryptoasset)이 포함되며, 제재 위반 시 필요한 조치를 취할 준비가 되어 있음을 강조. 금융회사 등에 대해서는 제재대상 여부 확인, 위험신호지표 확충 등을 통해 암호자산을 이용한 제재회피 위험을 줄이기 위해 노력해 줄 것을 요청",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163486",
-          "publishedOn": "2022-03-19T12:01:33.901Z",
+          "publishedOn": "2022-03-19T15:01:44.573Z",
           "wordCount": 871,
           "title": "영란은행, 러시아의 우크라이나 침공 관련 암호자산 제재 공동성명 발표",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163552",
-          "author": null,
-          "description": "중소벤처기업연구원이 『포스트 코로나시대 재도전정책 발전방안』을 발표하였다.\r\n\r\n- 포스트 코로나시대 미증유의 경영 환경 및 여건 변화에서 폐업하고 한계기업으로 변하고 있는 기업들이 증가하고 있음. 어려운 기업들이 재도전 재도약하기 위해 효율적이고 혁신적인 지원정책을 수립하고 현 지원사업의 발전적 개선안을 도출, 제시하는 것이 본 연구의 목적\r\n\r\n- 연구범위로 재도전정책은 현재 중기부의 정의에 따르면 사업전환, 구조개선, 재창업 등과 관련된 정책이라고 할 수 있음. 본 연구에서는 위 3개의 분야 중에서 재창업과 관련된 정책으로 한정해 연구가 이루어짐. 우리나라에서는 아직 재창업에 대한 인식 부족과 재창업 관련 생태계가 선진국에 비해 덜 성숙된 면이 있음. 실패가 자산이 되어 재도전할 수 있는 문화 조성이 필요하며 코로나로 인해 많은 기업이 파산하거나 어려움에 처한 상황에서 재도전정책의 필요성이 제기됨.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163552",
-          "publishedOn": "2022-03-19T12:01:33.876Z",
-          "wordCount": 871,
-          "title": "포스트 코로나시대 재도전정책 발전방안",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163509",
-          "author": null,
-          "description": "한국무역협회가 『최근 러시아-우크라이나 사태 현황 및 우리기업 영향』을 발표하였다.\r\n\r\n- 러시아가 우크라이나 국경에 10만 명의 병력을 배치하며 군사적 긴장감이 지속되고 있음. 사태가 악화되면 에너지 원자재, 반도체용 희귀광물 등을 양국으로부터 수입하는 우리기업이 제조 원가 상승, 수급 차질 등에 직면할 수 있음. 다만 러시아 의존도가 70%를 상회하는 품목은 47개로 심각한 영향은 피할 것으로 보임. \r\n\r\n- 무역협회가 실시한 업계 긴급 설문조사에 따르면 기업들은 현 사태로 거래 위축, 루블화 환리스크, 물류난 등을 우려하고 있으며, 절반 정도의 기업만 적극적인 대응에 나서고 있었음. 기업들은 무역보험 지원, 신속한 정보제공, 거래선 다변화 지원 등을 정책 우선순위로 뽑아, 정부의 현지 상황 및 서방 경제제재 내용 파악, 지원책 마련 등이 필요할 것으로 보임.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163509",
-          "publishedOn": "2022-03-19T12:01:33.867Z",
-          "wordCount": 871,
-          "title": "최근 러시아-우크라이나 사태 현황 및 우리기업 영향",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163539",
-          "author": null,
-          "description": "보험연구원이 『2022년 보험산업 전망과 과제』를 발표하였다.\r\n\r\n- 2020년 이후 코로나19 확산은 저금리 및 유동성 확대, 개인의 이동 및 활동 제약을 통해 보험산업에 예상 외의 긍정적 영향을 미친 것으로 평가됨. 성장성 측면에서는 대면채널 영업환경 악화에도 불구하고 저축보험, 변액보험, 자동차보험이 고성장하면서 성장성이 확대되었음. 수익성 측면에서도 자산운용에 불리한 저금리 환경에도 불구하고 자동차 및 건강보험 손해율 개선, 변액보험 준비금 부담 완화 등으로 수익성이 개선되었음.\r\n\r\n- 2022년 보험산업은 경제 정상화에 따른 보험료 성장여건 개선이 예상됨. 코로나19 백신접종 가속화로 ‘포스트 코로나’ 가능성이 높아지고 있으며, 사회적 거리두기 완화 시 대면채널 영업환경 개선이 기대됨. 경제 정상화에 따른 민간수요 회복은 개인보험 수요를 확대할 수 있으며, 시중금리 상승으로 인한 장기 보험의 보험료 부담 완화 효과도 기대됨. 그러나 코로나19 반사효과 소멸은 보험료 성장에 부정적으로 작용할 전망이다. 예비적 저축 동기 약화, 유동성 증가세 둔화 등은 관련 보험상품 수요를 제한하는 요인이 될 수 있음.\r\n\r\n- 한편 2022년 전망에 있어 코로나19 종식 여부와 급증한 가계부채 문제 등과 같은 불확실성도 존재함. 코로나19 백신접종 확대에도 불구하고 변이 바이러스 출현 등 코로나19의 종식 여부에 대한 불확실성은 여전히 남아 있는 상황임. 또한 경제 정상화 과정에서 급증한 가계부채가 급격한 조정을 보이며 경착륙할 경우 소비심리가 악화될 가능성이 있음.\r\n\r\n- 2022년 생명보험산업 수입보험료는 2021년 4.3%에서 2022년 1.7%로 증가세가 둔화되면서 명목경제성장률을 하회할 것으로 전망됨. 보장성보험은 종신보험 성장둔화에도 불구하고 질병 및 건강보험 수요 확대로 양호한 성장세를 유지할 것으로 전망됨. 일반저축성보험의 상대적인 금리 경쟁력은 약화될 것으로 예상되나, 저축보험 만기 보험금 재유입 효과 등으로 성장이 예상됨. 변액저축성보험은 직접투자 선호로 인해 계속보험료 감소가 지속되면서 수입보험료가 감소할 전망임. 2022년 생명보험 퇴직연금 수입보험료는 전년 대비 2.2% 증가가 전망됨. 생명보험은 2021년 DB형 퇴직연금 사외적립비율 확대가 마무리되면서 2022년 낮은 성장세를 보일 것으로 전망됨.\r\n\r\n- 2022년 손해보험 원수보험료는 일반손해보험이 높은 성장세를 지속하면서 전년 대비 4.9% 증가가 전망됨. 2022년 장기 손해보험 원수보험료는 질병·상해·운전자보험의 고성장이 계속되면서 전년 대비 5.2% 증가가 전망됨. 장기 보장성보험 중 질병·상해보험은 8.3% 증가가 전망되나, 증가율은 이전에 비하여 둔화될 전망임. 질병·상해보험의 보장확대 경쟁이 완화되면서 초회보험료 유입이 둔화될 것으로 보이며, 갱신보험료 증가에 의한 계속보험료 중심의 완만한 성장이 예상됨. 장기 저축성보험은 전년 대비 21.4% 감소하여 큰 폭의 감소세를 지속할 전망임. 손해보험회사의 보장성보험 중심 포트폴리오 전략으로 저축성보험 규모는 감소하고 있음. 2022년 손해보험 퇴직연금은 퇴직연금 확대를 위한 마케팅 강화가 없는 상황에서 계속보험료 중심의 성장세를 지속할 것으로 보이며, 8.0%의 성장이 전망됨.\r\n\r\n- 국내 보험산업은 구조화된 저수익성과 불안정한 소비자 관계에서 벗어나 지속가능한 성장기회를 모색하여야 할 것이며, 이를 위하여 시장 혁신과 신뢰에 기초한 시장규율 정착에 주력해야 할 것임. 이에 시장 혁신, 본업역량 강화, 소비자 신뢰, ESG 경영을 2022년 보험산업의 4대 과제로 제시함. 지속가능한 성장기회를 모색하기 위한 4대 과제 도전과정에서 보험산업은 실물경제를 지원하는 경제적 역할은 물론 사회적 신뢰자본을 축적하는 사회적 역할도 확대될 것으로 기대됨. 또한, 2021년 과제로 제시된 사업재조정과 경쟁적 협력을 통한 디지털 전환은 여전히 2022년에도 보험산업의 현안임을 강조함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163539",
-          "publishedOn": "2022-03-19T12:01:33.850Z",
-          "wordCount": 871,
-          "title": "2022년 보험산업 전망과 과제",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163542",
-          "author": null,
-          "description": "중소벤처기업연구원이 『산업부문별 혁신생태계 평가모형 및 혁신역량 지도 구축 - 바이오헬스산업-』을 발표하였다.\r\n\r\n- 본 연구에서는 생태계 관점에서 산업에 속한 이해관계자들 사이의 관계 속에서 문제점을 진단한 뒤 이에 맞는 정책적 대안을 모색할 수 있는 산업생태계 평가모형을 개발해 보고자 하였음. 산업생태계 관점에서의 평가모형이란 특정 산업의 원활한 혁신활동을 가능케 하는 참여자-인프라-제도적 환경 사이의 유기적 관련성을 포괄하는 개념적 틀을 의미함. 이러한 생태계 관점의 평가모형 구축을 시도해 볼 필요성은 빠른 기술변화와 대내외 환경변화로 발생하는 복잡한 문제들이 개별 요소에 대한 분석만으로 문제를 진단하고 그에 대한 정책적 대안을 발굴하기 쉽지 않은 현실과 관련이 있음.\r\n\r\n- 이에 본 연구에서는 먼저 산업을 생태계적 관점에서 진단하고 그에 기초해 필요한 정책대안을 발굴할 수 있는 평가모형을 개발한 뒤, 이 모형을 최근에 정책적 관심의 대상이 되는 신산업의 하나인 바이오헬스산업에 적용해 봄으로써 활용 가능성을 실제로 확인해 보고자 하였음. 산업생태계의 진단이 필요한 영역은 통상 아직 산업구조가 성숙하지 못했거나, 성숙했더라도 구조개선이 필요한 부문이 될 수 있으며, 이러한 부문은 대부분 창업기업 또는 중소기업이 활동의 중심이 됨으로써 정부지원이나 새로운 규제가 필요한 영역인 경우가 많음.  때문에 본 연구에서는 중소기업이 중심이 되는 산업 부문의 생태계를 전제로 이에 대한 평가모형을 설계하는 것에 주안점을 두었음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163542",
-          "publishedOn": "2022-03-19T12:01:33.833Z",
-          "wordCount": 871,
-          "title": "산업부문별 혁신생태계 평가모형 및 혁신역량 지도 구축 - 바이오헬스산업-",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163550",
-          "author": null,
-          "description": "중소벤처기업연구원이 『중소기업기본법상 중소기업자의 범위에 관한 연구』를 발표하였다.\r\n\r\n-  「중소기업기본법」에 의한 중소기업 정의와 범위는 정책지원을 위한 대상을 명확하게 획정하기에 광범위한 측면이 있음. 통계청의 「기업생멸행정통계」 자료에 따르면, 2019년 기준 중소기업은 전체에서 약 99.93%로 절대다수를 차지\r\n\r\n- 현재 「중소기업기본법」에서는 중소기업을 매출액 규모 기준과 독립성 기준을 적용하여 규정하고 있으나, 대상 기준인 기업(企業)조차 명확하게 정의하고 있지 않아 대상 선정에서부터 소모적 논쟁이 발생. 현재 「중소기업기본법」에서 규정한 대상 기준인 ‘기업’에는 비영리적인 공익성을 가지고 있는 사회적기업, 협동조합, 의료？학교 법인 등이 중소기업자로 포함되어 있음. 독립성 부분에서는 관계기업 제도에 따른 지배？종속 구분 방식과 매출액 산정 방식이 현실을 제대로 반영하지 못함. 문제를 해결하는 방법 중 하나로 중소기업을 정의하는 기준지표와 범위 조정을 검토해 볼 수 있음.\r\n\r\n- 따라서 본 연구의 목적은 현재 중소기업을 규정하는 주요 요소들을 검토하고 분류 기준의 합리적 방법을 찾아 제시하여 우리나라 중소기업 정책의 효율성을 높이는 것임.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163550",
-          "publishedOn": "2022-03-19T12:01:33.772Z",
-          "wordCount": 871,
-          "title": "중소기업기본법상 중소기업자의 범위에 관한 연구",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1078,49 +1068,29 @@
           "author": null,
           "description": "중소벤처기업연구원이 『온라인플랫폼 관련 하위법령 연구』를 발표하였다.\r\n\r\n- 코로나19로 비대면 거래가 보편화되면서 온라인시장은 성장세. 이에 따라 중소기업과 소상공인의 온라인플랫폼에 대한 의존도가 커지고 있음. 온라인플랫폼이 가져온 혁신적 변화로 인해, 온라인플랫폼 거래업자의 불공정거래로 인한 피해도 증가 추세. 이는 우리나라뿐 아니라 해외에서도 공통적으로 벌어지는 현상. 하지만 온라인플랫폼 사업자와 거래업자 간 관계에 집중한 연구는 극소수에 불과하며, 이들 간 갈등을 해결할 수 있는 방안에 대한 연구도 이루어지지 못함.\r\n\r\n- 본 연구의 1차적 목적은 「대？중소기업 상생협력 촉진에 관한 법률(이하 상생협력법)」 개정안이 통과된 후 원활한 추진을 위해 관련 하위법령 내용 및 근거를 마련하는 것이며, 특히 본 개정안의 핵심인 수수료를 중점적으로 분석. 하지만 「상생협력법」 개정안 역시 온라인플랫폼 거래업자의 피해를 예방하고 경감하기 위함이므로, 개정안에 담긴 방안 외에 기존 제도 보완이나 새로운 제도 신설 등도 함께 논의",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163546",
-          "publishedOn": "2022-03-19T12:01:33.753Z",
+          "publishedOn": "2022-03-19T15:01:44.533Z",
           "wordCount": 871,
           "title": "온라인플랫폼 관련 하위법령 연구",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163537",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163484",
           "author": null,
-          "description": "KDB미래전략연구소가 「최근 북한의 비료 수급 동향과 시사점」을 발표하였다.\r\n\r\n- 북한은 제8기 4차 노동당 전원회의에서 ‘농업발전 4대 요소 실현방안’을 제시하고 비료 등 농업 필수자재에 대한 투자 확대 계획을 발표\r\n\r\n- 비료 수급은 자체 생산역량이 부족하여 중국과 무역을 통해 부족량을 충당하였으나, 코로나19로 인한 국경봉쇄로 대내외 수급에 차질 발생\r\n\r\n- 식량 자급 목표 달성을 위해 비료 등 농업 필수 자재의 안정적인 수급이 필요하며, 농업 전반에 대한 지속적인 투자 필요",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163537",
-          "publishedOn": "2022-03-19T12:01:33.736Z",
+          "description": "한국은행이 「최근 홍콩 주가지수 급락세 지속 배경 및 평가」를 발표하였다.\r\n\r\n- 최근 홍콩 증시가 하락세를 보이는 가운데 특히 H지수(HSCEI)의 급락세가 지속되는 모습(3.11일 ？2.7%, 3.14일 ？7.15%). 한국이나 중국본토 대비 낙폭이 상대적으로 훨씬 크며 금일 주가지수(종가기준 6,555.5)는 2008년 금융위기 이후 최저치를 기록\r\n\r\n- 최근 홍콩 H지수 급락세가 지속되는 것은 지정학적 리스크 등 대외적 요인과 대내적 요인이 복합적으로 작용한 데 주로 기인\r\n\r\n- 우크라이나 관련 지정학적 리스크와 미중 갈등 지속, 미 연준의 금리인상. 전망 등을 감안할 때 당분간 홍콩 H지수는 높은 변동성이 지속될 가능성. 특히 대외개방도가 높은 홍콩증시에서 중국 관련 주가지수의 하락이 본토보다 큰 폭으로 나타나고 있는 것은 향후 중국 경제에 대한 글로벌 투자자들의 시각이 이전보다 다소 부정적으로 변화된 것으로 평가. 한편 홍콩 H지수의 경우 국내에서 발행되는 ELS(Equity Linked Securities)의 준거자산으로 많이 활용되고 있으나 H지수 급락에 따른 영향은 제한적일 것으로 예상",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163484",
+          "publishedOn": "2022-03-19T15:01:44.500Z",
           "wordCount": 871,
-          "title": "최근 북한의 비료 수급 동향과 시사점",
+          "title": "최근 홍콩 주가지수 급락세 지속 배경 및 평가",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163517",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163539",
           "author": null,
-          "description": "대한무역투자진흥공사가 『2022년 일본 소비재 시장 설명회』를 발표하였다.\r\n\r\n<목 차>\r\n\r\n1. 40만 구독자, 일본 內 한류 맛보기\r\n2. 日 소비재 시장 트렌드 및 韓 인기상품 라인업\r\n3. 한국 소비재 상품 일본 수출·통관 프로세스",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163517",
-          "publishedOn": "2022-03-19T12:01:33.728Z",
+          "description": "보험연구원이 『2022년 보험산업 전망과 과제』를 발표하였다.\r\n\r\n- 2020년 이후 코로나19 확산은 저금리 및 유동성 확대, 개인의 이동 및 활동 제약을 통해 보험산업에 예상 외의 긍정적 영향을 미친 것으로 평가됨. 성장성 측면에서는 대면채널 영업환경 악화에도 불구하고 저축보험, 변액보험, 자동차보험이 고성장하면서 성장성이 확대되었음. 수익성 측면에서도 자산운용에 불리한 저금리 환경에도 불구하고 자동차 및 건강보험 손해율 개선, 변액보험 준비금 부담 완화 등으로 수익성이 개선되었음.\r\n\r\n- 2022년 보험산업은 경제 정상화에 따른 보험료 성장여건 개선이 예상됨. 코로나19 백신접종 가속화로 ‘포스트 코로나’ 가능성이 높아지고 있으며, 사회적 거리두기 완화 시 대면채널 영업환경 개선이 기대됨. 경제 정상화에 따른 민간수요 회복은 개인보험 수요를 확대할 수 있으며, 시중금리 상승으로 인한 장기 보험의 보험료 부담 완화 효과도 기대됨. 그러나 코로나19 반사효과 소멸은 보험료 성장에 부정적으로 작용할 전망이다. 예비적 저축 동기 약화, 유동성 증가세 둔화 등은 관련 보험상품 수요를 제한하는 요인이 될 수 있음.\r\n\r\n- 한편 2022년 전망에 있어 코로나19 종식 여부와 급증한 가계부채 문제 등과 같은 불확실성도 존재함. 코로나19 백신접종 확대에도 불구하고 변이 바이러스 출현 등 코로나19의 종식 여부에 대한 불확실성은 여전히 남아 있는 상황임. 또한 경제 정상화 과정에서 급증한 가계부채가 급격한 조정을 보이며 경착륙할 경우 소비심리가 악화될 가능성이 있음.\r\n\r\n- 2022년 생명보험산업 수입보험료는 2021년 4.3%에서 2022년 1.7%로 증가세가 둔화되면서 명목경제성장률을 하회할 것으로 전망됨. 보장성보험은 종신보험 성장둔화에도 불구하고 질병 및 건강보험 수요 확대로 양호한 성장세를 유지할 것으로 전망됨. 일반저축성보험의 상대적인 금리 경쟁력은 약화될 것으로 예상되나, 저축보험 만기 보험금 재유입 효과 등으로 성장이 예상됨. 변액저축성보험은 직접투자 선호로 인해 계속보험료 감소가 지속되면서 수입보험료가 감소할 전망임. 2022년 생명보험 퇴직연금 수입보험료는 전년 대비 2.2% 증가가 전망됨. 생명보험은 2021년 DB형 퇴직연금 사외적립비율 확대가 마무리되면서 2022년 낮은 성장세를 보일 것으로 전망됨.\r\n\r\n- 2022년 손해보험 원수보험료는 일반손해보험이 높은 성장세를 지속하면서 전년 대비 4.9% 증가가 전망됨. 2022년 장기 손해보험 원수보험료는 질병·상해·운전자보험의 고성장이 계속되면서 전년 대비 5.2% 증가가 전망됨. 장기 보장성보험 중 질병·상해보험은 8.3% 증가가 전망되나, 증가율은 이전에 비하여 둔화될 전망임. 질병·상해보험의 보장확대 경쟁이 완화되면서 초회보험료 유입이 둔화될 것으로 보이며, 갱신보험료 증가에 의한 계속보험료 중심의 완만한 성장이 예상됨. 장기 저축성보험은 전년 대비 21.4% 감소하여 큰 폭의 감소세를 지속할 전망임. 손해보험회사의 보장성보험 중심 포트폴리오 전략으로 저축성보험 규모는 감소하고 있음. 2022년 손해보험 퇴직연금은 퇴직연금 확대를 위한 마케팅 강화가 없는 상황에서 계속보험료 중심의 성장세를 지속할 것으로 보이며, 8.0%의 성장이 전망됨.\r\n\r\n- 국내 보험산업은 구조화된 저수익성과 불안정한 소비자 관계에서 벗어나 지속가능한 성장기회를 모색하여야 할 것이며, 이를 위하여 시장 혁신과 신뢰에 기초한 시장규율 정착에 주력해야 할 것임. 이에 시장 혁신, 본업역량 강화, 소비자 신뢰, ESG 경영을 2022년 보험산업의 4대 과제로 제시함. 지속가능한 성장기회를 모색하기 위한 4대 과제 도전과정에서 보험산업은 실물경제를 지원하는 경제적 역할은 물론 사회적 신뢰자본을 축적하는 사회적 역할도 확대될 것으로 기대됨. 또한, 2021년 과제로 제시된 사업재조정과 경쟁적 협력을 통한 디지털 전환은 여전히 2022년에도 보험산업의 현안임을 강조함.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163539",
+          "publishedOn": "2022-03-19T15:01:44.491Z",
           "wordCount": 871,
-          "title": "2022년 일본 소비재 시장 설명회",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163540",
-          "author": null,
-          "description": "중소벤처기업연구원이 『테크노파크 기능 제고 및 활성화를 위한 중장기 전략과 과제』를 발표하였다.\r\n\r\n- 테크노파크 기능 제고 및 활성화를 위한 중장기 전략과 과제",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163540",
-          "publishedOn": "2022-03-19T12:01:33.690Z",
-          "wordCount": 871,
-          "title": "테크노파크 기능 제고 및 활성화를 위한 중장기 전략과 과제",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163522",
-          "author": null,
-          "description": "KDB미래전략연구소가 「EU 공급망실사 지침 주요내용과 시사점」을 발표하였다.\r\n\r\n- EU집행위는 2.23일 기업의 공급망 내 인권 및 환경보호 강화를 위해 ‘기업 지속 가능성 실사 지침(Directive on Corporate Sustainability Due Diligence)’을 발표. 실사 적용대상 기업의 공급망 전체에 걸쳐 인권 및 환경 관련 실사를 의무화, 위반에 대한 행정제재 수립 및 피해에 대한 민사책임도 허용할 것을 제안\r\n\r\n- EU 회원국의 적용까지는 상당기간 소요될 전망이나, 기업의 지속가능성에 대한 국제적 중요도 확대에 따라 국내 기업도 관심을 가지고 선제적으로 대비할 필요",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163522",
-          "publishedOn": "2022-03-19T12:01:33.681Z",
-          "wordCount": 871,
-          "title": "EU 공급망실사 지침 주요내용과 시사점",
+          "title": "2022년 보험산업 전망과 과제",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1128,29 +1098,19 @@
           "author": null,
           "description": "중소벤처기업연구원이 『소상공인 배달플랫폼 활성화 및 상생협력 방안』을 발표하였다.\r\n\r\n- 이 연구의 목적은 온라인 음식배달 서비스 시장에서 소상공인의 배달앱 입점과 활용을 촉진하고, 배달앱과 소상공인 간 상생협력 방안을 제시하려는 것임. 특히 온라인 음식배달 서비스 시장에서 공공배달앱이 전체 생태계의 저울 역할을 하는데 필요한 사항은 무엇인가를 고찰하고, 배달앱과 가맹점인 소상공인 간의 상생협력이 왜 필요한가에 대한 논리적 근거를 제시하는데 주안점을 둠.\r\n\r\n- 구체적인 연구목적을 제시하면 다음과 같음. 첫째, 배달앱이 제공하는 중개거래 서비스의 현황을 파악하고 배달앱 입점 소상공인(가맹점)을 대상으로 배달앱 활용 실태를 조사함으로써 공공배달앱 활성화 방안과 상생협력 촉진에 관한 정책수요를 발굴하는 것임. 둘째, 온라인 음식배달 서비스의 여러 품질 속성이 배달앱과 배달음식점 만족도, 그리고 온라인 음식배달 서비스의 충성도에 미치는 영향을 분석하고, 소비자의 배달음식점과 메뉴 선택 시 주요 고려요인에 대한 컨조인트 분석을 실시하여 배달앱과 소상공인 간 상생협력의 필요성을 실증적으로 규명할 것임. 셋째, 배달앱과 소상공인 간의 상생협력이 가능한 분야와 방법을 제시한 후, 이를 장려하기 위한 정부의 역할과 정책방향을 제안하고자 함.",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163545",
-          "publishedOn": "2022-03-19T12:01:33.644Z",
+          "publishedOn": "2022-03-19T15:01:44.469Z",
           "wordCount": 871,
           "title": "소상공인 배달플랫폼 활성화 및 상생협력 방안",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163518",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163509",
           "author": null,
-          "description": "대한무역투자진흥공사가 『한미 FTA 발효 10주년 효과 및 활용사례』를 발표하였다.\r\n\r\n<목 차>\r\n\r\n요약\r\n\r\nⅠ. 한미 FTA 발효 10년 양국 간 교역 현황\r\n  1. 한미 FTA 주요 내용\r\n  2. 한미 FTA 발효 10년 이후 양국 간 교역 추이\r\n\r\nⅡ. 한미 FTA 발효 10주년에 대한 美 현지반응\r\n\r\nⅢ. 美 현지 바이어·수출기업의 한미 FTA 활용사례\r\n  1. 美 바이어의 한미 FTA 활용사례\r\n  2. 美 수출기업의 한미 FTA 활용사례\r\n\r\nⅣ. 결론 및 시사점",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163518",
-          "publishedOn": "2022-03-19T12:01:33.613Z",
+          "description": "한국무역협회가 『최근 러시아-우크라이나 사태 현황 및 우리기업 영향』을 발표하였다.\r\n\r\n- 러시아가 우크라이나 국경에 10만 명의 병력을 배치하며 군사적 긴장감이 지속되고 있음. 사태가 악화되면 에너지 원자재, 반도체용 희귀광물 등을 양국으로부터 수입하는 우리기업이 제조 원가 상승, 수급 차질 등에 직면할 수 있음. 다만 러시아 의존도가 70%를 상회하는 품목은 47개로 심각한 영향은 피할 것으로 보임. \r\n\r\n- 무역협회가 실시한 업계 긴급 설문조사에 따르면 기업들은 현 사태로 거래 위축, 루블화 환리스크, 물류난 등을 우려하고 있으며, 절반 정도의 기업만 적극적인 대응에 나서고 있었음. 기업들은 무역보험 지원, 신속한 정보제공, 거래선 다변화 지원 등을 정책 우선순위로 뽑아, 정부의 현지 상황 및 서방 경제제재 내용 파악, 지원책 마련 등이 필요할 것으로 보임.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163509",
+          "publishedOn": "2022-03-19T15:01:44.425Z",
           "wordCount": 871,
-          "title": "한미 FTA 발효 10주년 효과 및 활용사례",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163557",
-          "author": null,
-          "description": "우리금융경영연구소가 『 AI와 빅데이터가 자산운용사의 경쟁력을 좌우 - 글로벌 자산운용사의 AI, 빅데이터 활용 사례와 시사점』을 발표하였다.\r\n\r\n- 글로벌 자산운용사들은 경쟁 심화, 규제 강화에 대응하여 AI, 빅데이터 관련 디지털 기술에 대한 투자를 확대\r\n\r\n- 디지털 기술 활용이 운용 수익률 제고, 매매주문 성과 개선 등에 효과적인 것으로 나타남에 따라 디지털 경쟁력이 향후 자산운용업의 판도를 좌우할 것으로 전망\r\n\r\n- 운용수수료 경쟁이 치열해지고 있는 국내 시장에서도 수익성 개선을 위해 자산운용사들이 디지털 기술 관련 투자를 적극 확대할 필요",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163557",
-          "publishedOn": "2022-03-19T12:01:33.392Z",
-          "wordCount": 871,
-          "title": "AI와 빅데이터가 자산운용사의 경쟁력을 좌우 - 글로벌 자산운용사의 AI, 빅데이터 활용 사례와 시사점",
+          "title": "최근 러시아-우크라이나 사태 현황 및 우리기업 영향",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1158,7 +1118,7 @@
           "author": null,
           "description": "한국무역협회가 『중국의 궈차오(애국소비) 열풍과 우리 소비재 기업의 대응전략』을 발표하였다.\r\n\r\n- 최근 중국 소비시장의 가장 뜨거운 이슈는 바로 애국소비 “궈차오 열풍”임. 중국의 경제발전과 더불어 애국주의 교육을 집중적으로 받은 중국의 MZ세대가 소득증가에 힘입어 궈차오 열풍을 주도하고 있음. 궈차오 열풍은 중국 기업들의 성장에 날개를 달아주며 중국 소비시장 확대를 이끌어 가는 주요 트렌드로 자리 잡았음. 글로벌 브랜드 역시 궈차오 열풍에 적극 편승하며 중국 소비시장 공략에 박차를 가하고 있음.\r\n\r\n- 궈차오를 등에 업은 중국 브랜드의 성장과 글로벌 브랜드의 공격적인 움직임은 중국 시장에서 정체되어 있는 한국 소비재가 처한 상황을 더욱 어렵게 만들고 있음. 특히, 한국 소비재의 주력 수출품목인 화장품마저 2019년부터 중국의 화장품 수입시장에서 1위 자리를 일본에 내어주고 3위로 하락하며 위기에 봉착했음. 세계 최대의 소비시장인 중국에 대한 한국 소비재 수출을 확대하고 현재의 위기를 타개하기 위해선 ▲중국 소비자의 눈높이와 트렌드에 맞춘 제품 개발, ▲프리미엄 소비재 시장 진출 확대, ▲성장 가능성이 높은 지방도시 적극 진출 등의 대응전략을 수립할 필요가 있음.",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163510",
-          "publishedOn": "2022-03-19T12:01:33.383Z",
+          "publishedOn": "2022-03-19T15:01:44.405Z",
           "wordCount": 871,
           "title": "중국의 궈차오(애국소비) 열풍과 우리 소비재 기업의 대응전략",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -1168,10 +1128,50 @@
           "author": null,
           "description": "KDB미래전략연구소가 「EIB의 드론 프로젝트 금융지원 가이드」를 발표하였다.\r\n\r\n- EIB는 운송 부문의 탄소중립 달성·디지털 전환 추진 과정에서 드론 등 UAM 분야의 프로젝트 활성화를 위해 ’22.1월 ‘드론 프로젝트 금융지원 가이드’를 발표\r\n\r\n- 동 가이드는 ’22.4Q에 예정된 EU의 ‘드론 전략 2.0’에 앞서 금융지원 가이드 역할 수행. 우리나라도 한국형 도심항공교통 구축 등 정부정책을 견인하는 차원에서 정책금융 등\r\n금융지원이 병행될 필요",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163521",
-          "publishedOn": "2022-03-19T12:01:33.374Z",
+          "publishedOn": "2022-03-19T15:01:44.345Z",
           "wordCount": 871,
           "title": "EIB의 드론 프로젝트 금융지원 가이드",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163518",
+          "author": null,
+          "description": "대한무역투자진흥공사가 『한미 FTA 발효 10주년 효과 및 활용사례』를 발표하였다.\r\n\r\n<목 차>\r\n\r\n요약\r\n\r\nⅠ. 한미 FTA 발효 10년 양국 간 교역 현황\r\n  1. 한미 FTA 주요 내용\r\n  2. 한미 FTA 발효 10년 이후 양국 간 교역 추이\r\n\r\nⅡ. 한미 FTA 발효 10주년에 대한 美 현지반응\r\n\r\nⅢ. 美 현지 바이어·수출기업의 한미 FTA 활용사례\r\n  1. 美 바이어의 한미 FTA 활용사례\r\n  2. 美 수출기업의 한미 FTA 활용사례\r\n\r\nⅣ. 결론 및 시사점",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163518",
+          "publishedOn": "2022-03-19T15:01:44.317Z",
+          "wordCount": 871,
+          "title": "한미 FTA 발효 10주년 효과 및 활용사례",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163517",
+          "author": null,
+          "description": "대한무역투자진흥공사가 『2022년 일본 소비재 시장 설명회』를 발표하였다.\r\n\r\n<목 차>\r\n\r\n1. 40만 구독자, 일본 內 한류 맛보기\r\n2. 日 소비재 시장 트렌드 및 韓 인기상품 라인업\r\n3. 한국 소비재 상품 일본 수출·통관 프로세스",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163517",
+          "publishedOn": "2022-03-19T15:01:44.285Z",
+          "wordCount": 871,
+          "title": "2022년 일본 소비재 시장 설명회",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163550",
+          "author": null,
+          "description": "중소벤처기업연구원이 『중소기업기본법상 중소기업자의 범위에 관한 연구』를 발표하였다.\r\n\r\n-  「중소기업기본법」에 의한 중소기업 정의와 범위는 정책지원을 위한 대상을 명확하게 획정하기에 광범위한 측면이 있음. 통계청의 「기업생멸행정통계」 자료에 따르면, 2019년 기준 중소기업은 전체에서 약 99.93%로 절대다수를 차지\r\n\r\n- 현재 「중소기업기본법」에서는 중소기업을 매출액 규모 기준과 독립성 기준을 적용하여 규정하고 있으나, 대상 기준인 기업(企業)조차 명확하게 정의하고 있지 않아 대상 선정에서부터 소모적 논쟁이 발생. 현재 「중소기업기본법」에서 규정한 대상 기준인 ‘기업’에는 비영리적인 공익성을 가지고 있는 사회적기업, 협동조합, 의료？학교 법인 등이 중소기업자로 포함되어 있음. 독립성 부분에서는 관계기업 제도에 따른 지배？종속 구분 방식과 매출액 산정 방식이 현실을 제대로 반영하지 못함. 문제를 해결하는 방법 중 하나로 중소기업을 정의하는 기준지표와 범위 조정을 검토해 볼 수 있음.\r\n\r\n- 따라서 본 연구의 목적은 현재 중소기업을 규정하는 주요 요소들을 검토하고 분류 기준의 합리적 방법을 찾아 제시하여 우리나라 중소기업 정책의 효율성을 높이는 것임.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163550",
+          "publishedOn": "2022-03-19T15:01:32.368Z",
+          "wordCount": null,
+          "title": "중소기업기본법상 중소기업자의 범위에 관한 연구",
+          "imageUrl": null
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163522",
+          "author": null,
+          "description": "KDB미래전략연구소가 「EU 공급망실사 지침 주요내용과 시사점」을 발표하였다.\r\n\r\n- EU집행위는 2.23일 기업의 공급망 내 인권 및 환경보호 강화를 위해 ‘기업 지속 가능성 실사 지침(Directive on Corporate Sustainability Due Diligence)’을 발표. 실사 적용대상 기업의 공급망 전체에 걸쳐 인권 및 환경 관련 실사를 의무화, 위반에 대한 행정제재 수립 및 피해에 대한 민사책임도 허용할 것을 제안\r\n\r\n- EU 회원국의 적용까지는 상당기간 소요될 전망이나, 기업의 지속가능성에 대한 국제적 중요도 확대에 따라 국내 기업도 관심을 가지고 선제적으로 대비할 필요",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000163522",
+          "publishedOn": "2022-03-19T15:01:32.363Z",
+          "wordCount": null,
+          "title": "EU 공급망실사 지침 주요내용과 시사점",
+          "imageUrl": null
         }
       ]
     }
