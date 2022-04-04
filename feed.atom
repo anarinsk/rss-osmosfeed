@@ -1,463 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T03:17:02.239Z</id>
+    <id>urn:2022-04-04T06:01:43.384Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-04-04T03:17:02.239Z</updated>
+    <updated>2022-04-04T06:01:43.384Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Disruption and Credit Markets]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164956</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164956"/>
-        <updated>2022-04-04T03:16:51.071Z</updated>
-        <summary type="html"><![CDATA[We show that over the past half century innovative disruptions were central to understanding corporate defaults. In a given year, industries experiencing abnormally high VC or IPO activity subsequently see higher default rates, higher segment exits by conglomerates, and higher yields on bonds issued by the firms in these industries. Overall, we find that disruption is a broad phenomenon, negatively affecting incumbent firms across the spectrum of age, valuation, and levers, with the exception of very large and low-leverage firms, which confirms our central hypothesis.]]></summary>
+        <title type="html"><![CDATA[Optimal Nonlinear Savings Taxation]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164999</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164999"/>
+        <updated>2022-04-04T06:01:20.162Z</updated>
+        <summary type="html"><![CDATA[This paper analyses the design of optimal nonlinear savings taxation, in a multi-period consumption-savings economy where consumers face persistent, uninsurable shocks to the marginal value that they place on consuming. Its main contributions are: (a) to show that shocks of this kind generically justify positive marginal savings taxes, and (b) to characterise these taxes by reference to a limited number of sufficient statistics. The method for obtaining this characterisation is generalisable, and provides a roadmap for reconnecting `Mirrleesian‘ and `sufficient statistics‘ approaches to dynamic taxation. Intuitively, dynamic asymmetric information problems imply significant restrictions on intertemporal consumption elasticities. These restrictions keep sufficient statistics representations manageable, despite the multi-dimensional choice setting.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Celebrating Women’s Accomplishments and Supporting Their Economic Prosperity]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164973</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164973"/>
-        <updated>2022-04-04T03:16:50.877Z</updated>
-        <summary type="html"><![CDATA[March is Women’s History Month, and this year the theme in the U.S.―set by the National Women’s History Alliance―is “Women Providing Healing, Promoting Hope.” The theme represents a celebration of the tireless work of caregivers and frontline workers during the COVID-19 public health crisis. It also acknowledges the many contributions of women across history who have provided both healing and hope.
-
-Women’s roles, contributions and accomplishments are increasingly being acknowledged and appreciated. Yet there is still a need to pause in March and celebrate women’s history because many gaps remain, despite significant progress.
-
-This blog acknowledges and celebrates the contributions of all women: those receiving income reported on W-2 and 1099 forms, and those who don’t receive compensation even though they use their considerable skills and talents to care for their families and to better their communities through unpaid volunteer work. This blog post also provides a cautionary note: Evidence indicates that many of women’s past economic gains are at risk. Gender pay equity and a reducing of occupation segregation by gender may help propel women forward, as may greater gender parity in the daily operation of households.]]></summary>
+        <title type="html"><![CDATA[Human-Algorithm Interactions: Evidence from Zillow.com]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164991</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164991"/>
+        <updated>2022-04-04T06:01:19.432Z</updated>
+        <summary type="html"><![CDATA[Using bi-weekly snapshots of Zillow in three US cities, we document how home sellers and buyers interact with Zillow‘s Zestimate algorithm during the sales cycle of residential properties. We find that listing and selling outcomes respond significantly to Zestimate, and Zestimate is quickly updated for the focal and comparable houses after a listing or a transaction is completed. The user-Zestimate interactions have mixed implications: on the one hand, listing price depends more on Zestimate if the city does not mandate disclosure of sales information or if the neighborhood is more heterogeneous, suggesting that Zestimate provides valuable information when alternative information is more difficult to obtain; on the other hand, the post-listing update of Zestimate tracks listing price more closely in non-disclosure and heterogeneous neighborhoods, raising the concern that the feedback loop may propagate disturbances in the sales process. However, by leveraging COVID-19 pandemic as a natural experiment, we find no evidence that Zestimate propagates the initial shock from the March-2020 declaration of national emergency, probably because Zestimate has built-in guard rails and users tend to adjust their confidence in Zestimate according to observed market outcomes.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국제비교를 통해 본 우리나라의 1인당 국민소득(GNI) 현황 및 추이]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164931</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164931"/>
-        <updated>2022-04-04T03:16:50.685Z</updated>
-        <summary type="html"><![CDATA[KDB미래전략연구소가 「국제비교를 통해 본 우리나라의 1인당 국민소득(GNI) 현황 및 추이」를 발표하였다.
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.11 「재정수지」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164981</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164981"/>
+        <updated>2022-04-04T06:01:19.127Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.11 「재정수지」를 발표하였다.
 
-- ’21년 우리나라의 1인당 GNI는 35,168달러로 전년보다 10.3% 증가했으며, 1인당 GNI 증가에는 경제성장, 환율하락, 물가상승이 복합적으로 영향을 미친 것으로 나타남.
-
-- 우리나라의 1인당 GNI는 ’20년 기준으로 전 세계 27위, 인구 천만명 이상 국가에서는 11위 수준임(Worldbank 기준). 인구 천만명 이상으로 1인당 GNI가 3만불 이상인 국가들의 1인당 GNI 증가율이 ’10년대 들어서며 둔화되는 양상？]]></summary>
+- 2022년 예산 기준, 통합재정수지는 70.8조원 적자(GDP 대비 -3.3%), 관리재정수지는 110.8조원 적자(GDP 대비 -5.2%)]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국인의 행복과 삶의 질에 관한 종합연구: 국제비교를 중심으로]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164924</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164924"/>
-        <updated>2022-04-04T03:16:50.624Z</updated>
-        <summary type="html"><![CDATA[한국보건사회연구원이 『한국인의 행복과 삶의 질에 관한 종합연구: 국제비교를 중심으로』를 발표하였다.
+        <title type="html"><![CDATA[우크라이나 사태의 국제곡물 시장 영향 분석]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164951</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164951"/>
+        <updated>2022-04-04T06:01:19.112Z</updated>
+        <summary type="html"><![CDATA[한국농촌경제연구원이 「우크라이나 사태의 국제곡물 시장 영향 분석」을 발표하였다.
 
-- 본 연구는 3개년 협동연구과제 「한국인의 행복과 삶의 질에 관한 종합 연구」의 마지막 과업으로 국제비교 관점에서 양적 연구와 질적 연구 방법으로 축적한 자료를 통해 한국인의 행복과 삶의 질 수준을 진단하고, 한국인의 국민총행복과 삶의 질을 높이는 데에 실질적으로 기여하는 근거 기반 정책 방안을 도출하는 데 있음.
+- 2020년 하반기부터 상승세를 보이던 국제곡물 가격은 우크라이나 사태의 악화에 따라 흑해 지역 수출 비중이 높은 밀, 옥수수, 보리를 중심으로 급등. 밀, 옥수수, 콩의 2022년 3월 CBOT 선물가격은 평년 3월 대비 각각 137.7%, 102.1%, 72.0% 상승함. 전쟁으로 인한 흑해지역 곡물 수출량 감소 우려와 주요 곡물 수출국의 수출제한 조치가 최근 국제곡물 가격 상승의 주요인인 것으로 판단됨.
 
-- 연구 결과, 첫째, 행복의 관점에서 취약한 집단을 식별하고 그들의 다차원적인 삶의 질을 개선할 필요가 있음. 저소득층 등 전통적인 취약계층뿐만 아니라 중장년과 노인, 특히 한국에서 행복 수준이 유의하게 낮은 자영업자, 사회적 관계가 단절된 고립 인구 등을 포함함. 둘째, 행복한 삶 담론에 대한 공감대를 형성하고, 자아실현을 할 수 있는 일 문화 확립의 필요성을 제안하였음. 셋째, 지역의 물리적 인프라 개선과 함께 삶의 불안정성을 제거하고 예측 가능한 삶을 위한 탄탄한 사회안전망 구축을 제안하였음. 마지막으로 국민총행복 향상을 위한 제도 기반으로서 행복 취약계층을 발굴하고 정책 효과를 평가하기 위한 실시간 모니터링 체계의 행복예산제 도입을 제안하였음.]]></summary>
+- 우크라이나와 러시아는 옥수수, 밀, 보리, 해바라기유 주요 생산 및 수출국. 우크라이나 세계 곡물 교역량 점유율은 옥수수 14%, 밀 9%, 보리 10%, 해바라기유 43%이며, 러시아는 밀 20%, 보리 14%, 해바라기유 20%임. 흑해 지역의 곡물은 주로 유럽, 중동, 동남아시아, 중국 등으로 수출됨.
+
+- 우크라이나 사태로 2022/23년 국제 밀과 옥수수 가격은 약 10~20% 상승할 것으로 예상되며 사태가 장기화될 경우 이러한 고곡가는 상당 기간 유지될 것으로 전망. 우크라이나 사태로 흑해 지역의 2021/22년 밀, 옥수수 수출량은 각각 7백만 톤, 6백만 톤 감소하고, 우크라이나의 금년 봄 작물 생산량과 하계작물 재배 면적은 각각 30% 감소할 것으로 예상됨.
+
+- 우리나라는 가공용 옥수수(Non-GMO 포함)와 사료용 밀의 흑해산 수입 의존도가 높음. 우크라이나 사태에도 원산지 대체 등을 통해 조달할 수 있을 것으로 보이나 가격 상승으로 인한 국내 물가 인상 압력 증가는 부담. 우리나라는 배합사료 및 식품제조업에 사용되는 곡물 대부분을 수입에 의존하여 국제곡물 시장의 수급 및 가격 변동성이 국내 배합사료, 가공식품, 축산물, 외식업의 생산활동 및 물가 변동성으로 전이됨. 우크라이나 사태 영향으로 국내 가공식품 소비자물가는 3.4~6.8%, 외식 소비자물가는 0.6~1.2%, 배합사료 생산자물가는 5.3~10.6% 상승할 것으로 예상됨.
+
+- 단기적으로 대체 원산지 개발과 국내 물가 영향 최소화를 위한 금융 및 세제 지원이 필요하며, 중장기적으로는 비축 등의 국내 공급 기반 확대, 국제곡물 유통 부문 진입을 통한 국제곡물조달시스템 구축이 필요. 정부는 2020년 하반기 이후의 국제곡물 가격 상승 및 변동성 증가에 더하여 우크라이나 사태로 국제곡물 가격이 추가 상승하자 ‘국제곡물수급대책위원회’를 중심으로 국제곡물 위기 대응 체계를 가동함.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Individual Wealth Inequality : Measurement and Evidence from Low- and Middle-Income Countries]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164964</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164964"/>
-        <updated>2022-04-04T03:16:50.612Z</updated>
-        <summary type="html"><![CDATA[The accumulation of personal wealth, stemming from ownership and control of assets, plays a critical role in advancing women’s and men’s economic opportunities. Yet, it is an understudied dimension of inequality across the developing world. To study individual-level wealth inequality and gender differences in wealth, this paper leverages unique data from nationally representative, multi-topic household surveys that were conducted in Cambodia, Ethiopia, Malawi, and Tanzania and that interviewed men and women in private regarding their personal ownership and valuation of physical and financial assets. The analysis documents substantial gender inequalities in asset ownership and wealth, overall and for specific asset classes. Individual-level wealth inequality measures are substantially higher vis-？-vis comparators based on per capita household consumption expenditures and per capita household wealth, and intrahousehold wealth inequality has a substantial role in explaining overall wealth inequality. While land is a key contributor to wealth inequality across countries, there is cross-country heterogeneity in the relative contributions of asset classes. Self-reporting on asset ownership and valuation, the internationally-recommended best practice, is also shown to lead to higher inequality estimates compared to the business-as-usual survey practice of interviewing a single, most-knowledgeable household member to identify intrahousehold asset owners and values. The discussion expands on the implications of the findings for future surveys and methodological research.]]></summary>
+        <title type="html"><![CDATA[Planning and Mainstreaming Adaptation to Climate Change in Fiscal Policy]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165012</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165012"/>
+        <updated>2022-04-04T06:01:18.995Z</updated>
+        <summary type="html"><![CDATA[This Staff Climate Note is part of a series of three Notes (IMF Staff Climate Note 2022/001, 2022/002, and 2022/003) that discuss fiscal policies for climate change adaptation. A first Note (Bellon and Massetti 2022, henceforth Note 1) examines the economic principles that can guide the integration of climate change adaptation into fiscal policy. It argues that climate change adaptation should be part of a holistic, sustainable, and equitable development strategy. To maximize the impact of scarce resources, governments need to prioritize among all development programs, including but not limited to adaptation. To this end, they can use cost-benefit analysis while ensuring that the decision-making process reflects society’s preferences about equity and uncertainty. A second Note (Aligishiev, Bellon, and Massetti. 2022, henceforth Note 2) discusses the macro-fiscal implications of climate change adaptation. It reviews evidence on the effectiveness of adaptation at reducing climate change damages, on residual risks, and on adaptation investment needs, and suggests ways to integrate climate risks and adaptation costs into national macro-fiscal frameworks with the goal of guiding fiscal policy. It stresses that lower-income vulnerable countries, which have typically not contributed much to climate change, face exacerbated challenges that warrant increased international support. This third Note considers how to translate adaptation principles and estimates of climate impacts into effective policies.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Credit Markets, Property Rights, and the Commons]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164957</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164957"/>
-        <updated>2022-04-04T03:16:50.597Z</updated>
-        <summary type="html"><![CDATA[Credit markets and property rights are fundamental for modern economies, but they also have implications for the commons. Using a dynamic model of competitive resource extraction, we show that improving property right security unambiguously increases conservation incentives, but the effect of credit markets on resource extraction effort hinges on the security of property rights. We test these predictions using data on global fisheries, credit markets, and the largest-ever marine property rights assignment. We find that property right security reduces resource extraction, while credit market development increases resource extraction under insecure property rights but reduces resource extraction under secure property rights.]]></summary>
+        <title type="html"><![CDATA[Eclipse of Rent-Sharing: The Effects of Managers‘ Business Education on Wages and the Labor Share in the US and Denmark]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165001</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165001"/>
+        <updated>2022-04-04T06:01:18.977Z</updated>
+        <summary type="html"><![CDATA[This paper provides evidence from the US and Denmark that managers with a business degree (“business managers”) reduce their employees‘ wages. Within five years of the appointment of a business manager, wages decline by 6% and the labor share by 5 percentage points in the US, and by 3% and 3 percentage points in Denmark. Firms appointing business managers are not on differential trends and do not enjoy higher output, investment, or employment growth thereafter. Using manager retirements and deaths and an IV strategy based on the diffusion of the practice of appointing business managers within industry, region and size quartile cells, we provide additional evidence that these are causal effects. We establish that the proximate cause of these (relative) wage effects are changes in rent-sharing practices following the appointment of business managers. Exploiting exogenous export demand shocks, we show that non-business managers share profits with their workers, whereas business managers do not. But consistent with our first set of results, these business managers show no greater ability to increase sales or profits in response to exporting opportunities. Finally, we use the influence of role models on college major choice to instrument for the decision to enroll in a business degree in Denmark and show that our estimates correspond to causal effects of practices and values acquired in business education - rather than the differential selection into business education of individuals unlikely to share rents with workers.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intergenerational Mobility Begins Before Birth]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164955</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164955"/>
-        <updated>2022-04-04T03:16:50.589Z</updated>
-        <summary type="html"><![CDATA[Nearly 40% of births in the United States are unintended, and this phenomenon is disproportionately common among Black Americans and women with lower education. Given that being born to unprepared parents significantly affects children’s outcomes, could family planning access affect intergenerational persistence of economic status? We extend the standard Becker？Tomes model by incorporating an endogenous family planning choice. When the model is calibrated to match observed patterns of unintended fertility, we find that intergenerational mobility is significantly lower than that in the standard model. In a policy counterfactual where states improve access to family planning services for the poor, intergenerational mobility improves by 0.3 standard deviations on average. When we calibrate the model to match unintended birth rates by race, we find that differences in family planning access alone can account for 20% of the racial gap in upward mobility. Helping women fulfill their goals about family planning and childbearing can improve social mobility and address racial inequality.]]></summary>
+        <title type="html"><![CDATA[Difference-in-Differences Estimators of Intertemporal Treatment Effects]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165002</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165002"/>
+        <updated>2022-04-04T06:01:18.818Z</updated>
+        <summary type="html"><![CDATA[We study treatment-effect estimation, with a panel where groups may experience multiple changes of their treatment dose. We make parallel trends assumptions, but do not restrict treatment effect heterogeneity, unlike the linear regressions that have been used in such designs. We extend the event-study approach for binary-and-staggered treatments, by redefining the event as the first time a group’s treatment changes. This yields an event-study graph, with reduced-form estimates of the effect of having been exposed to a weakly higher amount of treatment for ℓ periods. We show that the reduced-form estimates can be combined into an economically interpretable cost-benefit ratio.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Entry Remedy Collusion? Evidence from the Generic Prescription Drug Cartel]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164960</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164960"/>
-        <updated>2022-04-04T03:16:50.570Z</updated>
-        <summary type="html"><![CDATA[Entry represents a fundamental threat to cartels engaged in price fixing. We study the extent and effect of this behavior in the largest price fixing case in US history, which involves generic drugmakers. To do so, we link information on the cartel’s internal operations to regulatory filings and market data. We find that collusion induces significant entry, which in turn reduces prices. However, regulatory approvals delay most entrants by 2-4 years. We then estimate a structural model to assess counterfactual policies. We find that reducing regulatory delays by just 1-2 years equates to consumer compensating variation of $597 million-$1.52 billion.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OECD Reviews of Evaluation and Assessment in Education: Bosnia and Herzegovina]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164970</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164970"/>
-        <updated>2022-04-04T03:16:50.562Z</updated>
-        <summary type="html"><![CDATA[Bosnia and Herzegovina (BiH) has high levels of educational attainment and performs similar to other Western Balkan economies in international assessments of student learning, like the Programme for International Student Assessment (PISA). However, large shares of students in BiH continue to leave school without mastering basic competencies and there are signs of inequities in the learning outcomes. BiH also has limited comparable data on teaching and learning and faces considerable capacity and resource constraints. Considering collaboration across the country’s different levels of government is limited, these factors prevent the development and implementation of sustainable education reforms. This review explores some of the contextual features of education systems in BiH and highlights how a stronger evaluation and assessment frameworks can help achieve higher learning standards for all students.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban Sector Inclusion in the Revised Nationally Determined Contributions of Pakistan]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164967</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164967"/>
-        <updated>2022-04-04T03:16:50.550Z</updated>
-        <summary type="html"><![CDATA[This brief suggests guidelines to help policy makers in Pakistan develop a framework for reducing urban emissions as part of its Nationally Determined Contributions under the Paris Agreement.
-
-Urban areas account for more than 70% of global greenhouse gas (GHG) emissions. These come from the cities’ energy use, transport, industries, and agriculture. Nationally Determined Contributions pave the way for adaptation and mitigation measures to address GHG emissions in urban areas. Policy options include benchmarking and measurement studies, strategic environmental assessment, comprehensive city planning, green infrastructure, investing in cleaner and efficient technologies, and encouraging urban agriculture and lifestyle change, among others. Adopting sustainable and climate-responsive policies entails addressing institutional challenges in improving policy implementation at the local level.
-
-Additional Details
-
-Authors
-Javed, Nasir
-Hobson, Melanie
-Type
-Papers and Briefs
-Series
-ADB Briefs
-Subjects
-Climate change
-Sustainable transport and urban development
-Urban development
-Countries
-Pakistan
-Pages
-10
-Dimensions
-8.5 x 11
-SKU
-BRF220101-2
-ISBN
-978-92-9269-417-3 (print)
-978-92-9269-418-0 (electronic)
-ISSN
-2071-7202 (print)
-2218-2675 (electronic)]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatial Misallocation, Informality, and Transit Improvements : Evidence from Mexico City]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164966</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164966"/>
-        <updated>2022-04-04T03:16:50.538Z</updated>
-        <summary type="html"><![CDATA[This paper proposes a new mechanism to explain resource misallocation in developing countries: the high commuting costs within cities that prevent workers from accessing formal employment. To test this mechanism, the paper combines a rich collection of microdata and exploits the opening of new subway lines in Mexico City. The findings show that transit improvements reduce informality by 7 percent in areas near the new stations. The paper develops a spatial model that accounts for the direct effects of infrastructure in perfectly economies and allocative efficiency. Changes in allocative efficiency driven by workers’ reallocation to the formal sector amplify the gains by 20？25 percent.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-Run Impacts of the Conflict in Ukraine on Food Security in Africa]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164975</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164975"/>
-        <updated>2022-04-04T03:16:50.527Z</updated>
-        <summary type="html"><![CDATA[Many African countries heavily rely on imports of agricultural commodities and agricultural inputs from Ukraine and Russia, for example wheat, other grains, and fertilizer. Russia’s invasion of Ukraine has disrupted global access to grains due to reduced production, exports, and increased trade costs. This policy brief investigates the possible long-term consequences of the conflict on food security in Africa. We use a long-run general equilibrium trade model and study three scenarios that may evolve as a consequence of the conflict: 1) Ending exports of Ukrainian wheat and other cereals for food production, such as corn or sorghum. 2) Russia‘s potential ban on exports of grains and fertilizers, and 3) The impact of increased trade costs due to disrupted trade routes in the Black Sea. The model simulations show the conflict will severely compromise food security in Africa. We document important cross-country heterogeneity in the severity of impacts.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaccination Rates and COVID Outcomes across U.S. States]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164962</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164962"/>
-        <updated>2022-04-04T03:16:50.499Z</updated>
-        <summary type="html"><![CDATA[Rates of COVID deaths and cases differ markedly across U.S. states, as do rates of vaccination. This study uses cross-state regressions to assess impacts of vaccinations on COVID outcomes. A number of familiar issues concerning cross-sectional regressions arise, including omitted variables, behavioral responses to vaccination, and reverse causation. The benefits from a field context and from the broad range of observed variations suggest the value from dealing with these issues. Results along these lines reveal sizable negative effects of vaccination on deaths and cases up to early December 2021, although vaccine efficacy seems to wane over time. The estimates imply that 250 additional doses, with a marginal cost around $5000, leads to one expected life saved. This $5000 is far below typical estimates of the value of a statistical life. Results since December 2021 suggest smaller effects of vaccinations on deaths and, especially, cases. These findings may reflect diminishing effectiveness of vaccines against new forms of the virus, especially the omicron variant. A further possibility is that confidence engendered by vaccinations may have motivated individuals and governments to lessen non-pharmaceutical interventions, such as masking and social distancing.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do Private Equity Fees vary across Public Pensions?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164959</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164959"/>
-        <updated>2022-04-04T03:16:50.473Z</updated>
-        <summary type="html"><![CDATA[We study how investment fees vary within private-capital funds. Net-of-fee return clustering suggests that most funds have two tiers of fees, and we decompose differences across tiers into both management and performance-based fees. Managers of venture capital funds and those in high demand are less likely to use multiple fee schedules. Some investors consistently pay lower fees relative to others within their funds. Investor size, experience, and past performance explain some but not all of this effect, suggesting that unobserved traits like negotiation skill or bargaining power materially impact the fees that investors pay to access private markets.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anchored or Not: How Much Information Does 21st Century Data Contain on Inflation Dynamics?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164972</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164972"/>
-        <updated>2022-04-04T03:16:50.459Z</updated>
-        <summary type="html"><![CDATA[Inflation was low and stable in the United States during the first two decades of the 21st century and broke out of its stable range in 2021. Experience in the early 21st century differed from that of the second half of the 20th century, when inflation showed persistent movements including the ＂Great Inflation＂ of the 1970s. This analysis examines the extent to which the experience from 2000-2019 should lead a Bayesian decisionmaker to update their assessment of inflation dynamics. Given a prior for inflation dynamics consistent with 1960-1999 data, a Bayesian decisionmaker would not update their view of inflation persistence in light of 2000-2019 data unless they placed very low weight on their prior information. In other words, 21st century data contains very little information to dissuade a Bayesian decisionmaker of the view that inflation fluctuations are persistent, or ＂unanchored＂. The intuition for, and implications of, this finding are discussed.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provincial Facilitation for Investment and Trade Index: Measuring Economic Governance for Business Development in the Lao People’s Democratic Republic ―Second Edition]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164969</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164969"/>
-        <updated>2022-04-04T03:16:50.439Z</updated>
-        <summary type="html"><![CDATA[This report presents the findings of the second Provincial Facilitation for Investment and Trade (ProFIT) survey in the Lao People’s Democratic Republic. The ProFIT index aims to measure how well provinces support private sector development, notably through economic governance measures that are under their mandate. The report shares analysis in six key areas: (i) ease of starting a business, (ii) transparency and access to information, (iii) regulatory burden, (iv) informal charges, (v) consistency in policy implementation, and (vi) business friendliness of the provincial administration. It notes improvements in the business environment across all provinces because of progress made in registration requirements.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provincial Facilitation for Investment and Trade Index: Gender Analysis for Measuring Economic Governance for Business Development in the Lao People’s Democratic Republic―Second Edition]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164968</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164968"/>
-        <updated>2022-04-04T03:16:50.096Z</updated>
-        <summary type="html"><![CDATA[This report, the first of its kind, provides a comparative picture of the experiences and perceptions of the business community in the Lao People‘s Democratic Republic (PDR) in complying with government regulations by gender.
-
-It presents the findings of the second Provincial Facilitation for Investment and Trade (ProFIT) survey in the Lao PDR that shed light on women‘s participation in economic activities and the constraints that women entrepreneurs face in doing business. It notes that women entrepreneurs reported that their business registration takes longer and costs more. The report urges the government to train staff to overcome hidden gender biases and make it easier for women to create and run businesses.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Yield Debt Covenants and Their Real Effects]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164958</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164958"/>
-        <updated>2022-04-04T03:16:50.081Z</updated>
-        <summary type="html"><![CDATA[High-yield debt including leveraged loans is characterized by incurrence financial covenants, or “cov-lite” provisions. A traditional loan agreement includes maintenance covenants, which require continuous compliance with the covenant threshold, and their violation shifts the control rights to creditors. Incurrence covenants preserve equity control rights but trigger pre-specified restrictions on the borrower’s actions once the covenant threshold is crossed. We show that the prevalence of incurrence covenants indirectly imposes significant constraints on investments as restricted actions become binding: Similar to the effects associated with the shift of control rights to creditors in traditional loans, the drop in investment under incurrence covenants is large and sudden. The deleveraging and drop in investment and market value associated with such latent violations point to a shock amplification mechanism through contractual restrictions that are at play for a highly levered corporate sector prior to firms filing for bankruptcy and independently of whether they ever do so.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberbullying: An overview of research and policy in OECD countries]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164974</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164974"/>
-        <updated>2022-04-04T03:16:50.072Z</updated>
-        <summary type="html"><![CDATA[Cyberbullying is a high priority policy challenge in many OECD countries. In recent years, the literature base on cyberbullying has rapidly expanded, shedding insights into the prevalence of the issue, highlighting which characteristics make children more likely to be cyberbullied, those that make them more likely to cyberbully others, and how this affects or is affected by well-being. Education systems have responded to this challenge in different ways such as promoting awareness of the issue, providing support to children in schools, through Internet safety initiatives, and implementing policies and sometimes laws to combat cyberbullying. There are a number of empirically assessed interventions that aim to support victims and reduce perpetration, although more information is needed on how to develop and scale up effective interventions. Furthermore, the current literature base underscores the need to establish a common and agreed upon definition of cyberbullying, and a need for research to identify its causes and effects.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payment for Order Flow And Asset Choice]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164963</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164963"/>
-        <updated>2022-04-04T03:16:50.065Z</updated>
-        <summary type="html"><![CDATA[The paper documents important differences in payment for order flow (PFOF), spreads, and price improvement across asset classes. In stocks, we show that PFOF is small. While many retail trades are executed off-exchange, we find that they receive meaningful price improvement, particularly when spreads are at their minimum. In single-name equity options, we show that PFOF is large. While all option trades are executed on-exchange, option exchanges have rules that facilitate internalization. We exploit variation in the Designated Market Maker (DMM) assignments at option exchanges to show that retail traders receive less price improvement, and worse prices, from those DMMs who pay PFOF to brokers, costing retail investors billions per year. Current debate concerning PFOF has focused on equity routing. We show that option routing is comparatively worse, and this gives rise to a second potential conflict of interest of brokers: encouraging customers to trade assets offering higher PFOF. As fintech has eliminated retail commissions, these cross-asset differences in PFOF have become far more consequential to broker incentives.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxation of Robots]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164965</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164965"/>
-        <updated>2022-04-04T03:16:50.051Z</updated>
-        <summary type="html"><![CDATA[This brief argues for taxation of robots that applies the principles of efficiency, equity, stabilization of international capital markets, and administrative feasibility.
-
-The brief proposes taxation of robots based on income and consumption, as well as on their characteristics of capital or labor. Such taxation could help meet the cost of supporting workers replaced by robots and could enhance the equity of the overall tax structure. The brief notes that increased use of robots could lead to a shrinking of traditional payroll and income tax bases, and discusses the advantages and disadvantages of taxing robots. It also explores possible tax instruments and relevant developments in Asia and beyond.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smoking, Selection, and Medical Care Expenditures]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164961</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164961"/>
-        <updated>2022-04-04T03:16:50.043Z</updated>
-        <summary type="html"><![CDATA[The contribution of cigarette smoking to national health expenditures is thought to be large, but our current understanding of the effect of smoking on annual medical expenditures is limited to studies that use cross-sectional data to make comparisons of medical care expenditures between smokers and never smokers at a particular age. We develop a dynamic economic model of smoking and medical care use that highlights two forms of selection: selective mortality and non-random cessation. To test predictions from our model, we construct novel longitudinal profiles of medical expenditures of smokers and never smokers from merged National Health Interview Survey and Medicare claims information. Consistent with our theory, we find that, from a given age, smokers generate higher expenditures prospectively, because of a higher incidence in inpatient usage, and lower expenditures retrospectively, because of lower outpatient usage. Between ages 65 and 84, we find that the expected value of the discounted sum of total expenditures is lower for smokers, mainly because of excess mortality. We find no evidence that cigarette smoking is a burden on Medicare.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(3.30)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164919</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164919"/>
-        <updated>2022-04-04T03:16:50.025Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(3.30)’을 발표하였다.
-
-- [동향] 러시아-우크라이나 협상이 5차(29일)에서 진전. 단, 약속 이행 여부에 주목 
-
-- [금융시장 반응] 평화협상 이후 러시아-우크라이나 휴전 기대로 위험회피심리 완화
-
-- [해외시각] 미 증시에 대한 낙관론이 누증. 단, 유로존 등에 대한 경계의 시각은 유지]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 소셜 빅데이터 기반 보건복지 이슈 동향 분석]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164927</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164927"/>
-        <updated>2022-04-04T03:16:50.010Z</updated>
-        <summary type="html"><![CDATA[한국보건사회연구원이 『 2021년 소셜 빅데이터 기반 보건복지 이슈 동향 분석』을 발표하였다.
-
-- 빅데이터, 소셜 빅데이터는 데이터 품질, 데이터의 대표성과 신뢰성, 개인정보침해 등에 대한 문제점을 지니고 있지만 점차 다양한 정책분야, 근거기반 정책연구에서 기존의 정형화된 조사데이터와 행정데이터를 보완하는 수단으로서 그 활용가치를 더해가고 있는 가운데 이번 연구에서는 소셜빅데이터 분석 플랫폼 중 하나인 LUCY2.0을 활용하여 장애인, 노인, 아동, 건강보장과 관련된 총 문서량, 월별 문서량 변화, 부정적 및 긍정적 키워드, 해시캐그 검색결과 등을 제시하였음.
-
-- 빅데이터 분석에서는 나타난 결과에 대한 정확한 해석과 판단이 중요하다. 유용하지 않은 정보를 걸러내고 전체 대상에서의 의미있는 관련성을 걸러내기 위해 많은 노력이 필요하며 이를 위해 정책 영역에 대한 보다 치밀한 검토를 통해 연관성을 찾아내어야 할 것임. 이에 사회 많은 영역에서 빅데이터 분석 플랫폼, 소셜빅데이터 분석 플랫폼이 운영되고 있는 시점에서 앞으로 이러한 많은 플랫폼에 대한 적극적인 활용이 필요함.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광역 공시가격 검증센터의 필요성과 역할 검토]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164918</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164918"/>
-        <updated>2022-04-04T03:16:49.993Z</updated>
-        <summary type="html"><![CDATA[한국지방세연구원이 『광역 공시가격 검증센터의 필요성과 역할 검토』를 발표하였다.
-
-- 새 정부의 부동산 공시가격 관련 공약 중 지자체 부동산 공시가격 검증센터 설치가 있는데,  공시가격 검증센터가 공시가격의 형평성을 제고할 수 있는 방안이 될 수 있는지 현 산정·검증 체계의 문제점을 검토함.
-
-- 공시가격의 형평성 측면을 실증분석한 결과, 실제 주택 유형별·지역별로 현실화율 형평성의 차이가 큰데, 이러한 형평성을 제고하기 위하여 기초지자체나 부동산원은 검증 관련 지원이 필요하다고 보임.
-
-- 검증 절차와 관련하여 시간과 자원이 부족하여 이의신청이 거의 반영되지 않는 등, 다음과 같은 문제점들이 존재함. 주택소유자의 의견을 반영할 수 있는 통로가 취약하여 주택소유자의 의견제출과 이의신청이 거의 반영되고 있지 않음. 개별주택의 가격 산정은 기초지자체의 세무공무원이 수행하고 있는데, 권한이 부족. 표준주택과 개별주택에 대하여 각각 산정·검증하는 구조이므로, 전반적인 검증을 할 수 있도록 체계를 정비할 필요
-
-- 현재 산정·검증 체계에서 제외되어 있는 광역지자체가 지원역할 수행이 가능하고, 서울, 경기, 제주에서 자체적 공시가격 검증 기관을 설립하여 운영하고 있음. 공시가격 검증센터가 광역 차원에서 수립되어 가격 검증 기능이 강화된다면, 다음과 같은 역할을 수행할 수 있을 것이라고 기대할 수 있되, 전문성과 법적 근거가 필요함.
- ？ 주택소유자의 의견과 지역별 특수성이 공시가격에 충분히 반영될 수 있게 상호 검증 기능을 상시 수행
- ？ 국토부와 부동산원에 기초지자체 정보를 종합하여 제공하고, 중앙과 기초지자체 간 소통 창구 기능
- ？ 기초지자체의 가격 산정과 이의신청 처리 기능 지원
- ？ 시의적절한 지역별 부동산 가격 모니터링을 통해 지자체 간 형평성 유지]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECB, 비유로 중앙은행에 대한 유로화 유동성 공급라인 확대]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164946</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164946"/>
-        <updated>2022-04-04T03:16:49.978Z</updated>
-        <summary type="html"><![CDATA[한국은행이 「ECB, 비유로 중앙은행에 대한 유로화 유동성 공급라인 확대」를 발표하였다.
-
--  (내 용) ECB는 비유로 중앙은행을 대상으로 통화스왑 신규 체결(폴란드) 및 레포만기연장(동유럽 및 발칸 지역) 등의 유로화 유동성 공급라인 확대 조치 발표(3.28일). 폴란드 중앙은행과 100억 유로 규모의 한시적 통화스왑 계약을 신규 체결. 헝가리·알바니아·북마케도니아·산마리노 중앙은행과의 레포 계약은 동일한 규모로 만기를 연장(22.3.31일 → 23.1.15일)]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동태적 사업 개념 노동법상 사업 개념의 재검토]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164923</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164923"/>
-        <updated>2022-04-04T03:16:49.922Z</updated>
-        <summary type="html"><![CDATA[한국노동연구원이 『동태적 사업 개념 노동법상 사업 개념의 재검토』를 발표하였다.
-
-<목 차>
-
-제1장 동태적 사업 개념의 기본 의의 
-제2장 외국법 사례 
-제3장 국내 법령 사례 
-제4장 국내 판례 사례 
-제5장 몇 가지 응용사례 
-제6장 결론에 갈음하여]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회배제 대응을 위한 새로운 복지국가 체제 개발]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164926</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164926"/>
-        <updated>2022-04-04T03:16:49.895Z</updated>
-        <summary type="html"><![CDATA[한국보건사회연구원이 『사회배제 대응을 위한 새로운 복지국가 체제 개발』을 발표하였다.
-
-- 총 3개년 중 마지막 연도에 해당하는 본 연구에서는 복지 확대를 위한 사회배제의 대응방안을 사회자본의 관점에서 모색하고자 하였음. 이를 위해, 이론적 고찰을 통해 사회배제와 사회자본, 복지국가와 사회자본의 관계를 살펴보았음. 또한, 소득, 건강, 노동, 정치·사회 참여 영역의 배제 기준을 규정하고, 조사를 통해 각 배제 집단의 사회자본 수준과 어려움에 대한 대처방식 등을 살펴보았음.
-
-- 분석 결과, 배제된 집단은 그렇지 않은 집단에 비하여 사회자본 수준이 취약했다. 사회자본이 취약하다는 것은 단순히 어려움에 처했을 때 도움받기 어렵다는 뜻만은 아님. 사회자본이 취약한 배제된 집단은 정치·사회적 참여 기회가 적을 수밖에 없고, 이는 다시 사회적 배제를 강화하는 배제의 악순환을 낳을 수 있음. 이에, 이 연구는 사회배제 극복의 실마리로써 배제 집단 정치적 대표성 강화의 필요성을 제시하였음. 더불어 사회자본을 형성할 수 있는 토대들에 대한 점검과 연대의 구체적 방안을 끌어낼 논의가 필요함을 제안하였음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICT 산업의 사업체 동학(establishment dynamics) 현황과 경제적 영향 분석]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164928</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164928"/>
-        <updated>2022-04-04T03:16:49.873Z</updated>
-        <summary type="html"><![CDATA[정보통신정책연구원이 「ICT 산업의 사업체 동학(establishment dynamics) 현황과 경제적 영향 분석」을 발표하였다.
-
-- 한국 ICT 산업의 구조에 대한 현황 분석과 성장을 위한 방안을 도출하기 위해 사업체 동학의 관점에서 분석을 수행
-
-- 통계청의 2014-2019년 전국사업체조사 및 기업등록부 연계자료를 활용
-
-- ICT 서비스업은 ICT 제조업 대비 사업체와 일자리 측면에서 진입퇴출이 활발한 것으로 나타났으며 ICT 서비스업의 규모 확장에는 소프트웨어 개발 및 공급업이 큰 역할을 하고 있음.
-
-- ICT 제조업은 높은 생산성 증가율을 기록한 반면 일자리는 감소하는 추세가 지속
-
-- ICT 산업의 생산성 증가 과정에서 진입사업체의 기여도가 낮게 나타났으며 이는 신규사업체 진입 과정에서의 자원 배분 과정이 비효율적일 가능성을 제시
-
-- 진입 측면에서의 비효율성을 제거하고 유망한 사업체의 진입을 독려하는 발판을 마련하는 것이 향후 성장에 있어 중요한 요소가 될 것으로 판단]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(3.31)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164954</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164954"/>
-        <updated>2022-04-04T03:16:49.632Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(3.31)’을 발표하였다.
-
-- [동향] 협상에 대한 러시아측 회의적 어조 및 군사 활동 지속 등으로 러시아-우크라이나 합의 관련 낙관적 시각 약화 
-
-- [금융시장 반응] 러-우크라이나 긴장완화 기대감이 축소된 가운데 리세션 우려가 확대되며 주요국 주가 및 미 국채 금리 하락
-
-- [해외시각] 견고한 고용 지표 등으로 글로벌 경제전망에 대한 긍정적 평가가 제기 되는 한편 펀더멘털 지지 부족을 이유로 금융시장 호조 지속에 대한 회의감도 상존]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 양회를 통해 본 중국의 경제정책 방향과 시사점]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164921</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164921"/>
-        <updated>2022-04-04T03:16:49.625Z</updated>
-        <summary type="html"><![CDATA[대외경제정책연구원이 「2022년 양회를 통해 본 중국의 경제정책 방향과 시사점」을 발표하였다.
-
--  2022년 3월에 개최된 양회에서 중국정부는 경제 하방압력 심화, 미중 갈등의 장기화, 코로나19 등 대내외적인 경제 불확실성에 대응하여 ‘경제안정’을 최우선 목표로 하는 2022년 경제 운영계획을 발표함.
-
-- 중국정부는 2022년 경제성장률 목표로 ‘5.5% 내외’를 발표하고, 이를 달성하기 위해서 적극적인 경기부양책을 통하여 국내 소비와 투자시장의 활성화를 추진하고자 함. 
-
-- 2022년 중국은 △산업 고도화 △지역 균형 발전 △소비 활성화 △대외개방 수준 제고를 추진할 계획으로, 한국은 이에 따른 산업·시장·제도 변화를 모니터링하고 중장기적 대응전략을 마련할 필요가 있음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔화 약세가 일본 경제에 미치는 영향에 대한 최근 논의]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164947</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164947"/>
-        <updated>2022-04-04T03:16:49.608Z</updated>
-        <summary type="html"><![CDATA[한국은행이 「엔화 약세가 일본 경제에 미치는 영향에 대한 최근 논의」를 발표하였다.
-
-- 엔/달러 환율은 3월 들어 급격한 상승세를 보이고 있으며, 일본은행 금융정책결정회의(3.18일) 이후 120엔을 상회하면서 3.25일 장중 한때 122엔대에 진입. 일본경제의 구조 변화와 최근의 대외 여건을 감안할 때 이러한 엔화 약세현상이 일본 경제에 미치는 영향에 대해 논의가 활발히 진행되고 있음ㅇ 일본은행은 대체로 엔화 약세가 수출 및 물가를 끌어올려 경제 전체적으로 긍정적이라는 입장을 견지하고 있으나, 시장에서는 무역수지 악화, 소비심리 위축 등 엔화 약세의 부정적 측면에도 주목하는 모습
-
-- 일본은행은 엔화 약세가 크게 다음 경로를 통해 실물 경제에 영향을 미치는것으로 분석 (22.1월 전망보고서)
-① 수출기업 가격경쟁력 개선에 따른 재화수출량 증가 (+)
-② 엔화기준 재화수출액 증가에 따른 기업수익 증가 (+)
-③ 서비스 수출(방일외국인 인바운드 소비) 증가 (+)
-④ 소득수지(해외소득 순수취 엔화 환산액 증가) 개선 (+)
-⑤ 수입비용 상승에 따른 기업수익？소비자 구매력 저하 (-)]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 월마트, 금융 슈퍼앱 구축 본격화]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164929</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164929"/>
-        <updated>2022-04-04T03:16:40.841Z</updated>
-        <summary type="html"><![CDATA[하나금융경영연구소가 「美 월마트, 금융 슈퍼앱 구축 본격화」를 발표하였다.
-
-- 미국 최대 유통 업체 월마트는 2021년 초 합작 형태로 핀테크 스타트업을 설립하여 우수 인재를 영입하는 등 포용적인 혁신 금융서비스를 한 개의 슈퍼앱으로 제공하겠다는 포부를 밝혔음. 그동안 잠행모드로 운영하다가 최근에 두 곳의 핀테크 회사를 인수한다고 발표하면서 본격적인 사업 착수를 예고한 것임. 이번 인수를 통해 탄생한 ONE은 은행라이선스를 획득하는 대신에 은행과 각종 핀테크 회사와의 제휴를 통해 손님 및 직원, 나아가 일반 소비자를 대상으로 사업을 확대할 계획임.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한의 ICBM 도발: 평가와 전망]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164948</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164948"/>
-        <updated>2022-04-04T03:16:40.831Z</updated>
+        <updated>2022-04-04T06:01:18.760Z</updated>
         <summary type="html"><![CDATA[통일연구원이 『북한의 ICBM 도발: 평가와 전망』을 발표하였다.
 
 - 북한은 지정학적 위기와 남한의 권력교체기를 미·북 교착상황을 타개할 적기로 보고 ICBM 도발을 강행했음.북한은 이를 통해 군사적·외교적·안보적·국내정치적목적을 동시에 달성하기를 기대함.하지만 북한의 도발은 오히려 교착국면의 구조화와 장기화를 촉진해 북한의 전략적 이해에 반하는 결과를 초래할 가능성이 높음.
@@ -468,26 +102,170 @@ The brief proposes taxation of robots based on income and consumption, as well a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICT산업 2021년 4분기 동향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164953</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164953"/>
-        <updated>2022-04-04T03:16:40.388Z</updated>
-        <summary type="html"><![CDATA[한국수출입은행이 『ICT산업 2021년 4분기 동향』을 발표하였다.
+        <title type="html"><![CDATA[The macroeconometric model of the Bundesbank revisited]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165007</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165007"/>
+        <updated>2022-04-04T06:01:18.736Z</updated>
+        <summary type="html"><![CDATA[The use of a semi-structural model as one of the workhorse tools for macroeconomic analysis and projections at the Bundesbank has a long-standing tradition. In an iterative projection process, the macroeconometric model’s main task is to merge projections by Bundesbank experts for various areas of the economy and other information into a unifying framework in order to develop a consistent narrative on the outlook for the German economy. Besides this, the model is frequently used to perform simulation analyses both in the projection context and beyond. Its structure thus has to be broad enough to capture the key interdependencies within the macroeconomy whilst also including a sufficiently detailed setup. This paper summarises the model’s main equation blocks, shows growth decompositions of key macro variables and presents selected simulation results in order to illustrate key transmission channels. The model has a traditional semi-structural character and is set in a national accounts framework. Most of its central behavioural equations follow an error-correction mechanism and are estimated individually based on quarterly data. One particular feature is the constant elasticity of substitution (CES) production technology with a two-level nested structure that integrates energy as a third input factor in addition to capital and labour. In the model’s price block, behavioural equations for most deflators and HICP core inflation are jointly specified and estimated via a system approach. Moreover, the model contains a rich fiscal block.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Scarcity to Abundance: Government and Private Initiatives to Manage the Allocation of N95 Masks in the U.S. During the COVID-19 Pandemic]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164995</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164995"/>
+        <updated>2022-04-04T06:01:18.684Z</updated>
+        <summary type="html"><![CDATA[This paper examines the structure, behavior and performance of the N95 respirator market in the U.S. before and during the COVID-19 pandemic (2020-early 2022). It focuses on the behavior and performance of government and private sector organizations in the allocation of scarce supplies of N95 respirators during the pandemic in the U.S. The experience with the supply, demand, allocation, rationing, and pricing of N95s during the first two years of the pandemic provides instructive examples of how the public and private sectors can work in tandem with regulatory support rather than coercion to achieve widely accepted public health goals. Of particular interest is the adoption of voluntary private market segmentation, rationing and price maintenance policies during roughly the first year of the pandemic, led by the dominant U.S. manufacturer of N95s.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Decision-Making in Retail Chains: Evidence from Inventory Management]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164997</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164997"/>
+        <updated>2022-04-04T06:01:18.677Z</updated>
+        <summary type="html"><![CDATA[This paper examines the effects of decentralizing decision-making in multi-establishment firms. Using a unique dataset from the Liquor Control Board of Ontario (LCBO), we assess the impact of allowing store managers to control the inventory replenishment decisions of their stores. We first present evidence of strong heterogeneity across the inventory decisions of the 634 store managers in the retail chain. We then study the sources of this heterogeneity by focusing on differences across stores in the structure of the profit function. We estimate a separate dynamic structural model of inventory management for each store manager in the retail chain using two years of daily data. We find very substantial heterogeneity across stores in unit costs of holding inventory, placing orders, and stockouts, and in fixed ordering costs. Using counterfactual experiments based on the estimated model, we find that a centralized inventory management system would yield a 0.4% increase in annual profit for LCBO, equivalent to $6.8 million. This modest effect is the result of combining two substantial effects with opposite signs: the negative effect of delaying the processing of information is more than compensated by the large reduction in ordering and storage costs from eliminating store managers‘ behavioral biases and heterogeneous skills (i.e., 25.5% on average, 6.3% for the median store). Furthermore, the gains from centralization are very heterogeneous across stores in the retail chain, with both very substantial losses and gains. These distributional effects within multi-divisional companies can be relevant when deciding whether to adopt an organizational change.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[why removing monetary policy accommodation is necessary]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165008</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165008"/>
+        <updated>2022-04-04T06:01:18.670Z</updated>
+        <summary type="html"><![CDATA[During the COVID-19 recession, the Federal Open Market Committee (FOMC) reduced the target range for the federal funds rate to near zero and began large purchases of U.S. Treasury securities and agency mortgage-backed securities. Although the recession ended nearly two years ago, U.S. monetary policy settings remain set near peak accommodation―with the policy rate only 0.25 percentage points higher now and the size of the Fed’s balance sheet at nearly $9 trillion.
 
-- (반도체) 4분기 메모리반도체 시장은 전년동기 대비 37% 성장했으나 수요둔화, 가격하락 등으로 전분기 대비 4% 감소 
+The Federal Reserve has a mandate to promote maximum employment and price stability. The labor market has fully recovered from the recession by nearly every measure, and it has gone beyond pre-recession levels by several measures. Moreover, inflation is running well above the 2% rate that the FOMC equates with price stability, and monetary policy has not been reset for these macroeconomic conditions. That is why it is necessary for the FOMC to remove monetary policy accommodation.1See my related presentation on March 2, 2022, “Removing Monetary Policy Accommodation.”]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiscal Stimulus and Commercial Bank Lending Under COVID-19]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164989</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164989"/>
+        <updated>2022-04-04T06:01:18.658Z</updated>
+        <summary type="html"><![CDATA[We investigate the implications of extra-normal government spending under the COVID-19 pandemic for commercial bank lending growth between 2019Q4 and 2020Q4 in a large sample of over 3000 banks from 71 countries. We control for pre-pandemic structural factors, bank characteristics and government debt. To address the likely endogeneity of government assistance under the pandemic, we instrument for extra-normal spending using disparities in pre-existing national political characteristics for identification. Our results indicate that while higher government spending was associated with higher commercial bank lending, higher public debt going into the crisis weakened the expansionary effects of higher spending on bank lending at economically and statistically significant levels. Moreover, this sensitivity is higher among weaker banks, suggesting that bank lending responses to government spending under COVID-19 reflected the perceived implications of such spending for government assistance of the banking sector going forward. Our results are robust to a variety of sensitivity analyses, including perturbations in specification, sample, and estimation methodology.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OECD Economic Outlook, Interim Report March 2022 : Economic and Social Impacts and Policy Implications of the War in Ukraine]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165009</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165009"/>
+        <updated>2022-04-04T06:01:18.652Z</updated>
+        <summary type="html"><![CDATA[The effect of the war in Ukraine on OECD countries, and beyond, will be profound. The humanitarian cost is already extremely high: millions of people are fleeing the war zone. This Interim Report focuses on the potential economic and social consequences of the war. The war is expected to slow the global recovery from the COVID-19 pandemic and further push up inflation worldwide.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Household Portfolios and Retirement Saving over the Life Cycle]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164990</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164990"/>
+        <updated>2022-04-04T06:01:18.644Z</updated>
+        <summary type="html"><![CDATA[This paper documents the share of investable wealth that middle-class U.S. investors hold in the stock market over their working lives. This share rises modestly early in life and falls significantly as people approach retirement. Prior to 2000, the average investor held less of their investable wealth in the stock market and did not adjust this share over their working life. These changes in portfolio allocation were accelerated by the Pension Protection Act (PPA) of 2006, which allowed employers to adopt target date funds (TDFs) as default options in retirement saving plans. Young retail investors who start at an employer shortly after it adopts TDFs have higher equity shares than those who start at that same employer shortly before the change in defaults. Older investors rebalance more to safe assets. We also study retirement contribution rates over the life-cycle and find that average retirement saving rates increase steadily over the working life. In contrast to what we find for investment in the stock market, contribution rates have been stable over time and across cohorts and were not increased by the PPA.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The private sector advances in China: The evolving ownership structures of the largest companies in the Xi Jinping era]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165010</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165010"/>
+        <updated>2022-04-04T06:01:18.638Z</updated>
+        <summary type="html"><![CDATA[This paper documents recent structural changes in China’s corporate landscape, based on company-level data, providing a complementary perspective to that of official Chinese statistics. We classify China’s largest companies by revenue since 2004 (based on Fortune Global 500 rankings), and largest listed companies by market capitalization since 2010, into state and private-sector categories, using a conservative definition of the private sector. Among the largest companies by revenue, the private sector was nonexistent in the mid-2000s but has grown steadily in the past decade, even though the state sector still dominates. The aggregate revenue of private-sector companies has grown from zero in Fortune’s ranking in 2005 (based on 2004 revenue) to $104 billion in the 2011 ranking, or merely 3.8 percent of the $2.78 trillion in aggregate revenue for all Chinese companies in the ranking, and to $1.7 trillion in the latest 2021 ranking (based on 2020 revenue), or 19 percent of the Chinese companies’ aggregate revenue. As for market value of the largest listed firms, the private sector’s share in the top 100 listed Chinese companies was only 8 percent at end-2010 but crossed the 50 percent threshold in 2020 and retreated slightly in 2021 to 48 percent, following that year’s regulatory crackdown on several private-sector-dominated industries. These findings do not support a narrative of broad-based rollback in recent years of previous private-sector expansion.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impacts of Basic Income on Health and Economic Well-Being: Evidence from the VA’s Disability Compensation Program]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164994</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164994"/>
+        <updated>2022-04-04T06:01:18.631Z</updated>
+        <summary type="html"><![CDATA[We study impacts of a cash transfer program with no means-test and no work restrictions: the US Department of Veteran Affairs (VA) Disability Compensation program. Our empirical strategy leverages quasi-random assignment of veterans claiming mental disorder disability to examiners who vary in their assessing tendencies. We find that an additional $1,000 per year in transfers decreases food insecurity and homelessness by 4.1% and 1.3% over five years, while the number of collections on VA debts declines by 6.4%. Despite facing virtually no direct monetary costs, healthcare utilization increases by 2.5% over the first five years, with greater engagement in preventive care and improved medication adherence. This demand response is in part explained by the ability to overcome indirect costs of accessing care (＂ordeals＂). Additionally, VA-conducted surveys suggest that transfers improve communication and trust between veterans and VA clinicians, leading to greater overall satisfaction. Apart from a reduction in self-reported pain, we estimate precise null effects on mental and physical health, including depression, alcohol and substance use disorders, body mass index, blood pressure, and glucose levels. Effects on mortality are small: we can rule out reductions greater than 0.011 percentage points (0.14%) over five years.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a Website Bring Unemployment Down? Experimental Evidence from France]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165005</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165005"/>
+        <updated>2022-04-04T06:01:18.624Z</updated>
+        <summary type="html"><![CDATA[We evaluate the impact of an online platform giving job seekers tips to improve their search and recommendations of new occupations and locations to target, based on their personal data and labor market data. Our experiment used an encouragement design and was conducted in collaboration with the French public employment agency. It includes 212,277 individuals. We find modest effects on search methods: the users of the platform adopt some of its tips and they are more likely to use resources provided by public employment services. However, following individual trajectories for 18 months after the intervention, we do not observe any impact on time spent looking for a job, search scope (occupational or geographical), or self-reported well-being. Most importantly, we do not find any effect on any employment outcome, whether in the short or medium run. We conclude that the enthusiasm around the potential for job-search assistance platforms to help reduce unemployment should be toned down.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sovereign Bond Restructuring: Commitment vs. Flexibility]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165003</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165003"/>
+        <updated>2022-04-04T06:01:18.612Z</updated>
+        <summary type="html"><![CDATA[Sovereigns in distress often engage in debt restructuring, typically negotiating with multiple classes of bondholders at once. We use natural experiments to investigate whether sovereign bondholders benefit from committing not to restructure. We find that committing not to restructure one class of bonds is valuable for not only that class, but, in contrast to received theory, for others too. We develop a model to rationalize these cross-bond spillovers. It points to a system of cross-bond equations that, we show, can be exploited to quantify natural experiments and to estimate unobservable elasticities in terms of a few sufficient statistics.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Preferred-Habitat Model of Term Premia, Exchange Rates, and Monetary Policy Spillovers]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165000</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165000"/>
+        <updated>2022-04-04T06:01:18.598Z</updated>
+        <summary type="html"><![CDATA[We develop a two-country model in which currency and bond markets are populated by different investor clienteles, and segmentation is partly overcome by global arbitrageurs with limited capital. Our model accounts for the empirically documented violations of Uncovered Interest Parity (UIP) and the Expectations Hypothesis, and for how UIP violations depend on bond maturity, investment horizon, and yield curve slope differentials. Large-scale purchases of long-maturity bonds lower domestic and foreign bond yields, and depreciate the currency. Conventional monetary policy is transmitted to domestic and international bond yields as well, but its international transmission is weaker than for unconventional policy.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내·외 원료의약품(API) 공급망 현황]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164986</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164986"/>
+        <updated>2022-04-04T06:01:18.585Z</updated>
+        <summary type="html"><![CDATA[KDB미래전략연구소가 「국내·외 원료의약품(API) 공급망 현황」을 발표하였다.
 
-- (디스플레이) 4분기 세계 디스플레이 시장은 전반적인 TV 수요 둔화에도 불구하고 프리미엄 TV 시장 성장, 스마트폰용 OLED 수요 증가 등으로 전년동기 대비 7% 성장 
+- 원료의약품(API)은 의약품 제조에 사용되는 물질 또는 물질의 혼합물로써 의약품 제조 핵심 물질에 해당하며, 코로나19 이후 국내·외 원료의약품 수급불균형으로 각국은 의약품 제조에 어려움이 발생
 
-- (휴대폰) 4분기 세계 스마트폰 출하량은 부품 공급 부족 등으로 전년동기 대비 3.2% 감소, 연말 성수기 등으로 전분기 대비 9.4% 증가한 3.6억대 기록]]></summary>
+- 원료의약품 자급도가 낮은 국내 및 국외 주요국은 의약품 제조를 통한 자국내 보건안전을 강화하고자 원료의약품 공급망을 점검중]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial education in a digital world]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165006</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165006"/>
+        <updated>2022-04-04T06:01:18.579Z</updated>
+        <summary type="html"><![CDATA[The Covid-19 (Covid) pandemic has had a profound effect on the way we live our lives. It has impacted our relationship with the economy by changing the way we work and where we choose to live. And it has affected our relationship with money by accelerating the transition away from cash and towards digital payments.
+
+What are young people to make of all this? How can they prepare themselves for a financial and economic world that is changing so rapidly? Young people get their financial education from various sources ？ including at school and in the home. But provision can vary between schools, and some parents feel more comfortable than others talking to their children about money. The decline in cash use presents a specific challenge given its role in many children’s earliest financial education ？ from piggy banks to pocket money.
+
+This article explores the provision of financial and economic education and how it is evolving in response to a changing economic and financial world. It focuses in particular on financial education in schools and the barriers to increasing provision in the classroom, including drawing on newly commissioned research from a panel of more than 7,000 teachers. It also explores the consequences for financial education of the declining use of cash, and the challenges and opportunities offered by a move to more digital payments. While it does not profess to offer the answers, it does set out some key questions that merit further discussion.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Socioeconomic diversity of economics PhDs]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164996</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164996"/>
+        <updated>2022-04-04T06:01:18.571Z</updated>
+        <summary type="html"><![CDATA[It is well documented that women and racial and ethnic minorities are underrepresented in the economics profession, relative to both the general population and many other academic disciplines. Less is known about the socioeconomic diversity of the profession. In this paper, we use data from the National Science Foundation’s Survey of Earned Doctorates to examine the socioeconomic background of US economics PhD recipients as compared with US PhD recipients in other disciplines, proxying for socioeconomic background using PhD recipients’ parents’ educational attainment. We find that economics PhD recipients are substantially more likely to have highly educated parents, and less likely to have parents without a college degree, than PhD recipients in other disciplines. This is true both for US-born and non-US-born PhD recipients, but the gap between economics and other disciplines is starker for those born in the United States. The gap in socioeconomic diversity between economics and other PhD disciplines has increased over the last two decades.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[신규 민자고속도로 제안사업 평가체계 마련 연구]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164950</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164950"/>
-        <updated>2022-04-04T03:16:40.366Z</updated>
+        <updated>2022-04-04T06:01:18.557Z</updated>
         <summary type="html"><![CDATA[국토연구원이 『신규 민자고속도로 제안사업 평가체계 마련 연구』를 발표하였다.
 
 - 기존의 민자고속도로 추진 절차의 문제점 분석 > 자고속도로 사업은 그 특성상 수익성·효율성에 중점을 두고 있기 때문에, 사업의 사회성, 공공성 제고를 위한 추진 절차의 개선이 요구됨. 다수의 신규 민자고속도로 사업이 제안되었을 시, 사업추진여부 및 투자우선순위 결정을 위한 평가체계가 부재
@@ -509,49 +287,20 @@ SUMMARY
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일본 소비자물가가 상대적으로 낮은 요인에 대한 일본은행의 시각]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164945</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164945"/>
-        <updated>2022-04-04T03:16:40.351Z</updated>
-        <summary type="html"><![CDATA[한국은행이 「일본 소비자물가가 상대적으로 낮은 요인에 대한 일본은행의 시각」을 발표하였다.
-
-- 코로나 펜더믹 쇼크 이후 미국 등 주요국의 소비자물가는 급격히 상승하고있으나 일본은 상승률이 완만한 상황. 미국, 유럽은 생산자물가 및 소비자물가 모두 높은 상승률을 기록하고있으나 일본은 최근 들어 생산자물가만 크게 상승
-
-- 일본은행은 코로나 펜더믹 이후 일본-미국·유럽간의 소비자물가상승률 격차발생 요인으로 ？ 수급상의 요인, ？ 일본기업의 가격 결정력, ？ 물가지수통계 가중치 차이에 주로 기인하는 것으로 분석]]></summary>
+        <title type="html"><![CDATA[Legal Representation in Disability Claims]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165004</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165004"/>
+        <updated>2022-04-04T06:01:18.550Z</updated>
+        <summary type="html"><![CDATA[Legal representatives play a prominent role in the Social Security Disability Insurance adjudication process, earning fees totaling $1.2 billion in 2019. Long ubiquitous in appellate hearings, disability representatives―including attorneys and non-attorneys―have begun appearing more frequently at the beginning of cases, during the initial review. This development has raised questions about the motives of disability law firms, who are sometimes perceived to prioritize their own interests in response to incentives in the fee structure set by the Social Security Administration. We provide the first estimates of the causal impact of legal representation on case outcomes when representatives are engaged from the initial stage. To address selection into representation, we instrument for initial representation using geographic and temporal variation in disability law firm market shares in the closely related but distinct appellate market. We find that representation increases the probability of initial awards, reduces the probability of appeals, and induces no detectable change in the ultimate probability of award. This pattern indicates that legal representation in the initial stage leads to earlier disability awards to individuals who would otherwise be awarded benefits only on appeal. Furthermore, by securing earlier awards and discouraging unsupported appeals, representation reduces total case processing time by nearly one year.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KREI 2021 연차보고서]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164949</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164949"/>
-        <updated>2022-04-04T03:16:40.343Z</updated>
-        <summary type="html"><![CDATA[한국농촌경제연구원이 『KREI 2021 연차보고서』를 발표하였다.
-
-<목 차>
-
-1 일반 현황
-2 연구사업
-3 연구성과
-4 정책지원 및 기타 활동
-5 정보관리
-6 연구조성사업 및 학술활동
-7 국제교류
-8 농정여론 조사사업 및 교육·홍보활동
-9 중국사무소
-10 2021년도 연구보고서 목록
-11 직원명단
-12 2021년도 연구원 주요]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 통화긴축 시기 달러화의 향방]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164952</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164952"/>
-        <updated>2022-04-04T03:16:39.392Z</updated>
+        <updated>2022-04-04T06:01:18.537Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 『미국 통화긴축 시기 달러화의 향방』을 발표하였다.
 
 - [이슈] 연준의 3/16일 정책금리 25bp 인상으로 미국의 금리인상 사이클이 시작됨에 따라 과거 연준의 통화긴축 사례를 분석하여 미 달러화의 향방을 가늠. 과거 통화긴축 시기에 큰 변동성을 보였던 달러화가 금번 금리인상기에는 어떤 움직임을 보일지 관심. 달러화의 향방을 ’90년대 이후 4번의 금리인상 사례를 통해 점검
@@ -568,23 +317,251 @@ SUMMARY
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나 사태의 국제곡물 시장 영향 분석]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164951</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164951"/>
-        <updated>2022-04-04T03:16:39.373Z</updated>
-        <summary type="html"><![CDATA[한국농촌경제연구원이 「우크라이나 사태의 국제곡물 시장 영향 분석」을 발표하였다.
+        <title type="html"><![CDATA[영국 위드코로나 상황 및 경제적 영향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164977</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164977"/>
+        <updated>2022-04-04T06:01:18.530Z</updated>
+        <summary type="html"><![CDATA[한국은행이 「영국 위드코로나 상황 및 경제적 영향」을 발표하였다.
 
-- 2020년 하반기부터 상승세를 보이던 국제곡물 가격은 우크라이나 사태의 악화에 따라 흑해 지역 수출 비중이 높은 밀, 옥수수, 보리를 중심으로 급등. 밀, 옥수수, 콩의 2022년 3월 CBOT 선물가격은 평년 3월 대비 각각 137.7%, 102.1%, 72.0% 상승함. 전쟁으로 인한 흑해지역 곡물 수출량 감소 우려와 주요 곡물 수출국의 수출제한 조치가 최근 국제곡물 가격 상승의 주요인인 것으로 판단됨.
+- 최근 영국 정부는 코로나19와 관련하여 남아있던 법적 규제를 철폐. 오미크론 변이 확산 전후 시행했던 이동제한조치(플랜 B)를 해제(1.27일)하고 확진자의 자가격리 의무를 폐지한 데 이어(2.24일) 최근에는 백신미접종자에 대해서도 입국 전후 코로나19 검사 의무를 폐지(3.18일)
 
-- 우크라이나와 러시아는 옥수수, 밀, 보리, 해바라기유 주요 생산 및 수출국. 우크라이나 세계 곡물 교역량 점유율은 옥수수 14%, 밀 9%, 보리 10%, 해바라기유 43%이며, 러시아는 밀 20%, 보리 14%, 해바라기유 20%임. 흑해 지역의 곡물은 주로 유럽, 중동, 동남아시아, 중국 등으로 수출됨.
+- 영국의 코로나19 규제 철폐는 백신접종 증가에 따른 위중증 감소가 주요 배경으로 작용. 최근 변종 오미크론(BA.2) 확산 등으로 확진자수 및 입원환자수는 늘어나고 있으나 사망자수는 이전 확산기에 비해 낮은 수준을 유지
 
-- 우크라이나 사태로 2022/23년 국제 밀과 옥수수 가격은 약 10~20% 상승할 것으로 예상되며 사태가 장기화될 경우 이러한 고곡가는 상당 기간 유지될 것으로 전망. 우크라이나 사태로 흑해 지역의 2021/22년 밀, 옥수수 수출량은 각각 7백만 톤, 6백만 톤 감소하고, 우크라이나의 금년 봄 작물 생산량과 하계작물 재배 면적은 각각 30% 감소할 것으로 예상됨.
+- 영국경제는 지난해말 이동제한조치 재강화(플랜 B) 등으로 GDP 성장률(전월대비)이 감소(21.12월 ？0.2%)하였으나 금년 초 경제활동 재개로 소비가 늘어나면서 다시 회복세를 이어가는 모습
 
-- 우리나라는 가공용 옥수수(Non-GMO 포함)와 사료용 밀의 흑해산 수입 의존도가 높음. 우크라이나 사태에도 원산지 대체 등을 통해 조달할 수 있을 것으로 보이나 가격 상승으로 인한 국내 물가 인상 압력 증가는 부담. 우리나라는 배합사료 및 식품제조업에 사용되는 곡물 대부분을 수입에 의존하여 국제곡물 시장의 수급 및 가격 변동성이 국내 배합사료, 가공식품, 축산물, 외식업의 생산활동 및 물가 변동성으로 전이됨. 우크라이나 사태 영향으로 국내 가공식품 소비자물가는 3.4~6.8%, 외식 소비자물가는 0.6~1.2%, 배합사료 생산자물가는 5.3~10.6% 상승할 것으로 예상됨.
-
-- 단기적으로 대체 원산지 개발과 국내 물가 영향 최소화를 위한 금융 및 세제 지원이 필요하며, 중장기적으로는 비축 등의 국내 공급 기반 확대, 국제곡물 유통 부문 진입을 통한 국제곡물조달시스템 구축이 필요. 정부는 2020년 하반기 이후의 국제곡물 가격 상승 및 변동성 증가에 더하여 우크라이나 사태로 국제곡물 가격이 추가 상승하자 ‘국제곡물수급대책위원회’를 중심으로 국제곡물 위기 대응 체계를 가동함.]]></summary>
+- 2월 하순 이후 러시아-우크라이나 간 전쟁과 이에 따른 에너지가격 급등에도 불구하고 대부분의 시장 참가자들은 1/4분기중영국경제가 완만한 성장세를 보일 것으로 예상]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.10 「일반회계·특별회계」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164980</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164980"/>
+        <updated>2022-04-04T06:01:18.524Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이  2022년 재정통계 BRIEF No.10 「일반회계·특별회계」를 발표하였다.
+
+- 국가재정은 예산(일반회계, 특별회계)과 기금으로 구분됨. 1차 추경분이 포함된 2022년 예산 기준 총지출은 일반회계 354.4조원, 특별회계 62.8조원, 기금 207.1조원
+
+- 특별회계는 기업특별회계(4개), 책임운영기관특별회계(1개) 및 기타특별회계(15개)로 구성. 책임운영기관은 특허청, 경찰병원, 국립자연휴양림관리소 등 13곳]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(3.31)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164954</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164954"/>
+        <updated>2022-04-04T06:01:18.511Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(3.31)’을 발표하였다.
+
+- [동향] 협상에 대한 러시아측 회의적 어조 및 군사 활동 지속 등으로 러시아-우크라이나 합의 관련 낙관적 시각 약화 
+
+- [금융시장 반응] 러-우크라이나 긴장완화 기대감이 축소된 가운데 리세션 우려가 확대되며 주요국 주가 및 미 국채 금리 하락
+
+- [해외시각] 견고한 고용 지표 등으로 글로벌 경제전망에 대한 긍정적 평가가 제기 되는 한편 펀더멘털 지지 부족을 이유로 금융시장 호조 지속에 대한 회의감도 상존]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.9 「’22년 1차 추가경정예산」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164979</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164979"/>
+        <updated>2022-04-04T06:01:18.503Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.9 「’22년 1차 추가경정예산」을 발표하였다.
+
+- 1차 추경 국회확정액 16.9조원]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.13 「환경」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164983</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164983"/>
+        <updated>2022-04-04T06:01:18.496Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.13 「환경」을 발표하였다.
+
+- 2022년 환경분야 전체 예산은 11.9조원]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 미국 대통령예산안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164978</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164978"/>
+        <updated>2022-04-04T06:01:18.489Z</updated>
+        <summary type="html"><![CDATA[한국은행이 「2023년 대통령예산안」을 발표하였다.
+
+- 3.28일(월) 백악관 예산관리국(Office of Management and Budget)은 총 5.8조 달러규모의 2023 회계연도(2023.10.1~2024.9.30) 예산안과 향후 10년간의 예산추정치를담은 「대통령예산안(President’s Budget)」을 의회에 제출
+
+- 2023년 재량예산(사회보장 등 의무프로그램 지출과 비연계된 순재량지출 기준)은1조5,980억달러규모(국방예산 8,130억달러, 비국방예산 7,690억달러)로 2022년 입법예산대비 +5.7% 증액 편성
+
+- 2023년 재정적자 규모는 1.2조달러(GDP 대비 4.5%)로 2022년(1.4조달러, GDP 대비5.8%) 대비 18.4% 감소, 향후 10년간 재정적자는 기존 전망 대비 1조달러감축 
+
+- GDP 대비 국가부채비율은 2022년말 102.4%(24.8조달러)에서 2032년말 106.7%(39.5조달러)까지 상승하는 것으로 추정하였는데, 이는 기존 전망(109.6%)보다크게 낮은 수준]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[’22.3월 美 기준금리 인상과 향후 전망]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164985</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164985"/>
+        <updated>2022-04-04T06:01:18.481Z</updated>
+        <summary type="html"><![CDATA[KDB미래전략연구소가 「’22.3월 美 기준금리 인상과 향후 전망」을 발표하였다.
+
+- 미 연준은 3월 FOMC에서 인플레이션 대응을 위해 기준금리 25bp 인상을 단행. 향후 ’22년 중 25bp씩 6차례 기준금리 인상이 예상되나, 50bp 이상 인상하는 빅스텝을 밟을 가능성도 배제할 수 없는 상황]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애그테크산업 활성화 방안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164976</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164976"/>
+        <updated>2022-04-04T06:01:18.464Z</updated>
+        <summary type="html"><![CDATA[한국농촌경제연구원이 『애그테크산업 활성화 방안』을 발표하였다.
+
+- 현대 농업은 실리콘밸리처럼 첨단화, 상업화가 주도하고 있다. 여기에서 핵심이 애그테크라는 분석이 지배적임. 환경오염, 기후변화, 소비패턴의 변화 등 다양한 변화에 대응하기 위해 농업에서도 새로운 기술이 필요함. 이러한 기술을 통해 오염, 토양 황폐화, 사막화로 인한 식량 부족, 물 부족, 탄소배출과 같은 실제 문제를 해결하려는 노력들이 이루어지고 있음. 이러한 시장의 확대와 사회적 요구가 증가하면서 투자가 활발히 이루어지고 있고, 시장도 형성되고 있음.
+
+- 농업은 전통적인 식량 생산에서 생태계를 보전하면서 생산성을 높이고, 자원투입을 최소화하는 형태로 변화해 가는 과정에 있음. 이는 소비자들의 요구, 사회적 요구, 환경오염 증가에 대한 부담 증가에 따른 불가피한 선택, 식량 부족 지역에 대한 해결 등의 압력에 의한 불가피한 선택이기도 함.
+
+- 생물학적 기술, 첨단 제조 기술, 자율주행 기술, 상호연결 기술 등 새로운 기술들의 등장으로 농업의 형태도 자연 순응적 방법에서 자연 통제 방법을 통한 새로운 농업들로 변화하고 있음. 드론 및 자율주행 농기계, 스마트팜, 생물기반 농업 투입재 등이 대표적임. 이러한 새로운 농업의 중심에 애그테크가 있다. 이 연구는 농업의 지속가능성 향상과 첨단화, 스마트화를 위한 애그테크산업의 활성화 방안을 도출하는 것을 목적으로 하고 있음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자동차산업 2021 4분기 동향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164984</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164984"/>
+        <updated>2022-04-04T06:01:18.447Z</updated>
+        <summary type="html"><![CDATA[한국수출입은행이 『자동차산업 2021 4분기 동향』을 발표하였다.
+
+< 목 차 >
+
+I. 글로벌 자동차 생산량
+II. 글로벌 자동차 판매량
+     1. 자동차 판매량
+     2. 친환경자동차 판매량
+     3. 주요시장 동향
+III. 국내 자동차산업 동향
+     1. 국내 생산 및 판매 현황
+     2. 수출 현황
+     3. 국내 완성차업체 동향
+IV. 시사점 및 전망]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-ICS 대응 감독회계와 계리제도 연구]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164988</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164988"/>
+        <updated>2022-04-04T06:01:18.432Z</updated>
+        <summary type="html"><![CDATA[보험연구원이 『K-ICS 대응 감독회계와 계리제도 연구』를 발표하였다.
+
+- 보험부채시가평가에 기반한 지급여력제도인 K-ICS가 2023년에 도입될 예정임. K-ICS는 주로 가용자본 및 요구자본 산출방법에 중점을 두고 있어, 이와 연관된 감독회계 와 보험부채 현금흐름에 영향을 미치는 계리제도에 대한 논의의 필요성이 제기되고 있음.
+
+- 현행 계리제도는 원가방식 보험부채에 기반하여 해약환급금, 손익분석, 계약자배당의 기준을 제시하므로 단순히 시가방식 보험부채와 계리제도를 연계한다면 제도의 안정성, 계약자 간 형평성, 보험회사 경영관리 등에 어려움이 발생할 수 있음.
+
+- 본고에서는 먼저 시가방식 부채평가의 주요 내용과 평가방식을 간단한 예시를 통해 설명함. 이후 국내 감독회계의 주요 내용을 파악하고 계리제도의 발전과정과 현황을 살펴본 후, 부채시가평가가 도입된 해외 국가인 캐나다, 호주, 영국뿐만 아니라 미국, 일본을 포함하여 국가별 계리제도를 비교함.
+
+- 해외 사례 및 도입될 제도를 고려하면 향후에는 보험부채에 연계하지 않고 각각의 목적에 맞게 계리 제도가 변화하는 것이 필요함. 해약환급금은 계약자보호뿐만 아니라 현금흐름방식 보험료 산출 및 재무건전성에 미치는 영향, 손익분석은 계약자배당의 기초자료가 아닌 보험회사 손익 변동에 대한 구체적 원인 설명, 계약자배당은 계약자에 대한 합리적 이익 배분 등을 고려하여 개선해야 할 것임.
+
+- 한편 보험부채시가평가는 계리제도뿐만 아니라 주주배당, 법인세 등 다양한 측면으로 보험회사에 영향을 미치게 됨. 이와 같은 주제뿐만 아니라 부채구조조정, 가용자본 및 요구자본 관리 방안 등을 향후 연구과제로 제시함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 재정통계 BRIEF No.12 「연기금투자풀」]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164982</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164982"/>
+        <updated>2022-04-04T06:01:18.418Z</updated>
+        <summary type="html"><![CDATA[한국재정정보원이 2022년 재정통계 BRIEF No.12 「연기금투자풀」을 발표하였다.
+
+- 연기금투자풀은 기금 여유자산의 수익률을 제고하고 안정적으로 관리하기 위해 기금 여유자금을 통합하여 운용하는 투자체계 기금여유자금 운용의 규모의 경제 달성, 자산운용의 전문성 확보 및 수익성 제고를 위하여 제2차 기금정책심의회(‘01.08.23일)에서 ‘연기금투자풀‘제도 도입 결정
+
+- 연기금투자풀 수탁 규모는 2020년 기준 27.1조원, 2021년 4분기 기준 35.8조원]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔화 약세가 일본 경제에 미치는 영향에 대한 최근 논의]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164947</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164947"/>
+        <updated>2022-04-04T06:01:18.192Z</updated>
+        <summary type="html"><![CDATA[한국은행이 「엔화 약세가 일본 경제에 미치는 영향에 대한 최근 논의」를 발표하였다.
+
+- 엔/달러 환율은 3월 들어 급격한 상승세를 보이고 있으며, 일본은행 금융정책결정회의(3.18일) 이후 120엔을 상회하면서 3.25일 장중 한때 122엔대에 진입. 일본경제의 구조 변화와 최근의 대외 여건을 감안할 때 이러한 엔화 약세현상이 일본 경제에 미치는 영향에 대해 논의가 활발히 진행되고 있음ㅇ 일본은행은 대체로 엔화 약세가 수출 및 물가를 끌어올려 경제 전체적으로 긍정적이라는 입장을 견지하고 있으나, 시장에서는 무역수지 악화, 소비심리 위축 등 엔화 약세의 부정적 측면에도 주목하는 모습
+
+- 일본은행은 엔화 약세가 크게 다음 경로를 통해 실물 경제에 영향을 미치는것으로 분석 (22.1월 전망보고서)
+① 수출기업 가격경쟁력 개선에 따른 재화수출량 증가 (+)
+② 엔화기준 재화수출액 증가에 따른 기업수익 증가 (+)
+③ 서비스 수출(방일외국인 인바운드 소비) 증가 (+)
+④ 소득수지(해외소득 순수취 엔화 환산액 증가) 개선 (+)
+⑤ 수입비용 상승에 따른 기업수익？소비자 구매력 저하 (-)]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민건강보험과 민영건강보험의 역할과 과제]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164987</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164987"/>
+        <updated>2022-04-04T06:01:17.980Z</updated>
+        <summary type="html"><![CDATA[보험연구원이 『국민건강보험과 민영건강보험의 역할과 과제』를 발표하였다.
+
+- 우리나라는 국민건강보험의 지속적인 보장성 강화 추진과 실손의료보험의 가입 확대를 통해 빠르게 증가하는 국민의 건강보장 수요 확대에 대응해 왔으나, 최근 공공부문의 재정 부담 확대 및 실손의료보험 손해율 악화·보험료 인상의 악순환 지속으로 우리나라 건강보험제도의 지속성이 우려되는 상황임.
+
+- 현재 우리나라의 공·사 건강보험은 모두 지속성 위기를 겪고 있음에도, 위기의 원인에 대해서는 공·사 간에 공감과 상충의 의견이 공존하였음. 공·사 건강보험이 겪는 위기의 주요 원인이 ‘비급여 관리 방안의 부재’라는 점에서는 의견이 일치하였고, 특히 직면한 위기에 대응하고 중장기적으로 상생하기 위해서는 공·사 건강보험이 국민 건강보장을 책임지는 동반자로서 함께 소통하면서 체계적인 청사진을 마련할 필요가 있음에 이해관계자 모두 공감하였음. 비급여 관리를 위해서 먼저 공·사 간 협력을 위한 법적 기반을 마련하고, 현재 논란이 되는 비급여 중심으로 공동 대응해 나갈 필요가 있다는 의견이 제기되었음.
+
+- 한편, 실손의료보험의 비정상적 보장구조(급여본인부담금 보장 등)가 실손의료보험의 보험금 증가뿐만 아니라 국민건강보험의 재정건전성을 악화시킨다는 주장에 대해서 공·사 간에 의견이 갈렸음. 공공부문에서는 실손의료보험의 급여본인부담금 보장은 건강보험 보장성이 낮았던 2000년대 사회적 합의를 통해 결정된 것으로 지금 시점에서 보장 필요성에 대한 재검토가 필요하며, 특히 실손의료보험의 비정상적 급여 보장 확대가 국민건강보험 재정에 부정적인 영향을 미치고 있다고 주장하였음. 한편, 민간부문은 현재 우리나라의 개인부담의료비는 주요국에 비해 매우 높은 편으로, 특히 급여본인부담금이 개인부담의료비의 절반 이상(2019년 55%)을 차지하고 있는 점을 감안해 본다면, 건강보험의 보장성을 보완하기 위해 실손의료보험의 급여본인부담금 보장이 필요하다는 의견을 개진하였음.
+
+- 향후 인구고령화에 따른 의료 수요 증가와 코로나19 장기화에 대응하기 위해서는 국민전체의 후생을 증대하는 방향으로 공·사 건강보험의 역할 확대를 도모할 필요가 있으며, 이를 위해 다양한 이해관계자 간의 지속적인 논의의 장이 마련되길 기대해 봄.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICT산업 2021년 4분기 동향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164953</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164953"/>
+        <updated>2022-04-04T06:01:17.775Z</updated>
+        <summary type="html"><![CDATA[한국수출입은행이 『ICT산업 2021년 4분기 동향』을 발표하였다.
+
+- (반도체) 4분기 메모리반도체 시장은 전년동기 대비 37% 성장했으나 수요둔화, 가격하락 등으로 전분기 대비 4% 감소 
+
+- (디스플레이) 4분기 세계 디스플레이 시장은 전반적인 TV 수요 둔화에도 불구하고 프리미엄 TV 시장 성장, 스마트폰용 OLED 수요 증가 등으로 전년동기 대비 7% 성장 
+
+- (휴대폰) 4분기 세계 스마트폰 출하량은 부품 공급 부족 등으로 전년동기 대비 3.2% 감소, 연말 성수기 등으로 전분기 대비 9.4% 증가한 3.6억대 기록]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we know about the wage inflationary channel]]></title>
+        <id>https://voxeu.org/article/what-we-know-about-wage-inflationary-channel</id>
+        <link href="https://voxeu.org/article/what-we-know-about-wage-inflationary-channel"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The recent inflation increase across advanced economies has rekindled a debate about the risk of wage–price spirals. This column looks at pass-through from labour cost to price inflation for the US and euro area countries, and finds that the risk is state dependent. Wage–price spirals are less likely with low inflation and anchored expectations. The pass-through is also shock-dependent, being larger with demand shocks. Finally, the degree of pas- through is linked to secular trends mostly outside the control of central banks.]]></summary>
+        <author>
+            <name>Elena Bobeica, Matteo Ciccarelli, Isabel Vansteenkiste</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forced labour and mortality in nineteenth-century Java]]></title>
+        <id>https://voxeu.org/article/forced-labour-and-mortality-nineteenth-century-java</id>
+        <link href="https://voxeu.org/article/forced-labour-and-mortality-nineteenth-century-java"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cultivation System implemented by the Dutch in Indonesia forced Javanese peasants to devote a substantial share of their land and labour to the production of various cash crops in exchange for a small payment. This column examines how the regime affected the health of the population in 19th-century Java. The authors find that a higher number of workers called up for labour in the Cultivation System is related to a higher mortality rate. Whereas previous studies highlight beneficial economic outcomes of the extractive system, this finding suggests the immediate effects on the Javanese population were highly negative.]]></summary>
+        <author>
+            <name>Pim de Zwart, Daniel Gallardo Albarrán, Auke  Rijpma</name>
         </author>
     </entry>
     <entry>
@@ -598,16 +575,6 @@ SUMMARY
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trust and monetary policy]]></title>
-        <id>https://voxeu.org/article/trust-and-monetary-policy</id>
-        <link href="https://voxeu.org/article/trust-and-monetary-policy"/>
-        <updated>2022-04-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trust impacts many aspects of economic life and plays some role in standard macroeconomic models. This column analyses the importance of trust in a more systematic way using a behavioural macroeconomic model. The authors find that large negative supply shocks lead to a bifurcation between good and bad trajectories of output, inflation, and trust. Initial conditions matter in determining which trajectory will be chosen. The model helps to understand and predict the experience of the 1970s with the supply shocks and the recent Covid supply shock.]]></summary>
-        <author>
-            <name>Paul De Grauwe, Yuemei Ji</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Understanding the reallocation of displaced workers to firms]]></title>
         <id>https://voxeu.org/article/understanding-reallocation-displaced-workers-firms</id>
         <link href="https://voxeu.org/article/understanding-reallocation-displaced-workers-firms"/>
@@ -615,6 +582,16 @@ SUMMARY
         <summary type="html"><![CDATA[Research consistently shows displaced workers suffer long-run earnings losses, but is this compounded with productivity enhancing reallocation? This column uses data from France to study the wage policy and productive performance of the firms in which displaced workers are re-employed. The authors find that wage and productivity ladders are not always collinear – workers can fall from one while climbing the other. Rather than slowing down the process of reallocation, the authors suggest exploring ways to mitigate the private cost they impose on workers. Alternatively, policy could focus on enhancing workers’ bargaining power in destination firms.]]></summary>
         <author>
             <name>Paul Brandily, Camille Hémet, Clément Malgouyres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trust and monetary policy]]></title>
+        <id>https://voxeu.org/article/trust-and-monetary-policy</id>
+        <link href="https://voxeu.org/article/trust-and-monetary-policy"/>
+        <updated>2022-04-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trust impacts many aspects of economic life and plays some role in standard macroeconomic models. This column analyses the importance of trust in a more systematic way using a behavioural macroeconomic model. The authors find that large negative supply shocks lead to a bifurcation between good and bad trajectories of output, inflation, and trust. Initial conditions matter in determining which trajectory will be chosen. The model helps to understand and predict the experience of the 1970s with the supply shocks and the recent Covid supply shock.]]></summary>
+        <author>
+            <name>Paul De Grauwe, Yuemei Ji</name>
         </author>
     </entry>
     <entry>
@@ -686,16 +663,6 @@ Besley, T and Persson, T. 2021. 'Science as Civil Society: Implications for a Gr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[War-induced food price inflation imperils the poor]]></title>
-        <id>https://voxeu.org/article/war-induced-food-price-inflation-imperils-poor</id>
-        <link href="https://voxeu.org/article/war-induced-food-price-inflation-imperils-poor"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The conflict in Ukraine has led to a surge in food prices, particularly wheat and corn. This column uses a newly developed toolkit to analyse the welfare impacts of food price inflation on households in developing countries. Average household welfare decreases in 43 of 53 countries in the sample, with an average real income loss of -1.5%. This impact varies substantially both across and within countries, with poorer households suffering systematically larger welfare losses. Protracted price increases will have long-term consequences for prosperity in many of these countries, exacerbating issues of poverty and inequality.]]></summary>
-        <author>
-            <name>Erhan  Artuc, Guillermo Falcone, Guido Porto, Bob Rijkers</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ukraine invasion: From oil sanctions to accelerating the energy transition]]></title>
         <id>https://voxeu.org/article/ukraine-invasion-oil-sanctions-accelerating-energy-transition</id>
         <link href="https://voxeu.org/article/ukraine-invasion-oil-sanctions-accelerating-energy-transition"/>
@@ -703,6 +670,16 @@ Besley, T and Persson, T. 2021. 'Science as Civil Society: Implications for a Gr
         <summary type="html"><![CDATA[The sanctions placed on Russian oil may give new impetus to the energy transition by encouraging developed economies to find new sources of energy. Current policy has focused largely on supply-side responses to manage this development; this column argues that demand-side policies may also play a critical role. The authors argue for policies that increase the price elasticity of oil demand, such as incentives for individuals to switch to electric vehicles through subsidies. Nonetheless, they emphasise that the distributional effects of policies, including carbon pricing, are politically important and cannot be ignored.]]></summary>
         <author>
             <name>Rabah Arezki, Per Magnus Nysveen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[War-induced food price inflation imperils the poor]]></title>
+        <id>https://voxeu.org/article/war-induced-food-price-inflation-imperils-poor</id>
+        <link href="https://voxeu.org/article/war-induced-food-price-inflation-imperils-poor"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The conflict in Ukraine has led to a surge in food prices, particularly wheat and corn. This column uses a newly developed toolkit to analyse the welfare impacts of food price inflation on households in developing countries. Average household welfare decreases in 43 of 53 countries in the sample, with an average real income loss of -1.5%. This impact varies substantially both across and within countries, with poorer households suffering systematically larger welfare losses. Protracted price increases will have long-term consequences for prosperity in many of these countries, exacerbating issues of poverty and inequality.]]></summary>
+        <author>
+            <name>Erhan  Artuc, Guillermo Falcone, Guido Porto, Bob Rijkers</name>
         </author>
     </entry>
     <entry>
@@ -852,26 +829,6 @@ part 5 가정의 자원을 재구성하라
         <summary type="html"><![CDATA[The war Russia is waging against Ukraine has already halted most of Ukraine’s production capabilities. Similarly, the sanctions raised against Russia by the international community end decades of economic cooperation across several economic sectors. This column draws on empirical evidence from over two decades of civil wars across the world to inform the debate on how international supply chains will adjust to the economic disruptions brought by violence, and how likely it is that the international economy will ever return to the pre-war situation.]]></summary>
         <author>
             <name>Tobias Korn, Henry Stemmler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reforming the European fiscal framework: Increasing compliance, not flexibility]]></title>
-        <id>https://voxeu.org/article/reforming-european-fiscal-framework-increasing-compliance-not-flexibility</id>
-        <link href="https://voxeu.org/article/reforming-european-fiscal-framework-increasing-compliance-not-flexibility"/>
-        <updated>2022-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Debt ratios of EMU member states, which were already high in some cases, have increased significantly during the pandemic. This column argues that the current review of the European fiscal framework should not only discuss the design of the framework, but also how to strengthen enforcement and increase compliance with the fiscal rules. Increasing the political costs of non-compliance – through a reduction of complexity of the framework, an increase in national ownership and transparency, as well as simplicity of assessment – could help achieve this. Adding more flexibility, exceptions, and discretionary judgement would be counterproductive.]]></summary>
-        <author>
-            <name>Lars Feld, Wolf Heinrich Reuter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geoff Harcourt: A Cambridge economist and an Australian patriot]]></title>
-        <id>https://voxeu.org/article/geoff-harcourt-cambridge-economist-and-australian-patriot</id>
-        <link href="https://voxeu.org/article/geoff-harcourt-cambridge-economist-and-australian-patriot"/>
-        <updated>2022-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Australian economist Geoff Harcourt, a leading light of post-Keynesian economics, capital theory and economic thought, passed away in December 2021. This column, written by his son and fellow economist Tim Harcourt, outlines his life and times, including many contributions to both economic analysis and economic policymaking. Geoff regarded himself as “a Cambridge economist and an Australian patriot” and, as Tim says, “he reached his production possibility frontier in all aspects life – both professional and personal – and shared his knowledge and love with all”.]]></summary>
-        <author>
-            <name>Tim Harcourt</name>
         </author>
     </entry>
     <entry>
