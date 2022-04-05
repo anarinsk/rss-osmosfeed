@@ -268,7 +268,7 @@
           "description": "Go로 구현하는 클라우드 네이티브 애플리케이션\n미나 안드라오스.마틴 헬미크 지음, 박병주 옮김 / 에이콘출판 / 2022년 04월 / ISBN:9791161756264\n정가: 35,000원 / 판매가: 31,500원 / 마일리지: 146원\n이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드\n\n\n\n\n도커와 쿠버네티스의 개발 언어인 Go를 사용해 AWS상의 여러 핵심 서비스로 구성되는 마이크로서비스 아키텍처(MSA) 기반의 클라우드 네이티브 애플리케이션 개발을 다룬다. 기본적인 Go 언어 문법과 웹 개발 기초 지식이 있는 독자를 대상으로 현대적인 애플리케이션 구현에 필요한 아키텍처, 보안, 배포, 모니터링, 디자인 패턴 등 전반적인 지식을 실제 코드를 통해 학습할 수 있다.\n\n1장. 현대적인 마이크로서비스 아키텍처\r\n\r\n__왜 Go 언어인가?\r\n__기본 설계 목표\r\n__클라우드 서비스 모델\r\n__클라우드 애플리케이션 아키텍처 패턴\r\n____12 요소 앱\r\n____마이크로서비스란 무엇인가?\r\n____마이크로서비스 배포\r\n____REST 웹 서비스와 비동기식 메시징\r\n__MyEvents 플랫폼\r\n__요약\r\n\r\n\r\n02장. Rest API를 사용한 마이크로서비스 구축\r\n\r\n__배경\r\n____마이크로서비스란?\r\n______마이크로서비스의 내부\r\n__RESTful 웹 API\r\n____Gorilla 웹 툴킷\r\n__Restful API 구현\r\n____지속성 계층\r\n____몽고DB\r\n____몽고DB와 Go 언어\r\n__RESTful API 핸들러 함수 구현\r\n__요약\r\n\r\n\r\n03장. 마이크로서비스 보안\r\n\r\n__HTTPS\r\n____대칭 암호화 방식\r\n______HTTPS에서 대칭키 알고리듬\r\n____비대칭 암호화 방식\r\n______HTTP에서 비대칭 암호화 방식\r\n__Go에서의 안전한 웹 서비스\r\n____인증서 얻기\r\n______OpenSSL\r\n______generate_cert.go\r\n____Go에서 HTTPS 서버 구축\r\n__요약\r\n\r\n\r\n04장. 메시지 큐를 사용한 비동기 마이크로서비스 아키텍처\r\n\r\n__발행/구독 패턴\r\n__예약 서비스 소개\r\n__이벤트 콜라보레이션\r\n__RabbitMQ로 발행/구독 구현\r\n____고급 메시지 큐잉 프로토콜\r\n____도커로 하는 RabbitMQ 빠른 시작\r\n____고급 RabbitMQ 설정\r\n____Go로 RabbitMQ 연결\r\n____AMQP 메시지 발행과 구독\r\n____이벤트 배출자 작성\r\n____이벤트 구독자 작성\r\n____예약 서비스 작성\r\n__이벤트 소싱\r\n__아파치 카프카로 발행/구독과 이벤트 소싱 구현\r\n____도커로 카프카 빨리 시작\r\n____아파치 카프카의 기본 원칙\r\n____Go로 카프카에 연결\r\n____카프카로 메시지 발행\r\n____카프카에서 메시지 소비\r\n__요약\r\n\r\n\r\n05장. 리액트로 프론트엔드 구축\r\n\r\n__리액트 시작\r\n____Node.js와 타입스크립트 설정\r\n____리액트 프로젝트 초기화\r\n__리액트 기본 원칙\r\n____MyEvents 프론트엔드 시동 걸기\r\n____이벤트 리스트 구현\r\n______자신의 클라이언트 가져오기\r\n__이벤트 리스트 구성 요소 구축\r\n____백엔드 서비스에서 CORS 활성화...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 데이터베이스 프로그래밍 > 데이터베이스 구축\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=291824109",
           "publishedOn": "2022-03-30T06:15:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "Go로 구현하는 클라우드 네이티브 애플리케이션/미나 안드라오스.마틴 헬미크 지음, 박병주 옮김/에이콘출판",
           "imageUrl": null
         },
@@ -278,7 +278,7 @@
           "description": "실무에 바로 적용하는 파이썬 코드 레시피 302\n구로즈미 다카유키 지음, 김모세 옮김 / 제이펍 / 2022년 04월 / ISBN:9791191600728\n정가: 32,000원 / 판매가: 28,800원 / 마일리지: 129원\n이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드\n\n\n\n\n파이썬 기초부터 데이터 분석과 자동화까지 레시피 총정리. 실제 개발 현장에서는 어떤 기법으로 어떤 문제를 해결하게 될까? 이 책은 파이썬 기초부터 응용 분야까지 실제로 사용되는 파이써닉한 코드를 집대성했다. 파이썬 문법과 개발 모범 사례는 물론, 수치 처리, DB, HTTP 요청, 데이터 분석, 자동화 등 실무에서 마주칠 문제들과 그 해결을 위한 라이브러리와 코드를 일목요연하게 정리했다.\n\n옮긴이 머리말 xvii\r\n베타리더 후기 xix\r\n시작하며 xxi\r\n이 책을 읽는 법 xxii\r\n이 책의 구성 xxiv\r\n\r\n1장 파이썬 기초 001\r\n001 파이썬 스크립트 실행하기 002\r\n002 대화형 모드로 파이썬 실행하기 003\r\n003 파이썬 코드 구조 이해하기 005\r\n004 print 함수 사용하기 008\r\n005 print 함수의 출력 커스터마이즈하기 009\r\n006 모듈 임포트하기 010\r\n007 pip로 외부 라이브러리 설치하기 012\r\n008 venv로 파이썬 가상 환경 만들기 014\r\n\r\n2장 변수 017\r\n009 변수 사용하기 018\r\n010 기본 변수 타입과 특성 이해하기 020\r\n011 예약어 이해하기 022\r\n012 값이 없는 변수 표현하기 024\r\n013 정수 타입 사용하기 025\r\n014 연산자로 산술 연산하기 027\r\n015 불리언 타입 사용하기 029\r\n016 비교 연산하기 030\r\n017 여러 변수를 비교 연산하기 031\r\n018 불리언 연산하기 032\r\n019 부동소수점 타입 사용하기 034\r\n020 무한대 및 숫자가 아닌 값 표현하기 035\r\n021 문자열 타입 다루기 036\r\n022 문자열 이스케이프 처리하기 037\r\n023 문자열 합치기 039\r\n024 raw 문자열 사용하기 040\r\n025 문자열의 문자 수 파악하기 041\r\n026 리스트 생성하기 042\r\n027 리스트 요소 참조하기 044\r\n028 슬라이스 구문 사용하기 045\r\n029 리스트 요소 갱신하기 047\r\n030 중첩된 리스트 사용하기 048\r\n031 리스트 요소 수 알아내기 049\r\n032 리스트에 요소 추가/삽입하기 050\r\n033 리스트 요소 삭제하기 051\r\n034 리스트 요소 검색하기 053\r\n035 튜플 사용하기 054\r\n036 튜플 요소 및 요소 수 파악하기 056\r\n037 언패킹 사용하기 057\r\n038 변숫값 치환하기 058\r\n039 range 타입 사용하기 059\r\n040 set 사용하기 061\r\n041 set 요소 추가하기 062\r\n042 set 요소 삭제하기 063\r\n043 set 요소 유무 확인하기 064\r\n044 set 논리 연산하기 065\r\n045 딕셔너리 만들기 068\r\n046 딕셔너리 값 참조하기 070\r\n047 딕셔너리에 값 추가/갱신하기 072\r\n048 딕셔너리의 모든 키/값 얻기 073\r\n049 딕셔너리의 키/값 유무 확인하기 075\r\n050 딕셔너리 요소 삭제하기 077\r\n051 bytes 타입 사용하기 079\r\n\r\n3장 제어문 081\r\n052 if...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=291807257",
           "publishedOn": "2022-03-30T02:17:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "실무에 바로 적용하는 파이썬 코드 레시피 302/구로즈미 다카유키 지음, 김모세 옮김/제이펍",
           "imageUrl": null
         },
@@ -288,7 +288,7 @@
           "description": "동시성 프로그래밍\n다카노 유키 지음, 김모세 옮김 / 한빛미디어 / 2022년 04월 / ISBN:9791162245422\n정가: 34,000원 / 판매가: 30,600원 / 마일리지: 136원\n이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드\n\n\n\n\n동시성 프로그래밍에 목마른 개발자에게 단비와도 같은 책. 동시성 프로그래밍은 어렵다는 말을 많이 한다. 그 ‘어려움’은 두 가지로 나눌 수 있다. 동시성 프로그래밍의 구조를 이해하지 못하는 데서 느끼는 어려움과 동시성 프로그래밍의 본질적인 어려움이다. 이 책은 전자의 어려움을 해소하고 후자의 어려움에 본격적으로 도전할 수 있도록 돕기 위해 쓰였다. \r\n\r\nRust 언어를 중심으로 어셈블리어, C 언어를 사용해 CPU 아토믹 처리, 소프트웨어 트랜잭셔널 메모리, async/await 등 동시성 프로그래밍과 관련된 이론적 배경부터 구현까지 설계자 입장에서 살펴본다. 광범위한 시점과 다양한 측면에서 다루기 때문에 고도의 프로그래밍을 목표로 하는 개발자, 안정성과 성능 중심 기술 구현에 관심이 있는 개발자가 두고두고 볼 수 있는 책이다.\n\nCHAPTER 1 동시성과 병렬성 \r\n1.1 프로세스 \r\n1.2 동시성\r\n1.3 병렬성\r\n1.4 동시 처리와 병렬 처리의 필요성\r\n\r\nCHAPTER 2 프로그래밍 기본 \r\n2.1 어셈블리 언어\r\n2.2 C 언어\r\n2.3 Rust 언어\r\n\r\nCHAPTER 3 동기 처리 1 \r\n3.1 레이스 컨디션\r\n3.2 아토믹 처리\r\n3.3 뮤텍스\r\n3.4 세마포어\r\n3.5 조건 변수\r\n3.6 배리어 동기\r\n3.7 Readers-Writer 락 \r\n3.8 Rust 동기 처리 라이브러리\r\n3.9 베이커리 알고리즘\r\n\r\nCHAPTER 4 동시성 프로그래밍 특유의 버그와 문제점 \r\n4.1 데드락\r\n4.2 라이브락과 굶주림\r\n4.3 은행원 알고리즘 \r\n4.4 재귀락 \r\n4.5 의사 각성 \r\n4.6 시그널 \r\n4.7 메모리 배리어\r\n\r\nCHAPTER 5 비동기 프로그래밍 \r\n5.1 동시 서버 \r\n5.2 코루틴과 스케줄링 \r\n5.3 async/await\r\n5.4 비동기 라이브러리 \r\n\r\nCHAPTER 6 멀티태스크 \r\n6.1 멀티태스크 \r\n6.2 협조적 그린 스레드 구현 \r\n6.3 액터 모델 구현 \r\n\r\nCHAPTER 7 동기 처리 2 \r\n7.1 공평한 배타 제어 \r\n7.2 소프트웨어 트랜잭셔널 메모리 \r\n7.3 락프리 데이터 구조와 알고리즘 \r\n\r\nCHAPTER 8 동시 계산 모델 \r\n8.1 수학적 표기 \r\n8.2 λ 계산 \r\n8.3 액터 모델 \r\n8.4 π 계산 \r\n\r\nAPPENDIX A AArch64 아키텍처 \r\nA.1 레지스터 \r\nA.2 기본 연산 명령  \r\nA.3 메모리 읽기 쓰기\r\nA.4 조건부 명령 실행과 점프 \r\nA.5 호출 규약 \r\nA.6 예 \r\n\r\nAPPENDIX B x86-64 아키텍처 \r\nB.1 레지스터 \r\nB.2 AT&T 기법\r\nB.3 기본 연산 명령 \n\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=291746395",
           "publishedOn": "2022-03-29T03:01:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "동시성 프로그래밍/다카노 유키 지음, 김모세 옮김/한빛미디어",
           "imageUrl": null
         },
@@ -298,7 +298,7 @@
           "description": "Do it! 알고리즘 코딩 테스트 : 자바 편\n김종관 지음 / 이지스퍼블리싱 / 2022년 04월 / ISBN:9791163033448\n정가: 32,000원 / 판매가: 28,800원 / 마일리지: 130원\n이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트\n\n\n\n\n“코딩 테스트는 어떻게 준비해야 할까?” 곧 코딩 테스트를 앞두고 있거나 올해 안에 IT 기업으로 취업 또는 이직을 준비하고 있다면 누구나 이런 고민을 할 것이다. 《Do it! 알고리즘 코딩 테스트 — 자바 편》에 그 답이 있다. \r\n\r\n개발 12년, 강의 5년 동안 쌓은 저자의 내공으로 네이버, 카카오, 삼성 등 주요 IT 기업의 기출 문제를 분석하여 앞으로 출제가 될 만한 알고리즘 영역을 엄선해 책을 구성했다. 또한 역대 기출 유형을 모두 아우르는 알고리즘 문제를 총 100개 수록해 이 책 한 권만 공부해도 대부분의 기출 문제를 풀어 본 효과를 얻을 수 있다.\r\n\r\n시험이 코앞이라 책 한 권을 다 볼 시간이 없다면? ‘3일 모의고사’ 코스를 활용해자. 중요한 알고리즘을 다룬 ‘핵심 유형’ 문제 15개, 시험에 자주 다루는 ‘빈출 유형’ 문제 10개만 빠르게 공부할 수 있다. 모든 문제는 백준 온라인 저지에서 실습할 수 있으니, 먼저 책으로 공부한 다음 백준 온라인 저지에서 다시 한번 풀면서 코딩 테스트를 완벽하게 대비해 보자!\n\n첫째마당 코딩 테스트 준비하기\r\n\r\n01 어떤 알고리즘으로 풀어야 할까?\r\n_01-1 시간 복잡도 표기법 알아보기\r\n_01-2 시간 복잡도 활용하기\r\n__[000] 수 정렬하기\r\n\r\n02 코드의 논리 오류를 어…",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=291743655",
           "publishedOn": "2022-03-29T02:23:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "Do it! 알고리즘 코딩 테스트 : 자바 편/김종관 지음/이지스퍼블리싱",
           "imageUrl": null
         },
@@ -746,33 +746,63 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/internationalList.do",
       "articles": [
         {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164995",
+          "author": null,
+          "description": "This paper examines the structure, behavior and performance of the N95 respirator market in the U.S. before and during the COVID-19 pandemic (2020-early 2022). It focuses on the behavior and performance of government and private sector organizations in the allocation of scarce supplies of N95 respirators during the pandemic in the U.S. The experience with the supply, demand, allocation, rationing, and pricing of N95s during the first two years of the pandemic provides instructive examples of how the public and private sectors can work in tandem with regulatory support rather than coercion to achieve widely accepted public health goals. Of particular interest is the adoption of voluntary private market segmentation, rationing and price maintenance policies during roughly the first year of the pandemic, led by the dominant U.S. manufacturer of N95s.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164995",
+          "publishedOn": "2022-04-05T06:02:02.797Z",
+          "wordCount": 649,
+          "title": "From Scarcity to Abundance: Government and Private Initiatives to Manage the Allocation of N95 Masks in the U.S. During the COVID-19 Pandemic",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164989",
+          "author": null,
+          "description": "We investigate the implications of extra-normal government spending under the COVID-19 pandemic for commercial bank lending growth between 2019Q4 and 2020Q4 in a large sample of over 3000 banks from 71 countries. We control for pre-pandemic structural factors, bank characteristics and government debt. To address the likely endogeneity of government assistance under the pandemic, we instrument for extra-normal spending using disparities in pre-existing national political characteristics for identification. Our results indicate that while higher government spending was associated with higher commercial bank lending, higher public debt going into the crisis weakened the expansionary effects of higher spending on bank lending at economically and statistically significant levels. Moreover, this sensitivity is higher among weaker banks, suggesting that bank lending responses to government spending under COVID-19 reflected the perceived implications of such spending for government assistance of the banking sector going forward. Our results are robust to a variety of sensitivity analyses, including perturbations in specification, sample, and estimation methodology.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164989",
+          "publishedOn": "2022-04-05T06:02:02.182Z",
+          "wordCount": 649,
+          "title": "Fiscal Stimulus and Commercial Bank Lending Under COVID-19",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
           "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164996",
           "author": null,
           "description": "It is well documented that women and racial and ethnic minorities are underrepresented in the economics profession, relative to both the general population and many other academic disciplines. Less is known about the socioeconomic diversity of the profession. In this paper, we use data from the National Science Foundation’s Survey of Earned Doctorates to examine the socioeconomic background of US economics PhD recipients as compared with US PhD recipients in other disciplines, proxying for socioeconomic background using PhD recipients’ parents’ educational attainment. We find that economics PhD recipients are substantially more likely to have highly educated parents, and less likely to have parents without a college degree, than PhD recipients in other disciplines. This is true both for US-born and non-US-born PhD recipients, but the gap between economics and other disciplines is starker for those born in the United States. The gap in socioeconomic diversity between economics and other PhD disciplines has increased over the last two decades.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164996",
-          "publishedOn": "2022-04-05T03:12:11.235Z",
+          "publishedOn": "2022-04-05T06:02:02.149Z",
           "wordCount": 649,
           "title": "Socioeconomic diversity of economics PhDs",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165007",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164990",
           "author": null,
-          "description": "The use of a semi-structural model as one of the workhorse tools for macroeconomic analysis and projections at the Bundesbank has a long-standing tradition. In an iterative projection process, the macroeconometric model’s main task is to merge projections by Bundesbank experts for various areas of the economy and other information into a unifying framework in order to develop a consistent narrative on the outlook for the German economy. Besides this, the model is frequently used to perform simulation analyses both in the projection context and beyond. Its structure thus has to be broad enough to capture the key interdependencies within the macroeconomy whilst also including a sufficiently detailed setup. This paper summarises the model’s main equation blocks, shows growth decompositions of key macro variables and presents selected simulation results in order to illustrate key transmission channels. The model has a traditional semi-structural character and is set in a national accounts framework. Most of its central behavioural equations follow an error-correction mechanism and are estimated individually based on quarterly data. One particular feature is the constant elasticity of substitution (CES) production technology with a two-level nested structure that integrates energy as a third input factor in addition to capital and labour. In the model’s price block, behavioural equations for most deflators and HICP core inflation are jointly specified and estimated via a system approach. Moreover, the model contains a rich fiscal block.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165007",
-          "publishedOn": "2022-04-05T03:12:10.923Z",
+          "description": "This paper documents the share of investable wealth that middle-class U.S. investors hold in the stock market over their working lives. This share rises modestly early in life and falls significantly as people approach retirement. Prior to 2000, the average investor held less of their investable wealth in the stock market and did not adjust this share over their working life. These changes in portfolio allocation were accelerated by the Pension Protection Act (PPA) of 2006, which allowed employers to adopt target date funds (TDFs) as default options in retirement saving plans. Young retail investors who start at an employer shortly after it adopts TDFs have higher equity shares than those who start at that same employer shortly before the change in defaults. Older investors rebalance more to safe assets. We also study retirement contribution rates over the life-cycle and find that average retirement saving rates increase steadily over the working life. In contrast to what we find for investment in the stock market, contribution rates have been stable over time and across cohorts and were not increased by the PPA.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164990",
+          "publishedOn": "2022-04-05T06:02:02.140Z",
           "wordCount": 649,
-          "title": "The macroeconometric model of the Bundesbank revisited",
+          "title": "Household Portfolios and Retirement Saving over the Life Cycle",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164992",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165001",
           "author": null,
-          "description": "I consider estimation of the average treatment effect (ATE), in a population composed of $G$ groups, when one has unbiased and uncorrelated estimators of each group‘s conditional average treatment effect (CATE). These conditions are met in stratified randomized experiments. I assume that the outcome is homoscedastic, and that each CATE is bounded in absolute value by B standard deviations of the outcome, for some known B. I derive, across all linear combinations of the CATEs‘ estimators, the estimator of the ATE with the lowest worst-case mean-squared error. This minimax-linear estimator assigns a weight equal to group g‘s share in the population to the most precisely estimated CATEs, and a weight proportional to one over the estimator‘s variance to the least precisely estimated CATEs. I also derive the minimax-linear estimator when the CATEs‘ estimators are positively correlated, a condition that may be met by differences-in-differences estimators in staggered adoption designs.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164992",
-          "publishedOn": "2022-04-05T03:12:10.776Z",
+          "description": "This paper provides evidence from the US and Denmark that managers with a business degree (“business managers”) reduce their employees‘ wages. Within five years of the appointment of a business manager, wages decline by 6% and the labor share by 5 percentage points in the US, and by 3% and 3 percentage points in Denmark. Firms appointing business managers are not on differential trends and do not enjoy higher output, investment, or employment growth thereafter. Using manager retirements and deaths and an IV strategy based on the diffusion of the practice of appointing business managers within industry, region and size quartile cells, we provide additional evidence that these are causal effects. We establish that the proximate cause of these (relative) wage effects are changes in rent-sharing practices following the appointment of business managers. Exploiting exogenous export demand shocks, we show that non-business managers share profits with their workers, whereas business managers do not. But consistent with our first set of results, these business managers show no greater ability to increase sales or profits in response to exporting opportunities. Finally, we use the influence of role models on college major choice to instrument for the decision to enroll in a business degree in Denmark and show that our estimates correspond to causal effects of practices and values acquired in business education - rather than the differential selection into business education of individuals unlikely to share rents with workers.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165001",
+          "publishedOn": "2022-04-05T06:02:02.131Z",
           "wordCount": 649,
-          "title": "Trading-off Bias and Variance in Stratified Experiments and in Staggered Adoption Designs, Under a Boundedness Condition on the Magnitude of the Treatment Effect",
+          "title": "Eclipse of Rent-Sharing: The Effects of Managers‘ Business Education on Wages and the Labor Share in the US and Denmark",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164999",
+          "author": null,
+          "description": "This paper analyses the design of optimal nonlinear savings taxation, in a multi-period consumption-savings economy where consumers face persistent, uninsurable shocks to the marginal value that they place on consuming. Its main contributions are: (a) to show that shocks of this kind generically justify positive marginal savings taxes, and (b) to characterise these taxes by reference to a limited number of sufficient statistics. The method for obtaining this characterisation is generalisable, and provides a roadmap for reconnecting `Mirrleesian‘ and `sufficient statistics‘ approaches to dynamic taxation. Intuitively, dynamic asymmetric information problems imply significant restrictions on intertemporal consumption elasticities. These restrictions keep sufficient statistics representations manageable, despite the multi-dimensional choice setting.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164999",
+          "publishedOn": "2022-04-05T06:02:01.912Z",
+          "wordCount": 649,
+          "title": "Optimal Nonlinear Savings Taxation",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -780,9 +810,59 @@
           "author": null,
           "description": "During the COVID-19 recession, the Federal Open Market Committee (FOMC) reduced the target range for the federal funds rate to near zero and began large purchases of U.S. Treasury securities and agency mortgage-backed securities. Although the recession ended nearly two years ago, U.S. monetary policy settings remain set near peak accommodation―with the policy rate only 0.25 percentage points higher now and the size of the Fed’s balance sheet at nearly $9 trillion.\r\n\r\nThe Federal Reserve has a mandate to promote maximum employment and price stability. The labor market has fully recovered from the recession by nearly every measure, and it has gone beyond pre-recession levels by several measures. Moreover, inflation is running well above the 2% rate that the FOMC equates with price stability, and monetary policy has not been reset for these macroeconomic conditions. That is why it is necessary for the FOMC to remove monetary policy accommodation.1See my related presentation on March 2, 2022, “Removing Monetary Policy Accommodation.”",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165008",
-          "publishedOn": "2022-04-05T03:12:10.757Z",
+          "publishedOn": "2022-04-05T06:02:01.857Z",
           "wordCount": 649,
           "title": "why removing monetary policy accommodation is necessary",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165006",
+          "author": null,
+          "description": "The Covid-19 (Covid) pandemic has had a profound effect on the way we live our lives. It has impacted our relationship with the economy by changing the way we work and where we choose to live. And it has affected our relationship with money by accelerating the transition away from cash and towards digital payments.\r\n\r\nWhat are young people to make of all this? How can they prepare themselves for a financial and economic world that is changing so rapidly? Young people get their financial education from various sources ？ including at school and in the home. But provision can vary between schools, and some parents feel more comfortable than others talking to their children about money. The decline in cash use presents a specific challenge given its role in many children’s earliest financial education ？ from piggy banks to pocket money.\r\n\r\nThis article explores the provision of financial and economic education and how it is evolving in response to a changing economic and financial world. It focuses in particular on financial education in schools and the barriers to increasing provision in the classroom, including drawing on newly commissioned research from a panel of more than 7,000 teachers. It also explores the consequences for financial education of the declining use of cash, and the challenges and opportunities offered by a move to more digital payments. While it does not profess to offer the answers, it does set out some key questions that merit further discussion.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165006",
+          "publishedOn": "2022-04-05T06:02:01.616Z",
+          "wordCount": 649,
+          "title": "Financial education in a digital world",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165013",
+          "author": null,
+          "description": "Adaptation to climate change is a necessity for advanced and developing economies alike. Policymakers face the challenge of facilitating this transition. This Note argues that adaptation to climate change should be part of a holistic development strategy involving both private and public sector responses. Governments can prioritize public investment in adaptation programs with positive externalities, address market imperfections and policies that make private adaptation inefficient, and mobilize revenues for, and distribute the benefits of, adaptation. Although the choice of what should be done and at what cost ultimately depends on each society’s preferences, economic theory provides a useful framework to maximize the impact of public spending. Cost-benefit analysis, complemented by the analysis of distributional effects, can be used to prioritize adaptation programs as well as all other development programs to promote an efficient and just transition to a changed climate. While compensations may be needed to offset damages that are either impossible or too expensive to abate, subsidies for adaptation require careful calibration to prevent excessive risk taking.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165013",
+          "publishedOn": "2022-04-05T06:02:01.426Z",
+          "wordCount": 649,
+          "title": "Economic Principles for Integrating Adaptation to Climate Change into Fiscal Policy",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165007",
+          "author": null,
+          "description": "The use of a semi-structural model as one of the workhorse tools for macroeconomic analysis and projections at the Bundesbank has a long-standing tradition. In an iterative projection process, the macroeconometric model’s main task is to merge projections by Bundesbank experts for various areas of the economy and other information into a unifying framework in order to develop a consistent narrative on the outlook for the German economy. Besides this, the model is frequently used to perform simulation analyses both in the projection context and beyond. Its structure thus has to be broad enough to capture the key interdependencies within the macroeconomy whilst also including a sufficiently detailed setup. This paper summarises the model’s main equation blocks, shows growth decompositions of key macro variables and presents selected simulation results in order to illustrate key transmission channels. The model has a traditional semi-structural character and is set in a national accounts framework. Most of its central behavioural equations follow an error-correction mechanism and are estimated individually based on quarterly data. One particular feature is the constant elasticity of substitution (CES) production technology with a two-level nested structure that integrates energy as a third input factor in addition to capital and labour. In the model’s price block, behavioural equations for most deflators and HICP core inflation are jointly specified and estimated via a system approach. Moreover, the model contains a rich fiscal block.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165007",
+          "publishedOn": "2022-04-05T06:02:01.417Z",
+          "wordCount": 649,
+          "title": "The macroeconometric model of the Bundesbank revisited",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165011",
+          "author": null,
+          "description": "We study the one-year-ahead budgetary projections from the Stability and Convergence Programmes of EU Member States since the start of the Economic and Monetary Union (EMU) until the start of the coronavirus crisis. We consider first budget-balance errors, which we then split into expenditure and revenue errors. Next, we split the latter two into ＂base＂, ＂growth＂ and ＂denominator＂ effects. The most important explanatory variable is the GDP growth error: more optimism in GDP growth projections produces more optimistic budgetary projections. This effect goes beyond a mechanical denominator effect on spending and revenues as shares of GDP; it also works through the numerator of these ratios. Our findings may call for delegating the construction of output projections to adequately equipped national independent fiscal institutions. Finally, we explore how independent fiscal institutions shape projection errors. Those with high media impact producing or assessing the macroeconomic forecast appear to lead to actual budgetary improvement relative to projections.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165011",
+          "publishedOn": "2022-04-05T06:02:01.398Z",
+          "wordCount": 649,
+          "title": "Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164992",
+          "author": null,
+          "description": "I consider estimation of the average treatment effect (ATE), in a population composed of $G$ groups, when one has unbiased and uncorrelated estimators of each group‘s conditional average treatment effect (CATE). These conditions are met in stratified randomized experiments. I assume that the outcome is homoscedastic, and that each CATE is bounded in absolute value by B standard deviations of the outcome, for some known B. I derive, across all linear combinations of the CATEs‘ estimators, the estimator of the ATE with the lowest worst-case mean-squared error. This minimax-linear estimator assigns a weight equal to group g‘s share in the population to the most precisely estimated CATEs, and a weight proportional to one over the estimator‘s variance to the least precisely estimated CATEs. I also derive the minimax-linear estimator when the CATEs‘ estimators are positively correlated, a condition that may be met by differences-in-differences estimators in staggered adoption designs.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164992",
+          "publishedOn": "2022-04-05T06:02:01.362Z",
+          "wordCount": 649,
+          "title": "Trading-off Bias and Variance in Stratified Experiments and in Staggered Adoption Designs, Under a Boundedness Condition on the Magnitude of the Treatment Effect",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -790,7 +870,7 @@
           "author": null,
           "description": "We study impacts of a cash transfer program with no means-test and no work restrictions: the US Department of Veteran Affairs (VA) Disability Compensation program. Our empirical strategy leverages quasi-random assignment of veterans claiming mental disorder disability to examiners who vary in their assessing tendencies. We find that an additional $1,000 per year in transfers decreases food insecurity and homelessness by 4.1% and 1.3% over five years, while the number of collections on VA debts declines by 6.4%. Despite facing virtually no direct monetary costs, healthcare utilization increases by 2.5% over the first five years, with greater engagement in preventive care and improved medication adherence. This demand response is in part explained by the ability to overcome indirect costs of accessing care (＂ordeals＂). Additionally, VA-conducted surveys suggest that transfers improve communication and trust between veterans and VA clinicians, leading to greater overall satisfaction. Apart from a reduction in self-reported pain, we estimate precise null effects on mental and physical health, including depression, alcohol and substance use disorders, body mass index, blood pressure, and glucose levels. Effects on mortality are small: we can rule out reductions greater than 0.011 percentage points (0.14%) over five years.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164994",
-          "publishedOn": "2022-04-05T03:12:10.708Z",
+          "publishedOn": "2022-04-05T06:02:01.353Z",
           "wordCount": 649,
           "title": "Impacts of Basic Income on Health and Economic Well-Being: Evidence from the VA’s Disability Compensation Program",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -800,49 +880,19 @@
           "author": null,
           "description": "We develop a two-country model in which currency and bond markets are populated by different investor clienteles, and segmentation is partly overcome by global arbitrageurs with limited capital. Our model accounts for the empirically documented violations of Uncovered Interest Parity (UIP) and the Expectations Hypothesis, and for how UIP violations depend on bond maturity, investment horizon, and yield curve slope differentials. Large-scale purchases of long-maturity bonds lower domestic and foreign bond yields, and depreciate the currency. Conventional monetary policy is transmitted to domestic and international bond yields as well, but its international transmission is weaker than for unconventional policy.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165000",
-          "publishedOn": "2022-04-05T03:12:10.696Z",
+          "publishedOn": "2022-04-05T06:02:01.332Z",
           "wordCount": 649,
           "title": "A Preferred-Habitat Model of Term Premia, Exchange Rates, and Monetary Policy Spillovers",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164999",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165010",
           "author": null,
-          "description": "This paper analyses the design of optimal nonlinear savings taxation, in a multi-period consumption-savings economy where consumers face persistent, uninsurable shocks to the marginal value that they place on consuming. Its main contributions are: (a) to show that shocks of this kind generically justify positive marginal savings taxes, and (b) to characterise these taxes by reference to a limited number of sufficient statistics. The method for obtaining this characterisation is generalisable, and provides a roadmap for reconnecting `Mirrleesian‘ and `sufficient statistics‘ approaches to dynamic taxation. Intuitively, dynamic asymmetric information problems imply significant restrictions on intertemporal consumption elasticities. These restrictions keep sufficient statistics representations manageable, despite the multi-dimensional choice setting.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164999",
-          "publishedOn": "2022-04-05T03:12:10.689Z",
+          "description": "This paper documents recent structural changes in China’s corporate landscape, based on company-level data, providing a complementary perspective to that of official Chinese statistics. We classify China’s largest companies by revenue since 2004 (based on Fortune Global 500 rankings), and largest listed companies by market capitalization since 2010, into state and private-sector categories, using a conservative definition of the private sector. Among the largest companies by revenue, the private sector was nonexistent in the mid-2000s but has grown steadily in the past decade, even though the state sector still dominates. The aggregate revenue of private-sector companies has grown from zero in Fortune’s ranking in 2005 (based on 2004 revenue) to $104 billion in the 2011 ranking, or merely 3.8 percent of the $2.78 trillion in aggregate revenue for all Chinese companies in the ranking, and to $1.7 trillion in the latest 2021 ranking (based on 2020 revenue), or 19 percent of the Chinese companies’ aggregate revenue. As for market value of the largest listed firms, the private sector’s share in the top 100 listed Chinese companies was only 8 percent at end-2010 but crossed the 50 percent threshold in 2020 and retreated slightly in 2021 to 48 percent, following that year’s regulatory crackdown on several private-sector-dominated industries. These findings do not support a narrative of broad-based rollback in recent years of previous private-sector expansion.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165010",
+          "publishedOn": "2022-04-05T06:02:01.323Z",
           "wordCount": 649,
-          "title": "Optimal Nonlinear Savings Taxation",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164989",
-          "author": null,
-          "description": "We investigate the implications of extra-normal government spending under the COVID-19 pandemic for commercial bank lending growth between 2019Q4 and 2020Q4 in a large sample of over 3000 banks from 71 countries. We control for pre-pandemic structural factors, bank characteristics and government debt. To address the likely endogeneity of government assistance under the pandemic, we instrument for extra-normal spending using disparities in pre-existing national political characteristics for identification. Our results indicate that while higher government spending was associated with higher commercial bank lending, higher public debt going into the crisis weakened the expansionary effects of higher spending on bank lending at economically and statistically significant levels. Moreover, this sensitivity is higher among weaker banks, suggesting that bank lending responses to government spending under COVID-19 reflected the perceived implications of such spending for government assistance of the banking sector going forward. Our results are robust to a variety of sensitivity analyses, including perturbations in specification, sample, and estimation methodology.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164989",
-          "publishedOn": "2022-04-05T03:12:10.664Z",
-          "wordCount": 649,
-          "title": "Fiscal Stimulus and Commercial Bank Lending Under COVID-19",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164995",
-          "author": null,
-          "description": "This paper examines the structure, behavior and performance of the N95 respirator market in the U.S. before and during the COVID-19 pandemic (2020-early 2022). It focuses on the behavior and performance of government and private sector organizations in the allocation of scarce supplies of N95 respirators during the pandemic in the U.S. The experience with the supply, demand, allocation, rationing, and pricing of N95s during the first two years of the pandemic provides instructive examples of how the public and private sectors can work in tandem with regulatory support rather than coercion to achieve widely accepted public health goals. Of particular interest is the adoption of voluntary private market segmentation, rationing and price maintenance policies during roughly the first year of the pandemic, led by the dominant U.S. manufacturer of N95s.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164995",
-          "publishedOn": "2022-04-05T03:12:10.655Z",
-          "wordCount": 649,
-          "title": "From Scarcity to Abundance: Government and Private Initiatives to Manage the Allocation of N95 Masks in the U.S. During the COVID-19 Pandemic",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165001",
-          "author": null,
-          "description": "This paper provides evidence from the US and Denmark that managers with a business degree (“business managers”) reduce their employees‘ wages. Within five years of the appointment of a business manager, wages decline by 6% and the labor share by 5 percentage points in the US, and by 3% and 3 percentage points in Denmark. Firms appointing business managers are not on differential trends and do not enjoy higher output, investment, or employment growth thereafter. Using manager retirements and deaths and an IV strategy based on the diffusion of the practice of appointing business managers within industry, region and size quartile cells, we provide additional evidence that these are causal effects. We establish that the proximate cause of these (relative) wage effects are changes in rent-sharing practices following the appointment of business managers. Exploiting exogenous export demand shocks, we show that non-business managers share profits with their workers, whereas business managers do not. But consistent with our first set of results, these business managers show no greater ability to increase sales or profits in response to exporting opportunities. Finally, we use the influence of role models on college major choice to instrument for the decision to enroll in a business degree in Denmark and show that our estimates correspond to causal effects of practices and values acquired in business education - rather than the differential selection into business education of individuals unlikely to share rents with workers.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165001",
-          "publishedOn": "2022-04-05T03:12:10.381Z",
-          "wordCount": 649,
-          "title": "Eclipse of Rent-Sharing: The Effects of Managers‘ Business Education on Wages and the Labor Share in the US and Denmark",
+          "title": "The private sector advances in China: The evolving ownership structures of the largest companies in the Xi Jinping era",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -850,7 +900,7 @@
           "author": null,
           "description": "This paper examines the effects of decentralizing decision-making in multi-establishment firms. Using a unique dataset from the Liquor Control Board of Ontario (LCBO), we assess the impact of allowing store managers to control the inventory replenishment decisions of their stores. We first present evidence of strong heterogeneity across the inventory decisions of the 634 store managers in the retail chain. We then study the sources of this heterogeneity by focusing on differences across stores in the structure of the profit function. We estimate a separate dynamic structural model of inventory management for each store manager in the retail chain using two years of daily data. We find very substantial heterogeneity across stores in unit costs of holding inventory, placing orders, and stockouts, and in fixed ordering costs. Using counterfactual experiments based on the estimated model, we find that a centralized inventory management system would yield a 0.4% increase in annual profit for LCBO, equivalent to $6.8 million. This modest effect is the result of combining two substantial effects with opposite signs: the negative effect of delaying the processing of information is more than compensated by the large reduction in ordering and storage costs from eliminating store managers‘ behavioral biases and heterogeneous skills (i.e., 25.5% on average, 6.3% for the median store). Furthermore, the gains from centralization are very heterogeneous across stores in the retail chain, with both very substantial losses and gains. These distributional effects within multi-divisional companies can be relevant when deciding whether to adopt an organizational change.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164997",
-          "publishedOn": "2022-04-05T03:12:10.367Z",
+          "publishedOn": "2022-04-05T06:02:01.315Z",
           "wordCount": 649,
           "title": "Decentralized Decision-Making in Retail Chains: Evidence from Inventory Management",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -860,79 +910,9 @@
           "author": null,
           "description": "We examine the distribution of household consumption, income and savings from 2019 through the end of 2020 using the Consumer Expenditure Survey (CE) and other data. This is the first work to study the impact of the COVID-19 pandemic on economic well-being using nationally representative consumption data. We find that low percentiles of the consumption distribution see pre-pandemic growth and little change with the onset of the pandemic. On the other hand, higher percentiles of the consumption distribution do not increase before the pandemic and fall in 2020. Leveraging the rich demographics of our microdata, we find the most pronounced decline for high-educated families near the top of the consumption distribution and seniors in the top half of the distribution. The decrease in the top half is less evident for non-Whites. These patterns for consumption are different than those for income, particularly in the upper part of the distribution. Liquid assets increase in the upper half of the distribution, consistent with the divergence between the upper half of the income and consumption distributions. Our results suggest that the policy response to the pandemic averted a decrease in consumption for the most materially disadvantaged families, while changes in aggregate consumption accord with the observed patterns in the top of the consumption distribution. The changes for various types of consumption, and the distribution of those changes across the material resource distribution, are consistent with reductions in travel to work―which were large for those with greater material advantage―and restrictions on outlets for consumption.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164993",
-          "publishedOn": "2022-04-05T03:12:10.357Z",
+          "publishedOn": "2022-04-05T06:02:01.277Z",
           "wordCount": 649,
           "title": "Changes in the Distribution of Economic Well-Being during the COVID-19 Pandemic: Evidence from Nationally Representative Consumption Data",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165012",
-          "author": null,
-          "description": "This Staff Climate Note is part of a series of three Notes (IMF Staff Climate Note 2022/001, 2022/002, and 2022/003) that discuss fiscal policies for climate change adaptation. A first Note (Bellon and Massetti 2022, henceforth Note 1) examines the economic principles that can guide the integration of climate change adaptation into fiscal policy. It argues that climate change adaptation should be part of a holistic, sustainable, and equitable development strategy. To maximize the impact of scarce resources, governments need to prioritize among all development programs, including but not limited to adaptation. To this end, they can use cost-benefit analysis while ensuring that the decision-making process reflects society’s preferences about equity and uncertainty. A second Note (Aligishiev, Bellon, and Massetti. 2022, henceforth Note 2) discusses the macro-fiscal implications of climate change adaptation. It reviews evidence on the effectiveness of adaptation at reducing climate change damages, on residual risks, and on adaptation investment needs, and suggests ways to integrate climate risks and adaptation costs into national macro-fiscal frameworks with the goal of guiding fiscal policy. It stresses that lower-income vulnerable countries, which have typically not contributed much to climate change, face exacerbated challenges that warrant increased international support. This third Note considers how to translate adaptation principles and estimates of climate impacts into effective policies.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165012",
-          "publishedOn": "2022-04-05T03:12:10.345Z",
-          "wordCount": 649,
-          "title": "Planning and Mainstreaming Adaptation to Climate Change in Fiscal Policy",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165013",
-          "author": null,
-          "description": "Adaptation to climate change is a necessity for advanced and developing economies alike. Policymakers face the challenge of facilitating this transition. This Note argues that adaptation to climate change should be part of a holistic development strategy involving both private and public sector responses. Governments can prioritize public investment in adaptation programs with positive externalities, address market imperfections and policies that make private adaptation inefficient, and mobilize revenues for, and distribute the benefits of, adaptation. Although the choice of what should be done and at what cost ultimately depends on each society’s preferences, economic theory provides a useful framework to maximize the impact of public spending. Cost-benefit analysis, complemented by the analysis of distributional effects, can be used to prioritize adaptation programs as well as all other development programs to promote an efficient and just transition to a changed climate. While compensations may be needed to offset damages that are either impossible or too expensive to abate, subsidies for adaptation require careful calibration to prevent excessive risk taking.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165013",
-          "publishedOn": "2022-04-05T03:12:10.330Z",
-          "wordCount": 649,
-          "title": "Economic Principles for Integrating Adaptation to Climate Change into Fiscal Policy",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165006",
-          "author": null,
-          "description": "The Covid-19 (Covid) pandemic has had a profound effect on the way we live our lives. It has impacted our relationship with the economy by changing the way we work and where we choose to live. And it has affected our relationship with money by accelerating the transition away from cash and towards digital payments.\r\n\r\nWhat are young people to make of all this? How can they prepare themselves for a financial and economic world that is changing so rapidly? Young people get their financial education from various sources ？ including at school and in the home. But provision can vary between schools, and some parents feel more comfortable than others talking to their children about money. The decline in cash use presents a specific challenge given its role in many children’s earliest financial education ？ from piggy banks to pocket money.\r\n\r\nThis article explores the provision of financial and economic education and how it is evolving in response to a changing economic and financial world. It focuses in particular on financial education in schools and the barriers to increasing provision in the classroom, including drawing on newly commissioned research from a panel of more than 7,000 teachers. It also explores the consequences for financial education of the declining use of cash, and the challenges and opportunities offered by a move to more digital payments. While it does not profess to offer the answers, it does set out some key questions that merit further discussion.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165006",
-          "publishedOn": "2022-04-05T03:12:10.322Z",
-          "wordCount": 649,
-          "title": "Financial education in a digital world",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165009",
-          "author": null,
-          "description": "The effect of the war in Ukraine on OECD countries, and beyond, will be profound. The humanitarian cost is already extremely high: millions of people are fleeing the war zone. This Interim Report focuses on the potential economic and social consequences of the war. The war is expected to slow the global recovery from the COVID-19 pandemic and further push up inflation worldwide.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165009",
-          "publishedOn": "2022-04-05T03:12:10.297Z",
-          "wordCount": 649,
-          "title": "OECD Economic Outlook, Interim Report March 2022 : Economic and Social Impacts and Policy Implications of the War in Ukraine",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165010",
-          "author": null,
-          "description": "This paper documents recent structural changes in China’s corporate landscape, based on company-level data, providing a complementary perspective to that of official Chinese statistics. We classify China’s largest companies by revenue since 2004 (based on Fortune Global 500 rankings), and largest listed companies by market capitalization since 2010, into state and private-sector categories, using a conservative definition of the private sector. Among the largest companies by revenue, the private sector was nonexistent in the mid-2000s but has grown steadily in the past decade, even though the state sector still dominates. The aggregate revenue of private-sector companies has grown from zero in Fortune’s ranking in 2005 (based on 2004 revenue) to $104 billion in the 2011 ranking, or merely 3.8 percent of the $2.78 trillion in aggregate revenue for all Chinese companies in the ranking, and to $1.7 trillion in the latest 2021 ranking (based on 2020 revenue), or 19 percent of the Chinese companies’ aggregate revenue. As for market value of the largest listed firms, the private sector’s share in the top 100 listed Chinese companies was only 8 percent at end-2010 but crossed the 50 percent threshold in 2020 and retreated slightly in 2021 to 48 percent, following that year’s regulatory crackdown on several private-sector-dominated industries. These findings do not support a narrative of broad-based rollback in recent years of previous private-sector expansion.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165010",
-          "publishedOn": "2022-04-05T03:12:10.280Z",
-          "wordCount": 649,
-          "title": "The private sector advances in China: The evolving ownership structures of the largest companies in the Xi Jinping era",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165011",
-          "author": null,
-          "description": "We study the one-year-ahead budgetary projections from the Stability and Convergence Programmes of EU Member States since the start of the Economic and Monetary Union (EMU) until the start of the coronavirus crisis. We consider first budget-balance errors, which we then split into expenditure and revenue errors. Next, we split the latter two into ＂base＂, ＂growth＂ and ＂denominator＂ effects. The most important explanatory variable is the GDP growth error: more optimism in GDP growth projections produces more optimistic budgetary projections. This effect goes beyond a mechanical denominator effect on spending and revenues as shares of GDP; it also works through the numerator of these ratios. Our findings may call for delegating the construction of output projections to adequately equipped national independent fiscal institutions. Finally, we explore how independent fiscal institutions shape projection errors. Those with high media impact producing or assessing the macroeconomic forecast appear to lead to actual budgetary improvement relative to projections.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165011",
-          "publishedOn": "2022-04-05T03:12:10.272Z",
-          "wordCount": 649,
-          "title": "Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164990",
-          "author": null,
-          "description": "This paper documents the share of investable wealth that middle-class U.S. investors hold in the stock market over their working lives. This share rises modestly early in life and falls significantly as people approach retirement. Prior to 2000, the average investor held less of their investable wealth in the stock market and did not adjust this share over their working life. These changes in portfolio allocation were accelerated by the Pension Protection Act (PPA) of 2006, which allowed employers to adopt target date funds (TDFs) as default options in retirement saving plans. Young retail investors who start at an employer shortly after it adopts TDFs have higher equity shares than those who start at that same employer shortly before the change in defaults. Older investors rebalance more to safe assets. We also study retirement contribution rates over the life-cycle and find that average retirement saving rates increase steadily over the working life. In contrast to what we find for investment in the stock market, contribution rates have been stable over time and across cohorts and were not increased by the PPA.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000164990",
-          "publishedOn": "2022-04-05T03:12:10.258Z",
-          "wordCount": 649,
-          "title": "Household Portfolios and Retirement Saving over the Life Cycle",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -940,9 +920,29 @@
           "author": null,
           "description": "We evaluate the impact of an online platform giving job seekers tips to improve their search and recommendations of new occupations and locations to target, based on their personal data and labor market data. Our experiment used an encouragement design and was conducted in collaboration with the French public employment agency. It includes 212,277 individuals. We find modest effects on search methods: the users of the platform adopt some of its tips and they are more likely to use resources provided by public employment services. However, following individual trajectories for 18 months after the intervention, we do not observe any impact on time spent looking for a job, search scope (occupational or geographical), or self-reported well-being. Most importantly, we do not find any effect on any employment outcome, whether in the short or medium run. We conclude that the enthusiasm around the potential for job-search assistance platforms to help reduce unemployment should be toned down.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165005",
-          "publishedOn": "2022-04-05T03:12:10.225Z",
+          "publishedOn": "2022-04-05T06:02:01.246Z",
           "wordCount": 649,
           "title": "Can a Website Bring Unemployment Down? Experimental Evidence from France",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165012",
+          "author": null,
+          "description": "This Staff Climate Note is part of a series of three Notes (IMF Staff Climate Note 2022/001, 2022/002, and 2022/003) that discuss fiscal policies for climate change adaptation. A first Note (Bellon and Massetti 2022, henceforth Note 1) examines the economic principles that can guide the integration of climate change adaptation into fiscal policy. It argues that climate change adaptation should be part of a holistic, sustainable, and equitable development strategy. To maximize the impact of scarce resources, governments need to prioritize among all development programs, including but not limited to adaptation. To this end, they can use cost-benefit analysis while ensuring that the decision-making process reflects society’s preferences about equity and uncertainty. A second Note (Aligishiev, Bellon, and Massetti. 2022, henceforth Note 2) discusses the macro-fiscal implications of climate change adaptation. It reviews evidence on the effectiveness of adaptation at reducing climate change damages, on residual risks, and on adaptation investment needs, and suggests ways to integrate climate risks and adaptation costs into national macro-fiscal frameworks with the goal of guiding fiscal policy. It stresses that lower-income vulnerable countries, which have typically not contributed much to climate change, face exacerbated challenges that warrant increased international support. This third Note considers how to translate adaptation principles and estimates of climate impacts into effective policies.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165012",
+          "publishedOn": "2022-04-05T06:02:01.221Z",
+          "wordCount": 649,
+          "title": "Planning and Mainstreaming Adaptation to Climate Change in Fiscal Policy",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165009",
+          "author": null,
+          "description": "The effect of the war in Ukraine on OECD countries, and beyond, will be profound. The humanitarian cost is already extremely high: millions of people are fleeing the war zone. This Interim Report focuses on the potential economic and social consequences of the war. The war is expected to slow the global recovery from the COVID-19 pandemic and further push up inflation worldwide.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165009",
+          "publishedOn": "2022-04-05T06:02:01.203Z",
+          "wordCount": 649,
+          "title": "OECD Economic Outlook, Interim Report March 2022 : Economic and Social Impacts and Policy Implications of the War in Ukraine",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         }
       ]
@@ -953,13 +953,103 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/domesticList.do",
       "articles": [
         {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164988",
+          "author": null,
+          "description": "보험연구원이 『K-ICS 대응 감독회계와 계리제도 연구』를 발표하였다.\r\n\r\n- 보험부채시가평가에 기반한 지급여력제도인 K-ICS가 2023년에 도입될 예정임. K-ICS는 주로 가용자본 및 요구자본 산출방법에 중점을 두고 있어, 이와 연관된 감독회계 와 보험부채 현금흐름에 영향을 미치는 계리제도에 대한 논의의 필요성이 제기되고 있음.\r\n\r\n- 현행 계리제도는 원가방식 보험부채에 기반하여 해약환급금, 손익분석, 계약자배당의 기준을 제시하므로 단순히 시가방식 보험부채와 계리제도를 연계한다면 제도의 안정성, 계약자 간 형평성, 보험회사 경영관리 등에 어려움이 발생할 수 있음.\r\n\r\n- 본고에서는 먼저 시가방식 부채평가의 주요 내용과 평가방식을 간단한 예시를 통해 설명함. 이후 국내 감독회계의 주요 내용을 파악하고 계리제도의 발전과정과 현황을 살펴본 후, 부채시가평가가 도입된 해외 국가인 캐나다, 호주, 영국뿐만 아니라 미국, 일본을 포함하여 국가별 계리제도를 비교함.\r\n\r\n- 해외 사례 및 도입될 제도를 고려하면 향후에는 보험부채에 연계하지 않고 각각의 목적에 맞게 계리 제도가 변화하는 것이 필요함. 해약환급금은 계약자보호뿐만 아니라 현금흐름방식 보험료 산출 및 재무건전성에 미치는 영향, 손익분석은 계약자배당의 기초자료가 아닌 보험회사 손익 변동에 대한 구체적 원인 설명, 계약자배당은 계약자에 대한 합리적 이익 배분 등을 고려하여 개선해야 할 것임.\r\n\r\n- 한편 보험부채시가평가는 계리제도뿐만 아니라 주주배당, 법인세 등 다양한 측면으로 보험회사에 영향을 미치게 됨. 이와 같은 주제뿐만 아니라 부채구조조정, 가용자본 및 요구자본 관리 방안 등을 향후 연구과제로 제시함.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164988",
+          "publishedOn": "2022-04-05T06:02:01.072Z",
+          "wordCount": 500,
+          "title": "K-ICS 대응 감독회계와 계리제도 연구",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
           "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164976",
           "author": null,
           "description": "한국농촌경제연구원이 『애그테크산업 활성화 방안』을 발표하였다.\r\n\r\n- 현대 농업은 실리콘밸리처럼 첨단화, 상업화가 주도하고 있다. 여기에서 핵심이 애그테크라는 분석이 지배적임. 환경오염, 기후변화, 소비패턴의 변화 등 다양한 변화에 대응하기 위해 농업에서도 새로운 기술이 필요함. 이러한 기술을 통해 오염, 토양 황폐화, 사막화로 인한 식량 부족, 물 부족, 탄소배출과 같은 실제 문제를 해결하려는 노력들이 이루어지고 있음. 이러한 시장의 확대와 사회적 요구가 증가하면서 투자가 활발히 이루어지고 있고, 시장도 형성되고 있음.\r\n\r\n- 농업은 전통적인 식량 생산에서 생태계를 보전하면서 생산성을 높이고, 자원투입을 최소화하는 형태로 변화해 가는 과정에 있음. 이는 소비자들의 요구, 사회적 요구, 환경오염 증가에 대한 부담 증가에 따른 불가피한 선택, 식량 부족 지역에 대한 해결 등의 압력에 의한 불가피한 선택이기도 함.\r\n\r\n- 생물학적 기술, 첨단 제조 기술, 자율주행 기술, 상호연결 기술 등 새로운 기술들의 등장으로 농업의 형태도 자연 순응적 방법에서 자연 통제 방법을 통한 새로운 농업들로 변화하고 있음. 드론 및 자율주행 농기계, 스마트팜, 생물기반 농업 투입재 등이 대표적임. 이러한 새로운 농업의 중심에 애그테크가 있다. 이 연구는 농업의 지속가능성 향상과 첨단화, 스마트화를 위한 애그테크산업의 활성화 방안을 도출하는 것을 목적으로 하고 있음.",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164976",
-          "publishedOn": "2022-04-05T03:12:10.120Z",
+          "publishedOn": "2022-04-05T06:02:01.054Z",
           "wordCount": 500,
           "title": "애그테크산업 활성화 방안",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164978",
+          "author": null,
+          "description": "한국은행이 「2023년 대통령예산안」을 발표하였다.\r\n\r\n- 3.28일(월) 백악관 예산관리국(Office of Management and Budget)은 총 5.8조 달러규모의 2023 회계연도(2023.10.1~2024.9.30) 예산안과 향후 10년간의 예산추정치를담은 「대통령예산안(President’s Budget)」을 의회에 제출\r\n\r\n- 2023년 재량예산(사회보장 등 의무프로그램 지출과 비연계된 순재량지출 기준)은1조5,980억달러규모(국방예산 8,130억달러, 비국방예산 7,690억달러)로 2022년 입법예산대비 +5.7% 증액 편성\r\n\r\n- 2023년 재정적자 규모는 1.2조달러(GDP 대비 4.5%)로 2022년(1.4조달러, GDP 대비5.8%) 대비 18.4% 감소, 향후 10년간 재정적자는 기존 전망 대비 1조달러감축 \r\n\r\n- GDP 대비 국가부채비율은 2022년말 102.4%(24.8조달러)에서 2032년말 106.7%(39.5조달러)까지 상승하는 것으로 추정하였는데, 이는 기존 전망(109.6%)보다크게 낮은 수준",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164978",
+          "publishedOn": "2022-04-05T06:02:01.044Z",
+          "wordCount": 500,
+          "title": "2023년 미국 대통령예산안",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165020",
+          "author": null,
+          "description": "국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식ㆍ채권 모두 유입 전환’을 발표하였다.\r\n\r\n- 주식 및 채권펀드 모두 유입\r\n\r\n- 신흥국들의 신용위험 감소, 통화가치 상승",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165020",
+          "publishedOn": "2022-04-05T06:02:00.625Z",
+          "wordCount": 500,
+          "title": "[Fund Flow] 글로벌 펀드자금, 주식ㆍ채권 모두 유입 전환",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164985",
+          "author": null,
+          "description": "KDB미래전략연구소가 「’22.3월 美 기준금리 인상과 향후 전망」을 발표하였다.\r\n\r\n- 미 연준은 3월 FOMC에서 인플레이션 대응을 위해 기준금리 25bp 인상을 단행. 향후 ’22년 중 25bp씩 6차례 기준금리 인상이 예상되나, 50bp 이상 인상하는 빅스텝을 밟을 가능성도 배제할 수 없는 상황",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164985",
+          "publishedOn": "2022-04-05T06:02:00.480Z",
+          "wordCount": 500,
+          "title": "’22.3월 美 기준금리 인상과 향후 전망",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165018",
+          "author": null,
+          "description": "국제금융센터가 『그럼에도 일본 경제를 주시해야 하는 이유』를 발표하였다.\r\n\r\n- [위상 하락] 1990년대 초반 버블 붕괴 이후 일본의 경제규모과 교역 등이 전세계에서 차지하는 비중이 계속 줄어들면서 일본경제에 대한 관심이 감소\r\n · (경제규모) 일본 명목GDP(`21년 5조달러)는 미국과 중국에 이어 세계 3위이지만 세계경제에서 차지하는 비중은 `94년 17.9%의 정점 기록 후 `21년 5.4%로 감소 \r\n · (교역) 교역에서도 일본의 상품 수출입액은 중국, 미국, 독일에 이어 세계 4위이지만, G20국가를 기준으로 한 비중은 `96년 11%에서 `20년 5.9%로 감소\r\n\r\n- [관심사항] 세계경제에서 차지하는 일본경제의 중요도가 과거에 비해 줄어들었음에도 불구하고 경기순환, 자금흐름 변화 가능성 등을 감안할 때 일본경제 향방을 여전히 주시할 필요\r\n · (경기순환) 명목설비투자 기준 중기순환의 경기확장국면이 `22.3분기부터 시작되며, `22~`25년은 단기, 중기, 장기, 초장기 등 4개 경기순환의 상승국면이 모두 겹칠 것으로 예상\r\n · (해외투자) 일본의 대규모 해외투자자금은 세계경제에 큰 역할을 하고 있는데 국내외 여건 변화시 자금흐름이 바뀌면서 국제금융시장에 영향을 미칠 가능성\r\n · (기업 경쟁력) 세계 경쟁력 평가에서 일본의 순위는 제한적(IMD 31위, WEF 6위)이지만 특히 연구개발분야의 평가가 높아 기업활동으로 연결될 경우 경쟁력 향상 소지\r\n · (자산가격) 버블 붕괴로 크게 하락했던 주가와 부동산가격이 아베노믹스를 계기로 회복되는 모습을 보이고 있어 장기저점을 통과했을 가능성. 닛케이주가는 버블 당시의 역대 최고치와 비교하여 `21.9월에 76% 수준까지 회복. 부동산가격도 외국계 펀드의 매수 재개 움직임 속에 코로나19 직전 20.4% 수준까지 반등 \r\n\r\n- [전망] 향후 일본경제는 정부가 추진하고 있는 ‘새로운 자본주의’를 통해 기업들의 기대성장률을 높일 수 있을지 여부가 매우 중요\r\n · (경제정책) 기시다 총리는 시장원리와 규제완화를 중시하는 신자유주의적 정책이 각종 병폐를 낳았다는 인식 하에 성장과 분배의 선순환을 추구하는 ‘새로운 자본주의’를 내세우며 금년 6월까지 구체적 계획을 마련할 방침 \r\n · (성장 기대) 일본 경제정책의 요체라 할 수 있는 지속적인 임금인상이 일본기업들의 장기적인 성장 기대를 높일 수 있을지가 관건. 일본기업들의 기대성장률을 높이기 위해서는 인구구조 악화로 인한 경제하방압력을 완화 또는 상쇄시킬 것으로 기대할 수 있는 일본정부의 신뢰가능한 성장전략이 필수(GS)",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165018",
+          "publishedOn": "2022-04-05T06:02:00.464Z",
+          "wordCount": 500,
+          "title": "그럼에도 일본 경제를 주시해야 하는 이유",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164987",
+          "author": null,
+          "description": "보험연구원이 『국민건강보험과 민영건강보험의 역할과 과제』를 발표하였다.\r\n\r\n- 우리나라는 국민건강보험의 지속적인 보장성 강화 추진과 실손의료보험의 가입 확대를 통해 빠르게 증가하는 국민의 건강보장 수요 확대에 대응해 왔으나, 최근 공공부문의 재정 부담 확대 및 실손의료보험 손해율 악화·보험료 인상의 악순환 지속으로 우리나라 건강보험제도의 지속성이 우려되는 상황임.\r\n\r\n- 현재 우리나라의 공·사 건강보험은 모두 지속성 위기를 겪고 있음에도, 위기의 원인에 대해서는 공·사 간에 공감과 상충의 의견이 공존하였음. 공·사 건강보험이 겪는 위기의 주요 원인이 ‘비급여 관리 방안의 부재’라는 점에서는 의견이 일치하였고, 특히 직면한 위기에 대응하고 중장기적으로 상생하기 위해서는 공·사 건강보험이 국민 건강보장을 책임지는 동반자로서 함께 소통하면서 체계적인 청사진을 마련할 필요가 있음에 이해관계자 모두 공감하였음. 비급여 관리를 위해서 먼저 공·사 간 협력을 위한 법적 기반을 마련하고, 현재 논란이 되는 비급여 중심으로 공동 대응해 나갈 필요가 있다는 의견이 제기되었음.\r\n\r\n- 한편, 실손의료보험의 비정상적 보장구조(급여본인부담금 보장 등)가 실손의료보험의 보험금 증가뿐만 아니라 국민건강보험의 재정건전성을 악화시킨다는 주장에 대해서 공·사 간에 의견이 갈렸음. 공공부문에서는 실손의료보험의 급여본인부담금 보장은 건강보험 보장성이 낮았던 2000년대 사회적 합의를 통해 결정된 것으로 지금 시점에서 보장 필요성에 대한 재검토가 필요하며, 특히 실손의료보험의 비정상적 급여 보장 확대가 국민건강보험 재정에 부정적인 영향을 미치고 있다고 주장하였음. 한편, 민간부문은 현재 우리나라의 개인부담의료비는 주요국에 비해 매우 높은 편으로, 특히 급여본인부담금이 개인부담의료비의 절반 이상(2019년 55%)을 차지하고 있는 점을 감안해 본다면, 건강보험의 보장성을 보완하기 위해 실손의료보험의 급여본인부담금 보장이 필요하다는 의견을 개진하였음.\r\n\r\n- 향후 인구고령화에 따른 의료 수요 증가와 코로나19 장기화에 대응하기 위해서는 국민전체의 후생을 증대하는 방향으로 공·사 건강보험의 역할 확대를 도모할 필요가 있으며, 이를 위해 다양한 이해관계자 간의 지속적인 논의의 장이 마련되길 기대해 봄.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164987",
+          "publishedOn": "2022-04-05T06:02:00.436Z",
+          "wordCount": 500,
+          "title": "국민건강보험과 민영건강보험의 역할과 과제",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164982",
+          "author": null,
+          "description": "한국재정정보원이 2022년 재정통계 BRIEF No.12 「연기금투자풀」을 발표하였다.\r\n\r\n- 연기금투자풀은 기금 여유자산의 수익률을 제고하고 안정적으로 관리하기 위해 기금 여유자금을 통합하여 운용하는 투자체계 기금여유자금 운용의 규모의 경제 달성, 자산운용의 전문성 확보 및 수익성 제고를 위하여 제2차 기금정책심의회(‘01.08.23일)에서 ‘연기금투자풀‘제도 도입 결정\r\n\r\n- 연기금투자풀 수탁 규모는 2020년 기준 27.1조원, 2021년 4분기 기준 35.8조원",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164982",
+          "publishedOn": "2022-04-05T06:02:00.409Z",
+          "wordCount": 500,
+          "title": "2022년 재정통계 BRIEF No.12 「연기금투자풀」",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165014",
+          "author": null,
+          "description": "한국은행이 「3월 하순 일본은행의 지정가격 오퍼레이션 실시결과 및 시장 반응」을 발표하였다.\r\n\r\n- 일본은행은 장기금리가 일본은행이 설정한 변동범위(±0.25%) 상한에 근접함에 따라 3.28~31일 기간중 대규모 국채매입(공개시장운영)을 실시. 3월중 일본은행의 국채매입 규모는 7조 6,013억엔으로 코로나19 감염확대로 시장안정 차원에서 매입을 크게 늘렸던 ’20.3월 규모(7조 3,469억엔)를 상회(18.7월 8조 8,684억엔 이후 최고)\r\n\r\n-  일본은행의 대규모 국채매입 실시로 금융완화정책 유지 의지가 확인됨에따라 금리 상승세는 주춤. 다만 미국의 통화정책 정상화 가속, 일본의 소비자물가 상승 가능성 등 금\r\n리상승 요인과 함께 최근의 급격한 엔화 약세에 대한 경계감이 증대되면서 일본은행의 정책 변경 가능성에 대한 논의가 활발해질 것으로 예상",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165014",
+          "publishedOn": "2022-04-05T06:02:00.392Z",
+          "wordCount": 500,
+          "title": "3월 하순 일본은행의 지정가격 오퍼레이션 실시결과 및 시장 반응",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025",
+          "author": null,
+          "description": "대한상공회의소가 『MZ세대가 바라보는 ESG경영과 기업인식 조사』를 발표하였다.\r\n\r\n- MZ세대 380명 대상 조사... 64.5% ‘더 비싸도 ESG 실천기업 제품 구매’\r\n\r\n- MZ세대의 대표적 소비신념은? 가심비(46.6%)> 미닝아웃(28.7%)> 돈쭐(10.3%) 順\r\n\r\n- 파급효과 큰 친환경제품 : 무라벨 페트병(41.1%), 전기·수소차(36.3%) 등 생활 속 친숙한 제품\r\n\r\n- 기업 역할 ‘일자리 창출’(28.9%) 보다 ‘투명·윤리경영 실천’(51.3%) 많이 꼽아... 공정·정의 중시 인식 반영\r\n\r\n- 향후 ESG경영 확산위해 중요한 것? ‘전반적인 국민인식 향상’(38.4%), ‘법ㆍ제도적 지원(27.9%)’ 등 ESG가 기업경영의 화두를 넘어 사회적 트렌드가 되고 있는 가운데, 새로운 소비주체로 부상한 MZ세대들은 제품 구매 시 기업의 ESG경영 실천여부를 중요하게 인식하는 것으로 조사됐음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025",
+          "publishedOn": "2022-04-05T06:02:00.137Z",
+          "wordCount": 500,
+          "title": "MZ세대가 바라보는 ESG경영과 기업인식 조사",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -967,7 +1057,7 @@
           "author": null,
           "description": "한국재정정보원이  2022년 재정통계 BRIEF No.10 「일반회계·특별회계」를 발표하였다.\r\n\r\n- 국가재정은 예산(일반회계, 특별회계)과 기금으로 구분됨. 1차 추경분이 포함된 2022년 예산 기준 총지출은 일반회계 354.4조원, 특별회계 62.8조원, 기금 207.1조원\r\n\r\n- 특별회계는 기업특별회계(4개), 책임운영기관특별회계(1개) 및 기타특별회계(15개)로 구성. 책임운영기관은 특허청, 경찰병원, 국립자연휴양림관리소 등 13곳",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164980",
-          "publishedOn": "2022-04-05T03:12:10.112Z",
+          "publishedOn": "2022-04-05T06:02:00.022Z",
           "wordCount": 500,
           "title": "2022년 재정통계 BRIEF No.10 「일반회계·특별회계」",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -977,149 +1067,9 @@
           "author": null,
           "description": "국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.1)’을 발표하였다.\r\n\r\n- [동향] 미, 사상 최대 규모 전략비축유 방출 계획. 러-우 평화회담 온라인 재개 예정\r\n\r\n- [금융시장 반응] 인플레이션 우려로 위험기피심리 강화. 미 비축유 방출로 유가 하락\r\n\r\n- [해외시각] 미 전략비축유(SPR) 방출 효과에 대해 회의적 시각 다수. 최근 수익률 곡선 평탄화에 따른 경기침체 우려는 과도하다는 평가",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165021",
-          "publishedOn": "2022-04-05T03:12:10.085Z",
+          "publishedOn": "2022-04-05T06:02:00.004Z",
           "wordCount": 500,
           "title": "최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.1)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164988",
-          "author": null,
-          "description": "보험연구원이 『K-ICS 대응 감독회계와 계리제도 연구』를 발표하였다.\r\n\r\n- 보험부채시가평가에 기반한 지급여력제도인 K-ICS가 2023년에 도입될 예정임. K-ICS는 주로 가용자본 및 요구자본 산출방법에 중점을 두고 있어, 이와 연관된 감독회계 와 보험부채 현금흐름에 영향을 미치는 계리제도에 대한 논의의 필요성이 제기되고 있음.\r\n\r\n- 현행 계리제도는 원가방식 보험부채에 기반하여 해약환급금, 손익분석, 계약자배당의 기준을 제시하므로 단순히 시가방식 보험부채와 계리제도를 연계한다면 제도의 안정성, 계약자 간 형평성, 보험회사 경영관리 등에 어려움이 발생할 수 있음.\r\n\r\n- 본고에서는 먼저 시가방식 부채평가의 주요 내용과 평가방식을 간단한 예시를 통해 설명함. 이후 국내 감독회계의 주요 내용을 파악하고 계리제도의 발전과정과 현황을 살펴본 후, 부채시가평가가 도입된 해외 국가인 캐나다, 호주, 영국뿐만 아니라 미국, 일본을 포함하여 국가별 계리제도를 비교함.\r\n\r\n- 해외 사례 및 도입될 제도를 고려하면 향후에는 보험부채에 연계하지 않고 각각의 목적에 맞게 계리 제도가 변화하는 것이 필요함. 해약환급금은 계약자보호뿐만 아니라 현금흐름방식 보험료 산출 및 재무건전성에 미치는 영향, 손익분석은 계약자배당의 기초자료가 아닌 보험회사 손익 변동에 대한 구체적 원인 설명, 계약자배당은 계약자에 대한 합리적 이익 배분 등을 고려하여 개선해야 할 것임.\r\n\r\n- 한편 보험부채시가평가는 계리제도뿐만 아니라 주주배당, 법인세 등 다양한 측면으로 보험회사에 영향을 미치게 됨. 이와 같은 주제뿐만 아니라 부채구조조정, 가용자본 및 요구자본 관리 방안 등을 향후 연구과제로 제시함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164988",
-          "publishedOn": "2022-04-05T03:12:10.050Z",
-          "wordCount": 500,
-          "title": "K-ICS 대응 감독회계와 계리제도 연구",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164984",
-          "author": null,
-          "description": "한국수출입은행이 『자동차산업 2021 4분기 동향』을 발표하였다.\r\n\r\n< 목 차 >\r\n\r\nI. 글로벌 자동차 생산량\r\nII. 글로벌 자동차 판매량\r\n     1. 자동차 판매량\r\n     2. 친환경자동차 판매량\r\n     3. 주요시장 동향\r\nIII. 국내 자동차산업 동향\r\n     1. 국내 생산 및 판매 현황\r\n     2. 수출 현황\r\n     3. 국내 완성차업체 동향\r\nIV. 시사점 및 전망",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164984",
-          "publishedOn": "2022-04-05T03:12:09.771Z",
-          "wordCount": 500,
-          "title": "자동차산업 2021 4분기 동향",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165015",
-          "author": null,
-          "description": "한국은행이 「최근의 유로지역 소비자물가 동향 및 전망」을 발표하였다.\r\n\r\n- 유로지역 소비자물가(HICP기준)는 2021년 이후 오름세 확대가 지속되고있으며 지난해 11월부터는 통계 편제(1997년) 이래 최고 수준을 매월 경신\r\n\r\n- 특히 금년 3월중 소비자물가 상승률은 7.5%(잠정)를 기록하여 이전 최고치였던 전월(5.9%)에 비해서도 오름폭이 크게 확대\r\n\r\n- 유로지역 소비자물가의 높은 오름세는 당분간 지속될 것으로 예상. 에너지가격 상승의 주된 요인인 우크라이나 사태 관련 불확실성이 단기적으로 해소되기 어려운 데다 팬데믹과 연계된 공급병목 현상도 개선이 지연. 다만 우크라이나 사태관련 리스크요인이 악화(예:러시아의 에너지 공급 중단)되지 않을 경우 소비자물가 오름세가 추가 확대될 가능성은 높지 않은 것으로 평가",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165015",
-          "publishedOn": "2022-04-05T03:12:09.750Z",
-          "wordCount": 500,
-          "title": "최근의 유로지역 소비자물가 동향 및 전망",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164982",
-          "author": null,
-          "description": "한국재정정보원이 2022년 재정통계 BRIEF No.12 「연기금투자풀」을 발표하였다.\r\n\r\n- 연기금투자풀은 기금 여유자산의 수익률을 제고하고 안정적으로 관리하기 위해 기금 여유자금을 통합하여 운용하는 투자체계 기금여유자금 운용의 규모의 경제 달성, 자산운용의 전문성 확보 및 수익성 제고를 위하여 제2차 기금정책심의회(‘01.08.23일)에서 ‘연기금투자풀‘제도 도입 결정\r\n\r\n- 연기금투자풀 수탁 규모는 2020년 기준 27.1조원, 2021년 4분기 기준 35.8조원",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164982",
-          "publishedOn": "2022-04-05T03:12:09.742Z",
-          "wordCount": 500,
-          "title": "2022년 재정통계 BRIEF No.12 「연기금투자풀」",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165023",
-          "author": null,
-          "description": "국회미래연구원이 「디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점」을 발표하였다.\r\n\r\n- 보고서는 연산일반균형(CGE) 모형기반 시뮬레이션 체계를 활용하여, 미래 디지털전환 시대 환경변화에 따른 파급효과를 사전적으로 전망하였음. 디지털전환 시대 환경변화 시나리오를 다양하게 탐색하고, 시나리오별 파급효과를 경제성장, 노동시장, 산업활동 및 가계소득 분포 등 다양한 측면으로 분석했음. 이를 통해, 우리나라 경제사회의 디지털전환 수용 과정에서 마주하게 될 가능성과 주요 도전과제를 식별하고, 디지털전환 패러다임으로의 전환을 용이하게 하기 위한 정책설계 및 수립의 과학화에 기여하고자 시도하였음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165023",
-          "publishedOn": "2022-04-05T03:12:07.675Z",
-          "wordCount": 500,
-          "title": "디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164985",
-          "author": null,
-          "description": "KDB미래전략연구소가 「’22.3월 美 기준금리 인상과 향후 전망」을 발표하였다.\r\n\r\n- 미 연준은 3월 FOMC에서 인플레이션 대응을 위해 기준금리 25bp 인상을 단행. 향후 ’22년 중 25bp씩 6차례 기준금리 인상이 예상되나, 50bp 이상 인상하는 빅스텝을 밟을 가능성도 배제할 수 없는 상황",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164985",
-          "publishedOn": "2022-04-05T03:12:07.657Z",
-          "wordCount": 500,
-          "title": "’22.3월 美 기준금리 인상과 향후 전망",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165014",
-          "author": null,
-          "description": "한국은행이 「3월 하순 일본은행의 지정가격 오퍼레이션 실시결과 및 시장 반응」을 발표하였다.\r\n\r\n- 일본은행은 장기금리가 일본은행이 설정한 변동범위(±0.25%) 상한에 근접함에 따라 3.28~31일 기간중 대규모 국채매입(공개시장운영)을 실시. 3월중 일본은행의 국채매입 규모는 7조 6,013억엔으로 코로나19 감염확대로 시장안정 차원에서 매입을 크게 늘렸던 ’20.3월 규모(7조 3,469억엔)를 상회(18.7월 8조 8,684억엔 이후 최고)\r\n\r\n-  일본은행의 대규모 국채매입 실시로 금융완화정책 유지 의지가 확인됨에따라 금리 상승세는 주춤. 다만 미국의 통화정책 정상화 가속, 일본의 소비자물가 상승 가능성 등 금\r\n리상승 요인과 함께 최근의 급격한 엔화 약세에 대한 경계감이 증대되면서 일본은행의 정책 변경 가능성에 대한 논의가 활발해질 것으로 예상",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165014",
-          "publishedOn": "2022-04-05T03:12:07.642Z",
-          "wordCount": 500,
-          "title": "3월 하순 일본은행의 지정가격 오퍼레이션 실시결과 및 시장 반응",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164977",
-          "author": null,
-          "description": "한국은행이 「영국 위드코로나 상황 및 경제적 영향」을 발표하였다.\r\n\r\n- 최근 영국 정부는 코로나19와 관련하여 남아있던 법적 규제를 철폐. 오미크론 변이 확산 전후 시행했던 이동제한조치(플랜 B)를 해제(1.27일)하고 확진자의 자가격리 의무를 폐지한 데 이어(2.24일) 최근에는 백신미접종자에 대해서도 입국 전후 코로나19 검사 의무를 폐지(3.18일)\r\n\r\n- 영국의 코로나19 규제 철폐는 백신접종 증가에 따른 위중증 감소가 주요 배경으로 작용. 최근 변종 오미크론(BA.2) 확산 등으로 확진자수 및 입원환자수는 늘어나고 있으나 사망자수는 이전 확산기에 비해 낮은 수준을 유지\r\n\r\n- 영국경제는 지난해말 이동제한조치 재강화(플랜 B) 등으로 GDP 성장률(전월대비)이 감소(21.12월 ？0.2%)하였으나 금년 초 경제활동 재개로 소비가 늘어나면서 다시 회복세를 이어가는 모습\r\n\r\n- 2월 하순 이후 러시아-우크라이나 간 전쟁과 이에 따른 에너지가격 급등에도 불구하고 대부분의 시장 참가자들은 1/4분기중영국경제가 완만한 성장세를 보일 것으로 예상",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164977",
-          "publishedOn": "2022-04-05T03:12:07.627Z",
-          "wordCount": 500,
-          "title": "영국 위드코로나 상황 및 경제적 영향",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165019",
-          "author": null,
-          "description": "국제금융센터가 ‘[22.4월] 국제원자재시장: 국제원자재가격, 높은 변동성 장세가 이어질 전망’을 발표하였다.\r\n\r\n- [국제원자재가격지수] 3월 에너지, 농산물, 비철금속 등 전부문 상승(전월말 대비)\r\n\r\n- [전망] 러시아發 공급 쇼크로 원자재가격은 당분간 현 강세기조를 유지할 전\r\n · 유가 : 우크라이나 사태가 지속되는 한 유가는 강세를 유지할 전망. 주요 기관들의 연평균 유가 전망이 상향조정된 가운데 변동성도 대폭 확대 예상. 재고 감소, 산유국의 여유생산능력이 부족한 상황에서 유가 안정을 기대하기 어려울 전망\r\n · 곡물價 : 러-우크라 협상 상황에 따라 큰 폭의 변동성을 이어갈 가능성. 북반구 파종이 본격 시작됨에 따라 농업기상여건의 향방에도 주목. 협상의 진전은 곡물가격에 강한 하방압력으로 작용하나, 각종 제재가 풀리지 않으면 그 효과가 오래 지속되지 않을 전망\r\n · 비철금속價 : 서방의 對러시아 제재로 인한 공급망 차질로 니켈, 알루미늄 등 주요 비철금속 가격의 추가 상승 가능성에 무게. 우크라이나 변수가 가격에 이미 상당 부분 반영되어 있으나, 평화협상이 단기간에 마무리될 가능성은 낮은 상황",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165019",
-          "publishedOn": "2022-04-05T03:12:07.618Z",
-          "wordCount": 500,
-          "title": "[22.4월] 국제원자재시장: 국제원자재가격, 높은 변동성 장세가 이어질 전망",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165020",
-          "author": null,
-          "description": "국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식ㆍ채권 모두 유입 전환’을 발표하였다.\r\n\r\n- 주식 및 채권펀드 모두 유입\r\n\r\n- 신흥국들의 신용위험 감소, 통화가치 상승",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165020",
-          "publishedOn": "2022-04-05T03:12:07.586Z",
-          "wordCount": 500,
-          "title": "[Fund Flow] 글로벌 펀드자금, 주식ㆍ채권 모두 유입 전환",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165018",
-          "author": null,
-          "description": "국제금융센터가 『그럼에도 일본 경제를 주시해야 하는 이유』를 발표하였다.\r\n\r\n- [위상 하락] 1990년대 초반 버블 붕괴 이후 일본의 경제규모과 교역 등이 전세계에서 차지하는 비중이 계속 줄어들면서 일본경제에 대한 관심이 감소\r\n · (경제규모) 일본 명목GDP(`21년 5조달러)는 미국과 중국에 이어 세계 3위이지만 세계경제에서 차지하는 비중은 `94년 17.9%의 정점 기록 후 `21년 5.4%로 감소 \r\n · (교역) 교역에서도 일본의 상품 수출입액은 중국, 미국, 독일에 이어 세계 4위이지만, G20국가를 기준으로 한 비중은 `96년 11%에서 `20년 5.9%로 감소\r\n\r\n- [관심사항] 세계경제에서 차지하는 일본경제의 중요도가 과거에 비해 줄어들었음에도 불구하고 경기순환, 자금흐름 변화 가능성 등을 감안할 때 일본경제 향방을 여전히 주시할 필요\r\n · (경기순환) 명목설비투자 기준 중기순환의 경기확장국면이 `22.3분기부터 시작되며, `22~`25년은 단기, 중기, 장기, 초장기 등 4개 경기순환의 상승국면이 모두 겹칠 것으로 예상\r\n · (해외투자) 일본의 대규모 해외투자자금은 세계경제에 큰 역할을 하고 있는데 국내외 여건 변화시 자금흐름이 바뀌면서 국제금융시장에 영향을 미칠 가능성\r\n · (기업 경쟁력) 세계 경쟁력 평가에서 일본의 순위는 제한적(IMD 31위, WEF 6위)이지만 특히 연구개발분야의 평가가 높아 기업활동으로 연결될 경우 경쟁력 향상 소지\r\n · (자산가격) 버블 붕괴로 크게 하락했던 주가와 부동산가격이 아베노믹스를 계기로 회복되는 모습을 보이고 있어 장기저점을 통과했을 가능성. 닛케이주가는 버블 당시의 역대 최고치와 비교하여 `21.9월에 76% 수준까지 회복. 부동산가격도 외국계 펀드의 매수 재개 움직임 속에 코로나19 직전 20.4% 수준까지 반등 \r\n\r\n- [전망] 향후 일본경제는 정부가 추진하고 있는 ‘새로운 자본주의’를 통해 기업들의 기대성장률을 높일 수 있을지 여부가 매우 중요\r\n · (경제정책) 기시다 총리는 시장원리와 규제완화를 중시하는 신자유주의적 정책이 각종 병폐를 낳았다는 인식 하에 성장과 분배의 선순환을 추구하는 ‘새로운 자본주의’를 내세우며 금년 6월까지 구체적 계획을 마련할 방침 \r\n · (성장 기대) 일본 경제정책의 요체라 할 수 있는 지속적인 임금인상이 일본기업들의 장기적인 성장 기대를 높일 수 있을지가 관건. 일본기업들의 기대성장률을 높이기 위해서는 인구구조 악화로 인한 경제하방압력을 완화 또는 상쇄시킬 것으로 기대할 수 있는 일본정부의 신뢰가능한 성장전략이 필수(GS)",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165018",
-          "publishedOn": "2022-04-05T03:12:07.557Z",
-          "wordCount": 500,
-          "title": "그럼에도 일본 경제를 주시해야 하는 이유",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017",
-          "author": null,
-          "description": "국제금융센터가 『글로벌 마이너스금리 채권 감소 및 영향 평가』를 발표하였다.\r\n\r\n- [이슈] 주요국의 통화긴축 본격화로 글로벌 마이너스금리 채권 규모가 급감(3.30일 현재 $2.6조)하고 있어 현재까지의 경과, 향후 전망 및 경제 영향 등을 점검. 마이너스금리 채권 감소는 발행주체 및 지역에 관계없이 광범위하게 나타나고 있으며 상대적으로 금리가 높은 장기물 및 위험자산에서 시작해 단기물 및 주요국 국채로 확산\r\n\r\n- [전망] 향후에도 글로벌 마이너스금리 채권은 주요국 통화긴축 가속 등으로 감소세를 이어갈 전망. 단, 국가별 통화정책 정상화 속도에 차이가 있고 글로벌 경기 불확실성도     지속됨에 따라 단기간 내 완전 소멸은 어려울 것으로 예상\r\n · (통화긴축) 주요국 통화긴축 가속은 시장금리 상방요인. 특히 마이너스금리정책(NIRP)을 시행 중인 유럽 지역 중앙은행들의 정책금리가 향후 1~2년 내 플러스 전환되며 시장 금리도 0% 상회 예상\r\n · (재정확대) 우크라이나 사태로 경기 하강위험이 심화된 유럽에서 재정지출 확대가 예상 되는 바, 이는 시장금리 추가 상방압력으로 작용할 가능성\r\n · (경기 불확실성 지속) 중국 코로나19 재확산, 러시아-우크라이나 사태 장기화 가능성 등 불확실성으로 안전자산 선호가 재차 심화하거나 통화정책 정상화가 지연될 소지 잠재\r\n\r\n- [영향] 마이너스금리 채권의 감소는 자산가격 조정, 자금흐름 변동성 증가, 한계기업 및 국가 부채취약성 부각 등의 부작용을 야기할 수 있으나 금융시장 기능 정상화, 금융 기관 수익 개선 등의 긍정적 효과를 가져올 것으로 기대\r\n · (부정적 효과) 금리상승으로 위험자산 가격이 조정되거나 해외로 유출되었던 유럽 및 일본 투자자들의 자본이 자국으로 재유입되는 과정에서 시장 변동성이 증가할 소지 \r\n · (긍정적 효과) 시장기능(단기자금시장, 채권시장) 회복, 금융기관(은행, 연기금, 보험회사) 수익성 개선, 은행 중개기능 강화에 따른 대출확대 등이 기대",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017",
-          "publishedOn": "2022-04-05T03:12:07.547Z",
-          "wordCount": 500,
-          "title": "글로벌 마이너스금리 채권 감소 및 영향 평가",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165022",
-          "author": null,
-          "description": "서울연구원이 『뉴노멀 시대 준비하는 서울의 교통정책 방향』을 발표하였다.\r\n\r\n- 본 연구에서는 뉴노멀 시대에 대응, 향후 20~30년 후를 준비하기 위한 서울의 중장기 교통정책 방향을 제언해 보고자 함. 이를 위해 사회여건 변화에 따른 서울의 총통행량과 통행 특성의 변화를 전망해 보고, 이를 토대로 대중교통과 개인교통수단의 정책 방향과 교통인프라의 발전 방향을 도출하여 제시하고자 함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165022",
-          "publishedOn": "2022-04-05T03:12:07.524Z",
-          "wordCount": 500,
-          "title": "뉴노멀 시대 준비하는 서울의 교통정책 방향",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164978",
-          "author": null,
-          "description": "한국은행이 「2023년 대통령예산안」을 발표하였다.\r\n\r\n- 3.28일(월) 백악관 예산관리국(Office of Management and Budget)은 총 5.8조 달러규모의 2023 회계연도(2023.10.1~2024.9.30) 예산안과 향후 10년간의 예산추정치를담은 「대통령예산안(President’s Budget)」을 의회에 제출\r\n\r\n- 2023년 재량예산(사회보장 등 의무프로그램 지출과 비연계된 순재량지출 기준)은1조5,980억달러규모(국방예산 8,130억달러, 비국방예산 7,690억달러)로 2022년 입법예산대비 +5.7% 증액 편성\r\n\r\n- 2023년 재정적자 규모는 1.2조달러(GDP 대비 4.5%)로 2022년(1.4조달러, GDP 대비5.8%) 대비 18.4% 감소, 향후 10년간 재정적자는 기존 전망 대비 1조달러감축 \r\n\r\n- GDP 대비 국가부채비율은 2022년말 102.4%(24.8조달러)에서 2032년말 106.7%(39.5조달러)까지 상승하는 것으로 추정하였는데, 이는 기존 전망(109.6%)보다크게 낮은 수준",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164978",
-          "publishedOn": "2022-04-05T03:12:02.331Z",
-          "wordCount": 500,
-          "title": "2023년 미국 대통령예산안",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1127,30 +1077,80 @@
           "author": null,
           "description": "한국은행이 「중국 3월 제조업 PMI 하락」을 발표하였다.\r\n\r\n- (제조업 PMI) 3월 제조업 PMI는 49.5로 전월(50.2)보다 하락하면서21.10월(49.2) 이후 5개월만에 기준치(50)를 하회. 규모별로는 대기업(2월 51.8 → 3월 51.3)은 전월보다 하락하였으나 여전히 기준치를 상회한 반면, 중기업(51.4 → 48.5) 및 소기업(45.1 → 46.6)은 기준치를 하회. 항목별로 보면 생산(50.4 → 49.5), 신규주문(50.7 → 48.8), 원자재재고(48.1 → 47.3), 고용(49.2 → 48.6), 공급자배송시간(48.2 → 46.5) 등이 모두하락하면서 기준치를 하회\r\n\r\n- (비제조업 PMI) 3월 비제조업 PMI는 48.4로 전월(51.6)보다 크게 하락하면서21.8월(47.5)이후 7개월만에 기준치(50)를 하회\r\n\r\n- (종합 PMI) 3월 종합 PMI는 제조업 및 비제조업 PMI가 모두 부진하면서 48.8로 전월(51.2)보다 하락\r\n\r\n- 3월 제조업 및 비제조업 PMI는 중국정부의 안정성장을 위한 정책지원 확대에도 불구하고 코로나19의 대규모 확산, 러우전쟁에 따른 원자재가격 상승 등으로 전월 및 시장예상보다 크게 부진한 것으로 평가. 중국정부는 경기 회복세 둔화 우려에 대응하여 투자 확대, 소비 회복 등 내수진작에 주력하면서 중소？영세기업 경영난 완화, 고용안정 등을 위한 정책지원을 더욱 강화할 것으로 전망",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165024",
-          "publishedOn": "2022-04-05T03:11:58.900Z",
+          "publishedOn": "2022-04-05T06:01:59.988Z",
           "wordCount": 500,
           "title": "중국 3월 제조업 PMI 하락",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164987",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164977",
           "author": null,
-          "description": "보험연구원이 『국민건강보험과 민영건강보험의 역할과 과제』를 발표하였다.\r\n\r\n- 우리나라는 국민건강보험의 지속적인 보장성 강화 추진과 실손의료보험의 가입 확대를 통해 빠르게 증가하는 국민의 건강보장 수요 확대에 대응해 왔으나, 최근 공공부문의 재정 부담 확대 및 실손의료보험 손해율 악화·보험료 인상의 악순환 지속으로 우리나라 건강보험제도의 지속성이 우려되는 상황임.\r\n\r\n- 현재 우리나라의 공·사 건강보험은 모두 지속성 위기를 겪고 있음에도, 위기의 원인에 대해서는 공·사 간에 공감과 상충의 의견이 공존하였음. 공·사 건강보험이 겪는 위기의 주요 원인이 ‘비급여 관리 방안의 부재’라는 점에서는 의견이 일치하였고, 특히 직면한 위기에 대응하고 중장기적으로 상생하기 위해서는 공·사 건강보험이 국민 건강보장을 책임지는 동반자로서 함께 소통하면서 체계적인 청사진을 마련할 필요가 있음에 이해관계자 모두 공감하였음. 비급여 관리를 위해서 먼저 공·사 간 협력을 위한 법적 기반을 마련하고, 현재 논란이 되는 비급여 중심으로 공동 대응해 나갈 필요가 있다는 의견이 제기되었음.\r\n\r\n- 한편, 실손의료보험의 비정상적 보장구조(급여본인부담금 보장 등)가 실손의료보험의 보험금 증가뿐만 아니라 국민건강보험의 재정건전성을 악화시킨다는 주장에 대해서 공·사 간에 의견이 갈렸음. 공공부문에서는 실손의료보험의 급여본인부담금 보장은 건강보험 보장성이 낮았던 2000년대 사회적 합의를 통해 결정된 것으로 지금 시점에서 보장 필요성에 대한 재검토가 필요하며, 특히 실손의료보험의 비정상적 급여 보장 확대가 국민건강보험 재정에 부정적인 영향을 미치고 있다고 주장하였음. 한편, 민간부문은 현재 우리나라의 개인부담의료비는 주요국에 비해 매우 높은 편으로, 특히 급여본인부담금이 개인부담의료비의 절반 이상(2019년 55%)을 차지하고 있는 점을 감안해 본다면, 건강보험의 보장성을 보완하기 위해 실손의료보험의 급여본인부담금 보장이 필요하다는 의견을 개진하였음.\r\n\r\n- 향후 인구고령화에 따른 의료 수요 증가와 코로나19 장기화에 대응하기 위해서는 국민전체의 후생을 증대하는 방향으로 공·사 건강보험의 역할 확대를 도모할 필요가 있으며, 이를 위해 다양한 이해관계자 간의 지속적인 논의의 장이 마련되길 기대해 봄.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164987",
-          "publishedOn": "2022-04-05T03:11:58.883Z",
+          "description": "한국은행이 「영국 위드코로나 상황 및 경제적 영향」을 발표하였다.\r\n\r\n- 최근 영국 정부는 코로나19와 관련하여 남아있던 법적 규제를 철폐. 오미크론 변이 확산 전후 시행했던 이동제한조치(플랜 B)를 해제(1.27일)하고 확진자의 자가격리 의무를 폐지한 데 이어(2.24일) 최근에는 백신미접종자에 대해서도 입국 전후 코로나19 검사 의무를 폐지(3.18일)\r\n\r\n- 영국의 코로나19 규제 철폐는 백신접종 증가에 따른 위중증 감소가 주요 배경으로 작용. 최근 변종 오미크론(BA.2) 확산 등으로 확진자수 및 입원환자수는 늘어나고 있으나 사망자수는 이전 확산기에 비해 낮은 수준을 유지\r\n\r\n- 영국경제는 지난해말 이동제한조치 재강화(플랜 B) 등으로 GDP 성장률(전월대비)이 감소(21.12월 ？0.2%)하였으나 금년 초 경제활동 재개로 소비가 늘어나면서 다시 회복세를 이어가는 모습\r\n\r\n- 2월 하순 이후 러시아-우크라이나 간 전쟁과 이에 따른 에너지가격 급등에도 불구하고 대부분의 시장 참가자들은 1/4분기중영국경제가 완만한 성장세를 보일 것으로 예상",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164977",
+          "publishedOn": "2022-04-05T06:01:59.975Z",
           "wordCount": 500,
-          "title": "국민건강보험과 민영건강보험의 역할과 과제",
+          "title": "영국 위드코로나 상황 및 경제적 영향",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164984",
           "author": null,
-          "description": "대한상공회의소가 『MZ세대가 바라보는 ESG경영과 기업인식 조사』를 발표하였다.\r\n\r\n- MZ세대 380명 대상 조사... 64.5% ‘더 비싸도 ESG 실천기업 제품 구매’\r\n\r\n- MZ세대의 대표적 소비신념은? 가심비(46.6%)> 미닝아웃(28.7%)> 돈쭐(10.3%) 順\r\n\r\n- 파급효과 큰 친환경제품 : 무라벨 페트병(41.1%), 전기·수소차(36.3%) 등 생활 속 친숙한 제품\r\n\r\n- 기업 역할 ‘일자리 창출’(28.9%) 보다 ‘투명·윤리경영 실천’(51.3%) 많이 꼽아... 공정·정의 중시 인식 반영\r\n\r\n- 향후 ESG경영 확산위해 중요한 것? ‘전반적인 국민인식 향상’(38.4%), ‘법ㆍ제도적 지원(27.9%)’ 등 ESG가 기업경영의 화두를 넘어 사회적 트렌드가 되고 있는 가운데, 새로운 소비주체로 부상한 MZ세대들은 제품 구매 시 기업의 ESG경영 실천여부를 중요하게 인식하는 것으로 조사됐음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025",
-          "publishedOn": "2022-04-05T03:11:58.858Z",
+          "description": "한국수출입은행이 『자동차산업 2021 4분기 동향』을 발표하였다.\r\n\r\n< 목 차 >\r\n\r\nI. 글로벌 자동차 생산량\r\nII. 글로벌 자동차 판매량\r\n     1. 자동차 판매량\r\n     2. 친환경자동차 판매량\r\n     3. 주요시장 동향\r\nIII. 국내 자동차산업 동향\r\n     1. 국내 생산 및 판매 현황\r\n     2. 수출 현황\r\n     3. 국내 완성차업체 동향\r\nIV. 시사점 및 전망",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164984",
+          "publishedOn": "2022-04-05T06:01:59.958Z",
           "wordCount": 500,
-          "title": "MZ세대가 바라보는 ESG경영과 기업인식 조사",
+          "title": "자동차산업 2021 4분기 동향",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165019",
+          "author": null,
+          "description": "국제금융센터가 ‘[22.4월] 국제원자재시장: 국제원자재가격, 높은 변동성 장세가 이어질 전망’을 발표하였다.\r\n\r\n- [국제원자재가격지수] 3월 에너지, 농산물, 비철금속 등 전부문 상승(전월말 대비)\r\n\r\n- [전망] 러시아發 공급 쇼크로 원자재가격은 당분간 현 강세기조를 유지할 전\r\n · 유가 : 우크라이나 사태가 지속되는 한 유가는 강세를 유지할 전망. 주요 기관들의 연평균 유가 전망이 상향조정된 가운데 변동성도 대폭 확대 예상. 재고 감소, 산유국의 여유생산능력이 부족한 상황에서 유가 안정을 기대하기 어려울 전망\r\n · 곡물價 : 러-우크라 협상 상황에 따라 큰 폭의 변동성을 이어갈 가능성. 북반구 파종이 본격 시작됨에 따라 농업기상여건의 향방에도 주목. 협상의 진전은 곡물가격에 강한 하방압력으로 작용하나, 각종 제재가 풀리지 않으면 그 효과가 오래 지속되지 않을 전망\r\n · 비철금속價 : 서방의 對러시아 제재로 인한 공급망 차질로 니켈, 알루미늄 등 주요 비철금속 가격의 추가 상승 가능성에 무게. 우크라이나 변수가 가격에 이미 상당 부분 반영되어 있으나, 평화협상이 단기간에 마무리될 가능성은 낮은 상황",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165019",
+          "publishedOn": "2022-04-05T06:01:59.888Z",
+          "wordCount": 500,
+          "title": "[22.4월] 국제원자재시장: 국제원자재가격, 높은 변동성 장세가 이어질 전망",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165022",
+          "author": null,
+          "description": "서울연구원이 『뉴노멀 시대 준비하는 서울의 교통정책 방향』을 발표하였다.\r\n\r\n- 본 연구에서는 뉴노멀 시대에 대응, 향후 20~30년 후를 준비하기 위한 서울의 중장기 교통정책 방향을 제언해 보고자 함. 이를 위해 사회여건 변화에 따른 서울의 총통행량과 통행 특성의 변화를 전망해 보고, 이를 토대로 대중교통과 개인교통수단의 정책 방향과 교통인프라의 발전 방향을 도출하여 제시하고자 함.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165022",
+          "publishedOn": "2022-04-05T06:01:59.850Z",
+          "wordCount": 500,
+          "title": "뉴노멀 시대 준비하는 서울의 교통정책 방향",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017",
+          "author": null,
+          "description": "국제금융센터가 『글로벌 마이너스금리 채권 감소 및 영향 평가』를 발표하였다.\r\n\r\n- [이슈] 주요국의 통화긴축 본격화로 글로벌 마이너스금리 채권 규모가 급감(3.30일 현재 $2.6조)하고 있어 현재까지의 경과, 향후 전망 및 경제 영향 등을 점검. 마이너스금리 채권 감소는 발행주체 및 지역에 관계없이 광범위하게 나타나고 있으며 상대적으로 금리가 높은 장기물 및 위험자산에서 시작해 단기물 및 주요국 국채로 확산\r\n\r\n- [전망] 향후에도 글로벌 마이너스금리 채권은 주요국 통화긴축 가속 등으로 감소세를 이어갈 전망. 단, 국가별 통화정책 정상화 속도에 차이가 있고 글로벌 경기 불확실성도     지속됨에 따라 단기간 내 완전 소멸은 어려울 것으로 예상\r\n · (통화긴축) 주요국 통화긴축 가속은 시장금리 상방요인. 특히 마이너스금리정책(NIRP)을 시행 중인 유럽 지역 중앙은행들의 정책금리가 향후 1~2년 내 플러스 전환되며 시장 금리도 0% 상회 예상\r\n · (재정확대) 우크라이나 사태로 경기 하강위험이 심화된 유럽에서 재정지출 확대가 예상 되는 바, 이는 시장금리 추가 상방압력으로 작용할 가능성\r\n · (경기 불확실성 지속) 중국 코로나19 재확산, 러시아-우크라이나 사태 장기화 가능성 등 불확실성으로 안전자산 선호가 재차 심화하거나 통화정책 정상화가 지연될 소지 잠재\r\n\r\n- [영향] 마이너스금리 채권의 감소는 자산가격 조정, 자금흐름 변동성 증가, 한계기업 및 국가 부채취약성 부각 등의 부작용을 야기할 수 있으나 금융시장 기능 정상화, 금융 기관 수익 개선 등의 긍정적 효과를 가져올 것으로 기대\r\n · (부정적 효과) 금리상승으로 위험자산 가격이 조정되거나 해외로 유출되었던 유럽 및 일본 투자자들의 자본이 자국으로 재유입되는 과정에서 시장 변동성이 증가할 소지 \r\n · (긍정적 효과) 시장기능(단기자금시장, 채권시장) 회복, 금융기관(은행, 연기금, 보험회사) 수익성 개선, 은행 중개기능 강화에 따른 대출확대 등이 기대",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017",
+          "publishedOn": "2022-04-05T06:01:59.097Z",
+          "wordCount": 500,
+          "title": "글로벌 마이너스금리 채권 감소 및 영향 평가",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165023",
+          "author": null,
+          "description": "국회미래연구원이 「디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점」을 발표하였다.\r\n\r\n- 보고서는 연산일반균형(CGE) 모형기반 시뮬레이션 체계를 활용하여, 미래 디지털전환 시대 환경변화에 따른 파급효과를 사전적으로 전망하였음. 디지털전환 시대 환경변화 시나리오를 다양하게 탐색하고, 시나리오별 파급효과를 경제성장, 노동시장, 산업활동 및 가계소득 분포 등 다양한 측면으로 분석했음. 이를 통해, 우리나라 경제사회의 디지털전환 수용 과정에서 마주하게 될 가능성과 주요 도전과제를 식별하고, 디지털전환 패러다임으로의 전환을 용이하게 하기 위한 정책설계 및 수립의 과학화에 기여하고자 시도하였음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165023",
+          "publishedOn": "2022-04-05T06:01:59.079Z",
+          "wordCount": 500,
+          "title": "디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165015",
+          "author": null,
+          "description": "한국은행이 「최근의 유로지역 소비자물가 동향 및 전망」을 발표하였다.\r\n\r\n- 유로지역 소비자물가(HICP기준)는 2021년 이후 오름세 확대가 지속되고있으며 지난해 11월부터는 통계 편제(1997년) 이래 최고 수준을 매월 경신\r\n\r\n- 특히 금년 3월중 소비자물가 상승률은 7.5%(잠정)를 기록하여 이전 최고치였던 전월(5.9%)에 비해서도 오름폭이 크게 확대\r\n\r\n- 유로지역 소비자물가의 높은 오름세는 당분간 지속될 것으로 예상. 에너지가격 상승의 주된 요인인 우크라이나 사태 관련 불확실성이 단기적으로 해소되기 어려운 데다 팬데믹과 연계된 공급병목 현상도 개선이 지연. 다만 우크라이나 사태관련 리스크요인이 악화(예:러시아의 에너지 공급 중단)되지 않을 경우 소비자물가 오름세가 추가 확대될 가능성은 높지 않은 것으로 평가",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165015",
+          "publishedOn": "2022-04-05T06:01:51.885Z",
+          "wordCount": null,
+          "title": "최근의 유로지역 소비자물가 동향 및 전망",
+          "imageUrl": null
         }
       ]
     }
