@@ -541,7 +541,7 @@
           "description": "The scale of destruction in Ukraine is already staggering. A new CEPR publication builds on prior experiences with reconstruction following both wars and natural disasters to outline some principles for the future reconstruction of Ukraine. Efforts should include putting the country on the path to EU accession; establishing a stand-alone EU-authorised agency with autonomy to coordinate and manage aid and reconstruction programmes; recognising that Ukraine must own its reconstruction; encouraging inflows of foreign capital and technology transfers; a focus on grants rather than loans; and rebuilding around the principle of a zero-carbon future.",
           "link": "https://voxeu.org/article/blueprint-reconstruction-ukraine",
           "publishedOn": "2022-04-07T00:00:00.000Z",
-          "wordCount": 2006,
+          "wordCount": null,
           "title": "A blueprint for the reconstruction of Ukraine",
           "imageUrl": null
         },
@@ -551,7 +551,7 @@
           "description": "Following the Russian invasion of Ukraine on 24 February 2022, financial stress indicators suddenly increased. Using this high-frequency daily information conveyed by financial markets, this column presents a newly developed mixed-frequency quantile regression model in order to quantify macro risks in the euro area for the first quarter of 2022. The authors show that macro downside risks perceived by financial markets in the euro area are about three times higher than those for the US economy.",
           "link": "https://voxeu.org/article/war-ukraine-and-high-frequency-macroeconomic-risk-measures",
           "publishedOn": "2022-04-07T00:00:00.000Z",
-          "wordCount": 1806,
+          "wordCount": null,
           "title": "War in Ukraine and high-frequency macroeconomic risk measures",
           "imageUrl": null
         },
@@ -561,7 +561,7 @@
           "description": "The strength of the labour market recovery from Covid-19, and the extent of the economic scarring, depend on both job creation and whether job seekers look for jobs in the growing sectors of the economy. This column uses a novel dataset to provide direct evidence on the types of jobs sought by workers during the pandemic. It shows that workers increasingly targeted jobs in expanding occupations and industries. Nevertheless, a significant proportion of workers targeted jobs in declining occupations and industries. These workers tend to be the most disadvantaged: the non-employed and those with the lowest education qualifications.",
           "link": "https://voxeu.org/article/job-search-and-mismatch-during-covid-19-pandemic",
           "publishedOn": "2022-04-07T00:00:00.000Z",
-          "wordCount": 2179,
+          "wordCount": null,
           "title": "Job search and mismatch during the Covid-19 pandemic",
           "imageUrl": null
         },
@@ -571,7 +571,7 @@
           "description": "Since Russia’s full-scale offensive began in late February 2022, many civilians have died and Ukraine has suffered massive destruction of its infrastructure. This column attempts to put a figure to the economic damage suffered by Ukraine by comparing its growth path to that of similar Eastern European countries. It estimates that the combined effect of Russia’s 2014 invasion and the current war will cause damage in the region of $1.36 trillion to the Ukrainian economy. And unless there is a large spur in Ukraine’s growth potential, these losses will continue to grow for several year.",
           "link": "https://voxeu.org/article/trillion-dollar-question-how-much-does-russia-owe-ukraine",
           "publishedOn": "2022-04-06T00:00:00.000Z",
-          "wordCount": 2179,
+          "wordCount": null,
           "title": "A trillion-dollar question: What Russia owes Ukraine",
           "imageUrl": null
         },
@@ -581,7 +581,7 @@
           "description": "Supply disruptions caused by systemic shocks such as Brexit, Covid, and Russia-Ukraine tensions have catapulted the issue of risk in global supply chains to the top of policy agendas. In some sectors, however, there is a wedge between private and social risk appetite, or increased risks due to lack of supply chain visibility. This column discusses the types of risks to and from supply chains, and how supply chains have recovered from past shocks. It then proposes a risk-reward framework for thinking about when policy interventions are necessary.",
           "link": "https://voxeu.org/article/global-supply-chain-risk-and-resilience",
           "publishedOn": "2022-04-06T00:00:00.000Z",
-          "wordCount": 2530,
+          "wordCount": null,
           "title": "Global supply chain risk and resilience",
           "imageUrl": null
         },
@@ -601,7 +601,7 @@
           "description": "The freezing of Russian foreign exchange reserves will have long-term and systemic consequences. This column argues, however, that the dominant role of the dollar as a reserve currency will be unaffected. No other country can provide the world with a large, liquid government bond market and a fully open capital account. Sanctions may have significant long-term effects on the demand for reserves. Countries may reduce their dependence on reserves by limiting their exposure to financial shocks and partially restricting capital movements. The international monetary system may evolve towards to a new architecture, where cross-border financial integration is reduced.",
           "link": "https://voxeu.org/article/sanctions-and-international-monetary-system",
           "publishedOn": "2022-04-05T00:00:00.000Z",
-          "wordCount": 2591,
+          "wordCount": null,
           "title": "Sanctions and the international monetary system",
           "imageUrl": null
         },
@@ -621,7 +621,7 @@
           "description": "Digital technologies have played a crucial role in helping firms weather the worst of the COVID shock. This column uses a dataset containing information on 150 million active websites around the world to measure the impact of COVID-19 on technology adoption. The authors find that the timing of lockdowns strongly predicts increased use of e-commerce and online payment technologies. The shock appears to have resulted more in a trend shift than a shift in levels, suggesting that COVID-19 may have transformed the trajectory of online market growth.",
           "link": "https://voxeu.org/article/website-technologies-pandemic",
           "publishedOn": "2022-04-05T00:00:00.000Z",
-          "wordCount": 2161,
+          "wordCount": null,
           "title": "Website technologies in the pandemic",
           "imageUrl": null
         }
@@ -757,23 +757,13 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/internationalList.do",
       "articles": [
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165065",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165091",
           "author": null,
-          "description": "This paper analyzes the initial impact and recovery of globally engaged firms from the COVID-19 crisis. It uses rich survey data of nearly 65,000 firm-year observations in 45 countries spanning three waves of data collection. The findings are organized in a series of stylized facts, which suggest that although the pandemic had an immediate adverse impact on most firms, the globally engaged ones are recovering faster, possibly due to their higher capabilities. Among globally engaged firms, those directly involved with international markets show better recovery than the ones that were indirectly involved. These results mask wide variation by firm traits, sectoral attributes, and country characteristics. At the core of the recovery of globally engaged firms is their heightened response to the crisis by finding novel ways to adapt supply chains even in the presence of lockdowns and uncertainty. These firms swiftly digitalized, introduced new products and changed their markets and sources of inputs. Over and above their capabilities, global engagement cushions firms against shocks. Policymakers could therefore facilitate global linkages by providing information on potential markets and products, by making production flexible in terms of facilitating remote work, reducing the rigidity of contracts; and incentivizing financial institutions to issue instruments that reduce uncertainty risk.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165065",
-          "publishedOn": "2022-04-07T18:01:24.285Z",
+          "description": "Course choice policies weave together a variety of existing and widely supported policies under a single funding umbrella that allows funds to flow easily to whichever part-time course offerings parents prefer. Course choice is infinitely customizable and can be tailored to suit the needs and priorities of blue states and red states alike. States may have a unique opportunity to build a course choice program that can help overcome pandemic-related learning loss, better meet each child’s unique learning needs, and expand the coalition for educational choice, all at an extremely opportune time.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165091",
+          "publishedOn": "2022-04-07T21:01:24.567Z",
           "wordCount": 732,
-          "title": "Globally Engaged Firms in the COVID-19 Crisis",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165085",
-          "author": null,
-          "description": "How does income from international migrant labor affect the long-run development of migrant-origin areas? We leverage the 1997 Asian Financial Crisis to identify exogenous changes in international migrant income across regions of the Philippines, derived from spatial variation in exposure to exchange rate shocks. The initial shock to migrant income is magnified in the long run, leading to substantial increases in income in the domestic economy in migrant-origin areas; increases in population education; better-educated migrants; and increased migration in high-skilled jobs. Four-fifths of long-run income gains are actually from domestic (rather than international migrant) income. A simple structural model yields insights on mechanisms and magnitudes, in particular that one-fifth of long-run income gains are due to increased educational investments in origin areas. Increased income from international labor migration not only benefits migrants themselves, but also fosters long-run economic development in migrant-origin areas.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165085",
-          "publishedOn": "2022-04-07T18:01:24.244Z",
-          "wordCount": 732,
-          "title": "Abundance from Abroad: Migrant Income and Long-Run Economic Development",
+          "title": "Course choice: The ideal post-pandemic policy solution",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -781,7 +771,7 @@
           "author": null,
           "description": "Major geopolitical events have global repercussions, but their economic impact differs vastly across space. Analyzing stock market reactions to the war in Ukraine, we detect a large ＂proximity penalty.＂ Neighboring countries, on average, incurred an abnormal decline in equity indices of 23.1% within the four weeks around the onset of the war. Raising a country‘s distance from Ukraine by 1,000 kilometers reduces this effect by 2.6 percentage points. Even controlling for trade-related spillovers, 1,000 kilometers of extra distance still equate to 1.0 percentage points in equity returns. Military spillover risk is a plausible driver of the proximity penalty.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165100",
-          "publishedOn": "2022-04-07T18:01:24.170Z",
+          "publishedOn": "2022-04-07T21:01:24.248Z",
           "wordCount": 732,
           "title": "Proximity to War: The stock market response to the Russian invasion of Ukraine",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -791,109 +781,9 @@
           "author": null,
           "description": "We conducted a paired correspondence experiment in Buenos Aires, Argentina, to measure the extent of labor market discrimination in hiring against slum dwellers. We sent 4,290 online pairs of fictitious job applications of otherwise observationally equivalent individuals who differed in a single attribute: place of residence, either a slum or not. We found that job applicants living in slums received nearly 28 percent fewer callbacks than other applicants. We observe discrimination across jobs that require a university degree, with discrimination being concentrated in administrative and software-related occupations. We observed discrimination against both men and women living in slums. Discrimination also varied by occupation. Discrimination against slum dwellers is an invisible barrier that affects their employment probability, ultimately reducing their likelihood of graduating from poverty.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165099",
-          "publishedOn": "2022-04-07T18:01:24.047Z",
+          "publishedOn": "2022-04-07T21:01:24.227Z",
           "wordCount": 732,
           "title": "Job Market Discrimination against Slum Dwellers in Urban Argentina",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165092",
-          "author": null,
-          "description": "Can citizen-led protests lead to meaningful economic redistribution and nudge governments to increase redistributive efforts of fiscal resources? We study the effects of protests on fiscal redistribution using evidence from Nigeria. We digitized 26 years of public finance data from 1988 to 2016 to examine the effects of protests on intergovernmental transfers. We find that protests increase transfers to protesting regions, but only in areas that are politically aligned with disbursing governments. Protesters also face increased police violence. Non-protest conflicts do not affect transfers and protests do not affect non-transfer revenue. The results show that protests can influence fiscal redistribution.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165092",
-          "publishedOn": "2022-04-07T18:01:23.920Z",
-          "wordCount": 732,
-          "title": "Protest matters: The effects of protests on economic redistribution",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165097",
-          "author": null,
-          "description": "The COVID-19 pandemic caused widespread disruption to the education sector, and many in the United States took to social media as an outlet for their joys, frustrations, and fears as they relate to schooling. As the pandemic has continued―now into its third year―Americans have voiced their opinions about remote learning and what should be taught in school. At the same time, the pandemic ushered in a new wave of polarization in the U.S., which was evident around things such as whether face masks belong in the classroom and when schools should transition back to in-person learning―with strong held opinions on both sides of the debate. \r\nLauren Ziegler",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165097",
-          "publishedOn": "2022-04-07T18:01:23.809Z",
-          "wordCount": 732,
-          "title": "School supplies, critical race theory, and virtual prom: A social listening analysis on US education",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165091",
-          "author": null,
-          "description": "Course choice policies weave together a variety of existing and widely supported policies under a single funding umbrella that allows funds to flow easily to whichever part-time course offerings parents prefer. Course choice is infinitely customizable and can be tailored to suit the needs and priorities of blue states and red states alike. States may have a unique opportunity to build a course choice program that can help overcome pandemic-related learning loss, better meet each child’s unique learning needs, and expand the coalition for educational choice, all at an extremely opportune time.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165091",
-          "publishedOn": "2022-04-07T18:01:23.689Z",
-          "wordCount": 732,
-          "title": "Course choice: The ideal post-pandemic policy solution",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165066",
-          "author": null,
-          "description": "The purpose of the study ‘After the new normal : scenarios for Europe in the post Covid-19‘ world was to chart the scope of change that the Covid-19 pandemic may bring to the context of the EU itself and EU R&I policy. Five scenarios were designed in a process including the Horizon Europe Network - with horizon scanning, online workshops and scenario writing. The five context scenarios are: The long recession, Back to ‘normal’? Big Tech shapes Europe, The Circular Economy and Green Utopia - new hope. They include the numerous disruptions to our daily lives from the Covid-19 lock-downs to 2040 and describe the extent, to which the pandemic might raise new requirements for the EU’s future policy frameworks, initiatives and programmes, for example in terms of impact, time horizon of projects or investments.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165066",
-          "publishedOn": "2022-04-07T18:01:23.679Z",
-          "wordCount": 732,
-          "title": "After the new normal: Scenarios for Europe in the post Covid-19 world",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165086",
-          "author": null,
-          "description": "We study the corporate-loan pricing decisions of a major Greek bank during the Greek financial crisis. A unique aspect of our dataset is that we observe both the interest rate and the “breakeven rate” of each loan, as computed by the bank’s own loan-pricing department (in effect, the loan’s marginal cost). We document that low-breakeven-rate (safer) borrowers are charged significant markups, whereas high-breakeven-rate (riskier) borrowers are charged small and sometimes even negative markups. We rationalize this de-facto cross-subsidization of riskier borrowers by safer borrowers through the lens of a dynamic model featuring depressed collateral values, impaired capital-market access, and limit pricing.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165086",
-          "publishedOn": "2022-04-07T18:01:23.671Z",
-          "wordCount": 732,
-          "title": "Cross-subsidization of Bad Credit in a Lending Crisis",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165096",
-          "author": null,
-          "description": "This report outlines economic prospects in developing Asia amid global turbulence and lingering pandemic risks. It discusses the implications of school closures and the invasion of Ukraine, and explores mobilizing taxes for development. Developing Asia’s outlook remains positive, with growth of 5.2% expected in 2022 and 5.3% in 2023. Downside risks include spillover from geopolitical tensions, such as via higher-than-expected commodity prices. The Russian invasion of Ukraine has upended the global economic outlook and greatly amplified uncertainty for a world economy still contending with COVID-19. Aggressive monetary policy tightening in the United States could lead to financial instability. In the medium term, scarring from the pandemic poses significant risks, including learning losses from continued school closures that could worsen economic inequality. The region’s economies urgently need to mobilize fiscal resources to restore the health of public finances and build a more inclusive and sustainable future. Opportunities to strengthen revenue will depend on specific circumstances, but more efficient value-added tax and better-optimized tax incentives hold promise for many economies. Strengthening personal income and property taxes can raise additional revenue and make tax systems more progressive. Significant opportunities exist to expand the use of tax and other fiscal instruments to tackle environmental and health priorities while raising revenue.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165096",
-          "publishedOn": "2022-04-07T18:01:23.661Z",
-          "wordCount": 732,
-          "title": "Asian Development Outlook (ADO) 2022: Mobilizing Taxes for Development",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165101",
-          "author": null,
-          "description": "This essay sheds new light on the importance of credit creation infrastructure in determining who actually receives government support during periods of distress, and who continues to benefit after the acute phase of a crisis and the government’s formal support programs come to an end. The pandemic revealed, and the government’s response accentuated, meaningful asymmetries in the capacities of small and large businesses to access needed funding. At first glance, it would seem that small businesses benefited more than large ones from the government’s pandemic-support programs, as more government funds flowed into small businesses. Yet closer inspection of the range of government programs implemented and their longer term impact reveals a very different picture. By primarily providing grants to small businesses, the government helped address their short-term cash flow challenges but did little to encourage ongoing private credit creation for these businesses. The aid provided was real, but finite in nature. By contrast, the nature of the programs used to facilitate financing for the largest businesses provided major support at the moment and created expectations of future support. These interventions enhanced the viability and attractiveness of inherently fragile intermediation structures and set them up to continue to provide cheap and easy financing for the largest businesses long after the acute phase of the crisis had passed. This essay further reveals how numerous seemingly neutral choices were anything but in practice, creating a disconnect between policy makers stated aims and the actual impact of many of their actions. A key takeaway is that the government should do more during times of peace to understand and shape the credit creation infrastructure in ways that facilitate small-business lending in good times and bad.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165101",
-          "publishedOn": "2022-04-07T18:01:23.639Z",
-          "wordCount": 732,
-          "title": "Credit, crises, and infrastructure: The differing fates of large and small businesses",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165088",
-          "author": null,
-          "description": "After the end of World War II in 1945, millions of refugees arrived in what in 1949 became the Federal Republic of Germany. We examine their effect on today‘s productivity, wages, income, rents, education, and population density at the municipality level. Our identification strategy is based on a spatial discontinuity in refugee settlement at the border between the French and US occupation zones in the South-West of post-war Germany. These occupation zones were established in 1945 and dissolved in 1949. The spatial discontinuity arose because the US zone admitted refugees during the 1945-1949 occupation period whereas the French zone restricted access. By 1950, refugee settlement had raised population density on the former US side of the 1945-1949 border significantly above density on the former French side. Before the war, there never had been significant differences in population density. The higher density on the former US side persists entirely in 2020 and coincides with higher rents as well as higher productivity, wages, and education levels. We examine whether today‘s economic differences across the former border are the result of the difference in refugee admission; the legacy of other policy differences between the 1945-1949 occupation zones; or the consequence of socio-economic differences predating WWII. Taken together, our results indicate that today‘s economic differences are the result of agglomeration effects triggered by the arrival of refugees in the former US zone. We estimate that exposure to the arrival of refugees raised income per capita by around 13% and hourly wages by around 10%.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165088",
-          "publishedOn": "2022-04-07T18:01:23.630Z",
-          "wordCount": 732,
-          "title": "The Long-Run Effects of Immigration: Evidence Across a Barrier to Refugee Settlement",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165090",
-          "author": null,
-          "description": "What are the effects of bottom-up attention to the price paid by other consumers on consumer demand and firms‘ pricing decisions? We study the effects of a regulation that required Israeli retailers to display on-the-shelf signs indicating the (cheap) international price of a product alongside the price of that product in the local store. We find that prices of products included in the regulation fell on average by 8 percent. The price drop is larger for products that were more expensive compared to their international price. Following the price drop, quantities sold increased. Yet, these increases were significantly smaller than increases in quantities that we predict based on pre-regulation demand elasticities and the actual price drops. Products with  larger differences between the predicted and the actual quantities sold are products that remain relatively expensive vis-\\‘a-vis their international price. We develop a theoretical model that explains these findings, and estimate it to quantify the importance of salient unfair prices. We find that a 20 percentage-point salient difference between local and international prices is equivalent to a 1 percent increase in the price of the local product itself. Next, we use the model and the estimated parameters to calculate the impact on consumer utility. We find that for some products included in the regulation, utility declined. This happens when the disutility from observing that other consumers pay less exceeds the added utility from reduced  prices and increased consumption. We discuss potential implications of our findings for optimal pricing strategies, price rigidity, and theoretical models of salient thinking.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165090",
-          "publishedOn": "2022-04-07T18:01:23.602Z",
-          "wordCount": 732,
-          "title": "Price Saliency and Fairness: Evidence from Regulatory Shaming",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165093",
-          "author": null,
-          "description": "Africa, enabled by rapid technological change and demographic shifts, is primed for a major socioeconomic and structural revolution. This report analyzes the major trends driving this change, along with the opportunities and challenges stemming from it. Africa has the fastest-growing population in the world. In fact, one in four global citizens will be African by 2050. This growing population is projected to become increasingly concentrated in urban areas as Africa continues to experience a rise in the influence of and opportunities in its major cities. This young, growing workforce will be complemented by a rapidly expanding middle class with trillions of dollars in buying power in the coming decades. This report argues that, if harnessed successfully, these trends represent a significant opportunity for African countries and the U.S. to shape a transformation on the continent that ensures prosperity and equitable growth for all.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165093",
-          "publishedOn": "2022-04-07T18:01:23.593Z",
-          "wordCount": 732,
-          "title": "Effective engagement with Africa: Capitalizing on shifts in business, technology, and global partnerships",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -901,29 +791,59 @@
           "author": null,
           "description": "Researchers and policy makers face significant challenges in selecting a method to conduct remote surveys, especially when collecting sensitive information or during turbulent life stages of hard-to-reach groups. In the context of the COVID-19 lockdown, this study randomly selected about 600 adults in El Salvador to survey using two different tools: telephone interviews or a self-completion survey via WhatsApp. The findings show that phone-based surveys increase the rate of survey completion by 42 percentage points. Even larger effects are documented for women and older adults. Although the direct costs of phone-based surveys are substantially higher―doubling implementation cost―the estimates imply that when adjusted for the probability of completion, the costs of conducting phone-based surveys can be 25 percent lower.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165094",
-          "publishedOn": "2022-04-07T18:01:23.584Z",
+          "publishedOn": "2022-04-07T21:01:24.103Z",
           "wordCount": 732,
           "title": "Talk or Text Evaluating Response Rates by Remote Survey Method during COVID-19",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165102",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165065",
           "author": null,
-          "description": "Wealth in addition to income determines to a large degree an individual’s consumption opportunities and economic situation, which should in turn affect their subjective well-being. We analyse empirically the relationship between life satisfaction as an indicator of subjective well being and households’ wealth. We contribute to the scarce literature on wealth and well-being using micro-data from the German wealth survey, Panel on Household Finances ？ PHF, for 2010 and 2014. Using panel regression models, we find that (i) individuals’ life satisfaction is statistically significant and positively associated with their households’ wealth holdings, (ii) different components of wealth, such as real and financial assets, as well as debt, have differential effects on life satisfaction, (iii) both wealth levels and wealth holdings relative to other households matter for life satisfaction. Our study shows that it is important to consider wealth, in addition to income, when analysing individuals’ life satisfaction.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165102",
-          "publishedOn": "2022-04-07T18:01:23.574Z",
+          "description": "This paper analyzes the initial impact and recovery of globally engaged firms from the COVID-19 crisis. It uses rich survey data of nearly 65,000 firm-year observations in 45 countries spanning three waves of data collection. The findings are organized in a series of stylized facts, which suggest that although the pandemic had an immediate adverse impact on most firms, the globally engaged ones are recovering faster, possibly due to their higher capabilities. Among globally engaged firms, those directly involved with international markets show better recovery than the ones that were indirectly involved. These results mask wide variation by firm traits, sectoral attributes, and country characteristics. At the core of the recovery of globally engaged firms is their heightened response to the crisis by finding novel ways to adapt supply chains even in the presence of lockdowns and uncertainty. These firms swiftly digitalized, introduced new products and changed their markets and sources of inputs. Over and above their capabilities, global engagement cushions firms against shocks. Policymakers could therefore facilitate global linkages by providing information on potential markets and products, by making production flexible in terms of facilitating remote work, reducing the rigidity of contracts; and incentivizing financial institutions to issue instruments that reduce uncertainty risk.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165065",
+          "publishedOn": "2022-04-07T21:01:23.867Z",
           "wordCount": 732,
-          "title": "Wealth and subjective well-being in Germany",
+          "title": "Globally Engaged Firms in the COVID-19 Crisis",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165095",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165097",
           "author": null,
-          "description": "To date, the impact of foreign direct investment on market power and consumer welfare in developing countries has been relatively understudied. Utilizing a firm survey dataset from Vietnam, this paper first calculates firm-level markups for manufacturing firms and then analyzes the impact of foreign direct investment and foreign ownership on firm markups. Overall, the findings show that increases in the presence of foreign firms in a given industry are associated with decreases in markups in that industry, despite foreign firms individually charging higher markups on average than their domestic competitors. The findings further show that while the markups of both foreign- and domestic-owned private firms tend to decrease with greater foreign direct investment, state-owned enterprises may be relatively insulated from foreign direct investment driven competitive pressures. These results are robust to the inclusion or exclusion of potential outliers and the potential non-random selection of firms acquired by foreign investors.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165095",
-          "publishedOn": "2022-04-07T18:01:23.556Z",
+          "description": "The COVID-19 pandemic caused widespread disruption to the education sector, and many in the United States took to social media as an outlet for their joys, frustrations, and fears as they relate to schooling. As the pandemic has continued―now into its third year―Americans have voiced their opinions about remote learning and what should be taught in school. At the same time, the pandemic ushered in a new wave of polarization in the U.S., which was evident around things such as whether face masks belong in the classroom and when schools should transition back to in-person learning―with strong held opinions on both sides of the debate. \r\nLauren Ziegler",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165097",
+          "publishedOn": "2022-04-07T21:01:23.710Z",
           "wordCount": 732,
-          "title": "FDI, Market Power, and Markups : Evidence from Vietnam",
+          "title": "School supplies, critical race theory, and virtual prom: A social listening analysis on US education",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165062",
+          "author": null,
+          "description": "This paper investigates the effects of monetary policy shocks on income and wealth inequalities in the Republic of Korea. Using the detailed Household Income and Expenditure Survey and Korean Labor and Income Panel Study data, we construct measures of income and wealth inequality for the Korean economy. Empirical results show that both domestic and external monetary policy shocks exert significant countercyclical effects on income inequality. For wealth inequality, however, the effects are very different. Whereas domestic monetary policy shocks are insignificant, external policy shocks proxied by fluctuations in net capital flows seem to have significant effects on net wealth inequality.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165062",
+          "publishedOn": "2022-04-07T21:01:23.616Z",
+          "wordCount": 732,
+          "title": "Domestic and External Monetary Policy Shocks and Economic Inequality in the Republic of Korea",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165088",
+          "author": null,
+          "description": "After the end of World War II in 1945, millions of refugees arrived in what in 1949 became the Federal Republic of Germany. We examine their effect on today‘s productivity, wages, income, rents, education, and population density at the municipality level. Our identification strategy is based on a spatial discontinuity in refugee settlement at the border between the French and US occupation zones in the South-West of post-war Germany. These occupation zones were established in 1945 and dissolved in 1949. The spatial discontinuity arose because the US zone admitted refugees during the 1945-1949 occupation period whereas the French zone restricted access. By 1950, refugee settlement had raised population density on the former US side of the 1945-1949 border significantly above density on the former French side. Before the war, there never had been significant differences in population density. The higher density on the former US side persists entirely in 2020 and coincides with higher rents as well as higher productivity, wages, and education levels. We examine whether today‘s economic differences across the former border are the result of the difference in refugee admission; the legacy of other policy differences between the 1945-1949 occupation zones; or the consequence of socio-economic differences predating WWII. Taken together, our results indicate that today‘s economic differences are the result of agglomeration effects triggered by the arrival of refugees in the former US zone. We estimate that exposure to the arrival of refugees raised income per capita by around 13% and hourly wages by around 10%.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165088",
+          "publishedOn": "2022-04-07T21:01:23.607Z",
+          "wordCount": 732,
+          "title": "The Long-Run Effects of Immigration: Evidence Across a Barrier to Refugee Settlement",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165093",
+          "author": null,
+          "description": "Africa, enabled by rapid technological change and demographic shifts, is primed for a major socioeconomic and structural revolution. This report analyzes the major trends driving this change, along with the opportunities and challenges stemming from it. Africa has the fastest-growing population in the world. In fact, one in four global citizens will be African by 2050. This growing population is projected to become increasingly concentrated in urban areas as Africa continues to experience a rise in the influence of and opportunities in its major cities. This young, growing workforce will be complemented by a rapidly expanding middle class with trillions of dollars in buying power in the coming decades. This report argues that, if harnessed successfully, these trends represent a significant opportunity for African countries and the U.S. to shape a transformation on the continent that ensures prosperity and equitable growth for all.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165093",
+          "publishedOn": "2022-04-07T21:01:23.599Z",
+          "wordCount": 732,
+          "title": "Effective engagement with Africa: Capitalizing on shifts in business, technology, and global partnerships",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -931,7 +851,7 @@
           "author": null,
           "description": "International trade and foreign investment have been key engines of growth and development in Asia and the Pacific, and the role of trade in contributing to sustainable development is well recognized in the 2030 Agenda. However, the multilateral trading system has faced significant challenges over the years and during the COVID-19 pandemic, and progress has been slow in reforming and updating it to meet present and future demands. Meanwhile, regional cooperation, such as in trade and investment agreements, have increasingly stepped up to address sustainable development issues of concern to countries, including in the social and environmental domains. \r\nThis paper examines such regional cooperation and integration in Asia-Pacific and how it can support the shaping or building up of a sustainable development-oriented multilateral trading system. It recognizes the importance of regional initiatives as building blocks of a revitalized and more networked multilateral trading system, and discusses policy considerations in a number of priority areas for furthering inclusivity and sustainability in regional trade and investment integration.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165098",
-          "publishedOn": "2022-04-07T18:01:23.529Z",
+          "publishedOn": "2022-04-07T21:01:23.586Z",
           "wordCount": 732,
           "title": "Regional cooperation and integration in support of a sustainable development-oriented multilateral trading system",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -941,19 +861,99 @@
           "author": null,
           "description": "Well-being is increasingly viewed as a multidimensional phenomenon, of which income is only one facet. In this paper I focus on another one, health, and look at its synthetic measure, life expectancy at birth, and its relationship with per capita income. International trends of life expectancy and per capita GDP differed during the past 150 years. Life expectancy gains depended on economic growth but also on the advancement in medical knowledge. The pace and breadth of the health transitions drove life expectancy aggregate tendencies and distribution. The new results confirm the relationship between life expectancy and per capita income and its outward shift over time as put forward by Samuel Preston. However, the association between non-linearly transformed life expectancy and the log of per capita income does not flatten out over time, but becomes convex suggesting more than proportional increases in life expectancy at higher per capita income levels.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165089",
-          "publishedOn": "2022-04-07T18:01:23.511Z",
+          "publishedOn": "2022-04-07T21:01:23.565Z",
           "wordCount": 732,
           "title": "Health, Income, and the Preston Curve: A Long View",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165062",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165102",
           "author": null,
-          "description": "This paper investigates the effects of monetary policy shocks on income and wealth inequalities in the Republic of Korea. Using the detailed Household Income and Expenditure Survey and Korean Labor and Income Panel Study data, we construct measures of income and wealth inequality for the Korean economy. Empirical results show that both domestic and external monetary policy shocks exert significant countercyclical effects on income inequality. For wealth inequality, however, the effects are very different. Whereas domestic monetary policy shocks are insignificant, external policy shocks proxied by fluctuations in net capital flows seem to have significant effects on net wealth inequality.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165062",
-          "publishedOn": "2022-04-07T18:01:19.621Z",
+          "description": "Wealth in addition to income determines to a large degree an individual’s consumption opportunities and economic situation, which should in turn affect their subjective well-being. We analyse empirically the relationship between life satisfaction as an indicator of subjective well being and households’ wealth. We contribute to the scarce literature on wealth and well-being using micro-data from the German wealth survey, Panel on Household Finances ？ PHF, for 2010 and 2014. Using panel regression models, we find that (i) individuals’ life satisfaction is statistically significant and positively associated with their households’ wealth holdings, (ii) different components of wealth, such as real and financial assets, as well as debt, have differential effects on life satisfaction, (iii) both wealth levels and wealth holdings relative to other households matter for life satisfaction. Our study shows that it is important to consider wealth, in addition to income, when analysing individuals’ life satisfaction.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165102",
+          "publishedOn": "2022-04-07T21:01:23.547Z",
           "wordCount": 732,
-          "title": "Domestic and External Monetary Policy Shocks and Economic Inequality in the Republic of Korea",
+          "title": "Wealth and subjective well-being in Germany",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165095",
+          "author": null,
+          "description": "To date, the impact of foreign direct investment on market power and consumer welfare in developing countries has been relatively understudied. Utilizing a firm survey dataset from Vietnam, this paper first calculates firm-level markups for manufacturing firms and then analyzes the impact of foreign direct investment and foreign ownership on firm markups. Overall, the findings show that increases in the presence of foreign firms in a given industry are associated with decreases in markups in that industry, despite foreign firms individually charging higher markups on average than their domestic competitors. The findings further show that while the markups of both foreign- and domestic-owned private firms tend to decrease with greater foreign direct investment, state-owned enterprises may be relatively insulated from foreign direct investment driven competitive pressures. These results are robust to the inclusion or exclusion of potential outliers and the potential non-random selection of firms acquired by foreign investors.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165095",
+          "publishedOn": "2022-04-07T21:01:23.537Z",
+          "wordCount": 732,
+          "title": "FDI, Market Power, and Markups : Evidence from Vietnam",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165096",
+          "author": null,
+          "description": "This report outlines economic prospects in developing Asia amid global turbulence and lingering pandemic risks. It discusses the implications of school closures and the invasion of Ukraine, and explores mobilizing taxes for development. Developing Asia’s outlook remains positive, with growth of 5.2% expected in 2022 and 5.3% in 2023. Downside risks include spillover from geopolitical tensions, such as via higher-than-expected commodity prices. The Russian invasion of Ukraine has upended the global economic outlook and greatly amplified uncertainty for a world economy still contending with COVID-19. Aggressive monetary policy tightening in the United States could lead to financial instability. In the medium term, scarring from the pandemic poses significant risks, including learning losses from continued school closures that could worsen economic inequality. The region’s economies urgently need to mobilize fiscal resources to restore the health of public finances and build a more inclusive and sustainable future. Opportunities to strengthen revenue will depend on specific circumstances, but more efficient value-added tax and better-optimized tax incentives hold promise for many economies. Strengthening personal income and property taxes can raise additional revenue and make tax systems more progressive. Significant opportunities exist to expand the use of tax and other fiscal instruments to tackle environmental and health priorities while raising revenue.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165096",
+          "publishedOn": "2022-04-07T21:01:23.528Z",
+          "wordCount": 732,
+          "title": "Asian Development Outlook (ADO) 2022: Mobilizing Taxes for Development",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165066",
+          "author": null,
+          "description": "The purpose of the study ‘After the new normal : scenarios for Europe in the post Covid-19‘ world was to chart the scope of change that the Covid-19 pandemic may bring to the context of the EU itself and EU R&I policy. Five scenarios were designed in a process including the Horizon Europe Network - with horizon scanning, online workshops and scenario writing. The five context scenarios are: The long recession, Back to ‘normal’? Big Tech shapes Europe, The Circular Economy and Green Utopia - new hope. They include the numerous disruptions to our daily lives from the Covid-19 lock-downs to 2040 and describe the extent, to which the pandemic might raise new requirements for the EU’s future policy frameworks, initiatives and programmes, for example in terms of impact, time horizon of projects or investments.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165066",
+          "publishedOn": "2022-04-07T21:01:23.519Z",
+          "wordCount": 732,
+          "title": "After the new normal: Scenarios for Europe in the post Covid-19 world",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165090",
+          "author": null,
+          "description": "What are the effects of bottom-up attention to the price paid by other consumers on consumer demand and firms‘ pricing decisions? We study the effects of a regulation that required Israeli retailers to display on-the-shelf signs indicating the (cheap) international price of a product alongside the price of that product in the local store. We find that prices of products included in the regulation fell on average by 8 percent. The price drop is larger for products that were more expensive compared to their international price. Following the price drop, quantities sold increased. Yet, these increases were significantly smaller than increases in quantities that we predict based on pre-regulation demand elasticities and the actual price drops. Products with  larger differences between the predicted and the actual quantities sold are products that remain relatively expensive vis-\\‘a-vis their international price. We develop a theoretical model that explains these findings, and estimate it to quantify the importance of salient unfair prices. We find that a 20 percentage-point salient difference between local and international prices is equivalent to a 1 percent increase in the price of the local product itself. Next, we use the model and the estimated parameters to calculate the impact on consumer utility. We find that for some products included in the regulation, utility declined. This happens when the disutility from observing that other consumers pay less exceeds the added utility from reduced  prices and increased consumption. We discuss potential implications of our findings for optimal pricing strategies, price rigidity, and theoretical models of salient thinking.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165090",
+          "publishedOn": "2022-04-07T21:01:23.501Z",
+          "wordCount": 732,
+          "title": "Price Saliency and Fairness: Evidence from Regulatory Shaming",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165085",
+          "author": null,
+          "description": "How does income from international migrant labor affect the long-run development of migrant-origin areas? We leverage the 1997 Asian Financial Crisis to identify exogenous changes in international migrant income across regions of the Philippines, derived from spatial variation in exposure to exchange rate shocks. The initial shock to migrant income is magnified in the long run, leading to substantial increases in income in the domestic economy in migrant-origin areas; increases in population education; better-educated migrants; and increased migration in high-skilled jobs. Four-fifths of long-run income gains are actually from domestic (rather than international migrant) income. A simple structural model yields insights on mechanisms and magnitudes, in particular that one-fifth of long-run income gains are due to increased educational investments in origin areas. Increased income from international labor migration not only benefits migrants themselves, but also fosters long-run economic development in migrant-origin areas.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165085",
+          "publishedOn": "2022-04-07T21:01:23.492Z",
+          "wordCount": 732,
+          "title": "Abundance from Abroad: Migrant Income and Long-Run Economic Development",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165101",
+          "author": null,
+          "description": "This essay sheds new light on the importance of credit creation infrastructure in determining who actually receives government support during periods of distress, and who continues to benefit after the acute phase of a crisis and the government’s formal support programs come to an end. The pandemic revealed, and the government’s response accentuated, meaningful asymmetries in the capacities of small and large businesses to access needed funding. At first glance, it would seem that small businesses benefited more than large ones from the government’s pandemic-support programs, as more government funds flowed into small businesses. Yet closer inspection of the range of government programs implemented and their longer term impact reveals a very different picture. By primarily providing grants to small businesses, the government helped address their short-term cash flow challenges but did little to encourage ongoing private credit creation for these businesses. The aid provided was real, but finite in nature. By contrast, the nature of the programs used to facilitate financing for the largest businesses provided major support at the moment and created expectations of future support. These interventions enhanced the viability and attractiveness of inherently fragile intermediation structures and set them up to continue to provide cheap and easy financing for the largest businesses long after the acute phase of the crisis had passed. This essay further reveals how numerous seemingly neutral choices were anything but in practice, creating a disconnect between policy makers stated aims and the actual impact of many of their actions. A key takeaway is that the government should do more during times of peace to understand and shape the credit creation infrastructure in ways that facilitate small-business lending in good times and bad.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165101",
+          "publishedOn": "2022-04-07T21:01:23.482Z",
+          "wordCount": 732,
+          "title": "Credit, crises, and infrastructure: The differing fates of large and small businesses",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165086",
+          "author": null,
+          "description": "We study the corporate-loan pricing decisions of a major Greek bank during the Greek financial crisis. A unique aspect of our dataset is that we observe both the interest rate and the “breakeven rate” of each loan, as computed by the bank’s own loan-pricing department (in effect, the loan’s marginal cost). We document that low-breakeven-rate (safer) borrowers are charged significant markups, whereas high-breakeven-rate (riskier) borrowers are charged small and sometimes even negative markups. We rationalize this de-facto cross-subsidization of riskier borrowers by safer borrowers through the lens of a dynamic model featuring depressed collateral values, impaired capital-market access, and limit pricing.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165086",
+          "publishedOn": "2022-04-07T21:01:20.355Z",
+          "wordCount": 732,
+          "title": "Cross-subsidization of Bad Credit in a Lending Crisis",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165092",
+          "author": null,
+          "description": "Can citizen-led protests lead to meaningful economic redistribution and nudge governments to increase redistributive efforts of fiscal resources? We study the effects of protests on fiscal redistribution using evidence from Nigeria. We digitized 26 years of public finance data from 1988 to 2016 to examine the effects of protests on intergovernmental transfers. We find that protests increase transfers to protesting regions, but only in areas that are politically aligned with disbursing governments. Protesters also face increased police violence. Non-protest conflicts do not affect transfers and protests do not affect non-transfer revenue. The results show that protests can influence fiscal redistribution.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165092",
+          "publishedOn": "2022-04-07T21:01:20.345Z",
+          "wordCount": 732,
+          "title": "Protest matters: The effects of protests on economic redistribution",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         }
       ]
@@ -964,43 +964,13 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/domesticList.do",
       "articles": [
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165082",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017",
           "author": null,
-          "description": "국제금융센터가 『우크라이나 사태 이후 중국의 대외정책 변화 및 시사점』을 발표하였다.\r\n\r\n- [이슈] 금년 2월 러시아의 우크라이나 침공 이후 중국이 러시아와의 유대를 강화하는 한편 대만 등 주변국을 압박하면서 대외정책 강경기조를 심화. 중국은 서방의 對러시아 제재에 불참하고 러시아를 옹호하는 한편, 대외 혼란을 틈타 대만과 네팔에 대한 위협을 강화\r\n\r\n- [배경] 중국은 우크라이나 사태로 인한 경제충격이 제한적인 가운데 중-러 유대 강화가 향후 대만압박은 물론 자국의 정치안정에도 도움이 된다고 판단\r\n ？ (경제 여력 견조) 서방의 견제에도 불구, 중국은 우크라이나 사태로 인한 충격이 주요국 대비 덜한 데다 금년 성장률 전망도 5% 내외 수준을 유지하여 대외 강경책 유지에 유리\r\n ？ (중-러 협력 필요) 중국은 우크라이나 사태를 계기로 러시아의 對중 의존도를 높이는 것이 향후 경제발전은 물론 미중 갈등 장기화시에도 필요하다고 판단\r\n ？ (내부 단결 공고화) 중국 지도부는 대외 갈등과 대만 위협론을 활용해 정부에 대한 시민들의 비판을 완화하고 금년 가을 시진핑 주석의 3연임을 준비\r\n\r\n- [전망 및 시사점] 우크라이나 사태 이후 중국이 러시아와의 연합을 공고화하면서 미국과 중국을 중심으로 한 국제질서의 양극화가 가속화되는 한편, 중국이 대외 강경책을 지속하고 대만 등에 대한 압력을 강화하면서 향후 국제정세의 불확실성이 더욱 높아질 전망\r\n ？ (중-러 연합 공고화) 중국이 러시아에 △기업 자금결제 △유동성 확보 △원유수입 확대 등을 지원하면서 일부 자국 기업의 피해를 무릅쓰고 협력을 지속할 전망\r\n ？ (반중 연대 가속화) 우크라이나 사태 이후 중국에 대한 반감이 더욱 높아지면서 서구 민주주의를 중심으로 한 미국과 EU 등의 공조가 더욱 강화될 것으로 예상\r\n ？ (대외 강경책 심화) 우크라이나 사태로 미중 갈등이 한층 심화되면서 중국이 제3국과의 진영구축을 가속화하고 향후 대만 등에 대한 압력을 더욱 노골화할 소지. 금번 사태로 촉발된 유럽의 안보 위험이 미국의 아시아 편향적 전략을 제약하는 반면, 중국 입장에서 러시아와의 연대는 자원을 대만 등에 투입할 수 있는 기회를 제공",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165082",
-          "publishedOn": "2022-04-07T18:01:23.611Z",
+          "description": "국제금융센터가 『글로벌 마이너스금리 채권 감소 및 영향 평가』를 발표하였다.\r\n\r\n- [이슈] 주요국의 통화긴축 본격화로 글로벌 마이너스금리 채권 규모가 급감(3.30일 현재 $2.6조)하고 있어 현재까지의 경과, 향후 전망 및 경제 영향 등을 점검. 마이너스금리 채권 감소는 발행주체 및 지역에 관계없이 광범위하게 나타나고 있으며 상대적으로 금리가 높은 장기물 및 위험자산에서 시작해 단기물 및 주요국 국채로 확산\r\n\r\n- [전망] 향후에도 글로벌 마이너스금리 채권은 주요국 통화긴축 가속 등으로 감소세를 이어갈 전망. 단, 국가별 통화정책 정상화 속도에 차이가 있고 글로벌 경기 불확실성도     지속됨에 따라 단기간 내 완전 소멸은 어려울 것으로 예상\r\n · (통화긴축) 주요국 통화긴축 가속은 시장금리 상방요인. 특히 마이너스금리정책(NIRP)을 시행 중인 유럽 지역 중앙은행들의 정책금리가 향후 1~2년 내 플러스 전환되며 시장 금리도 0% 상회 예상\r\n · (재정확대) 우크라이나 사태로 경기 하강위험이 심화된 유럽에서 재정지출 확대가 예상 되는 바, 이는 시장금리 추가 상방압력으로 작용할 가능성\r\n · (경기 불확실성 지속) 중국 코로나19 재확산, 러시아-우크라이나 사태 장기화 가능성 등 불확실성으로 안전자산 선호가 재차 심화하거나 통화정책 정상화가 지연될 소지 잠재\r\n\r\n- [영향] 마이너스금리 채권의 감소는 자산가격 조정, 자금흐름 변동성 증가, 한계기업 및 국가 부채취약성 부각 등의 부작용을 야기할 수 있으나 금융시장 기능 정상화, 금융 기관 수익 개선 등의 긍정적 효과를 가져올 것으로 기대\r\n · (부정적 효과) 금리상승으로 위험자산 가격이 조정되거나 해외로 유출되었던 유럽 및 일본 투자자들의 자본이 자국으로 재유입되는 과정에서 시장 변동성이 증가할 소지 \r\n · (긍정적 효과) 시장기능(단기자금시장, 채권시장) 회복, 금융기관(은행, 연기금, 보험회사) 수익성 개선, 은행 중개기능 강화에 따른 대출확대 등이 기대",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017",
+          "publishedOn": "2022-04-07T21:01:24.119Z",
           "wordCount": 709,
-          "title": "우크라이나 사태 이후 중국의 대외정책 변화 및 시사점",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165075",
-          "author": null,
-          "description": "한국은행이 「통합기후모형을 통한 제주지역의 기후변화 피해비용 추정」을 발표하였다.\r\n\r\n- EU, 미국, 호주 등의 선진국들은 기후변화에 적극 대응하기 위해 각국의 지역별 상황에 맞는 연구보고서를 발간하고 이를 바탕으로 체계적인 기후변화대응 정책수립에 박차를 가하고 있음. 이러한 배경하에 제주도 기후변화의 경제적 비용에 대한 종합적이고 체계적인 경제학적 분석은 제주도의 특성에 맞는 기후변화 적응 및 완화 정책 수립을 위해서 매우 중요하다 할 수 있음. 그러나 대부분의 국내 기후변화 영향 연구는 일부 산업 등에 미치는 개별 효과 추정을 중심으로 한정되어 있고, 통합기후모형을 통한 기후변화의 종합적인 경제피해 비용, 또는 탄소의 사회적 비용 추정은 아직 미미한 상태임. \r\n\r\n- 본 연구는 최신 통합기후모형인 Golosov, Hassler, Krusell, and Tsyvinski (2014)를 통하여 제주도에서의 탄소의 사회적 비용을 국내 최초로 추정하였음. 본 연구의 분석에 따르면 2019년 기준으로 제주도에서 탄소 배출로 인한 연평균 총 사회적 비용은 약 205~365억 원 정도로 추정되었음. 이는 전국 단위 총 탄소의 사회적 비용의 약 2~4% 해당하는 수치로 나타남. 제주도 지역내총생산이 전국대비 약 1% 수준임을 고려해 봤을 때 제주도의 기후변화 피해비용이 타 지자체에 비해 상대적으로 높음을 알 수 있음. 탄소의 사회적 비용을 1톤당 비용으로 전환 하였을 때도 제주도에서의 비용은 약 16,000원~29,000원 사이로 전국 평균 대비 약 3배 이상인 것으로 추정이 되었음.\r\n\r\n- 본 연구의 결과는 여러 가지 정책적 함의를 지님. 첫째, 본 연구에서 추정된 탄소의 사회적 비용은 제주도의 최적 탄소저감정책 수립 시 기초적인 핵심 정보로 사용될 수 있음. 둘째, 본 연구는 좀 더 심도 깊은 제주도의 탄소의 사회적 비용 추정을 위해서는 미시적 산업구조를 고려한 통합기후모형의 개발이 필요함을 보여줌으로써 추후 연구를 위한 가이드라인도 제시함. 마지막으로 본 연구에서 추정된 국내 그리고 제주도에서의 최적 탄소가격은 기후변화관련 국제협상시 우리나라에 도움을 될 수 있는 주요한 근거자료도 활용할 수 있을 것으로 예상됨.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165075",
-          "publishedOn": "2022-04-07T18:01:23.547Z",
-          "wordCount": 709,
-          "title": "통합기후모형을 통한 제주지역의 기후변화 피해비용 추정",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165070",
-          "author": null,
-          "description": "국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.4)’을 발표하였다.\r\n\r\n- [동향] 우크라이나, 수도 키이우 탈환. 러시아, 남동부 지역에 군사력을 집중\r\n\r\n- [금융시장 반응] 미국의 견조한 고용지표로 주요국 주가 상승. 유가는 하락 \r\n\r\n- [해외시각] 러시아 침공 여파로 유럽, 아시아 등 여타지역의 경기둔화론 증대",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165070",
-          "publishedOn": "2022-04-07T18:01:23.538Z",
-          "wordCount": 709,
-          "title": "최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.4)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165078",
-          "author": null,
-          "description": "통일연구원이 『북한 김여정의 대남 담화와 선제타격론 제기 배경』을 발표하였다.\r\n\r\n- 북한의 최근 대남 비난 수위가 예사롭지 않음. 지난 1~3월 대남선전매체를 통한 대남 비난이 증가했고 특히 대선 이후 급증하고 있음. 여기에 김여정 조선노동당 부부장이 2, 4일 각각 한 차례씩, 군을 대표하는 박정천 당 중앙위 비서가 2일 한 차례에 걸쳐 대남 공세에 가세했음. \r\n\r\n- 이번 김여정 부부장과 박정천 비서의 담화는 표면적으로 지난 1일 서욱 국방장관이 육군 미사일전략사령부와 공군 미사일방어사령부 개편식에 참석해 “(북한의) 미사일 발사 징후가 명확할 경우에는 발사 원점과 지위, 지원 시설을 정밀 타격할 수 있는 능력과 태세도 갖추고 있다”고 발언한 것을 문제 삼았음. ‘선제타격’론으로 규정하고 비난하는 담화임. \r\n\r\n- 올해 들어 증가해 온 대남 비난을 포함 김여정 부부장의 재등장, 선제타격론에 대한 민감 반응, 핵보유국 강조 등은 향후 북한이 취할 대남 전략 및 전술적 태도를 가늠해 볼 수 있는 텍스트로 볼 수 있음. 이 글은 이번 담화에 대한 내용분석, 최근 북한의 대남 비난 추이, 선제타격론 문제제기의 의도와 배경, 향후 예상되는 대남 전략에 대해 분석함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165078",
-          "publishedOn": "2022-04-07T18:01:23.495Z",
-          "wordCount": 709,
-          "title": "북한 김여정의 대남 담화와 선제타격론 제기 배경",
+          "title": "글로벌 마이너스금리 채권 감소 및 영향 평가",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1008,7 +978,7 @@
           "author": null,
           "description": "국회미래연구원이 「디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점」을 발표하였다.\r\n\r\n- 보고서는 연산일반균형(CGE) 모형기반 시뮬레이션 체계를 활용하여, 미래 디지털전환 시대 환경변화에 따른 파급효과를 사전적으로 전망하였음. 디지털전환 시대 환경변화 시나리오를 다양하게 탐색하고, 시나리오별 파급효과를 경제성장, 노동시장, 산업활동 및 가계소득 분포 등 다양한 측면으로 분석했음. 이를 통해, 우리나라 경제사회의 디지털전환 수용 과정에서 마주하게 될 가능성과 주요 도전과제를 식별하고, 디지털전환 패러다임으로의 전환을 용이하게 하기 위한 정책설계 및 수립의 과학화에 기여하고자 시도하였음.",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165023",
-          "publishedOn": "2022-04-07T18:01:23.486Z",
+          "publishedOn": "2022-04-07T21:01:23.473Z",
           "wordCount": 709,
           "title": "디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -1018,59 +988,9 @@
           "author": null,
           "description": "한국은행이 「중국 3월 제조업 PMI 하락」을 발표하였다.\r\n\r\n- (제조업 PMI) 3월 제조업 PMI는 49.5로 전월(50.2)보다 하락하면서21.10월(49.2) 이후 5개월만에 기준치(50)를 하회. 규모별로는 대기업(2월 51.8 → 3월 51.3)은 전월보다 하락하였으나 여전히 기준치를 상회한 반면, 중기업(51.4 → 48.5) 및 소기업(45.1 → 46.6)은 기준치를 하회. 항목별로 보면 생산(50.4 → 49.5), 신규주문(50.7 → 48.8), 원자재재고(48.1 → 47.3), 고용(49.2 → 48.6), 공급자배송시간(48.2 → 46.5) 등이 모두하락하면서 기준치를 하회\r\n\r\n- (비제조업 PMI) 3월 비제조업 PMI는 48.4로 전월(51.6)보다 크게 하락하면서21.8월(47.5)이후 7개월만에 기준치(50)를 하회\r\n\r\n- (종합 PMI) 3월 종합 PMI는 제조업 및 비제조업 PMI가 모두 부진하면서 48.8로 전월(51.2)보다 하락\r\n\r\n- 3월 제조업 및 비제조업 PMI는 중국정부의 안정성장을 위한 정책지원 확대에도 불구하고 코로나19의 대규모 확산, 러우전쟁에 따른 원자재가격 상승 등으로 전월 및 시장예상보다 크게 부진한 것으로 평가. 중국정부는 경기 회복세 둔화 우려에 대응하여 투자 확대, 소비 회복 등 내수진작에 주력하면서 중소？영세기업 경영난 완화, 고용안정 등을 위한 정책지원을 더욱 강화할 것으로 전망",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165024",
-          "publishedOn": "2022-04-07T18:01:23.474Z",
+          "publishedOn": "2022-04-07T21:01:23.456Z",
           "wordCount": 709,
           "title": "중국 3월 제조업 PMI 하락",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165074",
-          "author": null,
-          "description": "한국지방세연구원이 「2018년 이후 주택 보유세 부담변화의 특징(stylized facts)」을 발표하였다.\r\n\r\n- 제도변화 특징\r\n · 공시가격 현실화 정책을 통한 보유세 과표 인상\r\n · 다주택자 보유세 부담 강화\r\n · 1주택자 보유세 부담 완화\r\n\r\n- 주택자산 소유분포 변화\r\n · 상위 분위 1주택자의 주택자산 집중도 증가\r\n · 인별 주택자산의 불균형도(지니계수) 상승: 1주택자 13.6%↑, 다주택자 5.7%↑\r\n\r\n- 세부담 변화\r\n · 다주택자·고가 1주택자의 종합부동산세 부담 크게 증가\r\n · 종합부동산세가 부과되지 않는 1주택자의 세부담율 오히려 감소\r\n · 다주택자 상위 1% 세부담율 4.3배 증가\r\n\r\n - 상위분위가 부담하는 세부담 비중 변화\r\n · 주택자산 상위 1%가 부담하는 보유세 부담 21%2018 → 42%2021로 2배 증가\r\n · 1주택자의 종합부동산세 세부담 누진도 영향 미미\r\n\r\n- 정책적 시사점\r\n · 종합부동산세와 “편익원칙”을 기반으로 하는 재산세의 통합은 재분배 기능을 담당하는 기존 조세체계의 보완과 종합적으로 검토되어야 함\r\n · 보유세는 납세자의 조세저항이 큰 세목으로 최대한 세부담의 예측가능성을 담보하여 사회적 비용을 축소하여야 함\r\n\r\n<목 차>\r\n\r\n1. 제도변화 특징\r\n2. 주택자산 소유분포 변화\r\n3. 세부담변화\r\n4. 상위분위가 부담하는 세부담 비중 변화\r\n5. 정책적 시사점",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165074",
-          "publishedOn": "2022-04-07T18:01:23.457Z",
-          "wordCount": 709,
-          "title": "2018년 이후 주택 보유세 부담변화의 특징",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165073",
-          "author": null,
-          "description": "자본시장연구원이 『4차 산업혁명 시대의 금융산업 중장기 발전전략』을 발표하였다.\r\n\r\n- 과거 한국 금융은 중후장대형 산업에 대한 자금 지원에 치중하였고, 대면 중심의 금융서비스를 제공해왔기 때문에 한국 금융이 4차 산업혁명을 선도하려면 중장기 발전전략을 수정하는 것이 필요함. \r\n\r\n- 대표적으로 2003년 도입한 동북아 금융허브 전략과 2009년부터 시행ㆍ발전해 온 금융중심지 제도를 개편하여 4차 산업혁명 시대에 걸맞은 디지털 금융중심지 전략을 재수립할 필요가 있으며, 더불어 한국 금융산업이 4차 산업혁명을 선도할 수 있도록 세 가지 중장기 발전전략을 제시함. \r\n\r\n- 첫째, IP(지식재산권) 금융과 자본시장 중심 기업구조조정 활성화 등을 통해 창업－성장－회수의 혁신기업 성장 단계에서 모험자본 공급을 확대해야 함.\r\n\r\n- 둘째, 핀테크 활성화를 위해 금융규제를 네거티브 방식과 원칙 중심으로 개선하고 이를 뒷받침하기 위해 징벌적 과징금 도입 등 행정제재를 강화하는 것이 필요함.\r\n\r\n- 셋째, 4차 산업혁명의 꽃인 거대 데이터댐을 구축하고 이를 과감히 개방하는 등 데이터 인프라 혁신이 필요함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165073",
-          "publishedOn": "2022-04-07T18:01:23.441Z",
-          "wordCount": 709,
-          "title": "4차 산업혁명 시대의 금융산업 중장기 발전전략",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165069",
-          "author": null,
-          "description": "국제금융센터가 ‘주간 Wall Street 인사이트(4.4)’를 발표하였다.\r\n\r\n- [미국 장단기 금리역전 논란] 경기침체 선행 능력 약화 불구 경계감은 높은 수준 \r\n\r\n- [미국 주가 향방] 주가 반등 원인과 향방에 대한 논란 확대. 개인 움직임이 중요  \r\n\r\n- [러시아 가스공급 논란] 푸틴의 위협이 블러핑이라는 시각 우세하나 돌발행동 우려",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165069",
-          "publishedOn": "2022-04-07T18:01:23.418Z",
-          "wordCount": 709,
-          "title": "주간 Wall Street 인사이트(4.4)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165076",
-          "author": null,
-          "description": "국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.6)’을 발표하였다.\r\n\r\n- [동향] 美·EU, 러시아 추가 제재 방안 구체화. 우크라이나 대통령 UN 연설 등\r\n\r\n- [금융시장 반응] 美 주가, 긴축 가속화 우려로 하락. 국제유가는 소폭 하락\r\n\r\n- [해외시각] 세계경제에 대한 긍정적 및 부정적 시각 혼재. 국제관계 다기화 예상 등",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165076",
-          "publishedOn": "2022-04-07T18:01:23.402Z",
-          "wordCount": 709,
-          "title": "최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.6)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017",
-          "author": null,
-          "description": "국제금융센터가 『글로벌 마이너스금리 채권 감소 및 영향 평가』를 발표하였다.\r\n\r\n- [이슈] 주요국의 통화긴축 본격화로 글로벌 마이너스금리 채권 규모가 급감(3.30일 현재 $2.6조)하고 있어 현재까지의 경과, 향후 전망 및 경제 영향 등을 점검. 마이너스금리 채권 감소는 발행주체 및 지역에 관계없이 광범위하게 나타나고 있으며 상대적으로 금리가 높은 장기물 및 위험자산에서 시작해 단기물 및 주요국 국채로 확산\r\n\r\n- [전망] 향후에도 글로벌 마이너스금리 채권은 주요국 통화긴축 가속 등으로 감소세를 이어갈 전망. 단, 국가별 통화정책 정상화 속도에 차이가 있고 글로벌 경기 불확실성도     지속됨에 따라 단기간 내 완전 소멸은 어려울 것으로 예상\r\n · (통화긴축) 주요국 통화긴축 가속은 시장금리 상방요인. 특히 마이너스금리정책(NIRP)을 시행 중인 유럽 지역 중앙은행들의 정책금리가 향후 1~2년 내 플러스 전환되며 시장 금리도 0% 상회 예상\r\n · (재정확대) 우크라이나 사태로 경기 하강위험이 심화된 유럽에서 재정지출 확대가 예상 되는 바, 이는 시장금리 추가 상방압력으로 작용할 가능성\r\n · (경기 불확실성 지속) 중국 코로나19 재확산, 러시아-우크라이나 사태 장기화 가능성 등 불확실성으로 안전자산 선호가 재차 심화하거나 통화정책 정상화가 지연될 소지 잠재\r\n\r\n- [영향] 마이너스금리 채권의 감소는 자산가격 조정, 자금흐름 변동성 증가, 한계기업 및 국가 부채취약성 부각 등의 부작용을 야기할 수 있으나 금융시장 기능 정상화, 금융 기관 수익 개선 등의 긍정적 효과를 가져올 것으로 기대\r\n · (부정적 효과) 금리상승으로 위험자산 가격이 조정되거나 해외로 유출되었던 유럽 및 일본 투자자들의 자본이 자국으로 재유입되는 과정에서 시장 변동성이 증가할 소지 \r\n · (긍정적 효과) 시장기능(단기자금시장, 채권시장) 회복, 금융기관(은행, 연기금, 보험회사) 수익성 개선, 은행 중개기능 강화에 따른 대출확대 등이 기대",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017",
-          "publishedOn": "2022-04-07T18:01:23.379Z",
-          "wordCount": 709,
-          "title": "글로벌 마이너스금리 채권 감소 및 영향 평가",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1078,9 +998,29 @@
           "author": null,
           "description": "국제금융센터가 ‘주간이슈(4.4) : 러시아의 가스공급 중단 여부와 금주 도래 채무지급에 주목’을 발표하였다.\r\n\r\n- 러시아의 가스 공급 중단 여부와 금주 도래하는 채무 지급 여부에 주목\r\n\r\n- 유로존 PPI, 중국 서비스업지수 등 주요 경제지표의 악화 여부에 관심\r\n\r\n- 3월 FOMC 의사록 공개. 향후 정책금리 및 QT 속도 등 상세 논의를 가늠\r\n\r\n- 호주 정책금리 동결하나 조만간 인상 예상. 인도는 빠르면 금주 인상 모색 \r\n\r\n- 1분기 미국 기업들의 어닝시즌 개막. 이익증가율 큰 폭 둔화 추정\r\n\r\n- 4.10일 프랑스 대선 실시. 마크롱 대통령의 재선 여부에 관심",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165071",
-          "publishedOn": "2022-04-07T18:01:23.355Z",
+          "publishedOn": "2022-04-07T21:01:23.446Z",
           "wordCount": 709,
           "title": "주간이슈(4.4) : 러시아의 가스공급 중단 여부와 금주 도래 채무지급에 주목",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165069",
+          "author": null,
+          "description": "국제금융센터가 ‘주간 Wall Street 인사이트(4.4)’를 발표하였다.\r\n\r\n- [미국 장단기 금리역전 논란] 경기침체 선행 능력 약화 불구 경계감은 높은 수준 \r\n\r\n- [미국 주가 향방] 주가 반등 원인과 향방에 대한 논란 확대. 개인 움직임이 중요  \r\n\r\n- [러시아 가스공급 논란] 푸틴의 위협이 블러핑이라는 시각 우세하나 돌발행동 우려",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165069",
+          "publishedOn": "2022-04-07T21:01:23.437Z",
+          "wordCount": 709,
+          "title": "주간 Wall Street 인사이트(4.4)",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165070",
+          "author": null,
+          "description": "국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.4)’을 발표하였다.\r\n\r\n- [동향] 우크라이나, 수도 키이우 탈환. 러시아, 남동부 지역에 군사력을 집중\r\n\r\n- [금융시장 반응] 미국의 견조한 고용지표로 주요국 주가 상승. 유가는 하락 \r\n\r\n- [해외시각] 러시아 침공 여파로 유럽, 아시아 등 여타지역의 경기둔화론 증대",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165070",
+          "publishedOn": "2022-04-07T21:01:23.416Z",
+          "wordCount": 709,
+          "title": "최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.4)",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1088,59 +1028,9 @@
           "author": null,
           "description": "국제금융센터가 ‘[은행] 글로벌 은행산업 트렌드(4.4)’를 발표하였다.\r\n\r\n- 지난주 글로벌 은행산업 주요 이슈는 ▲Credit Suisse의 對러 업무 중단 ▲ECB의 우크라 간접 영향 주시 ▲JPM의 영국 내 고금리 적금 판매 ▲Citi의 인도 리테일 처분\r\n · Mizuho의 WM 고객 기반 배증 목표, Goldman Sachs의 퇴직연금 핀테크 인수 등\r\n\r\n- 은행권 주가는 금리인상 기대감과 경기 불확실성이 엇갈리며 혼조세\r\n · 미국 -5.7%, 유럽 0.7%, 일본 -4.3%, 중국 3.9%, 한국 0.7%",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165068",
-          "publishedOn": "2022-04-07T18:01:23.344Z",
+          "publishedOn": "2022-04-07T21:01:23.393Z",
           "wordCount": 709,
           "title": "[은행] 글로벌 은행산업 트렌드(4.4)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165084",
-          "author": null,
-          "description": "국제금융센터가 『주요 투자은행의 세계경제 및 주요국 성장률 전망(2022.3월말 기준)』을 발표하였다.\r\n\r\n- 세계(-0.6%p ↓): 러-우크라이나 전쟁 장기화 및 中 코로나 재확산 조짐으로 글로벌 공급망 차질 우려가 커지는 가운데 물가 상승(‘21년 4.7%→ ’22년 상반기 6.5%, JPM)에 대응     한 각국의 본격적인 통화긴축으로 전세계 성장이 예상보다 둔화될 전망\r\n\r\n- 미국(-0.3%p ↓): 글로벌 경기둔화, 에너지·식료품 가격 급등에 따른 구매력 약화, 통화긴축 가속화로 경기전망에 대한 불확실성 증대. 고용지표 호조 속에 5, 6월 FOMC에서는 50bp 인상 전망이 우세하며 임금상승세 지속 시 인상폭(3월 점도표, ‘23년까지 약 3%p) 확대 불가피(Barclays,Citi,JPM)\r\n\r\n- 유로존(-1.1%p ↓): 러시아의 천연가스 공급 중단 위협이 고조되는 가운데 물가 급등(3월 7.5%), 소비심리 위축 등 부정적 영향 가시화. 가스 공급 10% 감소 시 유로존 성장률 70bp 추가 둔화 예상(Barclays). 러-우 전쟁 여파로 소비자 물가(y/y) 전망은 2,3분기 각각 7.3%→7.9%, 6.8%→7.8%로 상향 조정. 빠르면 9월부터 정책금리가 인상될 것이며 ‘23년까지 총 6회(회당 0.25%p씩 총 1.5%p) 인상될 소지(JPM)\r\n\r\n- 중국(-0.1%p ↓): 최근 오미크론 급증에 따른 상하이 봉쇄조치로 상반기 성장률 -10bp 둔화 추정. 여타 지방정부로의 코로나 확산 시 생산 및 물류 차질, 수요 감소에 따른 성장 약화 불가피(Barclays)\r\n\r\n- 일본(-0.7%p ↓): 방역규제 해제로 2분기 성장률은 반등하겠으나 코로나19 재확산,에너지·식료품 가격 상승, 엔저로 인한 수입물가 급등, 미·중 경기악화 등 하반기 하방리스크 상존(Nomura)",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165084",
-          "publishedOn": "2022-04-07T18:01:23.290Z",
-          "wordCount": 709,
-          "title": "주요 투자은행의 세계경제 및 주요국 성장률 전망(2022.3월말 기준)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165083",
-          "author": null,
-          "description": "한국은행이 「2021년 강원경제 Brief」를 발표하였다.\r\n\r\n- (자영업자 특징) 강원지역내 자영업자 수는 금년들어 큰 폭 감소하였으며, 타 지역에 비해 규모가 영세하고 높은 밀집도로 인해 수익성이 낮은 상황\r\n\r\n- (자영업자 대출 특징) 2012년 이후 강원지역 자영업자 대출은 두자리 수의 높은 증가율을 기록하고 있으며, 최근 들어 자영업자의 가계대출 증가율보다 사업자대출 증가율이 더욱 높게 나타남.\r\n\r\n- (자영업자 대출 건전성) 고신용자 대출 비중이 꾸준히 상승하고 있는 등 강원지역 자영업자 대출 건전성은 전반적으로 양호한 편이나, 타 지역 대비 저신용등급 차주 비중이 높은 것으로 나타남.\r\n\r\n- (시사점) 강원지역 자영업자의 영세성 완화를 위한 정책적 노력이 긴요하며, 자영업 경쟁력 향상을 통한 수익성 확보를 위해 교육훈련 등 창업지원정책 마련에도 관심을 기울일 필요. 또한 음식·숙박업 등 전통적 과밀업종에 대한 창업수요를 강원지역의 특색이 반영된 유망 업종으로 유도할 필요",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165083",
-          "publishedOn": "2022-04-07T18:01:23.154Z",
-          "wordCount": 709,
-          "title": "2021년 강원경제 Brief",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165072",
-          "author": null,
-          "description": "국토연구원이 「아세안 국토·도시 ODA 상생협력 추진방안」을 발표하였다.\r\n\r\n- 민간기업의 해외 수주 확대를 위한 국익 추구 수단으로 국토·도시 ODA를 활용하는 경향이 강화되고 있지만, 아세안의 지속가능한 발전을 위한 핵심 수요에는 효과적으로 대응하지 못함.\r\n\r\n- 해외원조 기관은 국토·도시 개발의 전(全) 주기를 통합하는 전략을 중심으로 단위사업과 이행 주체 간 통합적 접근을 중시하고, 공여국의 국익을 추구하되, 국제개발협력의 원칙을 기반으로 하는 상생적 원조를 위해 노력함.\r\n\r\n- 본 브리프에서는 상생협력 ODA를 ‘수원국의 개발 효과와 공여국 국익 사이의 균형을 추구하여 상호 연계성이 강화될 수 있는 개발협력’으로 정의하고, 상생적 국토·도시 ODA를 위한 세 가지 기본방향을 제시함.\r\n · 제3차 ODA 기본계획에 포함된 국토·도시 추진과제가 SDGs 세부목표 달성에 기여하도록 노력\r\n · 수원국 국토 및 도시공간의 입체적이고 통합적인 계획과 개발 추구\r\n · 아세안 국가별 객관적 개발지표에 근거한 공간 중심의 융복합 지역개발 프로그램 지향？ \r\n\r\n- [정책방안] ① (전략체계) 국토교통부와 외교부를 중심으로 ‘국토·도시 ODA 범부처 통합전략’을 수립하고, 베트남, 인도네시아 등 중점 협력국가를 대상으로 국가협력전략(CPS)에 국가별 국토·도시개발협력 이행계획을 수록 ② (프로그램) 분야 중심의 ODA 사업발굴체계를 지역 중심체계로 전환하여 아세안 도시 수요에 기반한 ‘투자개발 융합형 지역개발 프로그램’을 강화하고, 수원국의 도시개발 요청자료 인벤토리를 구축하여 지역개발형 신규 사업정보를 구축 ③ (거버넌스 및 모니터링) 공간정보데이터 기반의 범용적 국토·도시 ODA 통합플랫폼을 구축하여 수원국 도시개발 현황 데이터와 범부처 ODA 사업자료 활용의 접근성을 높이고, 장기적이고 통합적인 상생협력 이행기반을 마련",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165072",
-          "publishedOn": "2022-04-07T18:01:23.135Z",
-          "wordCount": 709,
-          "title": "아세안 국토·도시 ODA 상생협력 추진방안",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025",
-          "author": null,
-          "description": "대한상공회의소가 『MZ세대가 바라보는 ESG경영과 기업인식 조사』를 발표하였다.\r\n\r\n- MZ세대 380명 대상 조사... 64.5% ‘더 비싸도 ESG 실천기업 제품 구매’\r\n\r\n- MZ세대의 대표적 소비신념은? 가심비(46.6%)> 미닝아웃(28.7%)> 돈쭐(10.3%) 順\r\n\r\n- 파급효과 큰 친환경제품 : 무라벨 페트병(41.1%), 전기·수소차(36.3%) 등 생활 속 친숙한 제품\r\n\r\n- 기업 역할 ‘일자리 창출’(28.9%) 보다 ‘투명·윤리경영 실천’(51.3%) 많이 꼽아... 공정·정의 중시 인식 반영\r\n\r\n- 향후 ESG경영 확산위해 중요한 것? ‘전반적인 국민인식 향상’(38.4%), ‘법ㆍ제도적 지원(27.9%)’ 등 ESG가 기업경영의 화두를 넘어 사회적 트렌드가 되고 있는 가운데, 새로운 소비주체로 부상한 MZ세대들은 제품 구매 시 기업의 ESG경영 실천여부를 중요하게 인식하는 것으로 조사됐음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025",
-          "publishedOn": "2022-04-07T18:01:23.110Z",
-          "wordCount": 709,
-          "title": "MZ세대가 바라보는 ESG경영과 기업인식 조사",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165081",
-          "author": null,
-          "description": "IBK기업은행 경제연구소가 『美기준금리 인상 및 유가 상승이 국내경제에 미치는 영향』을 발표하였다.\r\n\r\n- 美기준금리 인상이 시작되고,우크라이나 사태로 글로벌 유가가 급등하면서 해외요인 충격에 대한 국내경제 영향 분석 필요성 증가. GlobalVAR(GVAR)모형을 중소기업 산업생산 등 분석필요 분야를 확충하고 최신자료(’21.Q4)로 업데이트한 후 분석",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165081",
-          "publishedOn": "2022-04-07T18:01:11.583Z",
-          "wordCount": 709,
-          "title": "美기준금리 인상 및 유가 상승이 국내경제에 미치는 영향",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1148,9 +1038,49 @@
           "author": null,
           "description": "한국지방세연구원이 「부동산 공시가격 현실화 정책의 평가와 향후 과제」를 발표하였다.\r\n\r\n- 공시가격 현실화 계획은 부동산공시법상 적정가격을 공시하도록 한 법률 취지를 반영하여 구체적인 공시가격의 정책목표를 설정하였다는 점에서 의의가 있음. 현실화 계획은 부동산 공시가격 현실화 제고 방식에 대한 투명성을 높임.\r\n\r\n- 공시가격 현실화율 수준 제고를 우선함에 따라 주택 가격대별 현실화율 격차가 확대되었으며, 이는 “조세·부담금 등의 형평성을 도모”한다는 부동산공시법의 목적과 어긋남. 공시가격 현실화 계획의 유연성 부족으로 부동산 시장 여건, 국민 부담 등에 따라 현실화율이 연도별로 조정되지 못함에 따라 조세원칙이 훼손되는 결과로 이어짐. 공시 주체인 지방자치단체가 검증 등을 통해 공시가격의 신뢰성을 높일 수 있는 제도적 기반은 아직 취약함.\r\n\r\n- “적정한 가격형성”과 “조세·부담금 등의 형평성 도모”를 위해 공시가격을 시세의 일정 비율로 맞춘다는 정책은 올바른 방향이므로 앞으로도 지속돼야 함. 공시가격 시세 반영률의 목표 수준은 국민 부담 수준을 고려하여 재설정되어야 함. 공시가격 정책은 부동산공시법의 목적 중 “조세·부담금 등의 형평성 도모”에 더욱 집중할 필요가 있음. 대선 과정에서 여야가 공약한 대로 공시가격 상승에 따른 국민 부담을 낮추기 위해서는 공시가격 ’현실화율 수준‘보다는 ’현실화율 격차 해소‘에 더욱 집중하여야 함. \r\n\r\n- 공시가격 시세 반영률의 연도별 달성계획도 국민 부담 및 납세자 수용성 등을 고려하여 유연하게 조정될 수 있도록 수립되어야 함. 공시가격의 신뢰성을 높이는 제도적 방안의 하나로 광역지방자치단체가 공시가격을 검증하고 제도 개선을 할 수 있는 권한을 부여함.",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165079",
-          "publishedOn": "2022-04-07T18:01:10.547Z",
+          "publishedOn": "2022-04-07T21:01:23.375Z",
           "wordCount": 709,
           "title": "부동산 공시가격 현실화 정책의 평가와 향후 과제",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165074",
+          "author": null,
+          "description": "한국지방세연구원이 「2018년 이후 주택 보유세 부담변화의 특징(stylized facts)」을 발표하였다.\r\n\r\n- 제도변화 특징\r\n · 공시가격 현실화 정책을 통한 보유세 과표 인상\r\n · 다주택자 보유세 부담 강화\r\n · 1주택자 보유세 부담 완화\r\n\r\n- 주택자산 소유분포 변화\r\n · 상위 분위 1주택자의 주택자산 집중도 증가\r\n · 인별 주택자산의 불균형도(지니계수) 상승: 1주택자 13.6%↑, 다주택자 5.7%↑\r\n\r\n- 세부담 변화\r\n · 다주택자·고가 1주택자의 종합부동산세 부담 크게 증가\r\n · 종합부동산세가 부과되지 않는 1주택자의 세부담율 오히려 감소\r\n · 다주택자 상위 1% 세부담율 4.3배 증가\r\n\r\n - 상위분위가 부담하는 세부담 비중 변화\r\n · 주택자산 상위 1%가 부담하는 보유세 부담 21%2018 → 42%2021로 2배 증가\r\n · 1주택자의 종합부동산세 세부담 누진도 영향 미미\r\n\r\n- 정책적 시사점\r\n · 종합부동산세와 “편익원칙”을 기반으로 하는 재산세의 통합은 재분배 기능을 담당하는 기존 조세체계의 보완과 종합적으로 검토되어야 함\r\n · 보유세는 납세자의 조세저항이 큰 세목으로 최대한 세부담의 예측가능성을 담보하여 사회적 비용을 축소하여야 함\r\n\r\n<목 차>\r\n\r\n1. 제도변화 특징\r\n2. 주택자산 소유분포 변화\r\n3. 세부담변화\r\n4. 상위분위가 부담하는 세부담 비중 변화\r\n5. 정책적 시사점",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165074",
+          "publishedOn": "2022-04-07T21:01:23.362Z",
+          "wordCount": 709,
+          "title": "2018년 이후 주택 보유세 부담변화의 특징",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165084",
+          "author": null,
+          "description": "국제금융센터가 『주요 투자은행의 세계경제 및 주요국 성장률 전망(2022.3월말 기준)』을 발표하였다.\r\n\r\n- 세계(-0.6%p ↓): 러-우크라이나 전쟁 장기화 및 中 코로나 재확산 조짐으로 글로벌 공급망 차질 우려가 커지는 가운데 물가 상승(‘21년 4.7%→ ’22년 상반기 6.5%, JPM)에 대응     한 각국의 본격적인 통화긴축으로 전세계 성장이 예상보다 둔화될 전망\r\n\r\n- 미국(-0.3%p ↓): 글로벌 경기둔화, 에너지·식료품 가격 급등에 따른 구매력 약화, 통화긴축 가속화로 경기전망에 대한 불확실성 증대. 고용지표 호조 속에 5, 6월 FOMC에서는 50bp 인상 전망이 우세하며 임금상승세 지속 시 인상폭(3월 점도표, ‘23년까지 약 3%p) 확대 불가피(Barclays,Citi,JPM)\r\n\r\n- 유로존(-1.1%p ↓): 러시아의 천연가스 공급 중단 위협이 고조되는 가운데 물가 급등(3월 7.5%), 소비심리 위축 등 부정적 영향 가시화. 가스 공급 10% 감소 시 유로존 성장률 70bp 추가 둔화 예상(Barclays). 러-우 전쟁 여파로 소비자 물가(y/y) 전망은 2,3분기 각각 7.3%→7.9%, 6.8%→7.8%로 상향 조정. 빠르면 9월부터 정책금리가 인상될 것이며 ‘23년까지 총 6회(회당 0.25%p씩 총 1.5%p) 인상될 소지(JPM)\r\n\r\n- 중국(-0.1%p ↓): 최근 오미크론 급증에 따른 상하이 봉쇄조치로 상반기 성장률 -10bp 둔화 추정. 여타 지방정부로의 코로나 확산 시 생산 및 물류 차질, 수요 감소에 따른 성장 약화 불가피(Barclays)\r\n\r\n- 일본(-0.7%p ↓): 방역규제 해제로 2분기 성장률은 반등하겠으나 코로나19 재확산,에너지·식료품 가격 상승, 엔저로 인한 수입물가 급등, 미·중 경기악화 등 하반기 하방리스크 상존(Nomura)",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165084",
+          "publishedOn": "2022-04-07T21:01:23.352Z",
+          "wordCount": 709,
+          "title": "주요 투자은행의 세계경제 및 주요국 성장률 전망(2022.3월말 기준)",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165082",
+          "author": null,
+          "description": "국제금융센터가 『우크라이나 사태 이후 중국의 대외정책 변화 및 시사점』을 발표하였다.\r\n\r\n- [이슈] 금년 2월 러시아의 우크라이나 침공 이후 중국이 러시아와의 유대를 강화하는 한편 대만 등 주변국을 압박하면서 대외정책 강경기조를 심화. 중국은 서방의 對러시아 제재에 불참하고 러시아를 옹호하는 한편, 대외 혼란을 틈타 대만과 네팔에 대한 위협을 강화\r\n\r\n- [배경] 중국은 우크라이나 사태로 인한 경제충격이 제한적인 가운데 중-러 유대 강화가 향후 대만압박은 물론 자국의 정치안정에도 도움이 된다고 판단\r\n ？ (경제 여력 견조) 서방의 견제에도 불구, 중국은 우크라이나 사태로 인한 충격이 주요국 대비 덜한 데다 금년 성장률 전망도 5% 내외 수준을 유지하여 대외 강경책 유지에 유리\r\n ？ (중-러 협력 필요) 중국은 우크라이나 사태를 계기로 러시아의 對중 의존도를 높이는 것이 향후 경제발전은 물론 미중 갈등 장기화시에도 필요하다고 판단\r\n ？ (내부 단결 공고화) 중국 지도부는 대외 갈등과 대만 위협론을 활용해 정부에 대한 시민들의 비판을 완화하고 금년 가을 시진핑 주석의 3연임을 준비\r\n\r\n- [전망 및 시사점] 우크라이나 사태 이후 중국이 러시아와의 연합을 공고화하면서 미국과 중국을 중심으로 한 국제질서의 양극화가 가속화되는 한편, 중국이 대외 강경책을 지속하고 대만 등에 대한 압력을 강화하면서 향후 국제정세의 불확실성이 더욱 높아질 전망\r\n ？ (중-러 연합 공고화) 중국이 러시아에 △기업 자금결제 △유동성 확보 △원유수입 확대 등을 지원하면서 일부 자국 기업의 피해를 무릅쓰고 협력을 지속할 전망\r\n ？ (반중 연대 가속화) 우크라이나 사태 이후 중국에 대한 반감이 더욱 높아지면서 서구 민주주의를 중심으로 한 미국과 EU 등의 공조가 더욱 강화될 것으로 예상\r\n ？ (대외 강경책 심화) 우크라이나 사태로 미중 갈등이 한층 심화되면서 중국이 제3국과의 진영구축을 가속화하고 향후 대만 등에 대한 압력을 더욱 노골화할 소지. 금번 사태로 촉발된 유럽의 안보 위험이 미국의 아시아 편향적 전략을 제약하는 반면, 중국 입장에서 러시아와의 연대는 자원을 대만 등에 투입할 수 있는 기회를 제공",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165082",
+          "publishedOn": "2022-04-07T21:01:23.333Z",
+          "wordCount": 709,
+          "title": "우크라이나 사태 이후 중국의 대외정책 변화 및 시사점",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025",
+          "author": null,
+          "description": "대한상공회의소가 『MZ세대가 바라보는 ESG경영과 기업인식 조사』를 발표하였다.\r\n\r\n- MZ세대 380명 대상 조사... 64.5% ‘더 비싸도 ESG 실천기업 제품 구매’\r\n\r\n- MZ세대의 대표적 소비신념은? 가심비(46.6%)> 미닝아웃(28.7%)> 돈쭐(10.3%) 順\r\n\r\n- 파급효과 큰 친환경제품 : 무라벨 페트병(41.1%), 전기·수소차(36.3%) 등 생활 속 친숙한 제품\r\n\r\n- 기업 역할 ‘일자리 창출’(28.9%) 보다 ‘투명·윤리경영 실천’(51.3%) 많이 꼽아... 공정·정의 중시 인식 반영\r\n\r\n- 향후 ESG경영 확산위해 중요한 것? ‘전반적인 국민인식 향상’(38.4%), ‘법ㆍ제도적 지원(27.9%)’ 등 ESG가 기업경영의 화두를 넘어 사회적 트렌드가 되고 있는 가운데, 새로운 소비주체로 부상한 MZ세대들은 제품 구매 시 기업의 ESG경영 실천여부를 중요하게 인식하는 것으로 조사됐음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025",
+          "publishedOn": "2022-04-07T21:01:23.311Z",
+          "wordCount": 709,
+          "title": "MZ세대가 바라보는 ESG경영과 기업인식 조사",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1158,9 +1088,79 @@
           "author": null,
           "description": "자본시장연구원이 「？미국 테크 기업의 M&A 증가 및 규제 강화 움직임」？을 발표하였다.\r\n\r\n- 미국 테크 기업의 M&A는 증가추세를 나타내며, 특히 주요 빅테크 기업의 M&A가 활발하게 진행\r\n\r\n- 테크 기업의 M&A 증가는 디지털 사업의 수요 확대에 기인하며 사모펀드의 주도 하에 이루어짐\r\n\r\n- 미국 정부의 규제 강화 기조에도 불구하고 테크 기업의 M&A 증가추세가 지속되고 있는 가운데, 최근에도 미국 FTC와 법무부는 빅테크 기업의 시장 지배력을 약화시키기 위한 노력의 일환으로 M&A 승인 지침을 검토할 계획임을 밝힘\r\n\r\n- 국내에서도 빅테크 기업이 소규모 스타트업 등을 인수하며 시장점유율을 높여 나가는 것에 대응하여 공정거래위원회는 온라인플랫폼 기업에 대한 기업결합 심사기준을 보완할 계획",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165077",
-          "publishedOn": "2022-04-07T18:01:10.533Z",
+          "publishedOn": "2022-04-07T21:01:23.249Z",
           "wordCount": 709,
           "title": "미국 테크 기업의 M&A 증가 및 규제 강화 움직임",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165072",
+          "author": null,
+          "description": "국토연구원이 「아세안 국토·도시 ODA 상생협력 추진방안」을 발표하였다.\r\n\r\n- 민간기업의 해외 수주 확대를 위한 국익 추구 수단으로 국토·도시 ODA를 활용하는 경향이 강화되고 있지만, 아세안의 지속가능한 발전을 위한 핵심 수요에는 효과적으로 대응하지 못함.\r\n\r\n- 해외원조 기관은 국토·도시 개발의 전(全) 주기를 통합하는 전략을 중심으로 단위사업과 이행 주체 간 통합적 접근을 중시하고, 공여국의 국익을 추구하되, 국제개발협력의 원칙을 기반으로 하는 상생적 원조를 위해 노력함.\r\n\r\n- 본 브리프에서는 상생협력 ODA를 ‘수원국의 개발 효과와 공여국 국익 사이의 균형을 추구하여 상호 연계성이 강화될 수 있는 개발협력’으로 정의하고, 상생적 국토·도시 ODA를 위한 세 가지 기본방향을 제시함.\r\n · 제3차 ODA 기본계획에 포함된 국토·도시 추진과제가 SDGs 세부목표 달성에 기여하도록 노력\r\n · 수원국 국토 및 도시공간의 입체적이고 통합적인 계획과 개발 추구\r\n · 아세안 국가별 객관적 개발지표에 근거한 공간 중심의 융복합 지역개발 프로그램 지향？ \r\n\r\n- [정책방안] ① (전략체계) 국토교통부와 외교부를 중심으로 ‘국토·도시 ODA 범부처 통합전략’을 수립하고, 베트남, 인도네시아 등 중점 협력국가를 대상으로 국가협력전략(CPS)에 국가별 국토·도시개발협력 이행계획을 수록 ② (프로그램) 분야 중심의 ODA 사업발굴체계를 지역 중심체계로 전환하여 아세안 도시 수요에 기반한 ‘투자개발 융합형 지역개발 프로그램’을 강화하고, 수원국의 도시개발 요청자료 인벤토리를 구축하여 지역개발형 신규 사업정보를 구축 ③ (거버넌스 및 모니터링) 공간정보데이터 기반의 범용적 국토·도시 ODA 통합플랫폼을 구축하여 수원국 도시개발 현황 데이터와 범부처 ODA 사업자료 활용의 접근성을 높이고, 장기적이고 통합적인 상생협력 이행기반을 마련",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165072",
+          "publishedOn": "2022-04-07T21:01:23.232Z",
+          "wordCount": 709,
+          "title": "아세안 국토·도시 ODA 상생협력 추진방안",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165083",
+          "author": null,
+          "description": "한국은행이 「2021년 강원경제 Brief」를 발표하였다.\r\n\r\n- (자영업자 특징) 강원지역내 자영업자 수는 금년들어 큰 폭 감소하였으며, 타 지역에 비해 규모가 영세하고 높은 밀집도로 인해 수익성이 낮은 상황\r\n\r\n- (자영업자 대출 특징) 2012년 이후 강원지역 자영업자 대출은 두자리 수의 높은 증가율을 기록하고 있으며, 최근 들어 자영업자의 가계대출 증가율보다 사업자대출 증가율이 더욱 높게 나타남.\r\n\r\n- (자영업자 대출 건전성) 고신용자 대출 비중이 꾸준히 상승하고 있는 등 강원지역 자영업자 대출 건전성은 전반적으로 양호한 편이나, 타 지역 대비 저신용등급 차주 비중이 높은 것으로 나타남.\r\n\r\n- (시사점) 강원지역 자영업자의 영세성 완화를 위한 정책적 노력이 긴요하며, 자영업 경쟁력 향상을 통한 수익성 확보를 위해 교육훈련 등 창업지원정책 마련에도 관심을 기울일 필요. 또한 음식·숙박업 등 전통적 과밀업종에 대한 창업수요를 강원지역의 특색이 반영된 유망 업종으로 유도할 필요",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165083",
+          "publishedOn": "2022-04-07T21:01:23.214Z",
+          "wordCount": 709,
+          "title": "2021년 강원경제 Brief",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165078",
+          "author": null,
+          "description": "통일연구원이 『북한 김여정의 대남 담화와 선제타격론 제기 배경』을 발표하였다.\r\n\r\n- 북한의 최근 대남 비난 수위가 예사롭지 않음. 지난 1~3월 대남선전매체를 통한 대남 비난이 증가했고 특히 대선 이후 급증하고 있음. 여기에 김여정 조선노동당 부부장이 2, 4일 각각 한 차례씩, 군을 대표하는 박정천 당 중앙위 비서가 2일 한 차례에 걸쳐 대남 공세에 가세했음. \r\n\r\n- 이번 김여정 부부장과 박정천 비서의 담화는 표면적으로 지난 1일 서욱 국방장관이 육군 미사일전략사령부와 공군 미사일방어사령부 개편식에 참석해 “(북한의) 미사일 발사 징후가 명확할 경우에는 발사 원점과 지위, 지원 시설을 정밀 타격할 수 있는 능력과 태세도 갖추고 있다”고 발언한 것을 문제 삼았음. ‘선제타격’론으로 규정하고 비난하는 담화임. \r\n\r\n- 올해 들어 증가해 온 대남 비난을 포함 김여정 부부장의 재등장, 선제타격론에 대한 민감 반응, 핵보유국 강조 등은 향후 북한이 취할 대남 전략 및 전술적 태도를 가늠해 볼 수 있는 텍스트로 볼 수 있음. 이 글은 이번 담화에 대한 내용분석, 최근 북한의 대남 비난 추이, 선제타격론 문제제기의 의도와 배경, 향후 예상되는 대남 전략에 대해 분석함.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165078",
+          "publishedOn": "2022-04-07T21:01:23.204Z",
+          "wordCount": 709,
+          "title": "북한 김여정의 대남 담화와 선제타격론 제기 배경",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165081",
+          "author": null,
+          "description": "IBK기업은행 경제연구소가 『美기준금리 인상 및 유가 상승이 국내경제에 미치는 영향』을 발표하였다.\r\n\r\n- 美기준금리 인상이 시작되고,우크라이나 사태로 글로벌 유가가 급등하면서 해외요인 충격에 대한 국내경제 영향 분석 필요성 증가. GlobalVAR(GVAR)모형을 중소기업 산업생산 등 분석필요 분야를 확충하고 최신자료(’21.Q4)로 업데이트한 후 분석",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165081",
+          "publishedOn": "2022-04-07T21:01:12.461Z",
+          "wordCount": 709,
+          "title": "美기준금리 인상 및 유가 상승이 국내경제에 미치는 영향",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165076",
+          "author": null,
+          "description": "국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.6)’을 발표하였다.\r\n\r\n- [동향] 美·EU, 러시아 추가 제재 방안 구체화. 우크라이나 대통령 UN 연설 등\r\n\r\n- [금융시장 반응] 美 주가, 긴축 가속화 우려로 하락. 국제유가는 소폭 하락\r\n\r\n- [해외시각] 세계경제에 대한 긍정적 및 부정적 시각 혼재. 국제관계 다기화 예상 등",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165076",
+          "publishedOn": "2022-04-07T21:01:12.448Z",
+          "wordCount": 709,
+          "title": "최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.6)",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165075",
+          "author": null,
+          "description": "한국은행이 「통합기후모형을 통한 제주지역의 기후변화 피해비용 추정」을 발표하였다.\r\n\r\n- EU, 미국, 호주 등의 선진국들은 기후변화에 적극 대응하기 위해 각국의 지역별 상황에 맞는 연구보고서를 발간하고 이를 바탕으로 체계적인 기후변화대응 정책수립에 박차를 가하고 있음. 이러한 배경하에 제주도 기후변화의 경제적 비용에 대한 종합적이고 체계적인 경제학적 분석은 제주도의 특성에 맞는 기후변화 적응 및 완화 정책 수립을 위해서 매우 중요하다 할 수 있음. 그러나 대부분의 국내 기후변화 영향 연구는 일부 산업 등에 미치는 개별 효과 추정을 중심으로 한정되어 있고, 통합기후모형을 통한 기후변화의 종합적인 경제피해 비용, 또는 탄소의 사회적 비용 추정은 아직 미미한 상태임. \r\n\r\n- 본 연구는 최신 통합기후모형인 Golosov, Hassler, Krusell, and Tsyvinski (2014)를 통하여 제주도에서의 탄소의 사회적 비용을 국내 최초로 추정하였음. 본 연구의 분석에 따르면 2019년 기준으로 제주도에서 탄소 배출로 인한 연평균 총 사회적 비용은 약 205~365억 원 정도로 추정되었음. 이는 전국 단위 총 탄소의 사회적 비용의 약 2~4% 해당하는 수치로 나타남. 제주도 지역내총생산이 전국대비 약 1% 수준임을 고려해 봤을 때 제주도의 기후변화 피해비용이 타 지자체에 비해 상대적으로 높음을 알 수 있음. 탄소의 사회적 비용을 1톤당 비용으로 전환 하였을 때도 제주도에서의 비용은 약 16,000원~29,000원 사이로 전국 평균 대비 약 3배 이상인 것으로 추정이 되었음.\r\n\r\n- 본 연구의 결과는 여러 가지 정책적 함의를 지님. 첫째, 본 연구에서 추정된 탄소의 사회적 비용은 제주도의 최적 탄소저감정책 수립 시 기초적인 핵심 정보로 사용될 수 있음. 둘째, 본 연구는 좀 더 심도 깊은 제주도의 탄소의 사회적 비용 추정을 위해서는 미시적 산업구조를 고려한 통합기후모형의 개발이 필요함을 보여줌으로써 추후 연구를 위한 가이드라인도 제시함. 마지막으로 본 연구에서 추정된 국내 그리고 제주도에서의 최적 탄소가격은 기후변화관련 국제협상시 우리나라에 도움을 될 수 있는 주요한 근거자료도 활용할 수 있을 것으로 예상됨.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165075",
+          "publishedOn": "2022-04-07T21:01:12.377Z",
+          "wordCount": 709,
+          "title": "통합기후모형을 통한 제주지역의 기후변화 피해비용 추정",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165073",
+          "author": null,
+          "description": "자본시장연구원이 『4차 산업혁명 시대의 금융산업 중장기 발전전략』을 발표하였다.\r\n\r\n- 과거 한국 금융은 중후장대형 산업에 대한 자금 지원에 치중하였고, 대면 중심의 금융서비스를 제공해왔기 때문에 한국 금융이 4차 산업혁명을 선도하려면 중장기 발전전략을 수정하는 것이 필요함. \r\n\r\n- 대표적으로 2003년 도입한 동북아 금융허브 전략과 2009년부터 시행ㆍ발전해 온 금융중심지 제도를 개편하여 4차 산업혁명 시대에 걸맞은 디지털 금융중심지 전략을 재수립할 필요가 있으며, 더불어 한국 금융산업이 4차 산업혁명을 선도할 수 있도록 세 가지 중장기 발전전략을 제시함. \r\n\r\n- 첫째, IP(지식재산권) 금융과 자본시장 중심 기업구조조정 활성화 등을 통해 창업－성장－회수의 혁신기업 성장 단계에서 모험자본 공급을 확대해야 함.\r\n\r\n- 둘째, 핀테크 활성화를 위해 금융규제를 네거티브 방식과 원칙 중심으로 개선하고 이를 뒷받침하기 위해 징벌적 과징금 도입 등 행정제재를 강화하는 것이 필요함.\r\n\r\n- 셋째, 4차 산업혁명의 꽃인 거대 데이터댐을 구축하고 이를 과감히 개방하는 등 데이터 인프라 혁신이 필요함.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165073",
+          "publishedOn": "2022-04-07T21:01:12.354Z",
+          "wordCount": 709,
+          "title": "4차 산업혁명 시대의 금융산업 중장기 발전전략",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         }
       ]
