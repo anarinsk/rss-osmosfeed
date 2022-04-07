@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T21:01:45.959Z</id>
+    <id>urn:2022-04-07T00:02:55.356Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-04-06T21:01:45.959Z</updated>
+    <updated>2022-04-07T00:02:55.356Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Real effects of stabilizing private money creation]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165057</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165057"/>
+        <updated>2022-04-07T00:02:45.180Z</updated>
+        <summary type="html"><![CDATA[We show that decentralized privately created money with unstable values can hinder the traded, more transaction-friction sensitive, sector of the economy. We do so in the context of the National Banking Act of 1864 in the United States that created a new federally-regulated, fully-backed currency as an alternative to the pre-existing money supply, which consisted of unsecured notes printed by thousands of local private banks. Using a discontinuous change across towns in the costs of accessing this new type of stable, federally-backed money as a natural experiment, we show that places gaining access to the new currency experienced a shift in the composition of agricultural production from non-traded to traded goods and increased employment in trade-related professions. In addition, counties gaining access to the new stable money increased their manufacturing output by sourcing more inputs, and they innovated more, all consistent with the stable currency improving their market access and allowing them to expand through trade.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eighth District Businesses Report Stronger Inflationary Pressures]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165058</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165058"/>
-        <updated>2022-04-06T21:01:45.915Z</updated>
+        <updated>2022-04-07T00:02:45.005Z</updated>
         <summary type="html"><![CDATA[To gain a deeper understanding of the regional economy, the Federal Reserve Bank of St. Louis conducts a quarterly survey of businesses in the Eighth District. The results of the survey are regularly reported in the St. Louis Fed’s contribution to the Beige Book report on national and regional economic conditions.
 
 With elevated rates of inflation in the economy and widespread interest in factors driving current inflation, this two-part blog series takes a closer look at the survey results pertaining to firms’ prices charged and input costs. The first post will look at the price pressures facing regional businesses, and the second post will focus on their response to this inflationary environment.]]></summary>
@@ -18,74 +28,61 @@ With elevated rates of inflation in the economy and widespread interest in facto
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethical AI development: Evidence from AI startups]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165041</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165041"/>
-        <updated>2022-04-06T21:01:45.740Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence startups use training data as direct inputs in product development. These firms must balance numerous trade-offs between ethical issues and data access without substantive guidance from regulators or existing judicial precedence. We survey these startups to determine what actions they have taken to address these ethical issues and the consequences of those actions. We find that 58% of these startups have established a set of AI principles. Startups with data-sharing relationships with high-technology firms; that were impacted by privacy regulations; or with prior (non-seed) funding from institutional investors are more likely to establish ethical AI principles. Lastly, startups with data-sharing relationships with high-technology firms and prior regulatory experience with General Data Protection Regulation are more likely to take costly steps, like dropping training data or turning down business, to adhere to their ethical AI policies.]]></summary>
+        <title type="html"><![CDATA[Saving and Wealth Accumulation among Student Loan Borrowers: Implications for Retirement Preparedness]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165063</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165063"/>
+        <updated>2022-04-07T00:02:44.984Z</updated>
+        <summary type="html"><![CDATA[Borrowing for education has increased rapidly in the past several decades, such that the majority of non-housing debt on US households‘ balance sheets is now student loan debt. This chapter analyzes the implications of student loan borrowing for later-life economic well-being, with a focus on retirement preparation. We demonstrate that families holding student loan debt later in life have less savings than their similarly educated peers without such debt. However, these comparisons are misleading if the goal is to characterize the experience of the typical student borrower, as they fail to account for student borrowers who already paid off their debt. We develop strategies to locate families that ever financed their education with student loans in two large datasets which enables us to draw more meaningful comparisons. We find that student loan borrowers roughly follow the earnings, saving, and wealth trajectories of other college-educated families into late-career ages and are much better off financially than those that did not attend college.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간이슈(4.4) : 러시아의 가스공급 중단 여부와 금주 도래 채무지급에 주목]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165071</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165071"/>
-        <updated>2022-04-06T21:01:45.605Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘주간이슈(4.4) : 러시아의 가스공급 중단 여부와 금주 도래 채무지급에 주목’을 발표하였다.
-
-- 러시아의 가스 공급 중단 여부와 금주 도래하는 채무 지급 여부에 주목
-
-- 유로존 PPI, 중국 서비스업지수 등 주요 경제지표의 악화 여부에 관심
-
-- 3월 FOMC 의사록 공개. 향후 정책금리 및 QT 속도 등 상세 논의를 가늠
-
-- 호주 정책금리 동결하나 조만간 인상 예상. 인도는 빠르면 금주 인상 모색 
-
-- 1분기 미국 기업들의 어닝시즌 개막. 이익증가율 큰 폭 둔화 추정
-
-- 4.10일 프랑스 대선 실시. 마크롱 대통령의 재선 여부에 관심]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[For inflation relief, the United States should look to trade liberalization]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165042</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165042"/>
-        <updated>2022-04-06T21:01:45.491Z</updated>
+        <updated>2022-04-07T00:02:44.607Z</updated>
         <summary type="html"><![CDATA[With US inflation running at 40-year high rates, the Federal Reserve is signaling more interest rate hikes in 2022 and 2023. President Joseph R. Biden Jr. has also vowed to act against what he calls anticompetitive behavior by corporations. But policymakers are overlooking one set of actions that could make a meaningful contribution to taming inflation: trade liberalization. The data cited in this Policy Brief indicate that a feasible package of liberalization could deliver a one-time reduction in consumer price index (CPI) inflation of around 1.3 percentage points, amounting to $797 per US household, about half the size of pandemic relief in 2021. As a bonus, the embrace of trade liberalization would curb inflationary expectations taking hold in American firms now protected by trade barriers from foreign competition.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MPFD Working Paper on Infrastructure Financing in Kyrgyzstan]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165060</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165060"/>
-        <updated>2022-04-06T21:01:45.329Z</updated>
-        <summary type="html"><![CDATA[This study assesses the landscape of Kyrgyzstan’s infrastructure financing. It starts with an analysis of the investment needs in the
-various sectors of infrastructure. It then proceeds with an assessment of the financing sources available to Kyrgyzstan in addressing these investment needs. Following an analysis of the challenges in developing infrastructure in Kyrgyzstan, the paper outlines the opportunities and modalities to expanding infrastructure finance and offers recommendations to unlock them.]]></summary>
+        <title type="html"><![CDATA[After the new normal: Scenarios for Europe in the post Covid-19 world]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165066</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165066"/>
+        <updated>2022-04-07T00:02:44.589Z</updated>
+        <summary type="html"><![CDATA[The purpose of the study ‘After the new normal : scenarios for Europe in the post Covid-19‘ world was to chart the scope of change that the Covid-19 pandemic may bring to the context of the EU itself and EU R&I policy. Five scenarios were designed in a process including the Horizon Europe Network - with horizon scanning, online workshops and scenario writing. The five context scenarios are: The long recession, Back to ‘normal’? Big Tech shapes Europe, The Circular Economy and Green Utopia - new hope. They include the numerous disruptions to our daily lives from the Covid-19 lock-downs to 2040 and describe the extent, to which the pandemic might raise new requirements for the EU’s future policy frameworks, initiatives and programmes, for example in terms of impact, time horizon of projects or investments.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Innovative capacity of governments: A systemic framework]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165044</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165044"/>
-        <updated>2022-04-06T21:01:45.319Z</updated>
-        <summary type="html"><![CDATA[Public sector innovation is about finding new and better ways to achieve positive public outcomes. The increased complexity of the challenges faced by governments has made enhancing the innovative capacity of governments and public sector systems an imperative. But for innovative approaches or solutions to create lasting impact, they must be embedded as part of existing systems. In the same way, a public sector’s capacity to innovate depends on whether innovation is embedded in the functions and mechanisms of government. To assist governments in achieving this this, the OECD Observatory of Public Sector Innovation (OPSI) developed the Innovative Capacity Framework. It focuses on the innovative capacity of existing public sector systems and their governing mechanisms, rules, processes, norms and other factors. The Framework includes guidelines for making innovation an integral part of policy making and administration and for improving the capacity of governments to quickly adapt to changing environments and, ultimately, build more robust and sustainable solutions.]]></summary>
+        <title type="html"><![CDATA[Ethical AI development: Evidence from AI startups]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165041</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165041"/>
+        <updated>2022-04-07T00:02:44.571Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence startups use training data as direct inputs in product development. These firms must balance numerous trade-offs between ethical issues and data access without substantive guidance from regulators or existing judicial precedence. We survey these startups to determine what actions they have taken to address these ethical issues and the consequences of those actions. We find that 58% of these startups have established a set of AI principles. Startups with data-sharing relationships with high-technology firms; that were impacted by privacy regulations; or with prior (non-seed) funding from institutional investors are more likely to establish ethical AI principles. Lastly, startups with data-sharing relationships with high-technology firms and prior regulatory experience with General Data Protection Regulation are more likely to take costly steps, like dropping training data or turning down business, to adhere to their ethical AI policies.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Year Older, A Year Wiser (and Farther from Frontier): Invention Rents and Human Capital Depreciation]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165053</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165053"/>
-        <updated>2022-04-06T21:01:45.208Z</updated>
-        <summary type="html"><![CDATA[We look at how the arrival of an invention affects wage returns and probability of moving out of employment for white- and blue-collar coworkers of the inventor. First results suggest that older workers are hurt by the arrival of an invention. This negative effect disappears when we control for education and, in particular, for time that since obtaining the last formal degree, i.e., distance to human capital frontier. If anything, this effect is slightly higher for non-STEM than STEM-educated co-workers. This result suggests that retraining programs could be helpful in making the process of creative destruction and economic growth more inclusive.]]></summary>
+        <title type="html"><![CDATA[The Power of Certainty: Experimental Evidence on the Effective Design of Free Tuition Programs]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165052</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165052"/>
+        <updated>2022-04-07T00:02:44.557Z</updated>
+        <summary type="html"><![CDATA[Proposed ＂free college＂ policies vary widely in design. The simplest approach sets tuition to zero for everyone. More targeted approaches limit free tuition to those who successfully demonstrate need through an application process. We experimentally test the effects of these two models on the schooling decisions of low-income students. An unconditional free tuition offer from a large public university substantially increases application and enrollment rates. A free tuition offer contingent on proof of need has a much smaller effect on application and none on enrollment. The results suggest students place a high value on financial certainty when making schooling decisions.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Globally Engaged Firms in the COVID-19 Crisis]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165065</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165065"/>
+        <updated>2022-04-07T00:02:44.534Z</updated>
+        <summary type="html"><![CDATA[This paper analyzes the initial impact and recovery of globally engaged firms from the COVID-19 crisis. It uses rich survey data of nearly 65,000 firm-year observations in 45 countries spanning three waves of data collection. The findings are organized in a series of stylized facts, which suggest that although the pandemic had an immediate adverse impact on most firms, the globally engaged ones are recovering faster, possibly due to their higher capabilities. Among globally engaged firms, those directly involved with international markets show better recovery than the ones that were indirectly involved. These results mask wide variation by firm traits, sectoral attributes, and country characteristics. At the core of the recovery of globally engaged firms is their heightened response to the crisis by finding novel ways to adapt supply chains even in the presence of lockdowns and uncertainty. These firms swiftly digitalized, introduced new products and changed their markets and sources of inputs. Over and above their capabilities, global engagement cushions firms against shocks. Policymakers could therefore facilitate global linkages by providing information on potential markets and products, by making production flexible in terms of facilitating remote work, reducing the rigidity of contracts; and incentivizing financial institutions to issue instruments that reduce uncertainty risk.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -94,7 +91,7 @@ various sectors of infrastructure. It then proceeds with an assessment of the fi
         <title type="html"><![CDATA[SNAP supports rural families | American Enterprise Institute]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165061</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165061"/>
-        <updated>2022-04-06T21:01:45.199Z</updated>
+        <updated>2022-04-07T00:02:44.509Z</updated>
         <summary type="html"><![CDATA[The Supplemental Nutrition Assistance Program (SNAP) enables many Americans to purchase the food they need through an efficient, market-based approach that has a stimulus effect during economic downturns.
 
 During the COVID-19 pandemic, Congress increased SNAP benefits, resulting in $387 million in additional benefits flowing to residents of rural counties.
@@ -105,64 +102,11 @@ Although SNAP benefits reduced the rural poverty rate by 1.4 percent in 2020, fo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Six Steps to Responsible AI in the Federal Government]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165056</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165056"/>
-        <updated>2022-04-06T21:01:45.178Z</updated>
-        <summary type="html"><![CDATA[This report from The Brookings Institution’s Artificial Intelligence and Emerging Technology (AIET) Initiative is part of “AI Governance,” a series that identifies key governance and norm issues related to AI and proposes policy remedies to address the complex challenges associated with emerging technologies.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithmic Audit for Decision-Making or Decision Support Systems]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165067</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165067"/>
-        <updated>2022-04-06T21:01:45.161Z</updated>
-        <summary type="html"><![CDATA[Automated decision support systems (ADS) are machine-based systems that can make predictions, recommendations, or decisions influencing real or virtual environments for a given set of human-defined objectives. These systems are designed to operate with varying levels of autonomy. Over the last few years, ADS have grown exponentially in number and application areas. Currently, we interact with an increasing number of ADS, often without even noticing it. However, the lack of awareness about their use does not reduce the social risks if these systems are poorly designed or created without taking the necessary precautions.
-
-This guide seeks to serve as an instrument that helps raise awareness of the implications and consequences of implementing automated systems in making or supporting decisions that affect peoples lives. While audits have become a fundamental component in the growing field of algorithmic governance, they are not sufficient to mitigate the impact of a systems implementation and execution; they are basically a process to determine compliance with some standards. However, audits play a crucial role in impact assessment and information gathering and availability, for the entity itself and regulatory entities, and also for those potentially affected and the society as a whole.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of Certainty: Experimental Evidence on the Effective Design of Free Tuition Programs]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165052</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165052"/>
-        <updated>2022-04-06T21:01:45.134Z</updated>
-        <summary type="html"><![CDATA[Proposed ＂free college＂ policies vary widely in design. The simplest approach sets tuition to zero for everyone. More targeted approaches limit free tuition to those who successfully demonstrate need through an application process. We experimentally test the effects of these two models on the schooling decisions of low-income students. An unconditional free tuition offer from a large public university substantially increases application and enrollment rates. A free tuition offer contingent on proof of need has a much smaller effect on application and none on enrollment. The results suggest students place a high value on financial certainty when making schooling decisions.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real effects of stabilizing private money creation]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165057</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165057"/>
-        <updated>2022-04-06T21:01:45.096Z</updated>
-        <summary type="html"><![CDATA[We show that decentralized privately created money with unstable values can hinder the traded, more transaction-friction sensitive, sector of the economy. We do so in the context of the National Banking Act of 1864 in the United States that created a new federally-regulated, fully-backed currency as an alternative to the pre-existing money supply, which consisted of unsecured notes printed by thousands of local private banks. Using a discontinuous change across towns in the costs of accessing this new type of stable, federally-backed money as a natural experiment, we show that places gaining access to the new currency experienced a shift in the composition of agricultural production from non-traded to traded goods and increased employment in trade-related professions. In addition, counties gaining access to the new stable money increased their manufacturing output by sourcing more inputs, and they innovated more, all consistent with the stable currency improving their market access and allowing them to expand through trade.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saving and Wealth Accumulation among Student Loan Borrowers: Implications for Retirement Preparedness]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165063</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165063"/>
-        <updated>2022-04-06T21:01:45.066Z</updated>
-        <summary type="html"><![CDATA[Borrowing for education has increased rapidly in the past several decades, such that the majority of non-housing debt on US households‘ balance sheets is now student loan debt. This chapter analyzes the implications of student loan borrowing for later-life economic well-being, with a focus on retirement preparation. We demonstrate that families holding student loan debt later in life have less savings than their similarly educated peers without such debt. However, these comparisons are misleading if the goal is to characterize the experience of the typical student borrower, as they fail to account for student borrowers who already paid off their debt. We develop strategies to locate families that ever financed their education with student loans in two large datasets which enables us to draw more meaningful comparisons. We find that student loan borrowers roughly follow the earnings, saving, and wealth trajectories of other college-educated families into late-career ages and are much better off financially than those that did not attend college.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Relative Poverty through Peer Rankings: Evidence from C^ote d‘Ivoire]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165055</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165055"/>
-        <updated>2022-04-06T21:01:45.040Z</updated>
-        <summary type="html"><![CDATA[We investigate a method for eliciting relative poverty rankings that aggregates partial poverty rankings obtained from multiple individuals. We first demonstrate that the method works in principle, then apply it in urban C^ote d‘Ivoire. We find that constructed rankings are often incomplete, not always transitive and sometimes contain cycles. Pairwise rankings reported by respondents and constructed aggregate
-rankings are poorly correlated with measures of poverty obtained from survey data. Measuring relative poverty through peer rankings appears difficult in urban and periurban settings.]]></summary>
+        <title type="html"><![CDATA[Innovative capacity of governments: A systemic framework]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165044</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165044"/>
+        <updated>2022-04-07T00:02:44.488Z</updated>
+        <summary type="html"><![CDATA[Public sector innovation is about finding new and better ways to achieve positive public outcomes. The increased complexity of the challenges faced by governments has made enhancing the innovative capacity of governments and public sector systems an imperative. But for innovative approaches or solutions to create lasting impact, they must be embedded as part of existing systems. In the same way, a public sector’s capacity to innovate depends on whether innovation is embedded in the functions and mechanisms of government. To assist governments in achieving this this, the OECD Observatory of Public Sector Innovation (OPSI) developed the Innovative Capacity Framework. It focuses on the innovative capacity of existing public sector systems and their governing mechanisms, rules, processes, norms and other factors. The Framework includes guidelines for making innovation an integral part of policy making and administration and for improving the capacity of governments to quickly adapt to changing environments and, ultimately, build more robust and sustainable solutions.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -171,7 +115,7 @@ rankings are poorly correlated with measures of poverty obtained from survey dat
         <title type="html"><![CDATA[Emerging trends in census approaches in Asia and the Pacific (with country examples)]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165059</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165059"/>
-        <updated>2022-04-06T21:01:45.031Z</updated>
+        <updated>2022-04-07T00:02:44.466Z</updated>
         <summary type="html"><![CDATA[A population census has been a long-standing central responsibility of a National Statistical Office (NSO). Its scope and objectives have remained very similar over time; however, aspects of its methodology have evolved as technology has developed and demands have changed.
 
 The main aim of a population and housing census is to fully enumerate a country’s population and housing conditions to provide detailed demographic and socio-economic data at highly disaggregated geographical levels and for subpopulations. They provide a primary source of data needed for formulating, implementing, and monitoring a range of policies and programmes within a country, and comparing between countries. In recent decades, both national and international frameworks for development, such as the Millennium Development Goals and the subsequent Sustainable Development Goals, have all increased the need for more comprehensive and granular demographic and socio-economic data to monitor the
@@ -181,62 +125,74 @@ progress towards these goals. In this context, population and housing censuses p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joined at the Hip: Monetary and Fiscal Policy in a Liquidity-Dependent World]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165051</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165051"/>
-        <updated>2022-04-06T21:01:45.022Z</updated>
-        <summary type="html"><![CDATA[We study the effects of monetary and fiscal policies when both money and government bonds provide liquidity services. Because money is the unit of account, the price of money is the inverse of the price level. If prices are sticky, so is the price of money in terms of goods, and this is one important reason why money is liquid and attractive. By contrast, the price of government bonds is free to jump and often does, especially in response to news about changes in fiscal policy and the supply of bonds. Those movements in government bond prices affect available liquidity, and therefore aggregate demand, inflation and output. Under these conditions, bond-financed fiscal expansions can be contractionary, causing deflation and a temporary recession. To avoid those effects, changes in bond supply must be matched by changes in money supply and in the interest rate on money. We conclude that in a liquidity-dependent world, fiscal and monetary policies are joined at the hip.]]></summary>
+        <title type="html"><![CDATA[Domestic and External Monetary Policy Shocks and Economic Inequality in the Republic of Korea]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165062</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165062"/>
+        <updated>2022-04-07T00:02:44.443Z</updated>
+        <summary type="html"><![CDATA[This paper investigates the effects of monetary policy shocks on income and wealth inequalities in the Republic of Korea. Using the detailed Household Income and Expenditure Survey and Korean Labor and Income Panel Study data, we construct measures of income and wealth inequality for the Korean economy. Empirical results show that both domestic and external monetary policy shocks exert significant countercyclical effects on income inequality. For wealth inequality, however, the effects are very different. Whereas domestic monetary policy shocks are insignificant, external policy shocks proxied by fluctuations in net capital flows seem to have significant effects on net wealth inequality.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monetary Policy in a Model of Growth]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165064</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165064"/>
-        <updated>2022-04-06T21:01:45.004Z</updated>
-        <summary type="html"><![CDATA[Empirical evidence suggests that recessions have long-run effects on the economy‘s productive capacity. Recent literature embeds endogenous growth mechanisms within business cycle models to account for these ＂scarring＂ effects. The optimal conduct of monetary policy in these settings, however, remains largely unexplored. This paper augments the standard sticky-price New Keynesian (NK) to allow for endogenous dynamics in aggregate productivity. The model has a representation similar to the two-equation NK model, with an additional condition linking productivity growth to current and expected future output gaps. Absent state contingency in the subsidies that correct the externalities associated with productivity growth, optimal monetary policy sets inflation above target whenever the subsidies fall short of the externalities. In the recovery from a spell at the ZLB, the optimal discretionary policy sets inflation temporarily above target, helping mitigate the long-run damage. Following a cost-push shock that creates inflationary pressure, the central bank tolerates a larger rise in inflation than in a model with exogenous productivity. The gains from commitment include the central bank‘s ability to make credible promises about future output gaps in a way that allows it to manipulate current productivity growth.]]></summary>
+        <title type="html"><![CDATA[Algorithmic Audit for Decision-Making or Decision Support Systems]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165067</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165067"/>
+        <updated>2022-04-07T00:02:44.418Z</updated>
+        <summary type="html"><![CDATA[Automated decision support systems (ADS) are machine-based systems that can make predictions, recommendations, or decisions influencing real or virtual environments for a given set of human-defined objectives. These systems are designed to operate with varying levels of autonomy. Over the last few years, ADS have grown exponentially in number and application areas. Currently, we interact with an increasing number of ADS, often without even noticing it. However, the lack of awareness about their use does not reduce the social risks if these systems are poorly designed or created without taking the necessary precautions.
+
+This guide seeks to serve as an instrument that helps raise awareness of the implications and consequences of implementing automated systems in making or supporting decisions that affect peoples lives. While audits have become a fundamental component in the growing field of algorithmic governance, they are not sufficient to mitigate the impact of a systems implementation and execution; they are basically a process to determine compliance with some standards. However, audits play a crucial role in impact assessment and information gathering and availability, for the entity itself and regulatory entities, and also for those potentially affected and the society as a whole.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[’22.3월 美 기준금리 인상과 향후 전망]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164985</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000164985"/>
-        <updated>2022-04-06T21:01:44.995Z</updated>
-        <summary type="html"><![CDATA[KDB미래전략연구소가 「’22.3월 美 기준금리 인상과 향후 전망」을 발표하였다.
-
-- 미 연준은 3월 FOMC에서 인플레이션 대응을 위해 기준금리 25bp 인상을 단행. 향후 ’22년 중 25bp씩 6차례 기준금리 인상이 예상되나, 50bp 이상 인상하는 빅스텝을 밟을 가능성도 배제할 수 없는 상황]]></summary>
+        <title type="html"><![CDATA[Measuring Relative Poverty through Peer Rankings: Evidence from C^ote d‘Ivoire]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165055</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165055"/>
+        <updated>2022-04-07T00:02:44.400Z</updated>
+        <summary type="html"><![CDATA[We investigate a method for eliciting relative poverty rankings that aggregates partial poverty rankings obtained from multiple individuals. We first demonstrate that the method works in principle, then apply it in urban C^ote d‘Ivoire. We find that constructed rankings are often incomplete, not always transitive and sometimes contain cycles. Pairwise rankings reported by respondents and constructed aggregate
+rankings are poorly correlated with measures of poverty obtained from survey data. Measuring relative poverty through peer rankings appears difficult in urban and periurban settings.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4차 산업혁명 시대의 금융산업 중장기 발전전략]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165073</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165073"/>
-        <updated>2022-04-06T21:01:44.986Z</updated>
-        <summary type="html"><![CDATA[자본시장연구원이 『4차 산업혁명 시대의 금융산업 중장기 발전전략』을 발표하였다.
-
-- 과거 한국 금융은 중후장대형 산업에 대한 자금 지원에 치중하였고, 대면 중심의 금융서비스를 제공해왔기 때문에 한국 금융이 4차 산업혁명을 선도하려면 중장기 발전전략을 수정하는 것이 필요함. 
-
-- 대표적으로 2003년 도입한 동북아 금융허브 전략과 2009년부터 시행ㆍ발전해 온 금융중심지 제도를 개편하여 4차 산업혁명 시대에 걸맞은 디지털 금융중심지 전략을 재수립할 필요가 있으며, 더불어 한국 금융산업이 4차 산업혁명을 선도할 수 있도록 세 가지 중장기 발전전략을 제시함. 
-
-- 첫째, IP(지식재산권) 금융과 자본시장 중심 기업구조조정 활성화 등을 통해 창업－성장－회수의 혁신기업 성장 단계에서 모험자본 공급을 확대해야 함.
-
-- 둘째, 핀테크 활성화를 위해 금융규제를 네거티브 방식과 원칙 중심으로 개선하고 이를 뒷받침하기 위해 징벌적 과징금 도입 등 행정제재를 강화하는 것이 필요함.
-
-- 셋째, 4차 산업혁명의 꽃인 거대 데이터댐을 구축하고 이를 과감히 개방하는 등 데이터 인프라 혁신이 필요함.]]></summary>
+        <title type="html"><![CDATA[MPFD Working Paper on Infrastructure Financing in Kyrgyzstan]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165060</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165060"/>
+        <updated>2022-04-07T00:02:44.341Z</updated>
+        <summary type="html"><![CDATA[This study assesses the landscape of Kyrgyzstan’s infrastructure financing. It starts with an analysis of the investment needs in the
+various sectors of infrastructure. It then proceeds with an assessment of the financing sources available to Kyrgyzstan in addressing these investment needs. Following an analysis of the challenges in developing infrastructure in Kyrgyzstan, the paper outlines the opportunities and modalities to expanding infrastructure finance and offers recommendations to unlock them.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Steps to Responsible AI in the Federal Government]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165056</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165056"/>
+        <updated>2022-04-07T00:02:44.310Z</updated>
+        <summary type="html"><![CDATA[This report from The Brookings Institution’s Artificial Intelligence and Emerging Technology (AIET) Initiative is part of “AI Governance,” a series that identifies key governance and norm issues related to AI and proposes policy remedies to address the complex challenges associated with emerging technologies.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Year Older, A Year Wiser (and Farther from Frontier): Invention Rents and Human Capital Depreciation]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165053</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165053"/>
+        <updated>2022-04-07T00:02:44.285Z</updated>
+        <summary type="html"><![CDATA[We look at how the arrival of an invention affects wage returns and probability of moving out of employment for white- and blue-collar coworkers of the inventor. First results suggest that older workers are hurt by the arrival of an invention. This negative effect disappears when we control for education and, in particular, for time that since obtaining the last formal degree, i.e., distance to human capital frontier. If anything, this effect is slightly higher for non-STEM than STEM-educated co-workers. This result suggests that retraining programs could be helpful in making the process of creative destruction and economic growth more inclusive.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quarterly Bulletin - 2022 Q1]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165054</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165054"/>
-        <updated>2022-04-06T21:01:44.976Z</updated>
+        <updated>2022-04-07T00:02:44.248Z</updated>
         <summary type="html"><![CDATA[The Covid-19 (Covid) pandemic has had a profound effect on the way we live our lives. It has impacted our relationship with the economy by changing the way we work and where we choose to live. And it has affected our relationship with money by accelerating the transition away from cash and towards digital payments.
 
 What are young people to make of all this? How can they prepare themselves for a financial and economic world that is changing so rapidly? Young people get their financial education from various sources - including at school and in the home. But provision can vary between schools, and some parents feel more comfortable than others talking to their children about money. The decline in cash use presents a specific challenge given its role in many children’s earliest financial education - from piggy banks to pocket money.
@@ -247,10 +203,46 @@ This article explores the provision of financial and economic education and how 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Monetary Policy in a Model of Growth]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165064</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165064"/>
+        <updated>2022-04-07T00:02:44.228Z</updated>
+        <summary type="html"><![CDATA[Empirical evidence suggests that recessions have long-run effects on the economy‘s productive capacity. Recent literature embeds endogenous growth mechanisms within business cycle models to account for these ＂scarring＂ effects. The optimal conduct of monetary policy in these settings, however, remains largely unexplored. This paper augments the standard sticky-price New Keynesian (NK) to allow for endogenous dynamics in aggregate productivity. The model has a representation similar to the two-equation NK model, with an additional condition linking productivity growth to current and expected future output gaps. Absent state contingency in the subsidies that correct the externalities associated with productivity growth, optimal monetary policy sets inflation above target whenever the subsidies fall short of the externalities. In the recovery from a spell at the ZLB, the optimal discretionary policy sets inflation temporarily above target, helping mitigate the long-run damage. Following a cost-push shock that creates inflationary pressure, the central bank tolerates a larger rise in inflation than in a model with exogenous productivity. The gains from commitment include the central bank‘s ability to make credible promises about future output gaps in a way that allows it to manipulate current productivity growth.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joined at the Hip: Monetary and Fiscal Policy in a Liquidity-Dependent World]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165051</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165051"/>
+        <updated>2022-04-07T00:02:44.196Z</updated>
+        <summary type="html"><![CDATA[We study the effects of monetary and fiscal policies when both money and government bonds provide liquidity services. Because money is the unit of account, the price of money is the inverse of the price level. If prices are sticky, so is the price of money in terms of goods, and this is one important reason why money is liquid and attractive. By contrast, the price of government bonds is free to jump and often does, especially in response to news about changes in fiscal policy and the supply of bonds. Those movements in government bond prices affect available liquidity, and therefore aggregate demand, inflation and output. Under these conditions, bond-financed fiscal expansions can be contractionary, causing deflation and a temporary recession. To avoid those effects, changes in bond supply must be matched by changes in money supply and in the interest rate on money. We conclude that in a liquidity-dependent world, fiscal and monetary policies are joined at the hip.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.1)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165021</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165021"/>
+        <updated>2022-04-07T00:02:44.175Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.1)’을 발표하였다.
+
+- [동향] 미, 사상 최대 규모 전략비축유 방출 계획. 러-우 평화회담 온라인 재개 예정
+
+- [금융시장 반응] 인플레이션 우려로 위험기피심리 강화. 미 비축유 방출로 유가 하락
+
+- [해외시각] 미 전략비축유(SPR) 방출 효과에 대해 회의적 시각 다수. 최근 수익률 곡선 평탄화에 따른 경기침체 우려는 과도하다는 평가]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[그럼에도 일본 경제를 주시해야 하는 이유]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165018</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165018"/>
-        <updated>2022-04-06T21:01:44.967Z</updated>
+        <updated>2022-04-07T00:02:44.168Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 『그럼에도 일본 경제를 주시해야 하는 이유』를 발표하였다.
 
 - [위상 하락] 1990년대 초반 버블 붕괴 이후 일본의 경제규모과 교역 등이 전세계에서 차지하는 비중이 계속 줄어들면서 일본경제에 대한 관심이 감소
@@ -271,46 +263,126 @@ This article explores the provision of financial and economic education and how 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.1)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165021</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165021"/>
-        <updated>2022-04-06T21:01:44.946Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.1)’을 발표하였다.
+        <title type="html"><![CDATA[최근의 유로지역 소비자물가 동향 및 전망]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165015</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165015"/>
+        <updated>2022-04-07T00:02:44.158Z</updated>
+        <summary type="html"><![CDATA[한국은행이 「최근의 유로지역 소비자물가 동향 및 전망」을 발표하였다.
 
-- [동향] 미, 사상 최대 규모 전략비축유 방출 계획. 러-우 평화회담 온라인 재개 예정
+- 유로지역 소비자물가(HICP기준)는 2021년 이후 오름세 확대가 지속되고있으며 지난해 11월부터는 통계 편제(1997년) 이래 최고 수준을 매월 경신
 
-- [금융시장 반응] 인플레이션 우려로 위험기피심리 강화. 미 비축유 방출로 유가 하락
+- 특히 금년 3월중 소비자물가 상승률은 7.5%(잠정)를 기록하여 이전 최고치였던 전월(5.9%)에 비해서도 오름폭이 크게 확대
 
-- [해외시각] 미 전략비축유(SPR) 방출 효과에 대해 회의적 시각 다수. 최근 수익률 곡선 평탄화에 따른 경기침체 우려는 과도하다는 평가]]></summary>
+- 유로지역 소비자물가의 높은 오름세는 당분간 지속될 것으로 예상. 에너지가격 상승의 주된 요인인 우크라이나 사태 관련 불확실성이 단기적으로 해소되기 어려운 데다 팬데믹과 연계된 공급병목 현상도 개선이 지연. 다만 우크라이나 사태관련 리스크요인이 악화(예:러시아의 에너지 공급 중단)되지 않을 경우 소비자물가 오름세가 추가 확대될 가능성은 높지 않은 것으로 평가]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Domestic and External Monetary Policy Shocks and Economic Inequality in the Republic of Korea]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165062</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165062"/>
-        <updated>2022-04-06T21:01:44.937Z</updated>
-        <summary type="html"><![CDATA[This paper investigates the effects of monetary policy shocks on income and wealth inequalities in the Republic of Korea. Using the detailed Household Income and Expenditure Survey and Korean Labor and Income Panel Study data, we construct measures of income and wealth inequality for the Korean economy. Empirical results show that both domestic and external monetary policy shocks exert significant countercyclical effects on income inequality. For wealth inequality, however, the effects are very different. Whereas domestic monetary policy shocks are insignificant, external policy shocks proxied by fluctuations in net capital flows seem to have significant effects on net wealth inequality.]]></summary>
+        <title type="html"><![CDATA[[22.4월] 국제원자재시장: 국제원자재가격, 높은 변동성 장세가 이어질 전망]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165019</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165019"/>
+        <updated>2022-04-07T00:02:44.140Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘[22.4월] 국제원자재시장: 국제원자재가격, 높은 변동성 장세가 이어질 전망’을 발표하였다.
+
+- [국제원자재가격지수] 3월 에너지, 농산물, 비철금속 등 전부문 상승(전월말 대비)
+
+- [전망] 러시아發 공급 쇼크로 원자재가격은 당분간 현 강세기조를 유지할 전
+ · 유가 : 우크라이나 사태가 지속되는 한 유가는 강세를 유지할 전망. 주요 기관들의 연평균 유가 전망이 상향조정된 가운데 변동성도 대폭 확대 예상. 재고 감소, 산유국의 여유생산능력이 부족한 상황에서 유가 안정을 기대하기 어려울 전망
+ · 곡물價 : 러-우크라 협상 상황에 따라 큰 폭의 변동성을 이어갈 가능성. 북반구 파종이 본격 시작됨에 따라 농업기상여건의 향방에도 주목. 협상의 진전은 곡물가격에 강한 하방압력으로 작용하나, 각종 제재가 풀리지 않으면 그 효과가 오래 지속되지 않을 전망
+ · 비철금속價 : 서방의 對러시아 제재로 인한 공급망 차질로 니켈, 알루미늄 등 주요 비철금속 가격의 추가 상승 가능성에 무게. 우크라이나 변수가 가격에 이미 상당 부분 반영되어 있으나, 평화협상이 단기간에 마무리될 가능성은 낮은 상황]]></summary>
         <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
+            <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[After the new normal: Scenarios for Europe in the post Covid-19 world]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165066</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165066"/>
-        <updated>2022-04-06T21:01:44.927Z</updated>
-        <summary type="html"><![CDATA[The purpose of the study ‘After the new normal : scenarios for Europe in the post Covid-19‘ world was to chart the scope of change that the Covid-19 pandemic may bring to the context of the EU itself and EU R&I policy. Five scenarios were designed in a process including the Horizon Europe Network - with horizon scanning, online workshops and scenario writing. The five context scenarios are: The long recession, Back to ‘normal’? Big Tech shapes Europe, The Circular Economy and Green Utopia - new hope. They include the numerous disruptions to our daily lives from the Covid-19 lock-downs to 2040 and describe the extent, to which the pandemic might raise new requirements for the EU’s future policy frameworks, initiatives and programmes, for example in terms of impact, time horizon of projects or investments.]]></summary>
+        <title type="html"><![CDATA[[Fund Flow] 글로벌 펀드자금, 주식ㆍ채권 모두 유입 전환]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165020</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165020"/>
+        <updated>2022-04-07T00:02:44.124Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식ㆍ채권 모두 유입 전환’을 발표하였다.
+
+- 주식 및 채권펀드 모두 유입
+
+- 신흥국들의 신용위험 감소, 통화가치 상승]]></summary>
         <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
+            <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2018년 이후 주택 보유세 부담변화의 특징(stylized facts)]]></title>
+        <title type="html"><![CDATA[디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165023</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165023"/>
+        <updated>2022-04-07T00:02:44.116Z</updated>
+        <summary type="html"><![CDATA[국회미래연구원이 「디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점」을 발표하였다.
+
+- 보고서는 연산일반균형(CGE) 모형기반 시뮬레이션 체계를 활용하여, 미래 디지털전환 시대 환경변화에 따른 파급효과를 사전적으로 전망하였음. 디지털전환 시대 환경변화 시나리오를 다양하게 탐색하고, 시나리오별 파급효과를 경제성장, 노동시장, 산업활동 및 가계소득 분포 등 다양한 측면으로 분석했음. 이를 통해, 우리나라 경제사회의 디지털전환 수용 과정에서 마주하게 될 가능성과 주요 도전과제를 식별하고, 디지털전환 패러다임으로의 전환을 용이하게 하기 위한 정책설계 및 수립의 과학화에 기여하고자 시도하였음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간 Wall Street 인사이트(4.4)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165069</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165069"/>
+        <updated>2022-04-07T00:02:44.106Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘주간 Wall Street 인사이트(4.4)’를 발표하였다.
+
+- [미국 장단기 금리역전 논란] 경기침체 선행 능력 약화 불구 경계감은 높은 수준 
+
+- [미국 주가 향방] 주가 반등 원인과 향방에 대한 논란 확대. 개인 움직임이 중요  
+
+- [러시아 가스공급 논란] 푸틴의 위협이 블러핑이라는 시각 우세하나 돌발행동 우려]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 마이너스금리 채권 감소 및 영향 평가]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017"/>
+        <updated>2022-04-07T00:02:44.091Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 『글로벌 마이너스금리 채권 감소 및 영향 평가』를 발표하였다.
+
+- [이슈] 주요국의 통화긴축 본격화로 글로벌 마이너스금리 채권 규모가 급감(3.30일 현재 $2.6조)하고 있어 현재까지의 경과, 향후 전망 및 경제 영향 등을 점검. 마이너스금리 채권 감소는 발행주체 및 지역에 관계없이 광범위하게 나타나고 있으며 상대적으로 금리가 높은 장기물 및 위험자산에서 시작해 단기물 및 주요국 국채로 확산
+
+- [전망] 향후에도 글로벌 마이너스금리 채권은 주요국 통화긴축 가속 등으로 감소세를 이어갈 전망. 단, 국가별 통화정책 정상화 속도에 차이가 있고 글로벌 경기 불확실성도     지속됨에 따라 단기간 내 완전 소멸은 어려울 것으로 예상
+ · (통화긴축) 주요국 통화긴축 가속은 시장금리 상방요인. 특히 마이너스금리정책(NIRP)을 시행 중인 유럽 지역 중앙은행들의 정책금리가 향후 1~2년 내 플러스 전환되며 시장 금리도 0% 상회 예상
+ · (재정확대) 우크라이나 사태로 경기 하강위험이 심화된 유럽에서 재정지출 확대가 예상 되는 바, 이는 시장금리 추가 상방압력으로 작용할 가능성
+ · (경기 불확실성 지속) 중국 코로나19 재확산, 러시아-우크라이나 사태 장기화 가능성 등 불확실성으로 안전자산 선호가 재차 심화하거나 통화정책 정상화가 지연될 소지 잠재
+
+- [영향] 마이너스금리 채권의 감소는 자산가격 조정, 자금흐름 변동성 증가, 한계기업 및 국가 부채취약성 부각 등의 부작용을 야기할 수 있으나 금융시장 기능 정상화, 금융 기관 수익 개선 등의 긍정적 효과를 가져올 것으로 기대
+ · (부정적 효과) 금리상승으로 위험자산 가격이 조정되거나 해외로 유출되었던 유럽 및 일본 투자자들의 자본이 자국으로 재유입되는 과정에서 시장 변동성이 증가할 소지 
+ · (긍정적 효과) 시장기능(단기자금시장, 채권시장) 회복, 금융기관(은행, 연기금, 보험회사) 수익성 개선, 은행 중개기능 강화에 따른 대출확대 등이 기대]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ세대가 바라보는 ESG경영과 기업인식 조사]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025"/>
+        <updated>2022-04-07T00:02:44.076Z</updated>
+        <summary type="html"><![CDATA[대한상공회의소가 『MZ세대가 바라보는 ESG경영과 기업인식 조사』를 발표하였다.
+
+- MZ세대 380명 대상 조사... 64.5% ‘더 비싸도 ESG 실천기업 제품 구매’
+
+- MZ세대의 대표적 소비신념은? 가심비(46.6%)> 미닝아웃(28.7%)> 돈쭐(10.3%) 順
+
+- 파급효과 큰 친환경제품 : 무라벨 페트병(41.1%), 전기·수소차(36.3%) 등 생활 속 친숙한 제품
+
+- 기업 역할 ‘일자리 창출’(28.9%) 보다 ‘투명·윤리경영 실천’(51.3%) 많이 꼽아... 공정·정의 중시 인식 반영
+
+- 향후 ESG경영 확산위해 중요한 것? ‘전반적인 국민인식 향상’(38.4%), ‘법ㆍ제도적 지원(27.9%)’ 등 ESG가 기업경영의 화두를 넘어 사회적 트렌드가 되고 있는 가운데, 새로운 소비주체로 부상한 MZ세대들은 제품 구매 시 기업의 ESG경영 실천여부를 중요하게 인식하는 것으로 조사됐음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2018년 이후 주택 보유세 부담변화의 특징]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165074</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165074"/>
-        <updated>2022-04-06T21:01:44.918Z</updated>
+        <updated>2022-04-07T00:02:44.062Z</updated>
         <summary type="html"><![CDATA[한국지방세연구원이 「2018년 이후 주택 보유세 부담변화의 특징(stylized facts)」을 발표하였다.
 
 - 제도변화 특징
@@ -347,10 +419,129 @@ This article explores the provision of financial and economic education and how 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[3월 하순 일본은행의 지정가격 오퍼레이션 실시결과 및 시장 반응]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165014</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165014"/>
+        <updated>2022-04-07T00:02:44.044Z</updated>
+        <summary type="html"><![CDATA[한국은행이 「3월 하순 일본은행의 지정가격 오퍼레이션 실시결과 및 시장 반응」을 발표하였다.
+
+- 일본은행은 장기금리가 일본은행이 설정한 변동범위(±0.25%) 상한에 근접함에 따라 3.28~31일 기간중 대규모 국채매입(공개시장운영)을 실시. 3월중 일본은행의 국채매입 규모는 7조 6,013억엔으로 코로나19 감염확대로 시장안정 차원에서 매입을 크게 늘렸던 ’20.3월 규모(7조 3,469억엔)를 상회(18.7월 8조 8,684억엔 이후 최고)
+
+-  일본은행의 대규모 국채매입 실시로 금융완화정책 유지 의지가 확인됨에따라 금리 상승세는 주춤. 다만 미국의 통화정책 정상화 가속, 일본의 소비자물가 상승 가능성 등 금
+리상승 요인과 함께 최근의 급격한 엔화 약세에 대한 경계감이 증대되면서 일본은행의 정책 변경 가능성에 대한 논의가 활발해질 것으로 예상]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간이슈(4.4) : 러시아의 가스공급 중단 여부와 금주 도래 채무지급에 주목]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165071</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165071"/>
+        <updated>2022-04-07T00:02:44.027Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘주간이슈(4.4) : 러시아의 가스공급 중단 여부와 금주 도래 채무지급에 주목’을 발표하였다.
+
+- 러시아의 가스 공급 중단 여부와 금주 도래하는 채무 지급 여부에 주목
+
+- 유로존 PPI, 중국 서비스업지수 등 주요 경제지표의 악화 여부에 관심
+
+- 3월 FOMC 의사록 공개. 향후 정책금리 및 QT 속도 등 상세 논의를 가늠
+
+- 호주 정책금리 동결하나 조만간 인상 예상. 인도는 빠르면 금주 인상 모색 
+
+- 1분기 미국 기업들의 어닝시즌 개막. 이익증가율 큰 폭 둔화 추정
+
+- 4.10일 프랑스 대선 실시. 마크롱 대통령의 재선 여부에 관심]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.4)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165070</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165070"/>
+        <updated>2022-04-07T00:02:44.001Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.4)’을 발표하였다.
+
+- [동향] 우크라이나, 수도 키이우 탈환. 러시아, 남동부 지역에 군사력을 집중
+
+- [금융시장 반응] 미국의 견조한 고용지표로 주요국 주가 상승. 유가는 하락 
+
+- [해외시각] 러시아 침공 여파로 유럽, 아시아 등 여타지역의 경기둔화론 증대]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4차 산업혁명 시대의 금융산업 중장기 발전전략]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165073</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165073"/>
+        <updated>2022-04-07T00:02:43.957Z</updated>
+        <summary type="html"><![CDATA[자본시장연구원이 『4차 산업혁명 시대의 금융산업 중장기 발전전략』을 발표하였다.
+
+- 과거 한국 금융은 중후장대형 산업에 대한 자금 지원에 치중하였고, 대면 중심의 금융서비스를 제공해왔기 때문에 한국 금융이 4차 산업혁명을 선도하려면 중장기 발전전략을 수정하는 것이 필요함. 
+
+- 대표적으로 2003년 도입한 동북아 금융허브 전략과 2009년부터 시행ㆍ발전해 온 금융중심지 제도를 개편하여 4차 산업혁명 시대에 걸맞은 디지털 금융중심지 전략을 재수립할 필요가 있으며, 더불어 한국 금융산업이 4차 산업혁명을 선도할 수 있도록 세 가지 중장기 발전전략을 제시함. 
+
+- 첫째, IP(지식재산권) 금융과 자본시장 중심 기업구조조정 활성화 등을 통해 창업－성장－회수의 혁신기업 성장 단계에서 모험자본 공급을 확대해야 함.
+
+- 둘째, 핀테크 활성화를 위해 금융규제를 네거티브 방식과 원칙 중심으로 개선하고 이를 뒷받침하기 위해 징벌적 과징금 도입 등 행정제재를 강화하는 것이 필요함.
+
+- 셋째, 4차 산업혁명의 꽃인 거대 데이터댐을 구축하고 이를 과감히 개방하는 등 데이터 인프라 혁신이 필요함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 3월 제조업 PMI 하락]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165024</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165024"/>
+        <updated>2022-04-07T00:02:43.925Z</updated>
+        <summary type="html"><![CDATA[한국은행이 「중국 3월 제조업 PMI 하락」을 발표하였다.
+
+- (제조업 PMI) 3월 제조업 PMI는 49.5로 전월(50.2)보다 하락하면서21.10월(49.2) 이후 5개월만에 기준치(50)를 하회. 규모별로는 대기업(2월 51.8 → 3월 51.3)은 전월보다 하락하였으나 여전히 기준치를 상회한 반면, 중기업(51.4 → 48.5) 및 소기업(45.1 → 46.6)은 기준치를 하회. 항목별로 보면 생산(50.4 → 49.5), 신규주문(50.7 → 48.8), 원자재재고(48.1 → 47.3), 고용(49.2 → 48.6), 공급자배송시간(48.2 → 46.5) 등이 모두하락하면서 기준치를 하회
+
+- (비제조업 PMI) 3월 비제조업 PMI는 48.4로 전월(51.6)보다 크게 하락하면서21.8월(47.5)이후 7개월만에 기준치(50)를 하회
+
+- (종합 PMI) 3월 종합 PMI는 제조업 및 비제조업 PMI가 모두 부진하면서 48.8로 전월(51.2)보다 하락
+
+- 3월 제조업 및 비제조업 PMI는 중국정부의 안정성장을 위한 정책지원 확대에도 불구하고 코로나19의 대규모 확산, 러우전쟁에 따른 원자재가격 상승 등으로 전월 및 시장예상보다 크게 부진한 것으로 평가. 중국정부는 경기 회복세 둔화 우려에 대응하여 투자 확대, 소비 회복 등 내수진작에 주력하면서 중소？영세기업 경영난 완화, 고용안정 등을 위한 정책지원을 더욱 강화할 것으로 전망]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[은행] 글로벌 은행산업 트렌드(4.4)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165068</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165068"/>
+        <updated>2022-04-07T00:02:43.864Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘[은행] 글로벌 은행산업 트렌드(4.4)’를 발표하였다.
+
+- 지난주 글로벌 은행산업 주요 이슈는 ▲Credit Suisse의 對러 업무 중단 ▲ECB의 우크라 간접 영향 주시 ▲JPM의 영국 내 고금리 적금 판매 ▲Citi의 인도 리테일 처분
+ · Mizuho의 WM 고객 기반 배증 목표, Goldman Sachs의 퇴직연금 핀테크 인수 등
+
+- 은행권 주가는 금리인상 기대감과 경기 불확실성이 엇갈리며 혼조세
+ · 미국 -5.7%, 유럽 0.7%, 일본 -4.3%, 중국 3.9%, 한국 0.7%]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴노멀 시대 준비하는 서울의 교통정책 방향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165022</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165022"/>
+        <updated>2022-04-07T00:02:34.301Z</updated>
+        <summary type="html"><![CDATA[서울연구원이 『뉴노멀 시대 준비하는 서울의 교통정책 방향』을 발표하였다.
+
+- 본 연구에서는 뉴노멀 시대에 대응, 향후 20~30년 후를 준비하기 위한 서울의 중장기 교통정책 방향을 제언해 보고자 함. 이를 위해 사회여건 변화에 따른 서울의 총통행량과 통행 특성의 변화를 전망해 보고, 이를 토대로 대중교통과 개인교통수단의 정책 방향과 교통인프라의 발전 방향을 도출하여 제시하고자 함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아세안 국토·도시 ODA 상생협력 추진방안]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165072</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165072"/>
-        <updated>2022-04-06T21:01:44.898Z</updated>
+        <updated>2022-04-07T00:02:33.551Z</updated>
         <summary type="html"><![CDATA[국토연구원이 「아세안 국토·도시 ODA 상생협력 추진방안」을 발표하였다.
 
 - 민간기업의 해외 수주 확대를 위한 국익 추구 수단으로 국토·도시 ODA를 활용하는 경향이 강화되고 있지만, 아세안의 지속가능한 발전을 위한 핵심 수요에는 효과적으로 대응하지 못함.
@@ -368,48 +559,10 @@ This article explores the provision of financial and economic education and how 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최근의 유로지역 소비자물가 동향 및 전망]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165015</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165015"/>
-        <updated>2022-04-06T21:01:44.888Z</updated>
-        <summary type="html"><![CDATA[한국은행이 「최근의 유로지역 소비자물가 동향 및 전망」을 발표하였다.
-
-- 유로지역 소비자물가(HICP기준)는 2021년 이후 오름세 확대가 지속되고있으며 지난해 11월부터는 통계 편제(1997년) 이래 최고 수준을 매월 경신
-
-- 특히 금년 3월중 소비자물가 상승률은 7.5%(잠정)를 기록하여 이전 최고치였던 전월(5.9%)에 비해서도 오름폭이 크게 확대
-
-- 유로지역 소비자물가의 높은 오름세는 당분간 지속될 것으로 예상. 에너지가격 상승의 주된 요인인 우크라이나 사태 관련 불확실성이 단기적으로 해소되기 어려운 데다 팬데믹과 연계된 공급병목 현상도 개선이 지연. 다만 우크라이나 사태관련 리스크요인이 악화(예:러시아의 에너지 공급 중단)되지 않을 경우 소비자물가 오름세가 추가 확대될 가능성은 높지 않은 것으로 평가]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Globally Engaged Firms in the COVID-19 Crisis (English)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165065</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165065"/>
-        <updated>2022-04-06T21:01:44.878Z</updated>
-        <summary type="html"><![CDATA[This paper analyzes the initial impact and recovery of globally engaged firms from the COVID-19 crisis. It uses rich survey data of nearly 65,000 firm-year observations in 45 countries spanning three waves of data collection. The findings are organized in a series of stylized facts, which suggest that although the pandemic had an immediate adverse impact on most firms, the globally engaged ones are recovering faster, possibly due to their higher capabilities. Among globally engaged firms, those directly involved with international markets show better recovery than the ones that were indirectly involved. These results mask wide variation by firm traits, sectoral attributes, and country characteristics. At the core of the recovery of globally engaged firms is their heightened response to the crisis by finding novel ways to adapt supply chains even in the presence of lockdowns and uncertainty. These firms swiftly digitalized, introduced new products and changed their markets and sources of inputs. Over and above their capabilities, global engagement cushions firms against shocks. Policymakers could therefore facilitate global linkages by providing information on potential markets and products, by making production flexible in terms of facilitating remote work, reducing the rigidity of contracts; and incentivizing financial institutions to issue instruments that reduce uncertainty risk.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴노멀 시대 준비하는 서울의 교통정책 방향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165022</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165022"/>
-        <updated>2022-04-06T21:01:44.868Z</updated>
-        <summary type="html"><![CDATA[서울연구원이 『뉴노멀 시대 준비하는 서울의 교통정책 방향』을 발표하였다.
-
-- 본 연구에서는 뉴노멀 시대에 대응, 향후 20~30년 후를 준비하기 위한 서울의 중장기 교통정책 방향을 제언해 보고자 함. 이를 위해 사회여건 변화에 따른 서울의 총통행량과 통행 특성의 변화를 전망해 보고, 이를 토대로 대중교통과 개인교통수단의 정책 방향과 교통인프라의 발전 방향을 도출하여 제시하고자 함.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[통합기후모형을 통한 제주지역의 기후변화 피해비용 추정]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165075</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165075"/>
-        <updated>2022-04-06T21:01:44.849Z</updated>
+        <updated>2022-04-07T00:02:33.373Z</updated>
         <summary type="html"><![CDATA[한국은행이 「통합기후모형을 통한 제주지역의 기후변화 피해비용 추정」을 발표하였다.
 
 - EU, 미국, 호주 등의 선진국들은 기후변화에 적극 대응하기 위해 각국의 지역별 상황에 맞는 연구보고서를 발간하고 이를 바탕으로 체계적인 기후변화대응 정책수립에 박차를 가하고 있음. 이러한 배경하에 제주도 기후변화의 경제적 비용에 대한 종합적이고 체계적인 경제학적 분석은 제주도의 특성에 맞는 기후변화 적응 및 완화 정책 수립을 위해서 매우 중요하다 할 수 있음. 그러나 대부분의 국내 기후변화 영향 연구는 일부 산업 등에 미치는 개별 효과 추정을 중심으로 한정되어 있고, 통합기후모형을 통한 기후변화의 종합적인 경제피해 비용, 또는 탄소의 사회적 비용 추정은 아직 미미한 상태임. 
@@ -422,166 +575,17 @@ This article explores the provision of financial and economic education and how 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3월 하순 일본은행의 지정가격 오퍼레이션 실시결과 및 시장 반응]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165014</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165014"/>
-        <updated>2022-04-06T21:01:44.840Z</updated>
-        <summary type="html"><![CDATA[한국은행이 「3월 하순 일본은행의 지정가격 오퍼레이션 실시결과 및 시장 반응」을 발표하였다.
+        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.6)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165076</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165076"/>
+        <updated>2022-04-07T00:02:33.364Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.6)’을 발표하였다.
 
-- 일본은행은 장기금리가 일본은행이 설정한 변동범위(±0.25%) 상한에 근접함에 따라 3.28~31일 기간중 대규모 국채매입(공개시장운영)을 실시. 3월중 일본은행의 국채매입 규모는 7조 6,013억엔으로 코로나19 감염확대로 시장안정 차원에서 매입을 크게 늘렸던 ’20.3월 규모(7조 3,469억엔)를 상회(18.7월 8조 8,684억엔 이후 최고)
+- [동향] 美·EU, 러시아 추가 제재 방안 구체화. 우크라이나 대통령 UN 연설 등
 
--  일본은행의 대규모 국채매입 실시로 금융완화정책 유지 의지가 확인됨에따라 금리 상승세는 주춤. 다만 미국의 통화정책 정상화 가속, 일본의 소비자물가 상승 가능성 등 금
-리상승 요인과 함께 최근의 급격한 엔화 약세에 대한 경계감이 증대되면서 일본은행의 정책 변경 가능성에 대한 논의가 활발해질 것으로 예상]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 3월 제조업 PMI 하락]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165024</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165024"/>
-        <updated>2022-04-06T21:01:44.829Z</updated>
-        <summary type="html"><![CDATA[한국은행이 「중국 3월 제조업 PMI 하락」을 발표하였다.
+- [금융시장 반응] 美 주가, 긴축 가속화 우려로 하락. 국제유가는 소폭 하락
 
-- (제조업 PMI) 3월 제조업 PMI는 49.5로 전월(50.2)보다 하락하면서21.10월(49.2) 이후 5개월만에 기준치(50)를 하회. 규모별로는 대기업(2월 51.8 → 3월 51.3)은 전월보다 하락하였으나 여전히 기준치를 상회한 반면, 중기업(51.4 → 48.5) 및 소기업(45.1 → 46.6)은 기준치를 하회. 항목별로 보면 생산(50.4 → 49.5), 신규주문(50.7 → 48.8), 원자재재고(48.1 → 47.3), 고용(49.2 → 48.6), 공급자배송시간(48.2 → 46.5) 등이 모두하락하면서 기준치를 하회
-
-- (비제조업 PMI) 3월 비제조업 PMI는 48.4로 전월(51.6)보다 크게 하락하면서21.8월(47.5)이후 7개월만에 기준치(50)를 하회
-
-- (종합 PMI) 3월 종합 PMI는 제조업 및 비제조업 PMI가 모두 부진하면서 48.8로 전월(51.2)보다 하락
-
-- 3월 제조업 및 비제조업 PMI는 중국정부의 안정성장을 위한 정책지원 확대에도 불구하고 코로나19의 대규모 확산, 러우전쟁에 따른 원자재가격 상승 등으로 전월 및 시장예상보다 크게 부진한 것으로 평가. 중국정부는 경기 회복세 둔화 우려에 대응하여 투자 확대, 소비 회복 등 내수진작에 주력하면서 중소？영세기업 경영난 완화, 고용안정 등을 위한 정책지원을 더욱 강화할 것으로 전망]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165023</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165023"/>
-        <updated>2022-04-06T21:01:44.818Z</updated>
-        <summary type="html"><![CDATA[국회미래연구원이 「디지털전환 시나리오별 한국 경제사회의 중장기 변화 전망과 시사점」을 발표하였다.
-
-- 보고서는 연산일반균형(CGE) 모형기반 시뮬레이션 체계를 활용하여, 미래 디지털전환 시대 환경변화에 따른 파급효과를 사전적으로 전망하였음. 디지털전환 시대 환경변화 시나리오를 다양하게 탐색하고, 시나리오별 파급효과를 경제성장, 노동시장, 산업활동 및 가계소득 분포 등 다양한 측면으로 분석했음. 이를 통해, 우리나라 경제사회의 디지털전환 수용 과정에서 마주하게 될 가능성과 주요 도전과제를 식별하고, 디지털전환 패러다임으로의 전환을 용이하게 하기 위한 정책설계 및 수립의 과학화에 기여하고자 시도하였음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간 Wall Street 인사이트(4.4)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165069</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165069"/>
-        <updated>2022-04-06T21:01:44.808Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘주간 Wall Street 인사이트(4.4)’를 발표하였다.
-
-- [미국 장단기 금리역전 논란] 경기침체 선행 능력 약화 불구 경계감은 높은 수준 
-
-- [미국 주가 향방] 주가 반등 원인과 향방에 대한 논란 확대. 개인 움직임이 중요  
-
-- [러시아 가스공급 논란] 푸틴의 위협이 블러핑이라는 시각 우세하나 돌발행동 우려]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Fund Flow] 글로벌 펀드자금, 주식ㆍ채권 모두 유입 전환]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165020</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165020"/>
-        <updated>2022-04-06T21:01:44.789Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘[Fund Flow] 글로벌 펀드자금, 주식ㆍ채권 모두 유입 전환’을 발표하였다.
-
-- 주식 및 채권펀드 모두 유입
-
-- 신흥국들의 신용위험 감소, 통화가치 상승]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ세대가 바라보는 ESG경영과 기업인식 조사]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165025"/>
-        <updated>2022-04-06T21:01:44.744Z</updated>
-        <summary type="html"><![CDATA[대한상공회의소가 『MZ세대가 바라보는 ESG경영과 기업인식 조사』를 발표하였다.
-
-- MZ세대 380명 대상 조사... 64.5% ‘더 비싸도 ESG 실천기업 제품 구매’
-
-- MZ세대의 대표적 소비신념은? 가심비(46.6%)> 미닝아웃(28.7%)> 돈쭐(10.3%) 順
-
-- 파급효과 큰 친환경제품 : 무라벨 페트병(41.1%), 전기·수소차(36.3%) 등 생활 속 친숙한 제품
-
-- 기업 역할 ‘일자리 창출’(28.9%) 보다 ‘투명·윤리경영 실천’(51.3%) 많이 꼽아... 공정·정의 중시 인식 반영
-
-- 향후 ESG경영 확산위해 중요한 것? ‘전반적인 국민인식 향상’(38.4%), ‘법ㆍ제도적 지원(27.9%)’ 등 ESG가 기업경영의 화두를 넘어 사회적 트렌드가 되고 있는 가운데, 새로운 소비주체로 부상한 MZ세대들은 제품 구매 시 기업의 ESG경영 실천여부를 중요하게 인식하는 것으로 조사됐음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.4)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165070</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165070"/>
-        <updated>2022-04-06T21:01:44.734Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.4)’을 발표하였다.
-
-- [동향] 우크라이나, 수도 키이우 탈환. 러시아, 남동부 지역에 군사력을 집중
-
-- [금융시장 반응] 미국의 견조한 고용지표로 주요국 주가 상승. 유가는 하락 
-
-- [해외시각] 러시아 침공 여파로 유럽, 아시아 등 여타지역의 경기둔화론 증대]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 마이너스금리 채권 감소 및 영향 평가]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165017"/>
-        <updated>2022-04-06T21:01:44.716Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『글로벌 마이너스금리 채권 감소 및 영향 평가』를 발표하였다.
-
-- [이슈] 주요국의 통화긴축 본격화로 글로벌 마이너스금리 채권 규모가 급감(3.30일 현재 $2.6조)하고 있어 현재까지의 경과, 향후 전망 및 경제 영향 등을 점검. 마이너스금리 채권 감소는 발행주체 및 지역에 관계없이 광범위하게 나타나고 있으며 상대적으로 금리가 높은 장기물 및 위험자산에서 시작해 단기물 및 주요국 국채로 확산
-
-- [전망] 향후에도 글로벌 마이너스금리 채권은 주요국 통화긴축 가속 등으로 감소세를 이어갈 전망. 단, 국가별 통화정책 정상화 속도에 차이가 있고 글로벌 경기 불확실성도     지속됨에 따라 단기간 내 완전 소멸은 어려울 것으로 예상
- · (통화긴축) 주요국 통화긴축 가속은 시장금리 상방요인. 특히 마이너스금리정책(NIRP)을 시행 중인 유럽 지역 중앙은행들의 정책금리가 향후 1~2년 내 플러스 전환되며 시장 금리도 0% 상회 예상
- · (재정확대) 우크라이나 사태로 경기 하강위험이 심화된 유럽에서 재정지출 확대가 예상 되는 바, 이는 시장금리 추가 상방압력으로 작용할 가능성
- · (경기 불확실성 지속) 중국 코로나19 재확산, 러시아-우크라이나 사태 장기화 가능성 등 불확실성으로 안전자산 선호가 재차 심화하거나 통화정책 정상화가 지연될 소지 잠재
-
-- [영향] 마이너스금리 채권의 감소는 자산가격 조정, 자금흐름 변동성 증가, 한계기업 및 국가 부채취약성 부각 등의 부작용을 야기할 수 있으나 금융시장 기능 정상화, 금융 기관 수익 개선 등의 긍정적 효과를 가져올 것으로 기대
- · (부정적 효과) 금리상승으로 위험자산 가격이 조정되거나 해외로 유출되었던 유럽 및 일본 투자자들의 자본이 자국으로 재유입되는 과정에서 시장 변동성이 증가할 소지 
- · (긍정적 효과) 시장기능(단기자금시장, 채권시장) 회복, 금융기관(은행, 연기금, 보험회사) 수익성 개선, 은행 중개기능 강화에 따른 대출확대 등이 기대]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[은행] 글로벌 은행산업 트렌드(4.4)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165068</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165068"/>
-        <updated>2022-04-06T21:01:44.689Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘[은행] 글로벌 은행산업 트렌드(4.4)’를 발표하였다.
-
-- 지난주 글로벌 은행산업 주요 이슈는 ▲Credit Suisse의 對러 업무 중단 ▲ECB의 우크라 간접 영향 주시 ▲JPM의 영국 내 고금리 적금 판매 ▲Citi의 인도 리테일 처분
- · Mizuho의 WM 고객 기반 배증 목표, Goldman Sachs의 퇴직연금 핀테크 인수 등
-
-- 은행권 주가는 금리인상 기대감과 경기 불확실성이 엇갈리며 혼조세
- · 미국 -5.7%, 유럽 0.7%, 일본 -4.3%, 중국 3.9%, 한국 0.7%]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[22.4월] 국제원자재시장: 국제원자재가격, 높은 변동성 장세가 이어질 전망]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165019</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165019"/>
-        <updated>2022-04-06T21:01:41.613Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘[22.4월] 국제원자재시장: 국제원자재가격, 높은 변동성 장세가 이어질 전망’을 발표하였다.
-
-- [국제원자재가격지수] 3월 에너지, 농산물, 비철금속 등 전부문 상승(전월말 대비)
-
-- [전망] 러시아發 공급 쇼크로 원자재가격은 당분간 현 강세기조를 유지할 전
- · 유가 : 우크라이나 사태가 지속되는 한 유가는 강세를 유지할 전망. 주요 기관들의 연평균 유가 전망이 상향조정된 가운데 변동성도 대폭 확대 예상. 재고 감소, 산유국의 여유생산능력이 부족한 상황에서 유가 안정을 기대하기 어려울 전망
- · 곡물價 : 러-우크라 협상 상황에 따라 큰 폭의 변동성을 이어갈 가능성. 북반구 파종이 본격 시작됨에 따라 농업기상여건의 향방에도 주목. 협상의 진전은 곡물가격에 강한 하방압력으로 작용하나, 각종 제재가 풀리지 않으면 그 효과가 오래 지속되지 않을 전망
- · 비철금속價 : 서방의 對러시아 제재로 인한 공급망 차질로 니켈, 알루미늄 등 주요 비철금속 가격의 추가 상승 가능성에 무게. 우크라이나 변수가 가격에 이미 상당 부분 반영되어 있으나, 평화협상이 단기간에 마무리될 가능성은 낮은 상황]]></summary>
+- [해외시각] 세계경제에 대한 긍정적 및 부정적 시각 혼재. 국제관계 다기화 예상 등]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -628,6 +632,67 @@ The post Taxation and Innovation in the Twentieth Century appeared first on Micr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[하이프 머신/시난 아랄 지음, 엄성수 옮김/쌤앤파커스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=292100662</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=292100662"/>
+        <updated>2022-04-05T01:23:00.000Z</updated>
+        <summary type="html"><![CDATA[하이프 머신
+시난 아랄 지음, 엄성수 옮김 / 쌤앤파커스 / 2022년 04월 / ISBN:9791165344887
+정가: 24,800원 / 판매가: 22,320원 / 마일리지: 1,240원
+이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
+
+
+
+
+‘하이프 머신(hype machine)’이란 ‘소셜 미디어가 만들어낸 실시간 커뮤니케이션 생태계’를 뜻하는 말로, 세계적인 데이터 과학자이자 투자가 시난 아랄 MIT 교수가 명명한 이름이다. “가짜 뉴스가 진짜 뉴스보다 6배 더 빨리 퍼진다”는 연구로 유명한 시난 아랄 교수는 20년 이상 소셜 미디어 생태계에 대해 연구해온 세계적인 석학으로, 2021년 기획재정부가 개최한 ‘디지털이코노미포럼’(DEF2021)에 초청받아 기조연설을 하기도 했다.
+
+20년 연구를 집대성한 그의 첫 책이자 단숨에 대표 저서가 된 《하이프 머신》은 소셜 미디어에서 정보가 어떻게 확산 혹은 차단되는지 그 원리와 파급효과를 데이터로 보여주며 정치, 경제, 교육, 건강 등 일상의 모든 것을 점령해버린 소셜 미디어의 명과 암, 위험과 기회, 오해와 진실을 입체적으로 담았다.
+
+출간 즉시 세스 고딘, 던컨 와츠, 스콧 갤러웨이 등 경제경영 대형 베스트셀러 저자들이 앞다투어 추천했고, <와이어드>는 ‘올해 최고의 책’으로 선정했으며, ‘포치라이트 비즈니스 북어워드’ 최종 후보에 오르기도 했다. 유력 언론들은 “러시아 해커부터 기업의 브랜드 마케터까지, 모든 현대인이 알아야 할 ‘하이프 머신’의 비밀을 밝혀낸 가장 시기적절하고 기념비적인 책”이라 호평했다.
+
+서문: …]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국, 위대한 반격의 시간/최윤식.최현식 지음/미래세상]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=292099681</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=292099681"/>
+        <updated>2022-04-05T00:57:00.000Z</updated>
+        <summary type="html"><![CDATA[한국, 위대한 반격의 시간
+최윤식.최현식 지음 / 미래세상 / 2022년 04월 / ISBN:9791197550430
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
+이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
+
+
+
+
+코로나19 대재앙은 천재지변이다. 우리가 선택한 고통이 아니다. 그러나 코로나19 이후 미래는 우리가 선택할 수 있다. 그러기 위해서는 우리 발밑에서 격렬하게 충돌하는 ‘도약의 힘’과 ‘붕괴의 힘’에 대해서 잘 알아야 한다. 나아가 한국의 미래에 영향을 미치는 글로벌 정세의 새로운 게임과 미래 변화도 알아야 한다. 이 책은 코로나19 이후 한국의 불확실성을 돌파하는 통찰력을 원하는 독자들을 위해, 과거와는 다른 ‘좀 더 진일보한 시나리오 구축 방법’을 사용해 한국의 미래를 더 넓고 풍부하며 생동감 있게 묘사했다.
+
+들어가는 말
+
+1부 시나리오1. 도약, 일본 추월
+
+1장 일본은 추월하고, 중국과 대등한 싸움을 한다
+2030년 한국, 일본 추월이 시작된다｜일본, 계속 가라앉을 것이다｜실패도 성공도 아닌 아베노믹스｜한국, 테크 전쟁과 상상력 전쟁에서 일본에 승리한다｜한국 경제성장 추가 동력, 소재, 부품, 장비 산업｜한국, 미래산업에서 중국과 대등한 싸움을 할 수 있다｜미래 반도체 전쟁, 승리 가능성｜현대기아차, 35년 만에 일본 혼다 자동차를 넘어서다｜미·중 패권전쟁이 한국에 새로운 길을 열어 주는 시나리오｜또 다른 두 번의 성공 신화를 만든다｜경제 도약, 세 가지의 길｜시스템 대전환 성공, 한국을 G5로 이끈다｜한국은 도약하고, 대기업 순위는 뒤집힌다｜앞으로 10년, 한국 대기업 순위를 뒤집는 세 가지 변수
+
+2장 도약하는 한국 기업, 더 나은 미래 세상
+미래 승자의 길, 선택은 어렵고 고통스럽다｜확 바뀐 승자 산업｜개인용 자율주행 수송 장치가 만드는 미래, 새로운 이동 방식｜개인용 자율주행 수송 장치, 개인의 일상적 이동 영역을 넓혀준다｜인공지능 로봇, 미래 한국의 최고의 효자 산업이 된다｜삼성, 현대차, LG, 서로 다른 인공지능 로봇 전략｜미래 삼성, 반도체 산업 하나만으로 국내 1등 수성이 가능하다｜초거대 인공지능, 새로운 일상을 서비스한다｜궁극의 플랫폼(Ultimate Platform)이 등장한다｜가상세계가 반도체, 로봇, 광고, 게임, 미디어, 교육, 금융, 스포츠, 전투 등 모든 것을 빨아들인다｜유통회사, 초월, 혼합, 현실세계 잇는 시스템 구축하면 파괴력이 상상을 초월한다｜한국 통신기업, 빅데이터의 신이 되어 메타버스 속으로 들어간다｜한국의 새로운 수출 동력, 온톨로지 플랫폼에 담긴 K-교육, 문화, 미디어 콘텐츠｜건설회사, 농업을 재개발하다｜도시제국(City Empire) 경쟁, 건설회사의 새로운 미래 기회를 만든다｜선호하는 미래, New Equilibrium
+
+2부 시나리오2. 붕괴, 내전
+
+1장 한국 경제, 결정적 순간
+뜻밖의 시나리오, Collapse｜한국 경제 붕괴, 결정적 순간｜글로벌 자산시장 대학살｜팬데믹 머니의 신화가 저주로 바뀐다｜코로나19 종식 후, 나스닥 로켓 상승이 신호다｜연준이 물가를 못 잡으면, 곧바로 경기 대침체다｜연준이 물가를 잡으면, 슈퍼버블이다｜연준이 가장 우려하는 모델, 199...
+
+국내도서 > 경제경영 > 마케팅/세일즈 > 트렌드/미래예측
+국내도서 > 경제경영 > 기업 경영 > 경영전략/혁신
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sanctions and the international monetary system]]></title>
         <id>https://voxeu.org/article/sanctions-and-international-monetary-system</id>
         <link href="https://voxeu.org/article/sanctions-and-international-monetary-system"/>
@@ -635,6 +700,16 @@ The post Taxation and Innovation in the Twentieth Century appeared first on Micr
         <summary type="html"><![CDATA[The freezing of Russian foreign exchange reserves will have long-term and systemic consequences. This column argues, however, that the dominant role of the dollar as a reserve currency will be unaffected. No other country can provide the world with a large, liquid government bond market and a fully open capital account. Sanctions may have significant long-term effects on the demand for reserves. Countries may reduce their dependence on reserves by limiting their exposure to financial shocks and partially restricting capital movements. The international monetary system may evolve towards to a new architecture, where cross-border financial integration is reduced.]]></summary>
         <author>
             <name>Markus K Brunnermeier, Harold James, Jean-Pierre Landau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Website technologies in the pandemic]]></title>
+        <id>https://voxeu.org/article/website-technologies-pandemic</id>
+        <link href="https://voxeu.org/article/website-technologies-pandemic"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Digital technologies have played a crucial role in helping firms weather the worst of the COVID shock. This column uses a dataset containing information on 150 million active websites around the world to measure the impact of COVID-19 on technology adoption. The authors find that the timing of lockdowns strongly predicts increased use of e-commerce and online payment technologies. The shock appears to have resulted more in a trend shift than a shift in levels, suggesting that COVID-19 may have transformed the trajectory of online market growth.]]></summary>
+        <author>
+            <name>Alexandros Ragoussis, Jonathan Timmis</name>
         </author>
     </entry>
     <entry>
@@ -646,16 +721,6 @@ The post Taxation and Innovation in the Twentieth Century appeared first on Micr
 For more about the upcoming panel meeting and to register for the online policy session visit: https://www.economic-policy.org/.]]></summary>
         <author>
             <name>Nicola Fuchs-Schündeln</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Website technologies in the pandemic]]></title>
-        <id>https://voxeu.org/article/website-technologies-pandemic</id>
-        <link href="https://voxeu.org/article/website-technologies-pandemic"/>
-        <updated>2022-04-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Digital technologies have played a crucial role in helping firms weather the worst of the COVID shock. This column uses a dataset containing information on 150 million active websites around the world to measure the impact of COVID-19 on technology adoption. The authors find that the timing of lockdowns strongly predicts increased use of e-commerce and online payment technologies. The shock appears to have resulted more in a trend shift than a shift in levels, suggesting that COVID-19 may have transformed the trajectory of online market growth.]]></summary>
-        <author>
-            <name>Alexandros Ragoussis, Jonathan Timmis</name>
         </author>
     </entry>
     <entry>
@@ -675,7 +740,7 @@ For more about the upcoming panel meeting and to register for the online policy 
         <updated>2022-04-04T05:17:00.000Z</updated>
         <summary type="html"><![CDATA[경제와 미래
 장 피에르 뒤피 지음, 김진식 옮김 / 북캠퍼스 / 2022년 04월 / ISBN:9791188571154
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 61원
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -739,7 +804,7 @@ For more about the upcoming panel meeting and to register for the online policy 
         <updated>2022-04-04T00:21:00.000Z</updated>
         <summary type="html"><![CDATA[코로나 디바이드 시대가 온다
 과학기술정책연구원(STEPI) 지음 / 월요일의꿈 / 2022년 04월 / ISBN:9791192044064
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 69원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -838,7 +903,7 @@ STEPI는 코로나19 이후 디지털 기술 역량에 따라, 지역 간 차이
         <updated>2022-04-01T05:40:00.000Z</updated>
         <summary type="html"><![CDATA[초가치
 마크 카니 지음, 이경식 옮김 / 윌북 / 2022년 04월 / ISBN:9791155814543
-정가: 35,000원 / 판매가: 31,500원 / 마일리지: 146원
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -894,7 +959,7 @@ STEPI는 코로나19 이후 디지털 기술 역량에 따라, 지역 간 차이
         <updated>2022-03-31T07:26:00.000Z</updated>
         <summary type="html"><![CDATA[[큰글씨책] 가정경제 재구성
 박상훈 외 3인 지음 / 피톤치드 / 2022년 04월 / ISBN:9791186692905
-정가: 29,000원 / 판매가: 29,000원 / 마일리지: 109원
+정가: 29,000원 / 판매가: 29,000원 / 마일리지: 870원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -970,7 +1035,7 @@ part 5 가정의 자원을 재구성하라
         <updated>2022-03-31T00:56:00.000Z</updated>
         <summary type="html"><![CDATA[2050 에너지 제국의 미래
 양수영.최지웅 지음 / 비즈니스북스 / 2022년 04월 / ISBN:9791162542743
-정가: 17,500원 / 판매가: 15,750원 / 마일리지: 71원
+정가: 17,500원 / 판매가: 15,750원 / 마일리지: 870원
 이벤트:  한줄평 남기면, 제로웨이스트 키트 추첨
 
 
@@ -1023,7 +1088,7 @@ part 5 가정의 자원을 재구성하라
         <updated>2022-03-30T06:15:00.000Z</updated>
         <summary type="html"><![CDATA[Go로 구현하는 클라우드 네이티브 애플리케이션
 미나 안드라오스.마틴 헬미크 지음, 박병주 옮김 / 에이콘출판 / 2022년 04월 / ISBN:9791161756264
-정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 146원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -1125,7 +1190,7 @@ ____백엔드 서비스에서 CORS 활성화...
         <updated>2022-03-30T04:27:00.000Z</updated>
         <summary type="html"><![CDATA[숫자에 속지 않고 숫자 읽는 법
 톰 치버스.데이비드 치버스 지음, 김성훈 옮김 / 김영사 / 2022년 03월 / ISBN:9788934961734
-정가: 16,800원 / 판매가: 15,120원 / 마일리지: 63원
+정가: 16,800원 / 판매가: 15,120원 / 마일리지: 840원
 이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
 
 
@@ -1183,7 +1248,7 @@ ____백엔드 서비스에서 CORS 활성화...
         <updated>2022-03-30T02:17:00.000Z</updated>
         <summary type="html"><![CDATA[실무에 바로 적용하는 파이썬 코드 레시피 302
 구로즈미 다카유키 지음, 김모세 옮김 / 제이펍 / 2022년 04월 / ISBN:9791191600728
-정가: 32,000원 / 판매가: 28,800원 / 마일리지: 1,600원
+정가: 32,000원 / 판매가: 28,800원 / 마일리지: 129원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -1267,7 +1332,7 @@ ____백엔드 서비스에서 CORS 활성화...
         <updated>2022-03-30T01:56:00.000Z</updated>
         <summary type="html"><![CDATA[여신심사 및 관리
 백운수.이기만 지음 / 한국금융연수원 / 2022년 03월 / ISBN:9788928727056
-정가: 24,000원 / 판매가: 24,000원 / 마일리지: 125원
+정가: 24,000원 / 판매가: 24,000원 / 마일리지: 720원
 이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
 
 
@@ -1378,7 +1443,7 @@ ____백엔드 서비스에서 CORS 활성화...
         <updated>2022-03-30T00:10:00.000Z</updated>
         <summary type="html"><![CDATA[경제학 읽기
 윤종인 지음 / 새문사 / 2022년 03월 / ISBN:9788974115432
-정가: 20,000원 / 판매가: 20,000원 / 마일리지: 97원
+정가: 20,000원 / 판매가: 20,000원 / 마일리지: 1,000원
 이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
 
 
@@ -1500,7 +1565,7 @@ ____백엔드 서비스에서 CORS 활성화...
         <updated>2022-03-29T03:01:00.000Z</updated>
         <summary type="html"><![CDATA[동시성 프로그래밍
 다카노 유키 지음, 김모세 옮김 / 한빛미디어 / 2022년 04월 / ISBN:9791162245422
-정가: 34,000원 / 판매가: 30,600원 / 마일리지: 1,700원
+정가: 34,000원 / 판매가: 30,600원 / 마일리지: 136원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -1591,7 +1656,7 @@ B.3 기본 연산 명령
         <updated>2022-03-29T02:23:00.000Z</updated>
         <summary type="html"><![CDATA[Do it! 알고리즘 코딩 테스트 : 자바 편
 김종관 지음 / 이지스퍼블리싱 / 2022년 04월 / ISBN:9791163033448
-정가: 32,000원 / 판매가: 28,800원 / 마일리지: 1,600원
+정가: 32,000원 / 판매가: 28,800원 / 마일리지: 130원
 이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
 
 
@@ -1610,7 +1675,7 @@ _01-1 시간 복잡도 표기법 알아보기
 _01-2 시간 복잡도 활용하기
 __[000] 수 정렬하기
 
-02 코드의 논리 오류를…]]></summary>
+02 코드의 논리 오류를 어…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -1622,7 +1687,7 @@ __[000] 수 정렬하기
         <updated>2022-03-29T00:38:00.000Z</updated>
         <summary type="html"><![CDATA[금융 소비자 권익 보호론
 권순찬 지음 / 교학사 / 2022년 04월 / ISBN:9788909548212
-정가: 20,000원 / 판매가: 18,000원 / 마일리지: 83원
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 1,000원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -1669,7 +1734,7 @@ __[000] 수 정렬하기
         <updated>2022-03-28T07:39:00.000Z</updated>
         <summary type="html"><![CDATA[현대 중남미 경제
 Beatriz Armendariz.Felipe Larrain B 지음, 문남권.우제량 옮김 / 한국외국어대학교출판부 지식출판원(HUINE) / 2022년 03월 / ISBN:9791159018923
-정가: 27,000원 / 판매가: 25,650원 / 마일리지: 121원
+정가: 27,000원 / 판매가: 25,650원 / 마일리지: 1,350원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -1753,7 +1818,7 @@ II편. 정치 사회적 맥락   136
         <updated>2022-03-28T07:26:00.000Z</updated>
         <summary type="html"><![CDATA[버블 : 기회의 시그널
 알레스데어 네언 지음, 배지혜 옮김 / 길벗 / 2022년 04월 / ISBN:9791165219130
-정가: 16,500원 / 판매가: 14,850원 / 마일리지: 63원
+정가: 16,500원 / 판매가: 14,850원 / 마일리지: 820원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -1828,7 +1893,7 @@ Chapter 7. 과거로 보는 미래
         <updated>2022-03-28T06:03:00.000Z</updated>
         <summary type="html"><![CDATA[케라스로 구현하는 딥러닝
 김성진 지음 / 한빛미디어 / 2022년 04월 / ISBN:9791162245415
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 119원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -1912,7 +1977,7 @@ __3.4 마치며
         <updated>2022-03-28T05:53:00.000Z</updated>
         <summary type="html"><![CDATA[나는 AI와 일한다
 전승민 지음 / 위너스북 / 2022년 04월 / ISBN:9791189352523
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 56원
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -1996,7 +2061,7 @@ Wise 1. ‘인공지능’이라 불리는 것의 정체^^
         <updated>2022-03-28T05:21:00.000Z</updated>
         <summary type="html"><![CDATA[기후금융 입문
 양춘승 외 지음 / 호이테북스 / 2022년 04월 / ISBN:9788993132809
-정가: 30,000원 / 판매가: 30,000원 / 마일리지: 136원
+정가: 30,000원 / 판매가: 30,000원 / 마일리지: 300원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -2020,7 +2085,7 @@ Wise 1. ‘인공지능’이라 불리는 것의 정체^^
         <updated>2022-03-28T05:03:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬을 활용한 금융 분석
 이브 힐피시 지음, 김도형 옮김 / 한빛미디어 / 2022년 03월 / ISBN:9791162245170
-정가: 45,000원 / 판매가: 40,500원 / 마일리지: 2,250원
+정가: 45,000원 / 판매가: 40,500원 / 마일리지: 190원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -2043,7 +2108,7 @@ CHAPTER 2 파이썬 기반구조
 2.1 패키지 매니저로서의 콘다 
 2.2 가상 환경 매니저로서의 콘다 
 2.3 도커 컨테이너 사용법 
-2.4 …]]></summary>
+2.4 클라…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -2055,7 +2120,7 @@ CHAPTER 2 파이썬 기반구조
         <updated>2022-03-28T04:44:00.000Z</updated>
         <summary type="html"><![CDATA[모두의 딥러닝
 조태호 지음 / 길벗 / 2022년 03월 / ISBN:9791165219246
-정가: 24,000원 / 판매가: 21,600원 / 마일리지: 1,200원
+정가: 24,000원 / 판매가: 21,600원 / 마일리지: 100원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -2146,7 +2211,7 @@ CHAPTER 2 파이썬 기반구조
         <updated>2022-03-28T04:41:00.000Z</updated>
         <summary type="html"><![CDATA[스마트시티를 위한 PYTHON 프로그래밍
 김성환 지음 / 서울시립대학교출판부 / 2022년 03월 / ISBN:9788985831963
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 154원
 이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
 
 
@@ -2192,7 +2257,7 @@ CHAPTER 2 파이썬 기반구조
         <updated>2022-03-28T02:02:00.000Z</updated>
         <summary type="html"><![CDATA[연속성과 교차성
 전지윤 지음 / 갈무리 / 2022년 03월 / ISBN:9788961952965
-정가: 20,000원 / 판매가: 18,000원 / 마일리지: 78원
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 1,000원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -2232,7 +2297,7 @@ CHAPTER 2 파이썬 기반구조
         <updated>2022-03-27T23:41:00.000Z</updated>
         <summary type="html"><![CDATA[데이터 분석을 위한 파이썬
 오경선.장은실.양숙희 지음 / 인피니티북스 / 2022년 03월 / ISBN:9791192373003
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 1,250원
+정가: 25,000원 / 판매가: 25,000원 / 마일리지: 121원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -2344,7 +2409,7 @@ Chapter 12 건강 관련 데이터 분석
         <updated>2022-03-25T03:15:00.000Z</updated>
         <summary type="html"><![CDATA[투자하려면 경제신문
 이수정(크리스탈) 지음 / 라온북 / 2022년 04월 / ISBN:9791192072418
-정가: 17,000원 / 판매가: 15,300원 / 마일리지: 57원
+정가: 17,000원 / 판매가: 15,300원 / 마일리지: 850원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -2415,7 +2480,7 @@ ETF 기사 활용 방법_ 증권면
         <updated>2022-03-25T00:33:00.000Z</updated>
         <summary type="html"><![CDATA[경제 기사 처음 읽기
 스노우볼 지음 / 새로운제안 / 2022년 03월 / ISBN:9788955336306
-정가: 15,000원 / 판매가: 13,500원 / 마일리지: 57원
+정가: 15,000원 / 판매가: 13,500원 / 마일리지: 750원
 이벤트: 스마트폰 거치대 (새로운제안 도서 1권 이상)
 
 
@@ -2477,7 +2542,7 @@ ETF 기사 활용 방법_ 증권면
         <updated>2022-03-24T07:23:00.000Z</updated>
         <summary type="html"><![CDATA[AI 세계미래보고서 2023 : 휴머노이드가 온다
 박영숙.제롬 글렌.데이비드 핸슨 지음 / 더블북 / 2022년 04월 / ISBN:9791191194579
-정가: 18,500원 / 판매가: 16,650원 / 마일리지: 67원
+정가: 18,500원 / 판매가: 16,650원 / 마일리지: 920원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -2487,7 +2552,7 @@ ETF 기사 활용 방법_ 증권면
 
 이젠 모든 것이 인공지능으로 연결되는 디지털 혁명에서 급부상하는 휴머노이드 로봇, 메타버스, NFT, 블록체인, AR/VR, Web3, 자율주행, 디지털 트윈, 의료·헬스케어 등 AI 테크와 산업, 교육과 직업의 현재와 미래를 소개하는『AI 세계미래보고서 2023』이 출간되었다. 70만 부 베스트셀러『세계미래보고서』저자들의 <AI 빅테크 최신판>으로 세계적인 미래학자 박영숙 유엔미래포럼 대표와 전 세계 각국의 미래학자들의 ‘밀레니엄 프로젝트’는 물론 AI 기반으로 인간을 돕는 반려로봇 휴머노이드를 개발하고 있는 과학자도 집필에 참여했다. 
 
-이 책에서는 밀레니엄 프로젝트 그룹의 제롬 글렌 회장이 올해 발표한 ‘AI 로봇과 공존하는 2050년’을 국내 최초로 소개한다. 제롬 글렌은 “미래 사회는 로봇과 동거하는 시대로 간다.”라고 확…]]></summary>
+이 책에서는 밀레니엄 프로젝트 그룹의 제롬 글렌 회장이 올해 발표한 ‘AI 로봇과 공존하는 2050년’을 국내 최초로 소개한다. 제롬 글렌은 “미래 사회는 로봇과 동거하는 시대로 간다.”라고 …]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -2499,7 +2564,7 @@ ETF 기사 활용 방법_ 증권면
         <updated>2022-03-23T23:49:00.000Z</updated>
         <summary type="html"><![CDATA[구글 브레인 팀에게 배우는 딥러닝 with TensorFlow.js
 샨칭 차이 외 지음, 박해선 옮김 / 길벗 / 2022년 03월 / ISBN:9791165219239
-정가: 44,000원 / 판매가: 39,600원 / 마일리지: 2,200원
+정가: 44,000원 / 판매가: 39,600원 / 마일리지: 184원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -2517,7 +2582,7 @@ __1.1.1 인공 지능
 __1.1.2 전통적인 프로그래밍과 머신 러닝의 차이점
 __1.1.3 신경망과 딥러닝
 __1.1.4 왜 딥러닝인가? 왜 지금인가? 
-1.2 왜 …]]></summary>
+1.2 왜 자바…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -2539,7 +2604,7 @@ __1.1.4 왜 딥러닝인가? 왜 지금인가?
         <updated>2022-03-23T07:15:00.000Z</updated>
         <summary type="html"><![CDATA[코린이를 위한 친절한 가상화폐 투자
 곽상빈 지음 / 평단(평단문화사) / 2022년 04월 / ISBN:9788973435432
-정가: 19,800원 / 판매가: 17,820원 / 마일리지: 81원
+정가: 19,800원 / 판매가: 17,820원 / 마일리지: 990원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -2551,7 +2616,7 @@ __1.1.4 왜 딥러닝인가? 왜 지금인가?
 
 코인은 주식과 달리 가격 상한선, 하한선이 없고 서킷브레이커(circuit breaker) 같은 투자자 보호 장치도 없어서 가격 변동폭이 크다. 24시간 전 세계적으로 매매가 이루어지므로 변화에 신속히 대응하기도 어렵다. 게다가 노드니, 논스니, 해시니, 스마트 컨트랙트니, 디파이니 용어들도 너무 낯설기만 하다. 코인 시장은 분명 기회의 땅이나 결코 만만한 분야는 아닌 이유이다. 
 
-이 책은 코인이 너무 어렵다는 첫 번째 문제…]]></summary>
+이 책은 코인이 너무 어렵다는 첫 번째 문…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -2563,7 +2628,7 @@ __1.1.4 왜 딥러닝인가? 왜 지금인가?
         <updated>2022-03-23T05:46:00.000Z</updated>
         <summary type="html"><![CDATA[기업금융실무와 위험분석
 권성일 지음 / 한국금융연수원 / 2022년 03월 / ISBN:9788928726950
-정가: 26,000원 / 판매가: 26,000원 / 마일리지: 135원
+정가: 26,000원 / 판매가: 26,000원 / 마일리지: 780원
 이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
 
 
@@ -2615,7 +2680,7 @@ __1.1.4 왜 딥러닝인가? 왜 지금인가?
         <updated>2022-03-23T05:24:00.000Z</updated>
         <summary type="html"><![CDATA[도메인 주도 개발 시작하기
 최범균 지음 / 한빛미디어 / 2022년 03월 / ISBN:9791162245385
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 112원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -2701,7 +2766,7 @@ Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능
         <updated>2022-03-23T00:55:00.000Z</updated>
         <summary type="html"><![CDATA[아메리카노와 함께 읽는 플랫폼 경제
 송인근 지음 / 부크크(bookk) / 2022년 03월 / ISBN:9791137272835
-정가: 10,000원 / 판매가: 10,000원 / 마일리지: 45원
+정가: 10,000원 / 판매가: 10,000원 / 마일리지: 0원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -2752,7 +2817,7 @@ Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능
         <updated>2022-03-22T02:19:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬으로 배우는 소프트웨어와 인공지능
 조행래 외 지음 / 영남대학교출판부 / 2022년 03월 / ISBN:9788975818516
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 1,250원
+정가: 25,000원 / 판매가: 25,000원 / 마일리지: 121원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -2762,7 +2827,7 @@ Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능
 
 이 책은 파이썬(Python) 언어를 이용하여 소프트웨어와 컴퓨팅사고의 개념을 설명하면서 구체적인 사례를 추가하여 흥미롭게 배울 수 있게 했다. 1장부터 6장까지는 파이썬 언어의 기본적인 문법을 다루고 있다. 파이썬은 전 세계적에서 가장 활발히 사용하는 프로그래밍 언어로, 데이터분석이나 인공지능의 전문적인 도구를 사용하려면 반드시 익혀야 하는 기술이다. 이를 위해 다양한 예제 중심으로 파이썬 언어 문법을 설명함으로써 독자들이 파이썬에 대한 이해와 더불어 컴퓨팅사고에 익숙해질 수 있게 했다. 
 
-7장부터 11장까지는 4차 산업혁명을 구현하는 핵심 기술인 데이터분석과 기계학습, 인공지능 등에 대해 설명하고 있다. 각 주제에 해당하는 핵…]]></summary>
+7장부터 11장까지는 4차 산업혁명을 구현하는 핵심 기술인 데이터분석과 기계학습, 인공지능 등에 대해 설명하고 있다. 각 주제에 해당하는 핵심적…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
@@ -2784,7 +2849,7 @@ Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능
         <updated>2022-03-21T06:43:00.000Z</updated>
         <summary type="html"><![CDATA[불평등 시대의 부동산 정책
 송인호 외 지음, 서울사회경제연구소 엮음 / 한울(한울아카데미) / 2022년 03월 / ISBN:9788946073654
-정가: 26,000원 / 판매가: 26,000원 / 마일리지: 120원
+정가: 26,000원 / 판매가: 26,000원 / 마일리지: 260원
 이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
 
 
@@ -2819,258 +2884,13 @@ Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영업점 컴플라이언스 오피서 : 은행편/이홍경.김종천 지음/한국금융연수원]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=291130306</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=291130306"/>
-        <updated>2022-03-18T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[영업점 컴플라이언스 오피서 : 은행편
-이홍경.김종천 지음 / 한국금융연수원 / 2022년 03월 / ISBN:9788928727018
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 134원
-이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
-
-
-
-
-현행 준법감시인제도를 보완하고 지원하고자 「영업점 컴플라이언스 오피서」(CBCO; Certified Branch Compliance Officers) 자격제도를 도입하였다. 본 도서는 동 자격 관련 참고도서이자 금융기관 준법감시제도의 이론적 바탕을 제공하는 동시에 체계화된 내부통제제도의 실무가이드 역할을 담당하고자 집필되었다.
-
-제1편 금융거래업무와 컴플라이언스업무
-
-제1장 공시업무와 컴플라이언스
-제2장 개인정보 보호업무와 컴플라이언스
-제3장 전자금융거래업무와 컴플라이언스
-제4장 공정거래업무와 컴플라이언스
-제5장 수신업무와 컴플라이언스
-제6장 여신업무와 컴플라이언스
-제7장 외국환업무와 컴플라이언스
-제8장 신용카드업무와 컴플라이언스
-제9장 금융투자업무와 컴플라이언스
-제10장 방카슈랑스업무와 컴플라이언스
-
-제2편 자금세탁방지업무
-
-제1장 자금세탁방지제도의 일반
-제2장 자금세탁방지기구 및 관련 법령
-제3장 고객확인의무(CDD)
-제4장 의심되는거래보고(STR)
-제5장 고액현금거래보고(CTR)
-제6장 관련자료 보존과 비밀보장 및 면책규정
-
-
-국내도서 > 대학교재/전문서적 > 경상계열 > 경영학
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영업점 컴플라이언스 오피서 : 보험편/이근택.이진우.이홍경/한국금융연수원]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=291129716</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=291129716"/>
-        <updated>2022-03-18T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[영업점 컴플라이언스 오피서 : 보험편
-이근택.이진우.이홍경 / 한국금융연수원 / 2022년 03월 / ISBN:9788928727049
-정가: 22,000원 / 판매가: 22,000원 / 마일리지: 113원
-이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
-
-
-
-
-보험업의 특성과 일반 이론에서부터 시작하여 보험영업, 계약 관리,상품개발, 고객정보보호, 공시, 자산운용, 기타 업무 및 자금세탁방지에 이르기까지 일반적인 보험회사가 다루고 있는 거의 모든 분야의 컴플라이언스 업무를 기술하여 현업 담당자들에게 실질적인 도움이 될 것으로 기대한다.
-
-1편 보험의 기초 
- 제1장 보험의 기초 이론
- 제2장 보험업의 특성과 규제환경 
-
-2편 보험영업과 관련된 컴플라이언스 
- 제1장 보험 모집인 및 모집조직 
- 제2장 건전한 모집행위 
- 제3장 보험안내자료 및 광고관련 준수사항 
- 제4장 비전통 채널 관련 준수사항 
-
-3편 보험계약관리와 관련된 컴플라이언스 
- 제1장 계약심사 (Underwriting) 
- 제2장 계약보전 
- 제3장 보험금 지급 및 심사 
- 제4장 보험사기 예방  
- 
-4편 보험상품 개발 및 인가와 관련된 컴플라이언스 
- 제1장 상품개발 및 신고
- 제2장 기초서류 관련 준수사항 
-
-5편 재보험과 관련된 컴플라이언스 
- 제1장 재보험 개관 
- 제2장 재보험 모범규준의 주요 내용 
-
-6편 고객정보보호와 관련된 컴플라이언스
- 제1장 금융회사의 대형 정보 유출 사고와 재발방지 대책
- 제2장 개인정보보호법
- 제3장 신용정보의 이용 및 보호에 관한 법률
- 
-7편 공시와 관련된 컴플라이언스 
- 제1장 경영공시 
- 제2장 상품공시
- 제3장 비교공시 
- 제4장 기타 공시
- 
-8편 자산운용 및 건전성 유지와 관련된 컴플라이언스 
- 제1장 자산운용의 일반 원칙
- 제2장 자산운용 관련 금지 및 제한사항 
- 
-9편 기타 업무와 관련된 컴플라이언스 
- 제1장 공정거래 관련 주의사항 
- 제2장 업무 위수탁 
-
-10편 자금세탁방지제도 
-제1장 자금세탁방지제도의 일반
-제2장 자금세탁방지기구 및 관련 법령
-제3장 고객확인의무(CDD)
-제4장 의심되는거래보고(STR)
-제5장 고액현금거래보고(CTR)
-제6장 관련자료 보존과 비밀보장 및 면책규정
-
-
-국내도서 > 대학교재/전문서적 > 경상계열 > 경영학
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여신실무법률 : 여신거래의 성립/최성현 지음/한국금융연수원]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=291129585</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=291129585"/>
-        <updated>2022-03-18T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[여신실무법률 : 여신거래의 성립
-최성현 지음 / 한국금융연수원 / 2022년 03월 / ISBN:9788928726974
-정가: 25,000원 / 판매가: 25,000원 / 마일리지: 134원
-이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
-
-
-
-
-은행에서 이루어지고 있는 주요여신거래인 증서대출, 당좌대출, 어음할인 및 지급보증을 중심으로 그와 관련되는 법리를 정리,해설함으로써 은행을 포함한 모든 금융회사의 임직원에게 여신거래의 계약법리 및 규제법규에 관한 기본적인 지식을 종합적이고 체계적으로 전달하는 것을 목표로 하고 있다.
-
-제1장 여신거래의 의의
-  제1절 여신업무로서의 여신거래
-  제2절 계약으로서의 여신거래
-  제3절 채권관계로서의 여신거래
-  제4절 상행위로서의 여신거래
-
-제2장 여신거래계약의 구조와 내용
- 제1절 여신거래계약의 구조
- 제2절 여신거래계약의 내용
-
-제3장 여신거래계약의 체결
- 제1절 서설
- 제2절 여신거래계약체결의 방식
- 제3절 여신거래계약서의 진정성립과 그 효력
- 제4절 의사표시의 하자와 여신거래계약의 효력 
- 제5절 대출계약의 철회
-
-제4장 여신거래상대방별 여신거래시 검토사항
- 제1절 여신거래상대방의 분류
- 제2절 개인과의 여신거래시 검토사항
- 제3절 상법상 회사와의 여신거래시 검토사항
- 제4절 기타 거래상대방과의 여신거래시 검토사항
-
-제5장 여신거래의 규제
- 제1절 서설
- 제2절 은행법상의 여신거래 규제
- 제3절 여신업무담당자의 의무와 책임
- 제4절 여신업무담당자의 의무와 책임
-
-
-국내도서 > 대학교재/전문서적 > 경상계열 > 재무/금융
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영업점 컴플라이언스 오피서 : 증권편/조창훈.유영진.민병조 지음/한국금융연수원]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=291129350</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=291129350"/>
-        <updated>2022-03-18T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[영업점 컴플라이언스 오피서 : 증권편
-조창훈.유영진.민병조 지음 / 한국금융연수원 / 2022년 03월 / ISBN:9788928727032
-정가: 22,000원 / 판매가: 22,000원 / 마일리지: 114원
-이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
-
-
-
-
-보험업의 특성과 일반 이론에서부터 시작하여 보험영업, 계약 관리,상품개발, 고객정보보호, 공시, 자산운용, 기타 업무 및 자금세탁방지에 이르기까지 일반적인 보험회사가 다루고 있는 거의 모든 분야의 컴플라이언스 업무를 기술하였다.
-
-1편영업점 영업행위준칙
-제1장영업점 관련 영업행위준칙의 이해
-
-2편  영업점 컴플라이언스
-제1장  영업점 준법감시(컴플라이언스) 담당자
-제2장  영업점 법규준수 모니터링 및 자문
-제3장  계좌개설과 투자권유
-제4장  영업점 내부통제 체크리스트 자가점검
-제5장  영업점 금융투자전문인력 등록 및 관리 등
-제6장  영업점 인테리어 컴플라이언스 가이드라인
-
-3편  준법감시 내부통제기준
-제1장  투자광고 관리
-제2장  대중매체 접속 및 대외활동 등
-제3장  임직원 금융투자상품 매매
-제4장  재산상 이익의 제공 및 수령
-제5장  내부고발제도
-
-4편  영업행위 관련 컴플라이언스
-제1장  위탁매매 관련 컴플라이언스 업무
-제2장  파생상품 관련 판매 컴플라이언스
-제3장  투자권유대행인 관련 컴플라이언스
-제4장  불공정거래의 조사(이상매매 관련)
-제5장  고객 금융거래 정보 보호(금융거래정보 제공과 매매심리 등)
-
-5편  펀드판매 관련 컴플라이언스 업무
-제1장  펀드 관련 자산의 증가 및 컴플라이언스 업무의 필요성
-제2장  펀드의 투자권유
-제3장  불건전 영업행위 금지
-제4장  완전판매 모니터링 업무
-제5장  펀드 Late Trading(장마감 후 펀드거래) 예외처리
-제6장  금융감독원 제재
-제7장  투자자보호 측면에서의 적합성의 원칙
-제8장  영국 증권선물감독원의 적합성 평가(Assessing Suitability)
-
-6편  금융소비자보호와 고객정보보호
-제1장  금융소비자보호 모범규준의 이해
-제2장  민원업무 및 (협회, 거래소, 금감원) 금융소비자보호 민원평가제도
-제3장  증권분쟁조정제도
-제4장  증권 관련 분쟁의 특징과 유형
-제5장  금융소비자보호 실태평가제도의 이해
-제6장 개인정보보호제도의 이해
-
-7편  감독기구 및 규제
-제1장  자율규제와 공적규제
-제2장  금융투자협회 제재
-제3장  한국거래소 제재
-제4장  금융감독원 제재
-
-8편 자금세탁방지업무
-제1장 자금세탁방지제도의 일반
-제2장 자금세탁방지기구 및 관련 법령
-제3장 고객확인의무(CDD)
-제4장 의심되는거래보고(STR)
-제5장 고액현...
-
-국내도서 > 대학교재/전문서적 > 경상계열 > 경영학
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유연한 소프트웨어를 만드는 설계 원칙/크리스 핸슨.제럴드 제이 서스먼 지음, 류광 옮김/한빛미디어]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=291123885</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=291123885"/>
         <updated>2022-03-18T07:03:00.000Z</updated>
         <summary type="html"><![CDATA[유연한 소프트웨어를 만드는 설계 원칙
 크리스 핸슨.제럴드 제이 서스먼 지음, 류광 옮김 / 한빛미디어 / 2022년 03월 / ISBN:9791162245408
-정가: 35,000원 / 판매가: 31,500원 / 마일리지: 1,750원
+정가: 35,000원 / 판매가: 31,500원 / 마일리지: 137원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -3151,7 +2971,7 @@ Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능
         <updated>2022-03-18T04:30:00.000Z</updated>
         <summary type="html"><![CDATA[파이썬을 이용한 딥러닝/강화학습 주식투자
 퀀티랩 지음 / 위키북스 / 2022년 03월 / ISBN:9791158393205
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 114원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -3228,6 +3048,123 @@ ___3.5.3 예측(predict...
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[디지털 일자리/배순훈 지음/시그마북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=291101297</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=291101297"/>
+        <updated>2022-03-18T02:43:00.000Z</updated>
+        <summary type="html"><![CDATA[디지털 일자리
+배순훈 지음 / 시그마북스 / 2022년 04월 / ISBN:9791168620179
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
+
+
+
+
+기성세대부터 MZ세대까지 풀어 가야 할 과제와 해법을 제안하며 차분히 미래를 준비하자고 설득한다. 선진국에 진입한 한국은 세계 중심 국가로 가야 생존할 수 있다. 인공지능, 빅 데이터를 활용한 디지털 일자리를 창출하는 사람 중심의 새로운 건국 운동을 펼쳐야 한다고 강조한다.
+
+프롤로그_디지털 시대 일자리를 위해 
+
+제1장 일자리에 대한 고찰
+[에피소드 1-1] 적절하게 정의된 의문 
+1-1 그들과 다른 ‘한국인’ 
+[에피소드 1-2] 자금 조달과 턴키(일괄도급) 계약 
+1-2 산업혁명과 일자리 
+[에피소드 1-3] 프로젝트 파이낸싱(Project Financing) 
+1-3 냉정하고 합리적인 사고 
+[에피소드 1-4] 풀 뽑던 사람들 
+1-4 인력 수요의 변곡점 
+
+제2장 선진국 진입을 위한 일자리 변화
+[에피소드 2-1] 인재의 비용 
+2-1 정부와 국민 
+[에피소드 2-2] 김치와 보르도산 포도주 
+2-2 민주주의 시장 경제 
+[에피소드 2-3] 대우그룹 워크아웃 
+2-3 IMF 위기와 산업구조 조정 
+[에피소드 2-4] 노동의 대가 
+2-4 분노해야 하는가 
+
+제3장 차별화된 Korea-Tech
+[에피소드 3-1] 기업 문화와 품질 관리 
+3-1 품질 기술 
+[에피소드 3-2] ‘탱크주의’ 소비자 마음에 품질 심다 
+3-2 설계 기술 
+[에피소드 3-3] 신지식인상 받은 집배원 
+3-3 현장 기술 
+[에피소드 3-4] 첨단 산업 도전 
+3-4 반도체 기술 
+[에피소드 3-5] 중화학 산업 구조조정 
+3-5 한국 원자력 발전의 안전 기술 
+[에피소드 3-6] 지식정보 사회로 가다 
+3-6 국가 출연연구소 
+
+제4장 디지털 디바이드
+[에피소드 4-1] 레일리 방정식(Rayleigh Equation) 
+4-1 디지털 문화 
+[에피소드 4-2] 나비에 스토크스 방정식(Navier-Stokes Equations) 
+4-2 디지털 소비 
+[에피소드 4-3] 블랙-숄즈(Black-Scholes) 옵션 가격 모델 
+4-3 디지털 시대 
+
+제5장 디지털 문화 만들기
+[에피소드 5-1] 한국 사람이 되는 방법 
+5-1 개인정보와 빅 데이터(Big Data) 
+[에피소드 5-2] 신뢰문화 경영 
+5-2 코딩(Coding) 교육 
+[에피소드 5-3] 선진국 사업 진출 
+5-3 솔루션(Solutions) 만들기 
+[에피소드 5-4] K-경영인 
+5-4 살아가는 자세(Attitude) 
+
+제6장 민주주의 선진국 시민
+[에피소드 6-1] 사람 중심의 시대정신(Zeitgeist) 
+6-1 개인들이 존경 받는 사회 
+[에피소드 6-2] 소소하고 확실한 행복 
+6-2 미래 교육 
+[에피소드 6-3] 포...
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인플레로 돈버는 사람들/맥스 샤피로 지음, 박정삼 옮김/한울(한울아카데미)]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=291093693</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=291093693"/>
+        <updated>2022-03-18T01:07:00.000Z</updated>
+        <summary type="html"><![CDATA[인플레로 돈버는 사람들
+맥스 샤피로 지음, 박정삼 옮김 / 한울(한울아카데미) / 2022년 03월 / ISBN:9788946081642
+정가: 19,500원 / 판매가: 19,500원 / 마일리지: 190원
+이벤트: 2022 이 분야 최고의 책! 투표하면 1천원 적립금
+
+
+
+
+인플레이션은 도대체 왜 일어나는가? 단순히 통화공급량이 늘어났기 때문일까? 아니면 사회적 총공급과 총수요의 불균형 때문일까? 경제학 교과서에 나오는 용어로 간단히 설명해버리기에 인플레의 원인은 생각보다 훨씬 복합적이고 다층적이며, 그것이 우리 삶에 미치는 영향도 크다.
+
+대부분의 경제사가는 인플레의 원인을 ‘우연한 사고’, ‘경제정책의 실패’, ‘정부의 실수’ 등에 돌려왔다. 하지만 이 책의 저자 맥스 샤피로는 인플레가 그로 인해 큰 이득을 보는 사람들에 의해 조장되어왔다고 주장한다. 인플레 기간에 서민 대중의 부는 일부 특권층에게 급격히 이동한다. 단기간에 거대한 부를 모으려는 기업가와 이에 협력하는 정치가 및 관료야말로 인플레의 주범인 것이다. 이 책은 이를 밝히기 위해 인플레의 세계사를 조망한다.
+
+1  기원전에도 인플레는 있었다
+2  인플레로 무너진 로마제국
+3  프랑스혁명과 인플레
+4  인플레는 정략의 산물인가: 미국의 남북전쟁과 인플레
+5  인플레로 거부가 된 사람들: 제1차 세계대전과 독일의 초인플레
+6  황금알을 낳는 거위: 현대 미국의 인플레
+7  인플레는 필요악인가: 미국 연방준비은행과 인플레 정책
+8  요약: 인플레의 주범들
+
+부록: 인플레 정책을 계획한 사람들의 증언
+
+
+국내도서 > 역사 > 세계사 일반
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망
+국내도서 > 역사 > 테마로 보는 역사 > 경제사]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reframing development in Africa]]></title>
         <id>https://www.aeaweb.org/research/political-distortions-capture-development-africa</id>
         <link href="https://www.aeaweb.org/research/political-distortions-capture-development-africa"/>
@@ -3244,7 +3181,7 @@ ___3.5.3 예측(predict...
         <updated>2022-03-16T07:32:00.000Z</updated>
         <summary type="html"><![CDATA[헬스케어 분석을 위한 머신러닝
 에듀오닉스 러닝 솔루션스 지음, 고석범 옮김 / 에이콘출판 / 2022년 03월 / ISBN:9791161756233
-정가: 25,000원 / 판매가: 22,500원 / 마일리지: 1,250원
+정가: 25,000원 / 판매가: 22,500원 / 마일리지: 98원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -3334,7 +3271,7 @@ __구글 콜래보터리...
         <updated>2022-03-15T05:38:00.000Z</updated>
         <summary type="html"><![CDATA[알고리즘 트레이닝
 안티 라크소넨 지음, 조승현.김진현 옮김 / 인사이트 / 2022년 03월 / ISBN:9788966263479
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
+정가: 28,000원 / 판매가: 25,200원 / 마일리지: 110원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -3449,7 +3386,7 @@ __구글 콜래보터리...
         <updated>2022-03-15T01:52:00.000Z</updated>
         <summary type="html"><![CDATA[헤드 퍼스트 디자인 패턴
 에릭 프리먼 외 지음, 서환수 옮김 / 한빛미디어 / 2022년 03월 / ISBN:9791162245262
-정가: 36,000원 / 판매가: 32,400원 / 마일리지: 1,800원
+정가: 36,000원 / 판매가: 32,400원 / 마일리지: 148원
 이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
 
 
@@ -3542,7 +3479,7 @@ __ 연습문제 정답
         <updated>2022-03-15T00:10:00.000Z</updated>
         <summary type="html"><![CDATA[텐서플로 2와 머신러닝으로 시작하는 자연어 처리
 전창욱 외 지음 / 위키북스 / 2022년 03월 / ISBN:9791158393168
-정가: 36,000원 / 판매가: 32,400원 / 마일리지: 1,800원
+정가: 36,000원 / 판매가: 32,400원 / 마일리지: 145원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -3664,7 +3601,7 @@ __버트를 활용한 한국어 ...
         <updated>2022-03-14T07:11:00.000Z</updated>
         <summary type="html"><![CDATA[코딩아 놀자~ 앱 인벤터 200% 활용
 박경진 지음 / 에듀아이 / 2022년 03월 / ISBN:9791196027223
-정가: 20,000원 / 판매가: 18,000원 / 마일리지: 1,000원
+정가: 20,000원 / 판매가: 18,000원 / 마일리지: 80원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -3754,7 +3691,7 @@ __버트를 활용한 한국어 ...
         <updated>2022-03-11T05:58:00.000Z</updated>
         <summary type="html"><![CDATA[“R” 하기 좋은 날
 문재영.심흥섭.김창현 지음 / 도서출판청람 / 2022년 03월 / ISBN:9788959728695
-정가: 18,000원 / 판매가: 18,000원 / 마일리지: 180원
+정가: 18,000원 / 판매가: 18,000원 / 마일리지: 87원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -3811,7 +3748,7 @@ Part 7󰠾 양적(수치형) 데이터의 분석 - 통계의 시작
         <updated>2022-03-11T02:14:00.000Z</updated>
         <summary type="html"><![CDATA[R 기초와 활용
 곽기영 지음 / 청람 / 2022년 03월 / ISBN:9788959728558
-정가: 39,000원 / 판매가: 39,000원 / 마일리지: 1,170원
+정가: 39,000원 / 판매가: 39,000원 / 마일리지: 225원
 이벤트: 수험서.대학교재_플랫필통 / 파일홀더 / 양장노트
 
 
@@ -3907,7 +3844,7 @@ Appendix·부록
         <updated>2022-03-11T01:18:00.000Z</updated>
         <summary type="html"><![CDATA[핵심코어! 파이썬 프로그래밍
 최희식 지음 / 인피니티북스 / 2022년 03월 / ISBN:9791185578965
-정가: 23,000원 / 판매가: 23,000원 / 마일리지: 1,150원
+정가: 23,000원 / 판매가: 23,000원 / 마일리지: 110원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
@@ -4021,7 +3958,7 @@ Chapter 13 클래스와 모듈
         <updated>2022-03-11T00:39:00.000Z</updated>
         <summary type="html"><![CDATA[김변수와 시작하는 코딩생활 with 파이썬
 코뮤니티 운영진(휴몬랩) 지음 / 영진.com(영진닷컴) / 2022년 03월 / ISBN:9788931466003
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 72원
 이벤트:  요약노트(PDF)
 
 
@@ -4122,198 +4059,202 @@ CHAPTER 11. 튜플
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이게 진짜 파이썬 EASY!/감무철 지음/책밥]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=290575690</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=290575690"/>
-        <updated>2022-03-10T01:40:00.000Z</updated>
-        <summary type="html"><![CDATA[이게 진짜 파이썬 EASY!
-감무철 지음 / 책밥 / 2022년 03월 / ISBN:9791190641678
-정가: 26,000원 / 판매가: 23,400원 / 마일리지: 1,300원
+        <title type="html"><![CDATA[처음 배우는 엘릭서 프로그래밍/데이브 토머스 지음, 권두호 옮김, 최성락 감수/한빛미디어]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=290624590</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=290624590"/>
+        <updated>2022-03-10T08:19:00.000Z</updated>
+        <summary type="html"><![CDATA[처음 배우는 엘릭서 프로그래밍
+데이브 토머스 지음, 권두호 옮김, 최성락 감수 / 한빛미디어 / 2022년 03월 / ISBN:9791162245354
+정가: 42,000원 / 판매가: 37,800원 / 마일리지: 168원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
 
 
-파이썬 독학을 위한 완벽한 준비. 기초부터 활용까지 이 한 권으로 끝내자! 단순한 코드들로 많은 문법을 소개하는 책이 아니다. 실제로 몇 년 동안 실생활과 업무에 파이썬을 활용하면서도 한번도 사용하지 않은 문법들이 꽤 많은 것이 사실이다. 그래서 이 책에서는 활용도 낮은 내용에 시간을 할애하는 것보다는 많이 쓰이고 중요한 문법과 기능들에 대한 개념 이해에 우선적으로 집중할 수 있도록 정리했다. 
+엘릭서는 고성능의 분산 얼랭 VM 위에서 동작하는 함수형 프로그래밍 언어다. 불변 데이터 구조와 액터 기반 동시성 모델을 깔끔하고 현대적인 문법으로 감싸고 있다. 엘릭서를 사용하면 그동안 시간을 잡아먹었던 데이터 정합성이나 애플리케이션 스케일링 같은 문제를 더는 걱정하지 않아도 된다.
 
-또한 문법 공부에서 끝나는 것이 아니라 이를 활용해 직접 프로그래밍하면서 만든 사례까지 소개함으로써 간단한 문법으로도 누구나 쉽게 파이썬에 입문하고 일상에서 충분히 활용할 수 있음을 보여주고 있다. 책 속에 담긴 필수 이론과 문법, 이를 활용해 만든 프로그램 사례까지 다양한 실습과 복습을 통해 비전공자들도 쉽게 파이썬에 한 걸음 더 다가갈 수 있는 진짜 파이썬 공부법을 소개하고 있다.
+함수형 프로그래밍이 어렵게만 느껴진다면 이 책을 펼쳐보자. 배경지식이 전혀 없어도 고수준 언어를 다뤄본 경험과 넘치는 모험심만 있다면 누구나 쉽고 빠르게 엘릭서 프로그래밍을 익힐 수 있다. 모든 문법과 함수를 세세하게 다루기보다는 간결하고 흥미로운 내용으로 구성하여 엘릭서와 함수형 프로그래밍이라는 새로운 세계로 이끌어준다. 책에서 소개하는 기능과 예제 코드는 엘릭서 최신 버전으로 테스트했으며 한국어판 부록에는 1.6 버전 이후 추가된 내용을 따로 수록했다.
 
-머리말
+1장 빨간 약을 먹어보자
+_1.1 프로그래밍은 데이터를 변형하는 과정이다
+_1.2 엘릭서 설치하기
+_1.3 엘릭서 실행하기
+_1.4 이 책을 잘 읽는 방법
 
-PART 1 시작이 반, 파이썬 독학을 위한 완벽한 준비
-Chapter 0 1 파이썬이 뭐길래? 
-Section 01 이것이 파이썬이다!
-Section 02 파이썬 활용하기
-Chapter 02 파이썬과의 첫 인사
-Section 01 아나콘다로 파이썬 패키지 설치하기
-Section 02 파이썬으로 대화 시작하기
-한 걸음 더
+[1부 전통적 프로그래밍]
 
-PART 2 파이썬의 기본적인 데이터 알아보기
-Chapter 01 데이터의 저장과 사용
-Section 01 저장 공간이란
-Section 02 저장 공간의 이름 정하기
-Section 03 데이터 저장하는 방법
-한 걸음 더
-Chapter 02 문자들의 모임
-Section 01 문자열 데이터 만들기
-Section 02 문자열 데이터 자세히 알아보기
-Section 03 문자열 데이터로 계산하기
-Section 04 문자열 데이터에 자주 사용하는 기능
-Chapter 03 숫자 데이터
-Section 01 숫자 데이터의 구분
-Section 02 숫자 데이터 만들기
-Section 03 숫자 데이터로 계산하기
-Project 01 생활 속 파이썬 활용 1
-Section 01 세 숫자의 합 구하기 게임
-Section 02 프로그램 작동 순서 계획
-Section 03 단계별 프로그램 완성
-Section 04 프로그램 업그레이드
-요약 정리
+2장 패턴 매칭
+_2.1 할당문: 당신이 생각하는 할당문이 아니다
+_2.2 더 복잡한 매칭
+_2.3 언더스코어로 값 무시하기
+_2.4 변수는 매칭당 한 번씩만 바인딩된다
+_2.5 등호를 바라보는 다른 시각
 
-PART 3 효율적인 데이터 사용을 위한 데이터 구조대
-Chapter 01 데이터들의 모임
-Section 01 모임 만들기
-Section 02 모임 멤버 살펴보기
-Section 03 멤버 추가 및 삭제
-Section 04 모임 데이터 활용
-한 걸음 더
-Chapter 02 데이터로 만드는 사전
-Section 01 사전 만들기
-Section 02 사전 내용 보기
-Section 03 사전에 단어 추가 및 삭제
-Section 04 사전 활용
-한 걸음 더
-Project 02 생활 속 파이썬 활용 2
-Section 01 가족 단합 대회 종목 고르기
-Section 02 프로그램 작동 순서 계획
-Section 03 단계별 프로그램 완성
-Section 04 프로그램 업그레이드
-요약 정리
+3장 불변성
+_3.1 우리는 이미 불변 데이터를 알고 있다
+_3.2 불변 데이터는 확실한 데이터다
+_3.3 성능에 미치는 영향
+_3.4 불변 데이터를 이용해 코딩하기
 
-PART 4 프로그래밍으로 만드는 우리의 일상
-Chapter 01 프로그램 세상도 선택의 연속
-Section 01 진실 혹은 거짓, ‘말해! Yes or No!’
-Section 02 저울질하기
-Section 03 짜장면이냐? 짬뽕이냐? 그것이 문제로다!
-Section 04 복잡한 고민도 간단하게 해결
-한 걸음 더
-Cha...
+4장 엘릭서 기초
+_4.1 내장 자료형
+_4.2 값 타입
+_4.3 시스템 타입
+_4.4 컬렉션 타입
+_4.5 맵
+_4.6 바이너리
+_4.7 날짜와 시간
+_4.8 이름, 소스 파일, 컨벤션, 연산자 등등
+_4.9 변수의 스코프
+_4.10 마무리하며
 
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
+5장 익명 함수
+_5.1 함수와 패턴 매칭
+_5.2 함수는 하나, 본문은 여러 개
+_5.3 함수를 반환하는 함수
+_5.4 함수를 인자로 전달하기
+_5.5 함수는 엘릭서의 핵심이다
+
+6장 모듈과 기명 함수
+_6.1 모듈 컴파일하기
+_6.2 함수의 본문은 블록이다
+_6.3 함수 호출과 패턴 매칭
+_6.4 가드 조건절
+_6.5 기본 파라미터
+_6.6 프라이빗 함수
+_6.7 끝내주는 파이프 연산자: |>
+_6.8 모듈
+_6.9 모듈 속성
+_6.10 모듈의 이름: 엘릭서, 얼랭, 아톰
+_6.11 얼랭 라이브러리의 함수 호출하기
+_6.12 라이브러리 찾기
+
+7장 리스트와 재귀
+_7.1 리스트의 머리와 꼬리
+_7.2 머리와 꼬리를 사용해 리스트 처리하기
+_7.3 머리와 꼬리를 사용해 리스트 만들기
+_7.4 맵 함수 만들기
+_7.5 리스트를 줄여 하나의 값으로 만들기
+_7.6 더 복잡한 리스트 패턴
+_7.7 리스트 모듈 실전
+_7.8 리스트와 친해지기
+
+8장 맵, 키워드 리스트, 집합, 구조체
+_8.1 무엇을 써야 할까?
+_8.2 키워드 리스트
+_8.3 맵
+_8.4 패턴 매칭하기, 맵 수정하기
+_8.5 맵 수정하기
+_8.6 구조체
+_8.7 중첩된 딕셔너리 구조
+_8.8 집합
+_8.9 큰 힘은 큰 유혹을 낳는다
+
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
+국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제대로 배우는 파이썬/홍의경 지음/생능]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=290568612</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=290568612"/>
-        <updated>2022-03-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[제대로 배우는 파이썬
-홍의경 지음 / 생능 / 2022년 03월 / ISBN:9788970506784
-정가: 32,000원 / 판매가: 32,000원 / 마일리지: 960원
+        <title type="html"><![CDATA[파이썬 데이터 분석/장용식 지음/생능]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=290617918</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=290617918"/>
+        <updated>2022-03-10T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[파이썬 데이터 분석
+장용식 지음 / 생능 / 2022년 02월 / ISBN:9788970505602
+정가: 28,000원 / 판매가: 28,000원 / 마일리지: 138원
 이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드
 
 
 
 
-중간시험과 기말시험 기간을 제외하고 1주마다 1장씩 강의하도록 총 13개 장으로 구성하였다. 컴퓨팅 사고와 문제해결 능력을 키울 수 있도록 프로그래밍 원리와 개념을 충실히 설명하며, 개념을 이해하는 데 도움을 주는 그림들을 풍부하게 사용했다. 단순한 따라하기 방식과 매뉴얼 방식을 지양한다. 또한 파이썬에 관한 모든 장에서 파이썬의 기능을 설명하는 프로그램과 예제 프로그램들을 파이썬의 IDLE 셸 창 또는 편집기 창에 입력하고, 실행 결과와 함께 설명함으로써 독자들이 직접 실행했을 때 본 교재와 동일한 결과를 보장한다.
+학습 내용은 1장의 ‘데이터 분석과 머신러닝 개요’로 시작하여 2장~13장까지의 빅데이터 분석을 위한 12가지 머신러닝 기법들로 구성하였다. 각 장에서는 차원축소, 군집화, 연관분석, 분류분석, 회귀분석에 대한 대표적인 분석 알고리즘을 소개하였으며, 9장부터는 인공신경망을 이해하는 퍼셉트론을 시작으로 딥러닝을 단계적으로 소개하였다.
 
-CHAPTER 1 프로그래밍 기초
-1.1 컴퓨팅 사고와 문제 해결
-1.2 알고리즘은 문제 해결의 첫걸음
-1.3 순서도 vs. 의사 코드
-1.4 알고리즘 설계
-1.5 프로그래밍 언어
-1.6 프로그래밍
-1.7 구조적 프로그래밍
-연습문제
+머리말 
+학습 내용과 절차 
 
-CHAPTER 2 파이썬 기초
-2.1 파이썬이란?
-2.2 파이썬 설치
-2.3 프로그램 저장 및 불러오기
-2.4 입출력문
-2.5 들여쓰기
-2.6 서식 있는 print 문
-2.7 주석
-연습문제
+Chapter 1 데이터 분석과 머신러닝 개요 
+1.1 인공지능과 데이터 분석 
+1.2 머신러닝 기법 
+1.3 머신러닝 개발 환경 
 
-CHAPTER 3 변수와 식
-3.1 기본 데이터 타입
-3.2 변수와 상수
-3.3 배정문
-3.4 변수 이름을 정하는 규칙
-3.5 연산자와 식
-3.6 우선순위
-3.7 문자열에 관한 연산
-3.8 PEP 8
-연습문제
+Chapter 2 주성분분석 
+2.1 차원축소 개요 
+2.2 주성분분석의 기본 원리 
+2.3 주성분분석 예시 
+2.4 파이썬 기반 분석 
+2.5 응용: 붓꽃의 차원축소 
+요약 
+연습문제 
+응용문제: 보스톤 주택가격의 차원축소 
 
-CHAPTER 4 선택문
-4.1 조건식
-4.2 if 문의 종류
-4.3 if 문 - 단일 대안 선택 구조
-4.4 if-else 문– 양자 택일 선택 구조
-4.5 중첩된 if 문– 다자 택일 선택 구조
-4.6 if-elif-else 문– 다자 택일 선택 구조
-연습문제
+Chapter 3 K-평균 군집화 
+3.1 군집화 개요 
+3.2 K-평균 군집화의 기본 원리 
+3.3 K-평균 군집화의 예시 
+3.4 파이썬 기반 분석 
+3.5 응용: 붓꽃의 군집화 
+요약 
+연습문제 
+응용문제: 자동차 모델의 군집화 
 
-CHAPTER 5 반복문
-5.1 반복문이란?
-5.2 for 문
-5.3 range 함수
-5.4 while 문
-5.5 중첩된 반복문
-5.6 break 문과 continue 문
-5.7 for 문과 while 문의 비교
-5.8 무한 반복
-연습문제
+Chapter 4 Apriori 알고리즘 
+4.1 연관분석 개요 
+4.2 Apriori 알고리즘의 기본 원리 
+4.3 Apriori 알고리즘의 예시 
+4.4 파이썬 기반 분석 
+4.5 응용: 온라인 유통 상품의 연관성 분석 
+요약 
+연습문제 
+응용문제: ‘Adult’ 인구 조사 데이터 분석 
 
-CHAPTER 6 함수
-6.1 함수가 무엇인가?
-6.2 함수 정의
-6.3 함수 호출
-6.4 지역 변수
-6.5 전역 변수
-6.6 컴퓨팅 사고에 함수 활용
-6.7 순환 함수
-연습문제
+Chapter 5 K-최근접 이웃 알고리즘 
+5.1 KNN 개요 
+5.2 KNN 기본 원리 
+5.3 KNN의 예시 
+5.4 파이썬 기반 분류 
+5.5 파이썬 기반 회귀 
+5.6 응용: 유방암 진단 
+요약 
+연습문제 
+응용문제: 붓꽃 종의 분류 
 
-CHAPTER 7 리스트
-7.1 변수와 리스트
-7.2 리스트 표현식
-7.3 슬라이스
-7.4 리스트 메소드와 함수
-7.5 split 메소드
-연습문제
+Chapter 6 서포트 벡터 머신 
+6.1 SVM 개요 
+6.2 SVM의 기본 원리 
+6.3 SVM의 예시 
+6.4 파이썬 기반 분류 
+6.5 응용: 유방암 진단 
+요약 
+연습문제 
+응용문제: 붓꽃 종의 분류 
 
-CHAPTER 8 투플, 집합, 딕셔너리
-8.1 투플
-8.2 집합
-8.3 딕셔너리
-8.4 딕셔너리 활용
-연습문제
+Chapter 7 C5.0 
+7.1 의사결정나무 분석 개요 
+7.2 C5.0의 기본원리 
+7.3 C5.0의 예시 
+7.4 파이썬 기반 분석 
+7.5 응용: 붓꽃 종의 분류 
+요약 
+연습문제 
+응용문제: 유방암 진단 
 
-CHAPTER 9 파일 입출력
-9.1 텍스트 파일
-9.2 파일에서 읽기
-9.3 파일의 데이터 처리 예
-9.4 파일에 출력
-연습문제
+Chapter 8 경사하강법 
+8.1 경사하강법 개요 
+8.2 경사하강법의 기본 원리 
+8.3 경사하강법의 예시 
+8.4 파이썬 기반 분석 
+8.5 응용: 당노병 진단(단순회귀) 
+요약 
+연습문제 
+응용문제: 당뇨병 진단(다중 회귀분석) 
 
-CHAPTER 10 예외 처리
-10.1 에러의 종류
-10.2 디버깅
-10.3 예외 처리
-연습문제
-
-CHAPTER 11 모듈과 터틀
-11.1 모듈이란?
-11.2 모듈을 import하는 방법
-11.3 random 모듈
-11.4 ...
+Chapter 9 인공신경망과 퍼셉트론 
+9.1 인공신경망의 개요 
+9.2 퍼셉트론의 기본 원리 
+9.3 퍼셉트...
 
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
