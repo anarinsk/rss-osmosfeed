@@ -1,76 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-12T09:01:57.211Z</id>
+    <id>urn:2022-04-12T12:02:12.406Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-04-12T09:01:57.211Z</updated>
+    <updated>2022-04-12T12:02:12.406Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.8)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165267</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165267"/>
-        <updated>2022-04-12T09:01:34.426Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.8)’을 발표하였다.
-
-- [동향] 러시아, UN 인권이사회서 퇴출. 미국, 러시아 최혜국 지위 박탈 법안 승인 
-
-- [금융시장 반응] 주가, 지역별로 차별화. 국제유가는 中 수요둔화 우려 등으로 하락
-
-- [해외시각] 러-우 전쟁 장기화 전망. 세계경제 긍정적/부정적 시각 혼조 등]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Addressing COVID-19 outliers in BVARs with stochastic volatility]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165338</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165338"/>
-        <updated>2022-04-12T09:01:34.304Z</updated>
+        <updated>2022-04-12T12:01:47.345Z</updated>
         <summary type="html"><![CDATA[The COVID-19 pandemic has led to enormous data movements that strongly affect parameters and forecasts from standard VARs. To address these issues, we propose VAR models with outlier-augmented stochastic volatility (SV) that combine transitory and persistent changes in volatility. The resulting density forecasts are much less sensitive to outliers in the data than standard VARs. Predictive Bayes factors indicate that our outlier-augmented SV model provides the best data fit for the pandemic period, as well as for earlier subsamples of relatively high volatility. In historical forecasting, outlier-augmented SV schemes fare at least as well as a conventional SV model.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compound Risk Analysis of Natural Hazards and Infectious Disease Outbreaks]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165244</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165244"/>
-        <updated>2022-04-12T09:01:34.118Z</updated>
-        <summary type="html"><![CDATA[This study explores the potential impacts of compounding risk between natural hazards and infectious disease outbreaks such as the recent COVID-19 pandemic in the Central Asia Regional Economic Cooperation (CAREC) region. Compound risk occurs when two or more shock events overlap, inducing additional pressure on social and physical vulnerabilities. As part of the study, scenarios of a natural hazard occurring during an outbreak are created for each CAREC country. The study concludes that compound risk may pose a challenge for the CAREC region in terms of elevated costs of response due to higher operational complexity, longer timelines required for reconstruction, and higher procurement costs resulting from supply interruptions or price shocks. It is therefore important to consider compound risk when investing in disaster risk management.]]></summary>
+        <title type="html"><![CDATA[Tracking Economic Fluctuations in Bangladesh with Electricity Consumption]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165352</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165352"/>
+        <updated>2022-04-12T12:01:47.237Z</updated>
+        <summary type="html"><![CDATA[This paper investigates whether electricity consumption is a useful indicator for tracking economic fluctuations in Bangladesh. It presents monthly data on national electricity consumption since 1993 and daily consumption data since February 2010 for the country’s eight divisions. National electricity consumption is strongly correlated with other high-frequency indicators of economic activity, and it has declined during natural disasters and the COVID-19 lockdowns. The paper estimates an electricity consumption model that explains over 90 percent of the variation in daily consumption based on the trend, seasonality, within-week variation, holidays, Ramadan, and temperature. Deviations from the model prediction can act as in indicator of economic fluctuations. For example, during the first COVID-19 lockdown in April 2020, electricity consumption in Dhaka fell over 40 percent compared with normal and remained below the normal level until early 2021. The later lockdowns, in contrast, had only small additional impacts, in line with less stringent containment measures and more effective adaptation.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exploring the state of computer science education amid rapid policy expansion]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165336</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165336"/>
-        <updated>2022-04-12T09:01:34.096Z</updated>
-        <summary type="html"><![CDATA[The role of computers in daily life and the economy grows yearly, and that trend is only expected to continue for the foreseeable future. Those who learn and master computer science (CS) skills are widely expected to enjoy increased employment opportunities and more flexibility in their futures, though
-the U.S. currently produces too few specialists to meet future employment demands. Thus, providing exposure to CS during compulsory schooling years is believed to be key to maintaining economic growth, increasing employment outcomes for individuals, and reducing historical gaps in participation in technology fields by gender and race. Consequently, providing young people with access to quality CS education is increasingly seen as an urgent priority for public school systems in the U.S. and around the globe.]]></summary>
+        <title type="html"><![CDATA[Why ‘Paying in Rubles‘ May Prove Irrelevant]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165356</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165356"/>
+        <updated>2022-04-12T12:01:47.229Z</updated>
+        <summary type="html"><![CDATA[Russia has announced that, as of April 1, the natural gas it supplies to countries deemed “unfriendly” must be paid for in rubles rather than in dollars or euros. France and Germany, among others, have responded that their contracts are not in rubles and they will continue to pay only in the currencies negotiated in their contracts. The outcome of this dispute may be important in terms of political posturing, but it is unclear whether it makes a great deal of difference in economic terms.
+Ostensibly, the economic goal of Russia in this dispute is the strengthening of the ruble, by creating a greater demand for the currency. But the ruble is of little use for trade outside of Russia, a fact that has only been reinforced by the country’s invasion of Ukraine.
+Before this latest decree, Russ…]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The role of Venture Capital and Governments in Clean Energy: Lessons from the First Cleantech Bubble]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165347</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165347"/>
-        <updated>2022-04-12T09:01:33.970Z</updated>
-        <summary type="html"><![CDATA[After a boom and bust cycle in the early 2010s, venture capital (VC) investments are, once again, flowing towards green businesses. In this paper, we use Crunchbase data on 150,000 US startups founded between 2000 and 2020 to better understand why VC initially did not prove successful in funding new clean energy technologies. Both lackluster demand and a lower potential for outsized returns make clean energy firms less attractive to VC than startups in ICT or biotech. However, we find no clear evidence that characteristics such as high-capital intensity or long development timeframe are behind the lack of success of VC in clean energy. In addition, our results show that while public sector investments can help attract VC investment, the ultimate success rate of firms receiving public funding remains small. Thus, stimulating demand will have a greater impact on clean energy innovation than investing in startups that will then struggle through the “valley of death”. Rather than investing themselves in startups bound to struggle through the valleys of death, governments wishing to support clean energy startups can first implement demand-side policies that make investing in clean energy more viable.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rising costs set to stall growth in second quarter]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165342</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165342"/>
-        <updated>2022-04-12T09:01:33.929Z</updated>
-        <summary type="html"><![CDATA[February’s growth underperformed expectations at 0.1 per cent, despite positive contributions from the hospitality, travel agency and recreation sectors, which continued to normalise after Covid-19. Our final forecast for the first quarter of 2022 is for growth of 1.0 per cent.
-The 3.8 per cent month-on-month decline in healthcare output reflects a reduction in Covid-related activity. Falls in retail and manufacturing, on the other hand, may reflect the rising cost of consumer and producer goods even before the war in Ukraine began.
-Our initial nowcast for the second quarter of 2022 is for GDP unchanged from the first quarter, with a small quarter-on-quarter fall in production and a small rise in construction.
-“The normalisation of the economy after Covid continued in February, with monthly GDP now 1.5 per cent above its pre-pandemic level.  Although the 0.1 per cent growth in February was significantly slower than January, we saw rapid growth in tourism-related sectors like hotels and travel agencies, offset by reductions in Covid-related healthcare activity and construction, which was affected by Storms Dudley, Eunice and Franklin.”]]></summary>
+        <title type="html"><![CDATA[On ESG Investing: Heterogeneous Preferences, Information, and Asset Prices]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165345</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165345"/>
+        <updated>2022-04-12T12:01:47.049Z</updated>
+        <summary type="html"><![CDATA[We study how environmental, social and governance (ESG) investing reshapes information aggregation by prices. We develop a rational expectations equilibrium model in which traditional and green investors are informed about financial and ESG risks but have different preferences over them. Because of the preference heterogeneity, traditional and green investors trade in the opposite directions based on the same information. We show that the equilibrium price may not be uniquely determined. An increase in the fraction of green investors and an improvement in the ESG information quality can reduce price informativeness about the financial payoff and raise the cost of capital.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -79,7 +51,7 @@ Our initial nowcast for the second quarter of 2022 is for GDP unchanged from the
         <title type="html"><![CDATA[글로벌 캐리트레이드 청산 가능성 및 영향 점검]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165264</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165264"/>
-        <updated>2022-04-12T09:01:33.900Z</updated>
+        <updated>2022-04-12T12:01:47.041Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 「글로벌 캐리트레이드 청산 가능성 및 영향 점검」을 발표하였다.
 
 - [이슈] 최근 국제금융시장에서는 코로나 팬데믹 이후 급증한 캐리트레이드(Carry Trade)청산 관련한 우려가 커지고 있음. 실제 주요 캐리트레이드 지수들에서 과거 주요 청산 사례와 유사한 모습들이 발생
@@ -101,28 +73,10 @@ Our initial nowcast for the second quarter of 2022 is for GDP unchanged from the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아 디폴트 가능성 증대]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165266</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165266"/>
-        <updated>2022-04-12T09:01:33.892Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 「러시아 디폴트 가능성 증대」를 발표하였다.
-
-- (미국 정부의 러시아 제재 강화) 미국 재무부는 당초 5/25일까지 미국 은행들의 러시아 공공기관 자본거래 관련 외화지급 업무처리에 예외를 적용해 왔으나, 우크라이나 사태 교착에 따라 러시아 정부에 대한 압박을 한층 강화하는 차원에서 동 예외 적용을 4/4일부터 중단하기로 결정
-
-- (디폴트 가능성 대두) 금융시장에서는 금번 제재 강화 조치가 결국 러시아의 국제금융시장에서의 퇴출을 앞당기는 계기가 될 것으로 평가
-
-- (디폴트 관련 거래 증가) 서방의 제재 강화로 결국 러시아 디폴트 가능성이 커지면서 채권 시장에서는 러시아 채권 및 파생상품이 활발하게 거래 중
-
-- (시사점) 국제금융시장에서는 최근 일련의 사태로 러시아 디폴트가 임박한 것으로 평가. 러시아 신용지표에 내재된 러시아 디폴트 가능성은 1년 내 99%, 5년 내 88% 수준으로 반영]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코로나19 이후 해외 스타트업 정책동향과 주요 변화]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165258</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165258"/>
-        <updated>2022-04-12T09:01:33.884Z</updated>
+        <updated>2022-04-12T12:01:46.977Z</updated>
         <summary type="html"><![CDATA[KDB미래전략연구소가 「코로나19 이후 해외 스타트업 정책동향과 주요 변화」를 발표하였다.
 
 - 스타트업이 국가경제에서 차지하는 비중이 점차 커지고 있다. OECD에 따르면, 업력 5년 이내의 초기기업이 고용에서 차지하는 비중은 전체고용의 17%, 신규고용의 42%에 이른다. 전 세계 벤처펀드 연간 결성규모는 ‘11년 U$522억달러에서 ’21년 2,133억달러로 1 년간 4.1배 증가하였음.
@@ -139,85 +93,10 @@ Our initial nowcast for the second quarter of 2022 is for GDP unchanged from the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마이데이터 서비스의 국내 현황]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165256</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165256"/>
-        <updated>2022-04-12T09:01:33.801Z</updated>
-        <summary type="html"><![CDATA[KDB미래전략연구소가 「마이데이터 서비스의 국내 현황」을 발표하였다.
-
-- 디지털 기술 발전으로 데이터의 경제적 가치가 커짐에 따라 개인의 정보주권을 강화하고 데이터 산업 생태계 조성을 위해 금융 분야에 마이데이터 서비스를 도입
-
-- ’22.1월 마이데이터 전면 시행 이후 사업자 간 고객 선점을 위한 경쟁이 진행되고 있으며 정부는 향후 지속적인 발전을 위해 정보 범위 확장 및 보안 강화 등의 정책적 보완 예정]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인투자 관련 환경정책동향 (2022년 1분기)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165254</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165254"/>
-        <updated>2022-04-12T09:01:33.792Z</updated>
-        <summary type="html"><![CDATA[대한무역투자진흥공사가 『외국인투자 관련 환경정책동향 (2022년 1분기)』을 발표하였다.
-
-<목 차>
-
-Ⅰ. 주요 정책
-  1. 탄소중립·녹색성장기본법 시행
-  2. 환경분야 국가표준 193종, 국제표준 일치화
-  3. 2022년 무공해차 보급 정책방향 발표
-
-Ⅱ. 규제 개선
-  1. 중복규제 생활화학제품에 화학물질관리법 적용 유예
-  2. 화학물질 등록, 면제확인 간소화
-  3. 폐플라스틱 열분해 활성화를 위한 재활용 기준 마련
-  4. 고품질 재활용기준 마련 및 재활용 우수 포장재 확대
-
-Ⅲ. 산업계 지원
-  1. 기업 환경성평가 지침 마련 및 환경책임투자지원시스템 구축
-  2. 중소기업 화학안전시설 개선비용 지원
-  3. 배출권거래제 할당업체 대상 탄소중립설비 지원
-  4. 온실가스 감축을 위한 금융 지원 사업 신설]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산림복지서비스 전달체계 개선방안]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165268</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165268"/>
-        <updated>2022-04-12T09:01:33.779Z</updated>
-        <summary type="html"><![CDATA[한국농촌경제연구원이 『산림복지서비스 전달체계 개선방안』을 발표하였다.
-
-- 국가는 급증하고 다양화된 산림복지서비스 수요에 적극적으로 나서 대응해 왔으며, 민간에게도 수익 창출의 기회를 제공하고자 노력해 왔음. 현시점에서 산림복지와 관련된 제도적 기반은 탄탄함. 
-
-- 「산림복지 진흥에 관한 법률」이라는 독자 법률이 있으며, 법에 따른 산림복지진흥계획을 운영하고, 한국산림복지진흥원이라는 공공기관을 두고 있으며 매년 3천 명씩 산림복지전문가를 양성하고 있음. 정부의 과감한 정책 투자로 ‘산림복지’의 내용적, 시간적, 공간적 범위가 확장되었으나, 산림복지 전달체계 측면에서는 한계를 노출하고 있음.
-
-- 특히, 공급측면에서 공공 부문의 쏠림 현상이 분명하며, 민간 영역의 참여가 활발하지 않음. 즉, 공급 부문에 해당하는 산림복지서비스를 둘러싼 주체 간에 관계가 적절하게 설정되어 있지 않아, 결과적으로 수요자는 충분하게 산림복지 서비스를 누리지 못하고 있음. 2019년 기준, 산림휴양복지 시설 경험률은 18.7%에 불과함. 이상의 배경에서 산림복지서비스의 수급실태를 엄밀히 진단하여 ‘바람직한’ 산림복지 서비스 ‘전달체계’를 제시하고자 하였음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술규제 이해관계자협의 활성화를 위한 제언]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165222</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165222"/>
-        <updated>2022-04-12T09:01:33.765Z</updated>
-        <summary type="html"><![CDATA[과학기술정책연구원이 「기술규제 이해관계자협의 활성화를 위한 제언」을 발표하였다.
-
-- 본 연구는 기술규제와 관련한 이해관계자협의의 정책적 함의를 ‘법규 제·개정을 위한 협의’와 ‘정책다이얼로그형 협의’의 사례를 통해 살펴보고, 각 유형에서 나타나는 운영전략을 제시하고자 함.
-
-- 우선 ECHA와 같은 이해관계자협의 전문기관 및 각 국의 사례에서 이해관계자협의는 기술위험 요소를 선제적으로 발굴하여 이를 회피하면서도 사회·경제적 활용을 촉진할 수 있는 대안을 모색하는 공론의 장이라는 점을 볼 수 있었음. 또한 제도, 거버넌스, 과학적 근거 등과 같은 기술위험관리체계가 이미 마련되어 있는 경우와 그렇지 못한 경우의 이해관계자협의의 목표와 전략이 차별화 되어 있다는 점을 알 수 있었음. 이머징 기술이나 규제에 대한 사회적 신뢰도가 낮은 경우, ‘정책다이얼로그형’ 협의체를 ‘법규 제·개정을 위한 협의체’ 이전에 선행적으로 운영할 필요가 있음. 또한 해외 사례에서는 이해관계자협의체 운영결과를 정책에 반영하기 위한 사후조치 및 전달체계가 마련되어 있는 것을 볼 수 있었음.
-
-- 향후 이해관계자협의체의 성공적 운영을 위한 제안으로는 다음 네 가지를 제안함. 첫째, 장기간에 걸친 이해관계자협의체가 운영되고, 참여자의 역량이 증진될 수 있는 지원·육성이 필요함. 둘째, ‘이해관계자협의 촉진법(가칭)’을 제정하여 이해관계자협의를 제도화해야 함. 셋째, 협의체 운영 및 결과활용에 대한 가이드라인을 개발해야 함(협의 기획, 정보공개/공유, 진행과정, 사후조치 등에 관한 고려사항 제시). 넷째, 규제과학 연구 활성화를 통해 이해관계자협의가 풍부한 과학적 근거자료와 혁신동향에 관한 분석자료를 바탕으로 이루어져야 함.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기후변화 대응을 위한 기업들의 슬기로운 환경생활]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165229</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165229"/>
-        <updated>2022-04-12T09:01:33.728Z</updated>
+        <updated>2022-04-12T12:01:46.961Z</updated>
         <summary type="html"><![CDATA[하나금융경영연구소가 「기후변화 대응을 위한 기업들의 슬기로운 환경생활」을 발표하였다.
 
 - 최근 전세계가 기후위기에 직면하자 국내외 기업들은 탄소중립 달성을 위해 탄소 多배출 소재 저감, 재생에너지원 전환, 사업구조 전환 등으로 대응
@@ -232,113 +111,10 @@ Our initial nowcast for the second quarter of 2022 is for GDP unchanged from the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Consensus and Disagreement: Information Aggregation under (not so) Naive Learning]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165350</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165350"/>
-        <updated>2022-04-12T09:01:33.719Z</updated>
-        <summary type="html"><![CDATA[We explore a model of non-Bayesian information aggregation in networks. Agents non-cooperatively choose among Friedkin-Johnsen type aggregation rules to maximize payoffs. The DeGroot rule is chosen in equilibrium if and only if there is noiseless information transmission...leading to consensus. With noisy transmission, while some disagreement is inevitable, the optimal choice of rule blows up disagreement: even with little noise, individuals place substantial weight on their own initial opinion in every period, which inflates the disagreement. We use this framework to think about equilibrium versus socially efficient choice of rules and its connection to polarization of opinions across groups.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OECD Economic Surveys: Tunisia 2022]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165353</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165353"/>
-        <updated>2022-04-12T09:01:33.711Z</updated>
-        <summary type="html"><![CDATA[Tunisians are facing the worst crisis in a generation, as COVID-19 hit an economy that was already slowing down. Macroeconomic policy through fiscal stimulus and monetary easing limited the depth and severity of the recession, but the pandemic has exacerbated structural weaknesses, in particular low investment and job creation, high unemployment and informality, mismatch between skills demand and supply, and outward migration of high-skilled professionals. Children who have been deprived of school for a long period will face severe challenges in resuming normal life. The second OECD Economic Survey takes stock of progress made since 2018 and makes recommendations in key policy areas such as public spending, state-owned enterprises, employment, education, vocational training, trade, taxation and the business environment. Implementing such reforms would produce a large growth dividend and put public debt on a more sustainable path. But unless bold action is taken soon, the crisis will have a lasting effect on the potential of Tunisia to resume its income convergence process.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선박 대체연료 확산이 해운산업에 미치는 영향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165260</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165260"/>
-        <updated>2022-04-12T09:01:33.701Z</updated>
-        <summary type="html"><![CDATA[KDB미래전략연구소가 「선박 대체연료 확산이 해운산업에 미치는 영향」을 발표하였다.
-
-- IMO(국제해사기구)는 2050년까지 온실가스(GRG) 감축 비중을 200I년 대비 50% 감축하기 위해 다양한 규제방안을 시행함으로써 해운기업은 질소산화물 (NOx) 규제, 황산화물(SOx) 규제에 이어 탄소중립 혹은 무탄소 연료 사용을 검토하고 있음.
-
-- 기존 해운기업은 전통적인 선박연료인 벙커유를 사용하다가 고유황유에서 저유황유로의 전환, 스크러버(Scrubber) 설치, LNG 추진선 발주 확대 등을 통해 환경규제에 대응해 왔으나, 온실가스 감축 규제가 더욱 확대됨에 따라 무탄소 연료인 수소, 전기, 바이오 등 대체연료로의 전환을 고려해야 하는 상황임.
-
-- 세계 각국은 대체연료 사용이 가능한 선박 개발, 무탄소 연료를 사용한 선박 운항을 검토하고 있으며, 주요 조선소와 선사들도 이에 발 맞추어 새로운 대체 연료 적용 및 테스트에 발빠르게 나서고 있음. 특히 Maersk는 메탄올 추진선을 발주하는 등 새로운 대체연료 개발에 적극적으로 나서면서 자체투자를 통한 연료 조달을 추진하고 있음. 국적 선사들도 수소, 암모니아, 에탄올 등 대체 연료 개발에 적극적으로 나서야 하는 상황이나, 2050년까지 여전히 30여년의 유예기간이 남아 있고, 무탄소 대체연료에 대한 명확한 방향성과 대안이 여전히 부재한 상황에서 국내 선사들은 어려움을 겪고 있는 실정임.
-
-- 따라서 본 연구에서는 대체연료 부상이 해운기업의 선박연료 구매처, 구매 방식, 향후 운임에 대한 변화 등을 가져올 수 있는지 살펴보고 이를 위해 정책적, 금융적, 산업적 측면에서 고려해야 할 요인들을 도출함으로써 각각의 주체들이 대체연료 도입을 새로운 경쟁력 강화의 기회로 활용할 수 있길 바람.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Final Report Card on the States’ Response to COVID-19]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165344</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165344"/>
-        <updated>2022-04-12T09:01:33.683Z</updated>
-        <summary type="html"><![CDATA[Almost exactly two years ago COVID-19 spread to the United States. Following the federalism model, the 50 states and their governors and legislators made many of their own pandemic policy choices to mitigate the damage from the virus. States learned from one another over time about what policies worked most and least effectively in terms of containing the virus while minimizing the negative effects of lockdown strategies on businesses and children.
-This study is an expanded and updated version of an October 2020 report card of how pandemic health, economy, and policy varied across the 50 states and the District of Columbia (Committee to Unleash Prosperity 2020). It examines three variables: health outcomes, economic performance throughout the pandemic, and impact on education.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflation expectations and climate concern]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165243</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165243"/>
-        <updated>2022-04-12T09:01:33.675Z</updated>
-        <summary type="html"><![CDATA[Using survey data from German households, we find that individuals with lower climate concern tend to have higher inflation expectations up to five years ahead. This correlation is most pronounced among individuals with extremely high inflation expectations. Evaluating candidate explanations, we find that part of the link between climate concern and inflation expectations can be associated with individuals’ perceived exposures to climate-related risks and with their distrust in the central bank. Overall, our results suggest that climate change perceptions matter for inflation expectations.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Economic Shocks and Skill Acquisition: Evidence from a National Online Learning Platform at the Onset of COVID-19]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165346</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165346"/>
-        <updated>2022-04-12T09:01:33.666Z</updated>
-        <summary type="html"><![CDATA[We study how large shocks impact individuals’ skilling decisions using data from the largest online learning platform in Saudi Arabia. The onset of the COVID-19 pandemic brought about a massive increase in online skilling, and demand shifted towards courses that offered skills, such as telework, likely to be immediately valuable during the pandemic. Consistent with a model where individuals trade off reskilling costs with their expectations of future labor market conditions and their duration of work, we find that shifts into telework courses were largest for older workers. In contrast, younger workers increased enrollments in courses related to new skills, such as general, occupation-specific, and computer-related skills. Using national administrative employment data, we provide suggestive evidence that these investments in skills in early 2020 helped users maintain employment over the course of the pandemic.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Size discount and size penalty: trading costs in bond markets]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165246</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165246"/>
-        <updated>2022-04-12T09:01:33.657Z</updated>
-        <summary type="html"><![CDATA[We show that larger trades incur lower trading costs in government bond markets (‘size discount’), but costs increase in trade size after controlling for clients’ identities (‘size penalty’). The size discount is driven by the cross？client variation of larger traders obtaining better prices, consistent with theories of trading with imperfect competition. The size penalty, driven by the within？client variation, is larger for corporate bonds, during major macroeconomic surprises and during Covid？19. These differences are larger among more sophisticated clients, consistent with information？based theories. The size penalty in US Treasuries is about three times as small as in UK gilts.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poverty in India Has Declined over the Last Decade But Not As Much As Previously Thought]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165354</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165354"/>
-        <updated>2022-04-12T09:01:33.640Z</updated>
-        <summary type="html"><![CDATA[The last expenditure survey released by India’s National Sample Survey organization dates back to 2011, which is when India last released official estimates of poverty and inequality. This paper sheds light on how poverty and inequality have evolved since 2011 using a new household panel survey, the Consumer Pyramids Household Survey conducted by a private data company. The results show that: (1) extreme poverty is 12.3 percentage points lower in 2019 than in 2011, with greater poverty reductions in rural areas; (2) urban poverty rose by 2 percentage points in 2016 (coinciding with the demonetization event) and rural poverty reduction stalled by 2019 (coinciding with a slowdown in the economy); (3) poverty is estimated to be considerably higher than earlier projections based on consumption growth observed in national accounts; and (4) consumption inequality in India has moderated since 2011.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3.28일 일본 국채금리 상승에 대한 일본은행 대응 및 일본내 시장 반응]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165303</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165303"/>
-        <updated>2022-04-12T09:01:33.625Z</updated>
-        <summary type="html"><![CDATA[한국은행이 「3.28일 일본 국채금리 상승에 대한 일본은행 대응및일본내 시장 반응」을 발표하였다.
-
-- 3.28일 일본의 10년물 국채금리가 일본은행이 설정한 장기금리 변동범위(±0.25%) 상한인 0.25%까지 상승하면서, 16.1월 이후 최고 수준 도달. 일본은행은 장기금리 상승에 대응하여 3.28일 오전과 오후 2차례에 걸쳐 10년물국채를 0.25% 금리 수준에서 매입하는 지정가격 오퍼레이션을 실시하였으며, 이후 3.29~31일중 연속 지정가격 오펴레이션을 실시할 것을 발표
-
-- 일본은행은 장기금리 상승에 대응하여 3.28일 오전과 오후 2차례에 걸쳐 10년물국채를 0.25% 금리 수준에서 매입하는 지정가격 오퍼레이션*을 실시하였으며, 이후 3.29~31일중 연속 지정가격 오펴레이션을 실시할 것을 발표]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최근 신흥국 환율 여건 변화 및 전망]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165154</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165154"/>
-        <updated>2022-04-12T09:01:33.616Z</updated>
+        <updated>2022-04-12T12:01:46.953Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 『최근 신흥국 환율 여건 변화 및 전망』을 발표하였다.
 
 - [현황] 신흥국 통화는 작년말부터 시작된 글로벌 금융여건의 긴축 전환, 금년 2월말 돌발한 러시아-우크라이나 전쟁 등의 악재 속에서도 견조한 흐름을 유지. 신흥국통화지수는 미 연준이 통화정책 긴축 가속을 결정한 지난해 12월 이후 오히려 반등 했으며, 우크라이나 사태로 인한 급락도 2주 만에 일단락되며 전쟁 발발 이전 수준을 회복. 글로벌 금융여건(▲위험회피성향 ▲통화정책 ▲원자재 가격을 중심으로)이 러시아의 우크라이나 침공 (2/24일)을 전후해 달라진 점을 감안하여 향후 신흥국 통화의 향방을 가늠
@@ -354,30 +130,134 @@ This study is an expanded and updated version of an October 2020 report card of 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zombie Lending: Theoretical, International and Historical Perspectives]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165351</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165351"/>
-        <updated>2022-04-12T09:01:33.606Z</updated>
-        <summary type="html"><![CDATA[This paper surveys the theory on zombie lending incentives and the consequences of zombie lending for the real economy. It also offers a historical perspective by reviewing the growing empirical evidence on zombie lending along three dimensions: (i) the role of under-capitalized banks, (ii) effects on zombie firms, and (iii) spillovers and distortions for non-zombie firms. We then provide an overview of how zombie lending can be attenuated. Finally, we use a sample of U.S. publicly listed firms to compare various measures proposed in the literature to classify firms as ＂zombies.＂ We identify definitions of zombie firms that are adequate to investigate economic inefficiency in the form of real sector competitive distortions of zombie lending. We find that only definitions that are based on interest rate subsidies are able to detect these spillovers and thereby provide evidence in support of credit misallocation.]]></summary>
+        <title type="html"><![CDATA[WTO 2025: Restoring binding dispute settlement]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165349</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165349"/>
+        <updated>2022-04-12T12:01:46.946Z</updated>
+        <summary type="html"><![CDATA[Binding dispute settlement―the ability to obtain a final judgment of whether a member of the World Trade Organization (WTO) has acted inconsistently with its obligations―was the defining attribute of the WTO as created in 1995. Global commerce thrived on having the certainty provided by its taking place within this system. For well over a decade, the United States had complained that the dispute settlement system was undermining the trade remedies―antidumping, countervailing duties against subsidies, and safeguard actions against injurious imports―that were allowed under the WTO’s rules. When a populist US administration assumed office in 2017, it blocked appointments to the WTO’s Appellate Body. Today, the WTO dispute settlement system has become balkanized. The European Union and a number of other countries have banded together to put into place an alternative mechanism. Outside this system are the other two-thirds of the WTO members, including the United States. For most WTO members, no definitive result can be reached as to whether WTO obligations have been violated, as there is no assurance that WTO dispute settlement will be binding for them. This paper addresses how to reconstruct a system that the United States could join that would be broadly acceptable to others. It sets out a wide range of elements for negotiators to consider to rebuild the WTO dispute settlement system and make WTO agreements enforceable again.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On ESG Investing: Heterogeneous Preferences, Information, and Asset Prices]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165345</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165345"/>
-        <updated>2022-04-12T09:01:33.590Z</updated>
-        <summary type="html"><![CDATA[We study how environmental, social and governance (ESG) investing reshapes information aggregation by prices. We develop a rational expectations equilibrium model in which traditional and green investors are informed about financial and ESG risks but have different preferences over them. Because of the preference heterogeneity, traditional and green investors trade in the opposite directions based on the same information. We show that the equilibrium price may not be uniquely determined. An increase in the fraction of green investors and an improvement in the ESG information quality can reduce price informativeness about the financial payoff and raise the cost of capital.]]></summary>
+        <title type="html"><![CDATA[차기 정부의 보험 관련 정책 변화와 영향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165262</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165262"/>
+        <updated>2022-04-12T12:01:46.931Z</updated>
+        <summary type="html"><![CDATA[보험연구원이 「차기 정부의 보험 관련 정책 변화와 영향」을 발표하였다.
+
+- 2022년 5월로 예정된 새 정부의 출범은 노후소득, 건강보장, 모빌리티, 디지털금융, 금융소비자 보호 관련 정책 변화를 통해 보험산업에 직·간접적인 영향을 미칠 것으로 예상됨. 보험산업은 공적연금 개혁에 따른 민영보험의 역할 확대에 대비해야 하며, 정부의 건강보험 보장성 강화 과정에서 사회적 합의 도출 과정에 적극 참여해야 함. 또한 자동차보험의 공정하고 합리적인 보험료 책정과 보상에 대한 이슈 제기를 지속해야 할 것임. 한편, 빅테크의 보험업진출 가속화, 가상자산 활용 기회 제고 등에 대응하여 디지털경쟁력을 제고해야 하며, 마지막으로 금융소비자 보호 정책에 적극 동참함으로써 보험산업 신뢰도 제고에 힘써야 함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술규제 이해관계자협의 활성화를 위한 제언]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165222</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165222"/>
+        <updated>2022-04-12T12:01:46.924Z</updated>
+        <summary type="html"><![CDATA[과학기술정책연구원이 「기술규제 이해관계자협의 활성화를 위한 제언」을 발표하였다.
+
+- 본 연구는 기술규제와 관련한 이해관계자협의의 정책적 함의를 ‘법규 제·개정을 위한 협의’와 ‘정책다이얼로그형 협의’의 사례를 통해 살펴보고, 각 유형에서 나타나는 운영전략을 제시하고자 함.
+
+- 우선 ECHA와 같은 이해관계자협의 전문기관 및 각 국의 사례에서 이해관계자협의는 기술위험 요소를 선제적으로 발굴하여 이를 회피하면서도 사회·경제적 활용을 촉진할 수 있는 대안을 모색하는 공론의 장이라는 점을 볼 수 있었음. 또한 제도, 거버넌스, 과학적 근거 등과 같은 기술위험관리체계가 이미 마련되어 있는 경우와 그렇지 못한 경우의 이해관계자협의의 목표와 전략이 차별화 되어 있다는 점을 알 수 있었음. 이머징 기술이나 규제에 대한 사회적 신뢰도가 낮은 경우, ‘정책다이얼로그형’ 협의체를 ‘법규 제·개정을 위한 협의체’ 이전에 선행적으로 운영할 필요가 있음. 또한 해외 사례에서는 이해관계자협의체 운영결과를 정책에 반영하기 위한 사후조치 및 전달체계가 마련되어 있는 것을 볼 수 있었음.
+
+- 향후 이해관계자협의체의 성공적 운영을 위한 제안으로는 다음 네 가지를 제안함. 첫째, 장기간에 걸친 이해관계자협의체가 운영되고, 참여자의 역량이 증진될 수 있는 지원·육성이 필요함. 둘째, ‘이해관계자협의 촉진법(가칭)’을 제정하여 이해관계자협의를 제도화해야 함. 셋째, 협의체 운영 및 결과활용에 대한 가이드라인을 개발해야 함(협의 기획, 정보공개/공유, 진행과정, 사후조치 등에 관한 고려사항 제시). 넷째, 규제과학 연구 활성화를 통해 이해관계자협의가 풍부한 과학적 근거자료와 혁신동향에 관한 분석자료를 바탕으로 이루어져야 함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consensus and Disagreement: Information Aggregation under (not so) Naive Learning]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165350</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165350"/>
+        <updated>2022-04-12T12:01:46.917Z</updated>
+        <summary type="html"><![CDATA[We explore a model of non-Bayesian information aggregation in networks. Agents non-cooperatively choose among Friedkin-Johnsen type aggregation rules to maximize payoffs. The DeGroot rule is chosen in equilibrium if and only if there is noiseless information transmission...leading to consensus. With noisy transmission, while some disagreement is inevitable, the optimal choice of rule blows up disagreement: even with little noise, individuals place substantial weight on their own initial opinion in every period, which inflates the disagreement. We use this framework to think about equilibrium versus socially efficient choice of rules and its connection to polarization of opinions across groups.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stock Prices and the Russia-Ukraine War: Sanctions, Energy and ESG]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165341</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165341"/>
+        <updated>2022-04-12T12:01:46.909Z</updated>
+        <summary type="html"><![CDATA[An extraordinary mix of factors affected firm values in early 2022. In the build-up to and in the weeks after the Russian invasion of Ukraine, stocks strongly exposed to the regulatory risks of the transition to a low-carbon economy did well. This was true especially of US stocks. However, in Europe, these stocks tended to underperform after the invasion, arguably because of stronger expected policy responses supporting renewable energy sources in the face of the pronounced dependence of Europe on Russian oil and gas. Investors thus expect the speed of transition to a low-carbon economy to be diverging between the US and Europe. Relating six different Environmental, Social, and Governance (ESG) ratings with stock price performance yields mixed results, suggesting that investors cannot blindly rely on such ratings in general to indicate corporate resilience against crises. Companies which more frequently refer to inflation in their conference calls with analysts performed worse than their peers. Internationally oriented firms did poorly, and investors were particularly concerned regarding companies‘ exposure to China. Overall, the results offer a preview of the future economic impact of the Russia-Ukraine war.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제 원자재 가격 상승이 중소기업에 미치는 영향과 시사점]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165263</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165263"/>
+        <updated>2022-04-12T12:01:46.895Z</updated>
+        <summary type="html"><![CDATA[중소벤처기업연구원이 「국제 원자재 가격 상승이 중소기업에 미치는 영향과 시사점」을 발표하였다.
+
+- 최근 코로나19에 의한 원자재 수급 불균형과 우크라이나 사태 장기화로 주요 국제 원자재 가격이 급등함. ’22년 3월 기준 원유, 천연가스 등 에너지는 물론 철, 알루미늄, 구리, 니켈 등 주요 금속 및 비철금속 가격은 2018년 이후 가장 높은 수준을 기록
+
+- 자원 빈국인 우리나라의 원자재 수입 비중은 전체 수입의 50%를 차지, 이중 에너지 및 광물 비중이 70%로 대외 의존도가 높음. 특히 주요 광물 원자재 중 철광, 철강재, 비철금속의 특정 국가 수입 의존도가 높아 수급 불안에 유연한 대응이 어려운 구조임. 국제 원자재 가격 상승으로 우리나라 주요 원자재 수입단가지수는 지속 상승 추세에 있음.
+
+- 실증분석 결과 국제 원자재 가격 약 10% 상승 시 우리 중소기업의 영업이익은 약 0.8% 감소하는 경향이 있는 것으로 추정. 최근 주요 원자재 가격이 급등했고, 현재 수준이 장기화 될 경우 소규모 및 주요 업종 중소기업의 영업이익은 약 10~15%까지 감소할 것으로 전망. 특히 광물, 금속/비금속 원자재 수요가 상대적으로 높은 금속/비금속가공 및 제조, 기계/장비/운송 산업의 영업이익이 감소폭이 클 가능성이 높음.
+
+- 최근 우크라이나 사태 장기화 가능성과 수급불안정에 대한 우려 확대로 당분간 국제 원자재 가격 상승 압력이 지속될 것으로 전망. 국제 사회의 對러시아 제재 장기화와 불확실성 확대로 에너지, 원자재 가격 상승, 글로벌 공급망 교란이 심화될 것으로 예상됨. 또한 우크라이나 사태를 계기로 주요 자원 부국들의 ‘자원 무기화’, 보호주의 및 공급망 진영화가 심화될 경우 자원 빈국인 우리나라의 원자재 수급 불안은 구조적으로 가중될 가능성이 높음.
+
+- 우리정부는 공급망 리스크 확산 및 장기화 가능성을 염두하고, 특히 리스크 대응에 취약한 중소기업의 안정적 원자재 확보와 수익성 방어를 위한 신속하고 구체적인 방안을 마련할 필요. 국내외 원자재 수급 현황을 파악하고 예측, 대응할 수 있는 공급망 조기경보시스템(EWS)의 신속한 가동과 고도화가 필요. 특정 국가에 대한 원자재 의존도를 낮추기 위해 글로벌 경제안보 협력의 외연을 확대하고 안정적 해외자원개발을 위한 제도적 기반을 강화할 필요. 또한 국제 원자재시장의 불확실성 지속이 예상되는 만큼 중소기업의 원자재 비축 확대를 위한 정책 지원이 강화될 필요
+
+- 한편 중소기업들은 특정 국가에 과도하게 편중된 공급망을 자체적으로 점검, 정부가 구축한 국가 간 협력 기반 하에 수입선을 다변화하는 노력과 함께 기업 간 납품 단가 조정도 적극 나설 필요. 조기경보시스템에서 제공하는 원자재 수급 현황 및 예측, 대체가능 시장 정보 등을 적극 활용해 원자재 공급망 리스크를 최소화할 필요. 원자재 가격 상승분을 공급 가격에 반영하지 못할 경우 수익성 악화가 예상되는 만큼 밸류체인 전후방 기업 간 자율적 납품단가 조정 협의를 통해 상생협력을 도모할 필요. 또한 원자재 수급 불균형이 장기적, 구조적 문제로 대두될 가능성이 높은 만큼 중소기업들은 원가절감 노력, 공동구매 확대, 혁신을 통한 생산효율화를 도모할 필요]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아 디폴트 가능성 증대]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165266</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165266"/>
+        <updated>2022-04-12T12:01:46.887Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 「러시아 디폴트 가능성 증대」를 발표하였다.
+
+- (미국 정부의 러시아 제재 강화) 미국 재무부는 당초 5/25일까지 미국 은행들의 러시아 공공기관 자본거래 관련 외화지급 업무처리에 예외를 적용해 왔으나, 우크라이나 사태 교착에 따라 러시아 정부에 대한 압박을 한층 강화하는 차원에서 동 예외 적용을 4/4일부터 중단하기로 결정
+
+- (디폴트 가능성 대두) 금융시장에서는 금번 제재 강화 조치가 결국 러시아의 국제금융시장에서의 퇴출을 앞당기는 계기가 될 것으로 평가
+
+- (디폴트 관련 거래 증가) 서방의 제재 강화로 결국 러시아 디폴트 가능성이 커지면서 채권 시장에서는 러시아 채권 및 파생상품이 활발하게 거래 중
+
+- (시사점) 국제금융시장에서는 최근 일련의 사태로 러시아 디폴트가 임박한 것으로 평가. 러시아 신용지표에 내재된 러시아 디폴트 가능성은 1년 내 99%, 5년 내 88% 수준으로 반영]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a Website Bring Unemployment Down? Experimental Evidence from France]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165343</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165343"/>
+        <updated>2022-04-12T12:01:46.880Z</updated>
+        <summary type="html"><![CDATA[We evaluate the impact of an online platform giving job seekers tips to improve their search and recommendations of new occupations and locations to target, based on their personal data and labor market data. Our experiment used an encouragement design and was conducted in collaboration with the French public employment agency. It includes 212,277 individuals. We find modest effects on search methods: the users of the platform adopt some of its tips and they are more likely to use resources provided by public employment services. However, following individual trajectories for 18 months after the intervention, we do not observe any impact on time spent looking for a job, search scope (occupational or geographical), or self-reported well-being. Most importantly, we do not find any effect on any employment outcome, whether in the short or medium run. We conclude that the enthusiasm around the potential for job-search assistance platforms to help reduce unemployment should be toned down.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산림복지서비스 전달체계 개선방안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165268</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165268"/>
+        <updated>2022-04-12T12:01:46.872Z</updated>
+        <summary type="html"><![CDATA[한국농촌경제연구원이 『산림복지서비스 전달체계 개선방안』을 발표하였다.
+
+- 국가는 급증하고 다양화된 산림복지서비스 수요에 적극적으로 나서 대응해 왔으며, 민간에게도 수익 창출의 기회를 제공하고자 노력해 왔음. 현시점에서 산림복지와 관련된 제도적 기반은 탄탄함. 
+
+- 「산림복지 진흥에 관한 법률」이라는 독자 법률이 있으며, 법에 따른 산림복지진흥계획을 운영하고, 한국산림복지진흥원이라는 공공기관을 두고 있으며 매년 3천 명씩 산림복지전문가를 양성하고 있음. 정부의 과감한 정책 투자로 ‘산림복지’의 내용적, 시간적, 공간적 범위가 확장되었으나, 산림복지 전달체계 측면에서는 한계를 노출하고 있음.
+
+- 특히, 공급측면에서 공공 부문의 쏠림 현상이 분명하며, 민간 영역의 참여가 활발하지 않음. 즉, 공급 부문에 해당하는 산림복지서비스를 둘러싼 주체 간에 관계가 적절하게 설정되어 있지 않아, 결과적으로 수요자는 충분하게 산림복지 서비스를 누리지 못하고 있음. 2019년 기준, 산림휴양복지 시설 경험률은 18.7%에 불과함. 이상의 배경에서 산림복지서비스의 수급실태를 엄밀히 진단하여 ‘바람직한’ 산림복지 서비스 ‘전달체계’를 제시하고자 하였음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The End of Emergency Pandemic Unemployment Benefits in 2021]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165357</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165357"/>
-        <updated>2022-04-12T09:01:33.574Z</updated>
+        <updated>2022-04-12T12:01:46.865Z</updated>
         <summary type="html"><![CDATA[In response to the COVID-19 pandemic, the U.S. government launched a number of programs that greatly enhanced unemployment benefits. While successful in mitigating the impact of lost income for millions of workers, the generosity and duration of the benefits raised questions about whether these programs created disincentives to seek employment. In this blog post, we will examine whether the loss of enhanced federal benefits affected participation in regular state unemployment insurance programs. 
 Erratic Endings to Programs
 The question was further complicated by the fact that many states chose to withdraw from federal benefits early. In June and July of 2021, 26 states stopped providing Federal Pandemic Unemployment Compensation (FPUC), which added an extra $300 weekly to regular state …]]></summary>
@@ -386,69 +266,60 @@ The question was further complicated by the fact that many states chose to withd
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can a Website Bring Unemployment Down? Experimental Evidence from France]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165343</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165343"/>
-        <updated>2022-04-12T09:01:33.556Z</updated>
-        <summary type="html"><![CDATA[We evaluate the impact of an online platform giving job seekers tips to improve their search and recommendations of new occupations and locations to target, based on their personal data and labor market data. Our experiment used an encouragement design and was conducted in collaboration with the French public employment agency. It includes 212,277 individuals. We find modest effects on search methods: the users of the platform adopt some of its tips and they are more likely to use resources provided by public employment services. However, following individual trajectories for 18 months after the intervention, we do not observe any impact on time spent looking for a job, search scope (occupational or geographical), or self-reported well-being. Most importantly, we do not find any effect on any employment outcome, whether in the short or medium run. We conclude that the enthusiasm around the potential for job-search assistance platforms to help reduce unemployment should be toned down.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년층 불평등 현황과 과제: 노동시장, 소득 및 자산을 중심으로]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165226</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165226"/>
-        <updated>2022-04-12T09:01:33.545Z</updated>
-        <summary type="html"><![CDATA[한국보건사회연구원이 「청년층 불평등 현황과 과제: 노동시장, 소득 및 자산을 중심으로」를 발표하였다.
+        <title type="html"><![CDATA[선박 대체연료 확산이 해운산업에 미치는 영향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165260</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165260"/>
+        <updated>2022-04-12T12:01:46.849Z</updated>
+        <summary type="html"><![CDATA[KDB미래전략연구소가 「선박 대체연료 확산이 해운산업에 미치는 영향」을 발표하였다.
 
-- 청년 취업난, 청년소득빈곤, 청년주거빈곤 등 청년층을 둘러싼 사회문제가 코로나19의 영향으로 더욱 확 연히 드러나게 된 현재, ‘청년’은 정치적으로나 정책적으로 중요한 화두임. 청년층은 경기침체와 불안정한 고용 상황으로 소득이 낮고, 사회 진출 기간이 짧아 자산 형성이 어려울 수밖에 없음. 
+- IMO(국제해사기구)는 2050년까지 온실가스(GRG) 감축 비중을 200I년 대비 50% 감축하기 위해 다양한 규제방안을 시행함으로써 해운기업은 질소산화물 (NOx) 규제, 황산화물(SOx) 규제에 이어 탄소중립 혹은 무탄소 연료 사용을 검토하고 있음.
 
-- 그러나 여기서 더 주목해야 할 점은 이러한 청년층 내에서도 불평등이 존재한다는 것임. 「청년기본법」이 제정되고 2020년 제1 차 청년정책 기본계획이 수립되는 등 청년을 대상으로 한 정책이 시행되고 있음에도 여전히 청년을 위한 정 책적 수요가 높은 상황임. 다양하고 이질적인 청년 개개인에게 정책이 연결되도록 하기 위해서는 청년 세 대 내 불평등 양상을 살펴보아야 함. 따라서 청년층 내 불평등 현황을 노동시장 및 소득, 자산을 통해 살펴 보고 이를 해소하기 위한 정책 과제를 정리하고자 함.]]></summary>
+- 기존 해운기업은 전통적인 선박연료인 벙커유를 사용하다가 고유황유에서 저유황유로의 전환, 스크러버(Scrubber) 설치, LNG 추진선 발주 확대 등을 통해 환경규제에 대응해 왔으나, 온실가스 감축 규제가 더욱 확대됨에 따라 무탄소 연료인 수소, 전기, 바이오 등 대체연료로의 전환을 고려해야 하는 상황임.
+
+- 세계 각국은 대체연료 사용이 가능한 선박 개발, 무탄소 연료를 사용한 선박 운항을 검토하고 있으며, 주요 조선소와 선사들도 이에 발 맞추어 새로운 대체 연료 적용 및 테스트에 발빠르게 나서고 있음. 특히 Maersk는 메탄올 추진선을 발주하는 등 새로운 대체연료 개발에 적극적으로 나서면서 자체투자를 통한 연료 조달을 추진하고 있음. 국적 선사들도 수소, 암모니아, 에탄올 등 대체 연료 개발에 적극적으로 나서야 하는 상황이나, 2050년까지 여전히 30여년의 유예기간이 남아 있고, 무탄소 대체연료에 대한 명확한 방향성과 대안이 여전히 부재한 상황에서 국내 선사들은 어려움을 겪고 있는 실정임.
+
+- 따라서 본 연구에서는 대체연료 부상이 해운기업의 선박연료 구매처, 구매 방식, 향후 운임에 대한 변화 등을 가져올 수 있는지 살펴보고 이를 위해 정책적, 금융적, 산업적 측면에서 고려해야 할 요인들을 도출함으로써 각각의 주체들이 대체연료 도입을 새로운 경쟁력 강화의 기회로 활용할 수 있길 바람.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tracking Economic Fluctuations in Bangladesh with Electricity Consumption]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165352</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165352"/>
-        <updated>2022-04-12T09:01:33.528Z</updated>
-        <summary type="html"><![CDATA[This paper investigates whether electricity consumption is a useful indicator for tracking economic fluctuations in Bangladesh. It presents monthly data on national electricity consumption since 1993 and daily consumption data since February 2010 for the country’s eight divisions. National electricity consumption is strongly correlated with other high-frequency indicators of economic activity, and it has declined during natural disasters and the COVID-19 lockdowns. The paper estimates an electricity consumption model that explains over 90 percent of the variation in daily consumption based on the trend, seasonality, within-week variation, holidays, Ramadan, and temperature. Deviations from the model prediction can act as in indicator of economic fluctuations. For example, during the first COVID-19 lockdown in April 2020, electricity consumption in Dhaka fell over 40 percent compared with normal and remained below the normal level until early 2021. The later lockdowns, in contrast, had only small additional impacts, in line with less stringent containment measures and more effective adaptation.]]></summary>
+        <title type="html"><![CDATA[Exploring the state of computer science education amid rapid policy expansion]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165336</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165336"/>
+        <updated>2022-04-12T12:01:46.842Z</updated>
+        <summary type="html"><![CDATA[The role of computers in daily life and the economy grows yearly, and that trend is only expected to continue for the foreseeable future. Those who learn and master computer science (CS) skills are widely expected to enjoy increased employment opportunities and more flexibility in their futures, though
+the U.S. currently produces too few specialists to meet future employment demands. Thus, providing exposure to CS during compulsory schooling years is believed to be key to maintaining economic growth, increasing employment outcomes for individuals, and reducing historical gaps in participation in technology fields by gender and race. Consequently, providing young people with access to quality CS education is increasingly seen as an urgent priority for public school systems in the U.S. and around the globe.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 주식시장 개인 매수세 약화 배경 및 영향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165270</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165270"/>
-        <updated>2022-04-12T09:01:33.519Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『국내 주식시장 개인 매수세 약화 배경 및 영향』을 발표하였다.
-
-- [이슈] 지난해 하반기 이후 국내 주가가 하락세를 보이는 가운데 개인투자자의 거래비중이 감소하고 순매수세도 약화되고 있어 그 배경과 영향을 점검
-
-- [배경] 개인 순매수 약화는 ▲투자여력 감소 ▲수익률 부진 ▲해외주식 선호 ▲시장신뢰 약화에 기인
- · (투자여력 감소) 코로나19 발생 이후 개인투자자 자금이 증시로 대량 유입(`20년중 투자자 예탁금 +139%)되었으나, 금리상승과 대출규제 등으로 개인의 투자여력이 임계점에 다다랐을 가능성
- · (수익률 부진) `21년 하반기 이후 코스피 지수의 하락세 전환으로 투자성과가 부진함에 따라 개인의 투자유인이 약화
- · (해외주식 선호) 주요국 증시 중 수익률이 양호하고 Big Tech 비중이 높으며 투자접근성이 용이한 미국으로 개인 투자자금이 이동
- · (시장신뢰 약화) 물적분할, 스톡옵션 논란 등 국내 증시의 개인투자자 보호조치 부족에 대한 불만 등이 투자 저해요인으로 작용했을 소지
-
-- [영향] 코로나19 팬데믹 기간 중 주가 지지 요인으로 작용한 개인 매수세가 약화되면서, 주가 하락에 미치는 외국인 투자자들의 영향력이 강화
- ·  ’ 21년 하반기 이후 개인의 거래비중이 축소되며 주가는 동일한 규모의 외국인 순매도로 이전보다 더 큰 폭 하락하는 등 외국인의 하방 영향력이 커진 상태
-
-- [시사점] 개인투자자의 매수세 약화는 최근과 같이 글로벌 불확실성이 큰 상황에서  국내증시의 복원력을 약화시키는 요인으로 작용
- · 개인투자자의 투기적 매매행태가 시장변동성을 확대시킨다는 지적도 있으나, 실제 지난 2년간 국내 증시에서는 개인의 대거 시장참여로 시장유동성이 제고되고 변동성이 하락하는 긍정적 효과가 발생
- · 한국 증시처럼 대외충격에 민감하고 외국인 투자비중이 높은 시장의 경우 내국인 투자자의 적극적 시장참여가 주가 복원력에 큰 영향을 미치며, 최근처럼 대외 불확실성이 높은 시기에는 그 중요성이 더욱 부각]]></summary>
+        <title type="html"><![CDATA[OECD Economic Surveys: Tunisia 2022]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165353</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165353"/>
+        <updated>2022-04-12T12:01:46.834Z</updated>
+        <summary type="html"><![CDATA[Tunisians are facing the worst crisis in a generation, as COVID-19 hit an economy that was already slowing down. Macroeconomic policy through fiscal stimulus and monetary easing limited the depth and severity of the recession, but the pandemic has exacerbated structural weaknesses, in particular low investment and job creation, high unemployment and informality, mismatch between skills demand and supply, and outward migration of high-skilled professionals. Children who have been deprived of school for a long period will face severe challenges in resuming normal life. The second OECD Economic Survey takes stock of progress made since 2018 and makes recommendations in key policy areas such as public spending, state-owned enterprises, employment, education, vocational training, trade, taxation and the business environment. Implementing such reforms would produce a large growth dividend and put public debt on a more sustainable path. But unless bold action is taken soon, the crisis will have a lasting effect on the potential of Tunisia to resume its income convergence process.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Final Report Card on the States’ Response to COVID-19]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165344</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165344"/>
+        <updated>2022-04-12T12:01:46.827Z</updated>
+        <summary type="html"><![CDATA[Almost exactly two years ago COVID-19 spread to the United States. Following the federalism model, the 50 states and their governors and legislators made many of their own pandemic policy choices to mitigate the damage from the virus. States learned from one another over time about what policies worked most and least effectively in terms of containing the virus while minimizing the negative effects of lockdown strategies on businesses and children.
+This study is an expanded and updated version of an October 2020 report card of how pandemic health, economy, and policy varied across the 50 states and the District of Columbia (Committee to Unleash Prosperity 2020). It examines three variables: health outcomes, economic performance throughout the pandemic, and impact on education.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[국내 방송사업자 콘텐츠 수출 현황 분석 - 방송프로그램(완성품)을 중심으로]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165228</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165228"/>
-        <updated>2022-04-12T09:01:33.504Z</updated>
+        <updated>2022-04-12T12:01:46.812Z</updated>
         <summary type="html"><![CDATA[정보통신정책연구원이 「국내 방송사업자 콘텐츠 수출 현황 분석 - 방송프로그램(완성품)을 중심으로」를 발표하였다.
 
 - 국내 방송사업자의 콘텐츠 수출 규모는 2017년~2020년 연평균 19.8%의 성장률을 보이며 2020년 4억 9,154만 달러 규모로 성장. 전체 수출 대비 지상파와 PP의 점유율이 2019년 역전된 이후 2020년에는 그 격차가 더욱 확대. 방송사업자의 콘텐츠 수출 중 가장 큰 비중을 차지하는 형태는 방송프로그램(완성품)이나, 포맷과 기타 형태(클립영상, 홍보영상 등)의 수출이 증가하면서 완성품이 차지하는 비중은 점차 감소하는 추세
@@ -475,45 +346,151 @@ The question was further complicated by the fact that many states chose to withd
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stock Prices and the Russia-Ukraine War: Sanctions, Energy and ESG]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165341</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165341"/>
-        <updated>2022-04-12T09:01:33.489Z</updated>
-        <summary type="html"><![CDATA[An extraordinary mix of factors affected firm values in early 2022. In the build-up to and in the weeks after the Russian invasion of Ukraine, stocks strongly exposed to the regulatory risks of the transition to a low-carbon economy did well. This was true especially of US stocks. However, in Europe, these stocks tended to underperform after the invasion, arguably because of stronger expected policy responses supporting renewable energy sources in the face of the pronounced dependence of Europe on Russian oil and gas. Investors thus expect the speed of transition to a low-carbon economy to be diverging between the US and Europe. Relating six different Environmental, Social, and Governance (ESG) ratings with stock price performance yields mixed results, suggesting that investors cannot blindly rely on such ratings in general to indicate corporate resilience against crises. Companies which more frequently refer to inflation in their conference calls with analysts performed worse than their peers. Internationally oriented firms did poorly, and investors were particularly concerned regarding companies‘ exposure to China. Overall, the results offer a preview of the future economic impact of the Russia-Ukraine war.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why ‘Paying in Rubles‘ May Prove Irrelevant]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165356</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165356"/>
-        <updated>2022-04-12T09:01:33.418Z</updated>
-        <summary type="html"><![CDATA[Russia has announced that, as of April 1, the natural gas it supplies to countries deemed “unfriendly” must be paid for in rubles rather than in dollars or euros. France and Germany, among others, have responded that their contracts are not in rubles and they will continue to pay only in the currencies negotiated in their contracts. The outcome of this dispute may be important in terms of political posturing, but it is unclear whether it makes a great deal of difference in economic terms.
-Ostensibly, the economic goal of Russia in this dispute is the strengthening of the ruble, by creating a greater demand for the currency. But the ruble is of little use for trade outside of Russia, a fact that has only been reinforced by the country’s invasion of Ukraine.
-Before this latest decree, Russ…]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WTO 2025: Restoring binding dispute settlement]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165349</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165349"/>
-        <updated>2022-04-12T09:01:33.408Z</updated>
-        <summary type="html"><![CDATA[Binding dispute settlement―the ability to obtain a final judgment of whether a member of the World Trade Organization (WTO) has acted inconsistently with its obligations―was the defining attribute of the WTO as created in 1995. Global commerce thrived on having the certainty provided by its taking place within this system. For well over a decade, the United States had complained that the dispute settlement system was undermining the trade remedies―antidumping, countervailing duties against subsidies, and safeguard actions against injurious imports―that were allowed under the WTO’s rules. When a populist US administration assumed office in 2017, it blocked appointments to the WTO’s Appellate Body. Today, the WTO dispute settlement system has become balkanized. The European Union and a number of other countries have banded together to put into place an alternative mechanism. Outside this system are the other two-thirds of the WTO members, including the United States. For most WTO members, no definitive result can be reached as to whether WTO obligations have been violated, as there is no assurance that WTO dispute settlement will be binding for them. This paper addresses how to reconstruct a system that the United States could join that would be broadly acceptable to others. It sets out a wide range of elements for negotiators to consider to rebuild the WTO dispute settlement system and make WTO agreements enforceable again.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF, 빅테크 금융서비스의 잠재리스크와 규제 방향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165251</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165251"/>
-        <updated>2022-04-12T09:01:33.234Z</updated>
-        <summary type="html"><![CDATA[예금보험공사가 「IMF, 빅테크 금융서비스의 잠재리스크와 규제 방향」을 발표하였다.
+        <title type="html"><![CDATA[외국인투자 관련 환경정책동향 (2022년 1분기)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165254</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165254"/>
+        <updated>2022-04-12T12:01:46.804Z</updated>
+        <summary type="html"><![CDATA[대한무역투자진흥공사가 『외국인투자 관련 환경정책동향 (2022년 1분기)』을 발표하였다.
 
-- 최근 빅테크의 금융서비스 제공이 본격화한 반면, 관련 규제 부재에 따른 기존 금융회사와의 규제 격차로 인한 불평등한 경쟁, 빅테크의 시스템적 중요도 증가 가능성 등을 고려할 때 빅테크 그룹 전반의 규제, 감독 필요]]></summary>
+<목 차>
+
+Ⅰ. 주요 정책
+  1. 탄소중립·녹색성장기본법 시행
+  2. 환경분야 국가표준 193종, 국제표준 일치화
+  3. 2022년 무공해차 보급 정책방향 발표
+
+Ⅱ. 규제 개선
+  1. 중복규제 생활화학제품에 화학물질관리법 적용 유예
+  2. 화학물질 등록, 면제확인 간소화
+  3. 폐플라스틱 열분해 활성화를 위한 재활용 기준 마련
+  4. 고품질 재활용기준 마련 및 재활용 우수 포장재 확대
+
+Ⅲ. 산업계 지원
+  1. 기업 환경성평가 지침 마련 및 환경책임투자지원시스템 구축
+  2. 중소기업 화학안전시설 개선비용 지원
+  3. 배출권거래제 할당업체 대상 탄소중립설비 지원
+  4. 온실가스 감축을 위한 금융 지원 사업 신설]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Size discount and size penalty: trading costs in bond markets]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165246</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165246"/>
+        <updated>2022-04-12T12:01:46.797Z</updated>
+        <summary type="html"><![CDATA[We show that larger trades incur lower trading costs in government bond markets (‘size discount’), but costs increase in trade size after controlling for clients’ identities (‘size penalty’). The size discount is driven by the cross？client variation of larger traders obtaining better prices, consistent with theories of trading with imperfect competition. The size penalty, driven by the within？client variation, is larger for corporate bonds, during major macroeconomic surprises and during Covid？19. These differences are larger among more sophisticated clients, consistent with information？based theories. The size penalty in US Treasuries is about three times as small as in UK gilts.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청년층 불평등 현황과 과제: 노동시장, 소득 및 자산을 중심으로]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165226</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165226"/>
+        <updated>2022-04-12T12:01:46.789Z</updated>
+        <summary type="html"><![CDATA[한국보건사회연구원이 「청년층 불평등 현황과 과제: 노동시장, 소득 및 자산을 중심으로」를 발표하였다.
+
+- 청년 취업난, 청년소득빈곤, 청년주거빈곤 등 청년층을 둘러싼 사회문제가 코로나19의 영향으로 더욱 확 연히 드러나게 된 현재, ‘청년’은 정치적으로나 정책적으로 중요한 화두임. 청년층은 경기침체와 불안정한 고용 상황으로 소득이 낮고, 사회 진출 기간이 짧아 자산 형성이 어려울 수밖에 없음. 
+
+- 그러나 여기서 더 주목해야 할 점은 이러한 청년층 내에서도 불평등이 존재한다는 것임. 「청년기본법」이 제정되고 2020년 제1 차 청년정책 기본계획이 수립되는 등 청년을 대상으로 한 정책이 시행되고 있음에도 여전히 청년을 위한 정 책적 수요가 높은 상황임. 다양하고 이질적인 청년 개개인에게 정책이 연결되도록 하기 위해서는 청년 세 대 내 불평등 양상을 살펴보아야 함. 따라서 청년층 내 불평등 현황을 노동시장 및 소득, 자산을 통해 살펴 보고 이를 해소하기 위한 정책 과제를 정리하고자 함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflation expectations and climate concern]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165243</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165243"/>
+        <updated>2022-04-12T12:01:46.774Z</updated>
+        <summary type="html"><![CDATA[Using survey data from German households, we find that individuals with lower climate concern tend to have higher inflation expectations up to five years ahead. This correlation is most pronounced among individuals with extremely high inflation expectations. Evaluating candidate explanations, we find that part of the link between climate concern and inflation expectations can be associated with individuals’ perceived exposures to climate-related risks and with their distrust in the central bank. Overall, our results suggest that climate change perceptions matter for inflation expectations.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rising costs set to stall growth in second quarter]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165342</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165342"/>
+        <updated>2022-04-12T12:01:46.766Z</updated>
+        <summary type="html"><![CDATA[February’s growth underperformed expectations at 0.1 per cent, despite positive contributions from the hospitality, travel agency and recreation sectors, which continued to normalise after Covid-19. Our final forecast for the first quarter of 2022 is for growth of 1.0 per cent.
+The 3.8 per cent month-on-month decline in healthcare output reflects a reduction in Covid-related activity. Falls in retail and manufacturing, on the other hand, may reflect the rising cost of consumer and producer goods even before the war in Ukraine began.
+Our initial nowcast for the second quarter of 2022 is for GDP unchanged from the first quarter, with a small quarter-on-quarter fall in production and a small rise in construction.
+“The normalisation of the economy after Covid continued in February, with monthly GDP now 1.5 per cent above its pre-pandemic level.  Although the 0.1 per cent growth in February was significantly slower than January, we saw rapid growth in tourism-related sectors like hotels and travel agencies, offset by reductions in Covid-related healthcare activity and construction, which was affected by Storms Dudley, Eunice and Franklin.”]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zombie Lending: Theoretical, International and Historical Perspectives]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165351</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165351"/>
+        <updated>2022-04-12T12:01:46.759Z</updated>
+        <summary type="html"><![CDATA[This paper surveys the theory on zombie lending incentives and the consequences of zombie lending for the real economy. It also offers a historical perspective by reviewing the growing empirical evidence on zombie lending along three dimensions: (i) the role of under-capitalized banks, (ii) effects on zombie firms, and (iii) spillovers and distortions for non-zombie firms. We then provide an overview of how zombie lending can be attenuated. Finally, we use a sample of U.S. publicly listed firms to compare various measures proposed in the literature to classify firms as ＂zombies.＂ We identify definitions of zombie firms that are adequate to investigate economic inefficiency in the form of real sector competitive distortions of zombie lending. We find that only definitions that are based on interest rate subsidies are able to detect these spillovers and thereby provide evidence in support of credit misallocation.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.28일 일본 국채금리 상승에 대한 일본은행 대응 및 일본내 시장 반응]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165303</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165303"/>
+        <updated>2022-04-12T12:01:46.749Z</updated>
+        <summary type="html"><![CDATA[한국은행이 「3.28일 일본 국채금리 상승에 대한 일본은행 대응및일본내 시장 반응」을 발표하였다.
+
+- 3.28일 일본의 10년물 국채금리가 일본은행이 설정한 장기금리 변동범위(±0.25%) 상한인 0.25%까지 상승하면서, 16.1월 이후 최고 수준 도달. 일본은행은 장기금리 상승에 대응하여 3.28일 오전과 오후 2차례에 걸쳐 10년물국채를 0.25% 금리 수준에서 매입하는 지정가격 오퍼레이션을 실시하였으며, 이후 3.29~31일중 연속 지정가격 오펴레이션을 실시할 것을 발표
+
+- 일본은행은 장기금리 상승에 대응하여 3.28일 오전과 오후 2차례에 걸쳐 10년물국채를 0.25% 금리 수준에서 매입하는 지정가격 오퍼레이션*을 실시하였으며, 이후 3.29~31일중 연속 지정가격 오펴레이션을 실시할 것을 발표]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이데이터 서비스의 국내 현황]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165256</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165256"/>
+        <updated>2022-04-12T12:01:46.742Z</updated>
+        <summary type="html"><![CDATA[KDB미래전략연구소가 「마이데이터 서비스의 국내 현황」을 발표하였다.
+
+- 디지털 기술 발전으로 데이터의 경제적 가치가 커짐에 따라 개인의 정보주권을 강화하고 데이터 산업 생태계 조성을 위해 금융 분야에 마이데이터 서비스를 도입
+
+- ’22.1월 마이데이터 전면 시행 이후 사업자 간 고객 선점을 위한 경쟁이 진행되고 있으며 정부는 향후 지속적인 발전을 위해 정보 범위 확장 및 보안 강화 등의 정책적 보완 예정]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poverty in India Has Declined over the Last Decade But Not As Much As Previously Thought]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165354</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165354"/>
+        <updated>2022-04-12T12:01:46.725Z</updated>
+        <summary type="html"><![CDATA[The last expenditure survey released by India’s National Sample Survey organization dates back to 2011, which is when India last released official estimates of poverty and inequality. This paper sheds light on how poverty and inequality have evolved since 2011 using a new household panel survey, the Consumer Pyramids Household Survey conducted by a private data company. The results show that: (1) extreme poverty is 12.3 percentage points lower in 2019 than in 2011, with greater poverty reductions in rural areas; (2) urban poverty rose by 2 percentage points in 2016 (coinciding with the demonetization event) and rural poverty reduction stalled by 2019 (coinciding with a slowdown in the economy); (3) poverty is estimated to be considerably higher than earlier projections based on consumption growth observed in national accounts; and (4) consumption inequality in India has moderated since 2011.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Economic Shocks and Skill Acquisition: Evidence from a National Online Learning Platform at the Onset of COVID-19]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165346</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165346"/>
+        <updated>2022-04-12T12:01:46.718Z</updated>
+        <summary type="html"><![CDATA[We study how large shocks impact individuals’ skilling decisions using data from the largest online learning platform in Saudi Arabia. The onset of the COVID-19 pandemic brought about a massive increase in online skilling, and demand shifted towards courses that offered skills, such as telework, likely to be immediately valuable during the pandemic. Consistent with a model where individuals trade off reskilling costs with their expectations of future labor market conditions and their duration of work, we find that shifts into telework courses were largest for older workers. In contrast, younger workers increased enrollments in courses related to new skills, such as general, occupation-specific, and computer-related skills. Using national administrative employment data, we provide suggestive evidence that these investments in skills in early 2020 helped users maintain employment over the course of the pandemic.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 금리 인상이 우리 수출에 미치는 영향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165250</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165250"/>
+        <updated>2022-04-12T12:01:46.708Z</updated>
+        <summary type="html"><![CDATA[한국무역협회가 『미국 금리 인상이 우리 수출에 미치는 영향』을 발표하였다.
+
+- 미국이 3월 연방공개시장위원회(FOMC)를 통해 연방기금금리 0.25%p 인상을 결정했음. 美연준이 팬데믹 발생 2년 만에 정책금리를 인상한 것은 올해 가파른 인플레이션 상승세가 가장 큰 요인임. 3월 FOMC에서 오는 5월 0.5%p 수준의 빅스텝 금리 인상과 양적긴축이 공식 논의되면서 다소 매파적인 모습도 보였지만, 미국은 완전고용에 대한 자신감을 바탕으로 긴축 의지를 숨기지 않고 있음. 그동안 시장과의 소통을 강화한 덕택에 3월 회의 직후 과거 긴축발작과 같은 움직임도 보이지 않음.
+
+- 미국의 금리 인상의 영향을 가장 크게 받는 것은 신흥국 경제임. 올해 신흥국 경제는 작년보다 성장세가 다소 둔화될 전망임. 산업생산과 구매자관리지수가 작년 4분기 이후에 하향세를 보이고 있고, 원자재 가격 상승으로 중국을 제외한 주요 제조업 신흥국들은 생산자 물가와 소비자 물가가 동시에 상승하는 이중고를 겪고 있음. 작년 이후 글로벌 경기가 회복 조짐을 보이면서 대부분의 신흥국도 수출입이 두 자릿수 증가세를 기록하고 있지만 칠레, 터키 등 일부 국가들은 수입이 훨씬 크게 증가하면서 무역수지가 큰 폭으로 악화되고 있음. 
+
+- 대부분의 신흥국들은 미국의 금리 인상에 앞서 선제적으로 금리를 인상하고 있지만 중국, 터키는 오히려 금리를 인하하면서 독자적인 행보를 걷고 있음. 신흥국 채권·자본·외환시장도 대부분은 약세를 보이며 미국의 금리 인상에 조심스런 반응을 보이고 있음. 다만, 신흥국 주식시장은 3월 금리 인상에 대한 불확실성이 사…]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -522,7 +499,7 @@ Before this latest decree, Russ…]]></summary>
         <title type="html"><![CDATA[이차전지 글로벌 시장동향 보고서]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165252</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165252"/>
-        <updated>2022-04-12T09:01:33.217Z</updated>
+        <updated>2022-04-12T12:01:46.701Z</updated>
         <summary type="html"><![CDATA[대한무역투자진흥공사가 『이차전지 글로벌 시장동향 보고서』를 발표하였다.
 
 <목 차>
@@ -562,51 +539,74 @@ Before this latest decree, Russ…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국제 원자재 가격 상승이 중소기업에 미치는 영향과 시사점]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165263</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165263"/>
-        <updated>2022-04-12T09:01:29.973Z</updated>
-        <summary type="html"><![CDATA[중소벤처기업연구원이 「국제 원자재 가격 상승이 중소기업에 미치는 영향과 시사점」을 발표하였다.
+        <title type="html"><![CDATA[Compound Risk Analysis of Natural Hazards and Infectious Disease Outbreaks]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165244</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165244"/>
+        <updated>2022-04-12T12:01:46.684Z</updated>
+        <summary type="html"><![CDATA[This study explores the potential impacts of compounding risk between natural hazards and infectious disease outbreaks such as the recent COVID-19 pandemic in the Central Asia Regional Economic Cooperation (CAREC) region. Compound risk occurs when two or more shock events overlap, inducing additional pressure on social and physical vulnerabilities. As part of the study, scenarios of a natural hazard occurring during an outbreak are created for each CAREC country. The study concludes that compound risk may pose a challenge for the CAREC region in terms of elevated costs of response due to higher operational complexity, longer timelines required for reconstruction, and higher procurement costs resulting from supply interruptions or price shocks. It is therefore important to consider compound risk when investing in disaster risk management.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The role of Venture Capital and Governments in Clean Energy: Lessons from the First Cleantech Bubble]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165347</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165347"/>
+        <updated>2022-04-12T12:01:46.677Z</updated>
+        <summary type="html"><![CDATA[After a boom and bust cycle in the early 2010s, venture capital (VC) investments are, once again, flowing towards green businesses. In this paper, we use Crunchbase data on 150,000 US startups founded between 2000 and 2020 to better understand why VC initially did not prove successful in funding new clean energy technologies. Both lackluster demand and a lower potential for outsized returns make clean energy firms less attractive to VC than startups in ICT or biotech. However, we find no clear evidence that characteristics such as high-capital intensity or long development timeframe are behind the lack of success of VC in clean energy. In addition, our results show that while public sector investments can help attract VC investment, the ultimate success rate of firms receiving public funding remains small. Thus, stimulating demand will have a greater impact on clean energy innovation than investing in startups that will then struggle through the “valley of death”. Rather than investing themselves in startups bound to struggle through the valleys of death, governments wishing to support clean energy startups can first implement demand-side policies that make investing in clean energy more viable.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 주식시장 개인 매수세 약화 배경 및 영향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165270</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165270"/>
+        <updated>2022-04-12T12:01:46.669Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 『국내 주식시장 개인 매수세 약화 배경 및 영향』을 발표하였다.
 
-- 최근 코로나19에 의한 원자재 수급 불균형과 우크라이나 사태 장기화로 주요 국제 원자재 가격이 급등함. ’22년 3월 기준 원유, 천연가스 등 에너지는 물론 철, 알루미늄, 구리, 니켈 등 주요 금속 및 비철금속 가격은 2018년 이후 가장 높은 수준을 기록
+- [이슈] 지난해 하반기 이후 국내 주가가 하락세를 보이는 가운데 개인투자자의 거래비중이 감소하고 순매수세도 약화되고 있어 그 배경과 영향을 점검
 
-- 자원 빈국인 우리나라의 원자재 수입 비중은 전체 수입의 50%를 차지, 이중 에너지 및 광물 비중이 70%로 대외 의존도가 높음. 특히 주요 광물 원자재 중 철광, 철강재, 비철금속의 특정 국가 수입 의존도가 높아 수급 불안에 유연한 대응이 어려운 구조임. 국제 원자재 가격 상승으로 우리나라 주요 원자재 수입단가지수는 지속 상승 추세에 있음.
+- [배경] 개인 순매수 약화는 ▲투자여력 감소 ▲수익률 부진 ▲해외주식 선호 ▲시장신뢰 약화에 기인
+ · (투자여력 감소) 코로나19 발생 이후 개인투자자 자금이 증시로 대량 유입(`20년중 투자자 예탁금 +139%)되었으나, 금리상승과 대출규제 등으로 개인의 투자여력이 임계점에 다다랐을 가능성
+ · (수익률 부진) `21년 하반기 이후 코스피 지수의 하락세 전환으로 투자성과가 부진함에 따라 개인의 투자유인이 약화
+ · (해외주식 선호) 주요국 증시 중 수익률이 양호하고 Big Tech 비중이 높으며 투자접근성이 용이한 미국으로 개인 투자자금이 이동
+ · (시장신뢰 약화) 물적분할, 스톡옵션 논란 등 국내 증시의 개인투자자 보호조치 부족에 대한 불만 등이 투자 저해요인으로 작용했을 소지
 
-- 실증분석 결과 국제 원자재 가격 약 10% 상승 시 우리 중소기업의 영업이익은 약 0.8% 감소하는 경향이 있는 것으로 추정. 최근 주요 원자재 가격이 급등했고, 현재 수준이 장기화 될 경우 소규모 및 주요 업종 중소기업의 영업이익은 약 10~15%까지 감소할 것으로 전망. 특히 광물, 금속/비금속 원자재 수요가 상대적으로 높은 금속/비금속가공 및 제조, 기계/장비/운송 산업의 영업이익이 감소폭이 클 가능성이 높음.
+- [영향] 코로나19 팬데믹 기간 중 주가 지지 요인으로 작용한 개인 매수세가 약화되면서, 주가 하락에 미치는 외국인 투자자들의 영향력이 강화
+ ·  ’ 21년 하반기 이후 개인의 거래비중이 축소되며 주가는 동일한 규모의 외국인 순매도로 이전보다 더 큰 폭 하락하는 등 외국인의 하방 영향력이 커진 상태
 
-- 최근 우크라이나 사태 장기화 가능성과 수급불안정에 대한 우려 확대로 당분간 국제 원자재 가격 상승 압력이 지속될 것으로 전망. 국제 사회의 對러시아 제재 장기화와 불확실성 확대로 에너지, 원자재 가격 상승, 글로벌 공급망 교란이 심화될 것으로 예상됨. 또한 우크라이나 사태를 계기로 주요 자원 부국들의 ‘자원 무기화’, 보호주의 및 공급망 진영화가 심화될 경우 자원 빈국인 우리나라의 원자재 수급 불안은 구조적으로 가중될 가능성이 높음.
-
-- 우리정부는 공급망 리스크 확산 및 장기화 가능성을 염두하고, 특히 리스크 대응에 취약한 중소기업의 안정적 원자재 확보와 수익성 방어를 위한 신속하고 구체적인 방안을 마련할 필요. 국내외 원자재 수급 현황을 파악하고 예측, 대응할 수 있는 공급망 조기경보시스템(EWS)의 신속한 가동과 고도화가 필요. 특정 국가에 대한 원자재 의존도를 낮추기 위해 글로벌 경제안보 협력의 외연을 확대하고 안정적 해외자원개발을 위한 제도적 기반을 강화할 필요. 또한 국제 원자재시장의 불확실성 지속이 예상되는 만큼 중소기업의 원자재 비축 확대를 위한 정책 지원이 강화될 필요
-
-- 한편 중소기업들은 특정 국가에 과도하게 편중된 공급망을 자체적으로 점검, 정부가 구축한 국가 간 협력 기반 하에 수입선을 다변화하는 노력과 함께 기업 간 납품 단가 조정도 적극 나설 필요. 조기경보시스템에서 제공하는 원자재 수급 현황 및 예측, 대체가능 시장 정보 등을 적극 활용해 원자재 공급망 리스크를 최소화할 필요. 원자재 가격 상승분을 공급 가격에 반영하지 못할 경우 수익성 악화가 예상되는 만큼 밸류체인 전후방 기업 간 자율적 납품단가 조정 협의를 통해 상생협력을 도모할 필요. 또한 원자재 수급 불균형이 장기적, 구조적 문제로 대두될 가능성이 높은 만큼 중소기업들은 원가절감 노력, 공동구매 확대, 혁신을 통한 생산효율화를 도모할 필요]]></summary>
+- [시사점] 개인투자자의 매수세 약화는 최근과 같이 글로벌 불확실성이 큰 상황에서  국내증시의 복원력을 약화시키는 요인으로 작용
+ · 개인투자자의 투기적 매매행태가 시장변동성을 확대시킨다는 지적도 있으나, 실제 지난 2년간 국내 증시에서는 개인의 대거 시장참여로 시장유동성이 제고되고 변동성이 하락하는 긍정적 효과가 발생
+ · 한국 증시처럼 대외충격에 민감하고 외국인 투자비중이 높은 시장의 경우 내국인 투자자의 적극적 시장참여가 주가 복원력에 큰 영향을 미치며, 최근처럼 대외 불확실성이 높은 시기에는 그 중요성이 더욱 부각]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차기 정부의 보험 관련 정책 변화와 영향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165262</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165262"/>
-        <updated>2022-04-12T09:01:29.956Z</updated>
-        <summary type="html"><![CDATA[보험연구원이 「차기 정부의 보험 관련 정책 변화와 영향」을 발표하였다.
+        <title type="html"><![CDATA[IMF, 빅테크 금융서비스의 잠재리스크와 규제 방향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165251</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165251"/>
+        <updated>2022-04-12T12:01:46.661Z</updated>
+        <summary type="html"><![CDATA[예금보험공사가 「IMF, 빅테크 금융서비스의 잠재리스크와 규제 방향」을 발표하였다.
 
-- 2022년 5월로 예정된 새 정부의 출범은 노후소득, 건강보장, 모빌리티, 디지털금융, 금융소비자 보호 관련 정책 변화를 통해 보험산업에 직·간접적인 영향을 미칠 것으로 예상됨. 보험산업은 공적연금 개혁에 따른 민영보험의 역할 확대에 대비해야 하며, 정부의 건강보험 보장성 강화 과정에서 사회적 합의 도출 과정에 적극 참여해야 함. 또한 자동차보험의 공정하고 합리적인 보험료 책정과 보상에 대한 이슈 제기를 지속해야 할 것임. 한편, 빅테크의 보험업진출 가속화, 가상자산 활용 기회 제고 등에 대응하여 디지털경쟁력을 제고해야 하며, 마지막으로 금융소비자 보호 정책에 적극 동참함으로써 보험산업 신뢰도 제고에 힘써야 함.]]></summary>
+- 최근 빅테크의 금융서비스 제공이 본격화한 반면, 관련 규제 부재에 따른 기존 금융회사와의 규제 격차로 인한 불평등한 경쟁, 빅테크의 시스템적 중요도 증가 가능성 등을 고려할 때 빅테크 그룹 전반의 규제, 감독 필요]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 금리 인상이 우리 수출에 미치는 영향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165250</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165250"/>
-        <updated>2022-04-12T09:01:29.947Z</updated>
-        <summary type="html"><![CDATA[한국무역협회가 『미국 금리 인상이 우리 수출에 미치는 영향』을 발표하였다.
+        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.8)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165267</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165267"/>
+        <updated>2022-04-12T12:01:43.381Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.8)’을 발표하였다.
 
-- 미국이 3월 연방공개시장위원회(FOMC)를 통해 연방기금금리 0.25%p 인상을 결정했음. 美연준이 팬데믹 발생 2년 만에 정책금리를 인상한 것은 올해 가파른 인플레이션 상승세가 가장 큰 요인임. 3월 FOMC에서 오는 5월 0.5%p 수준의 빅스텝 금리 인상과 양적긴축이 공식 논의되면서 다소 매파적인 모습도 보였지만, 미국은 완전고용에 대한 자신감을 바탕으로 긴축 의지를 숨기지 않고 있음. 그동안 시장과의 소통을 강화한 덕택에 3월 회의 직후 과거 긴축발작과 같은 움직임도 보이지 않음.
+- [동향] 러시아, UN 인권이사회서 퇴출. 미국, 러시아 최혜국 지위 박탈 법안 승인 
 
-- 미국의 금리 인상의 영향을 가장 크게 받는 것은 신흥국 경제임. 올해 신흥국 경제는 작년보다 성장세가 다소 둔화될 전망임. 산업생산과 구매자관리지수가 작년 4분기 이후에 하향세를 보이고 있고, 원자재 가격 상승으로 중국을 제외한 주요 제조업 신흥국들은 생산자 물가와 소비자 물가가 동시에 상승하는 이중고를 겪고 있음. 작년 이후 글로벌 경기가 회복 조짐을 보이면서 대부분의 신흥국도 수출입이 두 자릿수 증가세를 기록하고 있지만 칠레, 터키 등 일부 국가들은 수입이 훨씬 크게 증가하면서 무역수지가 큰 폭으로 악화되고 있음. 
+- [금융시장 반응] 주가, 지역별로 차별화. 국제유가는 中 수요둔화 우려 등으로 하락
 
-- 대부분의 신흥국들은 미국의 금리 인상에 앞서 선제적으로 금리를 인상하고 있지만 중국, 터키는 오히려 금리를 인하하면서 독자적인 행보를 걷고 있음. 신흥국 채권·자본·외환시장도 대부분은 약세를 보이며 미국의 금리 인상에 조심스런 반응을 보이고 있음. 다만, 신흥국 주식시장은 3월 금리 인상에 대한 불확실성이 사…]]></summary>
+- [해외시각] 러-우 전쟁 장기화 전망. 세계경제 긍정적/부정적 시각 혼조 등]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
