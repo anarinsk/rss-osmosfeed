@@ -268,7 +268,7 @@
           "description": "Black Hat Python 2/e\n저스틴 지이츠.팀 아널드 지음, 박재유 옮김 / 에이콘출판 / 2022년 04월 / ISBN:9791161756356\n정가: 28,000원 / 판매가: 25,200원 / 마일리지: 112원\n이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드\n\n\n\n\n다양한 해킹 도구를 사용하는 것도 좋지만, 본인이 원하는 기능을 자유자재로 구현해 낼 수 있다면 얼마나 더 편리할까? 직접 필요한 도구를 개발해 고급 보안 전문가로 발돋움할 수 있는 기회다. 2판은 1판의 내용에서 코드를 파이썬3으로 업그레이드하고 여러 최적화를 적용했다. 또한 디지털 포렌식 도구 제작 등의 새로운 내용도 추가했다. 전체적으로 멋진 공격 기법의 구현 방법을 전수하고 있기 때문에 흥미로운 부분이 많으며, 도구 개발에 필요한 프로그래밍 기술을 총체적으로 다룬다.\n\n1장. 파이썬 환경 구축\r\n__칼리 리눅스 설치\r\n__파이썬3 설치\r\n__IDE 설치\r\n__코드 작성 규약\r\n\r\n2장. 기초 네트워크 도구\r\n__한 문단으로 표현한 파이썬 네트워킹\r\n__TCP 클라이언트\r\n__UDP 클라이언트\r\n__TCP 서버\r\n__넷캣 대체하기\r\n____시험해 보기\r\n__TCP 프록시 구현\r\n____시험해 보기\r\n__파라미코를 이용한 SSH\r\n____시험해 보기\r\n__SSH 터널링\r\n____시험해 보기\r\n\r\n3장. 스니핑 도구 제작\r\n__UDP 호스트 탐지 도구 구현\r\n__윈도우 및 리눅스에서의 패킷 스니핑\r\n____시험해 보기\r\n__IP 계층 디코딩\r\n____ctypes 모듈\r\n____struct 모듈\r\n____IP 디코더 구현\r\n____시험해 보기\r\n__ICMP 디코딩\r\n____시험해 보기\r\n\r\n4장. 스카피를 이용한 네트워크 장악\r\n__이메일 로그인 정보 탈취\r\n____시험해 보기\r\n__스카피를 이용한 ARP 캐시 포이즈닝 공격\r\n____시험해 보기\r\n__pcap 처리\r\n____시험해 보기\r\n\r\n5장. 웹 해킹\r\n__웹 라이브러리 사용하기\r\n____파이썬2에서 사용하는 urllib2\r\n____파이썬3에서 사용하는 urllib\r\n____requests 라이브러리\r\n____lxml 및 BeautifulSoup 패키지\r\n__오픈 소스 웹 애플리케이션 파일 경로 파악\r\n____워드프레스 프레임워크 파악하기\r\n____실제 시스템 대상 실험\r\n____시험해 보기\r\n__디렉터리와 파일 경로 무차별 대입\r\n____시험해 보기\r\n__HTML 인증 양식 무차별 대입\r\n____시험해 보기\r\n\r\n6장. 버프 프록시 확장\r\n__설정\r\n__버프 퍼징\r\n____시험해 보기\r\n__버프에서 Bing 활용하기\r\n____시험해 보기\r\n__웹사이트 정보를 기반으로 비밀번호 모음집 생성\r\n____시험해 보기\r\n\r\n7장. 깃허브를 이용한 지휘 통제\r\n__깃허브 계정 설정\r\n__모듈 제작\r\n__트로이 목마 환경 설정\r\n__깃허브 기반의 트로이 목마 제작\r\n____파이썬 임포트 기능을 이용한 트릭\r\n____시험해 보기\r\n\r\n8장. 윈도우 트로이 목마 \r\n__키로깅 : 키 입력 탈취의 즐거움\r\n____시험해 보기\r\n__스크린샷 캡처\r\n__파이썬을 이용한 셸코드 실행\r\n____시험해 보기\r\n__샌드박스 탐지\r\n\r\n9장. 데이터 탈취의 기쁨...\n\n국내도서 > 컴퓨터/모바일 > OS/Networking > 네트워크 보안/해킹\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=292509384",
           "publishedOn": "2022-04-12T01:31:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "Black Hat Python 2/e/저스틴 지이츠.팀 아널드 지음, 박재유 옮김/에이콘출판",
           "imageUrl": null
         },
@@ -278,7 +278,7 @@
           "description": "배워서 바로 써먹는 데이터 분석 with 파이썬\n설진욱 지음 / 생능북스 / 2022년 04월 / ISBN:9788970505404\n정가: 26,000원 / 판매가: 23,400원 / 마일리지: 133원\n이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드\n\n\n\n\n파이썬 기초, 데이터 분석을 위한 라이브러리 사용법, 크롤링, 데이터 수집, 전처리, 시각화, 자연어 처리 등 다양한 데이터 분석 유형을 다루고 있다. 기본 문법과 활용법을 익힌 후 실생활 예제를 다룬 미니프로젝트를 통해 데이터 분석 기술을 습득할 수 있다. 마지막으로 연습문제를 통해 자신의 실력을 체크해볼 수 있다. 연습문제 정답은 생능출판사 홈페이지(https://booksr.co.kr/)를 통해 제공하고 있다.\n\nChapter 1 준비하기\r\n1.1 데이터 분석이란?\r\n1.2 파이썬 준비하기\r\n1.3 오라클 준비하기\r\n\r\nChapter 2 파이썬 다루기\r\n2.1 기초 문법\r\n2.2 내장 함수와 클래스\r\n2.3 파일 입출력, 모듈, 예외 처리\r\n2.4 프로젝트 : 미성년자 체크 프로그램 만들기\r\n\r\nChapter 3 데이터 분석을 위한 라이브러리\r\n3.1 넘파이를 이용한 배열\r\n3.2 판다스 기초\r\n3.3 판다스를 이용한 데이터 읽기와 저장\r\n3.4 판다스를 이용한 누락 데이터 처리와 데이터 집계 \r\n3.5 맷플롯립을 이용한 데이터 시각화\r\n3.6 프로젝트：영화 상영 건수에 대한 시각화\r\n\r\nChapter 4 크롤링\r\n4.1 urllib 라이브러리를 이용한 웹 페이지 크롤링 \r\n4.2 문자열의 집합을 표현하는 정규 표현식 \r\n4.3 Beautiful Soup 라이브러리를 이용한 웹 페이지 크롤링 \r\n4.4 프로젝트 : 네이버 영화 사이트에서 영화 순위 정보 수집하기\r\n\r\nChapter 5 데이터 수집, 전처리, 시각화\r\n5.1 프로젝트 : 치킨 회사 홈페이지에서 매장 위치 정보 수집하기\r\n5.2 프로젝트 : 치킨 매장 주소의 시각화를 위한 데이터 전처리\r\n5.3 프로젝트 : 치킨 매장 위치를 지도에 표시하기\r\n\r\nChapter 6 자연어 처리\r\n6.1 워드 클라우드\r\n6.2 텍스트 마이닝\r\n6.3 프로젝트 : 대통령 취임사를 워드 클라우드로 시각화하기\r\n\r\nChapter 7 데이터의 유형에 따른 데이터 분석\r\n7.1 데이터베이스에 저장된 정형 데이터 분석\r\n7.2 XML 문서로 저장된 반정형 데이터 분석\r\n7.3 JSON 문서로 저장된 반정형 데이터 분석\r\n7.4 프로젝트 : 공공 데이터 다루기\n\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 전산수학(SPSS/MATLAB)\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=292462027",
           "publishedOn": "2022-04-11T02:23:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "배워서 바로 써먹는 데이터 분석 with 파이썬/설진욱 지음/생능북스",
           "imageUrl": null
         },
@@ -288,7 +288,7 @@
           "description": "쏙쏙 들어오는 함수형 코딩\n에릭 노먼드 지음, 김은민 옮김 / 제이펍 / 2022년 04월 / ISBN:9791191600759\n정가: 35,000원 / 판매가: 31,500원 / 마일리지: 142원\n이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드\n\n\n\n\n소프트웨어의 복잡성을 다루기 위해 꼭 읽어야 할 책. 함수형 사고를 통해 의도하지 않은 복잡성이 코드 전체로 퍼져나가는 것을 막고 프로그래밍을 간단하게 하는 법을 담았다. 시스템의 상태를 바꾸는 액션과 그렇지 않은 계산을 구분하는 법을 익히고, 액션을 계산으로 리팩터링하여 단순한 소프트웨어로 만드는 방법을 배운다. \r\n\r\n또한, 비동기와 멀티스레드를 사용할 때 발생하는 시간에 관한 문제를 해결하는 방법을 알려준다. 반복적인 코드를 없애고 표현력을 높이는 방법도 알 수 있다. 더 좋은 소프트웨어를 만드는 데 많은 영감을 줄 것이다.\n\n옮긴이 머리말 xvii\r\n베타리더 후기 xix\r\n추천사 xxi\r\n머리말 xxvi\r\n감사의 글 xxviii\r\n이 책에 대하여 xxx\r\n\r\nCHAPTER 1 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다 1\r\n함수형 프로그래밍은 무엇인가요? 2\r\n실용적인 측면에서 함수형 프로그래밍 정의의 문제점 3\r\n함수형 프로그래밍 정의가 혼란스러운 관리자 4\r\n함수형 프로그래밍을 학문적 지식이 아닌 기술과 개념으로 보기 5\r\n액션과 계산, 데이터 구분하기 6\r\n함수형 프로그래머는 부를 때 조심해야 하는 코드를 구분합니다 7\r\n함수형 프로그래머는 실행하는 코드와 그렇지 않은 코드를 구분합니다 8\r\n함수형 프로그래머는 액션과 계산, 데이터를 구분합니다 9\r\n함수형 프로그래밍에서는 코드를 세 가지로 분류합니다 10\r\n액션, 계산, 데이터를 구분하면 어떤 장점이 있나요? 11\r\n다른 함수형 프로그래밍 책과 다른 점 12\r\n함수형 사고가 무엇인가요? 13\r\n이 책을 읽는 기본 규칙 14\r\n결론 16\r\n\r\nCHAPTER 2 현실에서의 함수형 사고 17\r\n토니 피자에 오신 것을 환영합니다 18\r\n파트 I: 액션과 계산, 데이터 19\r\n변경 가능성에 따라 코드 나누기 20\r\n파트 II: 일급 추상 21\r\n분산 시스템을 타임라인으로 시각화하기 22\r\n각각의 타임라인은 다른 순서로 실행됩니다 23\r\n어려운 경험을 통해 분산 시스템에 대해 배운 것 24\r\n타임라인 커팅: 로봇이 서로를 기다릴 수 있게 하기 25\r\n좋은 경험을 통해 타임라인에 대해 배운 것 26\r\n결론 27\r\n\r\nPART I 액션과 계산, 데이터\r\nCHAPTER 3 액션과 계산, 데이터의 차이를 알기 31\r\n액션과 계산, 데이터 32\r\n액션과 계산, 데이터는 어디에나 적용할 수 있습니다 33\r\n장보기 과정에서 배운 것 36\r\n새로 만드는 코드에 함수형 사고 적용하기 39\r\n쿠폰 보내는 과정을 그려보기 42\r\n쿠폰 보내는 과정 구현하기 47\r\n이미 있는 코드에 함수형 사고 적용하기 54\r\n액션은 코드 전체로 퍼집니다 56\r\n액션은 다양한 형태로 나타납니다 57\r\n결론 59\r\n\r\nCHAPTER 4 액션에서 계산 빼내기 61\r\nMegaMart.com에 오신 것을 환영합니다 62\r\n무료 배송비 계산하기 63\r\n세금 계산하기 64\r\n테스트하기 쉽게 만들기 ...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=292349292",
           "publishedOn": "2022-04-08T07:35:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "쏙쏙 들어오는 함수형 코딩/에릭 노먼드 지음, 김은민 옮김/제이펍",
           "imageUrl": null
         },
@@ -298,7 +298,7 @@
           "description": "클릭센스(QlikSense)로 빅데이터 시각화 끝내기 <모델링편>\n홍성수.홍성준 지음 / 부크크(bookk) / 2022년 03월 / ISBN:9791137277441\n정가: 30,200원 / 판매가: 30,200원 / 마일리지: 130원\n이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드\n\n\n\n\n프롤로그\r\n\r\n\r\n제1장. 클릭(Qlik) 모델\r\n  1. 연관 모델(Associative Model)\r\n  2. RDB와 Qlik 비교\r\n  3. 데이터 모델\r\n\r\n\r\n제2장. 클릭(Qlik) 모델링 고려 사항\r\n  1. 가상 키(Synthetic Key)란?\r\n  2. 가상 키 제거 방법\r\n  3. 순환 참조(Circular Reference)란?\r\n  4. 순환 참조 제거 방법\r\n\r\n\r\n제3장. 클릭(Qlik) 스크립트\r\n  1. 데이터 로드 편집기(Script Editor)\r\n  2. 데이터 구조에 대한 이해\r\n  3. 데이터 불러오기\r\n    3.1. 데이터 연결\r\n    3.2. 데이터 선택\r\n    3.3. 데이터 로드\r\n  4. 데이터 가공하기\r\n    4.1. 주석\r\n    4.2. 데이터 변환\r\n    4.3. 데이터 저장\r\n    4.4. 데이터 삭제\r\n    4.5. 데이터 복제\r\n    4.6. 데이터 제한\r\n\r\n\r\n제4장. 데이터 모델링 및 최적화\r\n  1. 열 결합(Join & Keep)\r\n  2. 행 결합(Concatenate & Noconcatenate)\r\n  3. Inline & Mapping Load\r\n  4. AutoNumber & Hash\r\n  5. Qualify & Unqualify\r\n  6. Link Table\r\n  7. Aggregation(Group by)\r\n\r\n\r\n제5장. 효율적인 데이터 처리\r\n  1. CrossTable\r\n  2. Genetic\r\n  3. IntervalMatch\r\n  4. Class\r\n  5. HidePrefix & HideSuffix\r\n  6. Peek\r\n  7. 변수(Variable) 설정\r\n  8. Master Calendar\r\n  9. Binary\r\n  10. Sleep\r\n  11. 조건문(IF)\r\n  12. 반복문(For & Next)\r\n  13. 서브루틴(Sub & Call)\r\n  14. 증분 로드(Incremental Load)\r\n\r\n\r\n제6장. 연산자 및 함수\r\n  1. 연산자\r\n  2. 조건 함수\r\n  3. 날짜 함수\r\n  4. 문자 함수\r\n\r\n\r\n제7장. 유용한 관리 기능\r\n  1. 데이터 파일 백업\r\n  2. Include 변수\r\n\r\n\r\n제8장. 디버깅\r\n  1. 디버깅(Debugging)이란?\r\n  2. 디버그 실행\r\n\r\n\r\n제9장. 데이터 모델링 따라하기(실전편)\r\n  1. 분석 요건 확인\r\n  2. 데이터 확인\r\n  3. 모델 설계\r\n  4. 데이터 모델링\r\n  5. 집계 데이터 가공\r\n  6. 화면 예시\r\n\r\n\r\n제10장. 공공데이터 OpenAPI 호출하기(응용편)\r\n  1. API 데이터 불러오기\r\n  ...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=292249241",
           "publishedOn": "2022-04-07T01:12:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "클릭센스(QlikSense)로 빅데이터 시각화 끝내기 <모델링편>/홍성수.홍성준 지음/부크크(bookk)",
           "imageUrl": null
         },
@@ -308,7 +308,7 @@
           "description": "XGBoost와 사이킷런을 활용한 그레이디언트 부스팅\n코리 웨이드 저자, 박해선 역자 / 한빛미디어 / 2022년 04월 / ISBN:9791162245392\n정가: 34,000원 / 판매가: 30,600원 / 마일리지: 134원\n이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드\n\n\n\n\n기본적인 머신러닝과 판다스부터 사용자 정의 변환기, 파이프라인과 희소 행렬로 새로운 데이터의 예측을 만드는 강력한 XGBoost 모델 튜닝까지 모두 다룬다. 또한 XGBoost의 탄생 배경과 XGBoost를 특별하게 만드는 수학적 이론과 기술, 물리학자와 천문학자가 우주를 연구하는 사례 연구까지 다양한 XGBoost의 흥미로운 이야기와 캐글 마스터들의 우승 비법까지 소개한다. 마지막으로 더 확실한 이해를 위해 원서에는 없는 친절하고 상세한 역자 노트와 다른 그레이디언트 부스팅 라이브러리를 배울 수 있는 한국어판만의 부록을 추가하여 내용을 더욱 가득 채웠다.\n\nCHAPTER 0 코딩 환경 설정\r\n0.1 아나콘다\r\n0.2 주피터 노트북 사용하기\r\n0.3 XGBoost\r\n0.4 버전\r\n\r\nPART 1 배깅과 부스팅\r\n\r\nCHAPTER 1 머신러닝 개요\r\n1.1 XGBoost 소개\r\n1.2 데이터 랭글링\r\n1.3 회귀 모델 만들기\r\n1.4 분류 모델 만들기\r\n1.5 마치며\r\n\r\nCHAPTER 2 결정 트리\r\n2.1 결정 트리 소개\r\n2.2 결정 트리 알고리즘\r\n2.3 분산과 편향\r\n2.4 결정 트리 하이퍼파라미터 튜닝\r\n2.5 심장 질환 예측하기 - 사례 연구\r\n2.6 마치며\r\n\r\nCHAPTER 3 배깅과 랜덤 포레스트\r\n3.1 배깅 앙상블\r\n3.2 랜덤 포레스트 살펴보기\r\n3.3 랜덤 포레스트 매개변수\r\n3.4 랜덤 포레스트 성능 높이기 ? 사례 연구\r\n3.5 마치며\r\n\r\nCHAPTER 4 그레이디언트 부스팅에서 XGBoost까지\r\n4.1 배깅에서 부스팅까지\r\n4.2 그레이디언트 부스팅 작동 방식\r\n4.3 그레이디언트 부스팅 매개변수 튜닝\r\n4.4 빅 데이터 다루기 - 그레이디언트 부스팅 vs XGBoost\r\n4.5 마치며\r\n\r\nPART 2 XGBoost\r\n\r\nCHAPTER 5 XGBoost 소개\r\n5.1 XGBoost 구조\r\n5.2 XGBoost 파라미터 최적화\r\n5.3 XGBoost 모델 만들기\r\n5.4 힉스 보손 찾기 ? 사례 연구\r\n5.5 마치며\r\n\r\nCHAPTER 6 XGBoost 하이퍼파라미터\r\n6.1 데이터와 기준 모델 준비\r\n6.2 XGBoost 하이퍼파라미터 튜닝\r\n6.3 조기 종료 적용\r\n6.4 하이퍼파라미터 결합\r\n6.5 하이퍼파라미터 조정\r\n6.6 마치며\r\n\r\nCHAPTER 7 XGBoost로 외계 행성 찾기\r\n7.1 외계 행성 찾기\r\n7.2 오차 행렬 분석하기\r\n7.3 불균형 데이터 리샘플링\r\n7.4 XGBClassifier 튜닝\r\n7.5 마치며\r\n\r\nPART 3 고급 XGBoost\r\n\r\nCHAPTER 8 XGBoost 기본 학습기\r\n8.1 여러 가지 기본 학습기\r\n8.2 gblinear 적용하기\r\n8.3 dart 비교하기\r\n8.4 XGBoost 랜덤 포레스트\r\n8.5 마치며\r\n\r\nCHAPTER 9 캐글 마스터에게 배우기\r\n9.1 캐글 대회 둘러보기\r\n9.2 특성 공학\r\n9.3 상관관계가 낮은 앙상블 만들기\r\n9.4 스태킹\r\n9.5 마치며\r\n\r\nCHAPTER 10 XGBoost 모델 배포\r\n10.1 혼합 데이터 인코딩\r\n10.2 사용자 정의 사이킷런 변환기\r\n10.3 XGBoost 모델 만들...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 전산수학(SPSS/MATLAB)\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=292185214",
           "publishedOn": "2022-04-06T01:57:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "XGBoost와 사이킷런을 활용한 그레이디언트 부스팅/코리 웨이드 저자, 박해선 역자/한빛미디어",
           "imageUrl": null
         },
@@ -318,7 +318,7 @@
           "description": "Go로 구현하는 클라우드 네이티브 애플리케이션\n미나 안드라오스.마틴 헬미크 지음, 박병주 옮김 / 에이콘출판 / 2022년 04월 / ISBN:9791161756264\n정가: 35,000원 / 판매가: 31,500원 / 마일리지: 146원\n이벤트: 컴퓨터/모바일_미니 메쉬 파우치, 양장노트, 노트패드\n\n\n\n\n도커와 쿠버네티스의 개발 언어인 Go를 사용해 AWS상의 여러 핵심 서비스로 구성되는 마이크로서비스 아키텍처(MSA) 기반의 클라우드 네이티브 애플리케이션 개발을 다룬다. 기본적인 Go 언어 문법과 웹 개발 기초 지식이 있는 독자를 대상으로 현대적인 애플리케이션 구현에 필요한 아키텍처, 보안, 배포, 모니터링, 디자인 패턴 등 전반적인 지식을 실제 코드를 통해 학습할 수 있다.\n\n1장. 현대적인 마이크로서비스 아키텍처\r\n\r\n__왜 Go 언어인가?\r\n__기본 설계 목표\r\n__클라우드 서비스 모델\r\n__클라우드 애플리케이션 아키텍처 패턴\r\n____12 요소 앱\r\n____마이크로서비스란 무엇인가?\r\n____마이크로서비스 배포\r\n____REST 웹 서비스와 비동기식 메시징\r\n__MyEvents 플랫폼\r\n__요약\r\n\r\n\r\n02장. Rest API를 사용한 마이크로서비스 구축\r\n\r\n__배경\r\n____마이크로서비스란?\r\n______마이크로서비스의 내부\r\n__RESTful 웹 API\r\n____Gorilla 웹 툴킷\r\n__Restful API 구현\r\n____지속성 계층\r\n____몽고DB\r\n____몽고DB와 Go 언어\r\n__RESTful API 핸들러 함수 구현\r\n__요약\r\n\r\n\r\n03장. 마이크로서비스 보안\r\n\r\n__HTTPS\r\n____대칭 암호화 방식\r\n______HTTPS에서 대칭키 알고리듬\r\n____비대칭 암호화 방식\r\n______HTTP에서 비대칭 암호화 방식\r\n__Go에서의 안전한 웹 서비스\r\n____인증서 얻기\r\n______OpenSSL\r\n______generate_cert.go\r\n____Go에서 HTTPS 서버 구축\r\n__요약\r\n\r\n\r\n04장. 메시지 큐를 사용한 비동기 마이크로서비스 아키텍처\r\n\r\n__발행/구독 패턴\r\n__예약 서비스 소개\r\n__이벤트 콜라보레이션\r\n__RabbitMQ로 발행/구독 구현\r\n____고급 메시지 큐잉 프로토콜\r\n____도커로 하는 RabbitMQ 빠른 시작\r\n____고급 RabbitMQ 설정\r\n____Go로 RabbitMQ 연결\r\n____AMQP 메시지 발행과 구독\r\n____이벤트 배출자 작성\r\n____이벤트 구독자 작성\r\n____예약 서비스 작성\r\n__이벤트 소싱\r\n__아파치 카프카로 발행/구독과 이벤트 소싱 구현\r\n____도커로 카프카 빨리 시작\r\n____아파치 카프카의 기본 원칙\r\n____Go로 카프카에 연결\r\n____카프카로 메시지 발행\r\n____카프카에서 메시지 소비\r\n__요약\r\n\r\n\r\n05장. 리액트로 프론트엔드 구축\r\n\r\n__리액트 시작\r\n____Node.js와 타입스크립트 설정\r\n____리액트 프로젝트 초기화\r\n__리액트 기본 원칙\r\n____MyEvents 프론트엔드 시동 걸기\r\n____이벤트 리스트 구현\r\n______자신의 클라이언트 가져오기\r\n__이벤트 리스트 구성 요소 구축\r\n____백엔드 서비스에서 CORS 활성화...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 데이터베이스 프로그래밍 > 데이터베이스 구축\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=291824109",
           "publishedOn": "2022-03-30T06:15:00.000Z",
-          "wordCount": null,
+          "wordCount": 18,
           "title": "Go로 구현하는 클라우드 네이티브 애플리케이션/미나 안드라오스.마틴 헬미크 지음, 박병주 옮김/에이콘출판",
           "imageUrl": null
         },
@@ -476,6 +476,26 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/two-dimensional-feature-ecb-monetary-policy",
+          "author": "Lucrezia Reichlin, Giovanni Ricco, Anshumaan  Tuteja",
+          "description": "The ECB has to decide not only on the timing and speed of exit from monetary easing, but also on the sequence. This column uses an empirical model to show that a short-term interest rate tightening in the euro area has undesired effects on output, inflation, and stock market prices if it is coupled with a widening of sovereign spreads. To be effective, the combination of monetary policy instruments as well as the sequence of the use of the tools in the announced tightening cycle must ensure both an increase in the position of the ‘risk-free’ yield curve and control of sovereign spreads.",
+          "link": "https://voxeu.org/article/two-dimensional-feature-ecb-monetary-policy",
+          "publishedOn": "2022-04-14T00:00:00.000Z",
+          "wordCount": 2903,
+          "title": "The two-dimensional feature of ECB monetary policy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/why-fiscal-multipliers-estimates-change-over-time-and-what-determines-their-magnitude",
+          "author": "Atsushi Inoue, Barbara  Rossi, Yiru Wang",
+          "description": "Estimates of ﬁscal policy multipliers differ widely in the literature. A possible explanation for this wide range of estimates is that the effects of ﬁscal shocks and the government spending multipliers vary over time, but what exactly determines them is an open question. Using a new time-varying parameter local projection with instrumental variables technique, this column sheds new light on the magnitude of time variation in the effects of fiscal policy shocks and multipliers.",
+          "link": "https://voxeu.org/article/why-fiscal-multipliers-estimates-change-over-time-and-what-determines-their-magnitude",
+          "publishedOn": "2022-04-14T00:00:00.000Z",
+          "wordCount": 1979,
+          "title": "Why fiscal multipliers estimates change over time and what determines their magnitude",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/impact-uncertainty-investment-russian-firms",
           "author": "Sumru Altuğ, Sevcan Yesiltas",
           "description": "The 2014 Ukraine crisis resulted in sanctions being imposed on the Russian economy. This column analyses the economic uncertainty these sanctions generated and the impact on investment by Russian non-financial firms. It shows that investment in the non-financial sector declined after the sanctions were imposed. Sectoral variation in foreign exchange debt exposure, oil cost dependence, and exposure of inputs to indirect sanctions are all important mechanisms through which the heightened uncertainty operated. This has important implications for the Russian economy, which is facing severe sanctions as a result of the current war with Ukraine.",
@@ -496,6 +516,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/monetary-policy-and-financial-stability-implications-central-bank-digital-currencies",
+          "author": "Jean-Francois Jamet, Arnaud Mehl, Cyril Max Neumann, Fabio Panetta",
+          "description": "Central banks around the world are exploring the possibility of issuing retail central bank digital currencies. This column takes stock of advances in research on their possible implications for financial stability and monetary policy depending on their design. It also identifies avenues for further research that could usefully inform future policy decisions on such currencies.",
+          "link": "https://voxeu.org/article/monetary-policy-and-financial-stability-implications-central-bank-digital-currencies",
+          "publishedOn": "2022-04-13T00:00:00.000Z",
+          "wordCount": 3362,
+          "title": "Monetary policy and financial stability implications of central bank digital currencies",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/impact-russian-invasion-ukraine-uk-economy",
           "author": "Ethan Ilzetzki",
           "description": "The March 2022 CfM survey asked the members of its UK panel how the Bank of England and the UK Treasury should respond to the economic fallout of the war in Ukraine on the UK economy. A solid majority of the panel think that the Bank of England should slow the pace of interest rate increases planned this year due to the events in Eastern Europe. The panel is nearly unanimous that the government should increase public spending, but is split on whether increased spending should exceed inflation and on whether taxes should be increased or cut in response to recent events.",
@@ -513,16 +543,6 @@
           "publishedOn": "2022-04-13T00:00:00.000Z",
           "wordCount": 1933,
           "title": "Overheating conditions indicate high probability of a US recession",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/monetary-policy-and-financial-stability-implications-central-bank-digital-currencies",
-          "author": "Jean-Francois Jamet, Arnaud Mehl, Cyril Max Neumann, Fabio Panetta",
-          "description": "Central banks around the world are exploring the possibility of issuing retail central bank digital currencies. This column takes stock of advances in research on their possible implications for financial stability and monetary policy depending on their design. It also identifies avenues for further research that could usefully inform future policy decisions on such currencies.",
-          "link": "https://voxeu.org/article/monetary-policy-and-financial-stability-implications-central-bank-digital-currencies",
-          "publishedOn": "2022-04-13T00:00:00.000Z",
-          "wordCount": 3362,
-          "title": "Monetary policy and financial stability implications of central bank digital currencies",
           "imageUrl": null
         },
         {
@@ -553,26 +573,6 @@
           "publishedOn": "2022-04-11T00:00:00.000Z",
           "wordCount": 2327,
           "title": "Reconciling the EU’s domestic and global agendas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/role-capital-controls-and-macroprudential-measures-taming-capital-flows",
-          "author": "Jean-Charles Bricongne, Rémy Lecat",
-          "description": "Despite the large capital outflows during the Covid-19 crisis, emerging economies did not make extensive use of capital controls. Indeed, these have had limited effects on capital outflows, being more effective on inflows. This column shows that macroprudential measures on the financial sector, which are increasingly part of the policy mix, have a positive impact on outflows when applied in the origin country and a negative impact on inflows when applied in the destination country. Cooperation between origin and destination countries, both on capital controls and macroprudential measures, has more than additive effects.",
-          "link": "https://voxeu.org/article/role-capital-controls-and-macroprudential-measures-taming-capital-flows",
-          "publishedOn": "2022-04-11T00:00:00.000Z",
-          "wordCount": 1999,
-          "title": "The role of capital controls and macroprudential measures in taming capital flows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/import-liberalisation-export-destruction",
-          "author": "Holger Breinlich, Elsa Leromain, Dennis Novy, Thomas Sampson",
-          "description": "Import liberalisation brings down import costs and increases competition. But with scale economies, import liberalisation can also reduce the productivity of domestic industry by shrinking its scale, leading to lower exports.  As this column shows, evidence from the permanent normalisation of US trade relations with China in the early 2000s reveals that increased Chinese import competition indeed reduced US exports through this channel, implying the presence of industry-level scale economies in the US. Nevertheless, aggregate US openness still increased and the liberalisation raised US welfare.",
-          "link": "https://voxeu.org/article/import-liberalisation-export-destruction",
-          "publishedOn": "2022-04-11T00:00:00.000Z",
-          "wordCount": 2228,
-          "title": "Import liberalisation as export destruction",
           "imageUrl": null
         }
       ]
@@ -687,163 +687,13 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/internationalList.do",
       "articles": [
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165341",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165427",
           "author": null,
-          "description": "An extraordinary mix of factors affected firm values in early 2022. In the build-up to and in the weeks after the Russian invasion of Ukraine, stocks strongly exposed to the regulatory risks of the transition to a low-carbon economy did well. This was true especially of US stocks. However, in Europe, these stocks tended to underperform after the invasion, arguably because of stronger expected policy responses supporting renewable energy sources in the face of the pronounced dependence of Europe on Russian oil and gas. Investors thus expect the speed of transition to a low-carbon economy to be diverging between the US and Europe. Relating six different Environmental, Social, and Governance (ESG) ratings with stock price performance yields mixed results, suggesting that investors cannot blindly rely on such ratings in general to indicate corporate resilience against crises. Companies which more frequently refer to inflation in their conference calls with analysts performed worse than their peers. Internationally oriented firms did poorly, and investors were particularly concerned regarding companies‘ exposure to China. Overall, the results offer a preview of the future economic impact of the Russia-Ukraine war.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165341",
-          "publishedOn": "2022-04-14T00:02:42.509Z",
-          "wordCount": 671,
-          "title": "Stock Prices and the Russia-Ukraine War: Sanctions, Energy and ESG",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165418",
-          "author": null,
-          "description": "Registered Apprenticeship Programs (RAPs) have existed in federal law since the 1930s and have been primarily used by the construction industry. Despite their long-term existence and recent infusion of millions of dollars in federal resources, RAPs will continually realize limited success due to the outdated program model. The Trump administration introduced the Industry-Recognized Apprenticeship Program (IRAP) model, which was designed to be a more flexible alternative to RAPs. IRAPs, or a similar model of industry-driven “work and learn,” should be given a chance to grow and mature as a legitimate upskilling option for industries such as health care, advanced manufacturing, and information technology.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165418",
-          "publishedOn": "2022-04-14T00:02:42.315Z",
-          "wordCount": 671,
-          "title": "Innovation in Apprenticeships: More of the Same",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165343",
-          "author": null,
-          "description": "We evaluate the impact of an online platform giving job seekers tips to improve their search and recommendations of new occupations and locations to target, based on their personal data and labor market data. Our experiment used an encouragement design and was conducted in collaboration with the French public employment agency. It includes 212,277 individuals. We find modest effects on search methods: the users of the platform adopt some of its tips and they are more likely to use resources provided by public employment services. However, following individual trajectories for 18 months after the intervention, we do not observe any impact on time spent looking for a job, search scope (occupational or geographical), or self-reported well-being. Most importantly, we do not find any effect on any employment outcome, whether in the short or medium run. We conclude that the enthusiasm around the potential for job-search assistance platforms to help reduce unemployment should be toned down.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165343",
-          "publishedOn": "2022-04-14T00:02:42.307Z",
-          "wordCount": 671,
-          "title": "Can a Website Bring Unemployment Down? Experimental Evidence from France",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165415",
-          "author": null,
-          "description": "Measured as yield spreads against AAA corporate bonds, the convenience premium of agency MBS averages 47 basis points over 1995 - 2021, about half of the long-term-Treasury convenience premium. Both MBS convenience premium and issuance amount depend on mortgage rate negatively, consistent with a prepayment-driven demand channel. This negative dependence contrasts strikingly with the positive dependence of the MBS-repo convenience premium on the level of interest rates as implied by the “opportunity cost of money” hypothesis. The placing of agencies into conservatorship in 2008 and introduction of liquidity coverage ratio in 2013 affect convenience premium significantly, consistent with the safety and regulatory-constraint channels of MBS demand. Based on “structural” restrictions in standard models, the ratio of MBS to Treasury convenience premia pinpoints the time-varying MBS-specific safe asset demand empirically.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165415",
-          "publishedOn": "2022-04-14T00:02:42.182Z",
-          "wordCount": 671,
-          "title": "Agency MBS as Safe Assets",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165411",
-          "author": null,
-          "description": "Foster care provides substitute living arrangements to protect maltreated children. The practice is remarkably common: it is estimated that 5 percent of children in the United States are placed in foster care at some point during childhood. These children exhibit poor outcomes as children and adults, and economists have begun to estimate the causal relationship between foster care and life outcomes. This paper describes tradeoffs in child welfare policy and provides background on the latest trends in foster care practice to highlight areas most in need of rigorous evidence. These trends include efforts to prevent foster care on the demand side and to improve foster home recruitment on the supply side. With increasing data availability and a growing interest in evidence-based practices, there are opportunities for economic research to inform policies that protect vulnerable children.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165411",
-          "publishedOn": "2022-04-14T00:02:42.163Z",
-          "wordCount": 671,
-          "title": "Economics of Foster Care",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165406",
-          "author": null,
-          "description": "We examine the relative importance of accuracy concerns and belief confirmation motives in driving the demand for news. In experiments with US respondents, we first vary beliefs about whether an outlet reports the news in a right-wing biased, left-wing biased, or unbiased way. We then measure demand for a newsletter covering articles from this outlet. Respondents only reduce their demand for biased news if the bias is inconsistent with their own political beliefs, suggesting a trade-off between accuracy concerns and belief confirmation motives. We quantify this trade-off using a structural model and find a similar quantitative importance of both motives.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165406",
-          "publishedOn": "2022-04-14T00:02:41.820Z",
-          "wordCount": 671,
-          "title": "The Demand for News: Accuracy Concerns versus Belief Confirmation Motives",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165419",
-          "author": null,
-          "description": "Based on survey data for more than 5,000 Kenyan households, this study shows that, despite government efforts to introduce remote learning options, access to education declined markedly during a nine-month-long period of school closures. Remote learning was adopted by only a small minority of students, and disadvantaged children fell further behind. During the first semester of 2021, reports of alterations in children’s externalizing and internalizing behavior more than tripled, with one in five children being affected by June 2021. After schools reopened, children learning remotely or through alternative means were more likely to suffer from these disruptions in emotional well-being than those who returned to school. While the medium- and long-term effects on learning outcomes and human capital remain unknown, the findings suggest that girls and children from poorer and less educated households have been disproportionately affected.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165419",
-          "publishedOn": "2022-04-14T00:02:41.797Z",
-          "wordCount": 671,
-          "title": "The Consequences of the COVID-19 Pandemic for Children in Kenya",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165422",
-          "author": null,
-          "description": "The COVID-19 pandemic was an unprecedented shock to U.S. society at a time when the nation was already coping with a crisis of despair and related deaths from suicides, overdoses, and alcohol poisoning. COVID’s impact was inequitable: Deaths were concentrated among the elderly and minorities working in essential jobs, groups who up to the pandemic had been reporting better mental health. Yet how the shock has affected society’s well-being and mental health is not fully understood. Exploring the impact by comparing 2019 to 2020 as reflected in nationally representative datasets, we found a variety of contrasting stories. While data from the 2019 National Health Interview Survey (NHIS) and the 2020 Household Pulse Survey (HPS) show that depression and anxiety increased significantly, especially among young and low-income Americans in 2020, we found no such changes when analyzing alternative depression questions in the 2019-20 Behavioral Risk Factor Surveillance System (BRFSS). Nevertheless, for the same period, determinants of mental health were similar in the NHIS, BRFSS, and HPS data.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165422",
-          "publishedOn": "2022-04-14T00:02:41.788Z",
-          "wordCount": 671,
-          "title": "Despair and resilience in the US: Did the COVID pandemic worsen mental health outcomes?",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165416",
-          "author": null,
-          "description": "We report a large-scale randomized controlled trial designed to assess whether the partisan cue of a provaccine message from Donald Trump would induce Americans to get COVID-19 vaccines. Our study involved presenting a 27-second advertisement to millions of U.S. YouTube users in October 2021. Results indicate that the campaign increased the number of vaccines in the average treated county by 103. Spread across 1,014 treated counties, the total effect of the campaign was an estimated increase of 104,036 vaccines. The campaign was cost-effective: with an overall budget of about $100,000, the cost to obtain an additional vaccine was about $1 or less.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165416",
-          "publishedOn": "2022-04-14T00:02:41.768Z",
-          "wordCount": 671,
-          "title": "Using Donald Trump’s COVID-19 Vaccine Endorsement to Give Public Health a Shot in the Arm: A Large-Scale Ad Experiment",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165410",
-          "author": null,
-          "description": "In this paper we explore whether or not the experience as a founder of a venture capital-backed startup influences the performance of founders who become venture capitalists (VCs). We find that nearly 7% of VCs were previously founders of a venture-backed startup. Having a successful exit and being male and white increase the probability that a founder transitions into a venture capital career. Successful founder-VCs have investment success rates that are 6.5 percentage points higher than professional VCs while unsuccessful founder-VCs have investment success rates that are 4 percentage points lower than professional VCs. While successful founder-VCs do get higher quality deal flow than professional or unsuccessful founder-VCs, observably higher deal quality does not explain the entire difference in performance. Using an instrumental variables approach to separate unobservable deal quality from value-add, we find that the outperformance of successful founder-VCs is consistent with them adding more value post-investment.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165410",
-          "publishedOn": "2022-04-14T00:02:41.758Z",
-          "wordCount": 671,
-          "title": "Transferable Skills? Founders as Venture Capitalists",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165413",
-          "author": null,
-          "description": "We develop a tractable framework to study the optimal design of stress scenarios. A principal wants to manage the unknown risk exposures of a set of agents. She asks the agents to report their losses under hypothetical scenarios before mandating actions to mitigate the exposures. We show how to apply a Kalman filter to solve the learning problem and we characterize the scenario design as a function of the risk environment, the principal’s preferences, and the available remedial actions. We apply our results to banking stress tests. We show how the principal learns from estimated losses under different scenarios and across different banks. Optimal capital requirements are set to cover losses under an adverse scenario while targeted interventions depend on the covariance between residual exposure uncertainty and physical risks.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165413",
-          "publishedOn": "2022-04-14T00:02:41.741Z",
-          "wordCount": 671,
-          "title": "Designing Stress Scenarios",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165409",
-          "author": null,
-          "description": "We use de-identified data from Facebook to study the social integration of Syrian migrants in Germany, a country that received a large influx of refugees during the Syrian Civil War. We construct measures of migrants‘ social integration based on Syrians‘ friendship links to Germans, their use of the German language, and their participation in local social groups. We find large variation in Syrians‘ social integration across German counties, and use a movers‘ research design to document that these differences are largely due to causal effects of place. Regional differences in the social integration of Syrians are shaped both by the rate at which German natives befriend other locals in general (general friendliness) and the relative rate at which they befriend local Syrian migrants versus German natives (relative friending). We follow the friending behavior of Germans that move across locations to show that both general friendliness and relative friending are more strongly affected by place-based effects such as local institutions than by persistent individual characteristics of natives (e.g., attitudes toward neighbors or migrants). Relative friending is higher in areas with lower unemployment and more completed government-sponsored integration courses. Using variation in teacher availability as an instrument, we find that integration courses had a substantial causal effect on the social integration of Syrian migrants. We also use fluctuations in the presence of Syrian migrants across high school cohorts to show that natives with quasi-random exposure to Syrians in school are more likely to befriend other Syrian migrants in other settings, suggesting that contact between groups can shape subsequent attitudes towards migrants.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165409",
-          "publishedOn": "2022-04-14T00:02:41.732Z",
-          "wordCount": 671,
-          "title": "The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165414",
-          "author": null,
-          "description": "Urban public transit agencies spend billions of dollars each year on workers, durable capital and energy to supply transportation services. During a time of rising concern about climate change, the urban public transit sector has not significantly reduced its carbon footprint. Using data for the nation’s transit agencies over the years 2002 to 2019, we benchmark U.S transit agencies with transit agencies in Germany and the United Kingdom. We study U.S urban public sector energy efficiency trends and explain the cross-sectional variation. We present a new operating profits metric that incorporates each transit agency’s annual total carbon emissions.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165414",
-          "publishedOn": "2022-04-14T00:02:41.700Z",
-          "wordCount": 671,
-          "title": "An Economic Analysis of U.S Public Transit Carbon Emissions Dynamics",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165407",
-          "author": null,
-          "description": "How does a citizen‘s decision to participate in political activism depend on the participation of others? We conduct a nation-wide natural field experiment in collaboration with a major European party during a recent national election.  In a party survey, we randomly provide canvassers with true information about the canvassing intentions of their peers. When learning that more peers participate in canvassing than previously believed, canvassers significantly reduce both their canvassing intentions and behavior. An additional survey among party supporters underscores the importance of free-riding motives and reveals that there is strong heterogeneity in motives underlying supporters‘ behavioral responses.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165407",
-          "publishedOn": "2022-04-14T00:02:41.689Z",
-          "wordCount": 671,
-          "title": "Political Activists as Free-Riders: Evidence From a Natural Field Experiment",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165421",
-          "author": null,
-          "description": "In 2021, the region continued navigating the impacts of the COVID-19 pandemic while also laying the groundwork for recovery. In both of these areas, partnerships were absolutely essential and have helped accelerate efforts by the IDB, IDB Invest, and IDB Lab to reignite growth and get the region‘s development story back on track. Specifically, throughout the year, partnership efforts were guided by Vision 2025 -- the IDB‘s blueprint for recovery and economic growth -- with a focus on channeling partner financing, knowledge, and innovation to those sectors and opportunities that are best positioned to unlock development progress. In the pages of this report, read about how the IDB joined forces with governments, companies, investors, philanthropic entities, civil society, and academic institutions in 2021 and worked with these partners to improve lives in Latin America and the Caribbean.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165421",
-          "publishedOn": "2022-04-14T00:02:41.677Z",
-          "wordCount": 671,
-          "title": "2021 Partnership Report: Partnerships with a Vision",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165408",
-          "author": null,
-          "description": "We leverage a unique natural experiment, the Spanish Christmas lottery, to investigate the impact of highly geographically clustered winnings on macroeconomic aggregates, and on sentiment and durable consumption, using survey evidence. Lottery winnings induce significant demand effects, especially during recessions, reducing unemployment and increasing job creation and CPI prices.  Albeit not receiving wins, households in winning provinces become more optimistic on impact and significantly increase their durable consumption (for furniture and vehicles) six months after the shock. We propose this lottery as an unconventional fiscal policy tool for increasing aggregate revenues and stimulating local demand without crowding out aggregate activity.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165408",
-          "publishedOn": "2022-04-14T00:02:41.669Z",
-          "wordCount": 671,
-          "title": "The Sentimental Propagation of Lottery Winnings: Evidence from the Spanish Christmas Lottery",
+          "description": "We review the different meanings of helicopter money both in the literature and in the public debate around it, and clarify the conditions under which helicopter money can have an impact on real activity. To do so, we set out a simple model that encapsulates a number of potential channels of policy transmission. The model provides a taxonomy of possibilities for helicopter money to affect the economy, as well as a benchmark set of conditions under which it is neutral. We use the model to analyse and discuss the impact that helicopter drops might have in response to a number of economic shocks, including a financial crisis, a fiscal crisis, and a pandemic.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165427",
+          "publishedOn": "2022-04-14T03:18:17.776Z",
+          "wordCount": 662,
+          "title": "Helicopter money: what is it and what does it do?",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -851,9 +701,29 @@
           "author": null,
           "description": "After the pandemic-induced economic contraction in 2020, economic recovery in the developing Asia-Pacific counties in 2021 was driven by robust demand for exports from the region. The growth momentum was dented towards the latter half of the year as countries renewed lockdowns and restrictions in the wake of new COVID-19 variants, leading to supply disruptions. Border openings were further delayed, holding back employment recovery, particularly in tourism-dependent economies. Overall, economic growth in developing countries in Asia and the Pacific, estimated at 7.1 per cent in 2021, is projected to moderate to 4.5 per cent in 2022 and 5 per cent in 2023. Inflation has risen across the region, driven by rising food and fuel prices, affecting the poor disproportionately. Importantly, the unf…",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165417",
-          "publishedOn": "2022-04-14T00:02:41.649Z",
-          "wordCount": 671,
+          "publishedOn": "2022-04-14T03:18:17.723Z",
+          "wordCount": 662,
           "title": "Economic and Social Survey of Asia and the Pacific 2022: Economic policies for an inclusive recovery and development",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165435",
+          "author": null,
+          "description": "We show how to use field-programmable gate arrays (FPGAs) and their associated high-level synthesis (HLS) compilers to solve heterogeneous agent models with incomplete markets and aggregate uncertainty (Krusell and Smith, 1998). We document that the acceleration delivered by one single FPGA is comparable to that provided by using 74 CPU cores in a conventional cluster. We describe how to achieve multiple acceleration opportunities -pipeline, data-level parallelism, and data precision- with minimal modification of the C code written for a traditional sequential processor, which we then deploy on FPGAs easily available at Amazon Web Services. We quantify the speedup and cost of these accelerations. Our paper is the first step toward a new field, electrical engineering economics, focused on designing computational accelerators for economics to tackle challenging quantitative models.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165435",
+          "publishedOn": "2022-04-14T03:18:17.594Z",
+          "wordCount": 662,
+          "title": "Programming FPGAs for Economics: An Introduction to Electrical Engineering Economics",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165434",
+          "author": null,
+          "description": "To answer the question whether managers are paid for market power, we propose a theory of executive compensation in an economy where firms have market power, and the market for man- agers is competitive. We identify two distinct channels that contribute to manager pay in the model: market power and firm size. Both increase the profitability of the firm, which makes managers more valuable as it increases their marginal product. Using data on executive compensation from Compustat, we quantitatively analyze how market power affects Manager Pay and how it changes over time. We attribute on average 45.8% of Manager Pay to market power, from 38.0% in 1994 to 48.8% in 2019. Over this period, market power accounts for 57.8% of growth. We also find there is a lot of heterogeneity within the distribution of managers. For the top managers, 80.3% of their pay in 2019 is due to market power. Top managers are hired disproportionately by firms with market power, and they get rewarded for it, increasingly so.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165434",
+          "publishedOn": "2022-04-14T03:18:17.457Z",
+          "wordCount": 662,
+          "title": "Are Managers Paid for Market Power?",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -861,19 +731,29 @@
           "author": null,
           "description": "Brain-computer interface (BCI) systems are in a period of rapid development and offer significant potential for the promotion of health and well-being. At the same time, they raise a range of unique ethical, legal, and policy questions, and few BCI-specific rules exist in a fragmented regulatory landscape. This report aims to help develop a responsible and anticipatory governance approach to promote innovation while shaping the trajectory of technology through a set of mechanisms, including (i) soft law, (ii) standardisation and ethics-by-design approaches, (iii) corporate self-governance, and (iv) participatory experiments for upstream governance.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165420",
-          "publishedOn": "2022-04-14T00:02:41.640Z",
-          "wordCount": 671,
+          "publishedOn": "2022-04-14T03:18:17.043Z",
+          "wordCount": 662,
           "title": "Brain-computer interfaces and the governance system: Upstream approaches",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165423",
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165426",
           "author": null,
-          "description": "The objective of Ed Nelson’s two-volume book, Milton Friedman and Economic Debate in the United States, 1932-1972, is to provide an account of Friedman’s views in major monetary-policy debates during the period identified in the book’s title. Nelson tells the story of the development of Friedman’s monetary framework, from its Keynesian origins in the early-1940s, to its gradual absorption of monetary factors in the late-1940s, and, finally, to its monetarist character of the 1950s and after, through the windows of a selection debates that engaged Friedman. At the same time, Nelson places Friedman’s monetary contributions within the context of the modern macroeconomics literature. In this essay, I consider doctrinal issues related to Nelson’s account of the development of Friedman’s monetarist framework.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165423",
-          "publishedOn": "2022-04-14T00:02:41.610Z",
-          "wordCount": 671,
-          "title": "Milton Friedman and the Road to Monetarism: A Review Essay",
+          "description": "Does access to technologies that reduce information and communication costs increase innovation? We examine this question by exploiting the staggered adoption of BITNET across U.S. universities in the 1980s. BITNET, an early version of the Internet, enabled e-mail-based knowledge exchange and collaboration among academics. After the adoption of BITNET, university-connected inventors increase patenting substantially. The effects are driven by collaborative patents by new inventor teams. The patents induced by ICT are closely related to science. In contrast, we neither find an effect on patents not closely related to science nor on corporate inventors unconnected to universities.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165426",
+          "publishedOn": "2022-04-14T03:18:17.016Z",
+          "wordCount": 662,
+          "title": "ICT, Collaboration, and Innovation: Evidence from BITNET",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165436",
+          "author": null,
+          "description": "We introduce loss aversion into a model of conspicuous consumption in networks. Agents allocate their income between a standard good and a status good to maximize a Cobb-Douglas utility. Agents interact over a connected network and compare their status consumption to their neighbors‘ average consumption. Loss aversion has a profound impact. If loss aversion is large enough relative to income heterogeneity, a continuum of Nash equilibria appears and all agents consume the same quantity of status good. Otherwise, there is a unique Nash equilibrium and richest agents earn strict status gains while poorest agents earn strict status losses.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165436",
+          "publishedOn": "2022-04-14T03:18:17.002Z",
+          "wordCount": 662,
+          "title": "Loss Aversion and Conspicuous Consumption in Networks",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -881,9 +761,129 @@
           "author": null,
           "description": "We use population data on capital income and wealth holdings for Norway to measure asset positions and wealth returns before individuals marry and after the household is formed. These data allow us to establish a number of novel facts. First, individuals sort on personal wealth rather than parents‘ wealth. Assortative mating on own wealth dominates, and in fact renders assortative mating on parental wealth statistically insignificant. Second, people match also on their personal returns to wealth and assortative mating on returns is as strong as that on wealth. Third, post-marriage returns on family wealth are largely explained by the return of the spouse with the highest pre-marriage return. This suggests that family wealth is largely managed by the spouse with the highest potential to grow it. This is particularly true for households at the top of the wealth distribution at marriage. We use a simple analytical example to illustrate how assortative mating on wealth and returns and wealth management task allocation between spouses affect wealth inequality.",
           "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165412",
-          "publishedOn": "2022-04-14T00:02:41.601Z",
-          "wordCount": 671,
+          "publishedOn": "2022-04-14T03:18:16.984Z",
+          "wordCount": 662,
           "title": "Assortative Mating and Wealth Inequality",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165429",
+          "author": null,
+          "description": "Employment statistics often receive notable attention as economic indicators during times of stress, such as during the COVID-19 pandemic. In an ever-changing economy, employment varies significantly across the more than 3,000 counties in the United States. Most employment is concentrated in a few areas, with large areas of little employment in between.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165429",
+          "publishedOn": "2022-04-14T03:18:16.975Z",
+          "wordCount": 662,
+          "title": "Geographic Dispersion in U.S. Employment",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165437",
+          "author": null,
+          "description": "Developing countries face a major challenge of decarbonizing their light-duty vehicle fleet and transitioning to the broad use of electric vehicles. However, there is little evidence on which policies can most effectively facilitate that transition in these countries, distinguished by relatively low-income consumers and highly concentrated markets that distort vehicle markups. This paper analyzes existing and proposed policies aiming to reduce emissions from new passenger vehicles in Colombia, which has used preferential sales taxes and import tariffs to stimulate hybrid and electric cars sales. Using highly detailed data on vehicle purchases and attributes, the paper estimates an equilibrium model of Colombia’s market that includes a random-coefficients logit demand structure and endogenizes firms’ markups. Using the model to simulate policies, the analysis finds that Colombia’s sales tax and import tariffs have increased hybrid and electric vehicle market shares by 0.9 to 2.7 percentage points at welfare costs of $40-$48 per ton of carbon dioxide reduction. Potentially taxing carbon dioxide emissions rates of new vehicles would have roughly similar welfare costs. The high welfare costs of these policies arise from preexisting distortions caused by market power, which yields large private welfare costs of shifting from gasoline to hybrid and electric vehicles.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165437",
+          "publishedOn": "2022-04-14T03:18:16.959Z",
+          "wordCount": 662,
+          "title": "Welfare and Environmental Benefits of Electric Vehicle Tax Policies in Developing Countries : Evidence from Colombia",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165445",
+          "author": null,
+          "description": "The labor-force participation rates of prime-age U.S. workers dropped in March 2020―the start of the COVID-19 pandemic―and have still not fully recovered. At the same time, substance-abuse deaths were elevated during the pandemic relative to trend indicating an increase in the number of substance abusers, and abusers of opioids and crystal methamphetamine have lower labor-force participation rates than non-abusers. Could increased substance abuse during the pandemic be a factor contributing to the fall in labor-force participation? Estimates of the number of additional substance abusers during the pandemic presented here suggest that increased substance abuse accounts for between 9 and 26 percent of the decline in prime-age labor-force participation between February 2020 and June 2021.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165445",
+          "publishedOn": "2022-04-14T03:18:16.949Z",
+          "wordCount": 662,
+          "title": "Substance Abuse during the Pandemic: Implications for Labor-Force Participation",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165425",
+          "author": null,
+          "description": "We study the link between political influence and industrial concentration. A model of firm lobbying shows that concentration and regulation may be either strategic complements or substitutes. Using data for the past 20 years in the US, we study whether merging firms‘ influence activity increases or decreases after a merger. We document an increase in lobbying activity and we find some evidence for an increase in campaign contributions.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165425",
+          "publishedOn": "2022-04-14T03:18:16.941Z",
+          "wordCount": 662,
+          "title": "Political Power and Market Power",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165432",
+          "author": null,
+          "description": "This paper studies how the opening of a Million Dollar Plant (MDP) affects income inequality, by focusing on a new mechanism: retail inflation. Using detailed barcode-level prices, the paper shows that local barcode-level prices increased in winning counties compared to runner up counties after a MDP enters. The paper further shows that households in winning counties spend less time shopping for deals and discounts and more time on work. Wages also go up in winning counties, but only for high-skilled workers. The paper builds a model of monopolistic firms with variable mark-ups and non-homothetic consumer preferences. Consumers become less price sensitive as they substitute shopping time for more working time in response to rising labor demand generated by the entry of a MDP, and firms respond to less elastic consumer demand by raising their mark-ups. Analysis using the model and detailed reduced form evidence shows that establishing a MDP only increases wages of certain high-skilled workers, but it increases overall county-level prices, thus creating larger increases in income inequality in winning counties compared to runner-up counties.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165432",
+          "publishedOn": "2022-04-14T03:18:16.932Z",
+          "wordCount": 662,
+          "title": "Million Dollar Plants and Retail Prices",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165443",
+          "author": null,
+          "description": "We address the long-standing challenge of adding optimal exploration to the classic Hotelling model of a non-renewable resource. We completely solve such a model, using impulse control. The model, extending Arrow and Chang (1982), has two state variables: “proven” reserves and a finite unexplored area available for exploration at constant marginal cost, with a Poisson process for new discoveries. We prove that a frontier of critical levels of proven reserves exists, above which exploration ceases, and below which it happens at infinite speed. This frontier is increasing in explored area, and higher reserve levels along this critical threshold indicate more scarcity, not less. In a stochastic generalization of Hotelling’s rule, the expected shadow price of reserves rises at the rate of interest across exploratory episodes. The trajectories of prices realized prior to exhaustion of the exploratory area may jump up or down upon exploration. Conditional on non-exhaustion, expected price rises at a rate bounded above by the rate of interest, explaining why most empirical tests based on past price histories reject Hotelling’s rule. Starting when the unexplored area is sufficiently close to zero, all price paths rise at less than the rate of interest until exhaustion of the unexplored area.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165443",
+          "publishedOn": "2022-04-14T03:18:16.923Z",
+          "wordCount": 662,
+          "title": "Optimal Exploration and Price Paths of a Non-renewable Commodity with Stochastic Discoveries",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165431",
+          "author": null,
+          "description": "Temporary migration is widespread globally. While the literature has traditionally focused on the impacts of permanent migration on destination countries, evidence on the effects of temporary migration on origin countries has grown over the past decade. This paper highlights that the economic development impacts, especially on low- and middle-income origin countries are complex, dynamic, context-specific and multi-channeled. The paper identifies five main pathways: (i) labor supply, (ii) human capital, (iii) financial capital and entrepreneurship, (iv) aggregate welfare and poverty, and (v) institutions and social norms. Several factors shape these pathways and their eventual impacts. These include initial economic conditions at home, the scale and double selectivity of emigration and return migration, and employment and human capital accumulation opportunities experienced by migrants while they are overseas, among others. Meaningful policy interventions to increase the development impacts of temporary migration require proper analysis, which, in turn, depends on high quality data on workers’ employment trajectories. This is currently the biggest research challenge to overcome to study the development impacts of temporary migration.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165431",
+          "publishedOn": "2022-04-14T03:18:16.906Z",
+          "wordCount": 662,
+          "title": "Impacts of Temporary Migration on Development in Origin Countries",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165430",
+          "author": null,
+          "description": "This study examines how firms have made strategic choices and performed during the COVID-19 pandemic. Drawing on the organizational resources and strategic change literature, it uses World Bank Enterprise Surveys and the COVID-19 Follow-up Enterprise Surveys to examine how different endowments in organizational resources affected firm performance as measured by their survival status and sales growth, and how these resources interact with and affect strategic responses in the supply of inputs, response to changing demand, liquidity management, and innovation. The results indicate that larger firms, firms with foreign or state ownership, and subsidiary companies performed better during the pandemic by more effectively stabilizing supply, managing liquidity, and fostering new product development. Chief executive officers with longer tenure improved survival rates. Firms in richer countries have coped with the pandemic better and stringent government COVID-19 control policies have tended to hurt firms‘ performance.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165430",
+          "publishedOn": "2022-04-14T03:18:16.898Z",
+          "wordCount": 662,
+          "title": "Firm Resources, Strategies, and Survival and Growth during COVID-19 : Evidence from Two-Wave Global Surveys",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165444",
+          "author": null,
+          "description": "Early research on the returns to higher education treated the postsecondary system as a monolith. In reality, postsecondary education in the United States and around the world is highly differentiated, with a variety of options that differ by credential (associates degree, bachelor’s degree, diploma, certificate, graduate degree), the control of the institution (public, private not-for-profit, private for-profit), the quality/resources of the institution, field of study, and exposure to remedial education. In this Chapter, we review the literature on the returns to these different types of higher education investments, which has received increasing attention in recent decades. We first provide an overview of the structure of higher education in the U.S. and around the world, followed by a model that helps clarify and articulate the assumptions employed by different estimators used in the literature. We then discuss the research on the return to institution type, focusing on the return to two-year, four-year, and for-profit institutions as well as the return to college quality within and across these institution types. We also present the research on the return to different educational programs, including vocational credentials, remedial education, field of study, and graduate school. The wide variation in the returns to different postsecondary investments that we document leads to the question of how students from different backgrounds sort into these different institutions and programs. We discuss the emerging research showing that lower-SES students, especially in the U.S., are more likely to sort into colleges and programs with lower returns as well as results from recent U.S.-based interventions and policies designed to support success among students from disadvantaged backgrounds. The Chapter concludes with some broad directions for future research.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165444",
+          "publishedOn": "2022-04-14T03:18:16.890Z",
+          "wordCount": 662,
+          "title": "Returns to Different Postsecondary Investments: Institution Type, Academic Programs, and Credentials",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165424",
+          "author": null,
+          "description": "Many countries have introduced preferential admissions to provide new opportunities for talented but disadvantaged students to attend college. Their effectiveness critically depends on students‘ perceptions of their incentive schemes. This paper studies this issue by exploiting a randomized preferential admission policy and linked survey-administrative data for 6,054 high-school students in Chile. We document that these students hold overly optimistic beliefs about their admission credentials. We then estimate policy effects on student behavior and outcomes. We find that pre-college effort and achievement fall by 0.1 standard deviations in response to the policy. We develop and structurally estimate a dynamic model of effort, entrance-exam-taking, admissions and enrollments incorporating subjective beliefs. We show that, by distorting effort, belief biases lead overconfident but underprepared students to enter college in response to the policy. We discuss how preferential admission policies can be redesigned to mitigate such distortions and draw closer to achieving their intended objective.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165424",
+          "publishedOn": "2022-04-14T03:18:16.874Z",
+          "wordCount": 662,
+          "title": "Subjective Beliefs and Inclusion Policies: Evidence from College Admissions",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165441",
+          "author": null,
+          "description": "We theoretically characterize the behavior of return prediction models in the high complexity regime, i.e.\\ when the number of parameters exceeds the number of observations. Contrary to conventional wisdom in finance, return prediction $R^{2}$ and optimal portfolio Sharpe ratio generally increase with model parameterization, even when minimal regularization is used.   Empirically, we document this ``virtue of complexity‘‘ in US equity market prediction.  High complexity models deliver economically large and statistically significant out-of-sample portfolio gains relative to simpler models, due in large part to their remarkable ability to predict recessions.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165441",
+          "publishedOn": "2022-04-14T03:18:16.865Z",
+          "wordCount": 662,
+          "title": "The Virtue of Complexity in Return Prediction",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165433",
+          "author": null,
+          "description": "Denmark has accepted refugees from a large variety of countries and for more than four decades. Denmark has also frequently changed policies and regulations concerning integration programs, transfer payments, and conditions for permanent residency. Such policy variation in conjunction with excellent administrative data provides an ideal laboratory to evaluate the effects of different immigration and integration policies on the outcomes of refugee immigrants. In this article, we first describe the Danish experience with refugee immigration over the past four decades. We then review different post-arrival refugee policies and summarize studies that evaluate their effects on the labor market performance of refugees. Lastly, we discuss and contrast these findings in the context of international studies of similar policies and draw conclusions for policy.",
+          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165433",
+          "publishedOn": "2022-04-14T03:18:16.855Z",
+          "wordCount": 662,
+          "title": "Refugee Migration and the Labor Market:  Lessons from 40 Years of Post-arrival Policies in Denmark",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         }
       ]
@@ -894,73 +894,13 @@
       "siteUrl": "http://eiec.kdi.re.kr/policy/domesticList.do",
       "articles": [
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165404",
-          "author": null,
-          "description": "국제금융센터가 ‘주간 Wall Street 인사이트(4.11)’를 발표하였다.\r\n\r\n- [미국 인플레이션 논란] 3~4월 고점 의견 우세하나 연말 수준에 대한 전망은 큰 편차\r\n\r\n- [서방의 대러 제재] EU의 원유ㆍ가스 금수 추진이 향후 사태전개의 변곡점이라는 시각\r\n\r\n- [중국 오미크론 영향] 상반기 경제타격으로 인해 성장률 하향조정 전망이 점증",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165404",
-          "publishedOn": "2022-04-14T00:02:41.586Z",
-          "wordCount": 544,
-          "title": "주간 Wall Street 인사이트(4.11)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165396",
-          "author": null,
-          "description": "포스코경영연구소가 『인도 신재생에너지 시장 기회 및 진출 전략』을 발표하였다.\r\n\r\n- 인도는 태양광과 풍력의 높은 매력도를 기반으로 ’30년 재생에너지 500GW 설비용량을 목표로 하면서 개도국 가운데 가장 공격적인 재생에너지 확대를 제시하고 있음. 인도 기업들은 정부의 목표에 발맞춰 공격적으로 재생에너지 투자를 높이고 있으며 다양한 국부펀드와 다국적 기업들도 FDI와 M&A를 통해 인도 시장 공략에 나서면서 인도 재생에너지는 본격적인 성장세를 보일 것임.\r\n\r\n- 인도 재생에너지 시장: 정부의 공격적 확장 정책과 지원 등으로 다양한 사업 기회가 발생 \r\n · 모디 정부는 ’30년 재생에너지 설비생산용량은 500MW, 재생에너지 비중 50% 이상 확대라는 공격적 목표 제시. ’30년까지 태양광과 풍력 설비 각각 180GW와 80GW 증설이 필요하며 이에 발맞춰 업체들의 설비 능력 확대가 본격화될 것   \r\n · 국부펀드와 다국적 기업들은 인도 재생에너지 기업들에 대한 M&A와 FDI 확대 등 시장 진출을 본격화하고 있음. ’21.4월~9월까지 10.3억 달러(’20.4월~’21.3월 7.8억 달러)의 FDI 유입, 고성장 시장인 태양광 부문 기업 M&A 시장 활성화\r\n\r\n- 재생에너지는 ’20년 이후 태양광과 풍력 중심으로 전환 중이며 그린수소도 본격화 할 예정\r\n · 입지 우위: 열대 기후 지대로 태양광 발전이 유리하며 데칸고원 중심 서남부 지대의 풍력 발전 가능성 높음. 태양광과 풍력 발전은 사막지대 및 풍량이 적정한 남부와 서부지역에 집중되어 있으며 이 지대를 중심으로 설비 능력 확장 중. 풍력은 터빈 제조 제조능력이 우수한 것이 장점인 반면 태양광은 웨이퍼와 실리콘 등 주요 원재료 수입의존도가 높은 것이 한계   \r\n · 수소: 2.17 그린수소정책 발표로 글로벌 수소 생산 및 수출기지로 육성. 정부 정책 발표 이후 업체들의 그린수소 생산 전략과 생태계 구축을 위한 투자 확대가 본격화될 것\r\n\r\n- 재생에너지 사업분야 진출을 고려 중인 기업들의 고려 사항 \r\n · 인도 재생에너지 발전에 따른 다양한 사업기회를 포착하기 위한 진출 전략 수립 필요. 태양광 셀과 모듈 생산 기지 구축을 위한 PLI 제도 등을 적극 이용하고 재생에너지 경쟁력 제고를 위한 생태계 구축 기회로 활용  \r\n · 진입 전략: 단독보다는 합작, 풍력과 태양광 진출과 더불어 재생에너지를 활용한 그린수소 생산 기지로 인도 공략. 현지 파트너를 활용할 수 있는 합작진출을 우선 검토하고 태양광과 풍력 발전 잠재성이 큰 타밀나두, 구자라트 주를 우선 검토. 동 지역은 재생에너지 능력을 활용한 그린수소 생산기지로 활용할 수 있을 것으로 전망  \r\n · 사업 추진: 현지 정부 정책 및 리스크 요인 등을 고려하여 장기적 관점에서 점진적 확대해가는 것이 중요. 주 정부의 생산 단가 인하 압력 리스크 존재.  주정부와 신뢰관계 구축이 필수이며 시장선점을 위한 초기 대규모 투자에 주의 요망",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165396",
-          "publishedOn": "2022-04-14T00:02:41.571Z",
-          "wordCount": 544,
-          "title": "인도 신재생에너지 시장 기회 및 진출 전략",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
           "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165386",
           "author": null,
           "description": "한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 몽골』을 발표하였다.\r\n\r\n- 이 연구는 몽골 농림축산업과 농촌의 현황을 분석하고 몽골의 국가 및 분야 개발전략, 국제사회, 국내 개발협력 전략을 파악하여 몽골에 대한 농업분야 개발협력 전략을 수립·제시하는 것을 목적으로 함.",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165386",
-          "publishedOn": "2022-04-14T00:02:41.561Z",
+          "publishedOn": "2022-04-14T03:18:16.843Z",
           "wordCount": 544,
           "title": "농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 몽골",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165401",
-          "author": null,
-          "description": "국제금융센터가 ‘[은행] 글로벌 은행산업 트렌드(4.11)’를 발표하였다.\r\n\r\n- 지난주 글로벌 은행산업 주요 이슈는 ▲미·영의 對러 제재 강화 ▲유럽의 불명확한 對러 제재에 불만 ▲자사주 매입 불확실성 증대 ▲MS의 패밀리 오피스 확보 노력. 유연근무제 도입 시도, Chase의 지점 내 전기 충전소 설치, 중국 은행의 대규모 기술 투자 등\r\n\r\n- 은행권 주가는 연준의 통화긴축 강화 등에 따른 경착륙 우려 등으로 약세. 미국 -2.0%, 유럽 -4.5%, 일본 -2.8%, 중국 0.2%, 한국 -3.1%",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165401",
-          "publishedOn": "2022-04-14T00:02:41.553Z",
-          "wordCount": 544,
-          "title": "[은행] 글로벌 은행산업 트렌드(4.11)",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165403",
-          "author": null,
-          "description": "국제금융센터가 ‘주간이슈(4.11) : 미국 3월 CPI, 8%를 상회할지 주목’을 발표하였다.\r\n\r\n- 미국 3월 CPI, 8%를 상회할지 주목. 중국·일본·독일 3월 CPI도 관심\r\n\r\n- ECB는 통화정책 유지 전망. 캐나다, 뉴질랜드 및 한국 통화정책회의에 관심\r\n\r\n- 미국 주요 은행들의 1Q 실적 발표. 이익 급감 추정속 실제 발표치에 관심\r\n\r\n- EU, 러시아산 석탄 제재에 이어 원유 금수 방안 논의를 본격화\r\n\r\n- 미국 3월 소매판매 및 독일 4월 경기지수 발표\r\n\r\n- 북한, 태양절 전후로 핵실험 등 추가도발에 나설 가능성",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165403",
-          "publishedOn": "2022-04-14T00:02:41.531Z",
-          "wordCount": 544,
-          "title": "주간이슈(4.11) : 미국 3월 CPI, 8%를 상회할지 주목",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165387",
-          "author": null,
-          "description": "한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 타지키스탄』을 발표하였다.\r\n\r\n- 타지키스탄은 1991년 독립한 뒤 광물자원과 면화, 전력으로 대표되는 국가 수입원, 그리고 해외 이주노동자들로부터의 송금이라고 하는 부수적 수입원을 가진, 매우 협소한 경제적 기반을 가진 중앙아시아에서 가장 가난한 나라임. 타지키스탄은 우리나라 제3차 국제개발협력 기본계획에서 처음으로 중점 협력 국가로 선정되었음. \r\n\r\n- 이 연구는 타지키스탄의 농업·농촌 현황을 분석하고 국가의 개발전략과 농업분야 관련 전략 등 타지키스탄의 개발 방향을 분석하며, 이를 토대로 타지키스탄에 대한 우리나라의 농업분야 개발협력 전략을 수립하여 제안하는 것을 목적으로 함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165387",
-          "publishedOn": "2022-04-14T00:02:41.522Z",
-          "wordCount": 544,
-          "title": "농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 타지키스탄",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165390",
-          "author": null,
-          "description": "한국농촌경제연구원이 『혁신 성장을 위한 농업부문 데이터 경제 체계 구축과 활성화 방안 (1/2차년도)』을 발표하였다.\r\n\r\n- 이 연구는 미래 산업화와 혁신 성장 동력원으로서 농업부문의 효율적인 데이터 경제 체계를 구축하고 이를 활성화할 수 있는 방안 마련을 위한 1차년도 연구임. 농업부문의 디지털 전환과 데이터 활용 및 실용화할 수 있는 방안을 마련하여 농업부문 데이터 경제 체계를 구축하고, 이를 구체화하여 농산업 부문에 활용할 수 있는 활성화 방안과 정부의 제도적 보완 및 중장기 정책 방안을 제시하고자 하였음. 또한 데이터 기반 농산업 활성화를 위한 R&D 확대 및 후방산업 육성 방안을 마련하고 이를 통한 정책 방안을 제시하고자 하였음. 이를 위해 1차년도에는 농업부문 데이터 경제의 기반인 디지털 전환 및 플랫폼과 공공부문의 대응 방안에 대한 연구를 수행하였음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165390",
-          "publishedOn": "2022-04-14T00:02:41.498Z",
-          "wordCount": 544,
-          "title": "혁신 성장을 위한 농업부문 데이터 경제 체계 구축과 활성화 방안 (1/2차년도)",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -968,9 +908,69 @@
           "author": null,
           "description": "대한상공회의소가 「2022년 2분기 소매유통업 경기전망지수(RBSI) 조사」를 발표하였다.\r\n\r\n- 商議 RBSI, ‘96’(1Q)→ ‘99’(2Q) ... ‘리오프닝(경제활동 재개) 가시화’ 영향\r\n\r\n- 대면채널 반등 움직임 ... 슈퍼마켓(17p↑), 편의점(11p↑), 백화점？？대형마트(9p↑)\r\n\r\n- 온라인쇼핑(96)은 기준치(100) 하회 ... 일상 회복 움직임에 상승세 꺽여\r\n\r\n- 경영애로요인 : 소비위축(37%), 물가상승(28%), 비용상승(18%) 등 꼽아",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165391",
-          "publishedOn": "2022-04-14T00:02:41.477Z",
+          "publishedOn": "2022-04-14T03:18:16.825Z",
           "wordCount": 544,
           "title": "2022년 2분기 소매유통업 경기전망지수(RBSI) 조사",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165401",
+          "author": null,
+          "description": "국제금융센터가 ‘[은행] 글로벌 은행산업 트렌드(4.11)’를 발표하였다.\r\n\r\n- 지난주 글로벌 은행산업 주요 이슈는 ▲미·영의 對러 제재 강화 ▲유럽의 불명확한 對러 제재에 불만 ▲자사주 매입 불확실성 증대 ▲MS의 패밀리 오피스 확보 노력. 유연근무제 도입 시도, Chase의 지점 내 전기 충전소 설치, 중국 은행의 대규모 기술 투자 등\r\n\r\n- 은행권 주가는 연준의 통화긴축 강화 등에 따른 경착륙 우려 등으로 약세. 미국 -2.0%, 유럽 -4.5%, 일본 -2.8%, 중국 0.2%, 한국 -3.1%",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165401",
+          "publishedOn": "2022-04-14T03:18:16.795Z",
+          "wordCount": 544,
+          "title": "[은행] 글로벌 은행산업 트렌드(4.11)",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165387",
+          "author": null,
+          "description": "한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 타지키스탄』을 발표하였다.\r\n\r\n- 타지키스탄은 1991년 독립한 뒤 광물자원과 면화, 전력으로 대표되는 국가 수입원, 그리고 해외 이주노동자들로부터의 송금이라고 하는 부수적 수입원을 가진, 매우 협소한 경제적 기반을 가진 중앙아시아에서 가장 가난한 나라임. 타지키스탄은 우리나라 제3차 국제개발협력 기본계획에서 처음으로 중점 협력 국가로 선정되었음. \r\n\r\n- 이 연구는 타지키스탄의 농업·농촌 현황을 분석하고 국가의 개발전략과 농업분야 관련 전략 등 타지키스탄의 개발 방향을 분석하며, 이를 토대로 타지키스탄에 대한 우리나라의 농업분야 개발협력 전략을 수립하여 제안하는 것을 목적으로 함.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165387",
+          "publishedOn": "2022-04-14T03:18:16.564Z",
+          "wordCount": 544,
+          "title": "농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 타지키스탄",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165404",
+          "author": null,
+          "description": "국제금융센터가 ‘주간 Wall Street 인사이트(4.11)’를 발표하였다.\r\n\r\n- [미국 인플레이션 논란] 3~4월 고점 의견 우세하나 연말 수준에 대한 전망은 큰 편차\r\n\r\n- [서방의 대러 제재] EU의 원유ㆍ가스 금수 추진이 향후 사태전개의 변곡점이라는 시각\r\n\r\n- [중국 오미크론 영향] 상반기 경제타격으로 인해 성장률 하향조정 전망이 점증",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165404",
+          "publishedOn": "2022-04-14T03:18:16.543Z",
+          "wordCount": 544,
+          "title": "주간 Wall Street 인사이트(4.11)",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165403",
+          "author": null,
+          "description": "국제금융센터가 ‘주간이슈(4.11) : 미국 3월 CPI, 8%를 상회할지 주목’을 발표하였다.\r\n\r\n- 미국 3월 CPI, 8%를 상회할지 주목. 중국·일본·독일 3월 CPI도 관심\r\n\r\n- ECB는 통화정책 유지 전망. 캐나다, 뉴질랜드 및 한국 통화정책회의에 관심\r\n\r\n- 미국 주요 은행들의 1Q 실적 발표. 이익 급감 추정속 실제 발표치에 관심\r\n\r\n- EU, 러시아산 석탄 제재에 이어 원유 금수 방안 논의를 본격화\r\n\r\n- 미국 3월 소매판매 및 독일 4월 경기지수 발표\r\n\r\n- 북한, 태양절 전후로 핵실험 등 추가도발에 나설 가능성",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165403",
+          "publishedOn": "2022-04-14T03:18:16.530Z",
+          "wordCount": 544,
+          "title": "주간이슈(4.11) : 미국 3월 CPI, 8%를 상회할지 주목",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165389",
+          "author": null,
+          "description": "한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 우크라이나』를 발표하였다.\r\n\r\n- 본 연구는 우크라이나의 농림업 분야에 특화된 개발협력 전략을 수립하고 제시하는 것을 목적으로 함. 이를 위해 우크라이나의 농업 및 농촌의 현황, 우크라이나의 국가 및 농업개발 전략, 국제사회와 우리나라의 개발 및 지원 동향, 우리나라의 비교우위 등을 파악, 분석하여 우크라이나 농림업 중점 협력 분야 및 세부 추진 과제를 제시하였음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165389",
+          "publishedOn": "2022-04-14T03:18:16.516Z",
+          "wordCount": 544,
+          "title": "농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 우크라이나",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165393",
+          "author": null,
+          "description": "국제금융센터가 『우크라이나 사태 이후 글로벌 주식시장 여건 점검 및 평가』를 발표하였다.\r\n\r\n- [이슈] 러시아-우크라이나 전쟁은 글로벌 주식시장을 둘러싼 경제ㆍ금융여건에 큰 변화를 초래. 이에 따라 달라진 주식시장 여건을 점검하고 주가에 미칠 영향을 평가. 세계주가MSCI는 미 연준의 통화긴축, 우크라이나 사태 등으로 연중 1/1~3/14일 11.9% 하락했으나, 3월 미 FOMC 이후 선진국 중심으로 반등하여 -7.1%까지 낙폭을 회복\r\n\r\n- [요인별 점검] ▲거시환경 : 경제성장 모멘텀 둔화, 고물가 지속, 통화긴축 가속화 ▲실적 : 전망치 컨센서스는 양호하나, 고물가 지속에 따른 이익부진 가능성 ▲밸류에이션 : 연초 이후 부담이 일부 완화되었으나, 과거 대비로는 여전히 높은 수준\r\n · 거시환경 : 우크라이나 사태 이후 경제성장 둔화, 물가 상승, 통화긴축 가속 등 경기확장 후기(Late Cycle) 특징이 심화했으며 이는 주가에 비우호적인 환경으로 작용. 실질금리가 최근까지 마이너스를 기록하면서 채권 대비 주식 선호를 지지했으나, 연준 금리인상과 양적긴축(QT) 시행 등으로 금융여건의 빠른 긴축 위험이 잠재\r\n · 기업이익 : 우크라이나 사태에도 불구하고 세계증시 이익 전망치가 선진국을 중심으로 개선세를 지속. 그러나 향후 고유가로 인한 비용증가와 경영 불확실성이 장기화할 경우, 이익 전망치의 후행적 하향 가능성 잠재. 과거 유가 급등에 따른 원가 상승 시 기업들의 가격전가로 인해 즉각적인 이익률 악화는 없었으나, 1~2분기 이후 이익률이 후행적으로 둔화. 특히 금번과 같이 공급요인으로 인한 유가 급등은 소비 위축 여파로 이익감소 영향이 클 소지\r\n · 밸류에이션 : 글로벌 증시 밸류에이션은 연초 이후 약 8% 하락하여 부담이 일부 완화됐으나, 과거 장기 시계열 평균 대비로는 여전히 높은 수준\r\n\r\n- [평가] 우크라이나 사태 이후 연준의 고강도 통화긴축 시사 등 주가에 비우호적인 거시환경 변화에도 불구하고, 글로벌 증시는 양호한 이익성장을 전제로 이를 제한적으로 반영 중. 증시 밸류에이션이 높은 가운데 최근 실적 전망치가 낙관적이라는 평가가 증가하고 있어 향후 기대치가 현실화하는 과정에서 증시 변동성이 확대될 가능성에 유의\r\n · 최근 거시경제 성장 전망(Top-down 방식) 둔화에도 불구하고 개별 기업 및 업종에 대한 실적 전망(Bottom-up 방식)은 상대적으로 낙관적(Morgan Stanley, CS 등)",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165393",
+          "publishedOn": "2022-04-14T03:18:14.453Z",
+          "wordCount": 544,
+          "title": "우크라이나 사태 이후 글로벌 주식시장 여건 점검 및 평가",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -978,19 +978,39 @@
           "author": null,
           "description": "국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.12)’을 발표하였다.\r\n\r\n- [동향] 러, 우크라 동부지역 병력 강화 움직임. EU, 대러 석유 금수조치 합의 미도달\r\n\r\n- [금융시장 반응] 美 긴축 가속 우려, 중국 경기둔화 우려 등으로 위험회피심리 지속\r\n\r\n- [해외시각] 美 연준 통화긴축 가속, 중국 경제봉쇄 등으로 글로벌 경기하강 위험 확대. 캐나다 금주 50bp 인상 가능성. 프랑스 대선 불확실성으로 유로존 금융시장 불안 등",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165395",
-          "publishedOn": "2022-04-14T00:02:41.456Z",
+          "publishedOn": "2022-04-14T03:18:14.432Z",
           "wordCount": 544,
           "title": "최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.12)",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165388",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165396",
           "author": null,
-          "description": "한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 키르기스스탄』을 발표하였다.\r\n\r\n- 본 연구의 목적은 우리나라의 對키르기스스탄 농림업 분야 국제개발협력의 전략 수립이다. 전략 수립이란 농림업 중점 협력 분야의 설정 및 그에 따른 세부 추진 과제의 제시임.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165388",
-          "publishedOn": "2022-04-14T00:02:41.443Z",
+          "description": "포스코경영연구소가 『인도 신재생에너지 시장 기회 및 진출 전략』을 발표하였다.\r\n\r\n- 인도는 태양광과 풍력의 높은 매력도를 기반으로 ’30년 재생에너지 500GW 설비용량을 목표로 하면서 개도국 가운데 가장 공격적인 재생에너지 확대를 제시하고 있음. 인도 기업들은 정부의 목표에 발맞춰 공격적으로 재생에너지 투자를 높이고 있으며 다양한 국부펀드와 다국적 기업들도 FDI와 M&A를 통해 인도 시장 공략에 나서면서 인도 재생에너지는 본격적인 성장세를 보일 것임.\r\n\r\n- 인도 재생에너지 시장: 정부의 공격적 확장 정책과 지원 등으로 다양한 사업 기회가 발생 \r\n · 모디 정부는 ’30년 재생에너지 설비생산용량은 500MW, 재생에너지 비중 50% 이상 확대라는 공격적 목표 제시. ’30년까지 태양광과 풍력 설비 각각 180GW와 80GW 증설이 필요하며 이에 발맞춰 업체들의 설비 능력 확대가 본격화될 것   \r\n · 국부펀드와 다국적 기업들은 인도 재생에너지 기업들에 대한 M&A와 FDI 확대 등 시장 진출을 본격화하고 있음. ’21.4월~9월까지 10.3억 달러(’20.4월~’21.3월 7.8억 달러)의 FDI 유입, 고성장 시장인 태양광 부문 기업 M&A 시장 활성화\r\n\r\n- 재생에너지는 ’20년 이후 태양광과 풍력 중심으로 전환 중이며 그린수소도 본격화 할 예정\r\n · 입지 우위: 열대 기후 지대로 태양광 발전이 유리하며 데칸고원 중심 서남부 지대의 풍력 발전 가능성 높음. 태양광과 풍력 발전은 사막지대 및 풍량이 적정한 남부와 서부지역에 집중되어 있으며 이 지대를 중심으로 설비 능력 확장 중. 풍력은 터빈 제조 제조능력이 우수한 것이 장점인 반면 태양광은 웨이퍼와 실리콘 등 주요 원재료 수입의존도가 높은 것이 한계   \r\n · 수소: 2.17 그린수소정책 발표로 글로벌 수소 생산 및 수출기지로 육성. 정부 정책 발표 이후 업체들의 그린수소 생산 전략과 생태계 구축을 위한 투자 확대가 본격화될 것\r\n\r\n- 재생에너지 사업분야 진출을 고려 중인 기업들의 고려 사항 \r\n · 인도 재생에너지 발전에 따른 다양한 사업기회를 포착하기 위한 진출 전략 수립 필요. 태양광 셀과 모듈 생산 기지 구축을 위한 PLI 제도 등을 적극 이용하고 재생에너지 경쟁력 제고를 위한 생태계 구축 기회로 활용  \r\n · 진입 전략: 단독보다는 합작, 풍력과 태양광 진출과 더불어 재생에너지를 활용한 그린수소 생산 기지로 인도 공략. 현지 파트너를 활용할 수 있는 합작진출을 우선 검토하고 태양광과 풍력 발전 잠재성이 큰 타밀나두, 구자라트 주를 우선 검토. 동 지역은 재생에너지 능력을 활용한 그린수소 생산기지로 활용할 수 있을 것으로 전망  \r\n · 사업 추진: 현지 정부 정책 및 리스크 요인 등을 고려하여 장기적 관점에서 점진적 확대해가는 것이 중요. 주 정부의 생산 단가 인하 압력 리스크 존재.  주정부와 신뢰관계 구축이 필수이며 시장선점을 위한 초기 대규모 투자에 주의 요망",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165396",
+          "publishedOn": "2022-04-14T03:18:14.422Z",
           "wordCount": 544,
-          "title": "농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 키르기스스탄",
+          "title": "인도 신재생에너지 시장 기회 및 진출 전략",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165398",
+          "author": null,
+          "description": "한국은행이 「지급수단으로서 위안화 현금 수령 상황과 인민은행의 입장」을 발표하였다.\r\n\r\n- 「인민은행법」  제16조에 따르면 위안화 현금(이하‘현금’)은 중국내 공·사적 채무 변제에 사용되고 어떠한 기관이나 개인도 현금 수령을 거부할 수 없다고 명시하고 있음. 현금 수령을 거부한 경우 해당 기관에 대해서는 200만위안 이하의 벌금을 부과하며, 고위간부 등 책임자에 대해서는 경고, 50만위안 이하의 벌금에 처함. 다만, 「행정처벌법」 제32조에 근거하여 현금 수령거부의 재발 가능성 등이없는 경우에는 벌금액 등을 경감한다고 규정하고 있음.\r\n\r\n- 인민은행은 중앙은행 공고문(2018년 제10호, 2020년 제18호 등)과 분기별 현금 수령거부 단체명단 공표 등을 통해 지급수단으로서 고객의 현금 사용은 보장되어야 한다는 입장을 견지\r\n\r\n- [평가 및 전망] (특정계층의 현금 사용은 지속) 중국 디지털위안화 연구개발 백서(2019년 기준)에 따르면 현금결제비중(건수 기준)은 전체의 23%를 차지하는 등 상당한 데다 현금은 사용하기 쉽고 결제도 간편하므로 농민, 노령층, 영세기업 등 특정계층의 현금 사용은 향후에도 지속될 것으로 예상(招？金融 등)  (현금없는 사회로 진입) 베이징 중관춘은행, 랴오닝 전싱은행의 현금 취급업무 중단과 철회 사태는 상업은행들의 디지털금융에 대한 선호와 중국이 현금없는 사회로 진입하고 있음을 알리는 상징적인 사건임(SCMP)  (전자결제 가속화) 인민은행이 현금 취급업무의 중요성을 일관되게 표명하고 있지만 향후 중국에서는 디지털금융이 확산되면서 현금보다는 위쳇페이, 알리페이, 디지털위안화 등을 통한 전자결제가 가속화될 것으로 전망(中金公司, ？安？券 등)",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165398",
+          "publishedOn": "2022-04-14T03:18:14.410Z",
+          "wordCount": 544,
+          "title": "지급수단으로서 위안화 현금 수령 상황과 인민은행의 입장",
+          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
+        },
+        {
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165397",
+          "author": null,
+          "description": "국제금융센터가 『러시아 디폴트 가능성과 위험전이 경로 검토』를 발표하였다.\r\n\r\n- [이슈] 최근 러시아의 디폴트(Sovereign Default)가 임박했다는 관측이 확산되고 있어, 과거 주요국 디폴트 사례를 바탕으로 러시아 디폴트 발생 시 위험전이 가능성을 점검\r\n\r\n- [주요국 사례] 주요국 디폴트는 대부분 외채급증, 정치불안, 경제위기가 배경으로 작용. 대외여건이 비우호적인 상황에서 발생한 경우 2차 충격으로 금융불안으로 전이\r\n · 1998년(러시아), 2001년(아르헨티나), 2012년(그리스)의 경우, 지역경제 불안(아시아 외환위기, 미 경기둔화, 남유럽 재정위기 등)과 맞물려 파장이 증폭\r\n · 반면 2017년에는 산유국인 베네수엘라가 저유가, 정정불안, 미국의 제재 등으로 디폴트에 직면했으나 세계경제 회복세가 지속되고 유가도 반등하며 파장이 제한\r\n\r\n- [최근 상황과 디폴트 가능성] 러시아는 대외포지션, 재정수지 개선 등에도 불구 서방의 대러제재, 경기침체 등으로 디폴트 가능성이 점증하고 있는 상황\r\n · (완충요인) ▲대외채무 감소 ▲대외포지션 개선 ▲양호한 재정수지 등\r\n · (위험요인) ▲가용 외화자금 감소 ▲지급결제 수단 차단 ▲경기침체 전환 예상 등\r\n\r\n- [러시아 디폴트 시 위험 파급경로 및 전이 가능성 점검] 러시아 디폴트는 선진국 긴축 등에  따른 부담도 커진 상황에서 금융시장 불안요인으로 작용할 소지. 회사채 디폴트, 비은행 투자기관 손실, 취약신흥국 불안 등이 전이 경로로 작용할 가능성\r\n · (러시아 회사채 디폴트) 러시아 대외채무(직접투자 제외) 50%는 비은행기업 채무. 러시아 기업들은 대외부채가 자산보다 많고 외화채무 비중이 높아 제재에 더 취약할 소지\r\n · (비은행 투자기관 손실) 비은행 기관은 금융시장에서의 역할이 커졌으나 위험노출액 파악에 한계. 1998 LTCM, 2008년 AIG 사태 당시에도 사전에 인지하지 못했던 전례\r\n · (취약신흥국 불안) 취약신흥국은 팬데믹 여파 등으로 부채가 크게 증가. 러시아와 금융 및 경제 연계성이 높은 국가를 중심으로 신용등급 강등 증가 우려\r\n\r\n- [평가] 현재 글로벌 금융시장에서는 투자자들의 대러 익스포저 축소 등으로 러시아의 디폴트 시에도 위험이 제한적일 것으로 보는 시각이 일반적이나, 세계경제의 불확실성이 커진 상황에서 파장이 예상보다 클 수 있음에 유의할 필요",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165397",
+          "publishedOn": "2022-04-14T03:18:14.389Z",
+          "wordCount": 544,
+          "title": "러시아 디폴트 가능성과 위험전이 경로 검토",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -998,7 +1018,7 @@
           "author": null,
           "description": "국제금융센터가 『프랑스 대선의 르펜 리스크 점검』을 발표하였다.\r\n\r\n- [이슈] 프랑스 대선 1차 투표 결과(4/10일 현지시각), 마크롱 현 대통령(27.4%)과 극우진영 르펜 후보(24.0%)가 결선(4.24일 예정)에 진출하며 오차범위 내 접전이 예상됨에 따라 르펜 당선 시의 위험요인들을 점검\r\n\r\n- [르펜 리스크] 對러시아 정책 등에서 EU 결속력이 약화되고 국내적으로는 재정적자 확대, 반이민정책 강화 등이 예상. 장기적으로는 프렉시트(Frexit)가 다시 논란이 될 소지\r\n\r\n- [시사점] 르펜의 지지율이 상승할수록 프랑스의 대내외 정책 변화 가능성으로 유로존 금융시장 불안이 확대될 수 있다는 점에 유의할 필요",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165399",
-          "publishedOn": "2022-04-14T00:02:41.423Z",
+          "publishedOn": "2022-04-14T03:18:14.365Z",
           "wordCount": 544,
           "title": "프랑스 대선의 르펜 리스크 점검",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -1008,19 +1028,19 @@
           "author": null,
           "description": "대한상공회의소가 『코로나 이후 최근 국제무역 환경 분석』을 발표하였다.\r\n\r\n- 商議, 최근 국제무역 환경분석... 지난해 TBT(무역기술장벽) 3,966건 역대 최고치 기록\r\n\r\n- ’20년 FDI(외국인직접투자) 규제정책, 2배 이상 증가... 보호무역·핵심기술 경쟁 심화\r\n\r\n- 정부 간 기술표준과 통상이슈 협력 확대, TBT 대응 민관 협력 강화 필요",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165392",
-          "publishedOn": "2022-04-14T00:02:41.404Z",
+          "publishedOn": "2022-04-14T03:18:14.354Z",
           "wordCount": 544,
           "title": "코로나 이후 최근 국제무역 환경 분석",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165398",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165388",
           "author": null,
-          "description": "한국은행이 「지급수단으로서 위안화 현금 수령 상황과 인민은행의 입장」을 발표하였다.\r\n\r\n- 「인민은행법」  제16조에 따르면 위안화 현금(이하‘현금’)은 중국내 공·사적 채무 변제에 사용되고 어떠한 기관이나 개인도 현금 수령을 거부할 수 없다고 명시하고 있음. 현금 수령을 거부한 경우 해당 기관에 대해서는 200만위안 이하의 벌금을 부과하며, 고위간부 등 책임자에 대해서는 경고, 50만위안 이하의 벌금에 처함. 다만, 「행정처벌법」 제32조에 근거하여 현금 수령거부의 재발 가능성 등이없는 경우에는 벌금액 등을 경감한다고 규정하고 있음.\r\n\r\n- 인민은행은 중앙은행 공고문(2018년 제10호, 2020년 제18호 등)과 분기별 현금 수령거부 단체명단 공표 등을 통해 지급수단으로서 고객의 현금 사용은 보장되어야 한다는 입장을 견지\r\n\r\n- [평가 및 전망] (특정계층의 현금 사용은 지속) 중국 디지털위안화 연구개발 백서(2019년 기준)에 따르면 현금결제비중(건수 기준)은 전체의 23%를 차지하는 등 상당한 데다 현금은 사용하기 쉽고 결제도 간편하므로 농민, 노령층, 영세기업 등 특정계층의 현금 사용은 향후에도 지속될 것으로 예상(招？金融 등)  (현금없는 사회로 진입) 베이징 중관춘은행, 랴오닝 전싱은행의 현금 취급업무 중단과 철회 사태는 상업은행들의 디지털금융에 대한 선호와 중국이 현금없는 사회로 진입하고 있음을 알리는 상징적인 사건임(SCMP)  (전자결제 가속화) 인민은행이 현금 취급업무의 중요성을 일관되게 표명하고 있지만 향후 중국에서는 디지털금융이 확산되면서 현금보다는 위쳇페이, 알리페이, 디지털위안화 등을 통한 전자결제가 가속화될 것으로 전망(中金公司, ？安？券 등)",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165398",
-          "publishedOn": "2022-04-14T00:02:41.394Z",
+          "description": "한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 키르기스스탄』을 발표하였다.\r\n\r\n- 본 연구의 목적은 우리나라의 對키르기스스탄 농림업 분야 국제개발협력의 전략 수립이다. 전략 수립이란 농림업 중점 협력 분야의 설정 및 그에 따른 세부 추진 과제의 제시임.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165388",
+          "publishedOn": "2022-04-14T03:18:09.821Z",
           "wordCount": 544,
-          "title": "지급수단으로서 위안화 현금 수령 상황과 인민은행의 입장",
+          "title": "농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 키르기스스탄",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1028,19 +1048,9 @@
           "author": null,
           "description": "국토연구원이 「국토공간 유형구분을 통한 지역맞춤형 미세먼지대책 수립방안」을 발표하였다.\r\n\r\n- 우리나라 미세먼지 농도 분석결과 봄, 겨울의 농도가 높게 나타났으며, 수도권과 서해안 지역이 남해안과 동해안 지역보다 상대적으로 높게 나타남(2019년 기준). 공간특성에 따라 미세먼지 농도와 그로 인한 영향이 달라지므로, 공간특성에 기초하여 국토공간의 유형을 구분하고 유형별 대책을 수립할 필요가 있음. 미세먼지의 농도(평균농도와 고농도 빈도)와 노출(총인구수와 취약계층 비율)을 고려하여 리스크 기반의 국토공간 유형을 3개(높음-중간-낮음)로, 직·간접 영향인자를 활용하여 영향인자 기반 국토공간 유형을 3개(A, B, C)로 구분함. 미세먼지대책으로서 배출량 감축뿐만 아니라 저감, 적응, 관련 정보시스템 구축 등을 다각도로 활용할 수 있음. 미세먼지로 인한 리스크가 높은 지역은 적응정책과 정보시스템을 우선 수립 및 구축해야 하며, 동시에 미세먼지 발생 억제대책 및 녹지와 수공간을 연계한 저감대책이 수립되어야 함.\r\n\r\n- [정책방안] ① (리스크 기반 국토공간 유형) 미세먼지의 평균 농도 및 고농도 빈도, 해당 지역의 취약인구 비율 등을 반영한 리스크에 기반하여 미세먼지대책 도입의 우선순위를 설정할 필요 ② (영향인자 기반 국토공간 유형) 미세먼지에 대한 직·간접적 영향인자의 특징을 고려함으로써 지역 특성에 맞는 미세먼지대책의 목록을 구축할 필요 ③ (통합 국토공간 유형) 미세먼지로 인한 리스크와 영향인자를 모두 반영한 통합 국토공간의 유형을 활용하여 미세먼지대책의 우선순위와 방향성을 설정할 필요",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165402",
-          "publishedOn": "2022-04-14T00:02:41.323Z",
+          "publishedOn": "2022-04-14T03:18:06.277Z",
           "wordCount": 544,
           "title": "국토공간 유형구분을 통한 지역맞춤형 미세먼지대책 수립방안",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165397",
-          "author": null,
-          "description": "국제금융센터가 『러시아 디폴트 가능성과 위험전이 경로 검토』를 발표하였다.\r\n\r\n- [이슈] 최근 러시아의 디폴트(Sovereign Default)가 임박했다는 관측이 확산되고 있어, 과거 주요국 디폴트 사례를 바탕으로 러시아 디폴트 발생 시 위험전이 가능성을 점검\r\n\r\n- [주요국 사례] 주요국 디폴트는 대부분 외채급증, 정치불안, 경제위기가 배경으로 작용. 대외여건이 비우호적인 상황에서 발생한 경우 2차 충격으로 금융불안으로 전이\r\n · 1998년(러시아), 2001년(아르헨티나), 2012년(그리스)의 경우, 지역경제 불안(아시아 외환위기, 미 경기둔화, 남유럽 재정위기 등)과 맞물려 파장이 증폭\r\n · 반면 2017년에는 산유국인 베네수엘라가 저유가, 정정불안, 미국의 제재 등으로 디폴트에 직면했으나 세계경제 회복세가 지속되고 유가도 반등하며 파장이 제한\r\n\r\n- [최근 상황과 디폴트 가능성] 러시아는 대외포지션, 재정수지 개선 등에도 불구 서방의 대러제재, 경기침체 등으로 디폴트 가능성이 점증하고 있는 상황\r\n · (완충요인) ▲대외채무 감소 ▲대외포지션 개선 ▲양호한 재정수지 등\r\n · (위험요인) ▲가용 외화자금 감소 ▲지급결제 수단 차단 ▲경기침체 전환 예상 등\r\n\r\n- [러시아 디폴트 시 위험 파급경로 및 전이 가능성 점검] 러시아 디폴트는 선진국 긴축 등에  따른 부담도 커진 상황에서 금융시장 불안요인으로 작용할 소지. 회사채 디폴트, 비은행 투자기관 손실, 취약신흥국 불안 등이 전이 경로로 작용할 가능성\r\n · (러시아 회사채 디폴트) 러시아 대외채무(직접투자 제외) 50%는 비은행기업 채무. 러시아 기업들은 대외부채가 자산보다 많고 외화채무 비중이 높아 제재에 더 취약할 소지\r\n · (비은행 투자기관 손실) 비은행 기관은 금융시장에서의 역할이 커졌으나 위험노출액 파악에 한계. 1998 LTCM, 2008년 AIG 사태 당시에도 사전에 인지하지 못했던 전례\r\n · (취약신흥국 불안) 취약신흥국은 팬데믹 여파 등으로 부채가 크게 증가. 러시아와 금융 및 경제 연계성이 높은 국가를 중심으로 신용등급 강등 증가 우려\r\n\r\n- [평가] 현재 글로벌 금융시장에서는 투자자들의 대러 익스포저 축소 등으로 러시아의 디폴트 시에도 위험이 제한적일 것으로 보는 시각이 일반적이나, 세계경제의 불확실성이 커진 상황에서 파장이 예상보다 클 수 있음에 유의할 필요",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165397",
-          "publishedOn": "2022-04-14T00:02:41.303Z",
-          "wordCount": 544,
-          "title": "러시아 디폴트 가능성과 위험전이 경로 검토",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1048,29 +1058,19 @@
           "author": null,
           "description": "KDB미래전략연구소가 「국내 제조업의 중간재 공급 동향」을 발표하였다.\r\n\r\n- 국내에 공급되는 제조업 제품 중 수입산 공급이 지속적인 증가 추세를 보이고 있으며, 수입 제품 중 국내 생산에 필요한 중간재 수입도 증가\r\n\r\n- 최근 글로벌 공급망 재편을 위한 경쟁이 심화되는 가운데, 일부 국가에 대한 중간재 의존도 상승이 국내 생산 차질로 이어질 가능성. 핵심 제조업의 경우 자국 생산 장려 및 수입선 다변화 같은 선제적인 분산 전략이 중",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165405",
-          "publishedOn": "2022-04-14T00:02:31.477Z",
+          "publishedOn": "2022-04-14T03:18:06.268Z",
           "wordCount": 544,
           "title": "국내 제조업의 중간재 공급 동향",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165393",
+          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165390",
           "author": null,
-          "description": "국제금융센터가 『우크라이나 사태 이후 글로벌 주식시장 여건 점검 및 평가』를 발표하였다.\r\n\r\n- [이슈] 러시아-우크라이나 전쟁은 글로벌 주식시장을 둘러싼 경제ㆍ금융여건에 큰 변화를 초래. 이에 따라 달라진 주식시장 여건을 점검하고 주가에 미칠 영향을 평가. 세계주가MSCI는 미 연준의 통화긴축, 우크라이나 사태 등으로 연중 1/1~3/14일 11.9% 하락했으나, 3월 미 FOMC 이후 선진국 중심으로 반등하여 -7.1%까지 낙폭을 회복\r\n\r\n- [요인별 점검] ▲거시환경 : 경제성장 모멘텀 둔화, 고물가 지속, 통화긴축 가속화 ▲실적 : 전망치 컨센서스는 양호하나, 고물가 지속에 따른 이익부진 가능성 ▲밸류에이션 : 연초 이후 부담이 일부 완화되었으나, 과거 대비로는 여전히 높은 수준\r\n · 거시환경 : 우크라이나 사태 이후 경제성장 둔화, 물가 상승, 통화긴축 가속 등 경기확장 후기(Late Cycle) 특징이 심화했으며 이는 주가에 비우호적인 환경으로 작용. 실질금리가 최근까지 마이너스를 기록하면서 채권 대비 주식 선호를 지지했으나, 연준 금리인상과 양적긴축(QT) 시행 등으로 금융여건의 빠른 긴축 위험이 잠재\r\n · 기업이익 : 우크라이나 사태에도 불구하고 세계증시 이익 전망치가 선진국을 중심으로 개선세를 지속. 그러나 향후 고유가로 인한 비용증가와 경영 불확실성이 장기화할 경우, 이익 전망치의 후행적 하향 가능성 잠재. 과거 유가 급등에 따른 원가 상승 시 기업들의 가격전가로 인해 즉각적인 이익률 악화는 없었으나, 1~2분기 이후 이익률이 후행적으로 둔화. 특히 금번과 같이 공급요인으로 인한 유가 급등은 소비 위축 여파로 이익감소 영향이 클 소지\r\n · 밸류에이션 : 글로벌 증시 밸류에이션은 연초 이후 약 8% 하락하여 부담이 일부 완화됐으나, 과거 장기 시계열 평균 대비로는 여전히 높은 수준\r\n\r\n- [평가] 우크라이나 사태 이후 연준의 고강도 통화긴축 시사 등 주가에 비우호적인 거시환경 변화에도 불구하고, 글로벌 증시는 양호한 이익성장을 전제로 이를 제한적으로 반영 중. 증시 밸류에이션이 높은 가운데 최근 실적 전망치가 낙관적이라는 평가가 증가하고 있어 향후 기대치가 현실화하는 과정에서 증시 변동성이 확대될 가능성에 유의\r\n · 최근 거시경제 성장 전망(Top-down 방식) 둔화에도 불구하고 개별 기업 및 업종에 대한 실적 전망(Bottom-up 방식)은 상대적으로 낙관적(Morgan Stanley, CS 등)",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165393",
-          "publishedOn": "2022-04-14T00:02:31.057Z",
+          "description": "한국농촌경제연구원이 『혁신 성장을 위한 농업부문 데이터 경제 체계 구축과 활성화 방안 (1/2차년도)』을 발표하였다.\r\n\r\n- 이 연구는 미래 산업화와 혁신 성장 동력원으로서 농업부문의 효율적인 데이터 경제 체계를 구축하고 이를 활성화할 수 있는 방안 마련을 위한 1차년도 연구임. 농업부문의 디지털 전환과 데이터 활용 및 실용화할 수 있는 방안을 마련하여 농업부문 데이터 경제 체계를 구축하고, 이를 구체화하여 농산업 부문에 활용할 수 있는 활성화 방안과 정부의 제도적 보완 및 중장기 정책 방안을 제시하고자 하였음. 또한 데이터 기반 농산업 활성화를 위한 R&D 확대 및 후방산업 육성 방안을 마련하고 이를 통한 정책 방안을 제시하고자 하였음. 이를 위해 1차년도에는 농업부문 데이터 경제의 기반인 디지털 전환 및 플랫폼과 공공부문의 대응 방안에 대한 연구를 수행하였음.",
+          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165390",
+          "publishedOn": "2022-04-14T03:18:06.248Z",
           "wordCount": 544,
-          "title": "우크라이나 사태 이후 글로벌 주식시장 여건 점검 및 평가",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165389",
-          "author": null,
-          "description": "한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 우크라이나』를 발표하였다.\r\n\r\n- 본 연구는 우크라이나의 농림업 분야에 특화된 개발협력 전략을 수립하고 제시하는 것을 목적으로 함. 이를 위해 우크라이나의 농업 및 농촌의 현황, 우크라이나의 국가 및 농업개발 전략, 국제사회와 우리나라의 개발 및 지원 동향, 우리나라의 비교우위 등을 파악, 분석하여 우크라이나 농림업 중점 협력 분야 및 세부 추진 과제를 제시하였음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165389",
-          "publishedOn": "2022-04-14T00:02:31.024Z",
-          "wordCount": 544,
-          "title": "농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 우크라이나",
+          "title": "혁신 성장을 위한 농업부문 데이터 경제 체계 구축과 활성화 방안 (1/2차년도)",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         },
         {
@@ -1078,7 +1078,7 @@
           "author": null,
           "description": "한국지방세연구원이 「디지털세 도입 논의 동향과 지방세 시사점 -데이터세 도입 논의를 포함하여-」를 발표하였다.\r\n\r\n<목 차>\r\n\r\nⅠ. 서 론\r\n1. 연구배경 및 목적\r\n2. 연구범위 및 방법\r\nⅡ. 디지털 경제와 데이터세 논의 동향\r\n1. 디지털 경제와 데이터의 의의\r\n2. 디지털 사업 모델 및 데이터 관련 법률\r\n3. 데이터세의 한계와 디지털세 도입의 영향\r\nⅢ. 해외의 유사제도 도입 동향\r\n1. 유럽의 디지털서비스세\r\n2. 영국의 우회이득세(Diverted Profits tax)\r\n3. OECD 디지털세\r\n4. 시사점\r\nⅣ. 디지털세 도입과 지방세 시사점\r\n1. 법인지방소득세 세수에 미치는 영향\r\n2. 지방세 분야에서의 활용 방향\r\n참고문헌 및 부록",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165394",
-          "publishedOn": "2022-04-14T00:02:31.011Z",
+          "publishedOn": "2022-04-14T03:18:06.235Z",
           "wordCount": 544,
           "title": "디지털세 도입 논의 동향과 지방세 시사점 -데이터세 도입 논의를 포함하여-",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
@@ -1088,7 +1088,7 @@
           "author": null,
           "description": "국제금융센터가 『최근 러시아 루블화 강세에 대한 평가 및 전망』을 발표하였다.\r\n\r\n- [현황] 러시아 루블화는 서방 국가들의 對러시아 제재가 가해진 이후 가치가 폭락 했으나, 4월초 러-우 전쟁 전 수준을 회복하는 등 빠른 안정세를 나타내고 있음.\r\n\r\n- [평가] 루블화의 반등을 근거로 對러 제재의 무용론을 제기하는 시각도 있으나, 종합적인 환율 여건을 충분히 반영하지 못한 불안정적인 상태로 보는 시각이 우세\r\n\r\n- [시사점] 최근 루블화의 강세를 러시아 경제의 펀더멘털 개선 징후로 받아들이기보다는, 우크라이나 사태發 국제금융시장 불안에 대한 경계의 시각을 유지할 필요",
           "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165400",
-          "publishedOn": "2022-04-14T00:02:31.003Z",
+          "publishedOn": "2022-04-14T03:18:06.222Z",
           "wordCount": 544,
           "title": "최근 러시아 루블화 강세에 대한 평가 및 전망",
           "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
