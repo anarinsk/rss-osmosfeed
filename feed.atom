@@ -1,126 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T03:18:29.805Z</id>
+    <id>urn:2022-04-14T06:01:29.140Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-04-14T03:18:29.805Z</updated>
+    <updated>2022-04-14T06:01:29.140Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Helicopter money: what is it and what does it do?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165427</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165427"/>
-        <updated>2022-04-14T03:18:17.776Z</updated>
-        <summary type="html"><![CDATA[We review the different meanings of helicopter money both in the literature and in the public debate around it, and clarify the conditions under which helicopter money can have an impact on real activity. To do so, we set out a simple model that encapsulates a number of potential channels of policy transmission. The model provides a taxonomy of possibilities for helicopter money to affect the economy, as well as a benchmark set of conditions under which it is neutral. We use the model to analyse and discuss the impact that helicopter drops might have in response to a number of economic shocks, including a financial crisis, a fiscal crisis, and a pandemic.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Economic and Social Survey of Asia and the Pacific 2022: Economic policies for an inclusive recovery and development]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165417</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165417"/>
-        <updated>2022-04-14T03:18:17.723Z</updated>
-        <summary type="html"><![CDATA[After the pandemic-induced economic contraction in 2020, economic recovery in the developing Asia-Pacific counties in 2021 was driven by robust demand for exports from the region. The growth momentum was dented towards the latter half of the year as countries renewed lockdowns and restrictions in the wake of new COVID-19 variants, leading to supply disruptions. Border openings were further delayed, holding back employment recovery, particularly in tourism-dependent economies. Overall, economic growth in developing countries in Asia and the Pacific, estimated at 7.1 per cent in 2021, is projected to moderate to 4.5 per cent in 2022 and 5 per cent in 2023. Inflation has risen across the region, driven by rising food and fuel prices, affecting the poor disproportionately. Importantly, the unf…]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming FPGAs for Economics: An Introduction to Electrical Engineering Economics]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165435</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165435"/>
-        <updated>2022-04-14T03:18:17.594Z</updated>
-        <summary type="html"><![CDATA[We show how to use field-programmable gate arrays (FPGAs) and their associated high-level synthesis (HLS) compilers to solve heterogeneous agent models with incomplete markets and aggregate uncertainty (Krusell and Smith, 1998). We document that the acceleration delivered by one single FPGA is comparable to that provided by using 74 CPU cores in a conventional cluster. We describe how to achieve multiple acceleration opportunities -pipeline, data-level parallelism, and data precision- with minimal modification of the C code written for a traditional sequential processor, which we then deploy on FPGAs easily available at Amazon Web Services. We quantify the speedup and cost of these accelerations. Our paper is the first step toward a new field, electrical engineering economics, focused on designing computational accelerators for economics to tackle challenging quantitative models.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Managers Paid for Market Power?]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165434</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165434"/>
-        <updated>2022-04-14T03:18:17.457Z</updated>
-        <summary type="html"><![CDATA[To answer the question whether managers are paid for market power, we propose a theory of executive compensation in an economy where firms have market power, and the market for man- agers is competitive. We identify two distinct channels that contribute to manager pay in the model: market power and firm size. Both increase the profitability of the firm, which makes managers more valuable as it increases their marginal product. Using data on executive compensation from Compustat, we quantitatively analyze how market power affects Manager Pay and how it changes over time. We attribute on average 45.8% of Manager Pay to market power, from 38.0% in 1994 to 48.8% in 2019. Over this period, market power accounts for 57.8% of growth. We also find there is a lot of heterogeneity within the distribution of managers. For the top managers, 80.3% of their pay in 2019 is due to market power. Top managers are hired disproportionately by firms with market power, and they get rewarded for it, increasingly so.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brain-computer interfaces and the governance system: Upstream approaches]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165420</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165420"/>
-        <updated>2022-04-14T03:18:17.043Z</updated>
-        <summary type="html"><![CDATA[Brain-computer interface (BCI) systems are in a period of rapid development and offer significant potential for the promotion of health and well-being. At the same time, they raise a range of unique ethical, legal, and policy questions, and few BCI-specific rules exist in a fragmented regulatory landscape. This report aims to help develop a responsible and anticipatory governance approach to promote innovation while shaping the trajectory of technology through a set of mechanisms, including (i) soft law, (ii) standardisation and ethics-by-design approaches, (iii) corporate self-governance, and (iv) participatory experiments for upstream governance.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICT, Collaboration, and Innovation: Evidence from BITNET]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165426</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165426"/>
-        <updated>2022-04-14T03:18:17.016Z</updated>
-        <summary type="html"><![CDATA[Does access to technologies that reduce information and communication costs increase innovation? We examine this question by exploiting the staggered adoption of BITNET across U.S. universities in the 1980s. BITNET, an early version of the Internet, enabled e-mail-based knowledge exchange and collaboration among academics. After the adoption of BITNET, university-connected inventors increase patenting substantially. The effects are driven by collaborative patents by new inventor teams. The patents induced by ICT are closely related to science. In contrast, we neither find an effect on patents not closely related to science nor on corporate inventors unconnected to universities.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loss Aversion and Conspicuous Consumption in Networks]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165436</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165436"/>
-        <updated>2022-04-14T03:18:17.002Z</updated>
-        <summary type="html"><![CDATA[We introduce loss aversion into a model of conspicuous consumption in networks. Agents allocate their income between a standard good and a status good to maximize a Cobb-Douglas utility. Agents interact over a connected network and compare their status consumption to their neighbors‘ average consumption. Loss aversion has a profound impact. If loss aversion is large enough relative to income heterogeneity, a continuum of Nash equilibria appears and all agents consume the same quantity of status good. Otherwise, there is a unique Nash equilibrium and richest agents earn strict status gains while poorest agents earn strict status losses.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assortative Mating and Wealth Inequality]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165412</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165412"/>
-        <updated>2022-04-14T03:18:16.984Z</updated>
-        <summary type="html"><![CDATA[We use population data on capital income and wealth holdings for Norway to measure asset positions and wealth returns before individuals marry and after the household is formed. These data allow us to establish a number of novel facts. First, individuals sort on personal wealth rather than parents‘ wealth. Assortative mating on own wealth dominates, and in fact renders assortative mating on parental wealth statistically insignificant. Second, people match also on their personal returns to wealth and assortative mating on returns is as strong as that on wealth. Third, post-marriage returns on family wealth are largely explained by the return of the spouse with the highest pre-marriage return. This suggests that family wealth is largely managed by the spouse with the highest potential to grow it. This is particularly true for households at the top of the wealth distribution at marriage. We use a simple analytical example to illustrate how assortative mating on wealth and returns and wealth management task allocation between spouses affect wealth inequality.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geographic Dispersion in U.S. Employment]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165429</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165429"/>
-        <updated>2022-04-14T03:18:16.975Z</updated>
-        <summary type="html"><![CDATA[Employment statistics often receive notable attention as economic indicators during times of stress, such as during the COVID-19 pandemic. In an ever-changing economy, employment varies significantly across the more than 3,000 counties in the United States. Most employment is concentrated in a few areas, with large areas of little employment in between.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welfare and Environmental Benefits of Electric Vehicle Tax Policies in Developing Countries : Evidence from Colombia]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165437</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165437"/>
-        <updated>2022-04-14T03:18:16.959Z</updated>
-        <summary type="html"><![CDATA[Developing countries face a major challenge of decarbonizing their light-duty vehicle fleet and transitioning to the broad use of electric vehicles. However, there is little evidence on which policies can most effectively facilitate that transition in these countries, distinguished by relatively low-income consumers and highly concentrated markets that distort vehicle markups. This paper analyzes existing and proposed policies aiming to reduce emissions from new passenger vehicles in Colombia, which has used preferential sales taxes and import tariffs to stimulate hybrid and electric cars sales. Using highly detailed data on vehicle purchases and attributes, the paper estimates an equilibrium model of Colombia’s market that includes a random-coefficients logit demand structure and endogenizes firms’ markups. Using the model to simulate policies, the analysis finds that Colombia’s sales tax and import tariffs have increased hybrid and electric vehicle market shares by 0.9 to 2.7 percentage points at welfare costs of $40-$48 per ton of carbon dioxide reduction. Potentially taxing carbon dioxide emissions rates of new vehicles would have roughly similar welfare costs. The high welfare costs of these policies arise from preexisting distortions caused by market power, which yields large private welfare costs of shifting from gasoline to hybrid and electric vehicles.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Abuse during the Pandemic: Implications for Labor-Force Participation]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165445</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165445"/>
-        <updated>2022-04-14T03:18:16.949Z</updated>
-        <summary type="html"><![CDATA[The labor-force participation rates of prime-age U.S. workers dropped in March 2020―the start of the COVID-19 pandemic―and have still not fully recovered. At the same time, substance-abuse deaths were elevated during the pandemic relative to trend indicating an increase in the number of substance abusers, and abusers of opioids and crystal methamphetamine have lower labor-force participation rates than non-abusers. Could increased substance abuse during the pandemic be a factor contributing to the fall in labor-force participation? Estimates of the number of additional substance abusers during the pandemic presented here suggest that increased substance abuse accounts for between 9 and 26 percent of the decline in prime-age labor-force participation between February 2020 and June 2021.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Political Power and Market Power]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165425</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165425"/>
-        <updated>2022-04-14T03:18:16.941Z</updated>
-        <summary type="html"><![CDATA[We study the link between political influence and industrial concentration. A model of firm lobbying shows that concentration and regulation may be either strategic complements or substitutes. Using data for the past 20 years in the US, we study whether merging firms‘ influence activity increases or decreases after a merger. We document an increase in lobbying activity and we find some evidence for an increase in campaign contributions.]]></summary>
+        <title type="html"><![CDATA[Impacts of Temporary Migration on Development in Origin Countries]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165431</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165431"/>
+        <updated>2022-04-14T06:01:29.104Z</updated>
+        <summary type="html"><![CDATA[Temporary migration is widespread globally. While the literature has traditionally focused on the impacts of permanent migration on destination countries, evidence on the effects of temporary migration on origin countries has grown over the past decade. This paper highlights that the economic development impacts, especially on low- and middle-income origin countries are complex, dynamic, context-specific and multi-channeled. The paper identifies five main pathways: (i) labor supply, (ii) human capital, (iii) financial capital and entrepreneurship, (iv) aggregate welfare and poverty, and (v) institutions and social norms. Several factors shape these pathways and their eventual impacts. These include initial economic conditions at home, the scale and double selectivity of emigration and return migration, and employment and human capital accumulation opportunities experienced by migrants while they are overseas, among others. Meaningful policy interventions to increase the development impacts of temporary migration require proper analysis, which, in turn, depends on high quality data on workers’ employment trajectories. This is currently the biggest research challenge to overcome to study the development impacts of temporary migration.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -129,68 +19,18 @@
         <title type="html"><![CDATA[Million Dollar Plants and Retail Prices]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165432</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165432"/>
-        <updated>2022-04-14T03:18:16.932Z</updated>
+        <updated>2022-04-14T06:01:29.038Z</updated>
         <summary type="html"><![CDATA[This paper studies how the opening of a Million Dollar Plant (MDP) affects income inequality, by focusing on a new mechanism: retail inflation. Using detailed barcode-level prices, the paper shows that local barcode-level prices increased in winning counties compared to runner up counties after a MDP enters. The paper further shows that households in winning counties spend less time shopping for deals and discounts and more time on work. Wages also go up in winning counties, but only for high-skilled workers. The paper builds a model of monopolistic firms with variable mark-ups and non-homothetic consumer preferences. Consumers become less price sensitive as they substitute shopping time for more working time in response to rising labor demand generated by the entry of a MDP, and firms respond to less elastic consumer demand by raising their mark-ups. Analysis using the model and detailed reduced form evidence shows that establishing a MDP only increases wages of certain high-skilled workers, but it increases overall county-level prices, thus creating larger increases in income inequality in winning counties compared to runner-up counties.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimal Exploration and Price Paths of a Non-renewable Commodity with Stochastic Discoveries]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165443</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165443"/>
-        <updated>2022-04-14T03:18:16.923Z</updated>
-        <summary type="html"><![CDATA[We address the long-standing challenge of adding optimal exploration to the classic Hotelling model of a non-renewable resource. We completely solve such a model, using impulse control. The model, extending Arrow and Chang (1982), has two state variables: “proven” reserves and a finite unexplored area available for exploration at constant marginal cost, with a Poisson process for new discoveries. We prove that a frontier of critical levels of proven reserves exists, above which exploration ceases, and below which it happens at infinite speed. This frontier is increasing in explored area, and higher reserve levels along this critical threshold indicate more scarcity, not less. In a stochastic generalization of Hotelling’s rule, the expected shadow price of reserves rises at the rate of interest across exploratory episodes. The trajectories of prices realized prior to exhaustion of the exploratory area may jump up or down upon exploration. Conditional on non-exhaustion, expected price rises at a rate bounded above by the rate of interest, explaining why most empirical tests based on past price histories reject Hotelling’s rule. Starting when the unexplored area is sufficiently close to zero, all price paths rise at less than the rate of interest until exhaustion of the unexplored area.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impacts of Temporary Migration on Development in Origin Countries]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165431</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165431"/>
-        <updated>2022-04-14T03:18:16.906Z</updated>
-        <summary type="html"><![CDATA[Temporary migration is widespread globally. While the literature has traditionally focused on the impacts of permanent migration on destination countries, evidence on the effects of temporary migration on origin countries has grown over the past decade. This paper highlights that the economic development impacts, especially on low- and middle-income origin countries are complex, dynamic, context-specific and multi-channeled. The paper identifies five main pathways: (i) labor supply, (ii) human capital, (iii) financial capital and entrepreneurship, (iv) aggregate welfare and poverty, and (v) institutions and social norms. Several factors shape these pathways and their eventual impacts. These include initial economic conditions at home, the scale and double selectivity of emigration and return migration, and employment and human capital accumulation opportunities experienced by migrants while they are overseas, among others. Meaningful policy interventions to increase the development impacts of temporary migration require proper analysis, which, in turn, depends on high quality data on workers’ employment trajectories. This is currently the biggest research challenge to overcome to study the development impacts of temporary migration.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firm Resources, Strategies, and Survival and Growth during COVID-19 : Evidence from Two-Wave Global Surveys]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165430</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165430"/>
-        <updated>2022-04-14T03:18:16.898Z</updated>
-        <summary type="html"><![CDATA[This study examines how firms have made strategic choices and performed during the COVID-19 pandemic. Drawing on the organizational resources and strategic change literature, it uses World Bank Enterprise Surveys and the COVID-19 Follow-up Enterprise Surveys to examine how different endowments in organizational resources affected firm performance as measured by their survival status and sales growth, and how these resources interact with and affect strategic responses in the supply of inputs, response to changing demand, liquidity management, and innovation. The results indicate that larger firms, firms with foreign or state ownership, and subsidiary companies performed better during the pandemic by more effectively stabilizing supply, managing liquidity, and fostering new product development. Chief executive officers with longer tenure improved survival rates. Firms in richer countries have coped with the pandemic better and stringent government COVID-19 control policies have tended to hurt firms‘ performance.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Returns to Different Postsecondary Investments: Institution Type, Academic Programs, and Credentials]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165444</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165444"/>
-        <updated>2022-04-14T03:18:16.890Z</updated>
-        <summary type="html"><![CDATA[Early research on the returns to higher education treated the postsecondary system as a monolith. In reality, postsecondary education in the United States and around the world is highly differentiated, with a variety of options that differ by credential (associates degree, bachelor’s degree, diploma, certificate, graduate degree), the control of the institution (public, private not-for-profit, private for-profit), the quality/resources of the institution, field of study, and exposure to remedial education. In this Chapter, we review the literature on the returns to these different types of higher education investments, which has received increasing attention in recent decades. We first provide an overview of the structure of higher education in the U.S. and around the world, followed by a model that helps clarify and articulate the assumptions employed by different estimators used in the literature. We then discuss the research on the return to institution type, focusing on the return to two-year, four-year, and for-profit institutions as well as the return to college quality within and across these institution types. We also present the research on the return to different educational programs, including vocational credentials, remedial education, field of study, and graduate school. The wide variation in the returns to different postsecondary investments that we document leads to the question of how students from different backgrounds sort into these different institutions and programs. We discuss the emerging research showing that lower-SES students, especially in the U.S., are more likely to sort into colleges and programs with lower returns as well as results from recent U.S.-based interventions and policies designed to support success among students from disadvantaged backgrounds. The Chapter concludes with some broad directions for future research.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subjective Beliefs and Inclusion Policies: Evidence from College Admissions]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165424</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165424"/>
-        <updated>2022-04-14T03:18:16.874Z</updated>
-        <summary type="html"><![CDATA[Many countries have introduced preferential admissions to provide new opportunities for talented but disadvantaged students to attend college. Their effectiveness critically depends on students‘ perceptions of their incentive schemes. This paper studies this issue by exploiting a randomized preferential admission policy and linked survey-administrative data for 6,054 high-school students in Chile. We document that these students hold overly optimistic beliefs about their admission credentials. We then estimate policy effects on student behavior and outcomes. We find that pre-college effort and achievement fall by 0.1 standard deviations in response to the policy. We develop and structurally estimate a dynamic model of effort, entrance-exam-taking, admissions and enrollments incorporating subjective beliefs. We show that, by distorting effort, belief biases lead overconfident but underprepared students to enter college in response to the policy. We discuss how preferential admission policies can be redesigned to mitigate such distortions and draw closer to achieving their intended objective.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Virtue of Complexity in Return Prediction]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165441</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165441"/>
-        <updated>2022-04-14T03:18:16.865Z</updated>
-        <summary type="html"><![CDATA[We theoretically characterize the behavior of return prediction models in the high complexity regime, i.e.\ when the number of parameters exceeds the number of observations. Contrary to conventional wisdom in finance, return prediction $R^{2}$ and optimal portfolio Sharpe ratio generally increase with model parameterization, even when minimal regularization is used.   Empirically, we document this ``virtue of complexity‘‘ in US equity market prediction.  High complexity models deliver economically large and statistically significant out-of-sample portfolio gains relative to simpler models, due in large part to their remarkable ability to predict recessions.]]></summary>
+        <title type="html"><![CDATA[Political Power and Market Power]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165425</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165425"/>
+        <updated>2022-04-14T06:01:28.785Z</updated>
+        <summary type="html"><![CDATA[We study the link between political influence and industrial concentration. A model of firm lobbying shows that concentration and regulation may be either strategic complements or substitutes. Using data for the past 20 years in the US, we study whether merging firms‘ influence activity increases or decreases after a merger. We document an increase in lobbying activity and we find some evidence for an increase in campaign contributions.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -199,29 +39,117 @@
         <title type="html"><![CDATA[Refugee Migration and the Labor Market:  Lessons from 40 Years of Post-arrival Policies in Denmark]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165433</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165433"/>
-        <updated>2022-04-14T03:18:16.855Z</updated>
+        <updated>2022-04-14T06:01:28.502Z</updated>
         <summary type="html"><![CDATA[Denmark has accepted refugees from a large variety of countries and for more than four decades. Denmark has also frequently changed policies and regulations concerning integration programs, transfer payments, and conditions for permanent residency. Such policy variation in conjunction with excellent administrative data provides an ideal laboratory to evaluate the effects of different immigration and integration policies on the outcomes of refugee immigrants. In this article, we first describe the Danish experience with refugee immigration over the past four decades. We then review different post-arrival refugee policies and summarize studies that evaluate their effects on the labor market performance of refugees. Lastly, we discuss and contrast these findings in the context of international studies of similar policies and draw conclusions for policy.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 몽골]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165386</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165386"/>
-        <updated>2022-04-14T03:18:16.843Z</updated>
-        <summary type="html"><![CDATA[한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 몽골』을 발표하였다.
-
-- 이 연구는 몽골 농림축산업과 농촌의 현황을 분석하고 몽골의 국가 및 분야 개발전략, 국제사회, 국내 개발협력 전략을 파악하여 몽골에 대한 농업분야 개발협력 전략을 수립·제시하는 것을 목적으로 함.]]></summary>
+        <title type="html"><![CDATA[Helicopter money: what is it and what does it do?]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165427</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165427"/>
+        <updated>2022-04-14T06:01:28.486Z</updated>
+        <summary type="html"><![CDATA[We review the different meanings of helicopter money both in the literature and in the public debate around it, and clarify the conditions under which helicopter money can have an impact on real activity. To do so, we set out a simple model that encapsulates a number of potential channels of policy transmission. The model provides a taxonomy of possibilities for helicopter money to affect the economy, as well as a benchmark set of conditions under which it is neutral. We use the model to analyse and discuss the impact that helicopter drops might have in response to a number of economic shocks, including a financial crisis, a fiscal crisis, and a pandemic.]]></summary>
         <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Returns to Different Postsecondary Investments: Institution Type, Academic Programs, and Credentials]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165444</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165444"/>
+        <updated>2022-04-14T06:01:28.261Z</updated>
+        <summary type="html"><![CDATA[Early research on the returns to higher education treated the postsecondary system as a monolith. In reality, postsecondary education in the United States and around the world is highly differentiated, with a variety of options that differ by credential (associates degree, bachelor’s degree, diploma, certificate, graduate degree), the control of the institution (public, private not-for-profit, private for-profit), the quality/resources of the institution, field of study, and exposure to remedial education. In this Chapter, we review the literature on the returns to these different types of higher education investments, which has received increasing attention in recent decades. We first provide an overview of the structure of higher education in the U.S. and around the world, followed by a model that helps clarify and articulate the assumptions employed by different estimators used in the literature. We then discuss the research on the return to institution type, focusing on the return to two-year, four-year, and for-profit institutions as well as the return to college quality within and across these institution types. We also present the research on the return to different educational programs, including vocational credentials, remedial education, field of study, and graduate school. The wide variation in the returns to different postsecondary investments that we document leads to the question of how students from different backgrounds sort into these different institutions and programs. We discuss the emerging research showing that lower-SES students, especially in the U.S., are more likely to sort into colleges and programs with lower returns as well as results from recent U.S.-based interventions and policies designed to support success among students from disadvantaged backgrounds. The Chapter concludes with some broad directions for future research.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Virtue of Complexity in Return Prediction]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165441</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165441"/>
+        <updated>2022-04-14T06:01:28.252Z</updated>
+        <summary type="html"><![CDATA[We theoretically characterize the behavior of return prediction models in the high complexity regime, i.e.\ when the number of parameters exceeds the number of observations. Contrary to conventional wisdom in finance, return prediction $R^{2}$ and optimal portfolio Sharpe ratio generally increase with model parameterization, even when minimal regularization is used.   Empirically, we document this ``virtue of complexity‘‘ in US equity market prediction.  High complexity models deliver economically large and statistically significant out-of-sample portfolio gains relative to simpler models, due in large part to their remarkable ability to predict recessions.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring the Influence of Executive Heads in International Organizations ―Illustrative Analysis on the Effects of Democratic Density―]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165453</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165453"/>
+        <updated>2022-04-14T06:01:28.040Z</updated>
+        <summary type="html"><![CDATA[This paper focuses on the influence of Executive Heads (EHs) of international organizations (IOs) and introduces a newly created dataset that calibrates two groups of factors that can alter the extent of their influence: (i) institutional factors and (ii) personal traits. All factors are measured for across eighteen multi-issue IOs for the years 1980？2015. Secondly, this paper conducts a descriptive analysis to show that the dataset can speak to a wide range of topics on IOs. Thirdly, an illustrative analysis demonstrates the dataset’s ability to support deep, fine grained studies and also yields interesting findings in its own right. Specifically, we show that democratic IOs confer more authority to EHs, while autocratic ones show a preference for intergovernmentalism. This is in line with outcomes related to personal traits, where EHs in democratic IOs possess expertise on institutional policy-making, and those in autocratic IOs have domestic authority to some extent, which dovetails with the average age of the EHs. The paper thus offers a significant contribution to scholarly research on IOs; despite the increasing attention paid to the autonomous capabilities of IO secretariats, there have only been sporadic case studies on EHs, and our dataset enables systematic research on these important actors.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance Abuse during the Pandemic: Implications for Labor-Force Participation]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165445</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165445"/>
+        <updated>2022-04-14T06:01:28.016Z</updated>
+        <summary type="html"><![CDATA[The labor-force participation rates of prime-age U.S. workers dropped in March 2020―the start of the COVID-19 pandemic―and have still not fully recovered. At the same time, substance-abuse deaths were elevated during the pandemic relative to trend indicating an increase in the number of substance abusers, and abusers of opioids and crystal methamphetamine have lower labor-force participation rates than non-abusers. Could increased substance abuse during the pandemic be a factor contributing to the fall in labor-force participation? Estimates of the number of additional substance abusers during the pandemic presented here suggest that increased substance abuse accounts for between 9 and 26 percent of the decline in prime-age labor-force participation between February 2020 and June 2021.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policies to bolster trust in agricultural digitalisation: Issues note]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165451</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165451"/>
+        <updated>2022-04-14T06:01:28.001Z</updated>
+        <summary type="html"><![CDATA[One important constraint to farmers’ adoption of digital technologies, beyond costs, relevance, user-friendliness, human capital requirements, and perceived technology risks, is farmers’ lack of trust in digital technologies. A number of issues underlie this lack of trust: 1) problems of data privacy, security, and confidence in data sharing; 2) cases of misaligned incentives of sellers and buyers of digital technologies; 3) difficulty in learning how to unwrap “black box” technologies; and 4) lack of standards for comparing and certifying the operation of digital technologies. Governments have several potential options to help bridge these trust gaps. These include encouraging firms to decouple their sales of problem assessment from sales of solutions; strengthening public sector extension services and farmers’ technological learning; facilitating the development of risk-sharing arrangements between technology providers and farmers; and exploring ways to promote the standardisation of evaluation and certification of digital agricultural technologies.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firm Resources, Strategies, and Survival and Growth during COVID-19 : Evidence from Two-Wave Global Surveys]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165430</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165430"/>
+        <updated>2022-04-14T06:01:27.994Z</updated>
+        <summary type="html"><![CDATA[This study examines how firms have made strategic choices and performed during the COVID-19 pandemic. Drawing on the organizational resources and strategic change literature, it uses World Bank Enterprise Surveys and the COVID-19 Follow-up Enterprise Surveys to examine how different endowments in organizational resources affected firm performance as measured by their survival status and sales growth, and how these resources interact with and affect strategic responses in the supply of inputs, response to changing demand, liquidity management, and innovation. The results indicate that larger firms, firms with foreign or state ownership, and subsidiary companies performed better during the pandemic by more effectively stabilizing supply, managing liquidity, and fostering new product development. Chief executive officers with longer tenure improved survival rates. Firms in richer countries have coped with the pandemic better and stringent government COVID-19 control policies have tended to hurt firms‘ performance.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loss Aversion and Conspicuous Consumption in Networks]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165436</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165436"/>
+        <updated>2022-04-14T06:01:27.986Z</updated>
+        <summary type="html"><![CDATA[We introduce loss aversion into a model of conspicuous consumption in networks. Agents allocate their income between a standard good and a status good to maximize a Cobb-Douglas utility. Agents interact over a connected network and compare their status consumption to their neighbors‘ average consumption. Loss aversion has a profound impact. If loss aversion is large enough relative to income heterogeneity, a continuum of Nash equilibria appears and all agents consume the same quantity of status good. Otherwise, there is a unique Nash equilibrium and richest agents earn strict status gains while poorest agents earn strict status losses.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A p Theory of Government Debt and Taxes]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165446</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165446"/>
+        <updated>2022-04-14T06:01:27.954Z</updated>
+        <summary type="html"><![CDATA[An optimal tax and government borrowing plan in a setting with tax distortions (Barro, 1979) locally pin down the marginal cost of servicing government debt, called marginal p. An option to default determines the government’s debt capacity and its optimal state-contingent risk management policies make its debt risk-free. Optimal debt-GDP ratio dynamics are driven not only by three widely discussed forces, 1.) a primary deficit, 2.) interest payments, and 3.) GDP growth, but also by 4.) hedging costs. Hedging fundamentally alters debt transition dynamics and equilibrium debt-capacity, which are at the center of the recent ‘r-g‘ and debt sustainability discussions. We calibrate our model and make comparative dynamic quantitative statements about the debt-GDP ratio transition dynamics, equilibrium debt capacity, and how long it will take the US to attain debt capacity.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US should treat climate policy as economic policy]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165455</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165455"/>
+        <updated>2022-04-14T06:01:27.947Z</updated>
+        <summary type="html"><![CDATA[The United States and China jointly account for more than 40 percent of global greenhouse gas emissions, putting these two nations at the center of efforts to address the climate crisis. Yet cooperation on climate policy between Washington and Beijing has stalled in recent years, reflecting a broader deterioration in the U.S.-China relationship. After decades of increasing dependence on imports from China, the pandemic highlighted the vulnerability of global supply chains to external shocks and strengthened calls for national self-sufficiency both in China and the United States. The stakes and opportunities of such a move are nowhere higher than in clean energy sectors, where China currently dominates global manufacturing. China makes roughly two-thirds of the world’s solar panels, nearly …]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 2분기 소매유통업 경기전망지수(RBSI) 조사]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165391</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165391"/>
-        <updated>2022-04-14T03:18:16.825Z</updated>
+        <updated>2022-04-14T06:01:27.937Z</updated>
         <summary type="html"><![CDATA[대한상공회의소가 「2022년 2분기 소매유통업 경기전망지수(RBSI) 조사」를 발표하였다.
 
 - 商議 RBSI, ‘96’(1Q)→ ‘99’(2Q) ... ‘리오프닝(경제활동 재개) 가시화’ 영향
@@ -236,10 +164,68 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[No respite for UK consumers and the Bank of England as inflation hits 7 per cent]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165449</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165449"/>
+        <updated>2022-04-14T06:01:27.930Z</updated>
+        <summary type="html"><![CDATA[Headline consumer price inflation increased to 7.0 per cent in March 2022 from 6.2 in February. Our measure of underlying inflation which excludes 5 per cent of the highest and lowest price changes, increased to 5.6 per cent in March from 5.1 per cent in February.
+Between February and March, the transport and restaurants and hotels sectors contributed almost 0.5 percentage points to the headline figure.
+In March, 25.7 per cent of goods and services prices changed, with approximately 15,000 items recording price rises, while 3.8 per cent of prices were reduced due to sales and 4.2 per cent fell for other reasons.
+Underlying inflation increased in all 12 UK regions in March. Yet again, London’s underlying annual inflation rate remained the highest at 6.4 per cent, compared to Wales which had the lowest rate again at 4.9 per cent in March.
+The Russia-Ukraine war continues to impact price inflation. NIESR’s forecast for inflation paints a dire picture for consumers, as declining real wages and increased payroll taxes erode household finances.
+There is no respite for consumers, and the Bank of England especially, as inflation is forecast to average 7 per cent this year and will likely remain above target until 2024. We expect the Monetary Policy Committee will continue to raise interest rates through 2022, which could further dampen consumer confidence.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal Exploration and Price Paths of a Non-renewable Commodity with Stochastic Discoveries]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165443</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165443"/>
+        <updated>2022-04-14T06:01:27.913Z</updated>
+        <summary type="html"><![CDATA[We address the long-standing challenge of adding optimal exploration to the classic Hotelling model of a non-renewable resource. We completely solve such a model, using impulse control. The model, extending Arrow and Chang (1982), has two state variables: “proven” reserves and a finite unexplored area available for exploration at constant marginal cost, with a Poisson process for new discoveries. We prove that a frontier of critical levels of proven reserves exists, above which exploration ceases, and below which it happens at infinite speed. This frontier is increasing in explored area, and higher reserve levels along this critical threshold indicate more scarcity, not less. In a stochastic generalization of Hotelling’s rule, the expected shadow price of reserves rises at the rate of interest across exploratory episodes. The trajectories of prices realized prior to exhaustion of the exploratory area may jump up or down upon exploration. Conditional on non-exhaustion, expected price rises at a rate bounded above by the rate of interest, explaining why most empirical tests based on past price histories reject Hotelling’s rule. Starting when the unexplored area is sufficiently close to zero, all price paths rise at less than the rate of interest until exhaustion of the unexplored area.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The digitalisation of agriculture: A literature review and emerging policy issues]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165454</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165454"/>
+        <updated>2022-04-14T06:01:27.906Z</updated>
+        <summary type="html"><![CDATA[Digitalisation offers the potential to help address the productivity, sustainability and resilience challenges facing agriculture. Evidence on the adoption and impacts of digital agriculture in OECD countries from national surveys and the literature indicates broad use of digital technologies in row crop farms, but less evidence is available on uptake for livestock and speciality crops. Common barriers to adoption include costs (up-front investment and recurring maintenance expenses), relevance and limited use cases, user-friendliness, high operator skill requirements, mistrust of algorithms, and technological risk. National governments have an important role in addressing bottlenecks to adoption, such as by ensuring better information about costs and benefits of various technologies (including intangible benefits such as quality of life improvements); investing in human capital; ensuring appropriate incentives for innovation; serving as knowledge brokers and facilitators of data-sharing to spur inclusive, secure and representative data ecosystems; and promoting competitive markets.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest wage estimates suggest cost-of-living squeeze is tightening]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165450</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165450"/>
+        <updated>2022-04-14T06:01:27.893Z</updated>
+        <summary type="html"><![CDATA[Our wage tracker predicts that average weekly earnings growth will grow at 6.2 per cent in the second quarter of 2022, after increasing by 5.4 per cent in the three months to February.
+We forecast AWE for total pay in the private-sector to grow at 6.7 per cent in the second quarter of this year, with growth in regular pay expected to be largely unchanged.
+We continue to expect public-sector AWE growth to stabilise between 2 ½ and 3 per cent until the first quarter of 2022 and to reach around 3 ½ per cent going into the second quarter of the year.
+＂Latest ONS estimates suggest wage rises are running at around 5.4 per cent, but with inflation running at over 6.0 per cent, it is clearly not enough to keep up with prices. This confirms that the cost-of-living squeeze is tightening in the UK. The latest Labour Force Survey suggest the labour market is still tight, with unemployment down to 3.8 per cent and the employment rate largely unchanged from the previous three-month period. The imbalance between labour demand and supply mean vacancies remain at record highs, putting upward pressure on wage growth.”]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Productivity and Human Capital Agglomeration: Evidence from Indonesian Cities]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165452</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165452"/>
+        <updated>2022-04-14T06:01:27.886Z</updated>
+        <summary type="html"><![CDATA[Using Indonesian plant-level manufacturing data for 1996 and 2006, this study estimates the external benefits of human capital investment. The external benefits are identified from the relationship between plant-level total factor productivity (TFP) and geographical human capital agglomeration with controlling for workers‘ skill levels within a plant. The endogeneity problem in the human capital agglomeration is addressed by the instrumental variable (IV) method. We construct the IV by using the geographical distribution of European population in colonial Indonesia. Our IV estimates suggest that human capital agglomeration has a boosting effect on productivity, implying the existence of human capital externalities.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[은행] 글로벌 은행산업 트렌드(4.11)]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165401</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165401"/>
-        <updated>2022-04-14T03:18:16.795Z</updated>
+        <updated>2022-04-14T06:01:27.872Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 ‘[은행] 글로벌 은행산업 트렌드(4.11)’를 발표하였다.
 
 - 지난주 글로벌 은행산업 주요 이슈는 ▲미·영의 對러 제재 강화 ▲유럽의 불명확한 對러 제재에 불만 ▲자사주 매입 불확실성 증대 ▲MS의 패밀리 오피스 확보 노력. 유연근무제 도입 시도, Chase의 지점 내 전기 충전소 설치, 중국 은행의 대규모 기술 투자 등
@@ -250,31 +236,51 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 타지키스탄]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165387</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165387"/>
-        <updated>2022-04-14T03:18:16.564Z</updated>
-        <summary type="html"><![CDATA[한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 타지키스탄』을 발표하였다.
+        <title type="html"><![CDATA[Addressing youth unemployment through industries without smokestacks: A Zambia case study]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165448</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165448"/>
+        <updated>2022-04-14T06:01:27.865Z</updated>
+        <summary type="html"><![CDATA[With a cyclical and capital-intensive copper industry, landlocked Zambia faces a number of hurdles to economic diversification and job creation even as the labor force has grown rapidly. The headline story about structural transformation from the past three decades is: (a) a manufacturing sector that has plateaued at below 10 percent in share of GDP and only 4 percent of employment; (b) a service sector that has grown explosively and now accounts for 54 percent of GDP and 24 percent of employment; and (c) an agricultural sector with only 3 percent share of GDP but a substantial 57 percent share of employment. Over 85 percent of the labor force is employed in an expanding but low productivity informal sector, as a result of the stunting of the formal sector, which employs less than 15 percent of labor. Youth unemployment is high and the failure to generate enough high productivity jobs is a major factor in the rising inequality in Zambia.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혁신 성장을 위한 농업부문 데이터 경제 체계 구축과 활성화 방안 (1/2차년도)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165390</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165390"/>
+        <updated>2022-04-14T06:01:27.852Z</updated>
+        <summary type="html"><![CDATA[한국농촌경제연구원이 『혁신 성장을 위한 농업부문 데이터 경제 체계 구축과 활성화 방안 (1/2차년도)』을 발표하였다.
 
-- 타지키스탄은 1991년 독립한 뒤 광물자원과 면화, 전력으로 대표되는 국가 수입원, 그리고 해외 이주노동자들로부터의 송금이라고 하는 부수적 수입원을 가진, 매우 협소한 경제적 기반을 가진 중앙아시아에서 가장 가난한 나라임. 타지키스탄은 우리나라 제3차 국제개발협력 기본계획에서 처음으로 중점 협력 국가로 선정되었음. 
-
-- 이 연구는 타지키스탄의 농업·농촌 현황을 분석하고 국가의 개발전략과 농업분야 관련 전략 등 타지키스탄의 개발 방향을 분석하며, 이를 토대로 타지키스탄에 대한 우리나라의 농업분야 개발협력 전략을 수립하여 제안하는 것을 목적으로 함.]]></summary>
+- 이 연구는 미래 산업화와 혁신 성장 동력원으로서 농업부문의 효율적인 데이터 경제 체계를 구축하고 이를 활성화할 수 있는 방안 마련을 위한 1차년도 연구임. 농업부문의 디지털 전환과 데이터 활용 및 실용화할 수 있는 방안을 마련하여 농업부문 데이터 경제 체계를 구축하고, 이를 구체화하여 농산업 부문에 활용할 수 있는 활성화 방안과 정부의 제도적 보완 및 중장기 정책 방안을 제시하고자 하였음. 또한 데이터 기반 농산업 활성화를 위한 R&D 확대 및 후방산업 육성 방안을 마련하고 이를 통한 정책 방안을 제시하고자 하였음. 이를 위해 1차년도에는 농업부문 데이터 경제의 기반인 디지털 전환 및 플랫폼과 공공부문의 대응 방안에 대한 연구를 수행하였음.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주간 Wall Street 인사이트(4.11)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165404</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165404"/>
-        <updated>2022-04-14T03:18:16.543Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘주간 Wall Street 인사이트(4.11)’를 발표하였다.
+        <title type="html"><![CDATA[지급수단으로서 위안화 현금 수령 상황과 인민은행의 입장]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165398</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165398"/>
+        <updated>2022-04-14T06:01:27.842Z</updated>
+        <summary type="html"><![CDATA[한국은행이 「지급수단으로서 위안화 현금 수령 상황과 인민은행의 입장」을 발표하였다.
 
-- [미국 인플레이션 논란] 3~4월 고점 의견 우세하나 연말 수준에 대한 전망은 큰 편차
+- 「인민은행법」  제16조에 따르면 위안화 현금(이하‘현금’)은 중국내 공·사적 채무 변제에 사용되고 어떠한 기관이나 개인도 현금 수령을 거부할 수 없다고 명시하고 있음. 현금 수령을 거부한 경우 해당 기관에 대해서는 200만위안 이하의 벌금을 부과하며, 고위간부 등 책임자에 대해서는 경고, 50만위안 이하의 벌금에 처함. 다만, 「행정처벌법」 제32조에 근거하여 현금 수령거부의 재발 가능성 등이없는 경우에는 벌금액 등을 경감한다고 규정하고 있음.
 
-- [서방의 대러 제재] EU의 원유ㆍ가스 금수 추진이 향후 사태전개의 변곡점이라는 시각
+- 인민은행은 중앙은행 공고문(2018년 제10호, 2020년 제18호 등)과 분기별 현금 수령거부 단체명단 공표 등을 통해 지급수단으로서 고객의 현금 사용은 보장되어야 한다는 입장을 견지
 
-- [중국 오미크론 영향] 상반기 경제타격으로 인해 성장률 하향조정 전망이 점증]]></summary>
+- [평가 및 전망] (특정계층의 현금 사용은 지속) 중국 디지털위안화 연구개발 백서(2019년 기준)에 따르면 현금결제비중(건수 기준)은 전체의 23%를 차지하는 등 상당한 데다 현금은 사용하기 쉽고 결제도 간편하므로 농민, 노령층, 영세기업 등 특정계층의 현금 사용은 향후에도 지속될 것으로 예상(招？金融 등)  (현금없는 사회로 진입) 베이징 중관춘은행, 랴오닝 전싱은행의 현금 취급업무 중단과 철회 사태는 상업은행들의 디지털금융에 대한 선호와 중국이 현금없는 사회로 진입하고 있음을 알리는 상징적인 사건임(SCMP)  (전자결제 가속화) 인민은행이 현금 취급업무의 중요성을 일관되게 표명하고 있지만 향후 중국에서는 디지털금융이 확산되면서 현금보다는 위쳇페이, 알리페이, 디지털위안화 등을 통한 전자결제가 가속화될 것으로 전망(中金公司, ？安？券 등)]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 키르기스스탄]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165388</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165388"/>
+        <updated>2022-04-14T06:01:27.828Z</updated>
+        <summary type="html"><![CDATA[한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 키르기스스탄』을 발표하였다.
+
+- 본 연구의 목적은 우리나라의 對키르기스스탄 농림업 분야 국제개발협력의 전략 수립이다. 전략 수립이란 농림업 중점 협력 분야의 설정 및 그에 따른 세부 추진 과제의 제시임.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -283,7 +289,7 @@
         <title type="html"><![CDATA[주간이슈(4.11) : 미국 3월 CPI, 8%를 상회할지 주목]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165403</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165403"/>
-        <updated>2022-04-14T03:18:16.530Z</updated>
+        <updated>2022-04-14T06:01:27.820Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 ‘주간이슈(4.11) : 미국 3월 CPI, 8%를 상회할지 주목’을 발표하였다.
 
 - 미국 3월 CPI, 8%를 상회할지 주목. 중국·일본·독일 3월 CPI도 관심
@@ -302,58 +308,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 우크라이나]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165389</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165389"/>
-        <updated>2022-04-14T03:18:16.516Z</updated>
-        <summary type="html"><![CDATA[한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 우크라이나』를 발표하였다.
-
-- 본 연구는 우크라이나의 농림업 분야에 특화된 개발협력 전략을 수립하고 제시하는 것을 목적으로 함. 이를 위해 우크라이나의 농업 및 농촌의 현황, 우크라이나의 국가 및 농업개발 전략, 국제사회와 우리나라의 개발 및 지원 동향, 우리나라의 비교우위 등을 파악, 분석하여 우크라이나 농림업 중점 협력 분야 및 세부 추진 과제를 제시하였음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 사태 이후 글로벌 주식시장 여건 점검 및 평가]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165393</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165393"/>
-        <updated>2022-04-14T03:18:14.453Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『우크라이나 사태 이후 글로벌 주식시장 여건 점검 및 평가』를 발표하였다.
-
-- [이슈] 러시아-우크라이나 전쟁은 글로벌 주식시장을 둘러싼 경제ㆍ금융여건에 큰 변화를 초래. 이에 따라 달라진 주식시장 여건을 점검하고 주가에 미칠 영향을 평가. 세계주가MSCI는 미 연준의 통화긴축, 우크라이나 사태 등으로 연중 1/1~3/14일 11.9% 하락했으나, 3월 미 FOMC 이후 선진국 중심으로 반등하여 -7.1%까지 낙폭을 회복
-
-- [요인별 점검] ▲거시환경 : 경제성장 모멘텀 둔화, 고물가 지속, 통화긴축 가속화 ▲실적 : 전망치 컨센서스는 양호하나, 고물가 지속에 따른 이익부진 가능성 ▲밸류에이션 : 연초 이후 부담이 일부 완화되었으나, 과거 대비로는 여전히 높은 수준
- · 거시환경 : 우크라이나 사태 이후 경제성장 둔화, 물가 상승, 통화긴축 가속 등 경기확장 후기(Late Cycle) 특징이 심화했으며 이는 주가에 비우호적인 환경으로 작용. 실질금리가 최근까지 마이너스를 기록하면서 채권 대비 주식 선호를 지지했으나, 연준 금리인상과 양적긴축(QT) 시행 등으로 금융여건의 빠른 긴축 위험이 잠재
- · 기업이익 : 우크라이나 사태에도 불구하고 세계증시 이익 전망치가 선진국을 중심으로 개선세를 지속. 그러나 향후 고유가로 인한 비용증가와 경영 불확실성이 장기화할 경우, 이익 전망치의 후행적 하향 가능성 잠재. 과거 유가 급등에 따른 원가 상승 시 기업들의 가격전가로 인해 즉각적인 이익률 악화는 없었으나, 1~2분기 이후 이익률이 후행적으로 둔화. 특히 금번과 같이 공급요인으로 인한 유가 급등은 소비 위축 여파로 이익감소 영향이 클 소지
- · 밸류에이션 : 글로벌 증시 밸류에이션은 연초 이후 약 8% 하락하여 부담이 일부 완화됐으나, 과거 장기 시계열 평균 대비로는 여전히 높은 수준
-
-- [평가] 우크라이나 사태 이후 연준의 고강도 통화긴축 시사 등 주가에 비우호적인 거시환경 변화에도 불구하고, 글로벌 증시는 양호한 이익성장을 전제로 이를 제한적으로 반영 중. 증시 밸류에이션이 높은 가운데 최근 실적 전망치가 낙관적이라는 평가가 증가하고 있어 향후 기대치가 현실화하는 과정에서 증시 변동성이 확대될 가능성에 유의
- · 최근 거시경제 성장 전망(Top-down 방식) 둔화에도 불구하고 개별 기업 및 업종에 대한 실적 전망(Bottom-up 방식)은 상대적으로 낙관적(Morgan Stanley, CS 등)]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.12)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165395</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165395"/>
-        <updated>2022-04-14T03:18:14.432Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.12)’을 발표하였다.
-
-- [동향] 러, 우크라 동부지역 병력 강화 움직임. EU, 대러 석유 금수조치 합의 미도달
-
-- [금융시장 반응] 美 긴축 가속 우려, 중국 경기둔화 우려 등으로 위험회피심리 지속
-
-- [해외시각] 美 연준 통화긴축 가속, 중국 경제봉쇄 등으로 글로벌 경기하강 위험 확대. 캐나다 금주 50bp 인상 가능성. 프랑스 대선 불확실성으로 유로존 금융시장 불안 등]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인도 신재생에너지 시장 기회 및 진출 전략]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165396</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165396"/>
-        <updated>2022-04-14T03:18:14.422Z</updated>
+        <updated>2022-04-14T06:01:27.808Z</updated>
         <summary type="html"><![CDATA[포스코경영연구소가 『인도 신재생에너지 시장 기회 및 진출 전략』을 발표하였다.
 
 - 인도는 태양광과 풍력의 높은 매력도를 기반으로 ’30년 재생에너지 500GW 설비용량을 목표로 하면서 개도국 가운데 가장 공격적인 재생에너지 확대를 제시하고 있음. 인도 기업들은 정부의 목표에 발맞춰 공격적으로 재생에너지 투자를 높이고 있으며 다양한 국부펀드와 다국적 기업들도 FDI와 M&A를 통해 인도 시장 공략에 나서면서 인도 재생에너지는 본격적인 성장세를 보일 것임.
@@ -375,60 +333,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지급수단으로서 위안화 현금 수령 상황과 인민은행의 입장]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165398</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165398"/>
-        <updated>2022-04-14T03:18:14.410Z</updated>
-        <summary type="html"><![CDATA[한국은행이 「지급수단으로서 위안화 현금 수령 상황과 인민은행의 입장」을 발표하였다.
+        <title type="html"><![CDATA[주간 Wall Street 인사이트(4.11)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165404</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165404"/>
+        <updated>2022-04-14T06:01:27.788Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘주간 Wall Street 인사이트(4.11)’를 발표하였다.
 
-- 「인민은행법」  제16조에 따르면 위안화 현금(이하‘현금’)은 중국내 공·사적 채무 변제에 사용되고 어떠한 기관이나 개인도 현금 수령을 거부할 수 없다고 명시하고 있음. 현금 수령을 거부한 경우 해당 기관에 대해서는 200만위안 이하의 벌금을 부과하며, 고위간부 등 책임자에 대해서는 경고, 50만위안 이하의 벌금에 처함. 다만, 「행정처벌법」 제32조에 근거하여 현금 수령거부의 재발 가능성 등이없는 경우에는 벌금액 등을 경감한다고 규정하고 있음.
+- [미국 인플레이션 논란] 3~4월 고점 의견 우세하나 연말 수준에 대한 전망은 큰 편차
 
-- 인민은행은 중앙은행 공고문(2018년 제10호, 2020년 제18호 등)과 분기별 현금 수령거부 단체명단 공표 등을 통해 지급수단으로서 고객의 현금 사용은 보장되어야 한다는 입장을 견지
+- [서방의 대러 제재] EU의 원유ㆍ가스 금수 추진이 향후 사태전개의 변곡점이라는 시각
 
-- [평가 및 전망] (특정계층의 현금 사용은 지속) 중국 디지털위안화 연구개발 백서(2019년 기준)에 따르면 현금결제비중(건수 기준)은 전체의 23%를 차지하는 등 상당한 데다 현금은 사용하기 쉽고 결제도 간편하므로 농민, 노령층, 영세기업 등 특정계층의 현금 사용은 향후에도 지속될 것으로 예상(招？金融 등)  (현금없는 사회로 진입) 베이징 중관춘은행, 랴오닝 전싱은행의 현금 취급업무 중단과 철회 사태는 상업은행들의 디지털금융에 대한 선호와 중국이 현금없는 사회로 진입하고 있음을 알리는 상징적인 사건임(SCMP)  (전자결제 가속화) 인민은행이 현금 취급업무의 중요성을 일관되게 표명하고 있지만 향후 중국에서는 디지털금융이 확산되면서 현금보다는 위쳇페이, 알리페이, 디지털위안화 등을 통한 전자결제가 가속화될 것으로 전망(中金公司, ？安？券 등)]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 디폴트 가능성과 위험전이 경로 검토]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165397</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165397"/>
-        <updated>2022-04-14T03:18:14.389Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『러시아 디폴트 가능성과 위험전이 경로 검토』를 발표하였다.
-
-- [이슈] 최근 러시아의 디폴트(Sovereign Default)가 임박했다는 관측이 확산되고 있어, 과거 주요국 디폴트 사례를 바탕으로 러시아 디폴트 발생 시 위험전이 가능성을 점검
-
-- [주요국 사례] 주요국 디폴트는 대부분 외채급증, 정치불안, 경제위기가 배경으로 작용. 대외여건이 비우호적인 상황에서 발생한 경우 2차 충격으로 금융불안으로 전이
- · 1998년(러시아), 2001년(아르헨티나), 2012년(그리스)의 경우, 지역경제 불안(아시아 외환위기, 미 경기둔화, 남유럽 재정위기 등)과 맞물려 파장이 증폭
- · 반면 2017년에는 산유국인 베네수엘라가 저유가, 정정불안, 미국의 제재 등으로 디폴트에 직면했으나 세계경제 회복세가 지속되고 유가도 반등하며 파장이 제한
-
-- [최근 상황과 디폴트 가능성] 러시아는 대외포지션, 재정수지 개선 등에도 불구 서방의 대러제재, 경기침체 등으로 디폴트 가능성이 점증하고 있는 상황
- · (완충요인) ▲대외채무 감소 ▲대외포지션 개선 ▲양호한 재정수지 등
- · (위험요인) ▲가용 외화자금 감소 ▲지급결제 수단 차단 ▲경기침체 전환 예상 등
-
-- [러시아 디폴트 시 위험 파급경로 및 전이 가능성 점검] 러시아 디폴트는 선진국 긴축 등에  따른 부담도 커진 상황에서 금융시장 불안요인으로 작용할 소지. 회사채 디폴트, 비은행 투자기관 손실, 취약신흥국 불안 등이 전이 경로로 작용할 가능성
- · (러시아 회사채 디폴트) 러시아 대외채무(직접투자 제외) 50%는 비은행기업 채무. 러시아 기업들은 대외부채가 자산보다 많고 외화채무 비중이 높아 제재에 더 취약할 소지
- · (비은행 투자기관 손실) 비은행 기관은 금융시장에서의 역할이 커졌으나 위험노출액 파악에 한계. 1998 LTCM, 2008년 AIG 사태 당시에도 사전에 인지하지 못했던 전례
- · (취약신흥국 불안) 취약신흥국은 팬데믹 여파 등으로 부채가 크게 증가. 러시아와 금융 및 경제 연계성이 높은 국가를 중심으로 신용등급 강등 증가 우려
-
-- [평가] 현재 글로벌 금융시장에서는 투자자들의 대러 익스포저 축소 등으로 러시아의 디폴트 시에도 위험이 제한적일 것으로 보는 시각이 일반적이나, 세계경제의 불확실성이 커진 상황에서 파장이 예상보다 클 수 있음에 유의할 필요]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프랑스 대선의 르펜 리스크 점검]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165399</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165399"/>
-        <updated>2022-04-14T03:18:14.365Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 『프랑스 대선의 르펜 리스크 점검』을 발표하였다.
-
-- [이슈] 프랑스 대선 1차 투표 결과(4/10일 현지시각), 마크롱 현 대통령(27.4%)과 극우진영 르펜 후보(24.0%)가 결선(4.24일 예정)에 진출하며 오차범위 내 접전이 예상됨에 따라 르펜 당선 시의 위험요인들을 점검
-
-- [르펜 리스크] 對러시아 정책 등에서 EU 결속력이 약화되고 국내적으로는 재정적자 확대, 반이민정책 강화 등이 예상. 장기적으로는 프렉시트(Frexit)가 다시 논란이 될 소지
-
-- [시사점] 르펜의 지지율이 상승할수록 프랑스의 대내외 정책 변화 가능성으로 유로존 금융시장 불안이 확대될 수 있다는 점에 유의할 필요]]></summary>
+- [중국 오미크론 영향] 상반기 경제타격으로 인해 성장률 하향조정 전망이 점증]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -437,7 +352,7 @@
         <title type="html"><![CDATA[코로나 이후 최근 국제무역 환경 분석]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165392</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165392"/>
-        <updated>2022-04-14T03:18:14.354Z</updated>
+        <updated>2022-04-14T06:01:27.772Z</updated>
         <summary type="html"><![CDATA[대한상공회의소가 『코로나 이후 최근 국제무역 환경 분석』을 발표하였다.
 
 - 商議, 최근 국제무역 환경분석... 지난해 TBT(무역기술장벽) 3,966건 역대 최고치 기록
@@ -450,53 +365,53 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 키르기스스탄]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165388</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165388"/>
-        <updated>2022-04-14T03:18:09.821Z</updated>
-        <summary type="html"><![CDATA[한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 키르기스스탄』을 발표하였다.
+        <title type="html"><![CDATA[최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.12)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165395</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165395"/>
+        <updated>2022-04-14T06:01:27.747Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 ‘최근 우크라이나 사태에 대한 시장반응 및 해외시각(4.12)’을 발표하였다.
 
-- 본 연구의 목적은 우리나라의 對키르기스스탄 농림업 분야 국제개발협력의 전략 수립이다. 전략 수립이란 농림업 중점 협력 분야의 설정 및 그에 따른 세부 추진 과제의 제시임.]]></summary>
+- [동향] 러, 우크라 동부지역 병력 강화 움직임. EU, 대러 석유 금수조치 합의 미도달
+
+- [금융시장 반응] 美 긴축 가속 우려, 중국 경기둔화 우려 등으로 위험회피심리 지속
+
+- [해외시각] 美 연준 통화긴축 가속, 중국 경제봉쇄 등으로 글로벌 경기하강 위험 확대. 캐나다 금주 50bp 인상 가능성. 프랑스 대선 불확실성으로 유로존 금융시장 불안 등]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국토공간 유형구분을 통한 지역맞춤형 미세먼지대책 수립방안]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165402</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165402"/>
-        <updated>2022-04-14T03:18:06.277Z</updated>
-        <summary type="html"><![CDATA[국토연구원이 「국토공간 유형구분을 통한 지역맞춤형 미세먼지대책 수립방안」을 발표하였다.
+        <title type="html"><![CDATA[프랑스 대선의 르펜 리스크 점검]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165399</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165399"/>
+        <updated>2022-04-14T06:01:27.732Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 『프랑스 대선의 르펜 리스크 점검』을 발표하였다.
 
-- 우리나라 미세먼지 농도 분석결과 봄, 겨울의 농도가 높게 나타났으며, 수도권과 서해안 지역이 남해안과 동해안 지역보다 상대적으로 높게 나타남(2019년 기준). 공간특성에 따라 미세먼지 농도와 그로 인한 영향이 달라지므로, 공간특성에 기초하여 국토공간의 유형을 구분하고 유형별 대책을 수립할 필요가 있음. 미세먼지의 농도(평균농도와 고농도 빈도)와 노출(총인구수와 취약계층 비율)을 고려하여 리스크 기반의 국토공간 유형을 3개(높음-중간-낮음)로, 직·간접 영향인자를 활용하여 영향인자 기반 국토공간 유형을 3개(A, B, C)로 구분함. 미세먼지대책으로서 배출량 감축뿐만 아니라 저감, 적응, 관련 정보시스템 구축 등을 다각도로 활용할 수 있음. 미세먼지로 인한 리스크가 높은 지역은 적응정책과 정보시스템을 우선 수립 및 구축해야 하며, 동시에 미세먼지 발생 억제대책 및 녹지와 수공간을 연계한 저감대책이 수립되어야 함.
+- [이슈] 프랑스 대선 1차 투표 결과(4/10일 현지시각), 마크롱 현 대통령(27.4%)과 극우진영 르펜 후보(24.0%)가 결선(4.24일 예정)에 진출하며 오차범위 내 접전이 예상됨에 따라 르펜 당선 시의 위험요인들을 점검
 
-- [정책방안] ① (리스크 기반 국토공간 유형) 미세먼지의 평균 농도 및 고농도 빈도, 해당 지역의 취약인구 비율 등을 반영한 리스크에 기반하여 미세먼지대책 도입의 우선순위를 설정할 필요 ② (영향인자 기반 국토공간 유형) 미세먼지에 대한 직·간접적 영향인자의 특징을 고려함으로써 지역 특성에 맞는 미세먼지대책의 목록을 구축할 필요 ③ (통합 국토공간 유형) 미세먼지로 인한 리스크와 영향인자를 모두 반영한 통합 국토공간의 유형을 활용하여 미세먼지대책의 우선순위와 방향성을 설정할 필요]]></summary>
+- [르펜 리스크] 對러시아 정책 등에서 EU 결속력이 약화되고 국내적으로는 재정적자 확대, 반이민정책 강화 등이 예상. 장기적으로는 프렉시트(Frexit)가 다시 논란이 될 소지
+
+- [시사점] 르펜의 지지율이 상승할수록 프랑스의 대내외 정책 변화 가능성으로 유로존 금융시장 불안이 확대될 수 있다는 점에 유의할 필요]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 제조업의 중간재 공급 동향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165405</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165405"/>
-        <updated>2022-04-14T03:18:06.268Z</updated>
-        <summary type="html"><![CDATA[KDB미래전략연구소가 「국내 제조업의 중간재 공급 동향」을 발표하였다.
+        <title type="html"><![CDATA[우크라이나 사태 이후 글로벌 주식시장 여건 점검 및 평가]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165393</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165393"/>
+        <updated>2022-04-14T06:01:27.709Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 『우크라이나 사태 이후 글로벌 주식시장 여건 점검 및 평가』를 발표하였다.
 
-- 국내에 공급되는 제조업 제품 중 수입산 공급이 지속적인 증가 추세를 보이고 있으며, 수입 제품 중 국내 생산에 필요한 중간재 수입도 증가
+- [이슈] 러시아-우크라이나 전쟁은 글로벌 주식시장을 둘러싼 경제ㆍ금융여건에 큰 변화를 초래. 이에 따라 달라진 주식시장 여건을 점검하고 주가에 미칠 영향을 평가. 세계주가MSCI는 미 연준의 통화긴축, 우크라이나 사태 등으로 연중 1/1~3/14일 11.9% 하락했으나, 3월 미 FOMC 이후 선진국 중심으로 반등하여 -7.1%까지 낙폭을 회복
 
-- 최근 글로벌 공급망 재편을 위한 경쟁이 심화되는 가운데, 일부 국가에 대한 중간재 의존도 상승이 국내 생산 차질로 이어질 가능성. 핵심 제조업의 경우 자국 생산 장려 및 수입선 다변화 같은 선제적인 분산 전략이 중]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혁신 성장을 위한 농업부문 데이터 경제 체계 구축과 활성화 방안 (1/2차년도)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165390</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165390"/>
-        <updated>2022-04-14T03:18:06.248Z</updated>
-        <summary type="html"><![CDATA[한국농촌경제연구원이 『혁신 성장을 위한 농업부문 데이터 경제 체계 구축과 활성화 방안 (1/2차년도)』을 발표하였다.
+- [요인별 점검] ▲거시환경 : 경제성장 모멘텀 둔화, 고물가 지속, 통화긴축 가속화 ▲실적 : 전망치 컨센서스는 양호하나, 고물가 지속에 따른 이익부진 가능성 ▲밸류에이션 : 연초 이후 부담이 일부 완화되었으나, 과거 대비로는 여전히 높은 수준
+ · 거시환경 : 우크라이나 사태 이후 경제성장 둔화, 물가 상승, 통화긴축 가속 등 경기확장 후기(Late Cycle) 특징이 심화했으며 이는 주가에 비우호적인 환경으로 작용. 실질금리가 최근까지 마이너스를 기록하면서 채권 대비 주식 선호를 지지했으나, 연준 금리인상과 양적긴축(QT) 시행 등으로 금융여건의 빠른 긴축 위험이 잠재
+ · 기업이익 : 우크라이나 사태에도 불구하고 세계증시 이익 전망치가 선진국을 중심으로 개선세를 지속. 그러나 향후 고유가로 인한 비용증가와 경영 불확실성이 장기화할 경우, 이익 전망치의 후행적 하향 가능성 잠재. 과거 유가 급등에 따른 원가 상승 시 기업들의 가격전가로 인해 즉각적인 이익률 악화는 없었으나, 1~2분기 이후 이익률이 후행적으로 둔화. 특히 금번과 같이 공급요인으로 인한 유가 급등은 소비 위축 여파로 이익감소 영향이 클 소지
+ · 밸류에이션 : 글로벌 증시 밸류에이션은 연초 이후 약 8% 하락하여 부담이 일부 완화됐으나, 과거 장기 시계열 평균 대비로는 여전히 높은 수준
 
-- 이 연구는 미래 산업화와 혁신 성장 동력원으로서 농업부문의 효율적인 데이터 경제 체계를 구축하고 이를 활성화할 수 있는 방안 마련을 위한 1차년도 연구임. 농업부문의 디지털 전환과 데이터 활용 및 실용화할 수 있는 방안을 마련하여 농업부문 데이터 경제 체계를 구축하고, 이를 구체화하여 농산업 부문에 활용할 수 있는 활성화 방안과 정부의 제도적 보완 및 중장기 정책 방안을 제시하고자 하였음. 또한 데이터 기반 농산업 활성화를 위한 R&D 확대 및 후방산업 육성 방안을 마련하고 이를 통한 정책 방안을 제시하고자 하였음. 이를 위해 1차년도에는 농업부문 데이터 경제의 기반인 디지털 전환 및 플랫폼과 공공부문의 대응 방안에 대한 연구를 수행하였음.]]></summary>
+- [평가] 우크라이나 사태 이후 연준의 고강도 통화긴축 시사 등 주가에 비우호적인 거시환경 변화에도 불구하고, 글로벌 증시는 양호한 이익성장을 전제로 이를 제한적으로 반영 중. 증시 밸류에이션이 높은 가운데 최근 실적 전망치가 낙관적이라는 평가가 증가하고 있어 향후 기대치가 현실화하는 과정에서 증시 변동성이 확대될 가능성에 유의
+ · 최근 거시경제 성장 전망(Top-down 방식) 둔화에도 불구하고 개별 기업 및 업종에 대한 실적 전망(Bottom-up 방식)은 상대적으로 낙관적(Morgan Stanley, CS 등)]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -505,7 +420,7 @@
         <title type="html"><![CDATA[디지털세 도입 논의 동향과 지방세 시사점 -데이터세 도입 논의를 포함하여-]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165394</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165394"/>
-        <updated>2022-04-14T03:18:06.235Z</updated>
+        <updated>2022-04-14T06:01:27.686Z</updated>
         <summary type="html"><![CDATA[한국지방세연구원이 「디지털세 도입 논의 동향과 지방세 시사점 -데이터세 도입 논의를 포함하여-」를 발표하였다.
 
 <목 차>
@@ -531,10 +446,89 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[국토공간 유형구분을 통한 지역맞춤형 미세먼지대책 수립방안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165402</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165402"/>
+        <updated>2022-04-14T06:01:27.671Z</updated>
+        <summary type="html"><![CDATA[국토연구원이 「국토공간 유형구분을 통한 지역맞춤형 미세먼지대책 수립방안」을 발표하였다.
+
+- 우리나라 미세먼지 농도 분석결과 봄, 겨울의 농도가 높게 나타났으며, 수도권과 서해안 지역이 남해안과 동해안 지역보다 상대적으로 높게 나타남(2019년 기준). 공간특성에 따라 미세먼지 농도와 그로 인한 영향이 달라지므로, 공간특성에 기초하여 국토공간의 유형을 구분하고 유형별 대책을 수립할 필요가 있음. 미세먼지의 농도(평균농도와 고농도 빈도)와 노출(총인구수와 취약계층 비율)을 고려하여 리스크 기반의 국토공간 유형을 3개(높음-중간-낮음)로, 직·간접 영향인자를 활용하여 영향인자 기반 국토공간 유형을 3개(A, B, C)로 구분함. 미세먼지대책으로서 배출량 감축뿐만 아니라 저감, 적응, 관련 정보시스템 구축 등을 다각도로 활용할 수 있음. 미세먼지로 인한 리스크가 높은 지역은 적응정책과 정보시스템을 우선 수립 및 구축해야 하며, 동시에 미세먼지 발생 억제대책 및 녹지와 수공간을 연계한 저감대책이 수립되어야 함.
+
+- [정책방안] ① (리스크 기반 국토공간 유형) 미세먼지의 평균 농도 및 고농도 빈도, 해당 지역의 취약인구 비율 등을 반영한 리스크에 기반하여 미세먼지대책 도입의 우선순위를 설정할 필요 ② (영향인자 기반 국토공간 유형) 미세먼지에 대한 직·간접적 영향인자의 특징을 고려함으로써 지역 특성에 맞는 미세먼지대책의 목록을 구축할 필요 ③ (통합 국토공간 유형) 미세먼지로 인한 리스크와 영향인자를 모두 반영한 통합 국토공간의 유형을 활용하여 미세먼지대책의 우선순위와 방향성을 설정할 필요]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 우크라이나]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165389</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165389"/>
+        <updated>2022-04-14T06:01:27.433Z</updated>
+        <summary type="html"><![CDATA[한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 우크라이나』를 발표하였다.
+
+- 본 연구는 우크라이나의 농림업 분야에 특화된 개발협력 전략을 수립하고 제시하는 것을 목적으로 함. 이를 위해 우크라이나의 농업 및 농촌의 현황, 우크라이나의 국가 및 농업개발 전략, 국제사회와 우리나라의 개발 및 지원 동향, 우리나라의 비교우위 등을 파악, 분석하여 우크라이나 농림업 중점 협력 분야 및 세부 추진 과제를 제시하였음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아 디폴트 가능성과 위험전이 경로 검토]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165397</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165397"/>
+        <updated>2022-04-14T06:01:27.362Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 『러시아 디폴트 가능성과 위험전이 경로 검토』를 발표하였다.
+
+- [이슈] 최근 러시아의 디폴트(Sovereign Default)가 임박했다는 관측이 확산되고 있어, 과거 주요국 디폴트 사례를 바탕으로 러시아 디폴트 발생 시 위험전이 가능성을 점검
+
+- [주요국 사례] 주요국 디폴트는 대부분 외채급증, 정치불안, 경제위기가 배경으로 작용. 대외여건이 비우호적인 상황에서 발생한 경우 2차 충격으로 금융불안으로 전이
+ · 1998년(러시아), 2001년(아르헨티나), 2012년(그리스)의 경우, 지역경제 불안(아시아 외환위기, 미 경기둔화, 남유럽 재정위기 등)과 맞물려 파장이 증폭
+ · 반면 2017년에는 산유국인 베네수엘라가 저유가, 정정불안, 미국의 제재 등으로 디폴트에 직면했으나 세계경제 회복세가 지속되고 유가도 반등하며 파장이 제한
+
+- [최근 상황과 디폴트 가능성] 러시아는 대외포지션, 재정수지 개선 등에도 불구 서방의 대러제재, 경기침체 등으로 디폴트 가능성이 점증하고 있는 상황
+ · (완충요인) ▲대외채무 감소 ▲대외포지션 개선 ▲양호한 재정수지 등
+ · (위험요인) ▲가용 외화자금 감소 ▲지급결제 수단 차단 ▲경기침체 전환 예상 등
+
+- [러시아 디폴트 시 위험 파급경로 및 전이 가능성 점검] 러시아 디폴트는 선진국 긴축 등에  따른 부담도 커진 상황에서 금융시장 불안요인으로 작용할 소지. 회사채 디폴트, 비은행 투자기관 손실, 취약신흥국 불안 등이 전이 경로로 작용할 가능성
+ · (러시아 회사채 디폴트) 러시아 대외채무(직접투자 제외) 50%는 비은행기업 채무. 러시아 기업들은 대외부채가 자산보다 많고 외화채무 비중이 높아 제재에 더 취약할 소지
+ · (비은행 투자기관 손실) 비은행 기관은 금융시장에서의 역할이 커졌으나 위험노출액 파악에 한계. 1998 LTCM, 2008년 AIG 사태 당시에도 사전에 인지하지 못했던 전례
+ · (취약신흥국 불안) 취약신흥국은 팬데믹 여파 등으로 부채가 크게 증가. 러시아와 금융 및 경제 연계성이 높은 국가를 중심으로 신용등급 강등 증가 우려
+
+- [평가] 현재 글로벌 금융시장에서는 투자자들의 대러 익스포저 축소 등으로 러시아의 디폴트 시에도 위험이 제한적일 것으로 보는 시각이 일반적이나, 세계경제의 불확실성이 커진 상황에서 파장이 예상보다 클 수 있음에 유의할 필요]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 몽골]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165386</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165386"/>
+        <updated>2022-04-14T06:01:23.768Z</updated>
+        <summary type="html"><![CDATA[한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 몽골』을 발표하였다.
+
+- 이 연구는 몽골 농림축산업과 농촌의 현황을 분석하고 몽골의 국가 및 분야 개발전략, 국제사회, 국내 개발협력 전략을 파악하여 몽골에 대한 농업분야 개발협력 전략을 수립·제시하는 것을 목적으로 함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 제조업의 중간재 공급 동향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165405</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165405"/>
+        <updated>2022-04-14T06:01:14.086Z</updated>
+        <summary type="html"><![CDATA[KDB미래전략연구소가 「국내 제조업의 중간재 공급 동향」을 발표하였다.
+
+- 국내에 공급되는 제조업 제품 중 수입산 공급이 지속적인 증가 추세를 보이고 있으며, 수입 제품 중 국내 생산에 필요한 중간재 수입도 증가
+
+- 최근 글로벌 공급망 재편을 위한 경쟁이 심화되는 가운데, 일부 국가에 대한 중간재 의존도 상승이 국내 생산 차질로 이어질 가능성. 핵심 제조업의 경우 자국 생산 장려 및 수입선 다변화 같은 선제적인 분산 전략이 중]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[최근 러시아 루블화 강세에 대한 평가 및 전망]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165400</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165400"/>
-        <updated>2022-04-14T03:18:06.222Z</updated>
+        <updated>2022-04-14T06:01:13.544Z</updated>
         <summary type="html"><![CDATA[국제금융센터가 『최근 러시아 루블화 강세에 대한 평가 및 전망』을 발표하였다.
 
 - [현황] 러시아 루블화는 서방 국가들의 對러시아 제재가 가해진 이후 가치가 폭락 했으나, 4월초 러-우 전쟁 전 수준을 회복하는 등 빠른 안정세를 나타내고 있음.
@@ -542,6 +536,20 @@
 - [평가] 루블화의 반등을 근거로 對러 제재의 무용론을 제기하는 시각도 있으나, 종합적인 환율 여건을 충분히 반영하지 못한 불안정적인 상태로 보는 시각이 우세
 
 - [시사점] 최근 루블화의 강세를 러시아 경제의 펀더멘털 개선 징후로 받아들이기보다는, 우크라이나 사태發 국제금융시장 불안에 대한 경계의 시각을 유지할 필요]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 타지키스탄]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165387</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165387"/>
+        <updated>2022-04-14T06:01:13.523Z</updated>
+        <summary type="html"><![CDATA[한국농촌경제연구원이 『농림업 분야 중점 협력국별 국제개발협력 전략 수립(4차년도): 타지키스탄』을 발표하였다.
+
+- 타지키스탄은 1991년 독립한 뒤 광물자원과 면화, 전력으로 대표되는 국가 수입원, 그리고 해외 이주노동자들로부터의 송금이라고 하는 부수적 수입원을 가진, 매우 협소한 경제적 기반을 가진 중앙아시아에서 가장 가난한 나라임. 타지키스탄은 우리나라 제3차 국제개발협력 기본계획에서 처음으로 중점 협력 국가로 선정되었음. 
+
+- 이 연구는 타지키스탄의 농업·농촌 현황을 분석하고 국가의 개발전략과 농업분야 관련 전략 등 타지키스탄의 개발 방향을 분석하며, 이를 토대로 타지키스탄에 대한 우리나라의 농업분야 개발협력 전략을 수립하여 제안하는 것을 목적으로 함.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
