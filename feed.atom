@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-26T12:02:06.467Z</id>
+    <id>urn:2022-04-26T15:01:40.214Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-04-26T12:02:06.467Z</updated>
+    <updated>2022-04-26T15:01:40.214Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,10 +16,100 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Direct Air Capture]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165693</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165693"/>
+        <updated>2022-04-26T15:01:40.181Z</updated>
+        <summary type="html"><![CDATA[Direct air capture plays an important and growing role in net zero pathways. Capturing CO2 directly from the air and permanently storing it removes the CO2 from the atmosphere, providing a way to balance emissions that are difficult to avoid, including from long-distance transport and heavy industry, as well as offering a solution for legacy emissions. Air-captured CO2 can also be used as a climate-neutral feedstock for a range of products that require a source of carbon. In the IEA Net Zero Emissions by 2050 Scenario, direct air capture technologies capture more than 85 Mt of CO2 in 2030 and around 980 MtCO2 in 2050, requiring a large and accelerated scale-up from almost 0.01 MtCO2 today. Currently 18 direct air capture facilities are operating in Canada, Europe and the United States. The first large-scale direct air capture plant of up to 1 MtCO2/year is in advanced development and is expected to be operating in the United States by the mid-2020s. This report explores the growing momentum behind direct air capture, together with the opportunities and challenges for scaling up the deployment of direct air capture technologies consistent with net zero goals. It considers the current status of these technologies, their potential for cost reductions, their future energy needs, and the optimal locations for direct air capture facilities. Finally, the report identifies the key drivers for direct air capture investment and priorities for policy action.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate Regulatory Risks and Corporate Bonds]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165694</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165694"/>
+        <updated>2022-04-26T15:01:40.147Z</updated>
+        <summary type="html"><![CDATA[Investor concerns about climate and other environmental regulatory risks suggest that these risks should affect corporate bond risk assessment and pricing. We test this hypothesis and find that firms with poor environmental profiles or high carbon footprints tend to have lower credit ratings and higher yield spreads, particularly when their facilities are located in states with stricter regulatory enforcement. Using the Paris Agreement as a shock to expected climate risk regulations, we provide evidence that climate regulatory risks causally affect bond credit ratings and yield spreads. Accordingly, the composition of institutional ownership also changes after the Agreement.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Economic Impact of COVID-19 on Women]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165708</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165708"/>
+        <updated>2022-04-26T15:01:40.110Z</updated>
+        <summary type="html"><![CDATA[The impact of the pandemic on the employment, labor supply, and caregiving of women is assessed. Compared with previous recessions, that induced by COVID-19 impacted women’s employment and labor force participation more relative to men. But the big divide was less between men and women than it was between the more- and the less-educated. Contrary to many accounts, women did not exit the labor force in large numbers, and they did not greatly decrease their hours of work. The aggregate female labor force participation rate did not plummet. The ability to balance caregiving and work differed greatly by education, occupation, and race. The more educated could work from home. Those who began the period employed in various in-person “service” occupations and establishments experienced large reductions in employment. Black women were more negatively impacted beyond other factors considered and the health impact of COVID-19 is a probable reason. The estimation of the pandemic’s impact depends on the counterfactual used. The real story of women during the pandemic concerns the fact that employed women who were educating their children, and working adult daughters who were caring for their parents, were stressed because they were in the labor force, not because they left.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Effects of Exchange Rate Depreciation: The Role of Bank Loan Supply]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165692</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165692"/>
+        <updated>2022-04-26T15:01:40.080Z</updated>
+        <summary type="html"><![CDATA[Using matched bank-firm-level data and the 2014 depreciation of the euro, we show that exchange rate depreciations can lead to higher loan supply. Large banks with high net dollar exposure increase lending to export-intensive firms and-through interbank markets-to small banks without foreign-currency asset exposure but with a high share of exporting firms in their portfolio. We also find that German regions with such small banks experience higher output growth following the depreciation. These findings show the importance of banks‘ balance sheet structure and interbank markets in transmitting exchange rate shocks to the real economy.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Openness]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165701</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165701"/>
+        <updated>2022-04-26T15:01:39.985Z</updated>
+        <summary type="html"><![CDATA[We introduce a measure of exposure to foreign shocks -openness- that computes the fraction of output subjected to foreign shocks at any order. The measure is easy to obtain for any sector with input-output data; It implies that openness is much more prevalent than often thought, especially in services. Theoretically the new measure correlates systematically with the response of productivity to foreign shocks because it reflects high order linkages in output (rather than trade). Empirically it also correlates highly with productivity in an international sample of sector level data. None of these conclusions are true for conventional measures of openness]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fed‘s International Dollar Liquidity Facilities: New Evidence on Effects]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165705</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165705"/>
+        <updated>2022-04-26T15:01:39.629Z</updated>
+        <summary type="html"><![CDATA[In March 2020, the Federal Reserve eased the terms on its standing swap lines in collaboration with other central banks, reactivated temporary swap agreements, and then introduced the new Foreign and International Monetary Authorities (FIMA) repo facility. We provide new evidence on how the central bank swap lines and FIMA repo facility reduce strains in global dollar funding markets and US Treasury markets during extreme stress events. These facilities are found to contribute to the narrowing of foreign exchange swap basis spreads and to reduce the sensitivity of global funding strain metrics to risk sentiment deterioration. Cross border flows through banks for excess liquidity support purposes are reduced in the near term, and the risk sensitivity of equity and bond fund flows declines. However, access to these facilities leave longer-term patterns of liquidity and capital flows across borders broadly unchanged. While official sector liquidity hoarding and ＂dash for cash＂ type of activity is expected to be lower with access to these facilities, initial evidence does not show general differential changes in foreign exchange reserve holdings by foreign central banks in line with the type of liquidity access.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply or Demand? Policy Makers‘ Confusion in the Presence of Hysteresis]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165700</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165700"/>
+        <updated>2022-04-26T15:01:39.468Z</updated>
+        <summary type="html"><![CDATA[Policy makers need to separate between temporary demand-driven shocks and permanent shocks in order to design optimal aggregate demand policies. In this paper we study the case of a central bank that ignores the presence of hysteresis when identifying shocks. By assuming that all low-frequency output fluctuations are driven by permanent technology shocks, monetary policy is not aggressive enough in response to demand shocks. In addition, we show that errors in assessing the state of the economy can be self-perpetuating if seen through the lens of the mistaken views of the policy maker. We show that a central bank that mistakes a demand shock for a supply shock, will produce permanent effects on output through their suboptimal policies. Ex-post, the central bank will see an economy that resembles what they had forecast when designing their policies. The shock is indeed persistent and this persistence validates their assumption that the shock was a supply-driven one. The interaction between forecasts, policies and hysteresis creates the dynamics of self-perpetuating errors that is the focus of this paper.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Representation Failure]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165697</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165697"/>
+        <updated>2022-04-26T15:01:39.213Z</updated>
+        <summary type="html"><![CDATA[Democratic representation is constrained by the alternatives available to voters. In this paper, we develop a methodology to gauge the extent to which the “supply side” of politics hinders voter welfare. Using rich data on thousands of candidates in three Brazilian legislative elections, we quantify the relative value voters place on candidates’ policy positions and non-ideological attributes, and we evaluate voters’ welfare given the set of candidates they face. Our estimates uncover substantial welfare losses to voters relative to three alternative benchmarks of ideal representation. On average, the typical voter suffers only a moderate loss due to policy incongruence but a large loss due to shortages in candidates’ non-ideological characteristics. To evaluate the welfare consequences of potential institutional reforms, we develop and estimate a model of equilibrium policy determination. Through counterfactual experiments, we show that institutional reforms aimed at improving the quality of representation may have sizable unintended consequences due to equilibrium policy adjustments.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal Taxation of Risky Entrepreneurial Capital]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165691</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165691"/>
+        <updated>2022-04-26T15:01:39.204Z</updated>
+        <summary type="html"><![CDATA[We study optimal taxation in a model with endogenous financial frictions, risky investment and occupational choice, where the distribution of wealth across entrepreneurs affects how efficiently capital is used. The planner chooses linear taxes on wealth, capital and labor income to maximize the steady state utility of a newborn agent. Most agents in the model are poor, leading to a redistributive motive for taxation. Optimal tax rates can be written as a closed-form function of the size of the tax bases and their elasticities with respect to tax rates. We find that it is optimal to tax capital income because financial frictions reduce the elasticity of capital income with respect to taxes and because capital income taxes prevent excessive entry into entrepreneurship. Optimal wealth taxes are positive but close to zero, since they strongly discourage capital accumulation.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[National Home Price Appreciation (HPA) Index - March 2022]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165707</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165707"/>
-        <updated>2022-04-26T12:02:01.359Z</updated>
+        <updated>2022-04-26T15:01:39.196Z</updated>
         <summary type="html"><![CDATA[National HPA for March 2022 averaged 16.6% , up from 16.4% a month ago and 12.0% a year ago.
 Low rates and inventories are driving high HPA growth across all price tiers.
 Historically, HPA in the low price tier has outpaced HPA in the upper price tiers.
@@ -31,11 +121,11 @@ Housing inventory reached a new series’ low for the month of March. Active lis
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Cryptocurrencies Currencies? Bitcoin as Legal Tender in El Salvador]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165687</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165687"/>
-        <updated>2022-04-26T12:02:01.352Z</updated>
-        <summary type="html"><![CDATA[This paper studies the potential of a cryptocurrency to become a medium of exchange. We use evidence from a natural experiment: In September 2021, El Salvador became the first country in the world to make bitcoin legal tender, and all economic agents were required to accept bitcoin for all payments. The Salvadorean government also launched an app, “Chivo Wallet,” which allowed users to digitally trade both bitcoin and dollars, and gave major incentives to download it. We conduct a representative national face-to-face survey to obtain information on bitcoin’s usage and effects. Leveraging this data, we document how, despite the government’s “big push” and a large fraction of people downloading Chivo Wallet, usage of bitcoin for everyday transactions is low and is concentrated among the banked, educated, young, and male population. We also estimate the fixed cost of adopting the new payment technology, the importance of strategic complementarities for users, and the elasticity of substitution between mobile payments and other payment methods.]]></summary>
+        <title type="html"><![CDATA[From Incentives to Control to Adaptation:  Exploring Interactions Between Formal and Relational Governance]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165698</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165698"/>
+        <updated>2022-04-26T15:01:39.189Z</updated>
+        <summary type="html"><![CDATA[In 1991 we began to model interactions between formal and relational incentive contracts. We were motivated by a case study on compensation, and we saw this work as a contribution to agency theory. By the time the paper was published (QJE, 1994), we had begun to view the research agenda more broadly-with connections to organizational culture (Kreps, 1990), the theory of firms‘ boundaries (Coase, 1937), and more. Eventually, we built from this initial work, analyzing delegation within organizations as necessarily informal (JLEO, 1999), and moving beyond relational agency (where a principal motivates an agent through various promises, not limited to compensation) to structuring relationships (where parties choose their formal governance structure to facilitate their relational contract). The latter led to our relational analysis of when classic buyer-supplier interactions should be governed under integration and when under non-integration (QJE, 2002) and to our working paper (last revised in 2011) on how formal contracts between firms might facilitate ＂relational adaptation＂ as events unfold. In this essay we sketch theoretical, empirical, and methodological lessons we learned during this twenty-year journey.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -44,28 +134,18 @@ Housing inventory reached a new series’ low for the month of March. Active lis
         <title type="html"><![CDATA[Exchange Rate and Inflation under Weak Monetary Policy: Turkey Verifies Theory]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165695</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165695"/>
-        <updated>2022-04-26T12:02:01.339Z</updated>
+        <updated>2022-04-26T15:01:39.176Z</updated>
         <summary type="html"><![CDATA[For the academic audience, this paper presents the outcome of a well-identified, large change in the monetary policy rule from the lens of a standard New Keynesian model and asks whether the model properly captures the effects. For policymakers, it presents a cautionary tale of the dismal effects of ignoring basic macroeconomics. The Turkish monetary policy experiment of the past decade, stemming from a belief of the government that higher interest rates cause higher inflation, provides an unfortunately clean exogenous variance in the policy rule. The mandate to keep rates low, and the frequent policymaker turnover orchestrated by the government to enforce this, led to the Taylor principle not being satisfied and eventually a negative coefficient on inflation in the policy rule. In such an environment, was the exchange rate still a random walk? Was inflation anchored? Does the ＂standard model＂ suffice to explain the broad contours of macroeconomic outcomes in an emerging economy with large identifying variance in the policy rule? There are no surprises for students of open-economy macroeconomics; the answers are no, no, and yes.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supply or Demand? Policy Makers‘ Confusion in the Presence of Hysteresis]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165700</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165700"/>
-        <updated>2022-04-26T12:02:01.331Z</updated>
-        <summary type="html"><![CDATA[Policy makers need to separate between temporary demand-driven shocks and permanent shocks in order to design optimal aggregate demand policies. In this paper we study the case of a central bank that ignores the presence of hysteresis when identifying shocks. By assuming that all low-frequency output fluctuations are driven by permanent technology shocks, monetary policy is not aggressive enough in response to demand shocks. In addition, we show that errors in assessing the state of the economy can be self-perpetuating if seen through the lens of the mistaken views of the policy maker. We show that a central bank that mistakes a demand shock for a supply shock, will produce permanent effects on output through their suboptimal policies. Ex-post, the central bank will see an economy that resembles what they had forecast when designing their policies. The shock is indeed persistent and this persistence validates their assumption that the shock was a supply-driven one. The interaction between forecasts, policies and hysteresis creates the dynamics of self-perpetuating errors that is the focus of this paper.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Effects of Exchange Rate Depreciation: The Role of Bank Loan Supply]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165692</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165692"/>
-        <updated>2022-04-26T12:02:01.325Z</updated>
-        <summary type="html"><![CDATA[Using matched bank-firm-level data and the 2014 depreciation of the euro, we show that exchange rate depreciations can lead to higher loan supply. Large banks with high net dollar exposure increase lending to export-intensive firms and-through interbank markets-to small banks without foreign-currency asset exposure but with a high share of exporting firms in their portfolio. We also find that German regions with such small banks experience higher output growth following the depreciation. These findings show the importance of banks‘ balance sheet structure and interbank markets in transmitting exchange rate shocks to the real economy.]]></summary>
+        <title type="html"><![CDATA[How Governments Support Clean Energy Start-ups]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165704</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165704"/>
+        <updated>2022-04-26T15:01:39.159Z</updated>
+        <summary type="html"><![CDATA[This report highlights recent initiatives to inspire policy action at a time when innovation leadership by the public and private sectors is critical to meeting the net zero challenge. Countries around the world strive to become home to the next major company emerging from a start-up with a disruptive clean energy invention, and with good reason. Whilst aiding innovation in support of climate and energy goals, nurturing innovative start-ups to maturity can also create local economic prosperity because clean energy transitions will be a major market opportunity for all countries, all century long. Already, the number of government policy measures to help start-ups get new clean energy technologies to market has risen sharply since the Paris Agreement was signed in 2015. This is extremely encouraging given that energy technology start-ups continue to face challenges attracting patient capital and governments possess some unique resources to speed them through the phases to reach technical maturity while staying in business. Based on 14 detailed case studies and in-depth interviews, this report presents a range of impressive policy measures from a variety of different country contexts, and identifies eight key insights for effective policy to support clean energy start-ups.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -74,7 +154,7 @@ Housing inventory reached a new series’ low for the month of March. Active lis
         <title type="html"><![CDATA[What Do Bond Yields Signal about the Economy?]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165706</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165706"/>
-        <updated>2022-04-26T12:02:00.561Z</updated>
+        <updated>2022-04-26T15:01:39.144Z</updated>
         <summary type="html"><![CDATA[The topic of bond yields has been frequently discussed since the Federal Open Market Committee in late 2021 and early 2022 began indicating that it would soon start making monetary policy moves that could affect bond yields. The FOMC raised the target for the fed funds rate in March and said further increases were likely to be appropriate.
 But what exactly do people mean when they talk about bond yields? A bond yield is a numerical representation of a bond’s returns to a bond purchaser. A “yield curve” is used to get a sense of investors’ risk assessment. Why are the yields an important indicator for investors?]]></summary>
         <author>
@@ -82,51 +162,11 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Representation Failure]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165697</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165697"/>
-        <updated>2022-04-26T12:02:00.470Z</updated>
-        <summary type="html"><![CDATA[Democratic representation is constrained by the alternatives available to voters. In this paper, we develop a methodology to gauge the extent to which the “supply side” of politics hinders voter welfare. Using rich data on thousands of candidates in three Brazilian legislative elections, we quantify the relative value voters place on candidates’ policy positions and non-ideological attributes, and we evaluate voters’ welfare given the set of candidates they face. Our estimates uncover substantial welfare losses to voters relative to three alternative benchmarks of ideal representation. On average, the typical voter suffers only a moderate loss due to policy incongruence but a large loss due to shortages in candidates’ non-ideological characteristics. To evaluate the welfare consequences of potential institutional reforms, we develop and estimate a model of equilibrium policy determination. Through counterfactual experiments, we show that institutional reforms aimed at improving the quality of representation may have sizable unintended consequences due to equilibrium policy adjustments.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Incentives to Control to Adaptation:  Exploring Interactions Between Formal and Relational Governance]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165698</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165698"/>
-        <updated>2022-04-26T12:02:00.247Z</updated>
-        <summary type="html"><![CDATA[In 1991 we began to model interactions between formal and relational incentive contracts. We were motivated by a case study on compensation, and we saw this work as a contribution to agency theory. By the time the paper was published (QJE, 1994), we had begun to view the research agenda more broadly-with connections to organizational culture (Kreps, 1990), the theory of firms‘ boundaries (Coase, 1937), and more. Eventually, we built from this initial work, analyzing delegation within organizations as necessarily informal (JLEO, 1999), and moving beyond relational agency (where a principal motivates an agent through various promises, not limited to compensation) to structuring relationships (where parties choose their formal governance structure to facilitate their relational contract). The latter led to our relational analysis of when classic buyer-supplier interactions should be governed under integration and when under non-integration (QJE, 2002) and to our working paper (last revised in 2011) on how formal contracts between firms might facilitate ＂relational adaptation＂ as events unfold. In this essay we sketch theoretical, empirical, and methodological lessons we learned during this twenty-year journey.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Direct Air Capture]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165693</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165693"/>
-        <updated>2022-04-26T12:02:00.115Z</updated>
-        <summary type="html"><![CDATA[Direct air capture plays an important and growing role in net zero pathways. Capturing CO2 directly from the air and permanently storing it removes the CO2 from the atmosphere, providing a way to balance emissions that are difficult to avoid, including from long-distance transport and heavy industry, as well as offering a solution for legacy emissions. Air-captured CO2 can also be used as a climate-neutral feedstock for a range of products that require a source of carbon. In the IEA Net Zero Emissions by 2050 Scenario, direct air capture technologies capture more than 85 Mt of CO2 in 2030 and around 980 MtCO2 in 2050, requiring a large and accelerated scale-up from almost 0.01 MtCO2 today. Currently 18 direct air capture facilities are operating in Canada, Europe and the United States. The first large-scale direct air capture plant of up to 1 MtCO2/year is in advanced development and is expected to be operating in the United States by the mid-2020s. This report explores the growing momentum behind direct air capture, together with the opportunities and challenges for scaling up the deployment of direct air capture technologies consistent with net zero goals. It considers the current status of these technologies, their potential for cost reductions, their future energy needs, and the optimal locations for direct air capture facilities. Finally, the report identifies the key drivers for direct air capture investment and priorities for policy action.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate Regulatory Risks and Corporate Bonds]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165694</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165694"/>
-        <updated>2022-04-26T12:01:59.983Z</updated>
-        <summary type="html"><![CDATA[Investor concerns about climate and other environmental regulatory risks suggest that these risks should affect corporate bond risk assessment and pricing. We test this hypothesis and find that firms with poor environmental profiles or high carbon footprints tend to have lower credit ratings and higher yield spreads, particularly when their facilities are located in states with stricter regulatory enforcement. Using the Paris Agreement as a shock to expected climate risk regulations, we provide evidence that climate regulatory risks causally affect bond credit ratings and yield spreads. Accordingly, the composition of institutional ownership also changes after the Agreement.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal Taxation of Risky Entrepreneurial Capital]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165691</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165691"/>
-        <updated>2022-04-26T12:01:59.971Z</updated>
-        <summary type="html"><![CDATA[We study optimal taxation in a model with endogenous financial frictions, risky investment and occupational choice, where the distribution of wealth across entrepreneurs affects how efficiently capital is used. The planner chooses linear taxes on wealth, capital and labor income to maximize the steady state utility of a newborn agent. Most agents in the model are poor, leading to a redistributive motive for taxation. Optimal tax rates can be written as a closed-form function of the size of the tax bases and their elasticities with respect to tax rates. We find that it is optimal to tax capital income because financial frictions reduce the elasticity of capital income with respect to taxes and because capital income taxes prevent excessive entry into entrepreneurship. Optimal wealth taxes are positive but close to zero, since they strongly discourage capital accumulation.]]></summary>
+        <title type="html"><![CDATA[Are Cryptocurrencies Currencies? Bitcoin as Legal Tender in El Salvador]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165687</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165687"/>
+        <updated>2022-04-26T15:01:39.127Z</updated>
+        <summary type="html"><![CDATA[This paper studies the potential of a cryptocurrency to become a medium of exchange. We use evidence from a natural experiment: In September 2021, El Salvador became the first country in the world to make bitcoin legal tender, and all economic agents were required to accept bitcoin for all payments. The Salvadorean government also launched an app, “Chivo Wallet,” which allowed users to digitally trade both bitcoin and dollars, and gave major incentives to download it. We conduct a representative national face-to-face survey to obtain information on bitcoin’s usage and effects. Leveraging this data, we document how, despite the government’s “big push” and a large fraction of people downloading Chivo Wallet, usage of bitcoin for everyday transactions is low and is concentrated among the banked, educated, young, and male population. We also estimate the fixed cost of adopting the new payment technology, the importance of strategic complementarities for users, and the elasticity of substitution between mobile payments and other payment methods.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -135,38 +175,8 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         <title type="html"><![CDATA[Heterogeneity in Place Effects on Health: The Case of Time Preferences and Adolescent Obesity]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165702</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165702"/>
-        <updated>2022-04-26T12:01:59.947Z</updated>
+        <updated>2022-04-26T15:01:39.119Z</updated>
         <summary type="html"><![CDATA[We leverage a natural experiment in combination with data on adolescents’ time preferences to assess whether there is heterogeneity in place effects on adolescent obesity. We exploit the plausibly exogenous assignment of military servicemembers, and consequently their children, to different installations to identify place effects. Adolescents’ time preferences are measured by a validated survey scale. Using the obesity rate in the assigned installation county as a summary measure of its obesity-related environments, we show that exposure to counties with higher obesity rates increases the likelihood of obesity among less patient adolescents but not among their more patient counterparts.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Economic Impact of COVID-19 on Women]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165708</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165708"/>
-        <updated>2022-04-26T12:01:59.935Z</updated>
-        <summary type="html"><![CDATA[The impact of the pandemic on the employment, labor supply, and caregiving of women is assessed. Compared with previous recessions, that induced by COVID-19 impacted women’s employment and labor force participation more relative to men. But the big divide was less between men and women than it was between the more- and the less-educated. Contrary to many accounts, women did not exit the labor force in large numbers, and they did not greatly decrease their hours of work. The aggregate female labor force participation rate did not plummet. The ability to balance caregiving and work differed greatly by education, occupation, and race. The more educated could work from home. Those who began the period employed in various in-person “service” occupations and establishments experienced large reductions in employment. Black women were more negatively impacted beyond other factors considered and the health impact of COVID-19 is a probable reason. The estimation of the pandemic’s impact depends on the counterfactual used. The real story of women during the pandemic concerns the fact that employed women who were educating their children, and working adult daughters who were caring for their parents, were stressed because they were in the labor force, not because they left.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the Price Right? The Role of Morals, Ideology, and Tradeoff Thinking in Explaining Reactions to Price Surges]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165690</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165690"/>
-        <updated>2022-04-26T12:01:59.921Z</updated>
-        <summary type="html"><![CDATA[Price surges often generate social disapproval and requests for regulation and price controls, but these interventions may cause inefficiencies and shortages. To study how individuals perceive and reason about sudden price increases for different products under different policy regimes, we conduct a survey experiment with Canadian and U.S. residents. Econometric and textual analyses indicate that prices are not seen just as signals of scarcity; they cause widespread opposition and strong and polarized moral reactions. However, acceptance of unregulated prices is higher when potential economic tradeoffs between unregulated and controlled prices are salient and when higher production costs contribute to the price increases. The salience of tradeoffs also reduces the polarization of moral judgments between supporters and opponents of unregulated pricing. In part, the acceptance of free price adjustments is driven by people’s overall attitudes about the function of markets and the government in society. These findings are corroborated by a donation experiment, and they suggest that awareness of the causes and potential consequences of price increases may induce less extreme views about the role of market institutions in governing the economy.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fed‘s International Dollar Liquidity Facilities: New Evidence on Effects]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165705</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165705"/>
-        <updated>2022-04-26T12:01:59.912Z</updated>
-        <summary type="html"><![CDATA[In March 2020, the Federal Reserve eased the terms on its standing swap lines in collaboration with other central banks, reactivated temporary swap agreements, and then introduced the new Foreign and International Monetary Authorities (FIMA) repo facility. We provide new evidence on how the central bank swap lines and FIMA repo facility reduce strains in global dollar funding markets and US Treasury markets during extreme stress events. These facilities are found to contribute to the narrowing of foreign exchange swap basis spreads and to reduce the sensitivity of global funding strain metrics to risk sentiment deterioration. Cross border flows through banks for excess liquidity support purposes are reduced in the near term, and the risk sensitivity of equity and bond fund flows declines. However, access to these facilities leave longer-term patterns of liquidity and capital flows across borders broadly unchanged. While official sector liquidity hoarding and ＂dash for cash＂ type of activity is expected to be lower with access to these facilities, initial evidence does not show general differential changes in foreign exchange reserve holdings by foreign central banks in line with the type of liquidity access.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
@@ -175,7 +185,7 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         <title type="html"><![CDATA[Endogenous Product Adjustment and Exchange Rate Pass-Through]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165696</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165696"/>
-        <updated>2022-04-26T12:01:59.902Z</updated>
+        <updated>2022-04-26T15:01:39.111Z</updated>
         <summary type="html"><![CDATA[We document how product quality responds to exchange rate movements and quantify the extent to which these quality changes affect the aggregate pass-through into export prices. We analyze the substantial sudden appreciation of the Swiss franc post removal of the 1.20-CHF-per-euro lower bound in 2015 using export data representing a large share of the universe of goods exports from Switzerland. We find that firms upgrade the quality of their products after the appreciation. Furthermore, they disproportionately remove lower-quality products from their product ranges. This quality upgrading and quality sorting effect accounts for a substantial share of the total pass-through one year after the appreciation. We cross-check our results with the microdata underlying the Swiss export price index, which includes an adjustment factor for quality based on firms‘ reported product replacements, and obtain similar results.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
@@ -185,47 +195,63 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         <title type="html"><![CDATA[Distracted from Comparison: Product Design and Advertisement with Limited Attention]]></title>
         <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165703</id>
         <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165703"/>
-        <updated>2022-04-26T12:01:59.888Z</updated>
+        <updated>2022-04-26T15:01:39.103Z</updated>
         <summary type="html"><![CDATA[We study how firms choose designs-of their products or product information-to divert consumers‘ limited attention away from price comparison or towards it. Firms choose de- signs to affect the dispersion of product match values and thereby how consumers allocate their limited attention. Consumers with limited attention trade off breadth and depths of search: they either study fewer products in detail to learn their match value, or superfi- cially browse and compare prices of more products. We highlight a novel distraction effect of designs. Firms combine larger prices with designs that disperse match values to dis- tract consumers from price-comparison. We show that more-detailed product information disperse match values and allows firms to distract consumers more effectively from price comparison. This way, interventions that allow firms to disclose more-detailed product in- formation weaken competition and decrease consumer surplus. In turn, interventions that make information coarser and more easily-available information-like energy-efficiency la- bels and front-package food labels like nutriscores-increases competition and consumer surplus. These findings connect evidence of various informational interventions in the context of pension funds, advertisements, and food labels.]]></summary>
         <author>
             <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Openness]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165701</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165701"/>
-        <updated>2022-04-26T12:01:59.875Z</updated>
-        <summary type="html"><![CDATA[We introduce a measure of exposure to foreign shocks -openness- that computes the fraction of output subjected to foreign shocks at any order. The measure is easy to obtain for any sector with input-output data; It implies that openness is much more prevalent than often thought, especially in services. Theoretically the new measure correlates systematically with the response of productivity to foreign shocks because it reflects high order linkages in output (rather than trade). Empirically it also correlates highly with productivity in an international sample of sector level data. None of these conclusions are true for conventional measures of openness]]></summary>
+        <title type="html"><![CDATA[Powell의장 IMF세미나 발언내용]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165715</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165715"/>
+        <updated>2022-04-26T15:01:39.084Z</updated>
+        <summary type="html"><![CDATA[한국은행은 「 파월의장 IMF세미나 발언내용」을 발표하였다.
+
+- (미국경제 향후 전망) 미국은 유럽에 비해 전쟁의 즉각적인 영향(immediate effects)으로부터 조금 멀리 떨어져 있음. 그러나 시간이 지남에 따라 전쟁의 영향은 인플레이션 상승압력과 생산량에 대한 약간의 하강압력의 형태로 나타날 것임
+
+- (통화긴축 관련) 기본적으로 연준의 목표는 정책수단을 사용하여 수요와 공급을 다시 일치하게해서 경기침체 없이 인플레이션을 낮추는 연착륙(soft landing)을 달성하는 것임. 이는 매우 어려운 일이지만, 연준은 이를 달성하기 위해 최선을 다할 것임. 물가안정 없이는 경제가 작동하지 않으며, 장기간의 강력한 노동시장과 재정안정도 이룰 수 없기 때문에 가격안정을 회복하는 것이 절대적으로 중요
+
+-(금리인상 관련) 지난번 FOMC 회의결과와 의사록에 따르면 많은 FOMC 참석자들은 한 번 또는 그 이상(one or more)의 50bp 금리인상이 적절하다고 생각했음. 시장이 연준이 말하는 것을 해석하고, 대체로 적절하게 반응하고 있다고 생각. 
+
+-(미국인플레이션 관련) 이번 IMF 미팅의 논의결과 발견한 몇 가지를 말씀드리자면, 첫째 인플레이션이 전세계적인 문제라는 것임. 인플레이션이 도처에 있고, 대부분 높은 상황임. 하지만 각 지역마다 차이점도 있음. 미국은 유럽 등에 비해 매우 강한 경제성장과 높은 인플레이션 상황에 있음. 기조적인 물가수준과 중앙은행들의 목표(domestic mandates)도 다름
+
+- (우-러 전쟁, 중국 셧다운 상황에서의 인플레이션 통제) 연준의 통화정책은 공급측면의 문제, 식량과 에너지 가격에 영향을 미칠 수 없으므로 결국 연준이 할 수 있는 것은 정책수단을 가지고 수요에 영향을 미치는 것임.
+
+- (글로벌화 역전 관련) 확실히 가능한 결과일 수 있음. 더 높은 인플레이션과 낮은 생산성을 가지겠지만, 더 회복력이 강하고 탄력적인 공급망을 가진 세상일 수 있음. 현재의 공급망은 매우 효율적이지만 매우 취약한 것으로 판명되었음. 글로벌화가 역전되었는지는 분명하지 않지만 확실히 느려졌고 역전될지도 모른다고 생각함]]></summary>
         <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
+            <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Governments Support Clean Energy Start-ups]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165704</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165704"/>
-        <updated>2022-04-26T12:01:59.866Z</updated>
-        <summary type="html"><![CDATA[This report highlights recent initiatives to inspire policy action at a time when innovation leadership by the public and private sectors is critical to meeting the net zero challenge. Countries around the world strive to become home to the next major company emerging from a start-up with a disruptive clean energy invention, and with good reason. Whilst aiding innovation in support of climate and energy goals, nurturing innovative start-ups to maturity can also create local economic prosperity because clean energy transitions will be a major market opportunity for all countries, all century long. Already, the number of government policy measures to help start-ups get new clean energy technologies to market has risen sharply since the Paris Agreement was signed in 2015. This is extremely encouraging given that energy technology start-ups continue to face challenges attracting patient capital and governments possess some unique resources to speed them through the phases to reach technical maturity while staying in business. Based on 14 detailed case studies and in-depth interviews, this report presents a range of impressive policy measures from a variety of different country contexts, and identifies eight key insights for effective policy to support clean energy start-ups.]]></summary>
+        <title type="html"><![CDATA[서울시 주요 재정사업 평가제도 현황과 개편방안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165709</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165709"/>
+        <updated>2022-04-26T15:01:39.075Z</updated>
+        <summary type="html"><![CDATA[서울연구원이 「서울시 주요 재정사업 평가제도 현황과 개편방안」을 발표하였다.
+
+- 코로나19 사태에 따른 경제성장률 저하, 재정분권 지체, 정부의 부동산 대책에 따른 지방세 감면 우려 등 서울시의 세입 여건이 악화되고 있는 반면, 민생경제 회복, 청년 대상 투자, 포스트 코로나 시대 준비 등 세출 수요는 점점 늘어나고 있음.
+
+- 특히, 서울시는 사회복지 분야 국고보조사업이 지속 증가해 자체사업을 수행하는 데 소요할 수 있는 예산이 부족하여, 2010년 이후 서울시 전체 예산에서 국고보조사업 예산이 차지하는 비중은 꾸준히 늘어나 2021년에는 32.2%를 기록하며 자체사업의 비중인 37.3%와 비슷한 수치를 보임.
+
+- 세입 증대에 한계가 있고 코로나19 위기, 정치적 리더십 교체 등으로 확장적 재정 운용이 불가피한 상황에서 재정이 적극적인 역할을 지속하고, 재정의 장기적인 회복탄력성을 유지하려면 적극적인 세출 구조조정이 병행될 필요
+
+- 서울시가 2015년 도입한 지방자치단체 주요 재정사업 평가제도는 사업의 성과를 평가하여 그 결과를 예산편성과 직접 연계하는 세출 구조조정의 수단임.
+
+- 유사한 성격의 사업 평가제도로 사전심사인 지방재정 투자심사가 있는데, 투자심사는 주요 투자사업의 필요성과 계획의 타당성 등을 사전에 심사하여 사업의 추진 여부를 결정하는 제도이고 예산의 배분과는 관련성이 낮음.
+
+- 또한, 사후평가 제도로 지방보조사업 평가, 민간위탁 종합 성과평가 등을 들 수 있는데, 이 제도들은 평가결과를 일부 예산에 반영하지만 직접적으로 연계하지는 않음.
+
+- 반면, 서울시 주요 재정사업 평가제도는 성과가 미흡한 사업의 예산 삭감과 일몰을 원칙으로 하여 재정의 여력을 확보하기 위한 유일한 제도임.]]></summary>
         <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring U.S. Fiscal Capacity using Discounted Cash Flow Analysis]]></title>
-        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165699</id>
-        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165699"/>
-        <updated>2022-04-26T12:01:59.858Z</updated>
-        <summary type="html"><![CDATA[We use discounted cash flow analysis to measure a country‘s fiscal capacity. Crucially, the discount rate applied to projected cash flows includes a GDP risk premium. We apply our valuation method to the CBO‘s projections for the U.S. federal government‘s deficit between 2022 and 2051 and debt in 2051. In spite of low rates, our current measure of U.S. fiscal capacity is lower than the debt/GDP ratio. Because of the backloading of projected surpluses, the duration of the surplus claim far exceeds the duration of the outstanding Treasury portfolio. This duration mismatch exposes the government to the risk of rising rates, which would trigger the need for higher tax revenue or lower spending. Reducing this risk by front-loading the surpluses also requires major fiscal adjustment.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국외 연구 자료</name>
+            <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[포스트 팬데믹 시대의 신세대]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165660</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165660"/>
-        <updated>2022-04-26T12:01:59.849Z</updated>
+        <updated>2022-04-26T15:01:39.067Z</updated>
         <summary type="html"><![CDATA[LG경영연구원이 『포스트 팬데믹 시대의 신세대』를 발표하였다.
 
 - 어린 시절에 코로나19를 경험한 세대는 기존 세대와 전혀 다른 방식으로 삶을 살아갈 것으로 보임. 알파 세대와 후기 Z세대를 아우르는 이 신세대의 특징으로는 어려서부터 AI와 친숙하게 소통 및 교감한다는 점과 현실과 가상 세계를 자유자재로 오가며 생활 공간이 확장된다는 점이 있음.
@@ -247,7 +273,7 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         <title type="html"><![CDATA[생애최초 자가소유 지원정책 체계화방향]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165652</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165652"/>
-        <updated>2022-04-26T12:01:59.843Z</updated>
+        <updated>2022-04-26T15:01:39.049Z</updated>
         <summary type="html"><![CDATA[서울연구원이 『생애최초 자가소유 지원정책 체계화방향』을 발표하였다.
 
 - 본 연구는 주요 선진국의 자가촉진정책에 대한 사례조사를 통해, 생애최초 주택구입자의 자가소유기회를 확대하기 위한 정책방향 및 방안을 제안하는 데 목적이 있음.]]></summary>
@@ -256,67 +282,69 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재산평가와 과세를 일원화하는 지방분권형 과표산정체계 도입의 필요성]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165650</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165650"/>
-        <updated>2022-04-26T12:01:59.833Z</updated>
-        <summary type="html"><![CDATA[한국지방세연구원이 「재산평가와 과세를 일원화하는 지방분권형 과표산정체계 도입의 필요성」을 발표하였다.
+        <title type="html"><![CDATA[전일제 환산 취업자로 본 고용의 변화]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165657</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165657"/>
+        <updated>2022-04-26T15:01:39.033Z</updated>
+        <summary type="html"><![CDATA[한국경제연구원이 『전일제 환산 취업자로 본 고용의 변화』를 발표하였다.
 
-- 부동산 공시가격이 적정 수준의 시세를 반영할 수 있도록 2020년 11월 3일 “부동산 공시가격 현실화 계획”이 발표되었음. 이 계획은 현실화율을 연 3%p씩 제고하여, 10~15년에 걸쳐 시세의 90% 수준까지 공시가격을 현실화하는 것임.
-
-- 공시지가 현실화 과정에서 부동산 공시가격의 형평성 등의 문제로 인해 현재의 부동산 가격산정체계의 개선 필요성이 제기됨. 2021년 전국 공동주택 이의신청 비율은 전년 대비 증가하여 전년도 0.06%의 1.67배 수준인 0.1%(14,200호)임. 
-
-- 해외 주요 국가는 재산세의 과세권자인 지방정부가 부동산을 평가하고, 매년이 아닌 일정한 주기로 재평가함으로써 부동산 평가 예산을 효율적으로 운영함. 지역의 사정을 잘 알고 있는 지방정부가 부동산을 평가함으로써 행정의 효율성을 도모하고, 과세평가와 재산과세가 일원화됨으로써 납세자의 세부담 적정성을 제고함. 비정기 및 2년 이상으로 재평가 주기를 운영함으로써 많은 비용이 드는 부동산평가의 효율적인 운영을 도모하고 예산을 절감함.
-
-- 부동산 가격산정은 재산세 과세의 근간이 되는 핵심적인 업무이기 때문에 부동산 과세평가와 과세는 일원화 되어야 함. 재산세 과세시 부동산 현황을 조사하여 과세하고 있는데, 공시가격 조사와 재산세 현황조사가 불일치하는 경우 세부담의 차이로 인해 민원이 발생함. 부동산 공시가격 산정이 적정하지 않거나 오류가 있는 경우 과세권자인 지방자치단체가 이를 조정할수 없어 과세오류 및 과세불형평으로 이어짐.
-
-- 세부담 적정성 제고를 위해 지방자치단체를 중심으로 과표산정체계를 재편하여 지방자치단체가 실질적으로 공시가격을 산정·조정하고 검증할 수 있도록 하는 것이 바람직함. 1989년 공시지가 도입 이전과 같이 지방자치단체 중심의 부동산 가격산정체계를 구축하여 지방자치에 부합되는 분권형 체계를 통해 공시가격의 균형성과 신뢰성을 제고하여야 함.]]></summary>
+- 코로나19 발발 전후로 심각한 타격을 받았던 우리나라 노동시장이 최근 들어 긍정적인 통계수치를 보여주고 있음. 금융당국은 이를 적극 반영해 기준금리 인상 등 통화정책을 펴고, 재정당국도 이를 정책 홍보에 적극 활용했음. 그러나 통계청에서 발표하는 고용통계는 2018년경부터 단시간 일자리 비중 증가에 따라 현실과 점점 동떨어졌다는 지적을 받고 있음. 본 보고서는 이 같은 괴리를 보정하기 위해 OECD에서 사용하는 전일제 환산(Full Time Equivalent) 방식의 고용통계를 산출해 분석하고자 함. 보다 정확한 상황 파악과 정책 결정을 위함임.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울시 주요 재정사업 평가제도 현황과 개편방안]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165709</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165709"/>
-        <updated>2022-04-26T12:01:59.818Z</updated>
-        <summary type="html"><![CDATA[서울연구원이 「서울시 주요 재정사업 평가제도 현황과 개편방안」을 발표하였다.
+        <title type="html"><![CDATA[코로나19 이후 가사서비스 시장 변화에 따른 이용자 지원과 근로자 고용 개선방안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165651</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165651"/>
+        <updated>2022-04-26T15:01:39.018Z</updated>
+        <summary type="html"><![CDATA[서울연구원이 『코로나19 이후 가사서비스 시장 변화에 따른 이용자 지원과 근로자 고용 개선방안』을 발표하였다.
 
-- 코로나19 사태에 따른 경제성장률 저하, 재정분권 지체, 정부의 부동산 대책에 따른 지방세 감면 우려 등 서울시의 세입 여건이 악화되고 있는 반면, 민생경제 회복, 청년 대상 투자, 포스트 코로나 시대 준비 등 세출 수요는 점점 늘어나고 있음.
+- 여성의 경제활동 참여가 늘어나면서 맞벌이 가구가 증가하고, 고령화 속도가 빨라지는 등 인구·가구 구조의 변화에 따라 가정의 비시장 노동을 대신해주는 가사서비스에 지출을 늘리는 방향으로 소비형태가 변화하였음. 1990년대까지는 6세 미만 자녀가 있으면서 소득분위가 높은 가구에서 주로 소비가 많았지만, 가구 분화와 고령화의 영향으로 2000년대부터는 전 분위에 걸쳐 지출이 확대되었음. 
 
-- 특히, 서울시는 사회복지 분야 국고보조사업이 지속 증가해 자체사업을 수행하는 데 소요할 수 있는 예산이 부족하여, 2010년 이후 서울시 전체 예산에서 국고보조사업 예산이 차지하는 비중은 꾸준히 늘어나 2021년에는 32.2%를 기록하며 자체사업의 비중인 37.3%와 비슷한 수치를 보임.
+- 이러한 소비패턴의 변화는 가사서비스와 같은 저부가가치 서비스업의 노동수요 증가로 이어졌음. 기존에는 중개기관이 가사서비스 이용자와 근로자를 연결하였지만, 최근에는 디지털 기술이 서비스산업에 접목하면서 거래 방식도 분화되었음. 기존의 운영방식인 비영리단체 또는 유료 직업소개소의 중개 외에도 온라인 플랫폼의 가사서비스 앱을 활용한 중개방식, 그리고 중개업체 없이 이용자와 근로자가 직거래하는 방식 등이 있음.
 
-- 세입 증대에 한계가 있고 코로나19 위기, 정치적 리더십 교체 등으로 확장적 재정 운용이 불가피한 상황에서 재정이 적극적인 역할을 지속하고, 재정의 장기적인 회복탄력성을 유지하려면 적극적인 세출 구조조정이 병행될 필요
+- 통계청에 따르면 가사서비스 결제금액은 2017년 기준 7조 5천억 원이고 2019년에는 2017년보다 214% 증가하였음. 2019년 추정 근로자 규모는 공식부문 20만~40만 명, 비공식 부문까지 포함 시 최대 60만 명임. 통계청의 2020년 하반기 지역별 고용조사에 따르면 가사근로자는 전국 10만 5천 명, 서울시 3만 8천 명이었음.
 
-- 서울시가 2015년 도입한 지방자치단체 주요 재정사업 평가제도는 사업의 성과를 평가하여 그 결과를 예산편성과 직접 연계하는 세출 구조조정의 수단임.
-
-- 유사한 성격의 사업 평가제도로 사전심사인 지방재정 투자심사가 있는데, 투자심사는 주요 투자사업의 필요성과 계획의 타당성 등을 사전에 심사하여 사업의 추진 여부를 결정하는 제도이고 예산의 배분과는 관련성이 낮음.
-
-- 또한, 사후평가 제도로 지방보조사업 평가, 민간위탁 종합 성과평가 등을 들 수 있는데, 이 제도들은 평가결과를 일부 예산에 반영하지만 직접적으로 연계하지는 않음.
-
-- 반면, 서울시 주요 재정사업 평가제도는 성과가 미흡한 사업의 예산 삭감과 일몰을 원칙으로 하여 재정의 여력을 확보하기 위한 유일한 제도임.]]></summary>
+- 전통적인 가사서비스 시장에서의 거래는 축소되고 플랫폼 시장으로 이동하는 양상임. 직업소개소가 중개하는 기존의 시장은 근로자가 고령화되고 인력공급이 원활하지 않음. 그 대신 가사서비스 플랫폼 시장은 온·오프라인 연계(Online to Offline; O2O) 시장과 함께 성장하여 이용자와 근로자 모두 원하는 시간을 선택하거나 원하는 항목을 선택할 수 있도록 서비스가 세분화하였음. 하지만 가사서비스 시장은 기술 발전과 규모의 경제가 발생하면서 온디맨드(on demand: 수요가 모든 것을 결정하는 시스템)화 되고 이용자의 평가시스템이 강조되었음. 이로 인해 근로자는 더 좋은 평점을 얻기 위해 추가 노동을 수행하여 노동강도가 심해지고, 이용자의 여성 선호가 분명해 성별 직종분리가 정체되어 있음.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 국채 수익률곡선 전망과 시장 영향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165653</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165653"/>
-        <updated>2022-04-26T12:01:59.807Z</updated>
-        <summary type="html"><![CDATA[국제금융센터가 「미국 국채 수익률곡선 전망과 시장 영향」을 발표하였다.
+        <title type="html"><![CDATA[지역성장잠재력 분석과 정책시사점]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165656</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165656"/>
+        <updated>2022-04-26T15:01:38.935Z</updated>
+        <summary type="html"><![CDATA[산업연구원이 「지역성장잠재력 분석과 정책시사점」을 발표하였다.
 
-- [이슈] 미국 국채 수익률곡선은 4월초 2년물 금리가 10년물보다 빠르게 상승하며 ’19년 8월 이래 첫 역전이 발생(금리차 4/1일 -7bp, 4/4일 -3bp)했으나 이틀만에 해소. 역전 해소 이후 10년물 금리가 크게 상승하며 수익률곡선 경사화(steepening) 진행
+- 지역성장잠재력이란 현재 또는 미래의 성장에 기여할 수 있는 성장요인의 총체. 디지털경제시대의 핵심 성장잠재력은 인적자본 역량과 지역의 혁신 역량에 기반하여 발현되는 기업ㆍ산업 역량. 따라서 지역성장잠재력(Regional Growth Potential: RGP)은 지역 성장성과(Y), 기업ㆍ산업 역량(K), 인적자본 역량(H), 지역혁신 역량(I), 지역사회 역량(S)의 합으로 정의
 
-- [전망] 현재 미국 국채시장에는 수익률곡선 경사화 요인 및 평탄화 요인이 혼재된 상태이나 향후 평탄화+역전 재개 가능성이 다소 우세. 
- · (경사화 요인) 연준 양적긴축(QT), 인플레이션 정점 통과 가능성, 경기 낙관론 등 
- · (평탄화 요인) 연준 ‘빅스텝’ 금리인상 예정, 인플레이션 지속 또는 상승 가능성, 성장 둔화 우려, 지정학적 리스크(러-우크라, 중국 봉쇄), 장기국채 투자 수요(연기금 등) 등 
+- 초광역권과 광역시ㆍ도 단위로 지역성장잠재력 지수를 분석한 결과를 종합하면, ① 지역성장잠재력은 ‘인적자본 역량/지역혁신 역량/지역사회 환경 ⇒ 기업ㆍ산업 역량 ⇒ 지역 성장성과’로 발현되는 메커니즘을 갖고 있음을 확인 ② 지역성장잠재력의 발현 메커니즘은 광역시ㆍ도의 공간범위보다 초광역권의 공간범위에서 높은 상관관계를 갖는 것으로 나타남.  ③ 수도권ㆍ충청권과 그 외 초광역권 간의 성장잠재력 격차가 더욱 확대되는 경향 ④ 우리나라 주력제조업의 집적지역인 동남권과 대경권의 상대적 성장잠재력 저하가 심각한 문제로서 국가 산업정책 차원의 주요 과제로 접근할 필요 ⑤ 광역시ㆍ도별로 성장잠재력이 우수한 지역과 열위의 지역 간 특성이 명확하게 구분 
 
-- [과거 수익률곡선 시장 영향] 달러화는 수익률곡선(10년-2년) 평탄화 시기에는 강세, 경사화 시기에는 약세를 보이는 경향. 美 주가는 평탄화 시기에 대체로 상승했으나 1973년과 같은 높은 인플레이션 시기에는 장단기금리 역전 이후 큰 폭 하락
- ·1970년대 이후 수익률곡선이 뚜렷하게 평탄화 또는 경사화된 시기를 각 8개 구간씩 분석한 결과, 달러 및 주가 모두 평탄화+역전 시기에 상대적으로 강세를 보이는 경향이 관찰(본문 표 참조). 대부분 금리인상기와 겹치는 수익률곡선 평탄화 시기에는 달러화 가치가 평균 11% 상승, 주가는 17.1% 상승. 금리인하기인 수익률곡선 경사화 시기에는 달러화 가치가 평균 -6.6% 하락, 주가는 +6.2% 상승
- · 다만 인플레이션이 높았던 1972~1973년 평탄화 시기에는 달러화는 -7.9%, 주가는 -10% 하락했으며 장단기금리 역전 이후 2년간 주가 -31% 하락
+- 지역산업정책은 기업과 사람에 체화된 기술혁신 역량 강화를 핵심적인 과제로 추진할 필요. 이를 위해 기존 주력산업에 대한 혁신투자 확대 및 신산업 육성 강화, 디지털경제시대 혁신을 선도할 인력의 양성 및 인력 중심의 혁신지원 확대, 초광역 경제권역의 중추도시(메가시티)를 중심으로 제조업 연계형 지식서비스산업 육성 등을 제시]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국의 빅테크 기업 규제 전망 및 영향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165711</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165711"/>
+        <updated>2022-04-26T15:01:38.915Z</updated>
+        <summary type="html"><![CDATA[국제금융센터는 「미국의 빅테크 기업 규제 전망 및 영향」을 발표하였다.
 
-- [시사점] 향후에도 국채 수익률곡선 움직임을 예의 주시할 필요. 과거 수익률곡선 평탄화 시기에는 주가 및 달러가 대체로 강세를 보였으나, 높은 인플레이션 등의 측면에서 최근 상황과 유사점이 있는 ’73년도의 사례에 보다 주목할 필요. 인플레이션이 지속되고 연준의 50bp 연속 금리인상 등 공격적 통화긴축 기조가 본격화될 경우 수익률곡선 평탄화 및 장단기금리 역전이 재현될 소지]]></summary>
+- [동향] 빅테크 중심의 시장집중 심화에 따른 부작용 우려가 확대되면서 바이든 행정부와 의회는 행정명령, 입법 추진 등을 통해 빅테크 기업 규제를 강화
+
+-  (빅테크 중심 시장집중 심화) `90년대 이후 세계화, 디지털화, 무형자산·매몰비용 중요성 확대 등으로 시장집중 현상이 심화했으며 특히 `10년대 이후 빅테크 시장점유율이 가파르게 상승 (경제/금융 부작용 우려 확대) 디지털 경제의 고유한 특성이 시장집중 현상에 따른 부작용을 심화. 조세회피, 과도한 지대추구, 소득 불평등, 금융시스템 리스크 증가 등이 우려 (정책 경과) 바이든 대통령은 `21.7월 경쟁촉진에 관한 행정명령을 발동했으며, 의회는 빅테크 기업들에 대한 규제 강화 법안을 발의.
+
+- [전망] 단기내 빅테크 기업 규제 입법절차 완료는 쉽지 않을 것으로 보이나 반독점 규제의 패러다임 전환과 글로벌 규제강화를 촉진할 가능성
+
+- (장기정책과제로 지속 추진) 주요 정치일정과 법안의 광범위성 감안시 단기내 입법 완료는 어려울 수 있지만, 중장기 정책과제로 추진될 전망 (미국내 규제 패러다임의 전환) 셔먼법 이후 100년만에 이루어지는 경쟁법 정비(WP).사전(ex ante) 요구를 강화하고, 독점 여부의 판단 기준이 변화하는 등 패러다임 전환 (글로벌 반독점 규제강화 촉진) 미국 외 유럽 등에서도 빅테크 규제를 강화하고 있어 글로벌 표준 수립을 위한 논의가 강화되고 도입 국가도 확대될 전망
+
+- [영향] 빅테크 기업 규제 강화로 시장집중도 완화에는 한계가 있겠으나 빅테크 기업경영의 상당한 변화가 불가피할 것으로 보이며, 이는 관련 기업들의 주가 하방압력으로 작용할 소지
+
+- (시장집중도 완화에는 한계) 단기내 기업분할 추진으로까지 이어지지는 않을 전망 (빅테크 기업경영의 상당한 변화 촉진) 기업 펀더멘탈에 미치는 영향은 제한적이나, 입증 부담에 따른 인수합병 축소 등 기업운용에는 상당한 변화를 초래할 소지 (주가 하방압력) 금리인상에 따른 자금조달 부담과 규제강화 기조 감안시 향후 수년간 2010년대와 같은 빅테크 주가의 지속적인 높은 상승세 재연은 기대난(Capital Economics)]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -325,7 +353,7 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         <title type="html"><![CDATA[빅데이터 기반 모빌리티 패턴 변화]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165685</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165685"/>
-        <updated>2022-04-26T12:01:59.796Z</updated>
+        <updated>2022-04-26T15:01:38.889Z</updated>
         <summary type="html"><![CDATA[국토연구원이 「빅데이터 기반 모빌리티 패턴 변화」를 발표하였다.
 
 - 과거 설문조사 등으로 파악했던 개인의 하루 이동궤적을 최근에는 스마트폰의 GPS 기술이 적용된 앱(App)을 통해 빅데이터 형태로 수집 가능
@@ -344,13 +372,67 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전일제 환산 취업자로 본 고용의 변화]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165657</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165657"/>
-        <updated>2022-04-26T12:01:59.787Z</updated>
-        <summary type="html"><![CDATA[한국경제연구원이 『전일제 환산 취업자로 본 고용의 변화』를 발표하였다.
+        <title type="html"><![CDATA[새정부 출범후 한일관계 전망 기업 인식 조사]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165686</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165686"/>
+        <updated>2022-04-26T15:01:38.854Z</updated>
+        <summary type="html"><![CDATA[대한상공회의소가 「새정부 출범후 한일관계 전망 기업 인식 조사」를 발표하였다.
 
-- 코로나19 발발 전후로 심각한 타격을 받았던 우리나라 노동시장이 최근 들어 긍정적인 통계수치를 보여주고 있음. 금융당국은 이를 적극 반영해 기준금리 인상 등 통화정책을 펴고, 재정당국도 이를 정책 홍보에 적극 활용했음. 그러나 통계청에서 발표하는 고용통계는 2018년경부터 단시간 일자리 비중 증가에 따라 현실과 점점 동떨어졌다는 지적을 받고 있음. 본 보고서는 이 같은 괴리를 보정하기 위해 OECD에서 사용하는 전일제 환산(Full Time Equivalent) 방식의 고용통계를 산출해 분석하고자 함. 보다 정확한 상황 파악과 정책 결정을 위함임.]]></summary>
+- 대한상의, 327개사 조사 “기업 45%가 새정부 출범 후 韓日관계 좋아질 것으로 기대”
+
+- 기업 절반, 한일관계 회복시 “對日교역 확대”(50.4%) ‘수출규제 등 무역마찰 해소’ 시급(39.4%)
+
+- 한일협력 분야로는 ‘반도체 등 공급망협력’(48.3%), ‘청년 취업 등 인적교류’(19.0%) 등 기대
+
+- ‘반도체 등 공급망 재편에 따른 협력’(48.3%) 기대, 새정부의 외교정책으로 ‘미중일 균형외교’(45.3%), ‘한미 동맹 강화’(27.5%) 꼽아]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재산평가와 과세를 일원화하는 지방분권형 과표산정체계 도입의 필요성]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165650</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165650"/>
+        <updated>2022-04-26T15:01:38.823Z</updated>
+        <summary type="html"><![CDATA[한국지방세연구원이 「재산평가와 과세를 일원화하는 지방분권형 과표산정체계 도입의 필요성」을 발표하였다.
+
+- 부동산 공시가격이 적정 수준의 시세를 반영할 수 있도록 2020년 11월 3일 “부동산 공시가격 현실화 계획”이 발표되었음. 이 계획은 현실화율을 연 3%p씩 제고하여, 10~15년에 걸쳐 시세의 90% 수준까지 공시가격을 현실화하는 것임.
+
+- 공시지가 현실화 과정에서 부동산 공시가격의 형평성 등의 문제로 인해 현재의 부동산 가격산정체계의 개선 필요성이 제기됨. 2021년 전국 공동주택 이의신청 비율은 전년 대비 증가하여 전년도 0.06%의 1.67배 수준인 0.1%(14,200호)임. 
+
+- 해외 주요 국가는 재산세의 과세권자인 지방정부가 부동산을 평가하고, 매년이 아닌 일정한 주기로 재평가함으로써 부동산 평가 예산을 효율적으로 운영함. 지역의 사정을 잘 알고 있는 지방정부가 부동산을 평가함으로써 행정의 효율성을 도모하고, 과세평가와 재산과세가 일원화됨으로써 납세자의 세부담 적정성을 제고함. 비정기 및 2년 이상으로 재평가 주기를 운영함으로써 많은 비용이 드는 부동산평가의 효율적인 운영을 도모하고 예산을 절감함.
+
+- 부동산 가격산정은 재산세 과세의 근간이 되는 핵심적인 업무이기 때문에 부동산 과세평가와 과세는 일원화 되어야 함. 재산세 과세시 부동산 현황을 조사하여 과세하고 있는데, 공시가격 조사와 재산세 현황조사가 불일치하는 경우 세부담의 차이로 인해 민원이 발생함. 부동산 공시가격 산정이 적정하지 않거나 오류가 있는 경우 과세권자인 지방자치단체가 이를 조정할수 없어 과세오류 및 과세불형평으로 이어짐.
+
+- 세부담 적정성 제고를 위해 지방자치단체를 중심으로 과표산정체계를 재편하여 지방자치단체가 실질적으로 공시가격을 산정·조정하고 검증할 수 있도록 하는 것이 바람직함. 1989년 공시지가 도입 이전과 같이 지방자치단체 중심의 부동산 가격산정체계를 구축하여 지방자치에 부합되는 분권형 체계를 통해 공시가격의 균형성과 신뢰성을 제고하여야 함.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부동산 프롭테크의 생태계 발전 방향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165661</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165661"/>
+        <updated>2022-04-26T15:01:38.802Z</updated>
+        <summary type="html"><![CDATA[하나금융경영연구소가 「부동산 프롭테크의 생태계 발전 방향」을 발표하였다.
+
+- 부동산과 기술의 결합 분야인 프롭테크(PropTech)는 기존 부동산 산업의 효율성 제고를 목적으로 여러 나라에서 발전하고 있음. 기존 부동산 산업에 비해 프롭테크 산업은 상호 유기적 관련성으로 생태계 내의 협업을 파악하는 것이 중요함. 
+
+- 스타트업 기업들은 사업 협력을 통해 타 기업들과 협업을 주로 진행하는 것으로 파악되었음. 국내 프롭테크의 활발한 협업 및 지속 발전을 위해서는 기업들 간의 공생 생태계 조성을 통한 기업과 정부의 노력이 필요한 시점임.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제유가 및 시장 동향(886호, 2022.04.19)]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165712</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165712"/>
+        <updated>2022-04-26T15:01:38.769Z</updated>
+        <summary type="html"><![CDATA[국제금융센터는 「미국의 빅테크 기업 규제 전망 및 영향」을 발표하였다.
+
+- (현물 유가) 4월 둘째 주 국제 유가는 OPEC의 석유공급 파동 경고, EU의 단계적인 러시아 석유금수 추진 소식 등으로 상승했고, 세계 석유수요 둔화 전망 등은 상승폭을 제한함.
+
+- (선물 유가) 4월 12일 기준 NYMEX-WTI 선물 유가는 전주(4월 5일) 대비 $1.36/배럴(1.33%) 하락한 $100.60/배럴을 기록함. 미국 상품선물거래위원회(CFTC)가 발표한 4월 12일 기준 NYMEX의 투기성 자금에 의한 원유(WTI) 선물거래 순매수는 전주보다 3.8백만 배럴 감소한 304.8백만 배럴을 기록함.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
@@ -359,7 +441,7 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         <title type="html"><![CDATA[시니어 기술창업 실태와 활성화 방안: 베이비 부머의 기술창업 촉진을 중심으로]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165689</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165689"/>
-        <updated>2022-04-26T12:01:59.772Z</updated>
+        <updated>2022-04-26T15:01:38.737Z</updated>
         <summary type="html"><![CDATA[산업연구원이 「시니어 기술창업 실태와 활성화 방안: 베이비 부머의 기술창업 촉진을 중심으로」를 발표하였다.
 
 - 인구구조의 고령화, 글로벌 경제환경의 변화, 코로나19 이후 예상되는 기업구조조정 등에 대응하면서 질 좋은 일자리를 창출하기 위해서는 축적의 기술·경험·네트워크에 기반한 시니어(베이비 부머) 기술창업 활성화 필요 
@@ -384,120 +466,10 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부동산 프롭테크의 생태계 발전 방향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165661</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165661"/>
-        <updated>2022-04-26T12:01:59.758Z</updated>
-        <summary type="html"><![CDATA[하나금융경영연구소가 「부동산 프롭테크의 생태계 발전 방향」을 발표하였다.
-
-- 부동산과 기술의 결합 분야인 프롭테크(PropTech)는 기존 부동산 산업의 효율성 제고를 목적으로 여러 나라에서 발전하고 있음. 기존 부동산 산업에 비해 프롭테크 산업은 상호 유기적 관련성으로 생태계 내의 협업을 파악하는 것이 중요함. 
-
-- 스타트업 기업들은 사업 협력을 통해 타 기업들과 협업을 주로 진행하는 것으로 파악되었음. 국내 프롭테크의 활발한 협업 및 지속 발전을 위해서는 기업들 간의 공생 생태계 조성을 통한 기업과 정부의 노력이 필요한 시점임.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새정부 출범후 한일관계 전망 기업 인식 조사]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165686</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165686"/>
-        <updated>2022-04-26T12:01:59.747Z</updated>
-        <summary type="html"><![CDATA[대한상공회의소가 「새정부 출범후 한일관계 전망 기업 인식 조사」를 발표하였다.
-
-- 대한상의, 327개사 조사 “기업 45%가 새정부 출범 후 韓日관계 좋아질 것으로 기대”
-
-- 기업 절반, 한일관계 회복시 “對日교역 확대”(50.4%) ‘수출규제 등 무역마찰 해소’ 시급(39.4%)
-
-- 한일협력 분야로는 ‘반도체 등 공급망협력’(48.3%), ‘청년 취업 등 인적교류’(19.0%) 등 기대
-
-- ‘반도체 등 공급망 재편에 따른 협력’(48.3%) 기대, 새정부의 외교정책으로 ‘미중일 균형외교’(45.3%), ‘한미 동맹 강화’(27.5%) 꼽아]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지역성장잠재력 분석과 정책시사점]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165656</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165656"/>
-        <updated>2022-04-26T12:01:59.738Z</updated>
-        <summary type="html"><![CDATA[산업연구원이 「지역성장잠재력 분석과 정책시사점」을 발표하였다.
-
-- 지역성장잠재력이란 현재 또는 미래의 성장에 기여할 수 있는 성장요인의 총체. 디지털경제시대의 핵심 성장잠재력은 인적자본 역량과 지역의 혁신 역량에 기반하여 발현되는 기업ㆍ산업 역량. 따라서 지역성장잠재력(Regional Growth Potential: RGP)은 지역 성장성과(Y), 기업ㆍ산업 역량(K), 인적자본 역량(H), 지역혁신 역량(I), 지역사회 역량(S)의 합으로 정의
-
-- 초광역권과 광역시ㆍ도 단위로 지역성장잠재력 지수를 분석한 결과를 종합하면, ① 지역성장잠재력은 ‘인적자본 역량/지역혁신 역량/지역사회 환경 ⇒ 기업ㆍ산업 역량 ⇒ 지역 성장성과’로 발현되는 메커니즘을 갖고 있음을 확인 ② 지역성장잠재력의 발현 메커니즘은 광역시ㆍ도의 공간범위보다 초광역권의 공간범위에서 높은 상관관계를 갖는 것으로 나타남.  ③ 수도권ㆍ충청권과 그 외 초광역권 간의 성장잠재력 격차가 더욱 확대되는 경향 ④ 우리나라 주력제조업의 집적지역인 동남권과 대경권의 상대적 성장잠재력 저하가 심각한 문제로서 국가 산업정책 차원의 주요 과제로 접근할 필요 ⑤ 광역시ㆍ도별로 성장잠재력이 우수한 지역과 열위의 지역 간 특성이 명확하게 구분 
-
-- 지역산업정책은 기업과 사람에 체화된 기술혁신 역량 강화를 핵심적인 과제로 추진할 필요. 이를 위해 기존 주력산업에 대한 혁신투자 확대 및 신산업 육성 강화, 디지털경제시대 혁신을 선도할 인력의 양성 및 인력 중심의 혁신지원 확대, 초광역 경제권역의 중추도시(메가시티)를 중심으로 제조업 연계형 지식서비스산업 육성 등을 제시]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저출산 극복을 위한 세제혜택 확대방안 검토]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165713</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165713"/>
-        <updated>2022-04-26T12:01:59.724Z</updated>
-        <summary type="html"><![CDATA[한구경제연구원은 「저출산 극복을 위한 세제혜택 확대방안 검토」를 발표하였다.
-
-- 우리나라는 OECD에서 가장 낮은 출산율을 기록하고 있고, 2019년부터 자연인구감소가 발생했으며, 이에 2030~2060년 잠재성장률도 OECD 최하위가 예상됨. 
-
-- 조세정책도 혼인과 출산·양육을 장려하고 유도해야 하는데 혼인에 대한 특별한 세제혜택은 없으며, 일본의 혼인·출산·육아비용 등 증여세 비과세 같은 적극적인 세제지원도 없음. 특히, OECD 통계에 따르면 다른 국가에 비해 유자녀가구에 대한 세제혜택이 크게 부족한 상황이므로, 자녀가 있는 부부에 대한 부족한 세제혜택을 확대해서 혼인과 출산을 장려해야 함. OECD 평균 2자녀 홑벌이가구와 독신가구의 조세격차 차이가 10.2%p인데 비하여 우리나라의 2자녀 홑벌이가구와 독신가구의 조세격차 차이는 5.0%p에 불과해 유자녀가구에 대한 세제혜택이 부족함을 알 수 있음.
-
-- 우리나라의 미래, 즉 잠재성장률 제고를 위한 저출산 극복이 중요한 상황에서, 혼인과 출산을 장려하고 양육부담을 경감하기 위한 적극적이고 실효성 있는 세제 개선방안, 즉 세제혜택 확대가 필요함. 
-
-- ① 저출산 대책의 시작인 혼인율 증가를 위해 혼인세액공제, 선택적 2분2승제 도입, 혼인 등 비용에 대한 증여세 비과세 특례가 도입되어야 함. 총급여 8,000만원 이하 근로자의 혼인 시 1인당 100만원의 세액공제, 소득세 과세단위를 혼인한 부부에게 유리한 2분2승제로 전환, 혼인 등 비용에 대한 증여세 비과세 특례 같은 새롭고 적극적인 대책이 필요.② 양육에 대한 부담이 경감되도록 N분N승제, 자녀세액공제액 인상, 소득공제상 자녀의 범위 확대, 교육비 세액공제 한도액 인상 등 세제혜택을 확대해 다자녀가구를 장려하고 유인. 다자녀를 장려하기 위해 2분2승제에서 더 나아가 가구구성원 합산 후 균등분할하는 N분N승제 도입, 특히 다자녀에 대한 세액공제액 대폭 인상이 필요]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제유가 및 시장 동향(886호, 2022.04.19)]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165712</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165712"/>
-        <updated>2022-04-26T12:01:59.703Z</updated>
-        <summary type="html"><![CDATA[국제금융센터는 「미국의 빅테크 기업 규제 전망 및 영향」을 발표하였다.
-
-- (현물 유가) 4월 둘째 주 국제 유가는 OPEC의 석유공급 파동 경고, EU의 단계적인 러시아 석유금수 추진 소식 등으로 상승했고, 세계 석유수요 둔화 전망 등은 상승폭을 제한함.
-
-- (선물 유가) 4월 12일 기준 NYMEX-WTI 선물 유가는 전주(4월 5일) 대비 $1.36/배럴(1.33%) 하락한 $100.60/배럴을 기록함. 미국 상품선물거래위원회(CFTC)가 발표한 4월 12일 기준 NYMEX의 투기성 자금에 의한 원유(WTI) 선물거래 순매수는 전주보다 3.8백만 배럴 감소한 304.8백만 배럴을 기록함.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국·공유지 개발의 유연성 확보방안: 일본 국·공유지 활용사례를 중심으로]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165688</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165688"/>
-        <updated>2022-04-26T12:01:59.659Z</updated>
-        <summary type="html"><![CDATA[국토연구원이 「국·공유지 개발의 유연성 확보방안: 일본 국·공유지 활용사례를 중심으로」를 발표하였다.
-
-- 일본에서 국가와 지방정부가 소유한 공적 부동산의 면적은 일본 국토 면적의 약 31.5%를 차지
-
--  일본은 전체 부동산 중 국가 및 지방정부가 소유한 부동산을 공적 부동산으로 명명하고 경제활성화와 재정건전화를 위해 공적 부동산의 공익적 활용전략을 수립 및 실천함. 또한, 공공이 주도하는 개발사업의 한계를 극복하기 위해 공적 부동산을 대상으로 한 부동산 증권화 수법 활용
-
-- 일본은 매각, 재개발, 집약개발, 이전·교환, 민간에 임대, 용도전환의 여섯 가지 방식을 통해 국·공유지를 활용
-
--  한국 또한 국유지 개발사업을 통한 지방자치단체의 당면 문제 해결을 지향하고자 국유지와 공유지 통합개발을 추진하고, 지방공사의 참여를 유도하는 등 국가와 지방자치단체 간의 협업이 필요하며 개발이 가능한 재산의 확대가 필요]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가계부채 수준 및 증가세 추이와 대응방안]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165659</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165659"/>
-        <updated>2022-04-26T12:01:59.640Z</updated>
-        <summary type="html"><![CDATA[한국금융연구원이 「가계부채 수준 및 증가세 추이와 대응방안」을 발표하였다.
-
-- 국내 가계신용은 신용카드 사태 이후 지속적으로 증가해왔으며 코로나19 이후 증가속도가 가속화됨. 국내 금융당국은 가계부채 증가세를 완화하기 위해 다양한 방안을 추진해 왔지만, 이러한 방안들이 ‘가계부채 증가세’에 집중해 왔으며 누증한 ‘가계부채 수준’에는 적절히 대응하지 못한다는 한계가 있음. 가계부채의 과도한 누적이 우리 경제에 미치는 중장기적인 악영향을 고려할 때 국내 금융당국은 가계부채 증가속도와 함께 누적된 가계부채 수준에도 효과적으로 대응하기 위한 방안을 검토할 필요가 있음.]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[일본 DBJ의 지역경제 활성화 지원 동향]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165714</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165714"/>
-        <updated>2022-04-26T12:01:59.621Z</updated>
+        <updated>2022-04-26T15:01:38.714Z</updated>
         <summary type="html"><![CDATA[KDB미래전략연구소은 「일본 DBJ의 지역경제 활성화 지원 동향」을 발표하였다.
 
 - 일본정책투자은행(Development Bank of Japan)은 설립 이래 산업 육성, 인프라 확충 뿐만 아니라 지역경제 활성화를 위한 금융지원을 실시하여 왔으며, 지역에 대한 자금공급을 촉진하고자 조직을 변경
@@ -512,54 +484,100 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Powell의장 IMF세미나 발언내용]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165715</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165715"/>
-        <updated>2022-04-26T12:01:59.574Z</updated>
-        <summary type="html"><![CDATA[한국은행은 「 파월의장 IMF세미나 발언내용」을 발표하였다.
+        <title type="html"><![CDATA[국·공유지 개발의 유연성 확보방안: 일본 국·공유지 활용사례를 중심으로]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165688</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165688"/>
+        <updated>2022-04-26T15:01:38.591Z</updated>
+        <summary type="html"><![CDATA[국토연구원이 「국·공유지 개발의 유연성 확보방안: 일본 국·공유지 활용사례를 중심으로」를 발표하였다.
 
-- (미국경제 향후 전망) 미국은 유럽에 비해 전쟁의 즉각적인 영향(immediate effects)으로부터 조금 멀리 떨어져 있음. 그러나 시간이 지남에 따라 전쟁의 영향은 인플레이션 상승압력과 생산량에 대한 약간의 하강압력의 형태로 나타날 것임
+- 일본에서 국가와 지방정부가 소유한 공적 부동산의 면적은 일본 국토 면적의 약 31.5%를 차지
 
-- (통화긴축 관련) 기본적으로 연준의 목표는 정책수단을 사용하여 수요와 공급을 다시 일치하게해서 경기침체 없이 인플레이션을 낮추는 연착륙(soft landing)을 달성하는 것임. 이는 매우 어려운 일이지만, 연준은 이를 달성하기 위해 최선을 다할 것임. 물가안정 없이는 경제가 작동하지 않으며, 장기간의 강력한 노동시장과 재정안정도 이룰 수 없기 때문에 가격안정을 회복하는 것이 절대적으로 중요
+-  일본은 전체 부동산 중 국가 및 지방정부가 소유한 부동산을 공적 부동산으로 명명하고 경제활성화와 재정건전화를 위해 공적 부동산의 공익적 활용전략을 수립 및 실천함. 또한, 공공이 주도하는 개발사업의 한계를 극복하기 위해 공적 부동산을 대상으로 한 부동산 증권화 수법 활용
 
--(금리인상 관련) 지난번 FOMC 회의결과와 의사록에 따르면 많은 FOMC 참석자들은 한 번 또는 그 이상(one or more)의 50bp 금리인상이 적절하다고 생각했음. 시장이 연준이 말하는 것을 해석하고, 대체로 적절하게 반응하고 있다고 생각. 
+- 일본은 매각, 재개발, 집약개발, 이전·교환, 민간에 임대, 용도전환의 여섯 가지 방식을 통해 국·공유지를 활용
 
--(미국인플레이션 관련) 이번 IMF 미팅의 논의결과 발견한 몇 가지를 말씀드리자면, 첫째 인플레이션이 전세계적인 문제라는 것임. 인플레이션이 도처에 있고, 대부분 높은 상황임. 하지만 각 지역마다 차이점도 있음. 미국은 유럽 등에 비해 매우 강한 경제성장과 높은 인플레이션 상황에 있음. 기조적인 물가수준과 중앙은행들의 목표(domestic mandates)도 다름
-
-- (우-러 전쟁, 중국 셧다운 상황에서의 인플레이션 통제) 연준의 통화정책은 공급측면의 문제, 식량과 에너지 가격에 영향을 미칠 수 없으므로 결국 연준이 할 수 있는 것은 정책수단을 가지고 수요에 영향을 미치는 것임.
-
-- (글로벌화 역전 관련) 확실히 가능한 결과일 수 있음. 더 높은 인플레이션과 낮은 생산성을 가지겠지만, 더 회복력이 강하고 탄력적인 공급망을 가진 세상일 수 있음. 현재의 공급망은 매우 효율적이지만 매우 취약한 것으로 판명되었음. 글로벌화가 역전되었는지는 분명하지 않지만 확실히 느려졌고 역전될지도 모른다고 생각함]]></summary>
+-  한국 또한 국유지 개발사업을 통한 지방자치단체의 당면 문제 해결을 지향하고자 국유지와 공유지 통합개발을 추진하고, 지방공사의 참여를 유도하는 등 국가와 지방자치단체 간의 협업이 필요하며 개발이 가능한 재산의 확대가 필요]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국의 빅테크 기업 규제 전망 및 영향]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165711</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165711"/>
-        <updated>2022-04-26T12:01:59.552Z</updated>
-        <summary type="html"><![CDATA[국제금융센터는 「미국의 빅테크 기업 규제 전망 및 영향」을 발표하였다.
+        <title type="html"><![CDATA[미국 국채 수익률곡선 전망과 시장 영향]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165653</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165653"/>
+        <updated>2022-04-26T15:01:38.571Z</updated>
+        <summary type="html"><![CDATA[국제금융센터가 「미국 국채 수익률곡선 전망과 시장 영향」을 발표하였다.
 
-- [동향] 빅테크 중심의 시장집중 심화에 따른 부작용 우려가 확대되면서 바이든 행정부와 의회는 행정명령, 입법 추진 등을 통해 빅테크 기업 규제를 강화
+- [이슈] 미국 국채 수익률곡선은 4월초 2년물 금리가 10년물보다 빠르게 상승하며 ’19년 8월 이래 첫 역전이 발생(금리차 4/1일 -7bp, 4/4일 -3bp)했으나 이틀만에 해소. 역전 해소 이후 10년물 금리가 크게 상승하며 수익률곡선 경사화(steepening) 진행
 
--  (빅테크 중심 시장집중 심화) `90년대 이후 세계화, 디지털화, 무형자산·매몰비용 중요성 확대 등으로 시장집중 현상이 심화했으며 특히 `10년대 이후 빅테크 시장점유율이 가파르게 상승 (경제/금융 부작용 우려 확대) 디지털 경제의 고유한 특성이 시장집중 현상에 따른 부작용을 심화. 조세회피, 과도한 지대추구, 소득 불평등, 금융시스템 리스크 증가 등이 우려 (정책 경과) 바이든 대통령은 `21.7월 경쟁촉진에 관한 행정명령을 발동했으며, 의회는 빅테크 기업들에 대한 규제 강화 법안을 발의.
+- [전망] 현재 미국 국채시장에는 수익률곡선 경사화 요인 및 평탄화 요인이 혼재된 상태이나 향후 평탄화+역전 재개 가능성이 다소 우세. 
+ · (경사화 요인) 연준 양적긴축(QT), 인플레이션 정점 통과 가능성, 경기 낙관론 등 
+ · (평탄화 요인) 연준 ‘빅스텝’ 금리인상 예정, 인플레이션 지속 또는 상승 가능성, 성장 둔화 우려, 지정학적 리스크(러-우크라, 중국 봉쇄), 장기국채 투자 수요(연기금 등) 등 
 
-- [전망] 단기내 빅테크 기업 규제 입법절차 완료는 쉽지 않을 것으로 보이나 반독점 규제의 패러다임 전환과 글로벌 규제강화를 촉진할 가능성
+- [과거 수익률곡선 시장 영향] 달러화는 수익률곡선(10년-2년) 평탄화 시기에는 강세, 경사화 시기에는 약세를 보이는 경향. 美 주가는 평탄화 시기에 대체로 상승했으나 1973년과 같은 높은 인플레이션 시기에는 장단기금리 역전 이후 큰 폭 하락
+ ·1970년대 이후 수익률곡선이 뚜렷하게 평탄화 또는 경사화된 시기를 각 8개 구간씩 분석한 결과, 달러 및 주가 모두 평탄화+역전 시기에 상대적으로 강세를 보이는 경향이 관찰(본문 표 참조). 대부분 금리인상기와 겹치는 수익률곡선 평탄화 시기에는 달러화 가치가 평균 11% 상승, 주가는 17.1% 상승. 금리인하기인 수익률곡선 경사화 시기에는 달러화 가치가 평균 -6.6% 하락, 주가는 +6.2% 상승
+ · 다만 인플레이션이 높았던 1972~1973년 평탄화 시기에는 달러화는 -7.9%, 주가는 -10% 하락했으며 장단기금리 역전 이후 2년간 주가 -31% 하락
 
-- (장기정책과제로 지속 추진) 주요 정치일정과 법안의 광범위성 감안시 단기내 입법 완료는 어려울 수 있지만, 중장기 정책과제로 추진될 전망 (미국내 규제 패러다임의 전환) 셔먼법 이후 100년만에 이루어지는 경쟁법 정비(WP).사전(ex ante) 요구를 강화하고, 독점 여부의 판단 기준이 변화하는 등 패러다임 전환 (글로벌 반독점 규제강화 촉진) 미국 외 유럽 등에서도 빅테크 규제를 강화하고 있어 글로벌 표준 수립을 위한 논의가 강화되고 도입 국가도 확대될 전망
-
-- [영향] 빅테크 기업 규제 강화로 시장집중도 완화에는 한계가 있겠으나 빅테크 기업경영의 상당한 변화가 불가피할 것으로 보이며, 이는 관련 기업들의 주가 하방압력으로 작용할 소지
-
-- (시장집중도 완화에는 한계) 단기내 기업분할 추진으로까지 이어지지는 않을 전망 (빅테크 기업경영의 상당한 변화 촉진) 기업 펀더멘탈에 미치는 영향은 제한적이나, 입증 부담에 따른 인수합병 축소 등 기업운용에는 상당한 변화를 초래할 소지 (주가 하방압력) 금리인상에 따른 자금조달 부담과 규제강화 기조 감안시 향후 수년간 2010년대와 같은 빅테크 주가의 지속적인 높은 상승세 재연은 기대난(Capital Economics)]]></summary>
+- [시사점] 향후에도 국채 수익률곡선 움직임을 예의 주시할 필요. 과거 수익률곡선 평탄화 시기에는 주가 및 달러가 대체로 강세를 보였으나, 높은 인플레이션 등의 측면에서 최근 상황과 유사점이 있는 ’73년도의 사례에 보다 주목할 필요. 인플레이션이 지속되고 연준의 50bp 연속 금리인상 등 공격적 통화긴축 기조가 본격화될 경우 수익률곡선 평탄화 및 장단기금리 역전이 재현될 소지]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저출산 극복을 위한 세제혜택 확대방안 검토]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165713</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165713"/>
+        <updated>2022-04-26T15:01:38.556Z</updated>
+        <summary type="html"><![CDATA[한구경제연구원은 「저출산 극복을 위한 세제혜택 확대방안 검토」를 발표하였다.
+
+- 우리나라는 OECD에서 가장 낮은 출산율을 기록하고 있고, 2019년부터 자연인구감소가 발생했으며, 이에 2030~2060년 잠재성장률도 OECD 최하위가 예상됨. 
+
+- 조세정책도 혼인과 출산·양육을 장려하고 유도해야 하는데 혼인에 대한 특별한 세제혜택은 없으며, 일본의 혼인·출산·육아비용 등 증여세 비과세 같은 적극적인 세제지원도 없음. 특히, OECD 통계에 따르면 다른 국가에 비해 유자녀가구에 대한 세제혜택이 크게 부족한 상황이므로, 자녀가 있는 부부에 대한 부족한 세제혜택을 확대해서 혼인과 출산을 장려해야 함. OECD 평균 2자녀 홑벌이가구와 독신가구의 조세격차 차이가 10.2%p인데 비하여 우리나라의 2자녀 홑벌이가구와 독신가구의 조세격차 차이는 5.0%p에 불과해 유자녀가구에 대한 세제혜택이 부족함을 알 수 있음.
+
+- 우리나라의 미래, 즉 잠재성장률 제고를 위한 저출산 극복이 중요한 상황에서, 혼인과 출산을 장려하고 양육부담을 경감하기 위한 적극적이고 실효성 있는 세제 개선방안, 즉 세제혜택 확대가 필요함. 
+
+- ① 저출산 대책의 시작인 혼인율 증가를 위해 혼인세액공제, 선택적 2분2승제 도입, 혼인 등 비용에 대한 증여세 비과세 특례가 도입되어야 함. 총급여 8,000만원 이하 근로자의 혼인 시 1인당 100만원의 세액공제, 소득세 과세단위를 혼인한 부부에게 유리한 2분2승제로 전환, 혼인 등 비용에 대한 증여세 비과세 특례 같은 새롭고 적극적인 대책이 필요.② 양육에 대한 부담이 경감되도록 N분N승제, 자녀세액공제액 인상, 소득공제상 자녀의 범위 확대, 교육비 세액공제 한도액 인상 등 세제혜택을 확대해 다자녀가구를 장려하고 유인. 다자녀를 장려하기 위해 2분2승제에서 더 나아가 가구구성원 합산 후 균등분할하는 N분N승제 도입, 특히 다자녀에 대한 세액공제액 대폭 인상이 필요]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring U.S. Fiscal Capacity using Discounted Cash Flow Analysis]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165699</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165699"/>
+        <updated>2022-04-26T15:01:31.698Z</updated>
+        <summary type="html"><![CDATA[We use discounted cash flow analysis to measure a country‘s fiscal capacity. Crucially, the discount rate applied to projected cash flows includes a GDP risk premium. We apply our valuation method to the CBO‘s projections for the U.S. federal government‘s deficit between 2022 and 2051 and debt in 2051. In spite of low rates, our current measure of U.S. fiscal capacity is lower than the debt/GDP ratio. Because of the backloading of projected surpluses, the duration of the surplus claim far exceeds the duration of the outstanding Treasury portfolio. This duration mismatch exposes the government to the risk of rising rates, which would trigger the need for higher tax revenue or lower spending. Reducing this risk by front-loading the surpluses also requires major fiscal adjustment.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가계부채 수준 및 증가세 추이와 대응방안]]></title>
+        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165659</id>
+        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165659"/>
+        <updated>2022-04-26T15:01:28.827Z</updated>
+        <summary type="html"><![CDATA[한국금융연구원이 「가계부채 수준 및 증가세 추이와 대응방안」을 발표하였다.
+
+- 국내 가계신용은 신용카드 사태 이후 지속적으로 증가해왔으며 코로나19 이후 증가속도가 가속화됨. 국내 금융당국은 가계부채 증가세를 완화하기 위해 다양한 방안을 추진해 왔지만, 이러한 방안들이 ‘가계부채 증가세’에 집중해 왔으며 누증한 ‘가계부채 수준’에는 적절히 대응하지 못한다는 한계가 있음. 가계부채의 과도한 누적이 우리 경제에 미치는 중장기적인 악영향을 고려할 때 국내 금융당국은 가계부채 증가속도와 함께 누적된 가계부채 수준에도 효과적으로 대응하기 위한 방안을 검토할 필요가 있음.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국내 연구 자료</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the Price Right? The Role of Morals, Ideology, and Tradeoff Thinking in Explaining Reactions to Price Surges]]></title>
+        <id>http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165690</id>
+        <link href="http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165690"/>
+        <updated>2022-04-26T15:01:28.297Z</updated>
+        <summary type="html"><![CDATA[Price surges often generate social disapproval and requests for regulation and price controls, but these interventions may cause inefficiencies and shortages. To study how individuals perceive and reason about sudden price increases for different products under different policy regimes, we conduct a survey experiment with Canadian and U.S. residents. Econometric and textual analyses indicate that prices are not seen just as signals of scarcity; they cause widespread opposition and strong and polarized moral reactions. However, acceptance of unregulated prices is higher when potential economic tradeoffs between unregulated and controlled prices are salient and when higher production costs contribute to the price increases. The salience of tradeoffs also reduces the polarization of moral judgments between supporters and opponents of unregulated pricing. In part, the acceptance of free price adjustments is driven by people’s overall attitudes about the function of markets and the government in society. These findings are corroborated by a donation experiment, and they suggest that awareness of the causes and potential consequences of price increases may induce less extreme views about the role of market institutions in governing the economy.]]></summary>
+        <author>
+            <name>KDI경제정보센터 국외 연구 자료</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[국제질서의 변화와 우크라이나 사태의 지정학적 함의]]></title>
         <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165710</id>
         <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165710"/>
-        <updated>2022-04-26T12:01:59.525Z</updated>
+        <updated>2022-04-26T15:01:27.906Z</updated>
         <summary type="html"><![CDATA[국회미래연구원이 「국제질서의 변화와 우크라이나 사태의 지정학적 함의」를 발표하였다.
 
 - 미중 기술패권경쟁이 점차 민주주의 진영과 권위주의 진영의 대립으로 확대되고 있으며, 우크라이나 사태와 러시아에 대한 경제제재가 이를 잘 보여준다고 설명한 뒤 장기적인 시계에서 우리나라의 국제전략에 대한 고민이 필요함.
@@ -569,24 +587,6 @@ But what exactly do people mean when they talk about bond yields? A bond yield i
 - 보고서에서 제시된 주요 함의는 세계 경제의 파편화와 탈세계화 흐름 증대 가능성, 권위주의 진영을 중심으로 한 대안적 글로벌 금융시스템 탐색, 기후변화에 대응하기 위한 에너지 전환과 에너지 안보의 상충, 민주주의 진영과 권위주의 진영의 대립 심화 등이 있음.
 
 - 민주주의 진영과 권위주의 진영의 대립 양상이라는 국제질서의 변화, 우리나라의 중국에 대한 높은 무역의존도 및 남북문제에 대한 중국과 러시아의 영향력을 고려할 때 장기적으로 공급망 안정성 강화와 함께 우리나라의 국제전략 기조에 대한 고민이 필요하다는 의견을 제시]]></summary>
-        <author>
-            <name>KDI경제정보센터 국내 연구 자료</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 이후 가사서비스 시장 변화에 따른 이용자 지원과 근로자 고용 개선방안]]></title>
-        <id>http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165651</id>
-        <link href="http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165651"/>
-        <updated>2022-04-26T12:01:55.856Z</updated>
-        <summary type="html"><![CDATA[서울연구원이 『코로나19 이후 가사서비스 시장 변화에 따른 이용자 지원과 근로자 고용 개선방안』을 발표하였다.
-
-- 여성의 경제활동 참여가 늘어나면서 맞벌이 가구가 증가하고, 고령화 속도가 빨라지는 등 인구·가구 구조의 변화에 따라 가정의 비시장 노동을 대신해주는 가사서비스에 지출을 늘리는 방향으로 소비형태가 변화하였음. 1990년대까지는 6세 미만 자녀가 있으면서 소득분위가 높은 가구에서 주로 소비가 많았지만, 가구 분화와 고령화의 영향으로 2000년대부터는 전 분위에 걸쳐 지출이 확대되었음. 
-
-- 이러한 소비패턴의 변화는 가사서비스와 같은 저부가가치 서비스업의 노동수요 증가로 이어졌음. 기존에는 중개기관이 가사서비스 이용자와 근로자를 연결하였지만, 최근에는 디지털 기술이 서비스산업에 접목하면서 거래 방식도 분화되었음. 기존의 운영방식인 비영리단체 또는 유료 직업소개소의 중개 외에도 온라인 플랫폼의 가사서비스 앱을 활용한 중개방식, 그리고 중개업체 없이 이용자와 근로자가 직거래하는 방식 등이 있음.
-
-- 통계청에 따르면 가사서비스 결제금액은 2017년 기준 7조 5천억 원이고 2019년에는 2017년보다 214% 증가하였음. 2019년 추정 근로자 규모는 공식부문 20만~40만 명, 비공식 부문까지 포함 시 최대 60만 명임. 통계청의 2020년 하반기 지역별 고용조사에 따르면 가사근로자는 전국 10만 5천 명, 서울시 3만 8천 명이었음.
-
-- 전통적인 가사서비스 시장에서의 거래는 축소되고 플랫폼 시장으로 이동하는 양상임. 직업소개소가 중개하는 기존의 시장은 근로자가 고령화되고 인력공급이 원활하지 않음. 그 대신 가사서비스 플랫폼 시장은 온·오프라인 연계(Online to Offline; O2O) 시장과 함께 성장하여 이용자와 근로자 모두 원하는 시간을 선택하거나 원하는 항목을 선택할 수 있도록 서비스가 세분화하였음. 하지만 가사서비스 시장은 기술 발전과 규모의 경제가 발생하면서 온디맨드(on demand: 수요가 모든 것을 결정하는 시스템)화 되고 이용자의 평가시스템이 강조되었음. 이로 인해 근로자는 더 좋은 평점을 얻기 위해 추가 노동을 수행하여 노동강도가 심해지고, 이용자의 여성 선호가 분명해 성별 직종분리가 정체되어 있음.]]></summary>
         <author>
             <name>KDI경제정보센터 국내 연구 자료</name>
         </author>
