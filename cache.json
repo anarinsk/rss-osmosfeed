@@ -466,23 +466,23 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/vox-talks/limits-microfinance",
+          "author": "Jack Thiemel",
+          "description": "Microfinance has helped millions of the world's poor build better lives. But can it help the world's poorest people, who spend most of their lives growing food to feed their families, to diversify into other jobs? Jack Thiemel tells Tim Phillips about the impact of one of these projects, and what it tells us about the best ways to help the ultra-poor.\nDownload the free DP and read more about this research: \nBandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thiemel, J. 2022. 'Microfinance and Diversification'.  CEPR",
+          "link": "https://voxeu.org/vox-talks/limits-microfinance",
+          "publishedOn": "2022-04-29T00:00:00.000Z",
+          "wordCount": 621,
+          "title": "The limits of microfinance",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/bargaining-advantages-autocratic-leaders-conflicts-between-totalitarian-and-democratic-regimes",
           "author": "Alex Cukierman",
           "description": "Russia’s invasion of Ukraine has stoked tensions between Western democracies and Russia, presenting the risk of an explicit conflictual situation. This column explores the bargaining advantages of democratically elected leaders relative to autocratic ones. The typically shorter terms in office of democratic leaders and greater accountability to their populations contributes to a greater aversion to armed conflict, as does the freer flow of information and typically greater aversion to military casualties. This lends insight to Western democracies’ refrainment from direct involvement in the Ukraine war.",
           "link": "https://voxeu.org/article/bargaining-advantages-autocratic-leaders-conflicts-between-totalitarian-and-democratic-regimes",
           "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 2297,
+          "wordCount": null,
           "title": "Bargaining advantages of autocratic leaders in conflicts between totalitarian and democratic regimes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women",
-          "author": "Sourafel Girma, David Paton",
-          "description": "Richard Posner argued that legalising assisted suicide may have the counter-intuitive effect of reducing unassisted and possibly even total suicide rates. This column examines the empirical evidence for this idea using data from ten US states that implemented an assisted suicide law up to the end of 2019. In contrast to Posner’s hypothesis, the real-world data suggest that assisted suicide laws lead to a substantial increase in total suicide rates and, if anything, are associated with an increase even in unassisted suicides. This effect is most pronounced amongst women.",
-          "link": "https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women",
-          "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 2307,
-          "title": "Assisted suicide laws increase suicide rates, especially among women",
           "imageUrl": null
         },
         {
@@ -496,12 +496,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women",
+          "author": "Sourafel Girma, David Paton",
+          "description": "Richard Posner argued that legalising assisted suicide may have the counter-intuitive effect of reducing unassisted and possibly even total suicide rates. This column examines the empirical evidence for this idea using data from ten US states that implemented an assisted suicide law up to the end of 2019. In contrast to Posner’s hypothesis, the real-world data suggest that assisted suicide laws lead to a substantial increase in total suicide rates and, if anything, are associated with an increase even in unassisted suicides. This effect is most pronounced amongst women.",
+          "link": "https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women",
+          "publishedOn": "2022-04-29T00:00:00.000Z",
+          "wordCount": 2307,
+          "title": "Assisted suicide laws increase suicide rates, especially among women",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/linking-education-policies-productivity",
           "author": "Balázs  Égert, Christine de La Maisonneuve, David Turner",
           "description": "Investing in education and human capital is an important ingredient for economic growth. This column constructs a new aggregate stock measure of human capital data using OECD data on adult skills, quality of education, and mean years of schooling. The relative weights of quality and quantity are estimated rather than imposed, as they are in the existing literature. Improvements in human capital are estimated to boost productivity significantly, but only with long lags. Furthermore, simulating the impact of pre-primary education on human capital and productivity demonstrates the usefulness of the new measure for policy analysis.",
           "link": "https://voxeu.org/article/linking-education-policies-productivity",
           "publishedOn": "2022-04-28T00:00:00.000Z",
-          "wordCount": 2739,
+          "wordCount": null,
           "title": "Linking education policies to productivity",
           "imageUrl": null
         },
@@ -511,7 +521,7 @@
           "description": "The COVID-19 pandemic shock posed an enormous challenge to fiscal policy in supporting household consumption. This column discusses the extent to which the pandemic-related fiscal interventions influenced consumers’ spending behaviour. Using new high-frequency data, the authors find that improving perceptions about the adequacy of fiscal interventions incentivised spending. Importantly, this perceptions channel operated equally strongly for consumers who received government support and for those who did not. Consumers who viewed the adequacy of fiscal packages more favourably also expected higher future incomes and easier access to credit, and did not anticipate an increase in taxes.",
           "link": "https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic",
           "publishedOn": "2022-04-28T00:00:00.000Z",
-          "wordCount": 2709,
+          "wordCount": null,
           "title": "Household spending and fiscal support during the pandemic",
           "imageUrl": null
         },
@@ -521,7 +531,7 @@
           "description": "School disruptions due to war, pandemics, or natural disasters can have persistent negative effects on learning outcomes. This column estimates the learning losses due to the Russian invasion of Ukraine. From a position of relative parity with its neighbours pre-pandemic, learning outcomes in Ukraine are now estimated to be below the lowest-performing countries in Europe. Opening classes for Ukrainian refugees, providing online or by-phone tutoring, or adapting curricula for refugees can help minimise the long-term impacts of the conflict.",
           "link": "https://voxeu.org/article/loss-human-capital-ukraine",
           "publishedOn": "2022-04-27T00:00:00.000Z",
-          "wordCount": 2243,
+          "wordCount": null,
           "title": "The loss of human capital in Ukraine",
           "imageUrl": null
         },
@@ -531,7 +541,7 @@
           "description": "The costs of natural disasters have risen dramatically over the last decades. Besides the escalating climate crisis, this rise in costs is largely explained by urbanisation in exposed, often flood-prone, areas. This column examines how land-use and insurance policies can limit urbanisation and explains how insurance policies shape real estate prices. Simple observed policies, with a prohibited red zone and a zone without insurance-tariff differentiation, are relatively efficient. Red zones must be redefined as climate risks or population pressures change.",
           "link": "https://voxeu.org/article/better-land-use-and-insurance-mitigate-natural-disasters",
           "publishedOn": "2022-04-27T00:00:00.000Z",
-          "wordCount": 2573,
+          "wordCount": null,
           "title": "Better land use and insurance to mitigate natural disasters",
           "imageUrl": null
         },
@@ -541,18 +551,8 @@
           "description": "With the Donbas and towns in other regions of Ukraine rattled by the second phase of the Ukraine war, Germany and the rest of Europe are still struggling to find an effective response to the Russian aggression. This column uses negotiation analysis and non-cooperative game theory to argue that import taxes or tariffs can be a very effective way to influence the duration of the conflict. Implementing these in a clear step-by-step approach would increase the time pressure on Russia to end the war and raise the credibility of further actions.",
           "link": "https://voxeu.org/article/conflict-resolution-ukraine-war",
           "publishedOn": "2022-04-26T00:00:00.000Z",
-          "wordCount": 2483,
+          "wordCount": null,
           "title": "Conflict resolution in the Ukraine war",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/trade-s-resilience-covid-19",
-          "author": "Maria Bas, Ana Fernandes",
-          "description": "The war in Ukraine has dramatically revealed the vulnerabilities of relying heavily on single foreign suppliers, following on from the COVID shock’s disruption of global value chains. This column presents evidence confirming the costly export shock for products with higher reliance on foreign inputs, and on China as the main input supplier, during the pandemic. In particular, the difficulties in producing remotely highlighted the vulnerability for products with a lower degree of complexity that rely on unskilled labour. Future resilience requires smart diversification and exploitation of working-from-home production.",
-          "link": "https://voxeu.org/article/trade-s-resilience-covid-19",
-          "publishedOn": "2022-04-26T00:00:00.000Z",
-          "wordCount": 1787,
-          "title": "Trade’s resilience to COVID-19",
           "imageUrl": null
         },
         {
@@ -561,7 +561,7 @@
           "description": "The CEPR's Competition Policy RPN has a new chair, Rod Sims, and director, Tommaso Valletti. What has the network achieved so far, and how are they going to build on its achievements so far?",
           "link": "https://voxeu.org/content/competition-policy-rpn-achievements-and-next-steps",
           "publishedOn": "2022-04-26T00:00:00.000Z",
-          "wordCount": 563,
+          "wordCount": null,
           "title": "Competition Policy RPN. Achievements and next steps",
           "imageUrl": null
         }
@@ -648,420 +648,6 @@
           "wordCount": 3552,
           "title": "Taxation and Innovation in the Twentieth Century",
           "imageUrl": "https://microeconomicinsights.org/wp-content/uploads/2022/04/Figure-1-1024x371.png"
-        }
-      ]
-    },
-    {
-      "title": "KDI경제정보센터 국외 연구 자료",
-      "feedUrl": "https://eiec.kdi.re.kr/policy/callRss.do?type=EpEnRss",
-      "siteUrl": "http://eiec.kdi.re.kr/policy/internationalList.do",
-      "articles": [
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165799",
-          "author": null,
-          "description": "Many empirical studies estimate impulse response functions that depend on the state of the economy. Most of these studies rely on a variant of the local projection (LP) approach to estimate the state-dependent impulse response functions. Despite its widespread application, the asymptotic validity of the LP approach to estimating state-dependent impulse responses has not been established to date. We formally derive this result for a structural state-dependent vector autoregressive process. The model only requires the structural shock of interest to be identified. A sufficient condition for the consistency of the state-dependent LP estimator of the response function is that the first- and second-order conditional moments of the structural shocks are independent of current and future states, given the information available at the time the shock is realized. This rules out models in which the state of the economy is a function of current or future realizations of the\r\noutcome variable of interest, as is often the case in applied work. Even when the state is a function of past values of this variable only, consistency may hold only at short horizons.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165799",
-          "publishedOn": "2022-04-29T06:01:58.595Z",
-          "wordCount": 656,
-          "title": "When do state-dependent local projections work?",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165805",
-          "author": null,
-          "description": "The International Energy Agency conducts comprehensive reviews of energy policies of IEA/OECD member countries in a periodic cycle, of IEA accession countries and when possible, upon request from partner and other countries. These reviews cover all major forms of energy produced, imported and consumed in the concerned country. The review’s recommendations aim to guide the country’s energy transition and promote energy security. The assessment of energy policies covers climate change, energy efficiency, renewables, energy markets, prices and taxes, regulation and competition, as well as energy technology and innovation.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165805",
-          "publishedOn": "2022-04-29T06:01:58.511Z",
-          "wordCount": 656,
-          "title": "Armenia 2022 Energy Policy Review",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165798",
-          "author": null,
-          "description": "This report presents the challenges and achievements of the Tax Revenue Administration Modernization and Policy Improvement in Local Governments (TRAMPIL) project in Indonesia to help subnational governments boost local-source tax revenues.\r\n\r\nTRAMPIL, supported by the Asian Development Bank, offers policy recommendations in the context of Indonesia’s economic and legal parameters on regional autonomy. The provincial, city, and regency governments in the country typically rely on the central government for financial support. A shift toward the collection of their own tax revenues would strengthen local governments’ autonomy and encourage accountability to their communities.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165798",
-          "publishedOn": "2022-04-29T06:01:58.452Z",
-          "wordCount": 656,
-          "title": "Modernizing Local Government Taxation in Indonesia",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165803",
-          "author": null,
-          "description": "1. Providing Thought Leadership through Scholarly Economic Research\r\n2. Fostering Financial Stability and Soundness\r\n3. Empowering Communities through Education and Outreach\r\n4. Sharing Timely Information about the Economy and the Fed\r\n5. Embracing Diversity, Equity and Inclusion\r\n6. Doing Good for the Sake of Good",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165803",
-          "publishedOn": "2022-04-29T06:01:57.962Z",
-          "wordCount": 656,
-          "title": "Our People, Our Work, Annual Report 2021",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165802",
-          "author": null,
-          "description": "The diffusion of social media coincided with a worsening of mental health conditions among adolescents and young adults in the United States, giving rise to speculation that social media might be detrimental to mental health. In this paper, we provide quasi-experimental estimates of the impact of social media on mental health by leveraging a unique natural experiment: the staggered introduction of Facebook across U.S. colleges. Our analysis couples data on student mental health around the years of Facebook‘s expansion with a generalized difference-in-differences empirical strategy. We find that the roll-out of Facebook at a college increased symptoms of poor mental health, especially depression. We also find that, among students predicted to be most susceptible to mental illness, the introduction of Facebook led to increased utilization of mental healthcare services. Lastly, we find that, after the introduction of Facebook, students were more likely to report experiencing impairments to academic performance resulting from poor mental health. Additional evidence on mechanisms suggests that the results are due to Facebook fostering unfavorable social comparisons.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165802",
-          "publishedOn": "2022-04-29T06:01:57.924Z",
-          "wordCount": 656,
-          "title": "Social Media and Mental Health",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165795",
-          "author": null,
-          "description": "As housing demand surges, the construction sector faces labor shortages; its aging native labor force never fully recovered from the impact of the global financial crisis.\r\nImmigrants had helped offset the decline in native labor, but this foreign-born labor force appears to have dropped with the onset of the pandemic.\r\nUnlike material supplies, the labor supply reflects longer-term demographic issues. And the industry may not be able to improve productivity with labor-saving technology.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165795",
-          "publishedOn": "2022-04-29T06:01:57.916Z",
-          "wordCount": 656,
-          "title": "Demographics, COVID-19 Leave Construction with Tight Labor Supply",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165789",
-          "author": null,
-          "description": "Social dialogue, which forms part of the regulation of labour relations in the public sector, can take a variety of forms ranging from the simple act of publishing informal recommendations, or consultation and sharing information to the most formal and binding negotiated agreements, bargaining or more developed forms of consultation. Although each country has its own cultural, historical, economic, and political setting, there is a diversity of practices in social dialogue in the public service, and the common model of social dialogue for all countries seems to be freedom of association and the right to collective bargaining. It is, therefore, worth showing how different countries manage to adapt their diverse practices in social dialogue in the public service to the national situation. To this end, this report focuses on five selected African countries, namely Angola, Kenya, Tunisia, South Africa, and Ghana. These countries represent respectively the five main subregions of Africa (Central, Eastern, Northern, Southern and Western Africa) as suggested by the ILO. A thorough analysis of these countries’ social dialogue mechanisms in the public service shows that the functioning and sustainability of such mechanisms may be facilitated by permanent structures or institutions, such as national tripartite consultative committees.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165789",
-          "publishedOn": "2022-04-29T06:01:57.908Z",
-          "wordCount": 656,
-          "title": "Diversity of practices in social dialogue in the public service in selected African countries",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165791",
-          "author": null,
-          "description": "Since the late 1960s, the share of children living with married parents has declined, but the trend came to a halt in the early 1990s among the most disadvantaged children.\r\n\r\nThe likelihood of living with married parents either stabilized or increased among children with the poorest parents and the parents with the lowest educational attainment, and the likelihood of living with two parents (married or cohabiting) rose.\r\n\r\nThe timing of these trends―unique to disadvantaged children―and other trends suggests that the welfare reforms of the 1990s could have affected fertility, marriage, or living arrangements.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165791",
-          "publishedOn": "2022-04-29T06:01:57.855Z",
-          "wordCount": 656,
-          "title": "A Half-Century Decline in Marriage . That Ended 30 Years Ago for Disadvantaged Kids",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165793",
-          "author": null,
-          "description": "As a key component of health care, a full understanding of how much is spent on prescription medicines is increasingly important. Only a partial understanding of total expenditures across health systems is currently possible, as reporting is often limited to medicines dispensed in community pharmacies. However, spending on pharmaceuticals used elsewhere in the health sector, particularly in hospitals, constitutes a significant and growing proportion of the overall resources allocated to medicines. This report aims to improve the coverage and quality of data on total pharmaceutical spending across the whole health sector, by reviewing current practices, and recommending a set of definitions, concepts and guidance under the framework of A System of Health Accounts 2011. Countries are encouraged to apply these guidelines in their future reporting of pharmaceutical expenditures, as part of their annual health accounts data production.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165793",
-          "publishedOn": "2022-04-29T06:01:57.836Z",
-          "wordCount": 656,
-          "title": "Improving data on pharmaceutical expenditure in hospitals and other health care settings",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165796",
-          "author": null,
-          "description": "Blanket exclusion of ＂brown＂ stocks is seen as the best way to reduce their negative externalities, by starving them of capital and hindering their expansion. We show that a more effective strategy may be tilting -- holding a brown stock if it is best-in-class, i.e. has taken a corrective action. While such holdings allow the firm to expand, they also encourage the corrective action. We derive conditions under which tilting dominates exclusion for externality reduction. If the corrective action is unobservable to the market, the investor is unable to tilt even if she has perfect information -- doing so would lead her to hold a company that has taken the action but the market thinks it has not, leading to accusations of greenwashing. Even if managers can costlessly disclose a signal of their actions, they will only do so under certain circumstances, and even a manager intending to take the action will only disclose a noisy signal.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165796",
-          "publishedOn": "2022-04-29T06:01:57.820Z",
-          "wordCount": 656,
-          "title": "Socially Responsible Divestment",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165790",
-          "author": null,
-          "description": "We estimate the causal impact of countercyclical interest rates on macroeconomic outcomes in open economies. To identify countercyclical interest rates, we construct a new database of short- term interest rates, principal exports, and international commodity prices for 40 economies from 1870 to 1913. This era of capital mobility, nominal anchors, specialization and trade integration, exposed economies to multiple exogenous demand-side shocks. Specialization and trade integration subjected economies to a ＂commodity lottery＂ in the form of price fluctuations in world markets. Capital mobility and a currency peg exposed them to interest-rate movements originating in the U.K., the largest economy and linchpin of the classical gold standard. We identify (i) positive effects of commodity-export prices on real GDP and the domestic price level and (ii) negative effects of exogenous changes in short-term interest rates on the same variables. We then show that countercyclical interest rates, defined relative to export-price shocks, stabilized both output and the domestic price level. This stabilization was more effective for the price level than for output.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165790",
-          "publishedOn": "2022-04-29T06:01:57.772Z",
-          "wordCount": 656,
-          "title": "Causal Effects of Countercyclical Interest Rates: Evidence from the Classical Gold Standard",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165794",
-          "author": null,
-          "description": "Social relationship and business connections create implicit benefits between borrowers and lenders. We model how implicit benefits and repayment enforcement costs influence credit allocation, cost, and renegotiation. The optimal solution illustrates that financing with implicit benefits can in many circumstances achieve lower financing costs, higher managerial effort, and better economic outcomes for both the borrower and the lender. This result explains the continuing expansion of alternative financing despite advanced formal financial intermediation, the rise of corporate insider debt, and joint ownership of debt and equity. The growing size and complexity of projects and changes in community relationships explain the expansion of bank financing.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165794",
-          "publishedOn": "2022-04-29T06:01:57.719Z",
-          "wordCount": 656,
-          "title": "Implicit Benefits and Financing",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165801",
-          "author": null,
-          "description": "This paper examines the monetary benefits and costs of the quantity of public schooling (that is, years of schooling completed) in Ghana. The paper also examines the monetary benefits and costs of some aspects of the quality of public schooling, measured by the gains in achievement produced by selected interventions in public schools. The analysis uses estimates of (i) labor-earnings returns to schooling and private spending on public schooling, based on the latest national household sample survey data; (ii) government spending on public schooling, based on administrative information; (iii) impacts on test scores, and costs, of education interventions in public schools, drawn from experimental studies; and (iv) conversions of impacts on test scores produced by education interventions to (future) labor earnings, all for Ghana. The results are a set of benefit-cost ratios in the style of the Copenhagen Consensus.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165801",
-          "publishedOn": "2022-04-29T06:01:57.711Z",
-          "wordCount": 656,
-          "title": "Benefits and Costs of Public Schooling in Ghana",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165804",
-          "author": null,
-          "description": "A new survey of 6,040 voting-age individuals conducted in seven Latin American metropolitan areas reveals that political and interpersonal mistrust, risk aversion and time impatience are strong predictors of voter preferences for public spending. Respondents with higher mistrust or impatience are more likely to choose transfers over public goods; more impatient respondents are also more likely to choose current spending over public investment. Randomized experiments providing information about the benefits of public investment have the expected average demand impacts. Respondents with high political mistrust or impatience increase their demand for public investment significantly less than others.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165804",
-          "publishedOn": "2022-04-29T06:01:57.693Z",
-          "wordCount": 656,
-          "title": "Research Insights: Can Voter Preferences Explain Why Governments Underinvest in Public Goods?",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165792",
-          "author": null,
-          "description": "This paper looks at the macroeconomic policy response to the Covid-19 crisis in the European Union (EU) and the prospects for long-term recovery under the Next Generation EU (NGEU) plan. It argues that, un­like what happened following the sovereign debt crisis of 2011-2012, the EU’s strong and prompt response to the pandemic took more into account the lessons from the rethinking of macroeconomic theory which started after the Global Financial Crisis, including as it concerns the use of monetary and fiscal policy as macroeconomic and employment stabilizers, the impact of public investments and industrial policy on long term economic growth, and the role of labour market policies and the welfare state. It concludes reviewing the implications for the current debate on the reform of EU economic governance.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165792",
-          "publishedOn": "2022-04-29T06:01:57.685Z",
-          "wordCount": 656,
-          "title": "The return of fiscal policy",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165806",
-          "author": null,
-          "description": "We empirically show that the short-run elasticity of substitution between capital and labor is countercyclical. In recessions, capital and labor are more substitutable than in expansions. This countercyclicality of the elasticity of substitution introduces an asymmetry in an otherwise standard competitive-markets business cycle model that contributes to resolve several labor-market puzzles: the labor productivity puzzle, the Dunlop-Tarshis phenomenon, the hours-productivity puzzle, and the labor share puzzle. Interestingly, the cyclicality of the elasticity of substitution is per se not a source of aggregate fluctuations, but it propagates the effects of other shocks.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165806",
-          "publishedOn": "2022-04-29T06:01:57.675Z",
-          "wordCount": 656,
-          "title": "Countercyclical Elasticity of Substitution",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165800",
-          "author": null,
-          "description": "I consider the effect of caring, empathy, altruism or positive reciprocity towards others - which I collectively call positive preference interdependence (PPI) - on the internalization of interpersonal externalities and on the level of private contributions to the provision of public goods. I show that if preferences depend positively on the well-being of others, then in an extreme case external effects are fully internalized, and private contributions to the provision of a public good will be sufficient for it to be provided at an efficient level. Furthermore I show that when PPI is less than perfect, an increase in the level shown by any agent will lead to a Pareto improvement in the case of interpersonal externalities and an increase in the level of provision of the public good, and that as PPI levels increase towards their upper bound, the level of provision of the public good converges to the efficient level. An increase in caring, empathy, altruism or positive reciprocity, an increase in PPI, in the presence of externalities or public goods is Pareto improving. As it is well-documented that people display some degree of PPI, it is arguable that our failure to provide public goods optimally or to manage externalities efficiently is attributable to lack of empathy/altruism/positive reciprocity as well as to the free rider problem.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165800",
-          "publishedOn": "2022-04-29T06:01:57.666Z",
-          "wordCount": 656,
-          "title": "Interdependent Preferences and the Mitigation of Market Failure",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165808",
-          "author": null,
-          "description": "We investigate how neighborhood preferences and choices changed one year after the beginning of the COVID pandemic. We study a Neighborhood Choice Program that helped graduating students choose where to live by providing new information about rents and amenities. Using panel data on neighborhood rankings before and after information, we find that changes in rankings favor neighborhoods where social and professional network shares are higher by 2.2 percentage points, rents are lower by $432, and are 2.4 kilometers farther from the city center. Interestingly, we did not detect this movement away from downtowns when the program was offered prior to the pandemic. We then estimate a neighborhood choice model to recover MWTP for amenities both before and after the pandemic. Our estimates reveal that MWTP for network shares post COVID is markedly lower than prior to COVID. Finally, we perform counterfactuals to quantitatively assess how changes in preferences affect where people live, and find that weaker network preferences are most impactful, while heterogeneity by commute and work-from-home are less relevant.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165808",
-          "publishedOn": "2022-04-29T06:01:57.647Z",
-          "wordCount": 656,
-          "title": "Neighborhood Choice After COVID: The Role of Rents, Amenities, and Work-From-Home",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165807",
-          "author": null,
-          "description": "Linear panel models featuring unit and time fixed effects appear in many areas of empirical economics. An active literature studies the interpretation of the ordinary least squares estimator of the model, commonly called the two-way fixed effects (TWFE) estimator, in the presence of unmodeled coefficient heterogeneity. We illustrate some implications for the case where the research design takes advantage of variation across units (say, US states) in exposure to some treatment (say, a policy change). In this case, the TWFE can fail to estimate the average (or even a weighted average) of the units‘ coefficients. Under some conditions, there exists no estimator that is guaranteed to estimate even a weighted average. Building on the literature, we note that when there is a unit totally unaffected by treatment, it is possible to estimate an average effect by replacing the TWFE with an average of difference-in-differences estimators.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165807",
-          "publishedOn": "2022-04-29T06:01:50.593Z",
-          "wordCount": 656,
-          "title": "A Linear Panel Model with Heterogeneous Coefficients and Variation in Exposure",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165797",
-          "author": null,
-          "description": "CAREC’s strong performance on implementation of the 2030 strategy suggest that it is on track to achieve most of its 2030 goals. However, significant efforts in each sector would be required to transform the modest gains achieved over the last 3 years into more tangible results in the remaining 10 years.",
-          "link": "http://eiec.kdi.re.kr/policy/internationalList.do?ac=0000165797",
-          "publishedOn": "2022-04-29T06:01:49.740Z",
-          "wordCount": null,
-          "title": "CAREC 2030 Development Effectiveness Review (2017-2020)",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "KDI경제정보센터 국내 연구 자료",
-      "feedUrl": "https://eiec.kdi.re.kr/policy/callRss.do?type=EpKrRss",
-      "siteUrl": "http://eiec.kdi.re.kr/policy/domesticList.do",
-      "articles": [
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165752",
-          "author": null,
-          "description": "한국은행은 「 프랑스 대통령 선거 결과에 대한 금융시장 반응」을 발표하였다.\r\n\r\n- 지난 4.24일 실시된 프랑스 대통령 선거(2차 결선투표)에서 마크롱(E.  Macron) 대통령이 58.5%를 득표하여 재선에 성공\r\n\r\n- (금융시장 반응) 금융시장에서는 마크롱 대통령의 재선으로 그동안 시장의 불확실성을 키워왔던 소위 ＂르펜 효과＂ 등 유로경제 관련 끝단 리스크(tail risk)가 완화된 것으로 평가\r\n\r\n- (전망) 마크롱 대통형의 재선으로 EU 및 ECB가 추진해 온 통화 및 재정 관련 정책의 연속성이 유지될 것으로 전망",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165752",
-          "publishedOn": "2022-04-29T06:01:57.828Z",
-          "wordCount": 555,
-          "title": "[현지정보] 프랑스 대통령 선거 결과에 대한 금융시장 반응",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165748",
-          "author": null,
-          "description": "한국은행은 「미 연준 Beige Bok(2022.4월)의 주요내용」을 발표하였다.\r\n\r\n- 경제활동은 2월 중순 이후 완만한 속도(moderatepace)로 확장\r\n\r\n- 코로나19 감염이 감소함에 따라, 소매부문 등의 소비자 지출이 가속화 되었으나, 향후 성장 전망은 최근의 지정학적 사태와 물가 상승으로 인한 불확실성으로 인해 불투명해짐.\r\n\r\n- 근로자에 대한 수요는 대부분의 지역과 산업 부문에서 계속 강세를 유지하였으며 전반적으로 근로자 부족 현상이 지속\r\n\r\n- 인플레이션 압력이 계속 강하게 나타났으며 기업들은 증가된 투입비용을 고객에게 계속 전가",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165748",
-          "publishedOn": "2022-04-29T06:01:57.813Z",
-          "wordCount": 555,
-          "title": "[현지정보] 미 연준 베이지북(2022.4월)의 주요내용",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165753",
-          "author": null,
-          "description": "한국금융연구원은 보고서를 통해 탈중앙금융과 관련된 자금세탁을 예방하기 위한 향후 과제를 제시하였다.\r\n\r\n- 탈중앙화금융은 블록체인 상에서 가상자산을 매개로 미리 프로그래밍 된 약정(스마트계약)을 통해 이루어지는 금융서비스임. 탈중앙화금융 플랫폼은 별도의 고객확인 절차 없이 자유로운 접근이 가능하여 자금세탁방지 및 테러자금조달금지를 위한 장치가 미비함.\r\n\r\n- 가상자산을 통한 자금세탁 규모가 증가추세에 있는 가운데 최근 특히 탈중앙화금융 플랫폼의 익명성을 활용한 자금세탁이 빠르게 늘어나고 있음.\r\n\r\n- 국제자금세탁방지기구는 작년 10월 가상자산 관련 지침서 개정을 통해 탈중앙화금융 플랫폼에 충분한 통제권이나 영향력을 행사할 수 있는 법인 또는 개인이 존재하는 경우 이들을 가상자산사업자로 간주하여 자금세탁방지 의무를 부여할 수 있음을 명시함.\r\n\r\n- 중장기적으로 보면 플랫폼에 충분한 영향력을 행사하는 주체를 특정할 수 없도록 탈중앙화가 진전된 플랫폼이 늘어날 것으로 예상되는데, 이들에게 직접적으로 자금세탁방지 의무를 부여하기는 기술적으로 어려움.\r\n\r\n- 따라서 등록된 가상자산사업자가 자금세탁 위험도가 높은 거래상대방에 대한 송금 제한 등을 적절히 시행하도록 모니터링하여 자금세탁 방지장치가 미비한 플랫폼으로의 무분별한 자금 유출을 예방하는 한편, 블록체인 분석기술 등을 활용한 자금세탁 의심 거래 추적 인프라를 확충하고, 탈중앙화금융 커뮤니티와의 소통 강화를 통해 자율적으로 고객확인 시스템을 도입하도록 유도하는 등의 노력을 기울일 필요가 있음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165753",
-          "publishedOn": "2022-04-29T06:01:57.804Z",
-          "wordCount": 555,
-          "title": "탈중앙화금융 관련 자금세탁 예방을 위한 향후 과제",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165755",
-          "author": null,
-          "description": "한국금융연구원은 보고서를 통해 온라인 대부 영업의 현황을 살펴보고 시사점을 제시하였다.\r\n\r\n-대출중개사이트 이용에 따른 무등록 대부업체 이용, 불법 채권추심, 고금리 등 금융소비자들의 피해가 지속적으로 발생하고 있으나 대출중개사이트의 영업 방식상 이를 방지하는데에 어려움을 겪고 있음. 이에 대출중개사이트 영업 행위 규율을 강화하기 위한 다양한 감독 조치를 고려할 필요가 있음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165755",
-          "publishedOn": "2022-04-29T06:01:57.783Z",
-          "wordCount": 555,
-          "title": "온라인 대부 영업 현황 및 시사점",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165781",
-          "author": null,
-          "description": "한국재정정보원이 『월간 나라재정 2022년 4월호』를 발표하였다.\r\n\r\n[목차]\r\n\r\n재정 INSIGHT\r\nFIS인사이트\r\n재난위험경감을 위한 재정관리의 필요성\r\n  - 지은초 재정정보분석본부 부연구위원\r\n재정칼럼\r\n국민의 안전과 재정 \r\n  - 허석균 중앙대학교 경영학부 교수\r\n재난과 국가재정: 호미로 막을 것,\r\n가래로도 못 막는 상황 발생할 수도···\r\n  - 류상일 동의대학교 소방방재행정학과 교수\r\n\r\n재정 NOW\r\n\r\n숫자로 보는 나라 재정\r\n숫자로 보는 나라 재산\r\n키워드 재정\r\n반도체\r\n해외재정동향\r\nOECD중기 경제전망\r\n재정 STORY\r\n데이터 기반 의사결정 지원\r\n누구의 눈에 맞추어 재정정보를 제공할 것인가?:\r\n회계별 세입세출 총괄자료 분석 사례\r\n재정학자의 진단과  처방\r\n비교편익분석에 대한 서로 다른 인식과\r\n재정활동에 대한 서로 다른 견해\r\n재정사상의 변천\r\n사회철학자, 분배정의론\r\n존 스튜어트 밀의 재정사상",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165781",
-          "publishedOn": "2022-04-29T06:01:57.597Z",
-          "wordCount": 555,
-          "title": "월간 나라재정 2022년 4월호",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165784",
-          "author": null,
-          "description": "서울연구원은 보고서를 통해 생계형 서비스업의 개인사업자 중 한계 상황에 놓인 사업자의 위험지표를 살펴보고 위험요인을 진단하였다.\r\n\r\n- 신용정보 활용해 개발한 6가지 유형의 위험지표로 생계형 서비스업 개인사업자, 잠재 위험 파악 가능\r\n\r\n- 개인사업자, 소상공인·자영업자와 의미가 비슷하지만 차이점이 있음.\r\n\r\n- 서울시 생계형 서비스업은 전체 고용의 20%로 개인사업자의 절반이 여기에 해당.\r\n\r\n- 생계형 서비스업, 지표분석 결과 고용변동이 크고 경기변동에도 취약함.\r\n\r\n- 서울시 생계사업자, 코로나19 이후 창·폐업이 줄고 개인파산은 크게 늘었음.\r\n\r\n- 코로나19 이후 자영업자 취업자수는 보합, 서비스업 생산지수는 감소함.\r\n\r\n- 생계사업자, 코로나19 이후 카드·신용대출이 지속적으로 상승, 연체는 변화 없음.\r\n\r\n- 한국신용정보원 CreDB의 사업자 대출과 연체 정보로 개발한 위험지표, 6개 유형을 통해 ‘사업자 잠재 위험‘을 파악 가능함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165784",
-          "publishedOn": "2022-04-29T06:01:57.437Z",
-          "wordCount": 555,
-          "title": "서울시 생계형 서비스업 개인사업자 현황과 경제적 위험요인 진단",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165787",
-          "author": null,
-          "description": "KDB미래전략연구소는 탄소 중립을 위한 무탄소 발전의 활용에 대한 보고서를 발표하였다.\r\n\r\n-  발전 부문 탄소 발생량 감축을 위해 석탄, LNG에 무탄소 연료를 혼·전소하는 무탄소 발전이 주요 정책으로 추진될 예정\r\n\r\n- 발전연료로 활용되기 위해 암모니아는 연소 안정성, 수소는 화염역화 및 폭발 안정성 등이 개선해야 할 주요 과제\r\n\r\n- 수소, 암모니아 혼소 발전은 일본, 미국 등 중심으로 실증 및 상용화 준비 중, 국내는 기술 개발 및 실증 추진 중",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165787",
-          "publishedOn": "2022-04-29T06:01:55.528Z",
-          "wordCount": 555,
-          "title": "탄소 중립을 위한 무탄소 발전의 활용",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165756",
-          "author": null,
-          "description": "한국보건사회연구원은 장기요양요원이 경험한 부당한 처우에 대해 조사하고, 권익 보호를 위한 방안을 제시하였다.\r\n\r\n- 노인요양시설에 근무하는 장기요양요원 중 절반 이상이 지난 1년간 수급자(가족)로부터 언어적·신체적 부당행위를 당한 것으로 나타났으며, 정원 30명 미만 노인요양시설의 종사자 32.4%는 성적 부당행위를 겪은 것으로 나타남. 방문형 서비스(방문목욕·요양·간호) 종사자는 약 3명 중 1명이 수급자(가족)로부터 초과 업무, 규정 외 업무를 요구받음.\r\n\r\n- 장기요양기관(기관장, 관리자 등)에서의 부당행위도 빈번하게 나타남. 노인요양시설 종사자의 20% 이상이 비난, 고함, 욕설 등의 언어적 부당행위를 겪었고, 주·야간보호/단기보호 종사자의 23.9%는 초과 업무를 요구받음.\r\n\r\n- 코로나19로 인한 추가적인 부담은 방문형 서비스 종사자의 경우 주로 근로 중단 또는 근로시간 감소, 노인요양시설 종사자는 방역 업무 증가 형태로 나타남.\r\n\r\n- 장기요양요원에 대한 부당행위를 예방하고 효과적으로 대응하기 위해 중간관리자의 급여 제공 과정 모니터링 강화, 부당행위 대응 매뉴얼 개발, 종사자지원센터 역할 강화를 제안함. 추후 코로나19와 비슷한 위기 상황에 대비하기 위해 위기 대응 종사자지원제도를 마련해야 함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165756",
-          "publishedOn": "2022-04-29T06:01:55.511Z",
-          "wordCount": 555,
-          "title": "장기요양요원의 부당 처우 경험과 권익 보호를 위한 방안",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165780",
-          "author": null,
-          "description": "한국지능정보사회진흥원은 글로벌 인공지능 이슈 및 동향을 분석하고, 인공지능 관련 주요 현안에 대응하기 위한 보고서를 발간하였다.\r\n\r\n [목차]\r\n  1. OECD 인공지능 시스템 분류 프레임워크란?？\r\n  2. 인공지능 시스템 분류 프레임워크 구성\r\n  3. 주요 애플리케이션에 대한 프레임워크 적용\r\n  4. OECD의 향후 계획\r\n  5. 우리나라 정책적 시사점",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165780",
-          "publishedOn": "2022-04-29T06:01:55.502Z",
-          "wordCount": 555,
-          "title": "OECD 인공지능 시스템 분류 프레임워크 분석 및 시사점",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165749",
-          "author": null,
-          "description": "한국농촌경제연구원은 「지역농업 역량 분석 및 평가를 위한 지표 개발 연구」를 발표하였다.\r\n\r\n- 본 연구는 현재 가용한 통계를 바탕으로 지역별 농업 수준 및 역량을 비교·분석할 수 있는 지표체계를 개발함으로써 시군 단위의 지자체가 데이터 중심의 농정 환경 변화에 대응하여 지역 농정 수립 및 평가에 활용할 수 있는 기초 자료를 제공함.\r\n\r\n<목차>\r\n\r\n제1장 서론\r\n제2장 지역농업 역량 분석 방법\r\n제3장 지역농업 역량 분석 결과",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165749",
-          "publishedOn": "2022-04-29T06:01:55.489Z",
-          "wordCount": 555,
-          "title": "지역농업 역량 분석 및 평가를 위한 지표 개발 연구",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165786",
-          "author": null,
-          "description": "한국농촌경제연구원은 「2021 식품소비행태조사 통계보고서」을 발표하였다.\r\n\r\n<목차>\r\n\r\n제1장 가구 내 식품소비행태조사 결과표 [주 구입자 편]\r\n제2장 가구 구성원 식품소비행태조사 결과표 [성인 편]\r\n제3장 가구 구성원 식품소비행태조사 결과표 [청소년 편]",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165786",
-          "publishedOn": "2022-04-29T06:01:55.466Z",
-          "wordCount": 555,
-          "title": "2021 식품소비행태조사 통계보고서",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165751",
-          "author": null,
-          "description": "한국지방세연구원은 「지방자치단체-교육청 간 공동사업비 제도 도입 논의와 향후 과제」를 발표하였다.\r\n\r\n- 최근 인구구조의 변화와 지방소멸위기에 따라 지방재정과 지방교육재정을 둘러싼 외부환경이 급격하게 변화하고 있음.\r\n\r\n- 지방교육재정 세입 중 지방자치단체 이전수입 비중은 비교적 안정적이나, 최근 비법정이전수입과 교육경비보조금의 규모와 비중이 가파르게 증가하고 있는 상황임.\r\n\r\n- 지방교육재정의 효과적·효율적 운영 및 지방재정과 지방교육재정의 연계·협력을 강화하는 방안으로 공동사업비 제도 도입이 논의되고 있음.\r\n\r\n- 공동사업비 제도 도입을 위해 지자체-교육청 간 협력사업 발굴, 재원분담체계, 운영 주체에 대한 심도 있는 논의가 필요함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165751",
-          "publishedOn": "2022-04-29T06:01:55.370Z",
-          "wordCount": 555,
-          "title": "지방자치단체-교육청 간 공동사업비 제도 도입 논의와 향후 과제",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165788",
-          "author": null,
-          "description": "국토연구원은 보고서를 통해 우리나라 2050 탄소중립 실현을 위한 국토·도시 공간 정책 방향을 제시하였다.\r\n\r\n- 삶터를 위협하는 기후변화 위기 극복을 위한 국제사회의 본격적 대응이 시행됨\r\n\r\n- 배출이 불가피한 탄소배출량 30%에 대한 탄소흡수·포집과 소비패턴 개선을 통한 탄소상쇄 수단이 중요해짐\r\n\r\n- 탄소중립 구현을 위한 국토·도시 공간정책은 기후위기 속에서도 안전하고 지속 가능한 국토 성장관리의 공간적 해법이 포함되어야 함",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165788",
-          "publishedOn": "2022-04-29T06:01:55.308Z",
-          "wordCount": 555,
-          "title": "우리나라 2050 탄소중립 실현을 위한 국토·도시 공간정책 방향",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165785",
-          "author": null,
-          "description": "한국은행은 「 중국 금융당국의 코로나19 관련 지원 정책」을 발표하였다.\r\n\r\n- 인민은행과 국가외환관리국은 “코로나19 방역 및 경제발전을 위한 금융 서비스 지원 정책”을 발표\r\n\r\n- 인민은행은 코로나19 피해 산업 및 피해 계층에 대해 금융 지원을 강화 할 것이라고 밝힘.\r\n\r\n- 한편 코로나19로 피해를 받은 영세기업 등에 대한 금융 지원과 관련하여, 기존의 영세기업 대출 지원책을 적극 활용\r\n\r\n- 부동산 정책과 관련하여 지역별로 상황에 맞는 차별화된 주택 대출 정책을 시행할 예정\r\n\r\n- [평가] 인민은행은 금번 지원 정책에 대해 식량 · 에너지 등 중요 물자 공급 강화, 원활한 물류를 위한 금융 지원 확대, 코로나19 피해 업종 및 시장 주체에 대한 지원이라는 세 가지 측면에서 코로나19 방역과 함께 경제 사회 측면에서 새로운 상황에 필요한 세분화된 지원책을 포함하였다고 설명\r\n\r\n- [평가] 시장 전문가들은 향후 중국 금융당국이 금번 지원 정책을 통해 전방위적인 완화정책을 실시할 것으로 예상",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165785",
-          "publishedOn": "2022-04-29T06:01:49.248Z",
-          "wordCount": 555,
-          "title": "[현지정보] 중국 금융당국의 코로나19 관련 지원 정책",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165758",
-          "author": null,
-          "description": "현대경제연구원은 보고서를 통해 환경 문제 대응의 필요성을 인식하고 있는 국제사회의 변화를 살펴보고, 한국의 대응방안과 도전과제를 제시해 보았다.\r\n\r\n- 한국은 전 전 세계적 탄소중립 흐름에 발맞추어 「2050 탄소중립 추진전략」을 수립하였음. 국내 온실가스 배출량은 ‘18년을 정점으로 감소할 것으로 전망되지만, 산업구조 및 에너지믹스를 고려해 볼 때 탄소중립 실현은 어려운 과제임. 한국은 주요 선진국 G7대비 탄소중립 목표 달성을 위한 정책적 환경은 높게 평가되나 탄소배출 및 산업구조 등은 다소 불리한 것으로 분석 됨.\r\n\r\n- 7대 도전과제로 ①탄소중립 VS 경제성장 기로에 선 한국 경제 ②공존을 담보로하는 산업 생태계 구축 ③탄소중립 시대를 맞는 기업의 우려와 생존 전략 ④국민의 부담과 삶의 질 개선 ⑤에너지 거버넌스의 변화 ⑥성공적이고 지속가능한 정책 수립 ⑦글로벌 에너지 패러다임 벼놔에 대한 대응이 있음.\r\n\r\n-[시사점] 탄소중립 시대로의 전환에 따른 경제·사회 변화에 대해서 객관적인 분석이 필요하며, 이를 통해 발생할 수 있는 긍정적 효과를 극대화하고 부정적 영향을 최소화하기 위한 대응 마련이 필요함.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165758",
-          "publishedOn": "2022-04-29T06:01:49.228Z",
-          "wordCount": 555,
-          "title": "탄소중립시대의 국제 질서 변화와 우리의 대응",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165754",
-          "author": null,
-          "description": "한국금융연구원은 보고서를 통해 공매도에 대한 개인투자자들의 부정적인 시각이 이들의 주식매매 성향과 관련이 있는지를 분석해 보았다.\r\n\r\n- 국내 주식시장에서 개인투자자는 과거 주가하락의 영향으로 누적수익률이 마이너스인 패자주식을 순매수하는 성향을 보임. 특히, 패자주식 중에서도 공매도 비중이 높아 향후 추가적인 주가하락이 예상되는 주식을 순매수하는 성향이 강함. \r\n\r\n- 이러한 주식매매 성향 때문에 개인투자자는 공매도로 인한 손실위험에 노출되어 있는 것으로 판단됨. 공매도와 관련된 정보 공시의 확대는 공매도의 영향으로부터 개인투자자의 손실위험을 완화하는데 도움이 될 수 있음. 이러한 차원에서 공매도 잔고비중 0.5% 이상인 현행 공매도 공시기준의 하향조정 방안을 검토할 필요가 있음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165754",
-          "publishedOn": "2022-04-29T06:01:46.729Z",
-          "wordCount": 555,
-          "title": "개인투자자의 주식매매 성향과 공매도",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165782",
-          "author": null,
-          "description": "대한무역투자진흥공사가 북한에게 코로나 백신을 인도적으로 지원할 수 있는 방안과 그 시사점에 대한 보고서를 발표하였다.\r\n\r\n<목차>\r\n1. 코로나 봉쇄 정책 이어가는 북한 상황\r\n2. 인도주의적 차원의 코로나 백신 지원 방안\r\n3. 향후 북한의 코로나 백신 관련 전망\r\n4. 시사점",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165782",
-          "publishedOn": "2022-04-29T06:01:46.552Z",
-          "wordCount": 555,
-          "title": "북한에 대한 코로나 백신의 인도주의적 지원 방안",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165750",
-          "author": null,
-          "description": "건설산업연구원은 「건설업 안전관리자 수요 증가에 따른 안정적인 수급 확보 방안」을 발표하였다.\r\n\r\n- 안전관리자 공급 대비 수요의 급격한 증가로 건설산업 안전관리자 수급 여건은 지속적으로 악화되고 있으며, 이에 따라 신규 인력의 확보 및 유지 경쟁력이 상대적으로 미흡한 중소·중견 종합건설기업들이 안전관리자 확보에 큰 어려움을 겪고 있음. 최근 5년간 건설산업에 추가 공급된 안전관리자는 연평균 1,476명이며 734명이 건설기업에 공급되고 있으나, 안전관리자 선임 대상사업 확대에 따라 2023년 7월까지 필요한 수요는 3,914명으로 예상됨.\r\n\r\n-  실무에서 필요로 하는 안전관리자는 최소 1~3년 이상의 경력자로, 현장 경험이 부족한 신규 안전관리 자격 취득자의 공급 확대는 기업의 인력 수요와 미스매치로 이어질 우려도 있음. 원활한 현장 안전관리 업무 수행을 위해서는 단순 자격뿐만 아니라 실무 경력을 갖춘 인력이 필요하며, 중소기업은 최소 3~5년(45.0%), 중견기업은 1~3년 이상(42.9%)의 경력이 필요하다고 응답함.\r\n\r\n- 산업안전 제도 강화로 인한 안전관리자 수요 증가와 공급 추이로 미루어볼 때, 경영 여건이 상대적으로 취약한 중소 건설기업의 안전관리자 수급난이 가중될 가능성이 높음. 안전관리자 수급 문제가 어느 정도 해소될 때까지 80억원 미만 건설공사의 안전관리자 선임 의무를 일정 기간 유예하는 방안을 고려할 필요가 있음.",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165750",
-          "publishedOn": "2022-04-29T06:01:46.504Z",
-          "wordCount": 555,
-          "title": "건설업 안전관리자 수요 증가에 따른 안정적인 수급 확보 방안",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165783",
-          "author": null,
-          "description": "국제금융센터가 보고서를 통해 미국 1Q GDP가 큰폭으로 둔화될것이라고 발표하였다.\r\n\r\n- 미국 3월 근원 PCE의 추세전환 여부도 관심\r\n\r\n- 유로존 1Q GDP과 4월 CPI 발표. 한국 1Q GDP도 주목\r\n\r\n- BOJ 통화정책회의 개최. 경제 및 물가전망치는 하향조정 가능성\r\n\r\n- 3개월차로 접어든 우크라이나 전쟁. UN사무총장·푸틴 회담 결과도 관심\r\n\r\n- BIS·BOE·ECB·IMF 합동 연례컨퍼런스 개최. 스웨덴·러시아 통화정책회의 개최\r\n\r\n- 미국·유럽 주요기업 1Q 실적 발표. 북한 창건일 전후 추가도발 가능성",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165783",
-          "publishedOn": "2022-04-29T06:01:46.486Z",
-          "wordCount": 555,
-          "title": "주간이슈(4.25) : 미국 1Q GDP 큰 폭 둔화 예상",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
-        },
-        {
-          "id": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165779",
-          "author": null,
-          "description": "한국지능정보사회진흥원은 보고서를 통해 3년간 우리나라 D.N.A 분야에서 혁신기업으로 선정된 기업의 현황을 분석하고, D.N.A 산업의 트렌드 및 시사점을 도출해보았다.\r\n\r\n[목차]\r\n\r\nⅠ. 연구 개요 및 목적\r\nⅡ. 혁신기업 주요 현황\r\nⅢ. 심층 인터뷰\r\nⅣ. 연구 결과 활용 방안\r\nⅤ. 주요 시사점",
-          "link": "http://eiec.kdi.re.kr/policy/domesticList.do?ac=0000165779",
-          "publishedOn": "2022-04-29T06:01:46.331Z",
-          "wordCount": 555,
-          "title": "3년간 우리나라 D.N.A 분야 혁신기업 현황 분석",
-          "imageUrl": "http://eiec.kdi.re.kr/res/images/share.jpg"
         }
       ]
     }
