@@ -491,7 +491,7 @@
           "description": "Microfinance has helped millions of the world's poor build better lives. But can it help the world's poorest people, who spend most of their lives growing food to feed their families, to diversify into other jobs? Jack Thiemel tells Tim Phillips about the impact of one of these projects, and what it tells us about the best ways to help the ultra-poor.\nDownload the free DP and read more about this research: \nBandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thiemel, J. 2022. 'Microfinance and Diversification'.  CEPR",
           "link": "https://voxeu.org/vox-talks/limits-microfinance",
           "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 621,
+          "wordCount": null,
           "title": "The limits of microfinance",
           "imageUrl": null
         },
@@ -501,8 +501,18 @@
           "description": "Russia’s invasion of Ukraine has stoked tensions between Western democracies and Russia, presenting the risk of an explicit conflictual situation. This column explores the bargaining advantages of democratically elected leaders relative to autocratic ones. The typically shorter terms in office of democratic leaders and greater accountability to their populations contributes to a greater aversion to armed conflict, as does the freer flow of information and typically greater aversion to military casualties. This lends insight to Western democracies’ refrainment from direct involvement in the Ukraine war.",
           "link": "https://voxeu.org/article/bargaining-advantages-autocratic-leaders-conflicts-between-totalitarian-and-democratic-regimes",
           "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 2297,
+          "wordCount": null,
           "title": "Bargaining advantages of autocratic leaders in conflicts between totalitarian and democratic regimes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain",
+          "author": "Yunjong Eo, Luis Uzeda, Benjamin Wong",
+          "description": "Supply chain disruptions and labour shortages coupled with demand-side pressures have seen goods inflation soaring since early 2021. This column shows that while goods inflation used to contribute to permanently higher headline inflation, such as during the Great Inflation of the 1970s, since the early 1990s it has become predominantly transitory. The current high goods inflation can therefore be expected to be somewhat short-lived. Nonetheless, the authors document that the upside risks to longer-term aggregate and sector-specific inflation remain greater than usual.",
+          "link": "https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain",
+          "publishedOn": "2022-04-29T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Goods inflation is likely transitory, but upside risks to longer-term inflation remain",
           "imageUrl": null
         },
         {
@@ -516,13 +526,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain",
-          "author": "Yunjong Eo, Luis Uzeda, Benjamin Wong",
-          "description": "Supply chain disruptions and labour shortages coupled with demand-side pressures have seen goods inflation soaring since early 2021. This column shows that while goods inflation used to contribute to permanently higher headline inflation, such as during the Great Inflation of the 1970s, since the early 1990s it has become predominantly transitory. The current high goods inflation can therefore be expected to be somewhat short-lived. Nonetheless, the authors document that the upside risks to longer-term aggregate and sector-specific inflation remain greater than usual.",
-          "link": "https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain",
-          "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 2464,
-          "title": "Goods inflation is likely transitory, but upside risks to longer-term inflation remain",
+          "id": "https://voxeu.org/article/linking-education-policies-productivity",
+          "author": "Balázs  Égert, Christine de La Maisonneuve, David Turner",
+          "description": "Investing in education and human capital is an important ingredient for economic growth. This column constructs a new aggregate stock measure of human capital data using OECD data on adult skills, quality of education, and mean years of schooling. The relative weights of quality and quantity are estimated rather than imposed, as they are in the existing literature. Improvements in human capital are estimated to boost productivity significantly, but only with long lags. Furthermore, simulating the impact of pre-primary education on human capital and productivity demonstrates the usefulness of the new measure for policy analysis.",
+          "link": "https://voxeu.org/article/linking-education-policies-productivity",
+          "publishedOn": "2022-04-28T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Linking education policies to productivity",
           "imageUrl": null
         },
         {
@@ -531,18 +541,8 @@
           "description": "The COVID-19 pandemic shock posed an enormous challenge to fiscal policy in supporting household consumption. This column discusses the extent to which the pandemic-related fiscal interventions influenced consumers’ spending behaviour. Using new high-frequency data, the authors find that improving perceptions about the adequacy of fiscal interventions incentivised spending. Importantly, this perceptions channel operated equally strongly for consumers who received government support and for those who did not. Consumers who viewed the adequacy of fiscal packages more favourably also expected higher future incomes and easier access to credit, and did not anticipate an increase in taxes.",
           "link": "https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic",
           "publishedOn": "2022-04-28T00:00:00.000Z",
-          "wordCount": 2709,
+          "wordCount": null,
           "title": "Household spending and fiscal support during the pandemic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/linking-education-policies-productivity",
-          "author": "Balázs  Égert, Christine de La Maisonneuve, David Turner",
-          "description": "Investing in education and human capital is an important ingredient for economic growth. This column constructs a new aggregate stock measure of human capital data using OECD data on adult skills, quality of education, and mean years of schooling. The relative weights of quality and quantity are estimated rather than imposed, as they are in the existing literature. Improvements in human capital are estimated to boost productivity significantly, but only with long lags. Furthermore, simulating the impact of pre-primary education on human capital and productivity demonstrates the usefulness of the new measure for policy analysis.",
-          "link": "https://voxeu.org/article/linking-education-policies-productivity",
-          "publishedOn": "2022-04-28T00:00:00.000Z",
-          "wordCount": 2739,
-          "title": "Linking education policies to productivity",
           "imageUrl": null
         },
         {
@@ -551,7 +551,7 @@
           "description": "School disruptions due to war, pandemics, or natural disasters can have persistent negative effects on learning outcomes. This column estimates the learning losses due to the Russian invasion of Ukraine. From a position of relative parity with its neighbours pre-pandemic, learning outcomes in Ukraine are now estimated to be below the lowest-performing countries in Europe. Opening classes for Ukrainian refugees, providing online or by-phone tutoring, or adapting curricula for refugees can help minimise the long-term impacts of the conflict.",
           "link": "https://voxeu.org/article/loss-human-capital-ukraine",
           "publishedOn": "2022-04-27T00:00:00.000Z",
-          "wordCount": 2243,
+          "wordCount": null,
           "title": "The loss of human capital in Ukraine",
           "imageUrl": null
         },
@@ -561,7 +561,7 @@
           "description": "The costs of natural disasters have risen dramatically over the last decades. Besides the escalating climate crisis, this rise in costs is largely explained by urbanisation in exposed, often flood-prone, areas. This column examines how land-use and insurance policies can limit urbanisation and explains how insurance policies shape real estate prices. Simple observed policies, with a prohibited red zone and a zone without insurance-tariff differentiation, are relatively efficient. Red zones must be redefined as climate risks or population pressures change.",
           "link": "https://voxeu.org/article/better-land-use-and-insurance-mitigate-natural-disasters",
           "publishedOn": "2022-04-27T00:00:00.000Z",
-          "wordCount": 2573,
+          "wordCount": null,
           "title": "Better land use and insurance to mitigate natural disasters",
           "imageUrl": null
         }
