@@ -466,16 +466,6 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows",
-          "author": "Salvatore Di Falco, Anna B. Kis, Martina  Viarengo",
-          "description": "A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.",
-          "link": "https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows",
-          "publishedOn": "2022-04-30T00:00:00.000Z",
-          "wordCount": 2856,
-          "title": "Climate change, weather shocks, and migratory flows",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/gender-gap-covid-19-consumption-response",
           "author": "Stefanie J. Huber",
           "description": "Living through the COVID-19 crisis affected women and men differently. This column presents representative survey evidence from five European countries that women reduced their pre-pandemic consumption substantially more than men. Perceptions of infection risk and precautionary saving motives are only a partial explanation. Instead, men report realising that they had not missed certain goods and services during lockdown, while women attribute their reduced expenditures to perceived financial constraints – suggesting that women felt the economic consequences of the pandemic more intensely than men.",
@@ -486,12 +476,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows",
+          "author": "Salvatore Di Falco, Anna B. Kis, Martina  Viarengo",
+          "description": "A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.",
+          "link": "https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows",
+          "publishedOn": "2022-04-30T00:00:00.000Z",
+          "wordCount": 2856,
+          "title": "Climate change, weather shocks, and migratory flows",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/vox-talks/limits-microfinance",
           "author": "Jack Thiemel",
           "description": "Microfinance has helped millions of the world's poor build better lives. But can it help the world's poorest people, who spend most of their lives growing food to feed their families, to diversify into other jobs? Jack Thiemel tells Tim Phillips about the impact of one of these projects, and what it tells us about the best ways to help the ultra-poor.\nDownload the free DP and read more about this research: \nBandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thiemel, J. 2022. 'Microfinance and Diversification'.  CEPR",
           "link": "https://voxeu.org/vox-talks/limits-microfinance",
           "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 621,
           "title": "The limits of microfinance",
           "imageUrl": null
         },
@@ -501,8 +501,18 @@
           "description": "Russia’s invasion of Ukraine has stoked tensions between Western democracies and Russia, presenting the risk of an explicit conflictual situation. This column explores the bargaining advantages of democratically elected leaders relative to autocratic ones. The typically shorter terms in office of democratic leaders and greater accountability to their populations contributes to a greater aversion to armed conflict, as does the freer flow of information and typically greater aversion to military casualties. This lends insight to Western democracies’ refrainment from direct involvement in the Ukraine war.",
           "link": "https://voxeu.org/article/bargaining-advantages-autocratic-leaders-conflicts-between-totalitarian-and-democratic-regimes",
           "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2297,
           "title": "Bargaining advantages of autocratic leaders in conflicts between totalitarian and democratic regimes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women",
+          "author": "Sourafel Girma, David Paton",
+          "description": "Richard Posner argued that legalising assisted suicide may have the counter-intuitive effect of reducing unassisted and possibly even total suicide rates. This column examines the empirical evidence for this idea using data from ten US states that implemented an assisted suicide law up to the end of 2019. In contrast to Posner’s hypothesis, the real-world data suggest that assisted suicide laws lead to a substantial increase in total suicide rates and, if anything, are associated with an increase even in unassisted suicides. This effect is most pronounced amongst women.",
+          "link": "https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women",
+          "publishedOn": "2022-04-29T00:00:00.000Z",
+          "wordCount": 2307,
+          "title": "Assisted suicide laws increase suicide rates, especially among women",
           "imageUrl": null
         },
         {
@@ -516,13 +526,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women",
-          "author": "Sourafel Girma, David Paton",
-          "description": "Richard Posner argued that legalising assisted suicide may have the counter-intuitive effect of reducing unassisted and possibly even total suicide rates. This column examines the empirical evidence for this idea using data from ten US states that implemented an assisted suicide law up to the end of 2019. In contrast to Posner’s hypothesis, the real-world data suggest that assisted suicide laws lead to a substantial increase in total suicide rates and, if anything, are associated with an increase even in unassisted suicides. This effect is most pronounced amongst women.",
-          "link": "https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women",
-          "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Assisted suicide laws increase suicide rates, especially among women",
+          "id": "https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic",
+          "author": "Dimitris Georgarakos, Geoff  Kenny",
+          "description": "The COVID-19 pandemic shock posed an enormous challenge to fiscal policy in supporting household consumption. This column discusses the extent to which the pandemic-related fiscal interventions influenced consumers’ spending behaviour. Using new high-frequency data, the authors find that improving perceptions about the adequacy of fiscal interventions incentivised spending. Importantly, this perceptions channel operated equally strongly for consumers who received government support and for those who did not. Consumers who viewed the adequacy of fiscal packages more favourably also expected higher future incomes and easier access to credit, and did not anticipate an increase in taxes.",
+          "link": "https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic",
+          "publishedOn": "2022-04-28T00:00:00.000Z",
+          "wordCount": 2709,
+          "title": "Household spending and fiscal support during the pandemic",
           "imageUrl": null
         },
         {
@@ -531,18 +541,8 @@
           "description": "Investing in education and human capital is an important ingredient for economic growth. This column constructs a new aggregate stock measure of human capital data using OECD data on adult skills, quality of education, and mean years of schooling. The relative weights of quality and quantity are estimated rather than imposed, as they are in the existing literature. Improvements in human capital are estimated to boost productivity significantly, but only with long lags. Furthermore, simulating the impact of pre-primary education on human capital and productivity demonstrates the usefulness of the new measure for policy analysis.",
           "link": "https://voxeu.org/article/linking-education-policies-productivity",
           "publishedOn": "2022-04-28T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2739,
           "title": "Linking education policies to productivity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic",
-          "author": "Dimitris Georgarakos, Geoff  Kenny",
-          "description": "The COVID-19 pandemic shock posed an enormous challenge to fiscal policy in supporting household consumption. This column discusses the extent to which the pandemic-related fiscal interventions influenced consumers’ spending behaviour. Using new high-frequency data, the authors find that improving perceptions about the adequacy of fiscal interventions incentivised spending. Importantly, this perceptions channel operated equally strongly for consumers who received government support and for those who did not. Consumers who viewed the adequacy of fiscal packages more favourably also expected higher future incomes and easier access to credit, and did not anticipate an increase in taxes.",
-          "link": "https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic",
-          "publishedOn": "2022-04-28T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Household spending and fiscal support during the pandemic",
           "imageUrl": null
         },
         {
@@ -551,7 +551,7 @@
           "description": "School disruptions due to war, pandemics, or natural disasters can have persistent negative effects on learning outcomes. This column estimates the learning losses due to the Russian invasion of Ukraine. From a position of relative parity with its neighbours pre-pandemic, learning outcomes in Ukraine are now estimated to be below the lowest-performing countries in Europe. Opening classes for Ukrainian refugees, providing online or by-phone tutoring, or adapting curricula for refugees can help minimise the long-term impacts of the conflict.",
           "link": "https://voxeu.org/article/loss-human-capital-ukraine",
           "publishedOn": "2022-04-27T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2243,
           "title": "The loss of human capital in Ukraine",
           "imageUrl": null
         },
@@ -561,7 +561,7 @@
           "description": "The costs of natural disasters have risen dramatically over the last decades. Besides the escalating climate crisis, this rise in costs is largely explained by urbanisation in exposed, often flood-prone, areas. This column examines how land-use and insurance policies can limit urbanisation and explains how insurance policies shape real estate prices. Simple observed policies, with a prohibited red zone and a zone without insurance-tariff differentiation, are relatively efficient. Red zones must be redefined as climate risks or population pressures change.",
           "link": "https://voxeu.org/article/better-land-use-and-insurance-mitigate-natural-disasters",
           "publishedOn": "2022-04-27T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2573,
           "title": "Better land use and insurance to mitigate natural disasters",
           "imageUrl": null
         }
