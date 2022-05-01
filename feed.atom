@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-01T00:03:34.148Z</id>
+    <id>urn:2022-05-01T03:31:16.736Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-01T00:03:34.148Z</updated>
+    <updated>2022-05-01T03:31:16.736Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Public support for carbon taxation]]></title>
+        <id>https://voxeu.org/article/public-support-carbon-taxation</id>
+        <link href="https://voxeu.org/article/public-support-carbon-taxation"/>
+        <updated>2022-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While many economists are in favour of carbon taxation, the public often opposes this climate policy. This column uses data from a survey of 3,000 people in France to show that rejection of a carbon tax is driven by pessimistic beliefs regarding the properties of the tax. Even when revenues from the tax are redistributed to households so as to make the policy progressive, most people think that they and low-income households would lose out, and that the policy would not be effective at reducing emissions. Public investments and standards could help foster support for an ambitious climate policy.]]></summary>
+        <author>
+            <name>Thomas Douenne, Adrien Fabre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The gender gap in the COVID-19 consumption response]]></title>
         <id>https://voxeu.org/article/gender-gap-covid-19-consumption-response</id>
@@ -961,16 +971,6 @@ DAY 18 재정 정책을 이해한다 ① 정부 지출의 증가가 소비ㆍ소
         <summary type="html"><![CDATA[School disruptions due to war, pandemics, or natural disasters can have persistent negative effects on learning outcomes. This column estimates the learning losses due to the Russian invasion of Ukraine. From a position of relative parity with its neighbours pre-pandemic, learning outcomes in Ukraine are now estimated to be below the lowest-performing countries in Europe. Opening classes for Ukrainian refugees, providing online or by-phone tutoring, or adapting curricula for refugees can help minimise the long-term impacts of the conflict.]]></summary>
         <author>
             <name>Noam Angrist, Simeon Djankov, Pinelopi Goldberg, Harry Patrinos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better land use and insurance to mitigate natural disasters]]></title>
-        <id>https://voxeu.org/article/better-land-use-and-insurance-mitigate-natural-disasters</id>
-        <link href="https://voxeu.org/article/better-land-use-and-insurance-mitigate-natural-disasters"/>
-        <updated>2022-04-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The costs of natural disasters have risen dramatically over the last decades. Besides the escalating climate crisis, this rise in costs is largely explained by urbanisation in exposed, often flood-prone, areas. This column examines how land-use and insurance policies can limit urbanisation and explains how insurance policies shape real estate prices. Simple observed policies, with a prohibited red zone and a zone without insurance-tariff differentiation, are relatively efficient. Red zones must be redefined as climate risks or population pressures change.]]></summary>
-        <author>
-            <name>Céline Grislain-Letrémy, Bertrand Villeneuve</name>
         </author>
     </entry>
     <entry>
