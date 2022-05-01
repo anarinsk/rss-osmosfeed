@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-01T18:01:54.943Z</id>
+    <id>urn:2022-05-01T21:01:24.028Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-01T18:01:54.943Z</updated>
+    <updated>2022-05-01T21:01:24.028Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -464,16 +464,6 @@ Bandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thie
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Household spending and fiscal support during the pandemic]]></title>
-        <id>https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic</id>
-        <link href="https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic"/>
-        <updated>2022-04-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The COVID-19 pandemic shock posed an enormous challenge to fiscal policy in supporting household consumption. This column discusses the extent to which the pandemic-related fiscal interventions influenced consumers’ spending behaviour. Using new high-frequency data, the authors find that improving perceptions about the adequacy of fiscal interventions incentivised spending. Importantly, this perceptions channel operated equally strongly for consumers who received government support and for those who did not. Consumers who viewed the adequacy of fiscal packages more favourably also expected higher future incomes and easier access to credit, and did not anticipate an increase in taxes.]]></summary>
-        <author>
-            <name>Dimitris Georgarakos, Geoff  Kenny</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linking education policies to productivity]]></title>
         <id>https://voxeu.org/article/linking-education-policies-productivity</id>
         <link href="https://voxeu.org/article/linking-education-policies-productivity"/>
@@ -481,6 +471,16 @@ Bandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thie
         <summary type="html"><![CDATA[Investing in education and human capital is an important ingredient for economic growth. This column constructs a new aggregate stock measure of human capital data using OECD data on adult skills, quality of education, and mean years of schooling. The relative weights of quality and quantity are estimated rather than imposed, as they are in the existing literature. Improvements in human capital are estimated to boost productivity significantly, but only with long lags. Furthermore, simulating the impact of pre-primary education on human capital and productivity demonstrates the usefulness of the new measure for policy analysis.]]></summary>
         <author>
             <name>Balázs  Égert, Christine de La Maisonneuve, David Turner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Household spending and fiscal support during the pandemic]]></title>
+        <id>https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic</id>
+        <link href="https://voxeu.org/article/household-spending-and-fiscal-support-during-pandemic"/>
+        <updated>2022-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The COVID-19 pandemic shock posed an enormous challenge to fiscal policy in supporting household consumption. This column discusses the extent to which the pandemic-related fiscal interventions influenced consumers’ spending behaviour. Using new high-frequency data, the authors find that improving perceptions about the adequacy of fiscal interventions incentivised spending. Importantly, this perceptions channel operated equally strongly for consumers who received government support and for those who did not. Consumers who viewed the adequacy of fiscal packages more favourably also expected higher future incomes and easier access to credit, and did not anticipate an increase in taxes.]]></summary>
+        <author>
+            <name>Dimitris Georgarakos, Geoff  Kenny</name>
         </author>
     </entry>
     <entry>
