@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T09:01:50.167Z</id>
+    <id>urn:2022-05-02T12:01:59.771Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-02T09:01:50.167Z</updated>
+    <updated>2022-05-02T12:01:59.771Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A principal, multi-agent model of sanctions]]></title>
+        <id>https://voxeu.org/article/principal-multi-agent-model-sanctions</id>
+        <link href="https://voxeu.org/article/principal-multi-agent-model-sanctions"/>
+        <updated>2022-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian invasion of Ukraine has been met with coordinated sanctions. Sanctions are designed to incentivise cooperation, but this column argues that those being used in practice are scattershot. Instead, sanctions on oil and gas exports are the most effective way to maximise the probability that Russia ceases its misguided attack on Ukraine. Suchsanctions are most likely to target the elite who are closest to President Putin. Also, it is important that cooperation is defined clearly and to not go as far as regime change in Russia.]]></summary>
+        <author>
+            <name>Saneep Baliga</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The global inequality boomerang]]></title>
         <id>https://voxeu.org/article/global-inequality-boomerang</id>
@@ -481,16 +491,6 @@ Bandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thie
 국내도서 > 경제경영 > 트렌드/미래전망 > 인공지능/빅데이터]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linking education policies to productivity]]></title>
-        <id>https://voxeu.org/article/linking-education-policies-productivity</id>
-        <link href="https://voxeu.org/article/linking-education-policies-productivity"/>
-        <updated>2022-04-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Investing in education and human capital is an important ingredient for economic growth. This column constructs a new aggregate stock measure of human capital data using OECD data on adult skills, quality of education, and mean years of schooling. The relative weights of quality and quantity are estimated rather than imposed, as they are in the existing literature. Improvements in human capital are estimated to boost productivity significantly, but only with long lags. Furthermore, simulating the impact of pre-primary education on human capital and productivity demonstrates the usefulness of the new measure for policy analysis.]]></summary>
-        <author>
-            <name>Balázs  Égert, Christine de La Maisonneuve, David Turner</name>
         </author>
     </entry>
     <entry>

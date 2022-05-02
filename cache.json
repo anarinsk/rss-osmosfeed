@@ -466,6 +466,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/principal-multi-agent-model-sanctions",
+          "author": "Saneep Baliga",
+          "description": "The Russian invasion of Ukraine has been met with coordinated sanctions. Sanctions are designed to incentivise cooperation, but this column argues that those being used in practice are scattershot. Instead, sanctions on oil and gas exports are the most effective way to maximise the probability that Russia ceases its misguided attack on Ukraine. Suchsanctions are most likely to target the elite who are closest to President Putin. Also, it is important that cooperation is defined clearly and to not go as far as regime change in Russia.",
+          "link": "https://voxeu.org/article/principal-multi-agent-model-sanctions",
+          "publishedOn": "2022-05-02T00:00:00.000Z",
+          "wordCount": 2278,
+          "title": "A principal, multi-agent model of sanctions",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/global-inequality-boomerang",
           "author": "Ravi Kanbur, Eduardo Ortiz-Juarez, Andy Sumner",
           "description": "Global inequality has fallen over the last three decades, despite a rise in inequality within some large countries. This column argues that the decline in global inequality will reverse in the coming years, due to a turnaround in the between-country component of inequality. This inequality ‘boomerang’ is forecast to happen near end-2020s or early-2030s, although an inequal recovery from the Covid crisis could hasten the reversal. Thus, the ‘sunshine’ narrative of declining global inequality could prove temporary, and a boomerang would require new policies to combat inequality in the future.",
@@ -511,7 +521,7 @@
           "description": "Living through the COVID-19 crisis affected women and men differently. This column presents representative survey evidence from five European countries that women reduced their pre-pandemic consumption substantially more than men. Perceptions of infection risk and precautionary saving motives are only a partial explanation. Instead, men report realising that they had not missed certain goods and services during lockdown, while women attribute their reduced expenditures to perceived financial constraints – suggesting that women felt the economic consequences of the pandemic more intensely than men.",
           "link": "https://voxeu.org/article/gender-gap-covid-19-consumption-response",
           "publishedOn": "2022-04-30T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3382,
           "title": "The gender gap in the COVID-19 consumption response",
           "imageUrl": null
         },
@@ -553,16 +563,6 @@
           "publishedOn": "2022-04-29T00:00:00.000Z",
           "wordCount": null,
           "title": "Assisted suicide laws increase suicide rates, especially among women",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/linking-education-policies-productivity",
-          "author": "Balázs  Égert, Christine de La Maisonneuve, David Turner",
-          "description": "Investing in education and human capital is an important ingredient for economic growth. This column constructs a new aggregate stock measure of human capital data using OECD data on adult skills, quality of education, and mean years of schooling. The relative weights of quality and quantity are estimated rather than imposed, as they are in the existing literature. Improvements in human capital are estimated to boost productivity significantly, but only with long lags. Furthermore, simulating the impact of pre-primary education on human capital and productivity demonstrates the usefulness of the new measure for policy analysis.",
-          "link": "https://voxeu.org/article/linking-education-policies-productivity",
-          "publishedOn": "2022-04-28T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Linking education policies to productivity",
           "imageUrl": null
         }
       ]
