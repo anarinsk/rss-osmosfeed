@@ -468,10 +468,10 @@
         {
           "id": "https://voxeu.org/article/principal-multi-agent-model-sanctions",
           "author": "Saneep Baliga",
-          "description": "The Russian invasion of Ukraine has been met with coordinated sanctions. Sanctions are designed to incentivise cooperation, but this column argues that those being used in practice are scattershot. Instead, sanctions on oil and gas exports are the most effective way to maximise the probability that Russia ceases its misguided attack on Ukraine. Suchsanctions are most likely to target the elite who are closest to President Putin. Also, it is important that cooperation is defined clearly and to not go as far as regime change in Russia.",
+          "description": "The Russian invasion of Ukraine has been met with coordinated sanctions. Sanctions are designed to incentivise cooperation, but this column argues that those being used in practice are scattershot. Instead, sanctions on oil and gas exports are the most effective way to maximise the probability that Russia ceases its misguided attack on Ukraine. Such sanctions are most likely to target the elite who are closest to President Putin. Also, it is important that cooperation is defined clearly and to not go as far as regime change in Russia.",
           "link": "https://voxeu.org/article/principal-multi-agent-model-sanctions",
           "publishedOn": "2022-05-02T00:00:00.000Z",
-          "wordCount": 2279,
+          "wordCount": null,
           "title": "A principal, multi-agent model of sanctions",
           "imageUrl": null
         },
@@ -481,7 +481,7 @@
           "description": "Global inequality has fallen over the last three decades, despite a rise in inequality within some large countries. This column argues that the decline in global inequality will reverse in the coming years, due to a turnaround in the between-country component of inequality. This inequality ‘boomerang’ is forecast to happen near end-2020s or early-2030s, although an inequal recovery from the Covid crisis could hasten the reversal. Thus, the ‘sunshine’ narrative of declining global inequality could prove temporary, and a boomerang would require new policies to combat inequality in the future.",
           "link": "https://voxeu.org/article/global-inequality-boomerang",
           "publishedOn": "2022-05-02T00:00:00.000Z",
-          "wordCount": 2876,
+          "wordCount": null,
           "title": "The global inequality boomerang",
           "imageUrl": null
         },
@@ -491,7 +491,7 @@
           "description": "Labour market transitions matter for growth and inclusiveness, especially where labour shortages are coinciding with low employment in some countries recovering from COVID. This column provides new evidence on the role of a wide range of policies associated with hiring transitions into jobs, emphasising differences across socioeconomic groups. The results can help policymakers support an efficient and inclusive labour market recovery from the COVID crisis while addressing key longstanding structural challenges, such as slowing productivity and the labour market reallocations required by the green transition and digitalisation.",
           "link": "https://voxeu.org/article/policy-drivers-hiring-transitions",
           "publishedOn": "2022-05-02T00:00:00.000Z",
-          "wordCount": 1978,
+          "wordCount": null,
           "title": "The policy drivers of hiring transitions",
           "imageUrl": null
         },
@@ -501,18 +501,8 @@
           "description": "While many economists are in favour of carbon taxation, the public often opposes this climate policy. This column uses data from a survey of 3,000 people in France to show that rejection of a carbon tax is driven by pessimistic beliefs regarding the properties of the tax. Even when revenues from the tax are redistributed to households so as to make the policy progressive, most people think that they and low-income households would lose out, and that the policy would not be effective at reducing emissions. Public investments and standards could help foster support for an ambitious climate policy.",
           "link": "https://voxeu.org/article/public-support-carbon-taxation",
           "publishedOn": "2022-05-01T00:00:00.000Z",
-          "wordCount": 2357,
+          "wordCount": null,
           "title": "Public support for carbon taxation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows",
-          "author": "Salvatore Di Falco, Anna B. Kis, Martina  Viarengo",
-          "description": "A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.",
-          "link": "https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows",
-          "publishedOn": "2022-04-30T00:00:00.000Z",
-          "wordCount": 2856,
-          "title": "Climate change, weather shocks, and migratory flows",
           "imageUrl": null
         },
         {
@@ -521,8 +511,18 @@
           "description": "Living through the COVID-19 crisis affected women and men differently. This column presents representative survey evidence from five European countries that women reduced their pre-pandemic consumption substantially more than men. Perceptions of infection risk and precautionary saving motives are only a partial explanation. Instead, men report realising that they had not missed certain goods and services during lockdown, while women attribute their reduced expenditures to perceived financial constraints – suggesting that women felt the economic consequences of the pandemic more intensely than men.",
           "link": "https://voxeu.org/article/gender-gap-covid-19-consumption-response",
           "publishedOn": "2022-04-30T00:00:00.000Z",
-          "wordCount": 3382,
+          "wordCount": null,
           "title": "The gender gap in the COVID-19 consumption response",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows",
+          "author": "Salvatore Di Falco, Anna B. Kis, Martina  Viarengo",
+          "description": "A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.",
+          "link": "https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows",
+          "publishedOn": "2022-04-30T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Climate change, weather shocks, and migratory flows",
           "imageUrl": null
         },
         {
@@ -531,7 +531,7 @@
           "description": "Microfinance has helped millions of the world's poor build better lives. But can it help the world's poorest people, who spend most of their lives growing food to feed their families, to diversify into other jobs? Jack Thiemel tells Tim Phillips about the impact of one of these projects, and what it tells us about the best ways to help the ultra-poor.\nDownload the free DP and read more about this research: \nBandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thiemel, J. 2022. 'Microfinance and Diversification'.  CEPR",
           "link": "https://voxeu.org/vox-talks/limits-microfinance",
           "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 621,
+          "wordCount": null,
           "title": "The limits of microfinance",
           "imageUrl": null
         },
@@ -541,18 +541,8 @@
           "description": "Russia’s invasion of Ukraine has stoked tensions between Western democracies and Russia, presenting the risk of an explicit conflictual situation. This column explores the bargaining advantages of democratically elected leaders relative to autocratic ones. The typically shorter terms in office of democratic leaders and greater accountability to their populations contributes to a greater aversion to armed conflict, as does the freer flow of information and typically greater aversion to military casualties. This lends insight to Western democracies’ refrainment from direct involvement in the Ukraine war.",
           "link": "https://voxeu.org/article/bargaining-advantages-autocratic-leaders-conflicts-between-totalitarian-and-democratic-regimes",
           "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 2297,
+          "wordCount": null,
           "title": "Bargaining advantages of autocratic leaders in conflicts between totalitarian and democratic regimes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain",
-          "author": "Yunjong Eo, Luis Uzeda, Benjamin Wong",
-          "description": "Supply chain disruptions and labour shortages coupled with demand-side pressures have seen goods inflation soaring since early 2021. This column shows that while goods inflation used to contribute to permanently higher headline inflation, such as during the Great Inflation of the 1970s, since the early 1990s it has become predominantly transitory. The current high goods inflation can therefore be expected to be somewhat short-lived. Nonetheless, the authors document that the upside risks to longer-term aggregate and sector-specific inflation remain greater than usual.",
-          "link": "https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain",
-          "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 2464,
-          "title": "Goods inflation is likely transitory, but upside risks to longer-term inflation remain",
           "imageUrl": null
         },
         {
@@ -561,8 +551,18 @@
           "description": "Richard Posner argued that legalising assisted suicide may have the counter-intuitive effect of reducing unassisted and possibly even total suicide rates. This column examines the empirical evidence for this idea using data from ten US states that implemented an assisted suicide law up to the end of 2019. In contrast to Posner’s hypothesis, the real-world data suggest that assisted suicide laws lead to a substantial increase in total suicide rates and, if anything, are associated with an increase even in unassisted suicides. This effect is most pronounced amongst women.",
           "link": "https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women",
           "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 2307,
+          "wordCount": null,
           "title": "Assisted suicide laws increase suicide rates, especially among women",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain",
+          "author": "Yunjong Eo, Luis Uzeda, Benjamin Wong",
+          "description": "Supply chain disruptions and labour shortages coupled with demand-side pressures have seen goods inflation soaring since early 2021. This column shows that while goods inflation used to contribute to permanently higher headline inflation, such as during the Great Inflation of the 1970s, since the early 1990s it has become predominantly transitory. The current high goods inflation can therefore be expected to be somewhat short-lived. Nonetheless, the authors document that the upside risks to longer-term aggregate and sector-specific inflation remain greater than usual.",
+          "link": "https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain",
+          "publishedOn": "2022-04-29T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Goods inflation is likely transitory, but upside risks to longer-term inflation remain",
           "imageUrl": null
         }
       ]

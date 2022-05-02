@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T15:02:05.526Z</id>
+    <id>urn:2022-05-02T18:02:20.246Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-02T15:02:05.526Z</updated>
+    <updated>2022-05-02T18:02:20.246Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,7 +20,7 @@
         <id>https://voxeu.org/article/principal-multi-agent-model-sanctions</id>
         <link href="https://voxeu.org/article/principal-multi-agent-model-sanctions"/>
         <updated>2022-05-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russian invasion of Ukraine has been met with coordinated sanctions. Sanctions are designed to incentivise cooperation, but this column argues that those being used in practice are scattershot. Instead, sanctions on oil and gas exports are the most effective way to maximise the probability that Russia ceases its misguided attack on Ukraine. Suchsanctions are most likely to target the elite who are closest to President Putin. Also, it is important that cooperation is defined clearly and to not go as far as regime change in Russia.]]></summary>
+        <summary type="html"><![CDATA[The Russian invasion of Ukraine has been met with coordinated sanctions. Sanctions are designed to incentivise cooperation, but this column argues that those being used in practice are scattershot. Instead, sanctions on oil and gas exports are the most effective way to maximise the probability that Russia ceases its misguided attack on Ukraine. Such sanctions are most likely to target the elite who are closest to President Putin. Also, it is important that cooperation is defined clearly and to not go as far as regime change in Russia.]]></summary>
         <author>
             <name>Saneep Baliga</name>
         </author>
@@ -56,16 +56,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Climate change, weather shocks, and migratory flows]]></title>
-        <id>https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows</id>
-        <link href="https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows"/>
-        <updated>2022-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.]]></summary>
-        <author>
-            <name>Salvatore Di Falco, Anna B. Kis, Martina  Viarengo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The gender gap in the COVID-19 consumption response]]></title>
         <id>https://voxeu.org/article/gender-gap-covid-19-consumption-response</id>
         <link href="https://voxeu.org/article/gender-gap-covid-19-consumption-response"/>
@@ -73,6 +63,16 @@
         <summary type="html"><![CDATA[Living through the COVID-19 crisis affected women and men differently. This column presents representative survey evidence from five European countries that women reduced their pre-pandemic consumption substantially more than men. Perceptions of infection risk and precautionary saving motives are only a partial explanation. Instead, men report realising that they had not missed certain goods and services during lockdown, while women attribute their reduced expenditures to perceived financial constraints – suggesting that women felt the economic consequences of the pandemic more intensely than men.]]></summary>
         <author>
             <name>Stefanie J. Huber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate change, weather shocks, and migratory flows]]></title>
+        <id>https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows</id>
+        <link href="https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows"/>
+        <updated>2022-04-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.]]></summary>
+        <author>
+            <name>Salvatore Di Falco, Anna B. Kis, Martina  Viarengo</name>
         </author>
     </entry>
     <entry>
@@ -277,16 +277,6 @@ Bandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thie
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goods inflation is likely transitory, but upside risks to longer-term inflation remain]]></title>
-        <id>https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain</id>
-        <link href="https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Supply chain disruptions and labour shortages coupled with demand-side pressures have seen goods inflation soaring since early 2021. This column shows that while goods inflation used to contribute to permanently higher headline inflation, such as during the Great Inflation of the 1970s, since the early 1990s it has become predominantly transitory. The current high goods inflation can therefore be expected to be somewhat short-lived. Nonetheless, the authors document that the upside risks to longer-term aggregate and sector-specific inflation remain greater than usual.]]></summary>
-        <author>
-            <name>Yunjong Eo, Luis Uzeda, Benjamin Wong</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Assisted suicide laws increase suicide rates, especially among women]]></title>
         <id>https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women</id>
         <link href="https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women"/>
@@ -294,6 +284,16 @@ Bandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thie
         <summary type="html"><![CDATA[Richard Posner argued that legalising assisted suicide may have the counter-intuitive effect of reducing unassisted and possibly even total suicide rates. This column examines the empirical evidence for this idea using data from ten US states that implemented an assisted suicide law up to the end of 2019. In contrast to Posner’s hypothesis, the real-world data suggest that assisted suicide laws lead to a substantial increase in total suicide rates and, if anything, are associated with an increase even in unassisted suicides. This effect is most pronounced amongst women.]]></summary>
         <author>
             <name>Sourafel Girma, David Paton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goods inflation is likely transitory, but upside risks to longer-term inflation remain]]></title>
+        <id>https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain</id>
+        <link href="https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain"/>
+        <updated>2022-04-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Supply chain disruptions and labour shortages coupled with demand-side pressures have seen goods inflation soaring since early 2021. This column shows that while goods inflation used to contribute to permanently higher headline inflation, such as during the Great Inflation of the 1970s, since the early 1990s it has become predominantly transitory. The current high goods inflation can therefore be expected to be somewhat short-lived. Nonetheless, the authors document that the upside risks to longer-term aggregate and sector-specific inflation remain greater than usual.]]></summary>
+        <author>
+            <name>Yunjong Eo, Luis Uzeda, Benjamin Wong</name>
         </author>
     </entry>
     <entry>
