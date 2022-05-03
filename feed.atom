@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T21:02:00.404Z</id>
+    <id>urn:2022-05-03T00:02:29.540Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-02T21:02:00.404Z</updated>
+    <updated>2022-05-03T00:02:29.540Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Historical lessons on the real effects of unstable stablecoins]]></title>
+        <id>https://voxeu.org/article/historical-lessons-real-effects-unstable-stablecoins</id>
+        <link href="https://voxeu.org/article/historical-lessons-real-effects-unstable-stablecoins"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Innovations in private money creation, such as stablecoins, can be economically useful because they improve efficiency in the payments system. However, if these currencies are not fully ‘stable’, uncertainty over their value may be a source of transactions friction that have real costs. The column discusses how the National Banking Act of 1864 in the US provides a natural experiment for evaluating the effects of stabilising the value of private money. The act introduced a new type of private money that was fully stable for the first time. Gaining access to the stable money generated growth in economic sectors that were sensitive to transaction costs.]]></summary>
+        <author>
+            <name>Chenzi Xu, He Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech ownership of banks and the regulatory response]]></title>
+        <id>https://voxeu.org/article/tech-ownership-banks-and-regulatory-response</id>
+        <link href="https://voxeu.org/article/tech-ownership-banks-and-regulatory-response"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Should tech firms be allowed to own banks? This question is part of a broader debate on whether non-financial companies can affiliate with banks. This column explores the merits of permitting tech firms to operate a licensed bank and outlines their state of play and regulatory environment in seven jurisdictions. It also proposes policy options to help mitigate their perceived risks, as some banking authorities look to tech firms to expand financial access and improve consumer outcomes.]]></summary>
+        <author>
+            <name>Raihan Zamil, Aidan Lawson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparing 911 responses]]></title>
         <id>https://www.aeaweb.org/research/race-police-force-911-calls</id>
@@ -274,26 +294,6 @@ Bandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thie
         <summary type="html"><![CDATA[Russia’s invasion of Ukraine has stoked tensions between Western democracies and Russia, presenting the risk of an explicit conflictual situation. This column explores the bargaining advantages of democratically elected leaders relative to autocratic ones. The typically shorter terms in office of democratic leaders and greater accountability to their populations contributes to a greater aversion to armed conflict, as does the freer flow of information and typically greater aversion to military casualties. This lends insight to Western democracies’ refrainment from direct involvement in the Ukraine war.]]></summary>
         <author>
             <name>Alex Cukierman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assisted suicide laws increase suicide rates, especially among women]]></title>
-        <id>https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women</id>
-        <link href="https://voxeu.org/article/assisted-suicide-laws-increase-suicide-rates-especially-among-women"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Richard Posner argued that legalising assisted suicide may have the counter-intuitive effect of reducing unassisted and possibly even total suicide rates. This column examines the empirical evidence for this idea using data from ten US states that implemented an assisted suicide law up to the end of 2019. In contrast to Posner’s hypothesis, the real-world data suggest that assisted suicide laws lead to a substantial increase in total suicide rates and, if anything, are associated with an increase even in unassisted suicides. This effect is most pronounced amongst women.]]></summary>
-        <author>
-            <name>Sourafel Girma, David Paton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goods inflation is likely transitory, but upside risks to longer-term inflation remain]]></title>
-        <id>https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain</id>
-        <link href="https://voxeu.org/article/goods-inflation-likely-transitory-upside-risks-longer-term-inflation-remain"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Supply chain disruptions and labour shortages coupled with demand-side pressures have seen goods inflation soaring since early 2021. This column shows that while goods inflation used to contribute to permanently higher headline inflation, such as during the Great Inflation of the 1970s, since the early 1990s it has become predominantly transitory. The current high goods inflation can therefore be expected to be somewhat short-lived. Nonetheless, the authors document that the upside risks to longer-term aggregate and sector-specific inflation remain greater than usual.]]></summary>
-        <author>
-            <name>Yunjong Eo, Luis Uzeda, Benjamin Wong</name>
         </author>
     </entry>
     <entry>
@@ -674,6 +674,7 @@ H&B 스토어: 멀티브랜드숍으로 10년 만에 귀환
 온라인 채널: 기회와 위기의 공존, 브랜드 양극화 
 브랜드력이 높은 업체: 성...
 
+국내도서 > 경제경영 > 재테크/투자 > 주식/펀드
 국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
@@ -1661,7 +1662,7 @@ ___문자열 공백 삭제하기
         <updated>2022-04-25T01:10:00.000Z</updated>
         <summary type="html"><![CDATA[대한민국을 지배할 미래 기술
 문재현 외 지음 / 한국경제신문i / 2022년 04월 / ISBN:9788947548083
-정가: 18,000원 / 판매가: 17,100원 / 마일리지: 540원
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 180원
 이벤트: 5월 특별선물! 2022 우양산, 틴케이스+스티커 세트(이벤트 도서 포함, 국내서.외서 5만원 이상)
 
 
@@ -2566,7 +2567,7 @@ __4.3.1 버블 정렬 알고리즘 이해...
         <summary type="html"><![CDATA[코딩영어
 김용찬 지음 / 원펀치 / 2022년 04월 / ISBN:9791196345549
 정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
-이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
+이벤트: 외국어_피너츠 아이스 텀블러, 플러스펜 세트
 
 
 
@@ -2582,8 +2583,7 @@ PART Ⅰ
 Learn to Program w/ Python 1. Introduction
 Learn to Program w/ Python 2. Tuples, strings, loops
 Learn to Program w/ Python 3. Lists and tic tac toe game
-Learn to Program w/ Python 4. Built-in functions
-L…]]></summary>
+Learn to Program w/ Python 4. Built-in functions…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
