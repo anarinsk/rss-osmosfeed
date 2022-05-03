@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T15:02:00.850Z</id>
+    <id>urn:2022-05-03T18:01:28.955Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-03T15:02:00.850Z</updated>
+    <updated>2022-05-03T18:01:28.955Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Tech ownership of banks and the regulatory response]]></title>
-        <id>https://voxeu.org/article/tech-ownership-banks-and-regulatory-response</id>
-        <link href="https://voxeu.org/article/tech-ownership-banks-and-regulatory-response"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Should tech firms be allowed to own banks? This question is part of a broader debate on whether non-financial companies can affiliate with banks. This column explores the merits of permitting tech firms to operate a licensed bank and outlines their state of play and regulatory environment in seven jurisdictions. It also proposes policy options to help mitigate their perceived risks, as some banking authorities look to tech firms to expand financial access and improve consumer outcomes.]]></summary>
-        <author>
-            <name>Raihan Zamil, Aidan Lawson</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Do voter have a gender bias? A natural experiment in France]]></title>
         <id>https://voxeu.org/content/do-voter-have-gender-bias-natural-experiment-france</id>
@@ -37,6 +27,16 @@ Read more about this paper recently presented at the 75th Economic Policy Panel 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tech ownership of banks and the regulatory response]]></title>
+        <id>https://voxeu.org/article/tech-ownership-banks-and-regulatory-response</id>
+        <link href="https://voxeu.org/article/tech-ownership-banks-and-regulatory-response"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Should tech firms be allowed to own banks? This question is part of a broader debate on whether non-financial companies can affiliate with banks. This column explores the merits of permitting tech firms to operate a licensed bank and outlines their state of play and regulatory environment in seven jurisdictions. It also proposes policy options to help mitigate their perceived risks, as some banking authorities look to tech firms to expand financial access and improve consumer outcomes.]]></summary>
+        <author>
+            <name>Raihan Zamil, Aidan Lawson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Comparing 911 responses]]></title>
         <id>https://www.aeaweb.org/research/race-police-force-911-calls</id>
         <link href="https://www.aeaweb.org/research/race-police-force-911-calls"/>
@@ -51,9 +51,9 @@ Read more about this paper recently presented at the 75th Economic Policy Panel 
         <id>https://voxeu.org/article/principal-multi-agent-model-sanctions</id>
         <link href="https://voxeu.org/article/principal-multi-agent-model-sanctions"/>
         <updated>2022-05-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russian invasion of Ukraine has been met with coordinated sanctions. Sanctions are designed to incentivise cooperation, but this column argues that those being used in practice are scattershot. Instead, sanctions on oil and gas exports are the most effective way to maximise the probability that Russia ceases its misguided attack on Ukraine. Such sanctions are most likely to target the elite who are closest to President Putin. Also, it is important that cooperation is defined clearly and to not go as far as regime change in Russia.]]></summary>
+        <summary type="html"><![CDATA[The Russian invasion of Ukraine has been met with coordinated sanctions. Sanctions are designed to incentivise cooperation, but this column argues that those being used in practice are scattershot. Instead, sanctions on oil and gas exports are the most effective way to maximise the probability that Russia ceases its misguided attack on Ukraine. Such sanctions are most likely to target the elite who are closest to President Putin. Also, it is important that cooperation is defined clearly and to not go as far as regime change in Russia.]]></summary>
         <author>
-            <name>Saneep Baliga</name>
+            <name>Sandeep Baliga</name>
         </author>
     </entry>
     <entry>
@@ -87,16 +87,6 @@ Read more about this paper recently presented at the 75th Economic Policy Panel 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Climate change, weather shocks, and migratory flows]]></title>
-        <id>https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows</id>
-        <link href="https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows"/>
-        <updated>2022-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.]]></summary>
-        <author>
-            <name>Salvatore Di Falco, Anna B. Kis, Martina  Viarengo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The gender gap in the COVID-19 consumption response]]></title>
         <id>https://voxeu.org/article/gender-gap-covid-19-consumption-response</id>
         <link href="https://voxeu.org/article/gender-gap-covid-19-consumption-response"/>
@@ -104,6 +94,16 @@ Read more about this paper recently presented at the 75th Economic Policy Panel 
         <summary type="html"><![CDATA[Living through the COVID-19 crisis affected women and men differently. This column presents representative survey evidence from five European countries that women reduced their pre-pandemic consumption substantially more than men. Perceptions of infection risk and precautionary saving motives are only a partial explanation. Instead, men report realising that they had not missed certain goods and services during lockdown, while women attribute their reduced expenditures to perceived financial constraints – suggesting that women felt the economic consequences of the pandemic more intensely than men.]]></summary>
         <author>
             <name>Stefanie J. Huber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate change, weather shocks, and migratory flows]]></title>
+        <id>https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows</id>
+        <link href="https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows"/>
+        <updated>2022-04-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.]]></summary>
+        <author>
+            <name>Salvatore Di Falco, Anna B. Kis, Martina  Viarengo</name>
         </author>
     </entry>
     <entry>
