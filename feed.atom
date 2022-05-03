@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T06:02:14.922Z</id>
+    <id>urn:2022-05-03T09:01:51.392Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-03T06:02:14.922Z</updated>
+    <updated>2022-05-03T09:01:51.392Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,17 @@
         <summary type="html"><![CDATA[Should tech firms be allowed to own banks? This question is part of a broader debate on whether non-financial companies can affiliate with banks. This column explores the merits of permitting tech firms to operate a licensed bank and outlines their state of play and regulatory environment in seven jurisdictions. It also proposes policy options to help mitigate their perceived risks, as some banking authorities look to tech firms to expand financial access and improve consumer outcomes.]]></summary>
         <author>
             <name>Raihan Zamil, Aidan Lawson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do voter have a gender bias? A natural experiment in France]]></title>
+        <id>https://voxeu.org/content/do-voter-have-gender-bias-natural-experiment-france</id>
+        <link href="https://voxeu.org/content/do-voter-have-gender-bias-natural-experiment-france"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's hard to find good evidence on whether voters have a gender bias. But the voting format used in French local elections makes it possible to estimate the extent of this form of discrimination, and suggests what we can do about it.
+Read more about this paper recently presented at the 75th Economic Policy Panel meeting: Gender Discrimination in Politics.]]></summary>
+        <author>
+            <name>Jean Benoit Eymeoud</name>
         </author>
     </entry>
     <entry>
@@ -76,16 +87,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The gender gap in the COVID-19 consumption response]]></title>
-        <id>https://voxeu.org/article/gender-gap-covid-19-consumption-response</id>
-        <link href="https://voxeu.org/article/gender-gap-covid-19-consumption-response"/>
-        <updated>2022-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Living through the COVID-19 crisis affected women and men differently. This column presents representative survey evidence from five European countries that women reduced their pre-pandemic consumption substantially more than men. Perceptions of infection risk and precautionary saving motives are only a partial explanation. Instead, men report realising that they had not missed certain goods and services during lockdown, while women attribute their reduced expenditures to perceived financial constraints – suggesting that women felt the economic consequences of the pandemic more intensely than men.]]></summary>
-        <author>
-            <name>Stefanie J. Huber</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Climate change, weather shocks, and migratory flows]]></title>
         <id>https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows</id>
         <link href="https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows"/>
@@ -93,6 +94,16 @@
         <summary type="html"><![CDATA[A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.]]></summary>
         <author>
             <name>Salvatore Di Falco, Anna B. Kis, Martina  Viarengo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The gender gap in the COVID-19 consumption response]]></title>
+        <id>https://voxeu.org/article/gender-gap-covid-19-consumption-response</id>
+        <link href="https://voxeu.org/article/gender-gap-covid-19-consumption-response"/>
+        <updated>2022-04-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Living through the COVID-19 crisis affected women and men differently. This column presents representative survey evidence from five European countries that women reduced their pre-pandemic consumption substantially more than men. Perceptions of infection risk and precautionary saving motives are only a partial explanation. Instead, men report realising that they had not missed certain goods and services during lockdown, while women attribute their reduced expenditures to perceived financial constraints – suggesting that women felt the economic consequences of the pandemic more intensely than men.]]></summary>
+        <author>
+            <name>Stefanie J. Huber</name>
         </author>
     </entry>
     <entry>
@@ -284,16 +295,6 @@ Download the free DP and read more about this research: 
 Bandiera, O, Burgess, R, Deserranno, E, Morel, R, Rasul, I, Sulaiman, M and Thiemel, J. 2022. 'Microfinance and Diversification'.  CEPR]]></summary>
         <author>
             <name>Jack Thiemel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bargaining advantages of autocratic leaders in conflicts between totalitarian and democratic regimes]]></title>
-        <id>https://voxeu.org/article/bargaining-advantages-autocratic-leaders-conflicts-between-totalitarian-and-democratic-regimes</id>
-        <link href="https://voxeu.org/article/bargaining-advantages-autocratic-leaders-conflicts-between-totalitarian-and-democratic-regimes"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s invasion of Ukraine has stoked tensions between Western democracies and Russia, presenting the risk of an explicit conflictual situation. This column explores the bargaining advantages of democratically elected leaders relative to autocratic ones. The typically shorter terms in office of democratic leaders and greater accountability to their populations contributes to a greater aversion to armed conflict, as does the freer flow of information and typically greater aversion to military casualties. This lends insight to Western democracies’ refrainment from direct involvement in the Ukraine war.]]></summary>
-        <author>
-            <name>Alex Cukierman</name>
         </author>
     </entry>
     <entry>
