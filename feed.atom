@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T18:01:17.118Z</id>
+    <id>urn:2022-05-04T21:01:57.065Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-04T18:01:17.118Z</updated>
+    <updated>2022-05-04T21:01:57.065Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -229,13 +229,13 @@ Read more about this paper recently presented at the 75th Economic Policy Panel 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Climate change, weather shocks, and migratory flows]]></title>
-        <id>https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows</id>
-        <link href="https://voxeu.org/article/climate-change-weather-shocks-and-migratory-flows"/>
+        <title type="html"><![CDATA[The gender gap in the COVID-19 consumption response]]></title>
+        <id>https://voxeu.org/article/gender-gap-covid-19-consumption-response</id>
+        <link href="https://voxeu.org/article/gender-gap-covid-19-consumption-response"/>
         <updated>2022-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A high dependence on agriculture has left rural households in sub-Saharan Africa particularly vulnerable to the adverse effects of climate change. This column combines a multi-country panel dataset with precipitation records to re-examine the growing season in five sub-Saharan African countries, and the impact of frequent and extreme drought on a household’s decision to migrate. While the effects of recent weather shocks were modest, the cumulative impact of persistent exposure to drought over several years led to a significant increase in the probability of migrating.]]></summary>
+        <summary type="html"><![CDATA[Living through the COVID-19 crisis affected women and men differently. This column presents representative survey evidence from five European countries that women reduced their pre-pandemic consumption substantially more than men. Perceptions of infection risk and precautionary saving motives are only a partial explanation. Instead, men report realising that they had not missed certain goods and services during lockdown, while women attribute their reduced expenditures to perceived financial constraints – suggesting that women felt the economic consequences of the pandemic more intensely than men.]]></summary>
         <author>
-            <name>Salvatore Di Falco, Anna B. Kis, Martina  Viarengo</name>
+            <name>Stefanie J. Huber</name>
         </author>
     </entry>
     <entry>
@@ -3375,17 +3375,6 @@ CHAPTER 10 XGBoost 모델 배포
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxation and Innovation in the Twentieth Century]]></title>
-        <id>https://microeconomicinsights.org/?p=3135</id>
-        <link href="https://microeconomicinsights.org/taxation-and-innovation-in-the-twentieth-century/"/>
-        <updated>2022-04-05T08:28:41.000Z</updated>
-        <summary type="html"><![CDATA[How sensitive are inventors to changes in tax rates? This is a critical and controversial question in public policy given the centrality of the tax system to the structure of incentives in the real economy. While targeted tax policies, such as R&D tax credits, can spur innovation, our work focuses on whether general personal and […]
-The post Taxation and Innovation in the Twentieth Century appeared first on Microeconomic Insights.]]></summary>
-        <author>
-            <name>Dermot Watson</name>
         </author>
     </entry>
 </feed>
