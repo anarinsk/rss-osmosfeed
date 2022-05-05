@@ -476,6 +476,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/how-war-ukraine-may-reshape-globalisation",
+          "author": "Michele Ruta",
+          "description": "The war in Ukraine has suddenly increased geopolitical risks. This column argues that firms will respond to the shock by reassessing security-related risks, leading to changes in the structure of supply chains. But given the capital in place, the cost of searching for alternatives, and factors such as wage differentials across countries, this process is likely to be gradual rather than sudden and will affect different sectors and products differently. It will not result in a reversal of globalisation, unless it is supported by pronounced government intervention.",
+          "link": "https://voxeu.org/article/how-war-ukraine-may-reshape-globalisation",
+          "publishedOn": "2022-05-05T00:00:00.000Z",
+          "wordCount": 2107,
+          "title": "How the war in Ukraine may reshape globalisation",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/tax-aversion-and-social-contract-africa",
           "author": "James Robinson",
           "description": "Although a key determinant of poverty in Africa is the under-provision of public services, the preference for lower taxation and fewer public goods remains widespread. This column proposes a new explanation for why African tax revenues are so low. Rather than rely on standard arguments about accountability and governance, the author uncovers deep-seated ideas about the nature of the state and its threat to the autonomy of society. Historically, social contracts in Africa rarely featured taxation. Building fiscal systems is therefore not simply a technical or human resources problem, but a political one.",
@@ -516,22 +526,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/tech-ownership-banks-and-regulatory-response",
-          "author": "Raihan Zamil, Aidan Lawson",
-          "description": "Should tech firms be allowed to own banks? This question is part of a broader debate on whether non-financial companies can affiliate with banks. This column explores the merits of permitting tech firms to operate a licensed bank and outlines their state of play and regulatory environment in seven jurisdictions. It also proposes policy options to help mitigate their perceived risks, as some banking authorities look to tech firms to expand financial access and improve consumer outcomes.",
-          "link": "https://voxeu.org/article/tech-ownership-banks-and-regulatory-response",
-          "publishedOn": "2022-05-03T00:00:00.000Z",
-          "wordCount": 2926,
-          "title": "Tech ownership of banks and the regulatory response",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/content/do-voter-have-gender-bias-natural-experiment-france",
           "author": "Jean Benoit Eymeoud",
           "description": "It's hard to find good evidence on whether voters have a gender bias. But the voting format used in French local elections makes it possible to estimate the extent of this form of discrimination, and suggests what we can do about it.\nRead more about this paper recently presented at the 75th Economic Policy Panel meeting: Gender Discrimination in Politics.",
           "link": "https://voxeu.org/content/do-voter-have-gender-bias-natural-experiment-france",
           "publishedOn": "2022-05-03T00:00:00.000Z",
-          "wordCount": 601,
+          "wordCount": null,
           "title": "Do voter have a gender bias? A natural experiment in France",
           "imageUrl": null
         },
@@ -543,6 +543,16 @@
           "publishedOn": "2022-05-03T00:00:00.000Z",
           "wordCount": 1888,
           "title": "Historical lessons on the real effects of unstable stablecoins",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/tech-ownership-banks-and-regulatory-response",
+          "author": "Raihan Zamil, Aidan Lawson",
+          "description": "Should tech firms be allowed to own banks? This question is part of a broader debate on whether non-financial companies can affiliate with banks. This column explores the merits of permitting tech firms to operate a licensed bank and outlines their state of play and regulatory environment in seven jurisdictions. It also proposes policy options to help mitigate their perceived risks, as some banking authorities look to tech firms to expand financial access and improve consumer outcomes.",
+          "link": "https://voxeu.org/article/tech-ownership-banks-and-regulatory-response",
+          "publishedOn": "2022-05-03T00:00:00.000Z",
+          "wordCount": 2926,
+          "title": "Tech ownership of banks and the regulatory response",
           "imageUrl": null
         },
         {
@@ -563,16 +573,6 @@
           "publishedOn": "2022-05-02T00:00:00.000Z",
           "wordCount": 2877,
           "title": "The global inequality boomerang",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/policy-drivers-hiring-transitions",
-          "author": "Michael Abendschein, Nhung Luu, Orsetta Causa",
-          "description": "Labour market transitions matter for growth and inclusiveness, especially where labour shortages are coinciding with low employment in some countries recovering from COVID. This column provides new evidence on the role of a wide range of policies associated with hiring transitions into jobs, emphasising differences across socioeconomic groups. The results can help policymakers support an efficient and inclusive labour market recovery from the COVID crisis while addressing key longstanding structural challenges, such as slowing productivity and the labour market reallocations required by the green transition and digitalisation.",
-          "link": "https://voxeu.org/article/policy-drivers-hiring-transitions",
-          "publishedOn": "2022-05-02T00:00:00.000Z",
-          "wordCount": 1979,
-          "title": "The policy drivers of hiring transitions",
           "imageUrl": null
         }
       ]

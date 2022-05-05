@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T06:01:46.409Z</id>
+    <id>urn:2022-05-05T09:01:56.469Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-05T06:01:46.409Z</updated>
+    <updated>2022-05-05T09:01:56.469Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How the war in Ukraine may reshape globalisation]]></title>
+        <id>https://voxeu.org/article/how-war-ukraine-may-reshape-globalisation</id>
+        <link href="https://voxeu.org/article/how-war-ukraine-may-reshape-globalisation"/>
+        <updated>2022-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The war in Ukraine has suddenly increased geopolitical risks. This column argues that firms will respond to the shock by reassessing security-related risks, leading to changes in the structure of supply chains. But given the capital in place, the cost of searching for alternatives, and factors such as wage differentials across countries, this process is likely to be gradual rather than sudden and will affect different sectors and products differently. It will not result in a reversal of globalisation, unless it is supported by pronounced government intervention.]]></summary>
+        <author>
+            <name>Michele Ruta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tax aversion and the social contract in Africa]]></title>
         <id>https://voxeu.org/article/tax-aversion-and-social-contract-africa</id>
@@ -198,16 +208,6 @@ CHAPTER 6  연결시켜 꽃피우다: 정보화의 융합과 공진화
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech ownership of banks and the regulatory response]]></title>
-        <id>https://voxeu.org/article/tech-ownership-banks-and-regulatory-response</id>
-        <link href="https://voxeu.org/article/tech-ownership-banks-and-regulatory-response"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Should tech firms be allowed to own banks? This question is part of a broader debate on whether non-financial companies can affiliate with banks. This column explores the merits of permitting tech firms to operate a licensed bank and outlines their state of play and regulatory environment in seven jurisdictions. It also proposes policy options to help mitigate their perceived risks, as some banking authorities look to tech firms to expand financial access and improve consumer outcomes.]]></summary>
-        <author>
-            <name>Raihan Zamil, Aidan Lawson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Do voter have a gender bias? A natural experiment in France]]></title>
         <id>https://voxeu.org/content/do-voter-have-gender-bias-natural-experiment-france</id>
         <link href="https://voxeu.org/content/do-voter-have-gender-bias-natural-experiment-france"/>
@@ -226,6 +226,16 @@ Read more about this paper recently presented at the 75th Economic Policy Panel 
         <summary type="html"><![CDATA[Innovations in private money creation, such as stablecoins, can be economically useful because they improve efficiency in the payments system. However, if these currencies are not fully ‘stable’, uncertainty over their value may be a source of transactions friction that have real costs. The column discusses how the National Banking Act of 1864 in the US provides a natural experiment for evaluating the effects of stabilising the value of private money. The act introduced a new type of private money that was fully stable for the first time. Gaining access to the stable money generated growth in economic sectors that were sensitive to transaction costs.]]></summary>
         <author>
             <name>Chenzi Xu, He Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech ownership of banks and the regulatory response]]></title>
+        <id>https://voxeu.org/article/tech-ownership-banks-and-regulatory-response</id>
+        <link href="https://voxeu.org/article/tech-ownership-banks-and-regulatory-response"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Should tech firms be allowed to own banks? This question is part of a broader debate on whether non-financial companies can affiliate with banks. This column explores the merits of permitting tech firms to operate a licensed bank and outlines their state of play and regulatory environment in seven jurisdictions. It also proposes policy options to help mitigate their perceived risks, as some banking authorities look to tech firms to expand financial access and improve consumer outcomes.]]></summary>
+        <author>
+            <name>Raihan Zamil, Aidan Lawson</name>
         </author>
     </entry>
     <entry>
@@ -378,16 +388,6 @@ Read more about this paper recently presented at the 75th Economic Policy Panel 
         <summary type="html"><![CDATA[Global inequality has fallen over the last three decades, despite a rise in inequality within some large countries. This column argues that the decline in global inequality will reverse in the coming years, due to a turnaround in the between-country component of inequality. This inequality ‘boomerang’ is forecast to happen near end-2020s or early-2030s, although an inequal recovery from the Covid crisis could hasten the reversal. Thus, the ‘sunshine’ narrative of declining global inequality could prove temporary, and a boomerang would require new policies to combat inequality in the future.]]></summary>
         <author>
             <name>Ravi Kanbur, Eduardo Ortiz-Juarez, Andy Sumner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The policy drivers of hiring transitions]]></title>
-        <id>https://voxeu.org/article/policy-drivers-hiring-transitions</id>
-        <link href="https://voxeu.org/article/policy-drivers-hiring-transitions"/>
-        <updated>2022-05-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Labour market transitions matter for growth and inclusiveness, especially where labour shortages are coinciding with low employment in some countries recovering from COVID. This column provides new evidence on the role of a wide range of policies associated with hiring transitions into jobs, emphasising differences across socioeconomic groups. The results can help policymakers support an efficient and inclusive labour market recovery from the COVID crisis while addressing key longstanding structural challenges, such as slowing productivity and the labour market reallocations required by the green transition and digitalisation.]]></summary>
-        <author>
-            <name>Michael Abendschein, Nhung Luu, Orsetta Causa</name>
         </author>
     </entry>
     <entry>
