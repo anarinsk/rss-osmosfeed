@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T12:01:33.394Z</id>
+    <id>urn:2022-05-06T15:01:27.006Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-06T12:01:33.395Z</updated>
+    <updated>2022-05-06T15:01:27.006Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -3303,113 +3303,6 @@ MegaMart.com에 오신 것을 환영합니다 62
         <summary type="html"><![CDATA[People in debates can persuade themselves of the factual and moral superiority of their own arguments as they go along, which is why some disagreements are so hard to resolve, according to a paper in the American Economic Review.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클릭센스(QlikSense)로 빅데이터 시각화 끝내기 <모델링편>/홍성수.홍성준 지음/부크크(bookk)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=292249241</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=292249241"/>
-        <updated>2022-04-07T01:12:00.000Z</updated>
-        <summary type="html"><![CDATA[클릭센스(QlikSense)로 빅데이터 시각화 끝내기 <모델링편>
-홍성수.홍성준 지음 / 부크크(bookk) / 2022년 03월 / ISBN:9791137277441
-정가: 30,200원 / 판매가: 30,200원 / 마일리지: 0원
-이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
-
-
-
-
-프롤로그
-
-
-제1장. 클릭(Qlik) 모델
-  1. 연관 모델(Associative Model)
-  2. RDB와 Qlik 비교
-  3. 데이터 모델
-
-
-제2장. 클릭(Qlik) 모델링 고려 사항
-  1. 가상 키(Synthetic Key)란?
-  2. 가상 키 제거 방법
-  3. 순환 참조(Circular Reference)란?
-  4. 순환 참조 제거 방법
-
-
-제3장. 클릭(Qlik) 스크립트
-  1. 데이터 로드 편집기(Script Editor)
-  2. 데이터 구조에 대한 이해
-  3. 데이터 불러오기
-    3.1. 데이터 연결
-    3.2. 데이터 선택
-    3.3. 데이터 로드
-  4. 데이터 가공하기
-    4.1. 주석
-    4.2. 데이터 변환
-    4.3. 데이터 저장
-    4.4. 데이터 삭제
-    4.5. 데이터 복제
-    4.6. 데이터 제한
-
-
-제4장. 데이터 모델링 및 최적화
-  1. 열 결합(Join & Keep)
-  2. 행 결합(Concatenate & Noconcatenate)
-  3. Inline & Mapping Load
-  4. AutoNumber & Hash
-  5. Qualify & Unqualify
-  6. Link Table
-  7. Aggregation(Group by)
-
-
-제5장. 효율적인 데이터 처리
-  1. CrossTable
-  2. Genetic
-  3. IntervalMatch
-  4. Class
-  5. HidePrefix & HideSuffix
-  6. Peek
-  7. 변수(Variable) 설정
-  8. Master Calendar
-  9. Binary
-  10. Sleep
-  11. 조건문(IF)
-  12. 반복문(For & Next)
-  13. 서브루틴(Sub & Call)
-  14. 증분 로드(Incremental Load)
-
-
-제6장. 연산자 및 함수
-  1. 연산자
-  2. 조건 함수
-  3. 날짜 함수
-  4. 문자 함수
-
-
-제7장. 유용한 관리 기능
-  1. 데이터 파일 백업
-  2. Include 변수
-
-
-제8장. 디버깅
-  1. 디버깅(Debugging)이란?
-  2. 디버그 실행
-
-
-제9장. 데이터 모델링 따라하기(실전편)
-  1. 분석 요건 확인
-  2. 데이터 확인
-  3. 모델 설계
-  4. 데이터 모델링
-  5. 집계 데이터 가공
-  6. 화면 예시
-
-
-제10장. 공공데이터 OpenAPI 호출하기(응용편)
-  1. API 데이터 불러오기
-  ...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
