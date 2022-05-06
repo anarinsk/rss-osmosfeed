@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T15:01:27.006Z</id>
+    <id>urn:2022-05-06T18:01:49.880Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-06T15:01:27.006Z</updated>
+    <updated>2022-05-06T18:01:49.880Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -68,16 +68,6 @@ Raute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tax aversion and the social contract in Africa]]></title>
-        <id>https://voxeu.org/article/tax-aversion-and-social-contract-africa</id>
-        <link href="https://voxeu.org/article/tax-aversion-and-social-contract-africa"/>
-        <updated>2022-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Although a key determinant of poverty in Africa is the under-provision of public services, the preference for lower taxation and fewer public goods remains widespread. This column proposes a new explanation for why African tax revenues are so low. Rather than rely on standard arguments about accountability and governance, the author uncovers deep-seated ideas about the nature of the state and its threat to the autonomy of society. Historically, social contracts in Africa rarely featured taxation. Building fiscal systems is therefore not simply a technical or human resources problem, but a political one.]]></summary>
-        <author>
-            <name>James Robinson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pension systems matter for wealth accumulation and distribution]]></title>
         <id>https://voxeu.org/article/pension-systems-matter-wealth-accumulation-and-distribution</id>
         <link href="https://voxeu.org/article/pension-systems-matter-wealth-accumulation-and-distribution"/>
@@ -85,6 +75,16 @@ Raute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity
         <summary type="html"><![CDATA[Retirement saving is at the centre of the debate on rising income and wealth inequality. This column studies the role of the pension system in wealth accumulation and distribution in Denmark. The authors find that a pension reform in the late 1980s increased the savings rate and aggregate pension assets significantly by introducing mandated funded pensions. Moreover, it has had an equalising effect on the wealth distribution. The findings illustrate the importance of pension system design for the level and distribution of wealth.]]></summary>
         <author>
             <name>Torben M Andersen, Joydeep Bhattacharya, Anna Grodecka-Messi, Katja Mann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tax aversion and the social contract in Africa]]></title>
+        <id>https://voxeu.org/article/tax-aversion-and-social-contract-africa</id>
+        <link href="https://voxeu.org/article/tax-aversion-and-social-contract-africa"/>
+        <updated>2022-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although a key determinant of poverty in Africa is the under-provision of public services, the preference for lower taxation and fewer public goods remains widespread. This column proposes a new explanation for why African tax revenues are so low. Rather than rely on standard arguments about accountability and governance, the author uncovers deep-seated ideas about the nature of the state and its threat to the autonomy of society. Historically, social contracts in Africa rarely featured taxation. Building fiscal systems is therefore not simply a technical or human resources problem, but a political one.]]></summary>
+        <author>
+            <name>James Robinson</name>
         </author>
     </entry>
     <entry>
