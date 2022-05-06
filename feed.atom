@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T06:02:22.890Z</id>
+    <id>urn:2022-05-06T09:01:58.782Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-06T06:02:22.890Z</updated>
+    <updated>2022-05-06T09:01:58.782Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Potential economic effects of an Allied trade embargo on Russia]]></title>
+        <id>https://voxeu.org/article/potential-economic-effects-allied-trade-embargo-russia</id>
+        <link href="https://voxeu.org/article/potential-economic-effects-allied-trade-embargo-russia"/>
+        <updated>2022-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As relations between the West and Russia deteriorate, the imposition of a complete trade embargo by Allies on Russia appears increasingly likely. Using computable general equilibrium modelling, this column explores the short- to medium-term economic effects of such an Allied trade embargo. It finds that Russia would likely sustain sizable losses of upwards of 14% of real GDP. Allied economies are unevenly affected by the sanctions, with real GDP losses between 0.1% and 1.6%. Finally, if Russia were to impose countersanctions, rather than being a sanction target, losses to the Russian economy would be even greater.]]></summary>
+        <author>
+            <name>Kornel Mahlstein, Christine McDaniel, Simon Schropp, Marinos Tsigas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to ensure that European fiscal rules meet investment]]></title>
         <id>https://voxeu.org/article/how-ensure-european-fiscal-rules-meet-investment</id>
@@ -46,16 +56,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tax aversion and the social contract in Africa]]></title>
-        <id>https://voxeu.org/article/tax-aversion-and-social-contract-africa</id>
-        <link href="https://voxeu.org/article/tax-aversion-and-social-contract-africa"/>
-        <updated>2022-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Although a key determinant of poverty in Africa is the under-provision of public services, the preference for lower taxation and fewer public goods remains widespread. This column proposes a new explanation for why African tax revenues are so low. Rather than rely on standard arguments about accountability and governance, the author uncovers deep-seated ideas about the nature of the state and its threat to the autonomy of society. Historically, social contracts in Africa rarely featured taxation. Building fiscal systems is therefore not simply a technical or human resources problem, but a political one.]]></summary>
-        <author>
-            <name>James Robinson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pension systems matter for wealth accumulation and distribution]]></title>
         <id>https://voxeu.org/article/pension-systems-matter-wealth-accumulation-and-distribution</id>
         <link href="https://voxeu.org/article/pension-systems-matter-wealth-accumulation-and-distribution"/>
@@ -63,6 +63,16 @@
         <summary type="html"><![CDATA[Retirement saving is at the centre of the debate on rising income and wealth inequality. This column studies the role of the pension system in wealth accumulation and distribution in Denmark. The authors find that a pension reform in the late 1980s increased the savings rate and aggregate pension assets significantly by introducing mandated funded pensions. Moreover, it has had an equalising effect on the wealth distribution. The findings illustrate the importance of pension system design for the level and distribution of wealth.]]></summary>
         <author>
             <name>Torben M Andersen, Joydeep Bhattacharya, Anna Grodecka-Messi, Katja Mann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tax aversion and the social contract in Africa]]></title>
+        <id>https://voxeu.org/article/tax-aversion-and-social-contract-africa</id>
+        <link href="https://voxeu.org/article/tax-aversion-and-social-contract-africa"/>
+        <updated>2022-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although a key determinant of poverty in Africa is the under-provision of public services, the preference for lower taxation and fewer public goods remains widespread. This column proposes a new explanation for why African tax revenues are so low. Rather than rely on standard arguments about accountability and governance, the author uncovers deep-seated ideas about the nature of the state and its threat to the autonomy of society. Historically, social contracts in Africa rarely featured taxation. Building fiscal systems is therefore not simply a technical or human resources problem, but a political one.]]></summary>
+        <author>
+            <name>James Robinson</name>
         </author>
     </entry>
     <entry>
@@ -497,24 +507,13 @@ CHAPTER 6  연결시켜 꽃피우다: 정보화의 융합과 공진화
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do voter have a gender bias? A natural experiment in France]]></title>
-        <id>https://voxeu.org/content/do-voter-have-gender-bias-natural-experiment-france</id>
-        <link href="https://voxeu.org/content/do-voter-have-gender-bias-natural-experiment-france"/>
+        <title type="html"><![CDATA[Tech ownership of banks and the regulatory response]]></title>
+        <id>https://voxeu.org/article/tech-ownership-banks-and-regulatory-response</id>
+        <link href="https://voxeu.org/article/tech-ownership-banks-and-regulatory-response"/>
         <updated>2022-05-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's hard to find good evidence on whether voters have a gender bias. But the voting format used in French local elections makes it possible to estimate the extent of this form of discrimination, and suggests what we can do about it.
-Read more about this paper recently presented at the 75th Economic Policy Panel meeting: Gender Discrimination in Politics.]]></summary>
+        <summary type="html"><![CDATA[Should tech firms be allowed to own banks? This question is part of a broader debate on whether non-financial companies can affiliate with banks. This column explores the merits of permitting tech firms to operate a licensed bank and outlines their state of play and regulatory environment in seven jurisdictions. It also proposes policy options to help mitigate their perceived risks, as some banking authorities look to tech firms to expand financial access and improve consumer outcomes.]]></summary>
         <author>
-            <name>Jean Benoit Eymeoud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Historical lessons on the real effects of unstable stablecoins]]></title>
-        <id>https://voxeu.org/article/historical-lessons-real-effects-unstable-stablecoins</id>
-        <link href="https://voxeu.org/article/historical-lessons-real-effects-unstable-stablecoins"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Innovations in private money creation, such as stablecoins, can be economically useful because they improve efficiency in the payments system. However, if these currencies are not fully ‘stable’, uncertainty over their value may be a source of transactions friction that have real costs. The column discusses how the National Banking Act of 1864 in the US provides a natural experiment for evaluating the effects of stabilising the value of private money. The act introduced a new type of private money that was fully stable for the first time. Gaining access to the stable money generated growth in economic sectors that were sensitive to transaction costs.]]></summary>
-        <author>
-            <name>Chenzi Xu, He Yang</name>
+            <name>Raihan Zamil, Aidan Lawson</name>
         </author>
     </entry>
     <entry>
