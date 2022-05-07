@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T03:16:06.138Z</id>
+    <id>urn:2022-05-07T06:01:42.163Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-07T03:16:06.138Z</updated>
+    <updated>2022-05-07T06:01:42.163Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learning about inflation expectations from the data]]></title>
+        <id>https://voxeu.org/article/learning-about-inflation-expectations-data</id>
+        <link href="https://voxeu.org/article/learning-about-inflation-expectations-data"/>
+        <updated>2022-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inflation has surged to historic levels around the globe. Designing the correct policy responses requires a deep understanding of how consumers form and update their inflation expectations, and how expectations influence economic behaviour. This column summarises key findings in the literature on inflation expectations, particularly how they deviate from the full-information rational expectations paradigm. Household inflation expectations are typically biased upwards, systematically skewed, and correlated with social/demographic characteristics. Studying these heterogeneities and their impact on aggregate outcomes is a key challenge for policymakers going forward.]]></summary>
+        <author>
+            <name>Francesco D'Acunto, Ulrike Malmendier, Michael Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting more out of policing in the US]]></title>
+        <id>https://voxeu.org/article/getting-more-out-policing-us</id>
+        <link href="https://voxeu.org/article/getting-more-out-policing-us"/>
+        <updated>2022-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the wake of widely publicised instances of police misconduct, calls to defund the police have gained currency in the US. Still, many Americans fear that crime will increase where police presence is decreased. This column argues that policing problems and crime rates can be reduced simultaneously. Variabilities in violent crime and police misconduct correlate with the tenures of police leaders. This suggests that many police departments perform poorly due tomismanagement and could be reformed in ways that reduce the harm they do without compromising their ability to keep people safe.]]></summary>
+        <author>
+            <name>Max Kapustin, Terrence Neumann, Jens Ludwig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Helping fathers to acknowledge paternity]]></title>
         <id>https://voxeu.org/vox-talks/helping-fathers-acknowledge-paternity</id>
@@ -28,16 +48,6 @@ Raute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Developing world agricultural and energy importers hit hardest by Ukraine war economic fallout]]></title>
-        <id>https://voxeu.org/article/developing-world-agricultural-and-energy-importers-hit-hardest-ukraine-war-economic-fallout</id>
-        <link href="https://voxeu.org/article/developing-world-agricultural-and-energy-importers-hit-hardest-ukraine-war-economic-fallout"/>
-        <updated>2022-05-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russian invasion of Ukraine is disrupting global supplies of essential commodities, pushing prices higher, slowing trade, and driving down incomes. This column argues that developing countries that are large agricultural and energy importers are being hit hardest. While some commodity exporters might be able to step up exports to benefit from increasing global prices, they could experience a restructuring of their trade patterns, resulting in a lower integration into global value chains. Consumers across the world are worse off, with the poorest being impacted the most adversely.]]></summary>
-        <author>
-            <name>Maksym  Chepeliev, Maryla Maliszewska, Maria Filipa Seara e Pereira</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to ensure that European fiscal rules meet investment]]></title>
         <id>https://voxeu.org/article/how-ensure-european-fiscal-rules-meet-investment</id>
         <link href="https://voxeu.org/article/how-ensure-european-fiscal-rules-meet-investment"/>
@@ -45,6 +55,16 @@ Raute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity
         <summary type="html"><![CDATA[The role of fiscal rules is to ensure debt sustainability and predictability of fiscal policies. It is possible to make them simpler and more friendly to countercyclical policies. Rather than allowing for different investment priorities, this column argues that the Covid crisis, the climate emergency, and Russia's invasion of Ukraine and subsequent security concerns may require a holistic approach where better compliance with fiscal rules could be combined with a holistic definition of sustainability that would also include macroeconomic and green sustainability.]]></summary>
         <author>
             <name>Agnès Bénassy-Quéré</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing world agricultural and energy importers hit hardest by Ukraine war economic fallout]]></title>
+        <id>https://voxeu.org/article/developing-world-agricultural-and-energy-importers-hit-hardest-ukraine-war-economic-fallout</id>
+        <link href="https://voxeu.org/article/developing-world-agricultural-and-energy-importers-hit-hardest-ukraine-war-economic-fallout"/>
+        <updated>2022-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian invasion of Ukraine is disrupting global supplies of essential commodities, pushing prices higher, slowing trade, and driving down incomes. This column argues that developing countries that are large agricultural and energy importers are being hit hardest. While some commodity exporters might be able to step up exports to benefit from increasing global prices, they could experience a restructuring of their trade patterns, resulting in a lower integration into global value chains. Consumers across the world are worse off, with the poorest being impacted the most adversely.]]></summary>
+        <author>
+            <name>Maksym  Chepeliev, Maryla Maliszewska, Maria Filipa Seara e Pereira</name>
         </author>
     </entry>
     <entry>
@@ -68,16 +88,6 @@ Raute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pension systems matter for wealth accumulation and distribution]]></title>
-        <id>https://voxeu.org/article/pension-systems-matter-wealth-accumulation-and-distribution</id>
-        <link href="https://voxeu.org/article/pension-systems-matter-wealth-accumulation-and-distribution"/>
-        <updated>2022-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Retirement saving is at the centre of the debate on rising income and wealth inequality. This column studies the role of the pension system in wealth accumulation and distribution in Denmark. The authors find that a pension reform in the late 1980s increased the savings rate and aggregate pension assets significantly by introducing mandated funded pensions. Moreover, it has had an equalising effect on the wealth distribution. The findings illustrate the importance of pension system design for the level and distribution of wealth.]]></summary>
-        <author>
-            <name>Torben M Andersen, Joydeep Bhattacharya, Anna Grodecka-Messi, Katja Mann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tax aversion and the social contract in Africa]]></title>
         <id>https://voxeu.org/article/tax-aversion-and-social-contract-africa</id>
         <link href="https://voxeu.org/article/tax-aversion-and-social-contract-africa"/>
@@ -85,6 +95,16 @@ Raute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity
         <summary type="html"><![CDATA[Although a key determinant of poverty in Africa is the under-provision of public services, the preference for lower taxation and fewer public goods remains widespread. This column proposes a new explanation for why African tax revenues are so low. Rather than rely on standard arguments about accountability and governance, the author uncovers deep-seated ideas about the nature of the state and its threat to the autonomy of society. Historically, social contracts in Africa rarely featured taxation. Building fiscal systems is therefore not simply a technical or human resources problem, but a political one.]]></summary>
         <author>
             <name>James Robinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pension systems matter for wealth accumulation and distribution]]></title>
+        <id>https://voxeu.org/article/pension-systems-matter-wealth-accumulation-and-distribution</id>
+        <link href="https://voxeu.org/article/pension-systems-matter-wealth-accumulation-and-distribution"/>
+        <updated>2022-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Retirement saving is at the centre of the debate on rising income and wealth inequality. This column studies the role of the pension system in wealth accumulation and distribution in Denmark. The authors find that a pension reform in the late 1980s increased the savings rate and aggregate pension assets significantly by introducing mandated funded pensions. Moreover, it has had an equalising effect on the wealth distribution. The findings illustrate the importance of pension system design for the level and distribution of wealth.]]></summary>
+        <author>
+            <name>Torben M Andersen, Joydeep Bhattacharya, Anna Grodecka-Messi, Katja Mann</name>
         </author>
     </entry>
     <entry>
@@ -344,26 +364,6 @@ CHAPTER 02 인공지능 자율주행 자동차 체험하기
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Widespread food insecurity is not inevitable: Avoid escalating food export curbs]]></title>
-        <id>https://voxeu.org/article/widespread-food-insecurity-not-inevitable-avoid-escalating-food-export-curbs</id>
-        <link href="https://voxeu.org/article/widespread-food-insecurity-not-inevitable-avoid-escalating-food-export-curbs"/>
-        <updated>2022-05-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine and Russia play an outsized role in global markets for key crops. Disruption to food prices and supplies arising from the conflict is being felt thousands of miles away, and not only in net food-importing countries. This column shows that governments are exacerbating matters through unilateral resort to export curbs. Bans on wheat exports alone are responsible for a 7 percentage point increase in world wheat prices (roughly one-sixth of the observed price surge) and risk igniting a multiplier effect. Assurances of adequate food supply must be provided by other suppliers.]]></summary>
-        <author>
-            <name>Alvaro  Espitia, Simon Evenett, Nadia Rocha, Michele Ruta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zombie firms and the take-up of support measures during Covid-19]]></title>
-        <id>https://voxeu.org/article/zombie-firms-and-take-support-measures-during-covid-19</id>
-        <link href="https://voxeu.org/article/zombie-firms-and-take-support-measures-during-covid-19"/>
-        <updated>2022-05-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Governments around the world enacted unprecedented measures to support firms impacted by the Covid-19 pandemic. This column focuses on Italy to examine the extent to which these measures ended up also benefitting non-viable but still active firms. The authors find that ‘zombie firms’ were less likely than healthy firms to access public support measures in the form of either grants, debt moratoria, or government-guaranteed loans, suggesting that these measures did not contribute to a zombification of the economy.]]></summary>
-        <author>
-            <name>Marco Pelosi, Giacomo  Rodano, Enrico Sette</name>
         </author>
     </entry>
     <entry>
