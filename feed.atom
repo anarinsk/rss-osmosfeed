@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-08T06:02:08.995Z</id>
+    <id>urn:2022-05-08T09:01:47.132Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-08T06:02:08.995Z</updated>
+    <updated>2022-05-08T09:01:47.132Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,16 +26,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning about inflation expectations from the data]]></title>
-        <id>https://voxeu.org/article/learning-about-inflation-expectations-data</id>
-        <link href="https://voxeu.org/article/learning-about-inflation-expectations-data"/>
-        <updated>2022-05-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inflation has surged to historic levels around the globe. Designing the correct policy responses requires a deep understanding of how consumers form and update their inflation expectations, and how expectations influence economic behaviour. This column summarises key findings in the literature on inflation expectations, particularly how they deviate from the full-information rational expectations paradigm. Household inflation expectations are typically biased upwards, systematically skewed, and correlated with social/demographic characteristics. Studying these heterogeneities and their impact on aggregate outcomes is a key challenge for policymakers going forward.]]></summary>
-        <author>
-            <name>Francesco D'Acunto, Ulrike Malmendier, Michael Weber</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting more out of policing in the US]]></title>
         <id>https://voxeu.org/article/getting-more-out-policing-us</id>
         <link href="https://voxeu.org/article/getting-more-out-policing-us"/>
@@ -43,6 +33,16 @@
         <summary type="html"><![CDATA[In the wake of widely publicised instances of police misconduct, calls to defund the police have gained currency in the US. Still, many Americans fear that crime will increase where police presence is decreased. This column argues that policing problems and crime rates can be reduced simultaneously. Variabilities in violent crime and police misconduct correlate with the tenures of police leaders. This suggests that many police departments perform poorly due tomismanagement and could be reformed in ways that reduce the harm they do without compromising their ability to keep people safe.]]></summary>
         <author>
             <name>Max Kapustin, Terrence Neumann, Jens Ludwig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning about inflation expectations from the data]]></title>
+        <id>https://voxeu.org/article/learning-about-inflation-expectations-data</id>
+        <link href="https://voxeu.org/article/learning-about-inflation-expectations-data"/>
+        <updated>2022-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inflation has surged to historic levels around the globe. Designing the correct policy responses requires a deep understanding of how consumers form and update their inflation expectations, and how expectations influence economic behaviour. This column summarises key findings in the literature on inflation expectations, particularly how they deviate from the full-information rational expectations paradigm. Household inflation expectations are typically biased upwards, systematically skewed, and correlated with social/demographic characteristics. Studying these heterogeneities and their impact on aggregate outcomes is a key challenge for policymakers going forward.]]></summary>
+        <author>
+            <name>Francesco D'Acunto, Ulrike Malmendier, Michael Weber</name>
         </author>
     </entry>
     <entry>
