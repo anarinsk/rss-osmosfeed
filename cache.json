@@ -496,16 +496,6 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements",
-          "author": "Youngmin  Baek, Kazunobu  Hayakawa",
-          "description": "What can explain the small or even negative effects of regional trade agreements on trade? Using trade data between Japan and other 68 countries from 2002 to 2018, this column argues that RTAs reduce fixed costs for foreign direct investment more than exporters. This could have a negative effect on trade. A simulation exercise indicates that introducing RTA between Japan and China would incentivise Japanese firms to set up production in China and sell locally rather than export from Japan.",
-          "link": "https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements",
-          "publishedOn": "2022-05-09T00:00:00.000Z",
-          "wordCount": 1769,
-          "title": "Explaining the disappointing trade effects of regional trade agreements",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms",
           "author": "Luca  Coraggio, Marco  Pagano, Annalisa Scognamiglio, Joacim Tåg",
           "description": "Recent research has highlighted the contribution that managerial decisions make to firms’ productivity. This column uses a novel measure of job-worker allocation quality to document how firms that match their employees to their most suitable jobs are more productive, and their ability to do so depends on the quality and experience of their management. The measure is helpful for uncovering a hitherto neglected dimension of managerial practices, and could be particularly valuable at times when the need to cope with technological innovation, pandemics, climate change, or wars requires widespread firm restructuring and workers’ reallocation.",
@@ -516,13 +506,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/european-recessions-and-native-american-conflict",
-          "author": "Marco Del Angel, Gregory D. Hess, Marc Weidenmier",
-          "description": "Recessions in Europe often pushed Europeans to migrate to the US in search of better economic opportunities. This column examines the effect of this on conflict with Native Americans in the western US during the late 19th century. The authors find that a recession in Europe significantly increased the probability of conflict between US soldiers and Native American tribes. As they were often driven off their land and relocated to areas with inferior land and rainfall, European immigration to the American west likely had long-term negative effects on economic conditions for Native Americans.",
-          "link": "https://voxeu.org/article/european-recessions-and-native-american-conflict",
-          "publishedOn": "2022-05-08T00:00:00.000Z",
-          "wordCount": 1490,
-          "title": "European recessions and Native American conflict",
+          "id": "https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements",
+          "author": "Youngmin  Baek, Kazunobu  Hayakawa",
+          "description": "What can explain the small or even negative effects of regional trade agreements on trade? Using trade data between Japan and other 68 countries from 2002 to 2018, this column argues that RTAs reduce fixed costs for foreign direct investment more than exporters. This could have a negative effect on trade. A simulation exercise indicates that introducing RTA between Japan and China would incentivise Japanese firms to set up production in China and sell locally rather than export from Japan.",
+          "link": "https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements",
+          "publishedOn": "2022-05-09T00:00:00.000Z",
+          "wordCount": 1769,
+          "title": "Explaining the disappointing trade effects of regional trade agreements",
           "imageUrl": null
         },
         {
@@ -533,6 +523,16 @@
           "publishedOn": "2022-05-08T00:00:00.000Z",
           "wordCount": 2443,
           "title": "Campaign finance rules and their effects on election outcomes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/european-recessions-and-native-american-conflict",
+          "author": "Marco Del Angel, Gregory D. Hess, Marc Weidenmier",
+          "description": "Recessions in Europe often pushed Europeans to migrate to the US in search of better economic opportunities. This column examines the effect of this on conflict with Native Americans in the western US during the late 19th century. The authors find that a recession in Europe significantly increased the probability of conflict between US soldiers and Native American tribes. As they were often driven off their land and relocated to areas with inferior land and rainfall, European immigration to the American west likely had long-term negative effects on economic conditions for Native Americans.",
+          "link": "https://voxeu.org/article/european-recessions-and-native-american-conflict",
+          "publishedOn": "2022-05-08T00:00:00.000Z",
+          "wordCount": 1490,
+          "title": "European recessions and Native American conflict",
           "imageUrl": null
         },
         {
@@ -591,7 +591,7 @@
           "description": "The Russian invasion of Ukraine is disrupting global supplies of essential commodities, pushing prices higher, slowing trade, and driving down incomes. This column argues that developing countries that are large agricultural and energy importers are being hit hardest. While some commodity exporters might be able to step up exports to benefit from increasing global prices, they could experience a restructuring of their trade patterns, resulting in a lower integration into global value chains. Consumers across the world are worse off, with the poorest being impacted the most adversely.",
           "link": "https://voxeu.org/article/developing-world-agricultural-and-energy-importers-hit-hardest-ukraine-war-economic-fallout",
           "publishedOn": "2022-05-06T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2468,
           "title": "Developing world agricultural and energy importers hit hardest by Ukraine war economic fallout",
           "imageUrl": null
         }

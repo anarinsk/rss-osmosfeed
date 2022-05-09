@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T06:01:31.949Z</id>
+    <id>urn:2022-05-09T09:01:18.221Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-09T06:01:31.949Z</updated>
+    <updated>2022-05-09T09:01:18.222Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Explaining the disappointing trade effects of regional trade agreements]]></title>
-        <id>https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements</id>
-        <link href="https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements"/>
-        <updated>2022-05-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What can explain the small or even negative effects of regional trade agreements on trade? Using trade data between Japan and other 68 countries from 2002 to 2018, this column argues that RTAs reduce fixed costs for foreign direct investment more than exporters. This could have a negative effect on trade. A simulation exercise indicates that introducing RTA between Japan and China would incentivise Japanese firms to set up production in China and sell locally rather than export from Japan.]]></summary>
-        <author>
-            <name>Youngmin  Baek, Kazunobu  Hayakawa</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The matching between workers and jobs explains productivity differentials across firms]]></title>
         <id>https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms</id>
@@ -26,13 +16,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[European recessions and Native American conflict]]></title>
-        <id>https://voxeu.org/article/european-recessions-and-native-american-conflict</id>
-        <link href="https://voxeu.org/article/european-recessions-and-native-american-conflict"/>
-        <updated>2022-05-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recessions in Europe often pushed Europeans to migrate to the US in search of better economic opportunities. This column examines the effect of this on conflict with Native Americans in the western US during the late 19th century. The authors find that a recession in Europe significantly increased the probability of conflict between US soldiers and Native American tribes. As they were often driven off their land and relocated to areas with inferior land and rainfall, European immigration to the American west likely had long-term negative effects on economic conditions for Native Americans.]]></summary>
+        <title type="html"><![CDATA[Explaining the disappointing trade effects of regional trade agreements]]></title>
+        <id>https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements</id>
+        <link href="https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements"/>
+        <updated>2022-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What can explain the small or even negative effects of regional trade agreements on trade? Using trade data between Japan and other 68 countries from 2002 to 2018, this column argues that RTAs reduce fixed costs for foreign direct investment more than exporters. This could have a negative effect on trade. A simulation exercise indicates that introducing RTA between Japan and China would incentivise Japanese firms to set up production in China and sell locally rather than export from Japan.]]></summary>
         <author>
-            <name>Marco Del Angel, Gregory D. Hess, Marc Weidenmier</name>
+            <name>Youngmin  Baek, Kazunobu  Hayakawa</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +33,16 @@
         <summary type="html"><![CDATA[Democracies around the world have instituted reforms to level their electoral playing fields. This column studies the impact of campaign finance regulations in French local elections. The authors find that such regulations, particularly state reimbursements of expenditures, can level the playing field and assist newcomers without decreasing the representativeness of elections.]]></summary>
         <author>
             <name>Nikolaj Broberg, Clemence Tricaud, Vincent Pons, Vestal McIntyre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European recessions and Native American conflict]]></title>
+        <id>https://voxeu.org/article/european-recessions-and-native-american-conflict</id>
+        <link href="https://voxeu.org/article/european-recessions-and-native-american-conflict"/>
+        <updated>2022-05-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recessions in Europe often pushed Europeans to migrate to the US in search of better economic opportunities. This column examines the effect of this on conflict with Native Americans in the western US during the late 19th century. The authors find that a recession in Europe significantly increased the probability of conflict between US soldiers and Native American tribes. As they were often driven off their land and relocated to areas with inferior land and rainfall, European immigration to the American west likely had long-term negative effects on economic conditions for Native Americans.]]></summary>
+        <author>
+            <name>Marco Del Angel, Gregory D. Hess, Marc Weidenmier</name>
         </author>
     </entry>
     <entry>
