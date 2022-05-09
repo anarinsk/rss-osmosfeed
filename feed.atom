@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T18:01:59.402Z</id>
+    <id>urn:2022-05-09T21:01:57.842Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-09T18:01:59.402Z</updated>
+    <updated>2022-05-09T21:01:57.843Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Campaign finance rules and their effects on election outcomes]]></title>
-        <id>https://voxeu.org/article/campaign-finance-rules-and-their-effects-election-outcomes</id>
-        <link href="https://voxeu.org/article/campaign-finance-rules-and-their-effects-election-outcomes"/>
-        <updated>2022-05-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Democracies around the world have instituted reforms to level their electoral playing fields. This column studies the impact of campaign finance regulations in French local elections. The authors find that such regulations, particularly state reimbursements of expenditures, can level the playing field and assist newcomers without decreasing the representativeness of elections.]]></summary>
-        <author>
-            <name>Nikolaj Broberg, Clemence Tricaud, Vincent Pons, Vestal McIntyre</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[European recessions and Native American conflict]]></title>
         <id>https://voxeu.org/article/european-recessions-and-native-american-conflict</id>
         <link href="https://voxeu.org/article/european-recessions-and-native-american-conflict"/>
@@ -53,6 +43,16 @@
         <summary type="html"><![CDATA[Recessions in Europe often pushed Europeans to migrate to the US in search of better economic opportunities. This column examines the effect of this on conflict with Native Americans in the western US during the late 19th century. The authors find that a recession in Europe significantly increased the probability of conflict between US soldiers and Native American tribes. As they were often driven off their land and relocated to areas with inferior land and rainfall, European immigration to the American west likely had long-term negative effects on economic conditions for Native Americans.]]></summary>
         <author>
             <name>Marco Del Angel, Gregory D. Hess, Marc Weidenmier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Campaign finance rules and their effects on election outcomes]]></title>
+        <id>https://voxeu.org/article/campaign-finance-rules-and-their-effects-election-outcomes</id>
+        <link href="https://voxeu.org/article/campaign-finance-rules-and-their-effects-election-outcomes"/>
+        <updated>2022-05-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Democracies around the world have instituted reforms to level their electoral playing fields. This column studies the impact of campaign finance regulations in French local elections. The authors find that such regulations, particularly state reimbursements of expenditures, can level the playing field and assist newcomers without decreasing the representativeness of elections.]]></summary>
+        <author>
+            <name>Nikolaj Broberg, Clemence Tricaud, Vincent Pons, Vestal McIntyre</name>
         </author>
     </entry>
     <entry>
@@ -388,16 +388,6 @@ Raute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to ensure that European fiscal rules meet investment]]></title>
-        <id>https://voxeu.org/article/how-ensure-european-fiscal-rules-meet-investment</id>
-        <link href="https://voxeu.org/article/how-ensure-european-fiscal-rules-meet-investment"/>
-        <updated>2022-05-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The role of fiscal rules is to ensure debt sustainability and predictability of fiscal policies. It is possible to make them simpler and more friendly to countercyclical policies. Rather than allowing for different investment priorities, this column argues that the Covid crisis, the climate emergency, and Russia's invasion of Ukraine and subsequent security concerns may require a holistic approach where better compliance with fiscal rules could be combined with a holistic definition of sustainability that would also include macroeconomic and green sustainability.]]></summary>
-        <author>
-            <name>Agnès Bénassy-Quéré</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Developing world agricultural and energy importers hit hardest by Ukraine war economic fallout]]></title>
         <id>https://voxeu.org/article/developing-world-agricultural-and-energy-importers-hit-hardest-ukraine-war-economic-fallout</id>
         <link href="https://voxeu.org/article/developing-world-agricultural-and-energy-importers-hit-hardest-ukraine-war-economic-fallout"/>
@@ -405,6 +395,16 @@ Raute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity
         <summary type="html"><![CDATA[The Russian invasion of Ukraine is disrupting global supplies of essential commodities, pushing prices higher, slowing trade, and driving down incomes. This column argues that developing countries that are large agricultural and energy importers are being hit hardest. While some commodity exporters might be able to step up exports to benefit from increasing global prices, they could experience a restructuring of their trade patterns, resulting in a lower integration into global value chains. Consumers across the world are worse off, with the poorest being impacted the most adversely.]]></summary>
         <author>
             <name>Maksym  Chepeliev, Maryla Maliszewska, Maria Filipa Seara e Pereira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to ensure that European fiscal rules meet investment]]></title>
+        <id>https://voxeu.org/article/how-ensure-european-fiscal-rules-meet-investment</id>
+        <link href="https://voxeu.org/article/how-ensure-european-fiscal-rules-meet-investment"/>
+        <updated>2022-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The role of fiscal rules is to ensure debt sustainability and predictability of fiscal policies. It is possible to make them simpler and more friendly to countercyclical policies. Rather than allowing for different investment priorities, this column argues that the Covid crisis, the climate emergency, and Russia's invasion of Ukraine and subsequent security concerns may require a holistic approach where better compliance with fiscal rules could be combined with a holistic definition of sustainability that would also include macroeconomic and green sustainability.]]></summary>
+        <author>
+            <name>Agnès Bénassy-Quéré</name>
         </author>
     </entry>
     <entry>
