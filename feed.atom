@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-10T06:01:20.953Z</id>
+    <id>urn:2022-05-10T09:02:04.316Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-10T06:01:20.953Z</updated>
+    <updated>2022-05-10T09:02:04.316Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,16 +16,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intergenerational costs of allocating refugees randomly]]></title>
-        <id>https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly</id>
-        <link href="https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Existing research on the integration of refugees has focused on the impact on the refugees themselves. This column uses the random allocation of refugees in Switzerland to show how allocation has significant effects even on future generations. Compared to children of refugees allocated to regions with an unfamiliar language, the children of mothers allocated to a familiar language environment have a higher birth weight on average, which is a predictor of outcomes including educational attainment, income, and health later in life.]]></summary>
-        <author>
-            <name>Daniel Auer, Johannes Kunz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Taxes and labour mobility: Why lowering income tax rates might not be a winning strategy]]></title>
         <id>https://voxeu.org/article/taxes-and-labour-mobility-why-lowering-income-tax-rates-might-not-be-winning-strategy</id>
         <link href="https://voxeu.org/article/taxes-and-labour-mobility-why-lowering-income-tax-rates-might-not-be-winning-strategy"/>
@@ -33,6 +23,26 @@
         <summary type="html"><![CDATA[It is not only countries but also sub-national jurisdictions such as states that compete for high-income taxpayers. In recent decades, both tax competition as well as attempts to keep aggressive tax practices at bay have intensified. This column uses Swiss data on local tax changes to show that lower income taxes for high-income taxpayers do attract top earners. Nonetheless, the net effect on tax revenue is not necessarily positive. The associated mechanical tax revenue losses that arise from lowering the tax rates may be so large that such tax cuts do not pay for themselves.]]></summary>
         <author>
             <name>Isabel Z. Martínez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Blueprint for the Reconstruction of Ukraine. Rapid Response Economics 1]]></title>
+        <id>https://voxeu.org/content/blueprint-reconstruction-ukraine-rapid-response-economics-1</id>
+        <link href="https://voxeu.org/content/blueprint-reconstruction-ukraine-rapid-response-economics-1"/>
+        <updated>2022-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The first of CEPR’s Rapid Response Economics series spells out a proposal to ensure that the economy of post-war Ukraine can recover. but what can the international community do, and how much will it cost?]]></summary>
+        <author>
+            <name>Barry Eichengreen, Yuriy Gorodnichenko, Kenneth Rogoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intergenerational costs of allocating refugees randomly]]></title>
+        <id>https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly</id>
+        <link href="https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly"/>
+        <updated>2022-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Existing research on the integration of refugees has focused on the impact on the refugees themselves. This column uses the random allocation of refugees in Switzerland to show how allocation has significant effects even on future generations. Compared to children of refugees allocated to regions with an unfamiliar language, the children of mothers allocated to a familiar language environment have a higher birth weight on average, which is a predictor of outcomes including educational attainment, income, and health later in life.]]></summary>
+        <author>
+            <name>Daniel Auer, Johannes Kunz</name>
         </author>
     </entry>
     <entry>
@@ -46,16 +56,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The matching between workers and jobs explains productivity differentials across firms]]></title>
-        <id>https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms</id>
-        <link href="https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms"/>
-        <updated>2022-05-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recent research has highlighted the contribution that managerial decisions make to firms’ productivity. This column uses a novel measure of job-worker allocation quality to document how firms that match their employees to their most suitable jobs are more productive, and their ability to do so depends on the quality and experience of their management. The measure is helpful for uncovering a hitherto neglected dimension of managerial practices, and could be particularly valuable at times when the need to cope with technological innovation, pandemics, climate change, or wars requires widespread firm restructuring and workers’ reallocation.]]></summary>
-        <author>
-            <name>Luca  Coraggio, Marco  Pagano, Annalisa Scognamiglio, Joacim Tåg</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Explaining the disappointing trade effects of regional trade agreements]]></title>
         <id>https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements</id>
         <link href="https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements"/>
@@ -63,6 +63,16 @@
         <summary type="html"><![CDATA[What can explain the small or even negative effects of regional trade agreements on trade? Using trade data between Japan and other 68 countries from 2002 to 2018, this column argues that RTAs reduce fixed costs for foreign direct investment more than exporters. This could have a negative effect on trade. A simulation exercise indicates that introducing RTA between Japan and China would incentivise Japanese firms to set up production in China and sell locally rather than export from Japan.]]></summary>
         <author>
             <name>Youngmin  Baek, Kazunobu  Hayakawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The matching between workers and jobs explains productivity differentials across firms]]></title>
+        <id>https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms</id>
+        <link href="https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms"/>
+        <updated>2022-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recent research has highlighted the contribution that managerial decisions make to firms’ productivity. This column uses a novel measure of job-worker allocation quality to document how firms that match their employees to their most suitable jobs are more productive, and their ability to do so depends on the quality and experience of their management. The measure is helpful for uncovering a hitherto neglected dimension of managerial practices, and could be particularly valuable at times when the need to cope with technological innovation, pandemics, climate change, or wars requires widespread firm restructuring and workers’ reallocation.]]></summary>
+        <author>
+            <name>Luca  Coraggio, Marco  Pagano, Annalisa Scognamiglio, Joacim Tåg</name>
         </author>
     </entry>
     <entry>
@@ -86,16 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting more out of policing in the US]]></title>
-        <id>https://voxeu.org/article/getting-more-out-policing-us</id>
-        <link href="https://voxeu.org/article/getting-more-out-policing-us"/>
-        <updated>2022-05-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the wake of widely publicised instances of police misconduct, calls to defund the police have gained currency in the US. Still, many Americans fear that crime will increase where police presence is decreased. This column argues that policing problems and crime rates can be reduced simultaneously. Variabilities in violent crime and police misconduct correlate with the tenures of police leaders. This suggests that many police departments perform poorly due tomismanagement and could be reformed in ways that reduce the harm they do without compromising their ability to keep people safe.]]></summary>
-        <author>
-            <name>Max Kapustin, Terrence Neumann, Jens Ludwig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learning about inflation expectations from the data]]></title>
         <id>https://voxeu.org/article/learning-about-inflation-expectations-data</id>
         <link href="https://voxeu.org/article/learning-about-inflation-expectations-data"/>
@@ -103,6 +103,16 @@
         <summary type="html"><![CDATA[Inflation has surged to historic levels around the globe. Designing the correct policy responses requires a deep understanding of how consumers form and update their inflation expectations, and how expectations influence economic behaviour. This column summarises key findings in the literature on inflation expectations, particularly how they deviate from the full-information rational expectations paradigm. Household inflation expectations are typically biased upwards, systematically skewed, and correlated with social/demographic characteristics. Studying these heterogeneities and their impact on aggregate outcomes is a key challenge for policymakers going forward.]]></summary>
         <author>
             <name>Francesco D'Acunto, Ulrike Malmendier, Michael Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting more out of policing in the US]]></title>
+        <id>https://voxeu.org/article/getting-more-out-policing-us</id>
+        <link href="https://voxeu.org/article/getting-more-out-policing-us"/>
+        <updated>2022-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the wake of widely publicised instances of police misconduct, calls to defund the police have gained currency in the US. Still, many Americans fear that crime will increase where police presence is decreased. This column argues that policing problems and crime rates can be reduced simultaneously. Variabilities in violent crime and police misconduct correlate with the tenures of police leaders. This suggests that many police departments perform poorly due tomismanagement and could be reformed in ways that reduce the harm they do without compromising their ability to keep people safe.]]></summary>
+        <author>
+            <name>Max Kapustin, Terrence Neumann, Jens Ludwig</name>
         </author>
     </entry>
     <entry>
@@ -393,18 +403,6 @@ part9 국제금융론
 국내도서 > 경제경영 > 경제학/경제일반 > 경제이론/경제사상]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helping fathers to acknowledge paternity]]></title>
-        <id>https://voxeu.org/vox-talks/helping-fathers-acknowledge-paternity</id>
-        <link href="https://voxeu.org/vox-talks/helping-fathers-acknowledge-paternity"/>
-        <updated>2022-05-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If fathers don't acknowledge paternity, it affects both mother and child. Should the state increase financial support for single parents, should we incentivise marriage – or is there another option? Anna Raute tells Tim Phillips that the surprising impact of an unrelated German social policy suggests there may be.
-Download the free DP and read more about this research:
-Raute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity acknowledgement? Evidence from earnings-related parental leave'. CEPR]]></summary>
-        <author>
-            <name>Anna Raute</name>
         </author>
     </entry>
     <entry>
