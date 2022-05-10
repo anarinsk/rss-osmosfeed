@@ -305,7 +305,7 @@
         {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293964512",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "가장 쉬운 독학 알고리즘 첫걸음 : 파이썬편\n마스이 도시카츠 지음, 박광수 옮김 / 동양북스(동양문고) / 2022년 05월 / ISBN:9791157688050\n정가: 23,500원 / 판매가: 21,150원 / 마일리지: 1,170원\n이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트\n\n\n\n\n파이썬 알고리즘의 기초와 시간 복잡도 기반의 최적화 요령까지 배운다! 이 책은 25가지 알고리즘을 통해 파이썬 프로그래밍 입문을 막 끝낸 사람이 기초 알고리즘 학습에 어떻게 접근해야 하는지 알려준다. 또한 파이썬 프로그래밍을 공부한 지 오래된 사람을 위해 파이썬 프로그래밍과 자료구조의 기초를 복습할 수 있도록 도와준다.\r\n\r\n코딩 테스트나 기술 면접에 대비해 알고리즘을 배운다면 코드의 처리 성능을 나타내는 시간 복잡도까지 알 필요가 있다. 시간 복잡도는 기술 면접의 단골 질문이며, 똑같이 문제를 해결했더라도 시간 복잡도를 고려해 코드를 작성한 사람이 좋은 개발자로 성장할 가능성이 크다고 평가하기 때문이다. 따라서 처리 성능이 좋은 알고리즘 코드를 작성할 때 시간 복잡도의 개념을 어떻게 활용하는지 소개해 기술 면접이나 코딩 테스트를 준비하는 사람에게도 도움이 되도록 한다.\n\n1장 파이썬의 기본 및 자료구조 알아보기\r\n1.1 프로그래밍 언어 선택\r\n1.1.1 목적에 따라 프로그래밍 언어 선택하기\r\n1.1.2 파이썬을 선택하는 이유\r\n1.1.3 프로그램 실행 방식의 차이 알아보기\r\n1.2 파이썬 개요\r\n1.2.1 파이썬의 특징\r\n1.2.2 파이썬 실행하기\r\n1.2.3 대화형 모드로 파이썬 사용\r\n1.2.4 스크립트 파일로 저장\r\n1.2.5 문자 인코딩에 주의하기\r\n1.2.6 주석\r\n1.3 사칙 연산과 우선순위\r\n1.3.1 파이썬의 기본 계산\r\n1.3.2 소수 계산\r\n1.3.3 자료형 확인\r\n1.4 변수, 대입, 리스트, 튜플\r\n1.4.1 변수\r\n1.4.2 대입\r\n1.4.3 리스트\r\n1.4.4 튜플\r\n1.5 문자와 문자열\r\n1.5.1 문자와 문자열 다루기\r\n1.5.2 문자열 연결\r\n1.6 조건 분기와 반복\r\n1.6.1 조건 분기\r\n1.6.2 긴 줄의 작성 방법\r\n1.6.3 반복\r\n1.7 리스트 내포\r\n1.7.1 리스트 생성\r\n1.7.2 조건을 지정해 리스트 생성\r\n1.8 함수와 클래스\r\n1.8.1 함수 작성\r\n1.8.2 값에 의한 전달과 참조에 의한 전달\r\n1.8.3 변수의 유효 범위\r\n1.8.4 객체 지향과 클래스\r\n\r\n2장 기본적인 프로그램 작성하기\r\n2.1 순서도 그리기\r\n2.1.1 처리의 흐름 표현하기\r\n2.1.2 자주 쓰이는 기호 배우기\r\n2.1.3 간단한 순서도 그리기\r\n2.2 FizzBuzz 구현하기\r\n2.2.1 코딩 테스트에 자주 나오는 문제\r\n2.2.2 3의 배수일 때 ‘Fizz’ 출력\r\n2.2.3 5의 배수일 때 ‘Buzz’ 출력\r\n2.2.4 3과 5의 공배수일 때 ‘FizzBuzz’ 출력\r\n2.3 자판기에서 거스름돈 계산하기\r\n2.3.1 거스름돈의 매수를 최소화하려면?\r\n2.3.2 거스름돈 계산\r\n2.3.3 리스트와 반복문으로 프로그램을 간단하게 만들기\r\n2.3.4 잘못된 입력에 대응하기\r\n2.4 기수 변환\r\n2.4.1 10진수와 2진수\r\n2.4.2 10진수를 2진수로 변환\r\n2.4.3 2진수를 10진수로 변환\r\n2.5 소수 판정하기\r\n2.5.1 소수를 구하는 방법\r\n2.5.2 소수인지 알아보는 프로그램 만들기\r\n2.5.3 빠르게 소수를 구하는 방법 고려하기\r\n2.6 피보나치 수열 만들기\r\n2.6.1 피보나치 수열이란?\r\n2.6.2 피보나치 수열을 프로그램으로 구하기\r\n2.6.3 메모이제이션으로 처리 속도 향상시키기\r\n\r\n3장 복잡...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
+          "description": "가장 쉬운 독학 알고리즘 첫걸음 : 파이썬편\n마스이 도시카츠 지음, 박광수 옮김 / 동양북스(동양문고) / 2022년 05월 / ISBN:9791157688050\n정가: 23,500원 / 판매가: 21,150원 / 마일리지: 1,170원\n이벤트:  모니터 메모보드\n\n\n\n\n파이썬 알고리즘의 기초와 시간 복잡도 기반의 최적화 요령까지 배운다! 이 책은 25가지 알고리즘을 통해 파이썬 프로그래밍 입문을 막 끝낸 사람이 기초 알고리즘 학습에 어떻게 접근해야 하는지 알려준다. 또한 파이썬 프로그래밍을 공부한 지 오래된 사람을 위해 파이썬 프로그래밍과 자료구조의 기초를 복습할 수 있도록 도와준다.\r\n\r\n코딩 테스트나 기술 면접에 대비해 알고리즘을 배운다면 코드의 처리 성능을 나타내는 시간 복잡도까지 알 필요가 있다. 시간 복잡도는 기술 면접의 단골 질문이며, 똑같이 문제를 해결했더라도 시간 복잡도를 고려해 코드를 작성한 사람이 좋은 개발자로 성장할 가능성이 크다고 평가하기 때문이다. 따라서 처리 성능이 좋은 알고리즘 코드를 작성할 때 시간 복잡도의 개념을 어떻게 활용하는지 소개해 기술 면접이나 코딩 테스트를 준비하는 사람에게도 도움이 되도록 한다.\n\n1장 파이썬의 기본 및 자료구조 알아보기\r\n1.1 프로그래밍 언어 선택\r\n1.1.1 목적에 따라 프로그래밍 언어 선택하기\r\n1.1.2 파이썬을 선택하는 이유\r\n1.1.3 프로그램 실행 방식의 차이 알아보기\r\n1.2 파이썬 개요\r\n1.2.1 파이썬의 특징\r\n1.2.2 파이썬 실행하기\r\n1.2.3 대화형 모드로 파이썬 사용\r\n1.2.4 스크립트 파일로 저장\r\n1.2.5 문자 인코딩에 주의하기\r\n1.2.6 주석\r\n1.3 사칙 연산과 우선순위\r\n1.3.1 파이썬의 기본 계산\r\n1.3.2 소수 계산\r\n1.3.3 자료형 확인\r\n1.4 변수, 대입, 리스트, 튜플\r\n1.4.1 변수\r\n1.4.2 대입\r\n1.4.3 리스트\r\n1.4.4 튜플\r\n1.5 문자와 문자열\r\n1.5.1 문자와 문자열 다루기\r\n1.5.2 문자열 연결\r\n1.6 조건 분기와 반복\r\n1.6.1 조건 분기\r\n1.6.2 긴 줄의 작성 방법\r\n1.6.3 반복\r\n1.7 리스트 내포\r\n1.7.1 리스트 생성\r\n1.7.2 조건을 지정해 리스트 생성\r\n1.8 함수와 클래스\r\n1.8.1 함수 작성\r\n1.8.2 값에 의한 전달과 참조에 의한 전달\r\n1.8.3 변수의 유효 범위\r\n1.8.4 객체 지향과 클래스\r\n\r\n2장 기본적인 프로그램 작성하기\r\n2.1 순서도 그리기\r\n2.1.1 처리의 흐름 표현하기\r\n2.1.2 자주 쓰이는 기호 배우기\r\n2.1.3 간단한 순서도 그리기\r\n2.2 FizzBuzz 구현하기\r\n2.2.1 코딩 테스트에 자주 나오는 문제\r\n2.2.2 3의 배수일 때 ‘Fizz’ 출력\r\n2.2.3 5의 배수일 때 ‘Buzz’ 출력\r\n2.2.4 3과 5의 공배수일 때 ‘FizzBuzz’ 출력\r\n2.3 자판기에서 거스름돈 계산하기\r\n2.3.1 거스름돈의 매수를 최소화하려면?\r\n2.3.2 거스름돈 계산\r\n2.3.3 리스트와 반복문으로 프로그램을 간단하게 만들기\r\n2.3.4 잘못된 입력에 대응하기\r\n2.4 기수 변환\r\n2.4.1 10진수와 2진수\r\n2.4.2 10진수를 2진수로 변환\r\n2.4.3 2진수를 10진수로 변환\r\n2.5 소수 판정하기\r\n2.5.1 소수를 구하는 방법\r\n2.5.2 소수인지 알아보는 프로그램 만들기\r\n2.5.3 빠르게 소수를 구하는 방법 고려하기\r\n2.6 피보나치 수열 만들기\r\n2.6.1 피보나치 수열이란?\r\n2.6.2 피보나치 수열을 프로그램으로 구하기\r\n2.6.3 메모이제이션으로 처리 속도 향상시키기\r\n\r\n3장 복잡...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
           "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=293964512",
           "publishedOn": "2022-05-02T02:17:00.000Z",
           "wordCount": null,
@@ -511,7 +511,7 @@
           "description": "What can explain the small or even negative effects of regional trade agreements on trade? Using trade data between Japan and other 68 countries from 2002 to 2018, this column argues that RTAs reduce fixed costs for foreign direct investment more than exporters. This could have a negative effect on trade. A simulation exercise indicates that introducing RTA between Japan and China would incentivise Japanese firms to set up production in China and sell locally rather than export from Japan.",
           "link": "https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements",
           "publishedOn": "2022-05-09T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1769,
           "title": "Explaining the disappointing trade effects of regional trade agreements",
           "imageUrl": null
         },
@@ -521,7 +521,7 @@
           "description": "Recessions in Europe often pushed Europeans to migrate to the US in search of better economic opportunities. This column examines the effect of this on conflict with Native Americans in the western US during the late 19th century. The authors find that a recession in Europe significantly increased the probability of conflict between US soldiers and Native American tribes. As they were often driven off their land and relocated to areas with inferior land and rainfall, European immigration to the American west likely had long-term negative effects on economic conditions for Native Americans.",
           "link": "https://voxeu.org/article/european-recessions-and-native-american-conflict",
           "publishedOn": "2022-05-08T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1490,
           "title": "European recessions and Native American conflict",
           "imageUrl": null
         },
@@ -531,7 +531,7 @@
           "description": "Democracies around the world have instituted reforms to level their electoral playing fields. This column studies the impact of campaign finance regulations in French local elections. The authors find that such regulations, particularly state reimbursements of expenditures, can level the playing field and assist newcomers without decreasing the representativeness of elections.",
           "link": "https://voxeu.org/article/campaign-finance-rules-and-their-effects-election-outcomes",
           "publishedOn": "2022-05-08T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2443,
           "title": "Campaign finance rules and their effects on election outcomes",
           "imageUrl": null
         },
@@ -541,7 +541,7 @@
           "description": "In the wake of widely publicised instances of police misconduct, calls to defund the police have gained currency in the US. Still, many Americans fear that crime will increase where police presence is decreased. This column argues that policing problems and crime rates can be reduced simultaneously. Variabilities in violent crime and police misconduct correlate with the tenures of police leaders. This suggests that many police departments perform poorly due tomismanagement and could be reformed in ways that reduce the harm they do without compromising their ability to keep people safe.",
           "link": "https://voxeu.org/article/getting-more-out-policing-us",
           "publishedOn": "2022-05-07T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3560,
           "title": "Getting more out of policing in the US",
           "imageUrl": null
         },
@@ -561,7 +561,7 @@
           "description": "If fathers don't acknowledge paternity, it affects both mother and child. Should the state increase financial support for single parents, should we incentivise marriage – or is there another option? Anna Raute tells Tim Phillips that the surprising impact of an unrelated German social policy suggests there may be.\nDownload the free DP and read more about this research:\nRaute, A, Weber, A and Zudenkova, G. 2022. 'Can public policy increase paternity acknowledgement? Evidence from earnings-related parental leave'. CEPR",
           "link": "https://voxeu.org/vox-talks/helping-fathers-acknowledge-paternity",
           "publishedOn": "2022-05-06T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 619,
           "title": "Helping fathers to acknowledge paternity",
           "imageUrl": null
         },
@@ -571,7 +571,7 @@
           "description": "As relations between the West and Russia deteriorate, the imposition of a complete trade embargo by Allies on Russia appears increasingly likely. Using computable general equilibrium modelling, this column explores the short- to medium-term economic effects of such an Allied trade embargo. It finds that Russia would likely sustain sizable losses of upwards of 14% of real GDP. Allied economies are unevenly affected by the sanctions, with real GDP losses between 0.1% and 1.6%. Finally, if Russia were to impose countersanctions, rather than being a sanction target, losses to the Russian economy would be even greater.",
           "link": "https://voxeu.org/article/potential-economic-effects-allied-trade-embargo-russia",
           "publishedOn": "2022-05-06T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3863,
           "title": "Potential economic effects of an Allied trade embargo on Russia",
           "imageUrl": null
         },
@@ -591,7 +591,7 @@
           "description": "The role of fiscal rules is to ensure debt sustainability and predictability of fiscal policies. It is possible to make them simpler and more friendly to countercyclical policies. Rather than allowing for different investment priorities, this column argues that the Covid crisis, the climate emergency, and Russia's invasion of Ukraine and subsequent security concerns may require a holistic approach where better compliance with fiscal rules could be combined with a holistic definition of sustainability that would also include macroeconomic and green sustainability.",
           "link": "https://voxeu.org/article/how-ensure-european-fiscal-rules-meet-investment",
           "publishedOn": "2022-05-06T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2814,
           "title": "How to ensure that European fiscal rules meet investment",
           "imageUrl": null
         }
