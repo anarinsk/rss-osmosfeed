@@ -506,6 +506,26 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/implications-russia-s-invasion-ukraine-its-value-chains",
+          "author": "Deborah  Winkler, Lucie Wuester",
+          "description": "The trade disruptions resulting from Russia’s invasion of Ukraine have revealed the vulnerabilities of relying on a limited range of suppliers for imports with few substitutes. This column shows that the impact of the war through Russia’s participation in global value chains relates to its ‘upstream’ position.  Countries in closer geographic proximity to Russia face higher risks due to their greater direct trade links with Russia. But the countries that will be affected most severely are those in global value chains reliant on products from Russia with fewer alternative substitutes, such as rare metals.",
+          "link": "https://voxeu.org/article/implications-russia-s-invasion-ukraine-its-value-chains",
+          "publishedOn": "2022-05-11T00:00:00.000Z",
+          "wordCount": 2091,
+          "title": "Implications of Russia’s invasion of Ukraine for its value chains",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/effect-china-s-two-child-policy-household-savings",
+          "author": "Scott  Baker, Efraim Benmelech, Zhishu  Yang, Qi  Zhang",
+          "description": "China’s high household savings rate remains a puzzle, with potential explanations including demographic, policy, and financial causes. This column investigates China’s savings rate using individual income and spending transactions linked to demographic characteristics and financial information on loan applications and credit availability. The authors match bank customers to administrative records covering marriage and births to obtain a unique insight into consumption and savings patterns around important life events. The results point to income growth, financial instability, and credit access, rather than directives such as the one-child policy, as the primary drivers of high savings among Chinese households.",
+          "link": "https://voxeu.org/article/effect-china-s-two-child-policy-household-savings",
+          "publishedOn": "2022-05-11T00:00:00.000Z",
+          "wordCount": 2382,
+          "title": "The effect of China’s two-child policy on household savings",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/unaccounted-long-term-health-cost-wars-wartime-children",
           "author": "Mevlude Akbulut-Yuksel",
           "description": "The Russian invasion of Ukraine has forced millions of Ukrainian children to leave their schools and homes. Such adverse shocks early in life can have profound long-term effects. This column presents evidence from WWII and the Vietnam War of how childhood war exposure had detrimental effects on education, physical and mental health, and labour market outcomes, even decades after the conflicts. The effects were most pronounced for girls and children of lower socioeconomic status. Policies that prioritise children are essential to reduce the enduring effects of war.",
@@ -513,16 +533,6 @@
           "publishedOn": "2022-05-10T00:00:00.000Z",
           "wordCount": 2334,
           "title": "Unaccounted long-term health cost of wars on wartime children",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/content/blueprint-reconstruction-ukraine-rapid-response-economics-1",
-          "author": "Barry Eichengreen, Yuriy Gorodnichenko, Kenneth Rogoff",
-          "description": "The first of CEPR’s Rapid Response Economics series spells out a proposal to ensure that the economy of post-war Ukraine can recover. But what can the international community do, and how much will it cost?",
-          "link": "https://voxeu.org/content/blueprint-reconstruction-ukraine-rapid-response-economics-1",
-          "publishedOn": "2022-05-10T00:00:00.000Z",
-          "wordCount": 641,
-          "title": "A Blueprint for the Reconstruction of Ukraine. Rapid Response Economics 1",
           "imageUrl": null
         },
         {
@@ -543,6 +553,16 @@
           "publishedOn": "2022-05-10T00:00:00.000Z",
           "wordCount": 2482,
           "title": "Taxes and labour mobility: Why lowering income tax rates might not be a winning strategy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/content/blueprint-reconstruction-ukraine-rapid-response-economics-1",
+          "author": "Barry Eichengreen, Yuriy Gorodnichenko, Kenneth Rogoff",
+          "description": "The first of CEPR’s Rapid Response Economics series spells out a proposal to ensure that the economy of post-war Ukraine can recover. But what can the international community do, and how much will it cost?",
+          "link": "https://voxeu.org/content/blueprint-reconstruction-ukraine-rapid-response-economics-1",
+          "publishedOn": "2022-05-10T00:00:00.000Z",
+          "wordCount": 641,
+          "title": "A Blueprint for the Reconstruction of Ukraine. Rapid Response Economics 1",
           "imageUrl": null
         },
         {
@@ -583,26 +603,6 @@
           "publishedOn": "2022-05-08T00:00:00.000Z",
           "wordCount": 2444,
           "title": "Campaign finance rules and their effects on election outcomes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/getting-more-out-policing-us",
-          "author": "Max Kapustin, Terrence Neumann, Jens Ludwig",
-          "description": "In the wake of widely publicised instances of police misconduct, calls to defund the police have gained currency in the US. Still, many Americans fear that crime will increase where police presence is decreased. This column argues that policing problems and crime rates can be reduced simultaneously. Variabilities in violent crime and police misconduct correlate with the tenures of police leaders. This suggests that many police departments perform poorly due tomismanagement and could be reformed in ways that reduce the harm they do without compromising their ability to keep people safe.",
-          "link": "https://voxeu.org/article/getting-more-out-policing-us",
-          "publishedOn": "2022-05-07T00:00:00.000Z",
-          "wordCount": 3561,
-          "title": "Getting more out of policing in the US",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/learning-about-inflation-expectations-data",
-          "author": "Francesco D'Acunto, Ulrike Malmendier, Michael Weber",
-          "description": "Inflation has surged to historic levels around the globe. Designing the correct policy responses requires a deep understanding of how consumers form and update their inflation expectations, and how expectations influence economic behaviour. This column summarises key findings in the literature on inflation expectations, particularly how they deviate from the full-information rational expectations paradigm. Household inflation expectations are typically biased upwards, systematically skewed, and correlated with social/demographic characteristics. Studying these heterogeneities and their impact on aggregate outcomes is a key challenge for policymakers going forward.",
-          "link": "https://voxeu.org/article/learning-about-inflation-expectations-data",
-          "publishedOn": "2022-05-07T00:00:00.000Z",
-          "wordCount": 2773,
-          "title": "Learning about inflation expectations from the data",
           "imageUrl": null
         }
       ]
