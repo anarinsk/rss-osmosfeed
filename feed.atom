@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T12:01:52.524Z</id>
+    <id>urn:2022-05-11T15:02:26.820Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-11T12:01:52.524Z</updated>
+    <updated>2022-05-11T15:02:26.820Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -3484,109 +3484,6 @@ C언어의 지옥이자 꽃 포인터
         <summary type="html"><![CDATA[US birth rates plummeted after the Great Recession, hitting a record low in 2020. But it may be the culmination of long-standing changes in the priorities of younger generations of women, according to a paper in the Journal of Economic Perspectives.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Hat Python 2/e/저스틴 지이츠.팀 아널드 지음, 박재유 옮김/에이콘출판]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=292509384</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=292509384"/>
-        <updated>2022-04-12T01:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Black Hat Python 2/e
-저스틴 지이츠.팀 아널드 지음, 박재유 옮김 / 에이콘출판 / 2022년 04월 / ISBN:9791161756356
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
-이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
-
-
-
-
-다양한 해킹 도구를 사용하는 것도 좋지만, 본인이 원하는 기능을 자유자재로 구현해 낼 수 있다면 얼마나 더 편리할까? 직접 필요한 도구를 개발해 고급 보안 전문가로 발돋움할 수 있는 기회다. 2판은 1판의 내용에서 코드를 파이썬3으로 업그레이드하고 여러 최적화를 적용했다. 또한 디지털 포렌식 도구 제작 등의 새로운 내용도 추가했다. 전체적으로 멋진 공격 기법의 구현 방법을 전수하고 있기 때문에 흥미로운 부분이 많으며, 도구 개발에 필요한 프로그래밍 기술을 총체적으로 다룬다.
-
-1장. 파이썬 환경 구축
-__칼리 리눅스 설치
-__파이썬3 설치
-__IDE 설치
-__코드 작성 규약
-
-2장. 기초 네트워크 도구
-__한 문단으로 표현한 파이썬 네트워킹
-__TCP 클라이언트
-__UDP 클라이언트
-__TCP 서버
-__넷캣 대체하기
-____시험해 보기
-__TCP 프록시 구현
-____시험해 보기
-__파라미코를 이용한 SSH
-____시험해 보기
-__SSH 터널링
-____시험해 보기
-
-3장. 스니핑 도구 제작
-__UDP 호스트 탐지 도구 구현
-__윈도우 및 리눅스에서의 패킷 스니핑
-____시험해 보기
-__IP 계층 디코딩
-____ctypes 모듈
-____struct 모듈
-____IP 디코더 구현
-____시험해 보기
-__ICMP 디코딩
-____시험해 보기
-
-4장. 스카피를 이용한 네트워크 장악
-__이메일 로그인 정보 탈취
-____시험해 보기
-__스카피를 이용한 ARP 캐시 포이즈닝 공격
-____시험해 보기
-__pcap 처리
-____시험해 보기
-
-5장. 웹 해킹
-__웹 라이브러리 사용하기
-____파이썬2에서 사용하는 urllib2
-____파이썬3에서 사용하는 urllib
-____requests 라이브러리
-____lxml 및 BeautifulSoup 패키지
-__오픈 소스 웹 애플리케이션 파일 경로 파악
-____워드프레스 프레임워크 파악하기
-____실제 시스템 대상 실험
-____시험해 보기
-__디렉터리와 파일 경로 무차별 대입
-____시험해 보기
-__HTML 인증 양식 무차별 대입
-____시험해 보기
-
-6장. 버프 프록시 확장
-__설정
-__버프 퍼징
-____시험해 보기
-__버프에서 Bing 활용하기
-____시험해 보기
-__웹사이트 정보를 기반으로 비밀번호 모음집 생성
-____시험해 보기
-
-7장. 깃허브를 이용한 지휘 통제
-__깃허브 계정 설정
-__모듈 제작
-__트로이 목마 환경 설정
-__깃허브 기반의 트로이 목마 제작
-____파이썬 임포트 기능을 이용한 트릭
-____시험해 보기
-
-8장. 윈도우 트로이 목마 
-__키로깅 : 키 입력 탈취의 즐거움
-____시험해 보기
-__스크린샷 캡처
-__파이썬을 이용한 셸코드 실행
-____시험해 보기
-__샌드박스 탐지
-
-9장. 데이터 탈취의 기쁨...
-
-국내도서 > 컴퓨터/모바일 > OS/Networking > 네트워크 보안/해킹
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
