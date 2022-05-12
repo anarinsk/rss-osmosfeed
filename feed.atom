@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T09:01:49.311Z</id>
+    <id>urn:2022-05-12T12:01:46.632Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-12T09:01:49.311Z</updated>
+    <updated>2022-05-12T12:01:46.632Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,16 +16,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rank effects in education]]></title>
-        <id>https://voxeu.org/article/rank-effects-education</id>
-        <link href="https://voxeu.org/article/rank-effects-education"/>
-        <updated>2022-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A burgeoning literature on rank effects in education has found that students who are highly ranked in their class or grade have better long-term outcomes, even after accounting for absolute levels of ability and performance. This column uses this finding to shed light on other educational phenomena, such as the impact of high-achieving peers and the persistent gender gap in STEM subjects. The sizeable effects of (sometimes misleading) academic rank raise policy questions about whether and how students should be informed of data that could influence their decisions about subject and career choices.]]></summary>
-        <author>
-            <name>Judith  Delaney, Paul Devereux</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Skill-biased production makes high-skill workers more efficient in rich countries]]></title>
         <id>https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries</id>
         <link href="https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries"/>
@@ -33,6 +23,16 @@
         <summary type="html"><![CDATA[How does the productivity of different types of workers vary across countries? This column uses micro data from countries at different levels of development to document that highly educated workers are relatively more productive in rich countries. Exploiting variation in the skill premia of foreign-educated migrants, the author concludes that this is mostly due to the technological environment in rich countries being more complementary to high-skill labour.]]></summary>
         <author>
             <name>Federico Rossi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rank effects in education]]></title>
+        <id>https://voxeu.org/article/rank-effects-education</id>
+        <link href="https://voxeu.org/article/rank-effects-education"/>
+        <updated>2022-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A burgeoning literature on rank effects in education has found that students who are highly ranked in their class or grade have better long-term outcomes, even after accounting for absolute levels of ability and performance. This column uses this finding to shed light on other educational phenomena, such as the impact of high-achieving peers and the persistent gender gap in STEM subjects. The sizeable effects of (sometimes misleading) academic rank raise policy questions about whether and how students should be informed of data that could influence their decisions about subject and career choices.]]></summary>
+        <author>
+            <name>Judith  Delaney, Paul Devereux</name>
         </author>
     </entry>
     <entry>
@@ -384,16 +384,6 @@ __08-2 스타일 정의하기
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intergenerational costs of allocating refugees randomly]]></title>
-        <id>https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly</id>
-        <link href="https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Existing research on the integration of refugees has focused on the impact on the refugees themselves. This column uses the random allocation of refugees in Switzerland to show how allocation has significant effects even on future generations. Compared to children of refugees allocated to regions with an unfamiliar language, the children of mothers allocated to a familiar language environment have a higher birth weight on average, which is a predictor of outcomes including educational attainment, income, and health later in life.]]></summary>
-        <author>
-            <name>Daniel Auer, Johannes Kunz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Taxes and labour mobility: Why lowering income tax rates might not be a winning strategy]]></title>
         <id>https://voxeu.org/article/taxes-and-labour-mobility-why-lowering-income-tax-rates-might-not-be-winning-strategy</id>
         <link href="https://voxeu.org/article/taxes-and-labour-mobility-why-lowering-income-tax-rates-might-not-be-winning-strategy"/>
@@ -411,6 +401,16 @@ __08-2 스타일 정의하기
         <summary type="html"><![CDATA[The first of CEPR’s Rapid Response Economics series spells out a proposal to ensure that the economy of post-war Ukraine can recover. But what can the international community do, and how much will it cost?]]></summary>
         <author>
             <name>Barry Eichengreen, Yuriy Gorodnichenko, Kenneth Rogoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intergenerational costs of allocating refugees randomly]]></title>
+        <id>https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly</id>
+        <link href="https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly"/>
+        <updated>2022-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Existing research on the integration of refugees has focused on the impact on the refugees themselves. This column uses the random allocation of refugees in Switzerland to show how allocation has significant effects even on future generations. Compared to children of refugees allocated to regions with an unfamiliar language, the children of mothers allocated to a familiar language environment have a higher birth weight on average, which is a predictor of outcomes including educational attainment, income, and health later in life.]]></summary>
+        <author>
+            <name>Daniel Auer, Johannes Kunz</name>
         </author>
     </entry>
     <entry>
@@ -3697,41 +3697,6 @@ ___정밀도와 재현율의 맹점
 
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고등학생과 풀어보면서 배우는 C언어/Dev_J 지음/부크크(bookk)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=292580144</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=292580144"/>
-        <updated>2022-04-12T23:56:00.000Z</updated>
-        <summary type="html"><![CDATA[고등학생과 풀어보면서 배우는 C언어
-Dev_J 지음 / 부크크(bookk) / 2022년 04월 / ISBN:9791137279315
-정가: 7,300원 / 판매가: 7,300원 / 마일리지: 0원
-이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
-
-
-
-
-작가의 말
-문제1 Hello, world! 출력하기(C언어 기초, 출력문)
-문제2 직사각형 넓이 구하기(입력문, 변수, 연산자)
-문제3 1부터 100까지 더하기(반복문)
-문제4 화장실 봇 만들기(조건문)
-문제5 1부터 x까지 더하기(함수)
-문제6 인사 봇 만들기(배열)
-문제7 속력 왕 구하기(구조체)
-문제8 주사위 게임 만들기(난수)
-
-부록
-이스케이프와 형식지정자
-연산자
-scanf오류
-C언어의 지옥이자 꽃 포인터
-
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > C]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
