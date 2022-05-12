@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T21:01:57.249Z</id>
+    <id>urn:2022-05-12T00:03:01.627Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-11T21:01:57.249Z</updated>
+    <updated>2022-05-12T00:03:01.627Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Seizures of foreign exchange reserves will not weaken the dollar’s role as dominant reserve currency]]></title>
+        <id>https://voxeu.org/article/seizures-foreign-exchange-reserves-will-not-weaken-dollar-s-role-dominant-reserve-currency</id>
+        <link href="https://voxeu.org/article/seizures-foreign-exchange-reserves-will-not-weaken-dollar-s-role-dominant-reserve-currency"/>
+        <updated>2022-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recent sanctions imposed by the US on Russia have called into question the US dollar’s dominant role as a reserve currency. This column argues that sanctions will, in fact, reinforce the dollar’s dominance rather than weakening it. It emphasises the importance of ‘collateral’ demand for reserves, especially by developing countries. Countries which choose to exit the dollar bloc will have restricted ability to reassure foreign investors, which could impact a growth strategy that involves participation of centre country capital.]]></summary>
+        <author>
+            <name>Michael Dooley, Peter Garber, David Folkerts-Landau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skill-biased production makes high-skill workers more efficient in rich countries]]></title>
+        <id>https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries</id>
+        <link href="https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries"/>
+        <updated>2022-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How does the productivity of different types of workers vary across countries? This column uses micro data from countries at different levels of development to document that highly educated workers are relatively more productive in rich countries. Exploiting variation in the skill premia of foreign-educated migrants, the author concludes that this is mostly due to the technological environment in rich countries being more complementary to high-skill labour.]]></summary>
+        <author>
+            <name>Federico Rossi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rank effects in education]]></title>
+        <id>https://voxeu.org/article/rank-effects-education</id>
+        <link href="https://voxeu.org/article/rank-effects-education"/>
+        <updated>2022-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A burgeoning literature on rank effects in education has found that students who are highly ranked in their class or grade have better long-term outcomes, even after accounting for absolute levels of ability and performance. This column uses this finding to shed light on other educational phenomena, such as the impact of high-achieving peers and the persistent gender gap in STEM subjects. The sizeable effects of (sometimes misleading) academic rank raise policy questions about whether and how students should be informed of data that could influence their decisions about subject and career choices.]]></summary>
+        <author>
+            <name>Judith  Delaney, Paul Devereux</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Implications of Russia’s invasion of Ukraine for its value chains]]></title>
         <id>https://voxeu.org/article/implications-russia-s-invasion-ukraine-its-value-chains</id>
@@ -33,6 +63,314 @@
         <summary type="html"><![CDATA[Trade in goods has rebounded quickly from the pandemic, while trade in services has not. This column finds that the pandemic broke the old trade patterns and that lockdowns had unintended international spillovers. Although global value chains have adapted, ongoing supply disruptions and the risk of future adverse shocks point to the need for more resilient value chains. The authors argue that in contrast to those calling for reshoring, a better way to build resilience is to diversify away from domestic sourcing of inputs and make it easier for producers to substitute between inputs supplied by different countries.]]></summary>
         <author>
             <name>Ting Lan, Davide Malacrino, Adil Mohommad, Andrea Presbitero, Galen Sher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백엔드를 위한 Django REST Framework with 파이썬/권태형 지음/영진.com(영진닷컴)]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294505763</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294505763"/>
+        <updated>2022-05-10T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[백엔드를 위한 Django REST Framework with 파이썬
+권태형 지음 / 영진.com(영진닷컴) / 2022년 05월 / ISBN:9788931466195
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
+
+
+
+
+파이썬과 Django 기반의 기술로 웹과 앱에 전부 대응하는 REST 서버를 만들어 볼 수 있다. 기반 기술을 모르더라도 비전공자도 다룰 수 있도록 웹 개발 개념부터 데이터베이스 쿼리, Django 프로젝트 구조 등을 쉽게 설명한다. 더 나아가 백엔드의 기초, 실제 개발, 배포까지 전 과정을 배울 수 있어 백엔드와 API 서버 개발의 기본기를 충실하게 쌓을 수 있다. 백엔드와 서버 지식이 없는 사람도 쉽게 이해할 수 있도록 새로운 용어나 기술을 상세히 소개하고 있다. 다양한 예시를 통해 개념을 잡고 난 뒤에는 실제로 코드를 작성하며 간단한 기능 구현부터 프로젝트까지 한 번에 배울 수 있을 것이다.
+
+Chapter 1. 웹 & 파이썬 기초	
+1.1 웹 개발 기초 개념
+1.1.1 웹 개발이란
+1.1.2 프론트엔드와 백엔드·
+1.1.3 REST API란
+1.1.4 JSON
+1.2 데이터베이스와 쿼리
+1.2.1 관계형 데이터베이스
+1.2.2 테이블의 키
+1.2.3 쿼리
+1.3 파이썬 기초
+	1.3.1 시작하기 가장 좋은 언어, 파이썬
+1.3.2 파이썬 설치 (윈도우/맥)
+1.3.3 변수 & 자료형
+1.3.4 출력 & 입력
+1.3.5 조건문 & 반복문
+1.3.6 자료구조(list, dictionary, tuple)
+1.3.7 함수
+1.3.8 클래스와 객체지향 프로그래밍 맛보기
+
+Chapter 2. Django 기본 컨셉 익히기
+2.1 Django 시작하기
+2.1.1 Django란
+2.1.2 개발 환경 세팅
+2.1.3 프로젝트 시작하기
+2.2 Django 프로젝트 구조 살펴보기
+2.2.1 Django 프로젝트와 앱
+2.2.2 Django 프로젝트 설정 마무리하기
+2.2.3 Django 프로젝트 구성요소 살펴보기
+2.2.4 Django 앱 구조로 알아보는 MTV 패턴
+2.3 Django Model 알아보기
+2.3.1 Migration 에러 수정하기
+2.3.2 어드민 페이지 들어가보기
+2.3.3 모델이란
+2.3.4 Django 모델 만들기
+2.3.5 Django 모델 적용시키기
+2.3.6 Django 모델 어드민 페이지 적용
+2.4 Django Template 알아보기
+2.4.1 Django Template이란
+2.4.2 Django Template의 특징
+2.5 Django View, URL 알아보기
+2.5.1 Django View란
+2.5.2 Django URL이란
+2.6 서비스 기능 하나씩 구현하기
+2.6.1 사진 목록 화면 만들기
+2.6.2 사진 게시물 보기 화면 만들기
+2.6.3 사진 게시물 작성 기능 만들기
+2.6.4 사진 게시물 수정 기능 만들기
+2.6.5 예시 마무리 하기
+
+Chapter 3. Django로 Todo 목록 웹 서비스 만들기
+3.1 Todo 목록 웹 서비스 시작하기
+3.1.1 프로젝트 기능 정리하기
+3.1.2 프로젝트 생성하기
+3.1.3 Todo 프로젝트 설정하기
+3.1.4 Todo 모델 생성하기
+3.2 Todo 전체 조회 기능 만들기
+3.2.1 Todo 전체 조회 기능 컨셉
+3.2.2 Bootstrap으로 좀 더 멋진 템플릿 만들기
+3.2.3 Todo 전체 조회 템플릿 만들기
+3.2.4 Todo 전체 조회 뷰 만들기
+3.2.5 Todo 전체 조회 URL 연결하기
+3.3 Todo 상세 조회...
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼자 공부하는 얄팍한 코딩 지식/고현민 지음/한빛미디어]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294465447</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294465447"/>
+        <updated>2022-05-10T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[혼자 공부하는 얄팍한 코딩 지식
+고현민 지음 / 한빛미디어 / 2022년 05월 / ISBN:9791162245552
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
+
+
+
+
+독학으로 IT 지식을 배우는 입문자가 ‘꼭 필요한 내용을 제대로 학습’할 수 있도록 구성했다. 뭘 모르는지조차 모르는 입문자의 막연한 마음에 십분 공감하여 과외 선생님이 알려주듯 친절하게, 핵심 내용만 콕콕 집어 준다. 
+
+1장에서는 IT 업계 용어를 알아보며 개발과 개발자를 이해하고, 2장에서는 개발자가 실제로 사용하는 용어를 배우며 개발자와 소통할 수 있는 발판을 마련해 준다. 마지막 3장에서는 여러 가지 개발 용어를 바탕으로 개발자의 길로 들어설 수 있도록 친절하게 알려 준다. '개발이 뭔지 궁금했지만', '개발자와 소통해야 하지만', '개발자가 되고 싶지만' 기존 IT 지식서에서는 시원하게 알 수 없었던 진짜 코딩 지식을 만나 보자.
+
+Chapter 01 개발자 이해하기: 개발과 개발자 용어 알기
+01-1 개발자는 대체 뭐하는 사람인가요?
+__개발자는 누구인가요?: 개발자 vs 작가 easy
+__웹사이트를 만드는 개발자: 웹 개발자 easy
+__손 안의 앱을 만드는 개발자: 모바일 개발자 easy
+__게임을 만드는 개발자: 게임 개발자 easy
+__컴퓨터 프로그램을 만드는 개발자: 응용 소프트웨어 개발자 easy
+__하드웨어를 제어하는 개발자: 임베디드 개발자 easy
+__빈틈없는 정보 파수꾼: 정보 보안 전문가 easy
+__기계를 가르치는 개발자: AI 개발자 easy
+[7가지 키워드로 정리하는 핵심 포인트]
+[확인 문제]
+
+01-2 코딩과 프로그래밍, 앱과 프로그램
+__프로그래밍 언어로 코드 작성하기: 코딩 easy
+__컴퓨터가 할 일 설계하기: 프로그래밍 easy
+__소프트웨어를 만들고 운영하는 과정: 개발 medium
+__컴퓨터의 보이지 않는 요소: 소프트웨어 vs 프로그램 vs 애플리케이션 medium
+[7가지 키워드로 정리하는 핵심 포인트]
+[확인 문제]
+
+01-3 프로그래밍 언어도 외국어인가요?
+__컴퓨터에 명령을 내릴 때 사용하는 언어: 프로그래밍 언어 easy
+__배우기 쉬운 언어는 없을까?: 프로그래밍 언어가 다양한 이유 easy
+__프로그래밍 언어의 계층: 고수준 언어와 저수준 언어 medium 
+__개발자들의 워드 프로세서: IDE easy
+[8가지 키워드로 정리하는 핵심 포인트]
+[확인 문제]
+
+01-4 디버깅 중인데, 빌드 해보고 이상 없으면 릴리스할게요
+__프로그램의 간 보기: 디버깅 easy
+__소스 코드를 프로그램으로 포장하기: 빌드 easy
+__몇 번 테스트하고 몇 번 업그레이드했는지 확인하기: 빌드 번호와 버전 번호 medium
+__프로그램을 사용자에게 서빙하기: 배포 easy
+__출시했다고 끝이 아닙니다!: 유지 보수 easy
+__맛은 같게, 레시피는 다르게: 리팩토링 easy
+__함께 맛보고 피드백하기: 코드 리뷰 easy
+__레시피 정리해 두기: 문서화 easy
+[7가지 키워드로 정리하는 핵심 포인트]
+[확인 문제]
+
+Chapter 02 개발자와 소통하기: IT 업계 용어 알기
+02-1 서버는 뭐고 AWS는 뭔가요?
+__주는 컴퓨터와 받는 컴퓨터 : 서버와 클라이언트 easy
+__서버들이 모여 있는 ...
+
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론
+국내도서 > 컴퓨터/모바일 > 웹디자인/홈페이지 > HTML/JavaScript
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
+국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투자를 위한 투자/김태홍 지음/위너스북]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294431309</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294431309"/>
+        <updated>2022-05-10T01:52:00.000Z</updated>
+        <summary type="html"><![CDATA[투자를 위한 투자
+김태홍 지음 / 위너스북 / 2022년 05월 / ISBN:9791189352530
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+이벤트: 2022 서울 국제도서전에 초대합니다! 초대권 추첨
+
+
+
+
+주식시장의 열기에 편승하려고 급하게 쓴 글이 아니다. 회사 일과 병행하면서 개인의 지식과 경험을 바탕으로 투자에 도움이 될 만한 글들을 일기처럼 적어 정리한 것이다. 처음 이 글을 작성하게 된 계기도 펀드매니저에 입문하는 후배들에게 도움을 주고자 하는 의도로 <펀드매니저 지침서>라는 제목으로 시작되었다.
+
+그리고 점점 늘어나는 전문적인 일반투자자와 펀드매니저를 꿈꾸는 학생 등 주식투자에 관심과 열정이 있는 독자들에게, 저자의 광범위한 투자 노하우를 공유하면 투자자들이 ‘잃지 않는 투자’를 함으로써 보람을 느낄 수 있을 것이라 출간되었다. 결과적으로 효과적인 투자 이론과 기업분석법에서 시작하여 실전에 도움이 되는 투자자의 마음가짐, 위기 대처법까지 모두 다루게 되었다. 
+
+따라서 본서는 투자 입문자에게는 다소 많은 공부를 요하는 부분이 있다. 하지만 필자의 20년 이상의 노하우를 비교적 최대한 쉽게 풀어 쓰려고 노력하였으며, 실전 노하우 부분은 실제 경험을 바탕으로 했기 때문에 잘 새겨 두고 실천하면 큰 도움이 될 것이다. 
+
+같은 유망 종목을 알려주고 동시에 투자를 시작해도 돈의 주인인 투자자의 마음가짐에 따라 커다란 차이가 발생하는 것이 주식시장이다. 사람마다의 성향이나 성격을 고칠 수는 없지만 주식시장에서 성공을 높여주는 요령은 『투자를 위한 투자』를 통해 꼭 챙겨가길 바란다.
+
+『투자를 위한 투자』
+
+프롤로그: 투자는 인생이라는 마라톤
+
+제1부 노하우편
+1장 | 투자 마인드 셋업
+■ 스포츠카보다 멋진 주식투자 (용의 등에 올라타기) 
+■ 돈 주인 마인드에 따라 달라지는 수익률 
+■ 주식할 때는 인간본능에 역행하라 
+■ 목표수익률과 투자기간부터 설정하자 
+■ 집중투자는 안전한가 위험한가? 
+■ 언행일치의 중요성
+2장 | 실전 노하우
+■ 5년 단위 주도주를 찾아라 46
+■ 신성장 산업을 조기 발굴해보자 52
+■ 끝까지 살아남을 기업을 꼽아라 56
+■ 정보가 없는 사람도 성공하는 법 (마이클 포터) 61
+■ 매크로에서 심리지표까지 4대 체크 포인트 67
+■ 모르는 것에 시간낭비 하지 말아라 78
+■ 서로 밀고 당겨줄 5종목 법칙 85
+■ 장기투자가 집중투자를 만났을 때 (워런 버핏)
+■ 파는 원칙을 가져보자
+■ 물타기는 업종 내 1위 기업만
+■ 모르는 악재에는 절반 먼저 팔기
+■ 투자에 매우 쓸모 있는 이론들 (효율적시장가설과 재귀이론)
+■ 매수 클릭 전 10분만 더 투자하자
+
+제2부 실전 이론편
+3장 | 만능키 : 금리로 보는 사이클
+■ 금리는 대항해 시대에 나침반
+■ 미국 연준(Fed)에게 물가와 실업률 중 어떤 게 더 중요할까?
+■ 인류 최고 발명품 민주주의 (자산가에게는 축복)
+■ 경기와 유동성을 알려주는 기본적인 매크로 지표들
+■ 거꾸로 활용할 만한 중급자용 지표들
+■ 4계절처럼 변하는 자산군들간의 매력도 (레이 달리오)
+■ 그래서 2022년 현재 주식시장 위치는?
+4장 | 유망산업의 조건
+■ 인생과 같이 한방이 있는 산업 사이클
+■ 눈여겨볼 미래 성장 산업 4종 세트
+■ 위기에도 끄떡없는 산업은 독과점적 지위를 가진다
+5장 | 필승 기업 발굴법
+■ 쇼미더머니-기업 이익 점검부터
+■ 대규모 증설에 들어간 기업은 강력한 우승 후보
+■ 판매가격 올리는 이런 조건 기업은 무조건 따라잡자
+■ 을이었는데 갑이 되는 기업 (Seller’s Power)
+■ 자사주매입과 주주환원 정책은 기업가치 상승을 수반한다
+■ 창조적 파괴자도 그를 위한 생산자가 필요하다
+6장 | 기업분석 노하우
+■ 성장 사이클에 있는 전방산업에서 기...
+
+국내도서 > 경제경영 > 재테크/투자 > 주식/펀드
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do it! 클론 코딩 줌/니꼴라스 지음, 강윤호 옮김/이지스퍼블리싱]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294425609</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294425609"/>
+        <updated>2022-05-10T00:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Do it! 클론 코딩 줌
+니꼴라스 지음, 강윤호 옮김 / 이지스퍼블리싱 / 2022년 05월 / ISBN:9791163033530
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
+
+
+
+
+출간 즉시 IT 분야 1위를 기록한 《Do it! 클론 코딩 영화 평점 웹서비스》, 《Do it! 클론 코딩 트위터》 출간 이후 '다른 웹 서비스도 클론하고 싶다'는 독자의 요청이 쇄도했다. 이러한 독자 성원에 힘입어 노마드 코더는 '줌 클론 코딩'을 촬영하고 전체 강의를 무료 공개했다. 해당 강의는 총 40개로 구성, 이제 막 프런트 엔드 웹 개발을 초보자가 봐도 이해할 수 있을 정도로 쉽게 풀어냈다. 
+
+또한 화상 채팅 서비스의 기본 개념인 웹소켓, SocketIO, WebRTC부터, 자바스크립트를 활용한 메시지 구현, 채팅방 생성, 화상 채팅 기능까지 모두 구현할 수 있다. 실제 노마드 코더 수강생 후기로 "SocketIO와 WebRTC와 같은 고급 네트워크 기술을 쉽게 사용할 수 있다니 실무에 큰 도움이 되었다!"와 같은 찬사가 쏟아지는 중이다. 평소 클론 코딩에 관심이 있었다면, 또는 하나의 서비스를 완벽하게 내 것으로 만들고 싶다면 지금 줌 클론 코딩을 시작해 보자!
+
+01 클론 코딩 줌 시작하기
+__01-1 클론 코딩 줌, 이런 기능을 만들어요!
+__01-2 클론 코딩 수업 준비하기
+__01-3 프로젝트 생성하기
+__01-4 서버를 위한 준비 작업
+__01-5 프런트엔드를 위한 준비 작업
+
+02 웹소켓을 이용한 실시간 기능 구현하기
+__02-1 HTTP와 비교하면 이해되는 웹소켓
+__02-2 웹소켓 설치하고 서버 만들기
+__02-3 웹소켓 이벤트
+__02-4 메시지 주고받기
+
+03 실시간 채팅 완성하기
+__03-1 채팅 기능 준비하기
+__03-2 사용자 간 채팅하기
+__03-3 닉네임 추가하기 1
+__03-4 닉네임 추가하기 2
+
+04 socket.io를 이용한 채팅룸 만들기
+__04-1 socket.io 설치하기
+__04-2 socket.io 다루기
+__04-3 채팅룸 만들기
+__04-4 채팅룸 안에서 메시지 교환하기
+__04-5 채팅룸 알람 보내기
+
+05 채팅룸 완성하기
+__05-1 닉네임 추가하기
+__05-2 채팅룸 관리하기
+__05-3 사용자 수 표시하기
+__05-4 Admin panel 사용하기
+
+06 화상 채팅 준비하기
+__06-1 카메라 불러오기
+__06-2 비디오와 오디오 제어하기
+__06-3 카메라 변경하기
+
+07 화상 채팅 완성하기
+__07-1 WebRTC 알아보기
+__07-2 채팅룸 만들고 관리하기
+__07-3 데이터 교환을 위한 offer 보내기
+__07-4 offer에 응답하는 answer 보내기
+__07-5 peer-to-peer 연결 생성하기
+__07-6 미디어 트랙 제어하기
+__07-7 메시지 교환 기능 추가하기
+
+08 스타일시트 추가하기
+__08-1 스타일 정의를 위한 준비
+__08-2 스타일 정의하기
+
+
+국내도서 > 컴퓨터/모바일 > 웹디자인/홈페이지 > HTML/JavaScript
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
+국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
@@ -622,26 +960,6 @@ Chapter6 행과 열을 조작한다
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explaining the disappointing trade effects of regional trade agreements]]></title>
-        <id>https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements</id>
-        <link href="https://voxeu.org/article/explaining-disappointing-trade-effects-regional-trade-agreements"/>
-        <updated>2022-05-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What can explain the small or even negative effects of regional trade agreements on trade? Using trade data between Japan and other 68 countries from 2002 to 2018, this column argues that RTAs reduce fixed costs for foreign direct investment more than exporters. This could have a negative effect on trade. A simulation exercise indicates that introducing RTA between Japan and China would incentivise Japanese firms to set up production in China and sell locally rather than export from Japan.]]></summary>
-        <author>
-            <name>Youngmin  Baek, Kazunobu  Hayakawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The matching between workers and jobs explains productivity differentials across firms]]></title>
-        <id>https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms</id>
-        <link href="https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms"/>
-        <updated>2022-05-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recent research has highlighted the contribution that managerial decisions make to firms’ productivity. This column uses a novel measure of job-worker allocation quality to document how firms that match their employees to their most suitable jobs are more productive, and their ability to do so depends on the quality and experience of their management. The measure is helpful for uncovering a hitherto neglected dimension of managerial practices, and could be particularly valuable at times when the need to cope with technological innovation, pandemics, climate change, or wars requires widespread firm restructuring and workers’ reallocation.]]></summary>
-        <author>
-            <name>Luca  Coraggio, Marco  Pagano, Annalisa Scognamiglio, Joacim Tåg</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스마트 경제/리옌훙 지음, 장샤오펑 외 엮음, 이서연 외 옮김/버니온더문]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294374600</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294374600"/>
@@ -659,16 +977,6 @@ Chapter6 행과 열을 조작한다
 또한, 스마트 클라우드를 매개체로 바이두는 현재 AI 응용 상용화를 적극적으로 추진하고 금융, 고객 서비스, 도시, 의료, 인터넷, 공업 등 영역에 광범위하게 응용해 중국 산업 스마트화의 리더가 됐다. 바이두는 중국 최대 대화형 인공지능 운영체계인 DuerOS를 만들었으며, 샤오두 시리즈 인공지능 스피커 출하량은 세계 2위, 중국 1위를 차지한다. 그 밖에 중국에서 가장 강력한 자율주행 실력을 갖춘 아폴로를 보유하고 있으며 차량 인터넷, 스마트 교통 등 영역에서 완벽한 솔루션을 갖고 있다. 현재 바이두 AI는 특허수, 패들패들 딥러닝 오픈소스 플랫폼, AI 일간 사용량, 개발자 …]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European recessions and Native American conflict]]></title>
-        <id>https://voxeu.org/article/european-recessions-and-native-american-conflict</id>
-        <link href="https://voxeu.org/article/european-recessions-and-native-american-conflict"/>
-        <updated>2022-05-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recessions in Europe often pushed Europeans to migrate to the US in search of better economic opportunities. This column examines the effect of this on conflict with Native Americans in the western US during the late 19th century. The authors find that a recession in Europe significantly increased the probability of conflict between US soldiers and Native American tribes. As they were often driven off their land and relocated to areas with inferior land and rainfall, European immigration to the American west likely had long-term negative effects on economic conditions for Native Americans.]]></summary>
-        <author>
-            <name>Marco Del Angel, Gregory D. Hess, Marc Weidenmier</name>
         </author>
     </entry>
     <entry>
@@ -2184,54 +2492,6 @@ CHAPTER 11 파이썬의 자료구조
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융 프렌즈가 우릴 기다려/이현 지음/휴머니스트]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293517904</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293517904"/>
-        <updated>2022-04-27T03:20:00.000Z</updated>
-        <summary type="html"><![CDATA[금융 프렌즈가 우릴 기다려
-이현 지음 / 휴머니스트 / 2022년 05월 / ISBN:9791160808469
-정가: 13,500원 / 판매가: 12,150원 / 마일리지: 670원
-이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
-
-
-
-
-경제부 기자로, 시사 이슈를 전하는 팟캐스트 ‘듣똑라’의 진행자로 일하며 수많은 경제 관련 콘텐츠를 만들어 온 이현 기자가 금융 입문서를 펴냈다. <금융 프렌즈가 우릴 기다려>는 독립을 준비하는 십 대부터 이제 막 ‘내 돈’을 운용하기 시작한 사회 초년생까지 함께 읽을 수 있는 책이다.
-
-기사, 팟캐스트, 유튜브 영상 등 그 자신이 다양한 경제 콘텐츠를 접하고 소개해 온 저자는 ‘기초를 설명하는 콘텐츠’가 중요함을 실감한다고 말한다. 재테크에 관심이 많은 사람이 보기엔 너무 기본적이라서 언급도 안 하는 이야기가 경제적 독립의 출발선에 서 있는 사람들에겐 중요하기 때문이다.
-
-쓰기는 쉬워도 벌고 모으기는 어려운 돈. 금융의 기초 지식을 알면 삶을 주체적으로 운영하는 데 도움이 된다. <금융 프렌즈가 우릴 기다려>는 내 삶을 꾸리는 금융 생활에 쉽게 입문할 수 있도록 흥미로운 사례와 저자의 생생한 경험을 들어 경제의 기본 원리부터 금융의 기초 상식까지 안내한다. 돈을 대하는 태도에서 독립을 앞둔 이들이 알아야 할 알짜 정보까지, 오늘과 내일의 나에게 든든한 힘이 될 금융 입문서다.
-
-머리말 주체적인 삶을 꾸려 나가기 위한 ‘금융 프렌즈’ 만나기 4
-
-1. 돈이 뭐길래_화폐의 가치 10
-2. 삶은 선택의 연속_기회비용 22
-3. 돈에도 가격이 있다고?_금리 34
-4. 직구 운동화 가격은 왜 자꾸 달라질까?_환율 46
-5. 은행마다 맡은 미션이 있다_은행의 역할 60
-6. 주식이 뭐지?_기업, 주식회사, 상장 68
-7. 주식시장은 어떻게 돌아갈까?_주식시장 80
-8. 골라 담고 나눠 담는 바구니_펀드 96
-9. 요긴하지만 쉽게 보면 큰코다칠걸_대출 110
-10. 불안한 마음을 덜고 싶다면_보험 124
-11. 재테크 똑똑이도, 책임 있는 경제인도_세금 136
-12. 결제수단은 진화한다_신용카드, 암호화폐 150
-13. 경제에 ‘늘 똑같이’란 없다_경기와 물가 162
-14. 세 차례 세계의 금융위기_1997, 2008, 2020 176
-15. 미래의 금융은 어떤 모습일까?_핵심은 신뢰 194
-
-본문의 주 208
-참고 문헌 211
-
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정
-국내도서 > 청소년 > 청소년 경제]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
