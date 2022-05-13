@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T15:01:29.529Z</id>
+    <id>urn:2022-05-13T18:01:53.996Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-13T15:01:29.529Z</updated>
+    <updated>2022-05-13T18:01:53.996Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -28,16 +28,6 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Algorithmic stablecoins and devaluation risk]]></title>
-        <id>https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk</id>
-        <link href="https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk"/>
-        <updated>2022-05-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On 10 May 2022, the price of TerraUSD, an algorithmic stablecoin operating on the Terra blockchain, fell and it lost its peg to one US dollar. Using the devaluation of the TerraUSD peg as a case study, this column shows how algorithmic stablecoins are vulnerable to speculative attacks when the system is under-collateralised. The authors point to solutions – stable collateral and over-collateralisation – to stabilise the peg.]]></summary>
-        <author>
-            <name>Amit Chaudhary, Ganesh Viswanath-Natraj</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Analysing cost-push inflation using world input-output tables]]></title>
         <id>https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables</id>
         <link href="https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables"/>
@@ -45,6 +35,16 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         <summary type="html"><![CDATA[The rise of global value chains has led to a greater use of input-output tables to study international linkages. This column analyses cost-push inflation using world input-output tables. In the light of the recent surge in commodity prices, it explores which countries are most vulnerable to energy cost-push inflation and documents the large exposure of Eastern and central European economies to a rise in Russian hydrocarbon prices. Input-output tables are used to document the heterogeneous reactions of consumer prices to exchange rate variations across countries, reflecting differences in foreign product content of consumption and intermediate products.]]></summary>
         <author>
             <name>Guillaume Daudin, Violaine  Faubert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithmic stablecoins and devaluation risk]]></title>
+        <id>https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk</id>
+        <link href="https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk"/>
+        <updated>2022-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On 10 May 2022, the price of TerraUSD, an algorithmic stablecoin operating on the Terra blockchain, fell and it lost its peg to one US dollar. Using the devaluation of the TerraUSD peg as a case study, this column shows how algorithmic stablecoins are vulnerable to speculative attacks when the system is under-collateralised. The authors point to solutions – stable collateral and over-collateralisation – to stabilise the peg.]]></summary>
+        <author>
+            <name>Amit Chaudhary, Ganesh Viswanath-Natraj</name>
         </author>
     </entry>
     <entry>
@@ -58,16 +58,6 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rank effects in education]]></title>
-        <id>https://voxeu.org/article/rank-effects-education</id>
-        <link href="https://voxeu.org/article/rank-effects-education"/>
-        <updated>2022-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A burgeoning literature on rank effects in education has found that students who are highly ranked in their class or grade have better long-term outcomes, even after accounting for absolute levels of ability and performance. This column uses this finding to shed light on other educational phenomena, such as the impact of high-achieving peers and the persistent gender gap in STEM subjects. The sizeable effects of (sometimes misleading) academic rank raise policy questions about whether and how students should be informed of data that could influence their decisions about subject and career choices.]]></summary>
-        <author>
-            <name>Judith  Delaney, Paul Devereux</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Skill-biased production makes high-skill workers more efficient in rich countries]]></title>
         <id>https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries</id>
         <link href="https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries"/>
@@ -75,6 +65,16 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         <summary type="html"><![CDATA[How does the productivity of different types of workers vary across countries? This column uses micro data from countries at different levels of development to document that highly educated workers are relatively more productive in rich countries. Exploiting variation in the skill premia of foreign-educated migrants, the author concludes that this is mostly due to the technological environment in rich countries being more complementary to high-skill labour.]]></summary>
         <author>
             <name>Federico Rossi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rank effects in education]]></title>
+        <id>https://voxeu.org/article/rank-effects-education</id>
+        <link href="https://voxeu.org/article/rank-effects-education"/>
+        <updated>2022-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A burgeoning literature on rank effects in education has found that students who are highly ranked in their class or grade have better long-term outcomes, even after accounting for absolute levels of ability and performance. This column uses this finding to shed light on other educational phenomena, such as the impact of high-achieving peers and the persistent gender gap in STEM subjects. The sizeable effects of (sometimes misleading) academic rank raise policy questions about whether and how students should be informed of data that could influence their decisions about subject and career choices.]]></summary>
+        <author>
+            <name>Judith  Delaney, Paul Devereux</name>
         </author>
     </entry>
     <entry>
@@ -88,16 +88,6 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shocks, international trade, and diversification]]></title>
-        <id>https://voxeu.org/article/shocks-international-trade-and-diversification</id>
-        <link href="https://voxeu.org/article/shocks-international-trade-and-diversification"/>
-        <updated>2022-05-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trade in goods has rebounded quickly from the pandemic, while trade in services has not. This column finds that the pandemic broke the old trade patterns and that lockdowns had unintended international spillovers. Although global value chains have adapted, ongoing supply disruptions and the risk of future adverse shocks point to the need for more resilient value chains. The authors argue that in contrast to those calling for reshoring, a better way to build resilience is to diversify away from domestic sourcing of inputs and make it easier for producers to substitute between inputs supplied by different countries.]]></summary>
-        <author>
-            <name>Ting Lan, Davide Malacrino, Adil Mohommad, Andrea Presbitero, Galen Sher</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The effect of China’s two-child policy on household savings]]></title>
         <id>https://voxeu.org/article/effect-china-s-two-child-policy-household-savings</id>
         <link href="https://voxeu.org/article/effect-china-s-two-child-policy-household-savings"/>
@@ -105,6 +95,16 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         <summary type="html"><![CDATA[China’s high household savings rate remains a puzzle, with potential explanations including demographic, policy, and financial causes. This column investigates China’s savings rate using individual income and spending transactions linked to demographic characteristics and financial information on loan applications and credit availability. The authors match bank customers to administrative records covering marriage and births to obtain a unique insight into consumption and savings patterns around important life events. The results point to income growth, financial instability, and credit access, rather than directives such as the one-child policy, as the primary drivers of high savings among Chinese households.]]></summary>
         <author>
             <name>Scott  Baker, Efraim Benmelech, Zhishu  Yang, Qi  Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shocks, international trade, and diversification]]></title>
+        <id>https://voxeu.org/article/shocks-international-trade-and-diversification</id>
+        <link href="https://voxeu.org/article/shocks-international-trade-and-diversification"/>
+        <updated>2022-05-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trade in goods has rebounded quickly from the pandemic, while trade in services has not. This column finds that the pandemic broke the old trade patterns and that lockdowns had unintended international spillovers. Although global value chains have adapted, ongoing supply disruptions and the risk of future adverse shocks point to the need for more resilient value chains. The authors argue that in contrast to those calling for reshoring, a better way to build resilience is to diversify away from domestic sourcing of inputs and make it easier for producers to substitute between inputs supplied by different countries.]]></summary>
+        <author>
+            <name>Ting Lan, Davide Malacrino, Adil Mohommad, Andrea Presbitero, Galen Sher</name>
         </author>
     </entry>
     <entry>
@@ -3354,35 +3354,6 @@ _4.3 정렬 알고리즘
 __4.3.1 버블 정렬 알고리즘 이해...
 
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 자바]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코딩영어/김용찬 지음/원펀치]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=292655964</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=292655964"/>
-        <updated>2022-04-14T05:50:00.000Z</updated>
-        <summary type="html"><![CDATA[코딩영어
-김용찬 지음 / 원펀치 / 2022년 04월 / ISBN:9791196345549
-정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
-이벤트: 외국어_피너츠 아이스 텀블러, 플러스펜 세트
-
-
-
-
-저자가 개발한 자기주도 학습법을 다루고 있다. 급변하는 디지털 시대에 발맞춰 우리가 해야 할 것은 무엇일까? 우리가 온라인 교육의 이점을 누리기 위해 준비해야 할 것은 무엇일까? 저자는 바로 영어와 파이썬 공부라고 이야기하고 있다. 그리고, 그가 개발한 자기주도 학습법을 그 지름길로 제시하고 있는 것이다.
-
-자기주도 학습법이 우수한 이유는 세 가지다. 첫 번째, 코딩은 영어로 만든 용어이고, 문법이기 때문에 영어로 들었을 때 가장 쉽게 이해할 수 있다. 그게 바로 저자가 이 책 『코딩영어』를 쓴 이유인 것이다.
-두 번째, 실습을 해서 결과가 맞게 나온다면 영어가 들렸다는 것을 의미하니, 혼자서도 학습을 할 수 있다. 세 번째, 정 이해가 안 되고 실습 결과가 계속 틀리게 나오더라도, 이 『코딩영어』의 도움을 받으면 해결할 수 있다.
-
-PART Ⅰ
-파이썬 초급: text-based tic tac toe game 만들기
-
-Learn to Program w/ Python 1. Introduction
-Learn to Program w/ Python 2. Tuples, strings, loops
-Learn to Program w/ Python 3. Lists and tic tac toe game
-Learn to Program w/ Python 4. Built-in functions…]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
