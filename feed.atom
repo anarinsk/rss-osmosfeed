@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T21:01:08.740Z</id>
+    <id>urn:2022-05-13T00:03:11.407Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-12T21:01:08.740Z</updated>
+    <updated>2022-05-13T00:03:11.407Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A central bank view of reforming Europe’s fiscal framework]]></title>
+        <id>https://voxeu.org/article/central-bank-view-reforming-europe-s-fiscal-framework</id>
+        <link href="https://voxeu.org/article/central-bank-view-reforming-europe-s-fiscal-framework"/>
+        <updated>2022-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The economic landscape has changed dramatically since the European fiscal rules were designed some 30 years ago. This column contributes to the debate on reform by proposing a two-tier fiscal framework combining an expenditure rule that accounts for the ECB’s inflation objective with a lower speed of adjustment under the Stability and Growth Pact’s debt rule. Counter-cyclicality may be improved by automatic modulation of adjustment requirements, creating fiscal space when domestic inflation is low and constraining more when inflation is above target. The link to the debt anchor ensures a gradual phasing-in of debt reduction in the aftermath of COVID-19.]]></summary>
+        <author>
+            <name>Stephan Haroutunian, Sebastian Hauptmeier, Nadine Leiner-Killinger, Philip Muggenthaler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithmic stablecoins and devaluation risk]]></title>
+        <id>https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk</id>
+        <link href="https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk"/>
+        <updated>2022-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On 10 May 2022, the price of TerraUSD, an algorithmic stablecoin operating on the Terra blockchain, fell and it lost its peg to one US dollar. Using the devaluation of the TerraUSD peg as a case study, this column shows how algorithmic stablecoins are vulnerable to speculative attacks when the system is under-collateralised. The authors point to solutions – stable collateral and over-collateralisation – to stabilise the peg.]]></summary>
+        <author>
+            <name>Amit Chaudhary, Ganesh Viswanath-Natraj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysing cost-push inflation using world input-output tables]]></title>
+        <id>https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables</id>
+        <link href="https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables"/>
+        <updated>2022-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The rise of global value chains has led to a greater use of input-output tables to study international linkages. This column analyses cost-push inflation using world input-output tables. In the light of the recent surge in commodity prices, it explores which countries are most vulnerable to energy cost-push inflation and documents the large exposure of Eastern and central European economies to a rise in Russian hydrocarbon prices. Input-output tables are used to document the heterogeneous reactions of consumer prices to exchange rate variations across countries, reflecting differences in foreign product content of consumption and intermediate products.]]></summary>
+        <author>
+            <name>Guillaume Daudin, Violaine  Faubert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seizures of foreign exchange reserves will not weaken the dollar’s role as dominant reserve currency]]></title>
         <id>https://voxeu.org/article/seizures-foreign-exchange-reserves-will-not-weaken-dollar-s-role-dominant-reserve-currency</id>
@@ -381,36 +411,6 @@ __08-2 스타일 정의하기
         <summary type="html"><![CDATA[The Russian invasion of Ukraine has forced millions of Ukrainian children to leave their schools and homes. Such adverse shocks early in life can have profound long-term effects. This column presents evidence from WWII and the Vietnam War of how childhood war exposure had detrimental effects on education, physical and mental health, and labour market outcomes, even decades after the conflicts. The effects were most pronounced for girls and children of lower socioeconomic status. Policies that prioritise children are essential to reduce the enduring effects of war.]]></summary>
         <author>
             <name>Mevlude Akbulut-Yuksel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Blueprint for the Reconstruction of Ukraine. Rapid Response Economics 1]]></title>
-        <id>https://voxeu.org/content/blueprint-reconstruction-ukraine-rapid-response-economics-1</id>
-        <link href="https://voxeu.org/content/blueprint-reconstruction-ukraine-rapid-response-economics-1"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The first of CEPR’s Rapid Response Economics series spells out a proposal to ensure that the economy of post-war Ukraine can recover. But what can the international community do, and how much will it cost?]]></summary>
-        <author>
-            <name>Barry Eichengreen, Yuriy Gorodnichenko, Kenneth Rogoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intergenerational costs of allocating refugees randomly]]></title>
-        <id>https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly</id>
-        <link href="https://voxeu.org/article/intergenerational-costs-allocating-refugees-randomly"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Existing research on the integration of refugees has focused on the impact on the refugees themselves. This column uses the random allocation of refugees in Switzerland to show how allocation has significant effects even on future generations. Compared to children of refugees allocated to regions with an unfamiliar language, the children of mothers allocated to a familiar language environment have a higher birth weight on average, which is a predictor of outcomes including educational attainment, income, and health later in life.]]></summary>
-        <author>
-            <name>Daniel Auer, Johannes Kunz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxes and labour mobility: Why lowering income tax rates might not be a winning strategy]]></title>
-        <id>https://voxeu.org/article/taxes-and-labour-mobility-why-lowering-income-tax-rates-might-not-be-winning-strategy</id>
-        <link href="https://voxeu.org/article/taxes-and-labour-mobility-why-lowering-income-tax-rates-might-not-be-winning-strategy"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is not only countries but also sub-national jurisdictions such as states that compete for high-income taxpayers. In recent decades, both tax competition as well as attempts to keep aggressive tax practices at bay have intensified. This column uses Swiss data on local tax changes to show that lower income taxes for high-income taxpayers do attract top earners. Nonetheless, the net effect on tax revenue is not necessarily positive. The associated mechanical tax revenue losses that arise from lowering the tax rates may be so large that such tax cuts do not pay for themselves.]]></summary>
-        <author>
-            <name>Isabel Z. Martínez</name>
         </author>
     </entry>
     <entry>
