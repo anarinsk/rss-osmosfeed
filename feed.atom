@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T21:01:48.463Z</id>
+    <id>urn:2022-05-14T00:03:09.349Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-13T21:01:48.463Z</updated>
+    <updated>2022-05-14T00:03:09.349Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[American treasure and the decline of Spain]]></title>
+        <id>https://voxeu.org/article/american-treasure-and-decline-spain</id>
+        <link href="https://voxeu.org/article/american-treasure-and-decline-spain"/>
+        <updated>2022-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spain was one of the world’s richest countries around 1500. Two centuries later, it was a backwater. This column discusses the long-run impact of the influx of precious metals from the New World on the economic development of Spain. Using an augmented synthetic control methodology, the authors show that in the long run the growth and price level trajectories evolved dramatically different in Spain relative to other Western European nations. Spain initially boomed but suffered from high inflation and became poorer as the result of a resource curse which had economic and political dimensions.]]></summary>
+        <author>
+            <name>Carlos Javier Charotti, Nuno Palma, João  Pereira dos Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assortative mating and the wealth inequality debate]]></title>
+        <id>https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate</id>
+        <link href="https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate"/>
+        <updated>2022-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The literature on assortative mating has largely focused on whether children of wealthy parents tend to marry children of similarly wealthy parents. Using data from Norway, this column shows that people tend to match based on their own pre-marriage wealth, not their parent’s wealth, and that individuals also match based on their personal returns to wealth. Among wealthy couples, the partner with the highest pre-marriage return tends to manage the household’s assets, allowing the households to grow their assets even faster over time and boosting wealth concentration.]]></summary>
+        <author>
+            <name>Luigi Guiso, Luigi Pistaferri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What can helicopter money do?]]></title>
         <id>https://voxeu.org/vox-talks/what-can-helicopter-money-do</id>
@@ -28,6 +48,16 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Algorithmic stablecoins and devaluation risk]]></title>
+        <id>https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk</id>
+        <link href="https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk"/>
+        <updated>2022-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On 10 May 2022, the price of TerraUSD, an algorithmic stablecoin operating on the Terra blockchain, fell and it lost its peg to one US dollar. Using the devaluation of the TerraUSD peg as a case study, this column shows how algorithmic stablecoins are vulnerable to speculative attacks when the system is under-collateralised. The authors point to solutions – stable collateral and over-collateralisation – to stabilise the peg.]]></summary>
+        <author>
+            <name>Amit Chaudhary, Ganesh Viswanath-Natraj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Analysing cost-push inflation using world input-output tables]]></title>
         <id>https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables</id>
         <link href="https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables"/>
@@ -38,13 +68,431 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Algorithmic stablecoins and devaluation risk]]></title>
-        <id>https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk</id>
-        <link href="https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk"/>
-        <updated>2022-05-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On 10 May 2022, the price of TerraUSD, an algorithmic stablecoin operating on the Terra blockchain, fell and it lost its peg to one US dollar. Using the devaluation of the TerraUSD peg as a case study, this column shows how algorithmic stablecoins are vulnerable to speculative attacks when the system is under-collateralised. The authors point to solutions – stable collateral and over-collateralisation – to stabilise the peg.]]></summary>
+        <title type="html"><![CDATA[좋은 코드, 나쁜 코드/톰 롱 지음, 차건회 옮김/제이펍]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294649282</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294649282"/>
+        <updated>2022-05-12T07:25:00.000Z</updated>
+        <summary type="html"><![CDATA[좋은 코드, 나쁜 코드
+톰 롱 지음, 차건회 옮김 / 제이펍 / 2022년 05월 / ISBN:9791191600896
+정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
+이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
+
+
+
+
+구글 엔지니어가 말하는 좋은 코드 작성법. 좋은 코드를 작성하기 위한 이론과 실전을 소개한다. 단순히 해야 할 일과 하지 말아야 할 일을 나열하기보다, 여섯 가지 원칙을 바탕으로 각 개념과 기술의 장단점, 그리고 이면의 핵심 논리를 설명한다. 책에서 설명하는 즉시 사용 가능한 수십 가지의 기술을 익힌다면, 숙련된 프로그래머의 사고법과 코드 작성의 노하우를 이해할 수 있다. 효과적인 테스트 방법도 설명하므로 더 나은 코드를 작성하는 데 도움을 줄 것이다.
+
+옮긴이 머리말 xiii
+베타리더 후기 xv
+머리말 xviii
+감사의 글 xix
+이 책에 대하여 xx
+장별 요약 xxv
+표지에 대하여 xxvi
+
+PART I 이론
+CHAPTER 1 코드 품질 3
+1.1 코드는 어떻게 소프트웨어가 되는가 5
+1.2 코드 품질의 목표 8
+1.3 코드 품질의 핵심 요소 12
+1.4 고품질 코드 작성은 일정을 지연시키는가? 23
+요약 25
+
+CHAPTER 2 추상화 계층 27
+2.1 널값 및 의사코드 규약 28
+2.2 왜 추상화 계층을 만드는가? 29
+2.3 코드의 계층 33
+2.4 마이크로서비스는 어떤가? 54
+요약 56
+
+CHAPTER 3 다른 개발자와 코드 계약 57
+3.1 자신의 코드와 다른 개발자의 코드 58
+3.2 여러분이 작성한 코드의 사용법을 다른 사람들은 어떻게 아는가? 61
+3.3 코드 계약 64
+3.4 체크 및 어서션 73
+요약 77
+
+CHAPTER 4 오류 79
+4.1 복구 가능성 80
+4.2 견고성 vs 실패 84
+4.3 오류 전달 방법 93
+4.4 복구할 수 없는 오류의 전달 108
+4.5 호출하는 쪽에서 복구하기를 원할 수도 있는 오류의 전달 108
+4.6 컴파일러 경고를 무시하지 말라 116
+요약 118
+
+PART II 실전
+CHAPTER 5 가독성 높은 코드를 작성하라 123
+5.1 서술형 명칭 사용 123
+5.2 주석문의 적절한 사용 127
+5.3 코드 줄 수를 고정하지 말라 132
+5.4 일관된 코딩 스타일을 고수하라 134
+5.5 깊이 중첩된 코드를 피하라 137
+5.6 함수 호출도 가독성이 있어야 한다 141
+5.7 설명되지 않은 값을 사용하지 말라 146
+5.8 익명 함수를 적절하게 사용하라 150
+5.9 프로그래밍 언어의 새로운 기능을 적절하게 사용하라 157
+요약 159
+
+CHAPTER 6 예측 가능한 코드를 작성하라 161
+6.1 매직값을 반환하지 말아야 한다 162
+6.2 널 객체 패턴을 적절히 사용하라 169
+6.3 예상치 못한 부수 효과를 피하라 177
+6.4 입력 매개변수를 수정하는 것에 주의하라 183
+6.5 오해를 일으키는 함수는 작성하지 말라 186
+6.6 미래를 대비한 열거형 처리 191
+6.7 이 모든 것을 테스트로 해결할 수는 없는가? 197
+요약 198
+
+CHAPTER 7 코드를 오용하기 어렵게 만들라 201
+7.1 불변 객...
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
+국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
         <author>
-            <name>Amit Chaudhary, Ganesh Viswanath-Natraj</name>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변화하는 세계 질서/레이 달리오 지음, 송이루.조용빈 옮김/한빛비즈]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294641551</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294641551"/>
+        <updated>2022-05-12T06:05:00.000Z</updated>
+        <summary type="html"><![CDATA[변화하는 세계 질서
+레이 달리오 지음, 송이루.조용빈 옮김 / 한빛비즈 / 2022년 06월 / ISBN:9791157845798
+정가: 38,000원 / 판매가: 34,200원 / 마일리지: 1,900원
+이벤트: <변화하는 세계 질서> 레더 L홀더
+
+
+
+
+《원칙 Principles: Life & Work》으로 전 세계의 사랑은 물론, 국내 독자들의 사랑을 한 몸에 받았던 레이 달리오가 새로운 책으로 돌아왔다. 《원칙》이 그의 인생과 회사 경영에 대한 원칙을 밝힌 책이라면, 이번 책에서는 지난 500년간 주요 국가들의 경제적, 정치적, 역사적 패턴을 파악해 전 세계가 앞으로 어떻게 달라질지를 밝히고, 우리가 어떻게 대응해야 할지를 알려준다.
+
+그의 새로운 책《변화하는 세계 질서》는 끊임없이 변화하는 세계 질서에 대처하기 위한 레이 달리오만의 원칙들을 담았다. 최근 올라온 《변화하는 세계 질서》를 요약한 유튜브 영상은 조회수 1,219만 회를 넘기며 많은 독자들의 관심을 증명했다.
+
+제1부 세상의 작동 원리
+1장. 빅 사이클 개요
+2장. 결정 요인
+    . 부록
+3장. 통화, 신용, 부채, 경제 활동의 빅 사이클
+4장. 통화 가치의 변화  
+5장. 내부 질서와 혼란의 빅 사이클 
+6장. 국제 질서와 혼란의 빅 사이클 
+7장. 빅 사이클로 판단하는 투자
+
+제2부 지난 500년간 세상의 작동 원리
+8장. 지난 500년의 요약 
+9장. 빅 사이클로 본 네덜란드제국과 길더화의 부상과 쇠퇴 
+10장. 빅 사이클로 본 대영제국과 파운드화의 부상과 쇠퇴 
+11장. 빅 사이클로 본 미국과 달러화의 부상과 쇠퇴 
+12장. 빅 사이클로 본 중국과 위안화의 부상 
+13장. 미·중 관계와 전쟁 
+
+제3부 미래
+14장. 미래 
+부록: 세계 강대국의 현 상황과 미래 전망에 대한 컴퓨터 분석 자료 
+
+용어 해설
+저자 소개
+
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그림으로 배우는 딥러닝/앤드류 글래스너 지음, 김창엽 외 옮김/에이콘출판]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294626669</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294626669"/>
+        <updated>2022-05-12T02:46:00.000Z</updated>
+        <summary type="html"><![CDATA[그림으로 배우는 딥러닝
+앤드류 글래스너 지음, 김창엽 외 옮김 / 에이콘출판 / 2022년 05월 / ISBN:9791161756448
+정가: 60,000원 / 판매가: 54,000원 / 마일리지: 3,000원
+이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
+
+
+
+
+복잡한 수식과 코드 없이 머신러닝과 딥러닝을 배우는 데 꼭 필요한 이론을 배울 수 있도록 구성했다. 필수로 익혀야 하는 통계 이론과 머신러닝의 기초 지식, 여러 딥러닝 구조와 응용 분야를 최대한 쉽게 풀어냈다. 딥러닝 입문자가 핵심적인 이론을 이해할 수 있도록 그림 설명을 제공하며, 코드를 작성할 준비가 됐을 때 활용할 수 있는 파이썬 예제를 별도로 제공한다.
+
+1부. 기본 개념
+
+1장. 머신러닝 개요
+전문가 시스템
+지도학습
+비지도학습
+강화학습
+딥러닝
+요약
+
+2장. 필수 통계
+무작위성 설명
+확률 변수와 확률 분포
+몇 가지 일반적인 분포
+__연속 분포
+__이산 분포
+확률 변수의 집합
+__기댓값
+__의존성
+__독립 항등 분포된 변수
+추출과 복원
+__복원 추출
+__비복원 추출
+부트스트랩
+공분산과 상관관계
+__공분산
+__상관관계
+통계가 모든 것을 말해주지는 않는다
+고차원 공간
+요약
+
+3장. 성능 측정
+확률의 여러 유형
+__다트 던지기
+__단순 확률
+__조건부 확률
+__결합 확률
+__주변 확률
+정확도 측정
+__샘플 분류
+__혼동 행렬
+__잘못된 예측값 특성화
+__옳고 그름의 측정
+__정확도
+__정밀도
+__재현율
+__정밀도-재현율 트레이드오프
+__오해의 소지가 있는 측정지표
+__f1 점수
+__용어
+__기타 측정지표
+혼동 행렬을 올바르게 구성하기
+요약
+
+4장. 베이즈 규칙
+빈도주의와 베이지안 확률
+__빈도주의적 접근
+__베이지안 접근법
+__빈도주의자 대 베이지안 주의자
+빈도주의자의 동전 던지기
+베이지안의 동전 던지기
+__동기 부여 예제
+__동전 확률 그리기
+__동전 던지기를 확률로 표현하기
+__베이즈 규칙
+__베이즈 규칙에 대한 논의
+베이즈 규칙과 혼동 행렬
+베이즈 규칙 반복
+__사후 확률-사전 확률 루프
+__베이즈 루프 실습
+다중 가설
+요약
+
+5장. 곡선과 표면
+함수의 본질
+미분
+__최댓값과 최솟값
+__접선
+__미분으로 최솟값과 최댓값 찾기
+그래디언트
+__물, 중력, 그래디언트
+__경사도로 최댓값과 최솟값 찾기
+__안장점
+요약
+
+6장. 정보 이론
+놀라움과 맥락
+__놀라움 이해
+__맥락 풀기
+정보 측정
+적응형 코드
+__모스 말하기
+__모스 부호 커스터마이징
+엔트로피
+교차 엔트로피
+__두 개의 적응형 코드
+__코드 사용
+__실전에서의 교차 엔트로피
+쿨백-라이블러 발산
+요약
+
+
+2부....
+
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한반도 경제학/안승길 지음/좋은땅]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294616251</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294616251"/>
+        <updated>2022-05-12T00:54:00.000Z</updated>
+        <summary type="html"><![CDATA[한반도 경제학
+안승길 지음 / 좋은땅 / 2022년 05월 / ISBN:9791138808910
+정가: 12,000원 / 판매가: 10,800원 / 마일리지: 600원
+이벤트: 2022 서울 국제도서전에 초대합니다! 초대권 추첨
+
+
+
+
+통일을 반대하는 이들과 통일의 필요성을 느끼지 못하는 사람들이 많이 늘고 있다. 그러나 깨달아야 한다. 통일은 우리 의사와 상관없이 두 동강 난 나라를 다시 하나로 합치는 것이요, 잃어버린 반쪽을 다시 만나는 길이다. 내 몸의 반이 잘려 나갔는데 남은 반쪽으로 살다 보니 어느덧 익숙해져 다른 반쪽을 포기해 버리는 것은 아닌지 되돌아봐야 한다. 
+
+분단된 채로 너무 많은 시간이 흘러가 버려 이제는 분단되었다는 사실조차 망각하게 된다. 분단에서 오는 엄청난 손실을 그냥 원래 그랬던 손실로, 처음부터 없던 손실로 여기며, 결국 무뎌지게 된다. 그냥 이대로 변화 없기만을 바라게 된다. 비극이다. 우리의 반쪽이 얼마나 중요한지, 하나가 되었을 때 얼마나 더 멋질 수 있는지를 알게 된다면 누구도 반쪽으로 남기를 원하지 않을 것이다. 이제, 우리의 잃어버린 반쪽을 되찾을 시간이 왔다.
+
+
+프롤로그
+- 미완의 숙제
+
+1부 분단이 주는 것들
+
+1장 통일을 반대하다
+1. 왜 하나가 되어야 하는가?
+2. 우리가 가난한 북한을 지원하고 부양해야 하는가?
+3. 통일은 꼭 지금이어야만 하는가?
+4. 강국이 되면 좋은 점들
+5. 기존 통일 이론의 고찰과 대안
+
+2장 반대를 반대하다
+1. 집값
+2. 지역편차
+3. 주식
+4. 지속성장과 저출생 해소
+5. 일자리 확대
+6. 여행사업 확대
+7. 국경개발
+8. 사상의 자유 확대
+9. 징병제에서 모병제로
+10. 사교육 문제해결
+11. 북한 핵기술 평화적 보존
+
+2부 해야 한다면 전략적으로
+
+1장 분단의 기원
+1. 망국
+2. 식민과 해방
+3. 전쟁
+4. 고착
+5. 기회의 상실
+6. 다시, 주어진 기회
+7. 분단의 교훈
+
+2장 전략적 통일론
+1. 경제력 신장
+2. 군사력 확대
+3. 3지속론: 자유왕래(국경개방·여행자유), 대북투자(경제균형), 교류(체육·문화교류) 지속
+4. 3단계론: 문화통일 ⇒ 경제통일(공통화폐) ⇒ 정치통일(사상의 자유경쟁 및 국민 선택)
+5. 정치통일의 방법
+6. 대외환경의 적극적 활용
+1) 바이든 행정부의 등장
+2) 한반도 운명의 주인으로
+
+3부 통일 후에 오는 것들
+코리아의 더 나은 미래
+
+1. 하나가 되는, 더 커지는 코리아
+2. 완벽한 상호보완
+3. 통일로 저성장 늪 돌파
+4. 북한 인구 증가 통한 저출생·인구감소 문제 해결
+5. 개발 청사진
+6. 중국, 러시아, 유럽으로 이어지는 철의 실크로드
+7. 동북아시아 문화강국·도덕적 선진국
+8. 동북아시아 경제·군사 강국
+9. 남+북+해외동포 웅비 (열린 민족주의)
+10. 진정한 한민족 시대 구현
+
+에필로그
+- 너의 코리아는 나의 코리아보다 더 빛날 것이다.
+
+부록. 통일과 관련된 추가적 아이디어
+
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망
+국내도서 > 사회과학 > 통일/북한관계 > 통일문제]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구독 서비스/박의서 지음/영진.com(영진닷컴)]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294615039</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294615039"/>
+        <updated>2022-05-12T00:23:00.000Z</updated>
+        <summary type="html"><![CDATA[구독 서비스
+박의서 지음 / 영진.com(영진닷컴) / 2022년 05월 / ISBN:9788931466119
+정가: 16,000원 / 판매가: 14,400원 / 마일리지: 800원
+이벤트: 2022 서울 국제도서전에 초대합니다! 초대권 추첨
+
+
+
+
+구독은 우리의 일상생활 곳곳에 빠르게 스며들며 변화를 가져오고 있는데, 이러한 배경에는 급속한 기술의 발전과 더불어 달라진 소비 트렌드를 들 수 있을 것이다. 바로 ICT 기술의 발달과 함께 플랫폼 시장 성장에 따른 소비 방식의 변화이다. 
+
+물건을 소비하는 형태가 소유에서 구독으로 바뀌어 가고 있음에 주목해야 한다. 구독은 오래전부터 익숙하게 사용되던 용어이다 보니 단어 자체의 거부감이 적다. 하지만 구독의 속내를 들여다보면 그 깊이가 무한하다. 구독 경제의 핵심은 ‘상품을 사는 것’에서 ‘서비스를 경험하는 것’으로 전환하는 것이다. 이 책을 읽다 보면 이용자 관점 그리고 제공자 관점에서 폭넓게 구독 서비스를 이해할 수 있게 될 것이다.
+
+Chapter 1 구독 서비스 이해하기
+Intro 우리 곁에 다가오는 구독 서비스
+01 구독 서비스란 무엇인가?
+02 공유 서비스 판매 방식의 변화
+03 각기 다른 유형의 구독 모델
+04 스트리밍을 통한 새로운 생존 방정식
+05 데이터 기반 서비스 차별화
+06 단골 고객 만들기
+07 큐레이션의 펀치력
+08 구매와 구독은 라이벌 관계가 아니다
+09 다양한 요금제 방식
+
+Chapter 2 슬기로운 구독 서비스
+Intro 기업은 판매하면 끝이지만 고객은 구매하며 시작이다
+01 윈-윈 모델 무엇이든 가능하다
+02 기업의 생존 베타 서비스 전략
+03 영원한 숙제 기업의 고정비 줄이기
+04 초개인화 팬슈머
+05 결핍에서 오는 욕구 채우기
+06 이용자 중심의 과금 방식
+07 솔직하면 고릴라도 미소 짓게 할 수 있다
+08 블록체인으로 구독 서비스 차별화 두기
+
+Chapter 3 4차 산업혁명과 구독 서비스
+Intro 급격한 기술의 변화 속에서 구독 모델의 현주소를 찾다
+01 넷플릭스는 데이터 센터 없이도 리더가 되다 
+02 인센티브를 통한 차별화 
+03 서비스 모델은 수익 모델이 아니다 
+04 승자 독식 구조 만들기 
+05 필요할 때 필요한 만큼 온디맨드 서비스 
+06 일하는 방식의 변화 Gig worker
+
+Chapter 4 구독 서비스가 넘어야 할 산
+Intro 돌다리도 잘 두드리고 건너야 한다
+01 유료회원제의 한계를 넘어야 한다
+02 떠나는 이용자 이탈률 줄이기
+03 자동 결제의 늪 다크 넛지
+04 이용자는 단 한 번도 변한 적이 없다
+05 구글 GA 활용하기
+06 치킨 게임의 끝
+
+Chapter 5 생활 속 구독 서비스 사례
+Intro 선진 사례를 통한 구독의 현주소
+01 명품 가방을 내 것처럼 사용하기
+02 언제 어디서나 유목민 생활을 구독하다
+03 고객 맞춤 서비스로 매장을 구독하다
+04 일본은 집에서 마시는 홈술이 대세
+05 에브리 패스 자판기 음료 구독 서비스
+06 자동차 구독 서비스 토요타 자동차 킨토
+07 맞춤 영양제로 나의 몸과 건강 챙기기
+08 반려동물을 위한 건강 용품도 편리하게 챙겨주는 서비스
+09 디지털과 패션의 만남 스티치픽스
+10 화장품 구독 서비스 TOUN28
+11 재해 예방 ...
+
+국내도서 > 경제경영 > 트렌드/미래전망 > 트렌드/미래전망 일반
+국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 세계 경제사/경제전망]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
@@ -58,16 +506,6 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skill-biased production makes high-skill workers more efficient in rich countries]]></title>
-        <id>https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries</id>
-        <link href="https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries"/>
-        <updated>2022-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How does the productivity of different types of workers vary across countries? This column uses micro data from countries at different levels of development to document that highly educated workers are relatively more productive in rich countries. Exploiting variation in the skill premia of foreign-educated migrants, the author concludes that this is mostly due to the technological environment in rich countries being more complementary to high-skill labour.]]></summary>
-        <author>
-            <name>Federico Rossi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rank effects in education]]></title>
         <id>https://voxeu.org/article/rank-effects-education</id>
         <link href="https://voxeu.org/article/rank-effects-education"/>
@@ -78,6 +516,16 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Skill-biased production makes high-skill workers more efficient in rich countries]]></title>
+        <id>https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries</id>
+        <link href="https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries"/>
+        <updated>2022-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How does the productivity of different types of workers vary across countries? This column uses micro data from countries at different levels of development to document that highly educated workers are relatively more productive in rich countries. Exploiting variation in the skill premia of foreign-educated migrants, the author concludes that this is mostly due to the technological environment in rich countries being more complementary to high-skill labour.]]></summary>
+        <author>
+            <name>Federico Rossi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Implications of Russia’s invasion of Ukraine for its value chains]]></title>
         <id>https://voxeu.org/article/implications-russia-s-invasion-ukraine-its-value-chains</id>
         <link href="https://voxeu.org/article/implications-russia-s-invasion-ukraine-its-value-chains"/>
@@ -85,26 +533,6 @@ Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do
         <summary type="html"><![CDATA[The trade disruptions resulting from Russia’s invasion of Ukraine have revealed the vulnerabilities of relying on a limited range of suppliers for imports with few substitutes. This column shows that the impact of the war through Russia’s participation in global value chains relates to its ‘upstream’ position.  Countries in closer geographic proximity to Russia face higher risks due to their greater direct trade links with Russia. But the countries that will be affected most severely are those in global value chains reliant on products from Russia with fewer substitutes, such as rare metals.]]></summary>
         <author>
             <name>Deborah  Winkler, Lucie Wuester</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The effect of China’s two-child policy on household savings]]></title>
-        <id>https://voxeu.org/article/effect-china-s-two-child-policy-household-savings</id>
-        <link href="https://voxeu.org/article/effect-china-s-two-child-policy-household-savings"/>
-        <updated>2022-05-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[China’s high household savings rate remains a puzzle, with potential explanations including demographic, policy, and financial causes. This column investigates China’s savings rate using individual income and spending transactions linked to demographic characteristics and financial information on loan applications and credit availability. The authors match bank customers to administrative records covering marriage and births to obtain a unique insight into consumption and savings patterns around important life events. The results point to income growth, financial instability, and credit access, rather than directives such as the one-child policy, as the primary drivers of high savings among Chinese households.]]></summary>
-        <author>
-            <name>Scott  Baker, Efraim Benmelech, Zhishu  Yang, Qi  Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shocks, international trade, and diversification]]></title>
-        <id>https://voxeu.org/article/shocks-international-trade-and-diversification</id>
-        <link href="https://voxeu.org/article/shocks-international-trade-and-diversification"/>
-        <updated>2022-05-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trade in goods has rebounded quickly from the pandemic, while trade in services has not. This column finds that the pandemic broke the old trade patterns and that lockdowns had unintended international spillovers. Although global value chains have adapted, ongoing supply disruptions and the risk of future adverse shocks point to the need for more resilient value chains. The authors argue that in contrast to those calling for reshoring, a better way to build resilience is to diversify away from domestic sourcing of inputs and make it easier for producers to substitute between inputs supplied by different countries.]]></summary>
-        <author>
-            <name>Ting Lan, Davide Malacrino, Adil Mohommad, Andrea Presbitero, Galen Sher</name>
         </author>
     </entry>
     <entry>
@@ -200,7 +628,7 @@ Chapter 3. Django로 Todo 목록 웹 서비스 만들기
         <summary type="html"><![CDATA[혼자 공부하는 얄팍한 코딩 지식
 고현민 지음 / 한빛미디어 / 2022년 05월 / ISBN:9791162245552
 정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
-이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
+이벤트:  코딩 스티커
 
 
 
@@ -2083,53 +2511,6 @@ CHAPTER 6  연결시켜 꽃피우다: 정보화의 융합과 공진화
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경제지리학/트레버 반스.브렛 크리스토퍼 지음, 임석희.서민철.이보영 옮김/푸른길]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293703845</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293703845"/>
-        <updated>2022-04-28T02:48:00.000Z</updated>
-        <summary type="html"><![CDATA[경제지리학
-트레버 반스.브렛 크리스토퍼 지음, 임석희.서민철.이보영 옮김 / 푸른길 / 2022년 05월 / ISBN:9788962919592
-정가: 30,000원 / 판매가: 27,000원 / 마일리지: 1,500원
-이벤트: 수험서.대학교재_북앤드/합격수저세트/데스크 매트
-
-
-
-
-경제지리학이라는 학문을 다루는 책이다. 경제지리학이 다루는 이슈들은 우리 삶에 있어서 대단히 기본적인 것들이다. 그런 이슈들은 우리가 입는 옷에서부터 먹는 음식, 듣는 음악 등에 이르기까지 오늘날의 사회.문화 생활을 구성하는 틀의 역할을 한다. 따라서 이 틀을 이해해야만 오늘날 사회.문화의 기초를 이해할 수 있다. 크게 두 부분으로 구성되어 있으며, 전반부에서는 학문으로서의 경제지리학을, 후반부에서는 경제지리학이 연구하는 현실적으로 중요한 몇몇 주제를 다룬다.
-
-감사의 말
-그림 목차
-
- 제1장 경제지리학은 당신에게 왜 유익한가?
-
-제1부 경제지리학에 대해 비판적으로 생각하기
- 제2장 경제지리학이란 무엇인가?
- 제3장 경제지리학의 발명: 한 학문의 역사들
- 제4장 경제지리학과 경제지리학의 접경지역
- 제5장 이론과 경제지리학의 이론들
- 제6장 경제지리학의 방법과 방법론
- 제7장 경제지리학 상자 열기
-
-제2부 비판적 경제지리학의 실제
- 제8장 지구화와 불균등 발전
- 제9장 화폐와 금융
- 제10장 도시와 도시화
- 제11장 자연과 환경
- 제12장 산업과 기술 변화
- 제13장 결론
-
-찾아보기
-저자와의 인터뷰
-역자 후기
-
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
-국내도서 > 대학교재/전문서적 > 경상계열 > 경제학]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대공황이 닥쳐온다/최동환 지음/아우룸]]></title>
         <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293699273</id>
         <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293699273"/>
@@ -2494,77 +2875,6 @@ CHAPTER 11 파이썬의 자료구조
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자본주의 대예측/클라우스 슈밥.피터 반햄 지음, 김미정 옮김/메가스터디북스]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293490969</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293490969"/>
-        <updated>2022-04-27T00:23:00.000Z</updated>
-        <summary type="html"><![CDATA[자본주의 대예측
-클라우스 슈밥.피터 반햄 지음, 김미정 옮김 / 메가스터디북스 / 2022년 04월 / ISBN:9791129708946
-정가: 19,000원 / 판매가: 17,100원 / 마일리지: 950원
-이벤트: 2022 서울 국제도서전에 초대합니다! 초대권 추첨
-
-
-
-
-50년 전 클라우스 슈밥은 기업이 주주들뿐만 아니라 모든 이해관계자들에게도 책임이 있다는 이론을 처음으로 제안했다. 그리고 반세기 동안 상장 기업이 주주들에게 큰 이익을 가져다 주는 동시에 우리 사회의 우선순위 문제 역시 해결할 수 있다는 믿음을 일관되게 유지해 왔다.  클라우스 슈밥은 이제, 코로나19 팬데믹 이후 세계경제가 회복력을 발휘하고 지속할 수 있는 유일한 해법으로 ‘이해관계자 자본주의’를 이야기한다. 
-
-세계경제포럼의 수장 클라우스 슈밥은 그 방대한 경험을 바탕으로 새로운 저서 《자본주의 대예측》에서 위 질문들에 대한 해답을 모색한다. 그는 먼저 세계대전 이후 세계경제 시스템을 지배해온 ‘주주자본주의’와 ‘국가자본주의’의 흐름을 들여다본다. 둘 다 전례 없는 부의 발전을 가져왔지만, 동시에 직원, 지역사회, 협력업체, 정부, 환경 등 다수의 이해관계자들이 피해를 보는 상황을 초래했다고 슈밥은 지적한다.
-
-세계는 더 나은 부를 위해 열심히 달려왔고, 코로나19라는 위기가 터지기 이전에도 소득 불평등, 높은 국가 부채, 대기업의 과도한 지배력, 천연자원의 착취와 고갈, 환경 파괴 등 수없이 다양한 위기를 겪어왔다. 이대로 가면 지구는 지속가능할 수 없다고 슈밥은 주장한다. 통찰력 있는 관점으로 미래의 청사진을 제시하며 이…]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30일 만에 배우는 경제학 수첩/일본능률협회 매니지먼트센터 지음, 김정환 옮김, 이호리 도시히로 감수/미래와사람]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293489023</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293489023"/>
-        <updated>2022-04-27T00:04:00.000Z</updated>
-        <summary type="html"><![CDATA[30일 만에 배우는 경제학 수첩
-일본능률협회 매니지먼트센터 지음, 김정환 옮김, 이호리 도시히로 감수 / 미래와사람 / 2022년 05월 / ISBN:9791166183485
-정가: 13,000원 / 판매가: 11,700원 / 마일리지: 650원
-이벤트: 2022 서울 국제도서전에 초대합니다! 초대권 추첨
-
-
-
-
-30일의 성과를 기록할 수 있는 다이어리와 30일 분량의 미시경제학과 거시경제학에 대한 내용, 경제학의 흐름과 소비에 대한 칼럼 세 가지로 구성되어 있다. 그림과 그래프로 경제학 이론과 경제학 용어를 쉽게 이해할 수 있고, 각주의 설명으로 내용을 보충했다.
-
-● PROLOGUE _4 
-● 배움의 성과 확인용 다이어리 _10 
-
-DAY 1 애초에 경제학이란 무엇일까? 사람 또는 조직이 시장에서 실행하는 ‘경제 활동’을 이론적으로 단순하게 설명 하는 학문 _12 
-
-● COLUMN 1 경제학의 흐름에 관해 알아보자 _20 
-
-DAY 2 미시 경제학의 기본 미시 경제학은 ‘가격은 어떤 메커니즘으로 결정되는가?’를 해명하는 학문이다 _22 
-DAY 3 소비 행동이란? 최적의 소비는 한계 메리트와 한계 디메리트가 일치하는 점이 된다 _31 
-DAY 4 기업과 생산 활동 ① 기업은 생산한 재화ㆍ서비스를 시장 가격으로 판매하며 최대 이윤을 추구한다 _37 
-DAY 5 기업과 생산 활동 ② 기업의 목표는 이윤의 최대화를 위해 저비용으로 효율적인 생산을 하는 것이다 _42 
-DAY 6 시장과 가격의 관계 현실의 시장 메커니즘을 분석하기 위해 ‘완전 경쟁 시장’이라는 시장 개념을 가정 한다 _46 
-DAY 7 가격과 자원 배분 기능 완전 경쟁 시장에서는 자원이 적절하게 배분되도록 가격이 조정된다 _55 
-DAY 8 독점이란? 독점 기업은 이윤이 최대가 되도록 가격과 생산량을 결정할 수 있다 _64 
-DAY 9 과점이란? ① 재화ㆍ서비스를 제공하는 기업이 소수로 한정된 상태가 ‘과점’이다 _71 
-DAY 10 과점이란? ② 과점 기업은 담합으로 이윤을 얻지만, 배신의 유혹에 노출된다 _78 
-DAY 11 외부성이란? ① 시장이 항상 원활하게 작동한다는 보장은 없으며, ‘시장의 실패’가 일어날 때도 있다 _82 
-DAY 12 외부성이란? ② 시장의 실패를 민간의 지출로 극복하는 것이 ‘코스의 정리’다 _86 
-DAY 13 불완전한 정보란? 정보의 비대칭성이 커지면 여러 가지 시장의 실패가 발생한다 _90 
-
-● COLUMN 2 소비의 양극화는 왜 일어났을까? _98 
-
-DAY 14 거시 경제학의 기본 ① 거시 경제학은 국민 경제 전체를 분석 대상으로 삼는 학문이다 _100 
-DAY 15 거시 경제학의 기본 ② GDP(모든 부가 가치)는 생산과 소득과 지출이 모두 같아진다 _106 
-DAY 16 케인스 경제학이란? 케인스 경제학은 불황의 시대에 적합하다 _110 
-DAY 17 경제 주체와 정부 정부는 거시적인 경제 활동을 뒷받침하는 여러 가지 역할을 한다 _117 
-DAY 18 재정 정책을 이해한다 ① 정부 지출의 증가가 소비ㆍ소득ㆍ수요를 눈덩이처럼 늘린다 ...
-
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이론/경제사상]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
