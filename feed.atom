@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T12:01:55.689Z</id>
+    <id>urn:2022-05-15T15:01:18.355Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-15T12:01:55.689Z</updated>
+    <updated>2022-05-15T15:01:18.355Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,16 +16,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Assortative mating and the wealth inequality debate]]></title>
-        <id>https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate</id>
-        <link href="https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate"/>
-        <updated>2022-05-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The literature on assortative mating has largely focused on whether children of wealthy parents tend to marry children of similarly wealthy parents. Using data from Norway, this column shows that people tend to match based on their own pre-marriage wealth, not their parent’s wealth, and that individuals also match based on their personal returns to wealth. Among wealthy couples, the partner with the highest pre-marriage return tends to manage the household’s assets, allowing the households to grow their assets even faster over time and boosting wealth concentration.]]></summary>
-        <author>
-            <name>Luigi Guiso, Luigi Pistaferri</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[American treasure and the decline of Spain]]></title>
         <id>https://voxeu.org/article/american-treasure-and-decline-spain</id>
         <link href="https://voxeu.org/article/american-treasure-and-decline-spain"/>
@@ -33,6 +23,16 @@
         <summary type="html"><![CDATA[Spain was one of the world’s richest countries around 1500. Two centuries later, it was a backwater. This column discusses the long-run impact of the influx of precious metals from the New World on the economic development of Spain. Using an augmented synthetic control methodology, the authors show that in the long run the growth and price level trajectories evolved dramatically different in Spain relative to other Western European nations. Spain initially boomed but suffered from high inflation and became poorer as the result of a resource curse which had economic and political dimensions.]]></summary>
         <author>
             <name>Carlos Javier Charotti, Nuno Palma, João  Pereira dos Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assortative mating and the wealth inequality debate]]></title>
+        <id>https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate</id>
+        <link href="https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate"/>
+        <updated>2022-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The literature on assortative mating has largely focused on whether children of wealthy parents tend to marry children of similarly wealthy parents. Using data from Norway, this column shows that people tend to match based on their own pre-marriage wealth, not their parent’s wealth, and that individuals also match based on their personal returns to wealth. Among wealthy couples, the partner with the highest pre-marriage return tends to manage the household’s assets, allowing the households to grow their assets even faster over time and boosting wealth concentration.]]></summary>
+        <author>
+            <name>Luigi Guiso, Luigi Pistaferri</name>
         </author>
     </entry>
     <entry>
@@ -672,16 +672,6 @@ Intro 선진 사례를 통한 구독의 현주소
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skill-biased production makes high-skill workers more efficient in rich countries]]></title>
-        <id>https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries</id>
-        <link href="https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries"/>
-        <updated>2022-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How does the productivity of different types of workers vary across countries? This column uses micro data from countries at different levels of development to document that highly educated workers are relatively more productive in rich countries. Exploiting variation in the skill premia of foreign-educated migrants, the author concludes that this is mostly due to the technological environment in rich countries being more complementary to high-skill labour.]]></summary>
-        <author>
-            <name>Federico Rossi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rank effects in education]]></title>
         <id>https://voxeu.org/article/rank-effects-education</id>
         <link href="https://voxeu.org/article/rank-effects-education"/>
@@ -689,6 +679,16 @@ Intro 선진 사례를 통한 구독의 현주소
         <summary type="html"><![CDATA[A burgeoning literature on rank effects in education has found that students who are highly ranked in their class or grade have better long-term outcomes, even after accounting for absolute levels of ability and performance. This column uses this finding to shed light on other educational phenomena, such as the impact of high-achieving peers and the persistent gender gap in STEM subjects. The sizeable effects of (sometimes misleading) academic rank raise policy questions about whether and how students should be informed of data that could influence their decisions about subject and career choices.]]></summary>
         <author>
             <name>Judith  Delaney, Paul Devereux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skill-biased production makes high-skill workers more efficient in rich countries]]></title>
+        <id>https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries</id>
+        <link href="https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries"/>
+        <updated>2022-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How does the productivity of different types of workers vary across countries? This column uses micro data from countries at different levels of development to document that highly educated workers are relatively more productive in rich countries. Exploiting variation in the skill premia of foreign-educated migrants, the author concludes that this is mostly due to the technological environment in rich countries being more complementary to high-skill labour.]]></summary>
+        <author>
+            <name>Federico Rossi</name>
         </author>
     </entry>
     <entry>
