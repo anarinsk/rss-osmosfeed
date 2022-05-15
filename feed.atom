@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T00:03:36.686Z</id>
+    <id>urn:2022-05-15T03:22:26.725Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-15T00:03:36.686Z</updated>
+    <updated>2022-05-15T03:22:26.725Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The long-run impacts of court-ordered desegregation]]></title>
+        <id>https://voxeu.org/article/long-run-impacts-court-ordered-desegregation</id>
+        <link href="https://voxeu.org/article/long-run-impacts-court-ordered-desegregation"/>
+        <updated>2022-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many US school districts are currently weighing policies to improve racial integration in public schools. This column outlines research evaluating the short and long-run effects of school desegregation on the lives of majority and minority students. New research examining the impact of court-ordered desegregation plans – implemented in hundreds of US school districts after 1960 – shows that early exposure to desegregated schools resulted in better academic and economic outcomes for Black children in the US South, but that Black children in the North showed little benefit from comparable integration initiatives.]]></summary>
+        <author>
+            <name>Garrett Anstreicher, Jason Fletcher, Owen Thompson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assortative mating and the wealth inequality debate]]></title>
         <id>https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate</id>
@@ -679,16 +689,6 @@ Intro 선진 사례를 통한 구독의 현주소
         <summary type="html"><![CDATA[A burgeoning literature on rank effects in education has found that students who are highly ranked in their class or grade have better long-term outcomes, even after accounting for absolute levels of ability and performance. This column uses this finding to shed light on other educational phenomena, such as the impact of high-achieving peers and the persistent gender gap in STEM subjects. The sizeable effects of (sometimes misleading) academic rank raise policy questions about whether and how students should be informed of data that could influence their decisions about subject and career choices.]]></summary>
         <author>
             <name>Judith  Delaney, Paul Devereux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implications of Russia’s invasion of Ukraine for its value chains]]></title>
-        <id>https://voxeu.org/article/implications-russia-s-invasion-ukraine-its-value-chains</id>
-        <link href="https://voxeu.org/article/implications-russia-s-invasion-ukraine-its-value-chains"/>
-        <updated>2022-05-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The trade disruptions resulting from Russia’s invasion of Ukraine have revealed the vulnerabilities of relying on a limited range of suppliers for imports with few substitutes. This column shows that the impact of the war through Russia’s participation in global value chains relates to its ‘upstream’ position.  Countries in closer geographic proximity to Russia face higher risks due to their greater direct trade links with Russia. But the countries that will be affected most severely are those in global value chains reliant on products from Russia with fewer substitutes, such as rare metals.]]></summary>
-        <author>
-            <name>Deborah  Winkler, Lucie Wuester</name>
         </author>
     </entry>
     <entry>

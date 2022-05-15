@@ -22,6 +22,53 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-15 datetime="2022-05-15T00:00:00.000Z">2022-05-15</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-15 datetime="2022-05-15T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >VOX, CEPR Policy Portal</button>
+                  <a class="source-heading__link" href="https://voxeu.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://voxeu.org/article/long-run-impacts-court-ordered-desegregation"
+                        open
+                      >
+                        <summary class="article-expander__title">The long-run impacts of court-ordered desegregation</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://voxeu.org/article/long-run-impacts-court-ordered-desegregation">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Many US school districts are currently weighing policies to improve racial integration in public schools. This column outlines research evaluating the short and long-run effects of school desegregation on the lives of majority and minority students. New research examining the impact of court-ordered desegregation plans – implemented in hundreds of US school districts after 1960 – shows that early exposure to desegregated schools resulted in better academic and economic outcomes for Black children in the US South, but that Black children in the North showed little benefit from comparable integration initiatives.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-14 datetime="2022-05-14T00:00:00.000Z">2022-05-14</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-14 datetime="2022-05-14T00:00:00.000Z"></time>
           </button>
@@ -936,53 +983,6 @@ __실전에서의 교차 엔트로피
                             <span class="media-object__text">
                               <span>A burgeoning literature on rank effects in education has found that students who are highly ranked in their class or grade have better long-term outcomes, even after accounting for absolute levels of ability and performance. This column uses this finding to shed light on other educational phenomena, such as the impact of high-achieving peers and the persistent gender gap in STEM subjects. The sizeable effects of (sometimes misleading) academic rank raise policy questions about whether and how students should be informed of data that could influence their decisions about subject and career choices.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-11 datetime="2022-05-11T00:00:00.000Z">2022-05-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-11 datetime="2022-05-11T00:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >VOX, CEPR Policy Portal</button>
-                  <a class="source-heading__link" href="https://voxeu.org/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://voxeu.org/article/implications-russia-s-invasion-ukraine-its-value-chains"
-                        open
-                      >
-                        <summary class="article-expander__title">Implications of Russia’s invasion of Ukraine for its value chains</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://voxeu.org/article/implications-russia-s-invasion-ukraine-its-value-chains">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>The trade disruptions resulting from Russia’s invasion of Ukraine have revealed the vulnerabilities of relying on a limited range of suppliers for imports with few substitutes. This column shows that the impact of the war through Russia’s participation in global value chains relates to its ‘upstream’ position.  Countries in closer geographic proximity to Russia face higher risks due to their greater direct trade links with Russia. But the countries that will be affected most severely are those in global value chains reliant on products from Russia with fewer substitutes, such as rare metals.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -4915,8 +4915,8 @@ __4.3.1 버블 정렬 알고리즘 이해...
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/anarinsk/rss-osmosfeed/actions/runs/2325554822">
-        <time id="build-timestamp" datetime="2022-05-15T00:03:36.646Z">2022-05-15T00:03:36.646Z</time>
+      <a class="footer-link" href="https://github.com/anarinsk/rss-osmosfeed/actions/runs/2325971194">
+        <time id="build-timestamp" datetime="2022-05-15T03:22:26.694Z">2022-05-15T03:22:26.694Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>
