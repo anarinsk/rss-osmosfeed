@@ -496,6 +496,26 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/sanctions-and-exchange-rate",
+          "author": "Oleg Itskhoki, Dmitry Mukhin",
+          "description": "Despite an increasing number of sanctions imposed on the Russian economy since its invasion of Ukraine in February 2022, the ruble has appreciated back to its pre-war level. This column argues that the prevalence of import over export sanctions and the financial repression imposed in Russia, which lowered the local demand for foreign currency, have driven the appreciation. Despite the opposite effects on the exchange rate, the sanctions on imports and exports are equivalent in terms of their impact on consumption, welfare, and government fiscal losses. Nonetheless, the level of the exchange rate remains relevant for imports, savings, and monetary policy.",
+          "link": "https://voxeu.org/article/sanctions-and-exchange-rate",
+          "publishedOn": "2022-05-16T00:00:00.000Z",
+          "wordCount": 2145,
+          "title": "Sanctions and the exchange rate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/political-power-and-market-power-evidence-mergers",
+          "author": "Bo Cowgill, Andrea  Prat, Tommaso Valletti",
+          "description": "Industry concentration leads to increased market power, but can it also lead to increased political power? This question, first asked by Brandeis in 1914, is receiving renewed attention. This column investigates the effect of a merger on the amount of political activity of the merging firms. While theoretical predictions are ambiguous, US data from the past 20 years indicate that the average merger involving listed companies is associated with a 30% increase in lobbying spending.",
+          "link": "https://voxeu.org/article/political-power-and-market-power-evidence-mergers",
+          "publishedOn": "2022-05-16T00:00:00.000Z",
+          "wordCount": 1700,
+          "title": "Political power and market power: Evidence from mergers",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/long-run-impacts-court-ordered-desegregation",
           "author": "Garrett Anstreicher, Jason Fletcher, Owen Thompson",
           "description": "Many US school districts are currently weighing policies to improve racial integration in public schools. This column outlines research evaluating the short and long-run effects of school desegregation on the lives of majority and minority students. New research examining the impact of court-ordered desegregation plans – implemented in hundreds of US school districts after 1960 – shows that early exposure to desegregated schools resulted in better academic and economic outcomes for Black children in the US South, but that Black children in the North showed little benefit from comparable integration initiatives.",
@@ -573,26 +593,6 @@
           "publishedOn": "2022-05-12T00:00:00.000Z",
           "wordCount": 2378,
           "title": "Seizures of foreign exchange reserves will not weaken the dollar’s role as dominant reserve currency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/rank-effects-education",
-          "author": "Judith  Delaney, Paul Devereux",
-          "description": "A burgeoning literature on rank effects in education has found that students who are highly ranked in their class or grade have better long-term outcomes, even after accounting for absolute levels of ability and performance. This column uses this finding to shed light on other educational phenomena, such as the impact of high-achieving peers and the persistent gender gap in STEM subjects. The sizeable effects of (sometimes misleading) academic rank raise policy questions about whether and how students should be informed of data that could influence their decisions about subject and career choices.",
-          "link": "https://voxeu.org/article/rank-effects-education",
-          "publishedOn": "2022-05-12T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Rank effects in education",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries",
-          "author": "Federico Rossi",
-          "description": "How does the productivity of different types of workers vary across countries? This column uses micro data from countries at different levels of development to document that highly educated workers are relatively more productive in rich countries. Exploiting variation in the skill premia of foreign-educated migrants, the author concludes that this is mostly due to the technological environment in rich countries being more complementary to high-skill labour.",
-          "link": "https://voxeu.org/article/skill-biased-production-makes-high-skill-workers-more-efficient-rich-countries",
-          "publishedOn": "2022-05-12T00:00:00.000Z",
-          "wordCount": 2154,
-          "title": "Skill-biased production makes high-skill workers more efficient in rich countries",
           "imageUrl": null
         }
       ]
