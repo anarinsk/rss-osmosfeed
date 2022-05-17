@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T15:06:20.360Z</id>
+    <id>urn:2022-05-17T18:01:59.250Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-17T15:06:20.360Z</updated>
+    <updated>2022-05-17T18:01:59.250Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Understanding the unemployment and welfare effects of the China shock]]></title>
-        <id>https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock</id>
-        <link href="https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.]]></summary>
-        <author>
-            <name>Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Is the road to hell paved with good intentions? Budget projections that miss the mark]]></title>
         <id>https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark</id>
@@ -48,6 +38,16 @@ Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the R
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Understanding the unemployment and welfare effects of the China shock]]></title>
+        <id>https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock</id>
+        <link href="https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.]]></summary>
+        <author>
+            <name>Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Breaking through restrictive attitudes]]></title>
         <id>https://www.aeaweb.org/research/india-breakthrough-gender-inequality</id>
         <link href="https://www.aeaweb.org/research/india-breakthrough-gender-inequality"/>
@@ -68,16 +68,6 @@ Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the R
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The surprising benefits of voting for change]]></title>
-        <id>https://voxeu.org/article/surprising-benefits-voting-change</id>
-        <link href="https://voxeu.org/article/surprising-benefits-voting-change"/>
-        <updated>2022-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Voters often face a key choice between continuity and change. But does voting for change – voting incumbents out of office – deliver better livelihoods for citizens? This column uses data from national elections conducted worldwide since 1945 to show that electoral turnovers lead to improvements in governance, economic performance, and other measures of national performance over the subsequent years. These findings suggest that turnovers play a positive role by bringing in new leaders with better incentives to deliver tangible benefits for the electorate.]]></summary>
-        <author>
-            <name>Benjamin Marx, Vincent Pons, Vincent Rollet</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Political power and market power: Evidence from mergers]]></title>
         <id>https://voxeu.org/article/political-power-and-market-power-evidence-mergers</id>
         <link href="https://voxeu.org/article/political-power-and-market-power-evidence-mergers"/>
@@ -85,6 +75,16 @@ Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the R
         <summary type="html"><![CDATA[Industry concentration leads to increased market power, but can it also lead to increased political power? This question, first asked by Brandeis in 1914, is receiving renewed attention. This column investigates the effect of a merger on the amount of political activity of the merging firms. While theoretical predictions are ambiguous, US data from the past 20 years indicate that the average merger involving listed companies is associated with a 30% increase in lobbying spending.]]></summary>
         <author>
             <name>Bo Cowgill, Andrea  Prat, Tommaso Valletti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The surprising benefits of voting for change]]></title>
+        <id>https://voxeu.org/article/surprising-benefits-voting-change</id>
+        <link href="https://voxeu.org/article/surprising-benefits-voting-change"/>
+        <updated>2022-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Voters often face a key choice between continuity and change. But does voting for change – voting incumbents out of office – deliver better livelihoods for citizens? This column uses data from national elections conducted worldwide since 1945 to show that electoral turnovers lead to improvements in governance, economic performance, and other measures of national performance over the subsequent years. These findings suggest that turnovers play a positive role by bringing in new leaders with better incentives to deliver tangible benefits for the electorate.]]></summary>
+        <author>
+            <name>Benjamin Marx, Vincent Pons, Vincent Rollet</name>
         </author>
     </entry>
     <entry>
@@ -98,16 +98,6 @@ Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the R
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Assortative mating and the wealth inequality debate]]></title>
-        <id>https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate</id>
-        <link href="https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate"/>
-        <updated>2022-05-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The literature on assortative mating has largely focused on whether children of wealthy parents tend to marry children of similarly wealthy parents. Using data from Norway, this column shows that people tend to match based on their own pre-marriage wealth, not their parent’s wealth, and that individuals also match based on their personal returns to wealth. Among wealthy couples, the partner with the highest pre-marriage return tends to manage the household’s assets, allowing the households to grow their assets even faster over time and boosting wealth concentration.]]></summary>
-        <author>
-            <name>Luigi Guiso, Luigi Pistaferri</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[American treasure and the decline of Spain]]></title>
         <id>https://voxeu.org/article/american-treasure-and-decline-spain</id>
         <link href="https://voxeu.org/article/american-treasure-and-decline-spain"/>
@@ -115,6 +105,16 @@ Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the R
         <summary type="html"><![CDATA[Spain was one of the world’s richest countries around 1500. Two centuries later, it was a backwater. This column discusses the long-run impact of the influx of precious metals from the New World on the economic development of Spain. Using an augmented synthetic control methodology, the authors show that in the long run the growth and price level trajectories evolved dramatically different in Spain relative to other Western European nations. Spain initially boomed but suffered from high inflation and became poorer as the result of a resource curse which had economic and political dimensions.]]></summary>
         <author>
             <name>Carlos Javier Charotti, Nuno Palma, João  Pereira dos Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assortative mating and the wealth inequality debate]]></title>
+        <id>https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate</id>
+        <link href="https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate"/>
+        <updated>2022-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The literature on assortative mating has largely focused on whether children of wealthy parents tend to marry children of similarly wealthy parents. Using data from Norway, this column shows that people tend to match based on their own pre-marriage wealth, not their parent’s wealth, and that individuals also match based on their personal returns to wealth. Among wealthy couples, the partner with the highest pre-marriage return tends to manage the household’s assets, allowing the households to grow their assets even faster over time and boosting wealth concentration.]]></summary>
+        <author>
+            <name>Luigi Guiso, Luigi Pistaferri</name>
         </author>
     </entry>
     <entry>
@@ -3575,103 +3575,6 @@ A.2 자동 활성화 끄기
         <summary type="html"><![CDATA[Local elites could be important allies for central governments struggling to collect taxes. In the DRC, they significantly boosted tax compliance and revenue, according to a paper in the American Economic Review.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채쌤의 자바 프로그래밍 핵심/채규태 지음/쌤즈]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=292831268</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=292831268"/>
-        <updated>2022-04-18T04:35:00.000Z</updated>
-        <summary type="html"><![CDATA[채쌤의 자바 프로그래밍 핵심
-채규태 지음 / 쌤즈 / 2022년 04월 / ISBN:9791186710777
-정가: 27,000원 / 판매가: 24,300원 / 마일리지: 1,350원
-이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
-
-
-
-
-처음 자바를 배우는 사람들을 위해 실제 업무에서 잘 사용하지 않는 기능이나 API는 과감하게 생략하여 빠르고 쉽게 자바 언어를 학습하는 것에 중점을 두었다. 또한, 자바의 핵심인 다형성의 개념부터 동작 원리, 그리고 활용에 집중하여 자바의 모든 기술을 이해하기 위한 기반을 다진다.
-
-Chapter 01 자바의 특징
-_1.1 자바의 탄생 및 특징
-__1.1.1 자바 언어의 탄생
-__1.1.2 자바 언어의 특징
-_1.2 자바 개발 환경 구축
-__1.2.1 JDK 다운로드 및 설치
-__1.2.2 이클립스 다운로드 및 설치
-_1.3 자바 프로그램 작성 및 실행
-__1.3.1 프로젝트 생성
-__1.3.2 소스 파일 작성
-_1.4 자바 프로그램 기초 문법
-__1.4.1 자바 클래스의 기본 구조
-__1.4.2 메시지 출력
-__1.4.3 이클립스와 디버깅
-__1.4.4 들여쓰기
-__1.4.5 주석
-
-Chapter 02 변수와 연산자
-_2.1 변수
-__2.1.1 리터럴과 변수
-__2.1.2 변수의 선언과 규칙
-__2.1.3 변수와 데이터 타입
-__2.1.4 변수 초기화
-_2.2 기본 데이터 타입
-__2.2.1 기본 데이터 타입의 종류
-__2.2.2 논리 타입
-__2.2.3 문자 타입
-__2.2.4 정수 타입
-__2.2.5 실수 타입
-__2.2.6 변수와 예약어
-_2.3 연산자
-__2.3.1 산술 연산자
-__2.3.2 증감 연산자
-__2.3.3 비교 연산자
-__2.3.4 논리 연산자
-__2.3.5 조건 연산자
-_2.4 데이터 타입 변환
-__2.4.1 묵시적 타입 변환
-__2.4.2 명시적 타입 변환
-
-Chapter 03 제어문
-_3.1 조건 제어문
-__3.1.1 if문
-__3.1.2 중첩된 if문
-__3.1.3 if~else문
-__3.1.4 if~else if문
-__3.1.5 switch문
-_3.2 반복 제어문
-__3.2.1 for문
-__3.2.2 중첩된 for문
-__3.2.3 while문
-__3.2.4 무한 루프
-__3.2.5 do~while문
-_3.3 이동 제어문
-__3.3.1 break문
-__3.3.2 이름이 있는 break
-__3.3.3 continue문
-__3.3.4 return문
-
-Chapter 04 배열
-_4.1 배열 기초
-__4.1.1 배열의 필요성
-__4.1.2 배열 객체 생성
-__4.1.3 배열과 참조 변수
-__4.1.4 배열의 사용
-__4.1.5 배열의 크기와 length 변수
-__4.1.6 배열과 타입 변환
-__4.1.7 배열을 이용한 통계 데이터
-__4.1.8 명령행 매개변수
-_4.2 다차원 배열
-__4.2.1 2차원 배열의 선언과 객체 생성
-__4.2.2 2차원 배열의 사용
-__4.2.3 배열에 대한 또 다른 배열
-__4.2.4 참조 변수와 null
-_4.3 정렬 알고리즘
-__4.3.1 버블 정렬 알고리즘 이해...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 자바]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
