@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-16T21:01:55.981Z</id>
+    <id>urn:2022-05-17T00:03:05.524Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-16T21:01:55.981Z</updated>
+    <updated>2022-05-17T00:03:05.524Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Identifying monetary policy shocks]]></title>
+        <id>https://voxeu.org/article/identifying-monetary-policy-shocks</id>
+        <link href="https://voxeu.org/article/identifying-monetary-policy-shocks"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.]]></summary>
+        <author>
+            <name>Borağan Aruoba, Thomas Drechsel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the unemployment and welfare effects of the China shock]]></title>
+        <id>https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock</id>
+        <link href="https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.]]></summary>
+        <author>
+            <name>Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manager pay: Size matters, and so does monopoly]]></title>
+        <id>https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly</id>
+        <link href="https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the 1980s, the pay of superstar workers has increased sharply, closely linked to the performance of the superstar firms that hire them. This column examines the contribution of monopoly power to manager pay. As firms grow in size, the contribution of the manager to the value of a firm increases, and firms are willing to bid higher to poach the best manager. Top managers are hired disproportionately by firms with market power in their sectors, and they get rewarded for it because better managers help increase the rents from market power.]]></summary>
+        <author>
+            <name>Renjie Bao, Jan De Loecker, Jan Eeckhout</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breaking through restrictive attitudes]]></title>
         <id>https://www.aeaweb.org/research/india-breakthrough-gender-inequality</id>
@@ -122,36 +152,6 @@ Download the free DP and read more about this research:
 Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do?'. London, Centre for Economic Policy Research.]]></summary>
         <author>
             <name>Ricardo Reis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A central bank view of reforming Europe’s fiscal framework]]></title>
-        <id>https://voxeu.org/article/central-bank-view-reforming-europe-s-fiscal-framework</id>
-        <link href="https://voxeu.org/article/central-bank-view-reforming-europe-s-fiscal-framework"/>
-        <updated>2022-05-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The economic landscape has changed dramatically since the European fiscal rules were designed some 30 years ago. This column contributes to the debate on reform by proposing a two-tier fiscal framework combining an expenditure rule that accounts for the ECB’s inflation objective with a lower speed of adjustment under the Stability and Growth Pact’s debt rule. Counter-cyclicality may be improved by automatic modulation of adjustment requirements, creating fiscal space when domestic inflation is low and constraining more when inflation is above target. The link to the debt anchor ensures a gradual phasing-in of debt reduction in the aftermath of COVID-19.]]></summary>
-        <author>
-            <name>Stephan Haroutunian, Sebastian Hauptmeier, Nadine Leiner-Killinger, Philip Muggenthaler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithmic stablecoins and devaluation risk]]></title>
-        <id>https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk</id>
-        <link href="https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk"/>
-        <updated>2022-05-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On 10 May 2022, the price of TerraUSD, an algorithmic stablecoin operating on the Terra blockchain, fell and it lost its peg to one US dollar. Using the devaluation of the TerraUSD peg as a case study, this column shows how algorithmic stablecoins are vulnerable to speculative attacks when the system is under-collateralised. The authors point to solutions – stable collateral and over-collateralisation – to stabilise the peg.]]></summary>
-        <author>
-            <name>Amit Chaudhary, Ganesh Viswanath-Natraj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysing cost-push inflation using world input-output tables]]></title>
-        <id>https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables</id>
-        <link href="https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables"/>
-        <updated>2022-05-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The rise of global value chains has led to a greater use of input-output tables to study international linkages. This column analyses cost-push inflation using world input-output tables. In the light of the recent surge in commodity prices, it explores which countries are most vulnerable to energy cost-push inflation and documents the large exposure of Eastern and central European economies to a rise in Russian hydrocarbon prices. Input-output tables are used to document the heterogeneous reactions of consumer prices to exchange rate variations across countries, reflecting differences in foreign product content of consumption and intermediate products.]]></summary>
-        <author>
-            <name>Guillaume Daudin, Violaine  Faubert</name>
         </author>
     </entry>
     <entry>
@@ -1962,7 +1962,7 @@ ____Arr...
         <summary type="html"><![CDATA[구글 엔지니어는 이렇게 일한다
 타이터스 윈터스.톰 맨쉬렉.하이럼 라이트 지음, 개앞맵시 옮김 / 한빛미디어 / 2022년 05월 / ISBN:9791162245620
 정가: 45,000원 / 판매가: 40,500원 / 마일리지: 2,250원
-이벤트: 화제의 책+알라딘 사은품(이벤트 도서 포함, 국내도서 4만원 이상)
+이벤트: 5월의 주목도서 + 북스탠드, 3단 우양산(이벤트 도서 포함 국내서 2만5천원 이상)
 
 
 
@@ -3101,7 +3101,7 @@ _ 17-...
         <summary type="html"><![CDATA[일잘러의 비밀, 엑셀 대신 파이썬으로 업무 자동화하기
 포스코인재창조원 지음 / 한빛미디어 / 2022년 05월 / ISBN:9791162245569
 정가: 24,000원 / 판매가: 21,600원 / 마일리지: 1,200원
-이벤트: 5월의 주목도서 + 3단 우양산, 파우치 (이벤트 도서 포함 국내서 2만5천원 이상)
+이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
 
 
 
