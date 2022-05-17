@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T09:01:51.378Z</id>
+    <id>urn:2022-05-17T12:01:22.821Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-17T09:01:51.378Z</updated>
+    <updated>2022-05-17T12:01:22.821Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Identifying monetary policy shocks]]></title>
-        <id>https://voxeu.org/article/identifying-monetary-policy-shocks</id>
-        <link href="https://voxeu.org/article/identifying-monetary-policy-shocks"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.]]></summary>
-        <author>
-            <name>Borağan Aruoba, Thomas Drechsel</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the unemployment and welfare effects of the China shock]]></title>
         <id>https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock</id>
@@ -23,6 +13,28 @@
         <summary type="html"><![CDATA[Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.]]></summary>
         <author>
             <name>Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the road to hell paved with good intentions? Budget projections that miss the mark]]></title>
+        <id>https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark</id>
+        <link href="https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Member states supply budgetary projections as part of EU Stability and Convergence Programmes. How good are those projections, and how can we improve them?
+Download the free DP and read more about this research:
+Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU'. CEPR]]></summary>
+        <author>
+            <name>Roel Beetsma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identifying monetary policy shocks]]></title>
+        <id>https://voxeu.org/article/identifying-monetary-policy-shocks</id>
+        <link href="https://voxeu.org/article/identifying-monetary-policy-shocks"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.]]></summary>
+        <author>
+            <name>Borağan Aruoba, Thomas Drechsel</name>
         </author>
     </entry>
     <entry>
@@ -86,16 +98,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[American treasure and the decline of Spain]]></title>
-        <id>https://voxeu.org/article/american-treasure-and-decline-spain</id>
-        <link href="https://voxeu.org/article/american-treasure-and-decline-spain"/>
-        <updated>2022-05-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Spain was one of the world’s richest countries around 1500. Two centuries later, it was a backwater. This column discusses the long-run impact of the influx of precious metals from the New World on the economic development of Spain. Using an augmented synthetic control methodology, the authors show that in the long run the growth and price level trajectories evolved dramatically different in Spain relative to other Western European nations. Spain initially boomed but suffered from high inflation and became poorer as the result of a resource curse which had economic and political dimensions.]]></summary>
-        <author>
-            <name>Carlos Javier Charotti, Nuno Palma, João  Pereira dos Santos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Assortative mating and the wealth inequality debate]]></title>
         <id>https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate</id>
         <link href="https://voxeu.org/article/assortative-mating-and-wealth-inequality-debate"/>
@@ -103,6 +105,16 @@
         <summary type="html"><![CDATA[The literature on assortative mating has largely focused on whether children of wealthy parents tend to marry children of similarly wealthy parents. Using data from Norway, this column shows that people tend to match based on their own pre-marriage wealth, not their parent’s wealth, and that individuals also match based on their personal returns to wealth. Among wealthy couples, the partner with the highest pre-marriage return tends to manage the household’s assets, allowing the households to grow their assets even faster over time and boosting wealth concentration.]]></summary>
         <author>
             <name>Luigi Guiso, Luigi Pistaferri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[American treasure and the decline of Spain]]></title>
+        <id>https://voxeu.org/article/american-treasure-and-decline-spain</id>
+        <link href="https://voxeu.org/article/american-treasure-and-decline-spain"/>
+        <updated>2022-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spain was one of the world’s richest countries around 1500. Two centuries later, it was a backwater. This column discusses the long-run impact of the influx of precious metals from the New World on the economic development of Spain. Using an augmented synthetic control methodology, the authors show that in the long run the growth and price level trajectories evolved dramatically different in Spain relative to other Western European nations. Spain initially boomed but suffered from high inflation and became poorer as the result of a resource curse which had economic and political dimensions.]]></summary>
+        <author>
+            <name>Carlos Javier Charotti, Nuno Palma, João  Pereira dos Santos</name>
         </author>
     </entry>
     <entry>
@@ -140,18 +152,6 @@
 국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What can helicopter money do?]]></title>
-        <id>https://voxeu.org/vox-talks/what-can-helicopter-money-do</id>
-        <link href="https://voxeu.org/vox-talks/what-can-helicopter-money-do"/>
-        <updated>2022-05-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're going to drop lots of money from a helicopter, what will happen to the economy? When would it make a difference, and to who? Helicopter money is increasingly being taken seriously as policy. Ricardo Reis tells Tim Phillips whether helicopter money really can solve our economic problems.
-Download the free DP and read more about this research:
-Reis, R and Tenreyro, S. 2022. 'Helicopter money: what is it and what does it do?'. London, Centre for Economic Policy Research.]]></summary>
-        <author>
-            <name>Ricardo Reis</name>
         </author>
     </entry>
     <entry>
