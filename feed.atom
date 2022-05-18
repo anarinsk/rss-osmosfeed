@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T18:01:49.657Z</id>
+    <id>urn:2022-05-18T21:01:40.900Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-18T18:01:49.657Z</updated>
+    <updated>2022-05-18T21:01:40.900Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using historical newspaper data to deal with measurement error]]></title>
+        <id>https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error</id>
+        <link href="https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error"/>
+        <updated>2022-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.]]></summary>
+        <author>
+            <name>Andreas Ferrara, Joung Yeob Ha, Randall Walsh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The long-run effects of climate change on the corporate sector]]></title>
         <id>https://voxeu.org/article/long-run-effects-climate-change-corporate-sector</id>
@@ -16,13 +26,23 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using historical newspaper data to deal with measurement error]]></title>
-        <id>https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error</id>
-        <link href="https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.]]></summary>
+        <title type="html"><![CDATA[Identifying monetary policy shocks]]></title>
+        <id>https://voxeu.org/article/identifying-monetary-policy-shocks</id>
+        <link href="https://voxeu.org/article/identifying-monetary-policy-shocks"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.]]></summary>
         <author>
-            <name>Andreas Ferrara, Joung Yeob Ha, Randall Walsh</name>
+            <name>Borağan Aruoba, Thomas Drechsel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manager pay: Size matters, and so does monopoly]]></title>
+        <id>https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly</id>
+        <link href="https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the 1980s, the pay of superstar workers has increased sharply, closely linked to the performance of the superstar firms that hire them. This column examines the contribution of monopoly power to manager pay. As firms grow in size, the contribution of the manager to the value of a firm increases, and firms are willing to bid higher to poach the best manager. Top managers are hired disproportionately by firms with market power in their sectors, and they get rewarded for it because better managers help increase the rents from market power.]]></summary>
+        <author>
+            <name>Renjie Bao, Jan De Loecker, Jan Eeckhout</name>
         </author>
     </entry>
     <entry>
@@ -45,26 +65,6 @@ Download the free DP and read more about this research:
 Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU'. CEPR]]></summary>
         <author>
             <name>Roel Beetsma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Identifying monetary policy shocks]]></title>
-        <id>https://voxeu.org/article/identifying-monetary-policy-shocks</id>
-        <link href="https://voxeu.org/article/identifying-monetary-policy-shocks"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.]]></summary>
-        <author>
-            <name>Borağan Aruoba, Thomas Drechsel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manager pay: Size matters, and so does monopoly]]></title>
-        <id>https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly</id>
-        <link href="https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the 1980s, the pay of superstar workers has increased sharply, closely linked to the performance of the superstar firms that hire them. This column examines the contribution of monopoly power to manager pay. As firms grow in size, the contribution of the manager to the value of a firm increases, and firms are willing to bid higher to poach the best manager. Top managers are hired disproportionately by firms with market power in their sectors, and they get rewarded for it because better managers help increase the rents from market power.]]></summary>
-        <author>
-            <name>Renjie Bao, Jan De Loecker, Jan Eeckhout</name>
         </author>
     </entry>
     <entry>

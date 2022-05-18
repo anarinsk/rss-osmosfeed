@@ -496,16 +496,6 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/long-run-effects-climate-change-corporate-sector",
-          "author": "Michele Cascarano, Filippo Natoli, Andrea Petrella",
-          "description": "The question of whether firms are able to adapt to a changing climate is central to understanding the long-run economic effects of climate change. This column presents evidence from Italy showing that high temperatures affect firm demography by reducing the entry of newborn firms in the market and increasing business closures, while relocation to colder areas plays a minor role. Balance sheet data reveal a dichotomy between large firms, which successfully adapt improving their profitability, and smaller ones for which negative temperature spillovers become entrenched.",
-          "link": "https://voxeu.org/article/long-run-effects-climate-change-corporate-sector",
-          "publishedOn": "2022-05-18T00:00:00.000Z",
-          "wordCount": null,
-          "title": "The long-run effects of climate change on the corporate sector",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error",
           "author": "Andreas Ferrara, Joung Yeob Ha, Randall Walsh",
           "description": "Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.",
@@ -516,23 +506,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock",
-          "author": "Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez",
-          "description": "Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.",
-          "link": "https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock",
-          "publishedOn": "2022-05-17T00:00:00.000Z",
-          "wordCount": 2100,
-          "title": "Understanding the unemployment and welfare effects of the China shock",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark",
-          "author": "Roel Beetsma",
-          "description": "Member states supply budgetary projections as part of EU Stability and Convergence Programmes. How good are those projections, and how can we improve them?\nDownload the free DP and read more about this research:\nBeetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU'. CEPR",
-          "link": "https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark",
-          "publishedOn": "2022-05-17T00:00:00.000Z",
+          "id": "https://voxeu.org/article/long-run-effects-climate-change-corporate-sector",
+          "author": "Michele Cascarano, Filippo Natoli, Andrea Petrella",
+          "description": "The question of whether firms are able to adapt to a changing climate is central to understanding the long-run economic effects of climate change. This column presents evidence from Italy showing that high temperatures affect firm demography by reducing the entry of newborn firms in the market and increasing business closures, while relocation to colder areas plays a minor role. Balance sheet data reveal a dichotomy between large firms, which successfully adapt improving their profitability, and smaller ones for which negative temperature spillovers become entrenched.",
+          "link": "https://voxeu.org/article/long-run-effects-climate-change-corporate-sector",
+          "publishedOn": "2022-05-18T00:00:00.000Z",
           "wordCount": null,
-          "title": "Is the road to hell paved with good intentions? Budget projections that miss the mark",
+          "title": "The long-run effects of climate change on the corporate sector",
           "imageUrl": null
         },
         {
@@ -551,8 +531,28 @@
           "description": "Since the 1980s, the pay of superstar workers has increased sharply, closely linked to the performance of the superstar firms that hire them. This column examines the contribution of monopoly power to manager pay. As firms grow in size, the contribution of the manager to the value of a firm increases, and firms are willing to bid higher to poach the best manager. Top managers are hired disproportionately by firms with market power in their sectors, and they get rewarded for it because better managers help increase the rents from market power.",
           "link": "https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly",
           "publishedOn": "2022-05-17T00:00:00.000Z",
-          "wordCount": 1869,
+          "wordCount": null,
           "title": "Manager pay: Size matters, and so does monopoly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock",
+          "author": "Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez",
+          "description": "Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.",
+          "link": "https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock",
+          "publishedOn": "2022-05-17T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Understanding the unemployment and welfare effects of the China shock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark",
+          "author": "Roel Beetsma",
+          "description": "Member states supply budgetary projections as part of EU Stability and Convergence Programmes. How good are those projections, and how can we improve them?\nDownload the free DP and read more about this research:\nBeetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU'. CEPR",
+          "link": "https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark",
+          "publishedOn": "2022-05-17T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Is the road to hell paved with good intentions? Budget projections that miss the mark",
           "imageUrl": null
         },
         {
@@ -561,7 +561,7 @@
           "description": "Despite an increasing number of sanctions imposed on the Russian economy since its invasion of Ukraine in February 2022, the ruble has appreciated back to its pre-war level. This column argues that the prevalence of import over export sanctions and the financial repression imposed in Russia, which lowered the local demand for foreign currency, have driven the appreciation. Despite the opposite effects on the exchange rate, the sanctions on imports and exports are equivalent in terms of their impact on consumption, welfare, and government fiscal losses. Nonetheless, the level of the exchange rate remains relevant for imports, savings, and monetary policy.",
           "link": "https://voxeu.org/article/sanctions-and-exchange-rate",
           "publishedOn": "2022-05-16T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2152,
           "title": "Sanctions and the exchange rate",
           "imageUrl": null
         },
@@ -571,7 +571,7 @@
           "description": "Voters often face a key choice between continuity and change. But does voting for change – voting incumbents out of office – deliver better livelihoods for citizens? This column uses data from national elections conducted worldwide since 1945 to show that electoral turnovers lead to improvements in governance, economic performance, and other measures of national performance over the subsequent years. These findings suggest that turnovers play a positive role by bringing in new leaders with better incentives to deliver tangible benefits for the electorate.",
           "link": "https://voxeu.org/article/surprising-benefits-voting-change",
           "publishedOn": "2022-05-16T00:00:00.000Z",
-          "wordCount": 2355,
+          "wordCount": null,
           "title": "The surprising benefits of voting for change",
           "imageUrl": null
         },
