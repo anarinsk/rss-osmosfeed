@@ -506,13 +506,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error",
-          "author": "Andreas Ferrara, Joung Yeob Ha, Randall Walsh",
-          "description": "Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.",
-          "link": "https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error",
-          "publishedOn": "2022-05-18T00:00:00.000Z",
-          "wordCount": 2078,
-          "title": "Using historical newspaper data to deal with measurement error",
+          "id": "https://voxeu.org/article/russia-s-e-commerce-trade-aftermath-2022-invasion",
+          "author": "Alexandra Avdeenko, Maximilian Kaiser, Krisztina Kis-Katos",
+          "description": "Whether economic sanctions against Russia have real effects has been increasingly called into question. This column suggests that changes in e-commerce can demonstrate whether and how the 2022 Western sanctions contributed to de-linking Russia from the West. An analysis of trends in cross-border international online retail based on digitally recorded daily transactions data from 2,288 international and Russian companies shows substantial declines in Russia’s e-commerce transactions. About five weeks after the war started, revenues from e-commerce imports to Russia had fallen by half, with no signs of compensation by Russian retailers in the sample studied.",
+          "link": "https://voxeu.org/article/russia-s-e-commerce-trade-aftermath-2022-invasion",
+          "publishedOn": "2022-05-19T00:00:00.000Z",
+          "wordCount": 2730,
+          "title": "Russia’s e-commerce trade in the aftermath of the 2022 invasion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/measuring-robot-quality",
+          "author": "Ippei Fujiwara, Ryo Kimoto, Shigenori  Shiratsuka, Toyoichiro Shirota",
+          "description": "A large literature explores the implications of the introduction of robots into the workplace for the labour market, yet few studies exist which measure robot quality over time.  This column uses data from the Japan Robot Association and the Bank of Japan to document a significant decline in the improvement in robot quality in Japan in the last decade. The differences in the growth rates of robot quality between the 2000s and 2010s are large, at around -3 percentage points per year.",
+          "link": "https://voxeu.org/article/measuring-robot-quality",
+          "publishedOn": "2022-05-19T00:00:00.000Z",
+          "wordCount": 1382,
+          "title": "Measuring robot quality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/remote-wages-globalised-labour-market",
+          "author": "Agostina Brinatti, Alberto Cavallo, Javier Cravino,  Andres Drenik",
+          "description": "Web-based job platforms that match employers and workers around the world to trade tasks which are delivered online are becoming increasingly popular. This column uses a new dataset from one of the largest job platforms to examine remote wages across locations and offshorability of work. Remote wages are more equalised than local wages across countries, but wage gaps across locations are still large. Outside the US, local-currency remote wages are strongly affected by fluctuations in the dollar exchange rate. Whether a job is performed remotely is an imperfect proxy for whether a job can be easily offshored.",
+          "link": "https://voxeu.org/article/remote-wages-globalised-labour-market",
+          "publishedOn": "2022-05-19T00:00:00.000Z",
+          "wordCount": 2267,
+          "title": "Remote wages in a globalised labour market",
           "imageUrl": null
         },
         {
@@ -521,28 +541,18 @@
           "description": "The question of whether firms are able to adapt to a changing climate is central to understanding the long-run economic effects of climate change. This column presents evidence from Italy showing that high temperatures affect firm demography by reducing the entry of newborn firms in the market and increasing business closures, while relocation to colder areas plays a minor role. Balance sheet data reveal a dichotomy between large firms, which successfully adapt improving their profitability, and smaller ones for which negative temperature spillovers become entrenched.",
           "link": "https://voxeu.org/article/long-run-effects-climate-change-corporate-sector",
           "publishedOn": "2022-05-18T00:00:00.000Z",
-          "wordCount": 2134,
+          "wordCount": null,
           "title": "The long-run effects of climate change on the corporate sector",
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/identifying-monetary-policy-shocks",
-          "author": "Borağan Aruoba, Thomas Drechsel",
-          "description": "The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.",
-          "link": "https://voxeu.org/article/identifying-monetary-policy-shocks",
-          "publishedOn": "2022-05-17T00:00:00.000Z",
-          "wordCount": 2332,
-          "title": "Identifying monetary policy shocks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly",
-          "author": "Renjie Bao, Jan De Loecker, Jan Eeckhout",
-          "description": "Since the 1980s, the pay of superstar workers has increased sharply, closely linked to the performance of the superstar firms that hire them. This column examines the contribution of monopoly power to manager pay. As firms grow in size, the contribution of the manager to the value of a firm increases, and firms are willing to bid higher to poach the best manager. Top managers are hired disproportionately by firms with market power in their sectors, and they get rewarded for it because better managers help increase the rents from market power.",
-          "link": "https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly",
-          "publishedOn": "2022-05-17T00:00:00.000Z",
-          "wordCount": 1869,
-          "title": "Manager pay: Size matters, and so does monopoly",
+          "id": "https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error",
+          "author": "Andreas Ferrara, Joung Yeob Ha, Randall Walsh",
+          "description": "Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.",
+          "link": "https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error",
+          "publishedOn": "2022-05-18T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Using historical newspaper data to deal with measurement error",
           "imageUrl": null
         },
         {
@@ -561,8 +571,28 @@
           "description": "Member states supply budgetary projections as part of EU Stability and Convergence Programmes. How good are those projections, and how can we improve them?\nDownload the free DP and read more about this research:\nBeetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU'. CEPR",
           "link": "https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark",
           "publishedOn": "2022-05-17T00:00:00.000Z",
-          "wordCount": 621,
+          "wordCount": null,
           "title": "Is the road to hell paved with good intentions? Budget projections that miss the mark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/identifying-monetary-policy-shocks",
+          "author": "Borağan Aruoba, Thomas Drechsel",
+          "description": "The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.",
+          "link": "https://voxeu.org/article/identifying-monetary-policy-shocks",
+          "publishedOn": "2022-05-17T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Identifying monetary policy shocks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly",
+          "author": "Renjie Bao, Jan De Loecker, Jan Eeckhout",
+          "description": "Since the 1980s, the pay of superstar workers has increased sharply, closely linked to the performance of the superstar firms that hire them. This column examines the contribution of monopoly power to manager pay. As firms grow in size, the contribution of the manager to the value of a firm increases, and firms are willing to bid higher to poach the best manager. Top managers are hired disproportionately by firms with market power in their sectors, and they get rewarded for it because better managers help increase the rents from market power.",
+          "link": "https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly",
+          "publishedOn": "2022-05-17T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Manager pay: Size matters, and so does monopoly",
           "imageUrl": null
         },
         {
@@ -571,38 +601,8 @@
           "description": "Despite an increasing number of sanctions imposed on the Russian economy since its invasion of Ukraine in February 2022, the ruble has appreciated back to its pre-war level. This column argues that the prevalence of import over export sanctions and the financial repression imposed in Russia, which lowered the local demand for foreign currency, have driven the appreciation. Despite the opposite effects on the exchange rate, the sanctions on imports and exports are equivalent in terms of their impact on consumption, welfare, and government fiscal losses. Nonetheless, the level of the exchange rate remains relevant for imports, savings, and monetary policy.",
           "link": "https://voxeu.org/article/sanctions-and-exchange-rate",
           "publishedOn": "2022-05-16T00:00:00.000Z",
-          "wordCount": 2152,
+          "wordCount": null,
           "title": "Sanctions and the exchange rate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/surprising-benefits-voting-change",
-          "author": "Benjamin Marx, Vincent Pons, Vincent Rollet",
-          "description": "Voters often face a key choice between continuity and change. But does voting for change – voting incumbents out of office – deliver better livelihoods for citizens? This column uses data from national elections conducted worldwide since 1945 to show that electoral turnovers lead to improvements in governance, economic performance, and other measures of national performance over the subsequent years. These findings suggest that turnovers play a positive role by bringing in new leaders with better incentives to deliver tangible benefits for the electorate.",
-          "link": "https://voxeu.org/article/surprising-benefits-voting-change",
-          "publishedOn": "2022-05-16T00:00:00.000Z",
-          "wordCount": 2355,
-          "title": "The surprising benefits of voting for change",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/political-power-and-market-power-evidence-mergers",
-          "author": "Bo Cowgill, Andrea  Prat, Tommaso Valletti",
-          "description": "Industry concentration leads to increased market power, but can it also lead to increased political power? This question, first asked by Brandeis in 1914, is receiving renewed attention. This column investigates the effect of a merger on the amount of political activity of the merging firms. While theoretical predictions are ambiguous, US data from the past 20 years indicate that the average merger involving listed companies is associated with a 30% increase in lobbying spending.",
-          "link": "https://voxeu.org/article/political-power-and-market-power-evidence-mergers",
-          "publishedOn": "2022-05-16T00:00:00.000Z",
-          "wordCount": 1707,
-          "title": "Political power and market power: Evidence from mergers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/long-run-impacts-court-ordered-desegregation",
-          "author": "Garrett Anstreicher, Jason Fletcher, Owen Thompson",
-          "description": "Many US school districts are currently weighing policies to improve racial integration in public schools. This column outlines research evaluating the short and long-run effects of school desegregation on the lives of majority and minority students. New research examining the impact of court-ordered desegregation plans – implemented in hundreds of US school districts after 1960 – shows that early exposure to desegregated schools resulted in better academic and economic outcomes for Black children in the US South, but that Black children in the North showed little benefit from comparable integration initiatives.",
-          "link": "https://voxeu.org/article/long-run-impacts-court-ordered-desegregation",
-          "publishedOn": "2022-05-15T00:00:00.000Z",
-          "wordCount": 1961,
-          "title": "The long-run impacts of court-ordered desegregation",
           "imageUrl": null
         }
       ]

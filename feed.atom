@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T03:29:11.106Z</id>
+    <id>urn:2022-05-19T06:02:01.480Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-19T03:29:11.106Z</updated>
+    <updated>2022-05-19T06:02:01.480Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Using historical newspaper data to deal with measurement error]]></title>
-        <id>https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error</id>
-        <link href="https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.]]></summary>
+        <title type="html"><![CDATA[Russia’s e-commerce trade in the aftermath of the 2022 invasion]]></title>
+        <id>https://voxeu.org/article/russia-s-e-commerce-trade-aftermath-2022-invasion</id>
+        <link href="https://voxeu.org/article/russia-s-e-commerce-trade-aftermath-2022-invasion"/>
+        <updated>2022-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether economic sanctions against Russia have real effects has been increasingly called into question. This column suggests that changes in e-commerce can demonstrate whether and how the 2022 Western sanctions contributed to de-linking Russia from the West. An analysis of trends in cross-border international online retail based on digitally recorded daily transactions data from 2,288 international and Russian companies shows substantial declines in Russia’s e-commerce transactions. About five weeks after the war started, revenues from e-commerce imports to Russia had fallen by half, with no signs of compensation by Russian retailers in the sample studied.]]></summary>
         <author>
-            <name>Andreas Ferrara, Joung Yeob Ha, Randall Walsh</name>
+            <name>Alexandra Avdeenko, Maximilian Kaiser, Krisztina Kis-Katos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring robot quality]]></title>
+        <id>https://voxeu.org/article/measuring-robot-quality</id>
+        <link href="https://voxeu.org/article/measuring-robot-quality"/>
+        <updated>2022-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A large literature explores the implications of the introduction of robots into the workplace for the labour market, yet few studies exist which measure robot quality over time.  This column uses data from the Japan Robot Association and the Bank of Japan to document a significant decline in the improvement in robot quality in Japan in the last decade. The differences in the growth rates of robot quality between the 2000s and 2010s are large, at around -3 percentage points per year.]]></summary>
+        <author>
+            <name>Ippei Fujiwara, Ryo Kimoto, Shigenori  Shiratsuka, Toyoichiro Shirota</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote wages in a globalised labour market]]></title>
+        <id>https://voxeu.org/article/remote-wages-globalised-labour-market</id>
+        <link href="https://voxeu.org/article/remote-wages-globalised-labour-market"/>
+        <updated>2022-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web-based job platforms that match employers and workers around the world to trade tasks which are delivered online are becoming increasingly popular. This column uses a new dataset from one of the largest job platforms to examine remote wages across locations and offshorability of work. Remote wages are more equalised than local wages across countries, but wage gaps across locations are still large. Outside the US, local-currency remote wages are strongly affected by fluctuations in the dollar exchange rate. Whether a job is performed remotely is an imperfect proxy for whether a job can be easily offshored.]]></summary>
+        <author>
+            <name>Agostina Brinatti, Alberto Cavallo, Javier Cravino,  Andres Drenik</name>
         </author>
     </entry>
     <entry>
@@ -23,6 +43,16 @@
         <summary type="html"><![CDATA[The question of whether firms are able to adapt to a changing climate is central to understanding the long-run economic effects of climate change. This column presents evidence from Italy showing that high temperatures affect firm demography by reducing the entry of newborn firms in the market and increasing business closures, while relocation to colder areas plays a minor role. Balance sheet data reveal a dichotomy between large firms, which successfully adapt improving their profitability, and smaller ones for which negative temperature spillovers become entrenched.]]></summary>
         <author>
             <name>Michele Cascarano, Filippo Natoli, Andrea Petrella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using historical newspaper data to deal with measurement error]]></title>
+        <id>https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error</id>
+        <link href="https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error"/>
+        <updated>2022-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.]]></summary>
+        <author>
+            <name>Andreas Ferrara, Joung Yeob Ha, Randall Walsh</name>
         </author>
     </entry>
     <entry>
@@ -250,26 +280,6 @@ Chapter 2. NFT를 통해 진화하는 디지털 사회 경험
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Identifying monetary policy shocks]]></title>
-        <id>https://voxeu.org/article/identifying-monetary-policy-shocks</id>
-        <link href="https://voxeu.org/article/identifying-monetary-policy-shocks"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.]]></summary>
-        <author>
-            <name>Borağan Aruoba, Thomas Drechsel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manager pay: Size matters, and so does monopoly]]></title>
-        <id>https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly</id>
-        <link href="https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the 1980s, the pay of superstar workers has increased sharply, closely linked to the performance of the superstar firms that hire them. This column examines the contribution of monopoly power to manager pay. As firms grow in size, the contribution of the manager to the value of a firm increases, and firms are willing to bid higher to poach the best manager. Top managers are hired disproportionately by firms with market power in their sectors, and they get rewarded for it because better managers help increase the rents from market power.]]></summary>
-        <author>
-            <name>Renjie Bao, Jan De Loecker, Jan Eeckhout</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Understanding the unemployment and welfare effects of the China shock]]></title>
         <id>https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock</id>
         <link href="https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock"/>
@@ -289,6 +299,26 @@ Download the free DP and read more about this research:
 Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU'. CEPR]]></summary>
         <author>
             <name>Roel Beetsma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identifying monetary policy shocks]]></title>
+        <id>https://voxeu.org/article/identifying-monetary-policy-shocks</id>
+        <link href="https://voxeu.org/article/identifying-monetary-policy-shocks"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.]]></summary>
+        <author>
+            <name>Borağan Aruoba, Thomas Drechsel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manager pay: Size matters, and so does monopoly]]></title>
+        <id>https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly</id>
+        <link href="https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the 1980s, the pay of superstar workers has increased sharply, closely linked to the performance of the superstar firms that hire them. This column examines the contribution of monopoly power to manager pay. As firms grow in size, the contribution of the manager to the value of a firm increases, and firms are willing to bid higher to poach the best manager. Top managers are hired disproportionately by firms with market power in their sectors, and they get rewarded for it because better managers help increase the rents from market power.]]></summary>
+        <author>
+            <name>Renjie Bao, Jan De Loecker, Jan Eeckhout</name>
         </author>
     </entry>
     <entry>
@@ -409,36 +439,6 @@ CHAPTER 6 이진 트리
         <summary type="html"><![CDATA[Despite an increasing number of sanctions imposed on the Russian economy since its invasion of Ukraine in February 2022, the ruble has appreciated back to its pre-war level. This column argues that the prevalence of import over export sanctions and the financial repression imposed in Russia, which lowered the local demand for foreign currency, have driven the appreciation. Despite the opposite effects on the exchange rate, the sanctions on imports and exports are equivalent in terms of their impact on consumption, welfare, and government fiscal losses. Nonetheless, the level of the exchange rate remains relevant for imports, savings, and monetary policy.]]></summary>
         <author>
             <name>Oleg Itskhoki, Dmitry Mukhin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The surprising benefits of voting for change]]></title>
-        <id>https://voxeu.org/article/surprising-benefits-voting-change</id>
-        <link href="https://voxeu.org/article/surprising-benefits-voting-change"/>
-        <updated>2022-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Voters often face a key choice between continuity and change. But does voting for change – voting incumbents out of office – deliver better livelihoods for citizens? This column uses data from national elections conducted worldwide since 1945 to show that electoral turnovers lead to improvements in governance, economic performance, and other measures of national performance over the subsequent years. These findings suggest that turnovers play a positive role by bringing in new leaders with better incentives to deliver tangible benefits for the electorate.]]></summary>
-        <author>
-            <name>Benjamin Marx, Vincent Pons, Vincent Rollet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Political power and market power: Evidence from mergers]]></title>
-        <id>https://voxeu.org/article/political-power-and-market-power-evidence-mergers</id>
-        <link href="https://voxeu.org/article/political-power-and-market-power-evidence-mergers"/>
-        <updated>2022-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Industry concentration leads to increased market power, but can it also lead to increased political power? This question, first asked by Brandeis in 1914, is receiving renewed attention. This column investigates the effect of a merger on the amount of political activity of the merging firms. While theoretical predictions are ambiguous, US data from the past 20 years indicate that the average merger involving listed companies is associated with a 30% increase in lobbying spending.]]></summary>
-        <author>
-            <name>Bo Cowgill, Andrea  Prat, Tommaso Valletti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The long-run impacts of court-ordered desegregation]]></title>
-        <id>https://voxeu.org/article/long-run-impacts-court-ordered-desegregation</id>
-        <link href="https://voxeu.org/article/long-run-impacts-court-ordered-desegregation"/>
-        <updated>2022-05-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many US school districts are currently weighing policies to improve racial integration in public schools. This column outlines research evaluating the short and long-run effects of school desegregation on the lives of majority and minority students. New research examining the impact of court-ordered desegregation plans – implemented in hundreds of US school districts after 1960 – shows that early exposure to desegregated schools resulted in better academic and economic outcomes for Black children in the US South, but that Black children in the North showed little benefit from comparable integration initiatives.]]></summary>
-        <author>
-            <name>Garrett Anstreicher, Jason Fletcher, Owen Thompson</name>
         </author>
     </entry>
     <entry>
