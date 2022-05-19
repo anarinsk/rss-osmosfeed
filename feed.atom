@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T09:01:33.427Z</id>
+    <id>urn:2022-05-19T12:02:01.318Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-19T09:01:33.427Z</updated>
+    <updated>2022-05-19T12:02:01.318Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -280,16 +280,6 @@ Chapter 2. NFT를 통해 진화하는 디지털 사회 경험
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding the unemployment and welfare effects of the China shock]]></title>
-        <id>https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock</id>
-        <link href="https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.]]></summary>
-        <author>
-            <name>Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is the road to hell paved with good intentions? Budget projections that miss the mark]]></title>
         <id>https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark</id>
         <link href="https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark"/>
@@ -319,6 +309,16 @@ Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the R
         <summary type="html"><![CDATA[Since the 1980s, the pay of superstar workers has increased sharply, closely linked to the performance of the superstar firms that hire them. This column examines the contribution of monopoly power to manager pay. As firms grow in size, the contribution of the manager to the value of a firm increases, and firms are willing to bid higher to poach the best manager. Top managers are hired disproportionately by firms with market power in their sectors, and they get rewarded for it because better managers help increase the rents from market power.]]></summary>
         <author>
             <name>Renjie Bao, Jan De Loecker, Jan Eeckhout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the unemployment and welfare effects of the China shock]]></title>
+        <id>https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock</id>
+        <link href="https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.]]></summary>
+        <author>
+            <name>Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez</name>
         </author>
     </entry>
     <entry>
