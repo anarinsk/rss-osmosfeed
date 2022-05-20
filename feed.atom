@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T15:01:50.038Z</id>
+    <id>urn:2022-05-20T18:01:45.833Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-20T15:01:50.038Z</updated>
+    <updated>2022-05-20T18:01:45.833Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Russian invasion tests EU economic resilience]]></title>
-        <id>https://voxeu.org/article/russian-invasion-tests-eu-economic-resilience</id>
-        <link href="https://voxeu.org/article/russian-invasion-tests-eu-economic-resilience"/>
-        <updated>2022-05-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s invasion of Ukraine has led the European Commission to revise its EU growth outlook downwards, and the forecast for inflation upwards. As this column discusses, by exerting further upward pressures on commodity prices, causing renewed supply disruptions and increasing uncertainty, the war is exacerbating pre-existing headwinds to growth, which were previously expected to subside. Nevertheless, the economy is expected to keep expanding, and inflation is set to gradually decline towards, though remain above, 2% throughout the forecast horizon. Should further disruptions in energy markets occur, the economy would not escape stagflation.]]></summary>
-        <author>
-            <name>Maarten Verwey, Laura  Bardone, Kristian Orsini</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The food crisis has no respect for borders]]></title>
         <id>https://voxeu.org/vox-talks/food-crisis-has-no-respect-borders</id>
@@ -26,13 +16,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Impacts of firm global value chain participation on productivity]]></title>
-        <id>https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity</id>
-        <link href="https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity"/>
+        <title type="html"><![CDATA[Russian invasion tests EU economic resilience]]></title>
+        <id>https://voxeu.org/article/russian-invasion-tests-eu-economic-resilience</id>
+        <link href="https://voxeu.org/article/russian-invasion-tests-eu-economic-resilience"/>
         <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Participation in global value chains is commonly seen as an important driver of productivity growth. This column uses Japanese firm-level data to estimate the productivity-enhancing impacts of participation. On average, firms that form part of global value chains are found to exhibit higher productivity than non-participating firms. In addition, longer participation strengthens the productivity-enhancing effects. Policymakers should support firms by protecting intellectual property rights, ensuring competition, and lowering costs and risks associated with global value chain participation.]]></summary>
+        <summary type="html"><![CDATA[Russia’s invasion of Ukraine has led the European Commission to revise its EU growth outlook downwards, and the forecast for inflation upwards. As this column discusses, by exerting further upward pressures on commodity prices, causing renewed supply disruptions and increasing uncertainty, the war is exacerbating pre-existing headwinds to growth, which were previously expected to subside. Nevertheless, the economy is expected to keep expanding, and inflation is set to gradually decline towards, though remain above, 2% throughout the forecast horizon. Should further disruptions in energy markets occur, the economy would not escape stagflation.]]></summary>
         <author>
-            <name>Shujiro Urata, Youngmin  Baek</name>
+            <name>Maarten Verwey, Laura  Bardone, Kristian Orsini</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +33,16 @@
         <summary type="html"><![CDATA[A large part of the world operates under oligarchic and authoritarian regimes, where access to economic opportunities is not offered to all citizens. This column discusses the impact of such ‘extractive institutions’ in stifling innovation and future economic growth. Using novel hand-collected data, it documents that ‘inclusive institutions’, which promote equal access to economic opportunities, are a first-order determinant of innovation. Geographical regions with more inclusive institutions are able to produce more than twice as much innovation (proxied with patents per capita) as regions with worse institutions.]]></summary>
         <author>
             <name>Alexander Donges, Jean-Marie Meier, Rui Silva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impacts of firm global value chain participation on productivity]]></title>
+        <id>https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity</id>
+        <link href="https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity"/>
+        <updated>2022-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Participation in global value chains is commonly seen as an important driver of productivity growth. This column uses Japanese firm-level data to estimate the productivity-enhancing impacts of participation. On average, firms that form part of global value chains are found to exhibit higher productivity than non-participating firms. In addition, longer participation strengthens the productivity-enhancing effects. Policymakers should support firms by protecting intellectual property rights, ensuring competition, and lowering costs and risks associated with global value chain participation.]]></summary>
+        <author>
+            <name>Shujiro Urata, Youngmin  Baek</name>
         </author>
     </entry>
     <entry>
@@ -416,16 +416,6 @@ __문자열 자르...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using historical newspaper data to deal with measurement error]]></title>
-        <id>https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error</id>
-        <link href="https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.]]></summary>
-        <author>
-            <name>Andreas Ferrara, Joung Yeob Ha, Randall Walsh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The long-run effects of climate change on the corporate sector]]></title>
         <id>https://voxeu.org/article/long-run-effects-climate-change-corporate-sector</id>
         <link href="https://voxeu.org/article/long-run-effects-climate-change-corporate-sector"/>
@@ -433,6 +423,16 @@ __문자열 자르...
         <summary type="html"><![CDATA[The question of whether firms are able to adapt to a changing climate is central to understanding the long-run economic effects of climate change. This column presents evidence from Italy showing that high temperatures affect firm demography by reducing the entry of newborn firms in the market and increasing business closures, while relocation to colder areas plays a minor role. Balance sheet data reveal a dichotomy between large firms, which successfully adapt improving their profitability, and smaller ones for which negative temperature spillovers become entrenched.]]></summary>
         <author>
             <name>Michele Cascarano, Filippo Natoli, Andrea Petrella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using historical newspaper data to deal with measurement error]]></title>
+        <id>https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error</id>
+        <link href="https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error"/>
+        <updated>2022-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.]]></summary>
+        <author>
+            <name>Andreas Ferrara, Joung Yeob Ha, Randall Walsh</name>
         </author>
     </entry>
     <entry>
@@ -660,15 +660,13 @@ Chapter 2. NFT를 통해 진화하는 디지털 사회 경험
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is the road to hell paved with good intentions? Budget projections that miss the mark]]></title>
-        <id>https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark</id>
-        <link href="https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark"/>
+        <title type="html"><![CDATA[Understanding the unemployment and welfare effects of the China shock]]></title>
+        <id>https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock</id>
+        <link href="https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock"/>
         <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Member states supply budgetary projections as part of EU Stability and Convergence Programmes. How good are those projections, and how can we improve them?
-Download the free DP and read more about this research:
-Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU'. CEPR]]></summary>
+        <summary type="html"><![CDATA[Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.]]></summary>
         <author>
-            <name>Roel Beetsma</name>
+            <name>Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez</name>
         </author>
     </entry>
     <entry>
