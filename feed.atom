@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T06:01:49.582Z</id>
+    <id>urn:2022-05-20T09:02:01.635Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-20T06:01:49.582Z</updated>
+    <updated>2022-05-20T09:02:01.635Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,7 +20,7 @@
         <id>https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity</id>
         <link href="https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity"/>
         <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Participation in global value chains is commonly seen as an important driver of productivity growth. This column uses Japanese firm-level data to estimate the productivity-enhancing impacts of participation. On average, firms that form part of global value chains are found to exhibit higher productivity than non-participating firms. In addition, longer partitipation in strengthens the productivity-enhancing effects. Policymakers should support firms by protecting intellectual property rights, ensuring competition, and lowering costs and risks associated with global value chain participation.]]></summary>
+        <summary type="html"><![CDATA[Participation in global value chains is commonly seen as an important driver of productivity growth. This column uses Japanese firm-level data to estimate the productivity-enhancing impacts of participation. On average, firms that form part of global value chains are found to exhibit higher productivity than non-participating firms. In addition, longer participation strengthens the productivity-enhancing effects. Policymakers should support firms by protecting intellectual property rights, ensuring competition, and lowering costs and risks associated with global value chain participation.]]></summary>
         <author>
             <name>Shujiro Urata, Youngmin  Baek</name>
         </author>
@@ -36,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring robot quality]]></title>
-        <id>https://voxeu.org/article/measuring-robot-quality</id>
-        <link href="https://voxeu.org/article/measuring-robot-quality"/>
-        <updated>2022-05-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A large literature explores the implications of the introduction of robots into the workplace for the labour market, yet few studies exist which measure robot quality over time.  This column uses data from the Japan Robot Association and the Bank of Japan to document a significant decline in the improvement in robot quality in Japan in the last decade. The differences in the growth rates of robot quality between the 2000s and 2010s are large, at around -3 percentage points per year.]]></summary>
-        <author>
-            <name>Ippei Fujiwara, Ryo Kimoto, Shigenori  Shiratsuka, Toyoichiro Shirota</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Remote wages in a globalised labour market]]></title>
         <id>https://voxeu.org/article/remote-wages-globalised-labour-market</id>
         <link href="https://voxeu.org/article/remote-wages-globalised-labour-market"/>
@@ -53,6 +43,16 @@
         <summary type="html"><![CDATA[Web-based job platforms that match employers and workers around the world to trade tasks which are delivered online are becoming increasingly popular. This column uses a new dataset from one of the largest job platforms to examine remote wages across locations and offshorability of work. Remote wages are more equalised than local wages across countries, but wage gaps across locations are still large. Outside the US, local-currency remote wages are strongly affected by fluctuations in the dollar exchange rate. Whether a job is performed remotely is an imperfect proxy for whether a job can be easily offshored.]]></summary>
         <author>
             <name>Agostina Brinatti, Alberto Cavallo, Javier Cravino,  Andres Drenik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring robot quality]]></title>
+        <id>https://voxeu.org/article/measuring-robot-quality</id>
+        <link href="https://voxeu.org/article/measuring-robot-quality"/>
+        <updated>2022-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A large literature explores the implications of the introduction of robots into the workplace for the labour market, yet few studies exist which measure robot quality over time.  This column uses data from the Japan Robot Association and the Bank of Japan to document a significant decline in the improvement in robot quality in Japan in the last decade. The differences in the growth rates of robot quality between the 2000s and 2010s are large, at around -3 percentage points per year.]]></summary>
+        <author>
+            <name>Ippei Fujiwara, Ryo Kimoto, Shigenori  Shiratsuka, Toyoichiro Shirota</name>
         </author>
     </entry>
     <entry>
@@ -640,6 +640,16 @@ Chapter 2. NFT를 통해 진화하는 디지털 사회 경험
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Identifying monetary policy shocks]]></title>
+        <id>https://voxeu.org/article/identifying-monetary-policy-shocks</id>
+        <link href="https://voxeu.org/article/identifying-monetary-policy-shocks"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The recent surge in inflation has put central banks back into the spotlight. This column proposes a novel method to determine exogenous changes in monetary policy. Using information in the language of documents that economists at the Federal Reserve Board prepare for Federal Open Market Committee meetings, it predicts changes in the target interest rate and obtains a measure of monetary policy shocks as the residual. The dynamic responses of macroeconomic variables to the identified shock measure are consistent with the theoretical consensus, and the estimated shocks are not contaminated by the ‘Fed information effect’.]]></summary>
+        <author>
+            <name>Borağan Aruoba, Thomas Drechsel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Manager pay: Size matters, and so does monopoly]]></title>
         <id>https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly</id>
         <link href="https://voxeu.org/article/manager-pay-size-matters-and-so-does-monopoly"/>
@@ -657,18 +667,6 @@ Chapter 2. NFT를 통해 진화하는 디지털 사회 경험
         <summary type="html"><![CDATA[Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.]]></summary>
         <author>
             <name>Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the road to hell paved with good intentions? Budget projections that miss the mark]]></title>
-        <id>https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark</id>
-        <link href="https://voxeu.org/content/road-hell-paved-good-intentions-budget-projections-miss-mark"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Member states supply budgetary projections as part of EU Stability and Convergence Programmes. How good are those projections, and how can we improve them?
-Download the free DP and read more about this research:
-Beetsma, R, Busse, M, Germinetti, L, Giuliodori, M and Larch, M. 2022. 'Is the Road to Hell Paved with Good Intentions? An Empirical Analysis of Budgetary Follow-up in the EU'. CEPR]]></summary>
-        <author>
-            <name>Roel Beetsma</name>
         </author>
     </entry>
     <entry>
