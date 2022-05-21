@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T21:01:22.543Z</id>
+    <id>urn:2022-05-21T00:02:51.573Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-20T21:01:22.543Z</updated>
+    <updated>2022-05-21T00:02:51.573Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Energy sanctions: IGM Forum survey]]></title>
+        <id>https://voxeu.org/article/energy-sanctions-igm-forum-survey</id>
+        <link href="https://voxeu.org/article/energy-sanctions-igm-forum-survey"/>
+        <updated>2022-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Russia’s invasion of Ukraine continues and many call for a strengthening of sanctions, an alternative to a full energy embargo has been discussed in the form of EU tariffs on imports of Russian gas. The IGM Forum at Chicago Booth invited its panels of leading US and European economists to express their views. As this column reports, nearly three-quarters of the experts consider that high tariffs would be an effective measure to reduce the flow of revenues to Russia while limiting disruption to supplies to Europe. Several panellists suggest the significance of the elasticities of demand for and supply of Russian gas, as well as the mechanisms by which prices are set.]]></summary>
+        <author>
+            <name>Romesh Vaitilingam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new perspective on Chinese agricultural development]]></title>
+        <id>https://voxeu.org/article/new-perspective-chinese-agricultural-development</id>
+        <link href="https://voxeu.org/article/new-perspective-chinese-agricultural-development"/>
+        <updated>2022-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A pessimistic view of Chinese agriculture development is based on a Malthusian trap, characterised by diminishing returns to agriculture and a declining land-labour ratio. This column presents stylised empirical facts of 19th and 20th century Chinese agriculture, focusing on the seasonality of labour demand and the resulting rise of sideline employment, to challenge the implications of this view. The reallocation of labour across idle seasons facilitated commercialisation and higher population densities, yet it was industrialisation, occurring outside the agriculture sector, which enabled modernisation.]]></summary>
+        <author>
+            <name>Debin Ma, Kaixiang Peng</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The food crisis has no respect for borders]]></title>
         <id>https://voxeu.org/vox-talks/food-crisis-has-no-respect-borders</id>
@@ -26,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Impacts of firm global value chain participation on productivity]]></title>
+        <id>https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity</id>
+        <link href="https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity"/>
+        <updated>2022-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Participation in global value chains is commonly seen as an important driver of productivity growth. This column uses Japanese firm-level data to estimate the productivity-enhancing impacts of participation. On average, firms that form part of global value chains are found to exhibit higher productivity than non-participating firms. In addition, longer participation strengthens the productivity-enhancing effects. Policymakers should support firms by protecting intellectual property rights, ensuring competition, and lowering costs and risks associated with global value chain participation.]]></summary>
+        <author>
+            <name>Shujiro Urata, Youngmin  Baek</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The impact of institutions on innovation]]></title>
         <id>https://voxeu.org/article/impact-institutions-innovation</id>
         <link href="https://voxeu.org/article/impact-institutions-innovation"/>
@@ -36,13 +66,246 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Impacts of firm global value chain participation on productivity]]></title>
-        <id>https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity</id>
-        <link href="https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity"/>
-        <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Participation in global value chains is commonly seen as an important driver of productivity growth. This column uses Japanese firm-level data to estimate the productivity-enhancing impacts of participation. On average, firms that form part of global value chains are found to exhibit higher productivity than non-participating firms. In addition, longer participation strengthens the productivity-enhancing effects. Policymakers should support firms by protecting intellectual property rights, ensuring competition, and lowering costs and risks associated with global value chain participation.]]></summary>
+        <title type="html"><![CDATA[Do it! 공공데이터로 배우는 R 데이터 분석 with 샤이니/김철민 지음/이지스퍼블리싱]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=295028512</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=295028512"/>
+        <updated>2022-05-19T02:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Do it! 공공데이터로 배우는 R 데이터 분석 with 샤이니
+김철민 지음 / 이지스퍼블리싱 / 2022년 05월 / ISBN:9791163033639
+정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
+이벤트: 수험서.대학교재_북앤드/합격수저세트/데스크 매트
+
+
+
+
+데이터를 분석하는 전체 과정으로 R을 배운다. 실제 공모전이나 국책 사업에 선정된 수준 높은 프로젝트를 기반으로 학습하여 데이터 분석 실무를 체험해 볼 수 있다. 특히 아파트 실거래 분석 과정은 공공데이터포털(data.go.kr)에서 데이터를 자동으로 수집하는 방법부터 전처리, 분석, 시각화를 거쳐 애플리케이션으로 만들어 배포하기까지 전 과정을 자세하게 담았다. 
+
+R만으로 웹 애플리케이션을 만들 수 있는 샤이니(Shiny) 패키지 사용법도 자세하게 다룬다. 또한 지역별, 요인별 아파트 가격의 상관관계, 한반도 지진 발생, 커피 전문점 접근성, 최적의 버스노선 제시 등 일상생활과 밀접한 분석 주제도 포함하였다.
+
+=======================
+01 데이터 분석가로 성장하기
+=======================
+01-1 경쟁력 있는 데이터 분석가 되기
+01-2 데이터 분석 환경 만들기
+01-3 R 스크립트 실행해 보기
+01-4 프로젝트 수행 과정 훑어보기
+
+==========================
+02 자료 수집 전에 알아야 할 내용
+==========================
+
+02-1 자료는 어디서 구할까?
+02-2 API 인증키 얻기
+02-3 API에 자료 요청하기
+02-4 API 응답 확인하기
+
+=========================
+03 자료 수집: API 크롤러 만들기
+=========================
+03-1 크롤링 준비: 무엇을 준비할까?
+03-2 요청 목록 생성: 자료를 어떻게 요청할까?
+03-3 크롤러 제작: 자동으로 자료 수집하기
+03-4 자료 정리: 자료 통합하기
+
+=====================
+04 전처리: 데이터를 알맞게
+=====================
+04-1 불필요한 정보 지우기
+04-2 항목별 데이터 다듬기
+04-3 전처리 데이터 저장하기
+
+==========================
+05 카카오맵 API로 지오 코딩하기
+==========================
+05-1 지오 코딩 준비하기
+05-2 주소를 좌표로 변환하는 지오 코딩
+
+=======================
+06 지오 데이터 프레임 만들기
+=======================
+06-1 좌표계와 지오 데이터 포맷
+06-2 주소와 좌표 결합하기
+06-3 지오 데이터프레임 만들기
+
+==========================
+07 분석 주제를 지도로 시각화하기
+==========================
+07-1 어느 지역이 제일 비쌀까?
+07-2 요즘 뜨는 지역은 어디일까?
+07-3 우리 동네가 옆 동네보다 비쌀까?
+
+=================
+08 통계 분석과 시각화
+=================
+08-1 관심 지역 데이터만 추출하기
+08-2 확률 밀도 함수: 이 지역 아파트는 비싼 편일까?
+08-3 회귀 분석: 이 지역은 일년에 얼마나 오를까?
+08-4 주성분 분석: 이 동네 단지별 특징은 무엇일까?
+
+===============
+09 샤이니 입문하기
+===============
+09-1 처음 만나는 샤이니
+09-2 입력과 출력하기
+09-3 반응형 웹 애플리케이션 만들기
+09-4 레이아웃 정의...
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 데이터베이스 프로그래밍 > 데이터베이스 구축
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 네트워크/데이터 통신
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
+국내도서 > 수험서/자격증 > 민간자격 > 데이터분석]]></summary>
         <author>
-            <name>Shujiro Urata, Youngmin  Baek</name>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한입 경제 상식사전/BYTE(바이트) 지음/파지트]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=295021185</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=295021185"/>
+        <updated>2022-05-19T01:34:00.000Z</updated>
+        <summary type="html"><![CDATA[한입 경제 상식사전
+BYTE(바이트) 지음 / 파지트 / 2022년 05월 / ISBN:9791192381039
+정가: 16,500원 / 판매가: 14,850원 / 마일리지: 820원
+이벤트: 5월 특별 선물! 책가도, 앙리 루소, 본투리드 티셔츠(이벤트 도서 포함, 국내서.외서 5만원 이상)
+
+
+
+
+하루만 해도 어마어마하게 쏟아지는 경제 기사들을 모두 챙겨 보기는 어렵다. 너무 많은 정보는 오히려 독이 될 뿐이고, 용어를 안다고 경제에 훤해 지는 것은 아니다. 그래서 그런지 우리는 경제 뉴스가 어렵다. 그렇기에 우리에게는 가장 최근의 이슈들을 떠먹여 줄 해설가가 꼭 필요하다. 이를 위해 MZ세대를 대표하는 비즈니스 뉴스레터 데일리바이트는 경제 용어 50가지를 선별해 <한입 경제 상식사전>에 담아냈다.
+
+경제를 잘 모른다고 자신감이 없어 ‘세상은 이렇게 돌아가나 보다.’ 한탄만 했다면, 주저하지 말자! 경제 용어를 처음 접하는 일반 독자들이나 취업 또는 시험 준비를 위해 급히 경제 공부를 시작하는 학생들에게 <한입 경제 상식사전>은 분명 큰 힘이 될 것이다.
+
+프롤로그
+
+PART 1. 거시경제
+
+1_ 우리나라 경제 성적을 좌우하는 환율
+2_ 기름값이 물가를 쥐락펴락 국제 유가
+3_ 물가가 오르락내리락 인플레이션과 디플레이션
+4_ 물가는 오르고, 경기는 가라앉고 스태그플레이션
+5_ 친환경이 물가를 올린다? 그린플레이션
+6_ 한 나라의 무역 성적표 경상수지
+7_ 자주 등장하는 경제 지표 GDP, GNP 그리고 GNI
+8_ 기업이나 국가가 돈을 빌리는 법 채권
+9_ 나라가 돈을 빌릴 때  국채
+10_ 한 나라의 통화정책을 결정하는 중앙은행
+11_ 세계 경제의 파수꾼,	미국의	연방준비제도
+12_ 거시경제를 좌우하는 기준금리
+13_ 많고 많은 금리의 종류
+14_ 돈 줄기를 가늘게 하다? 테이퍼링
+15_ 미국은 어떻게 코로나19 위기에 대응했을까?
+16_ 2008 금융위기
+
+PART 2.  주식&금융
+
+17_ 주식시장의 플레이어는?
+18_ 다양한 금융회사, 차이는 무엇일까?
+19_ 엄청난 돈을 굴리는 헤지펀드
+20_ 회사의 주인이 되는 증표  주식
+21_ 권리가 없어지면 주가가 내린다? 권리락과 배당락
+22_ 기초 주식 용어 총정리
+23_ 미국의 주식시장과 주가지수
+24_ 분산투자를 쉽게 ETF
+25_ 기업의 주식시장 데뷔 무대 IPO
+26_ 아직 주식 팔면 안 돼! 보호예수
+27_ 물과 기름 같은 가치주와 성장주
+28_ 커뮤니티에서	 떡상한 주식 밈주식
+29_ 주식을 쪼갠다고? 액면분할
+30_ 주식이 늘어나고 줄어드는 증자 · 감자
+31_ 주식시장에서의 퇴출 선고  상장폐지
+32_ 한국 경제 & 주식 40년사
+33_ 코로나19로 잠시 멈췄던 공매도
+34_ 주가가 떨어지면 득이 되는 인버스 & 곱버스
+35_ 아키고스 캐피탈 사건과 블록딜
+36_ 게임스탑 사태로 보는 마진콜과 디레버리징 그리고 숏스퀴즈
+37_ 허쉬 초콜릿과 선물
+38_ 11.11 옵션 쇼크와 옵션
+39_ 기업의 상태를 보여 주는 재무제표	
+40_ 재무제표에서 기업을 읽는 법
+
+PART 3. 가상자산
+
+41_ 암호화폐를 탄생시킨 기술  블록체인
+42_ 암호화폐의 조상님 비트코인
+43_ 비트코인의 뒤를 잇는 2대장 이더리움
+44_ 1달러 = 1코인? 스테이블 코인
+45 _ 알트코인이란  무엇일까?
+46_ 중앙은행이 ...
+
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[큰글씨책] 데이터노믹스/김희대 지음/커뮤니케이션북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=295020545</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=295020545"/>
+        <updated>2022-05-19T01:23:00.000Z</updated>
+        <summary type="html"><![CDATA[[큰글씨책] 데이터노믹스
+김희대 지음 / 커뮤니케이션북스 / 2022년 05월 / ISBN:9791128817991
+정가: 25,000원 / 판매가: 25,000원 / 마일리지: 750원
+이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
+
+
+
+
+욕망의 흔적은 디지털지문으로 아로새겨진다. 연결, 창조, 참여적 소비를 가능케 하는 기술의 발달은 정보 중심 사회에서 데이터 중심 사회로 전환을 가속한다. 데이터 중심 사회에서 인간은 모두에게 열리면서도 철저히 원자화되는 모순적 삶을 산다. 이렇게 원자화되고 접힌 세계에서 경제학은 거래 혹은 시장을 중심으로 데이터를 바라본다. 데이터에 대한 이러한 경제적 관점을 데이터노믹스라 부른다. 이 책은 데이터노믹스의 개념과 현실을 10가지 키워드로 소개한다.
+
+제4의 물결과 경제의 제5원소, 데이터
+01 데이터의 수요와 공급, 그리고 거버넌스
+02 데이터 생산 메커니즘
+03 진화하는 데이터 거래 시장
+04 데이터사이언티스트
+05 데이터 밸류 체인
+06 데이터노믹스의 기반 제도
+07 신뢰 기반의 데이터 인스티튜션
+08 데이터노믹스 기반 기술
+09 데이터 산업 육성과 개인 정보 보호
+10 데이터노믹스가 만드는 신세계
+
+
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론
+국내도서 > 달력/기타 > 큰글자책]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이터노믹스/김희대 지음/커뮤니케이션북스]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=295018929</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=295018929"/>
+        <updated>2022-05-19T00:55:00.000Z</updated>
+        <summary type="html"><![CDATA[데이터노믹스
+김희대 지음 / 커뮤니케이션북스 / 2022년 05월 / ISBN:9791128816994
+정가: 12,000원 / 판매가: 12,000원 / 마일리지: 360원
+이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
+
+
+
+
+욕망의 흔적은 디지털지문으로 아로새겨진다. 연결, 창조, 참여적 소비를 가능케 하는 기술의 발달은 정보 중심 사회에서 데이터 중심 사회로 전환을 가속한다. 데이터 중심 사회에서 인간은 모두에게 열리면서도 철저히 원자화되는 모순적 삶을 산다. 이렇게 원자화되고 접힌 세계에서 경제학은 거래 혹은 시장을 중심으로 데이터를 바라본다. 데이터에 대한 이러한 경제적 관점을 데이터노믹스라 부른다. 이 책은 데이터노믹스의 개념과 현실을 10가지 키워드로 소개한다.
+
+제4의 물결과 경제의 제5원소, 데이터
+01 데이터의 수요와 공급, 그리고 거버넌스
+02 데이터 생산 메커니즘
+03 진화하는 데이터 거래 시장
+04 데이터사이언티스트
+05 데이터 밸류 체인
+06 데이터노믹스의 기반 제도
+07 신뢰 기반의 데이터 인스티튜션
+08 데이터노믹스 기반 기술
+09 데이터 산업 육성과 개인 정보 보호
+10 데이터노믹스가 만드는 신세계
+
+
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론
+국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>
@@ -416,16 +679,6 @@ __문자열 자르...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The long-run effects of climate change on the corporate sector]]></title>
-        <id>https://voxeu.org/article/long-run-effects-climate-change-corporate-sector</id>
-        <link href="https://voxeu.org/article/long-run-effects-climate-change-corporate-sector"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The question of whether firms are able to adapt to a changing climate is central to understanding the long-run economic effects of climate change. This column presents evidence from Italy showing that high temperatures affect firm demography by reducing the entry of newborn firms in the market and increasing business closures, while relocation to colder areas plays a minor role. Balance sheet data reveal a dichotomy between large firms, which successfully adapt improving their profitability, and smaller ones for which negative temperature spillovers become entrenched.]]></summary>
-        <author>
-            <name>Michele Cascarano, Filippo Natoli, Andrea Petrella</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using historical newspaper data to deal with measurement error]]></title>
         <id>https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error</id>
         <link href="https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error"/>
@@ -657,16 +910,6 @@ Chapter 2. NFT를 통해 진화하는 디지털 사회 경험
 국내도서 > 경제경영 > 트렌드/미래전망 > 에너지/환경/우주]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the unemployment and welfare effects of the China shock]]></title>
-        <id>https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock</id>
-        <link href="https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Concerns about international trade have grown, as recent studies document a negative effect of Chinese import competition on US labour markets. This column provides a new framework to explain this observation, which relies on the presence of downward nominal wage rigidity in US labour markets. The increased competition from China improves US terms of trade, but nominal wage frictions prevent the labour market from adjusting, so that both employment and labour force participation fall in the short run. The welfare implications vary substantially across states, but the favourable terms-of-trade shock drives a positive overall effect.]]></summary>
-        <author>
-            <name>Andres Rodríguez-Clare, Mauricio Ulate, Jose P. Vasquez</name>
         </author>
     </entry>
     <entry>
@@ -3083,101 +3326,6 @@ PART 3 공동체에서의 언컨택트 : 더 심화된 그들만의 리그와 �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자산관리 실무사례/김문기 외 지음/한국금융연수원]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293780258</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293780258"/>
-        <updated>2022-04-29T02:33:00.000Z</updated>
-        <summary type="html"><![CDATA[자산관리 실무사례
-김문기 외 지음 / 한국금융연수원 / 2022년 04월 / ISBN:9788928727285
-정가: 20,000원 / 판매가: 20,000원 / 마일리지: 600원
-이벤트: 수험서.대학교재_북앤드/합격수저세트/데스크 매트
-
-
-
-
-자격참고도서는 업계 최고 전문가들이 집필에 참여하여 다양한 절세방법, 자산관리전략 등 금융 분야 전반에 걸쳐 종합적인 금융 상담과 실행을 지원할 수 있는 풍부한 실무지식과 사례를 다루고 있어 자격시험 참고도서뿐만 아니라 실무지침서로도 손색없이 활용하실 수 있다.
-
-사례 1 ~ 사례 8       금융상품 및 투자분석
-
-사례 9 ~ 사례 13     포트폴리오 설계 
-
-사례 14 ~ 사례 16   보험설계
-
-사례 17 ~ 사례 19   은퇴설계  
-
-사례 20 ~ 사례 26   부동산 투자설계
-
-사례 27 ~ 사례 33   세금설계 및 상속설계
-
-
-국내도서 > 대학교재/전문서적 > 경상계열 > 재무/금융
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융상품 및 투자분석/김민규 지음/한국금융연수원]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293779334</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293779334"/>
-        <updated>2022-04-29T02:24:00.000Z</updated>
-        <summary type="html"><![CDATA[금융상품 및 투자분석
-김민규 지음 / 한국금융연수원 / 2022년 04월 / ISBN:9788928727223
-정가: 20,000원 / 판매가: 20,000원 / 마일리지: 600원
-이벤트: 5월 특별 선물! 책가도, 앙리 루소, 본투리드 티셔츠(이벤트 도서 포함, 국내서.외서 5만원 이상)
-
-
-
-
-업계 최고 전문가들이 집필에 참여하여 다양한 절세방법, 자산관리전략 등 금융 분야 전반에 걸쳐 종합적인 금융 상담과 실행을 지원할 수 있는 풍부한 실무지식과 사례를 다루고 있어 자격시험 참고도서뿐만 아니라 실무지침서로도 손색없이 활용할 수 있다.
-
-제 1장 투자환경 분석 및 활용
-- 제 1절 핵심경제지표 분석 및 활용
-- 제 2절 유동성 분석 및 활용
-- 제 3절 투자심리지표 분석 및 활용
-
-제 2장 금융상품  투자분석
-- 제 1절 주식형상품 투자분석
-- 제 2절 채권형상품 투자분석
-- 제 3절 대안투자상품 투자분석
-
-제 3장 금융상품 투자 및 관리전략
-- 제 1절 금융상품별 투자전략
-- 제 2절 투자 사후관리
-
-
-국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세트] 생각에 관한 생각 + 노이즈 : 생각의 잡음 - 전2권/대니얼 카너먼 외 지음, 이창신 외 옮김, 안서원 감수/김영사]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293773656</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293773656"/>
-        <updated>2022-04-29T01:05:00.000Z</updated>
-        <summary type="html"><![CDATA[[세트] 생각에 관한 생각 + 노이즈 : 생각의 잡음 - 전2권
-대니얼 카너먼 외 지음, 이창신 외 옮김, 안서원 감수 / 김영사 / 2022년 04월 / ISBN:
-정가: 50,000원 / 판매가: 45,000원 / 마일리지: 2,500원
-이벤트: 5월 특별 선물! 책가도, 앙리 루소, 본투리드 티셔츠(이벤트 도서 포함, 국내서.외서 5만원 이상)
-
-
-
-
-'생각에 관한 생각', '노이즈 : 생각의 잡음'으로 구성된 세트 상품이다.
-
-생각에 관한 생각
-노이즈 : 생각의 잡음
-
-
-국내도서 > 경제경영 > 기업 경영 > 경영 일반
-국내도서 > 경제경영 > 경제학/경제일반 > 경제이론/경제사상
-국내도서 > 인문학 > 심리학/정신분석학 > 뇌과학/인지심리학]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Killer acquisitions]]></title>
         <id>https://microeconomicinsights.org/?p=3166</id>
         <link href="https://microeconomicinsights.org/killer-acquisitions/"/>
@@ -3797,85 +3945,6 @@ Chapter 09 객체 지향 프로그래밍
 ...
 
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do it! 쉽게 배우는 파이썬 데이터 분석/김영우 지음/이지스퍼블리싱]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293059248</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293059248"/>
-        <updated>2022-04-22T03:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Do it! 쉽게 배우는 파이썬 데이터 분석
-김영우 지음 / 이지스퍼블리싱 / 2022년 05월 / ISBN:9791163033493
-정가: 23,000원 / 판매가: 20,700원 / 마일리지: 1,150원
-이벤트: 수험서.대학교재_북앤드/합격수저세트/데스크 매트
-
-
-
-
-통계, 파이썬을 1도 몰라도 데이터를 혼자서 다룰 수 있다! 데이터 분석 프로젝트 전 과정 수록! 데이터 분석 분야의 명강사이며 이 분야 베스트셀러 저자인 김영우 선생님의 강의가 책으로 나왔다. 통계, 프로그래밍, 데이터 분석을 전혀 몰라도 《Do it! 쉽게 배우는 파이썬 데이터 분석》을 통해 최근 주목받는 데이터 분석 기법을 재미있게 배울 수 있다. 
-
-데이터 분석에 필요한 파이썬 문법은 이 책에 나온 것만 보면 된다. 이 책은 데이터 정제, 가공, 분석부터 그래프 그리기까지 실제 현업에서 데이터 분석 프로젝트를 할 때와 같은 모든 과정을 직접 해볼 수 있다. 쉬운 예제부터 차근차근 실습하다 보면 문과생도 파이썬 코드에 익숙해지고, 끝에 가서는 자신만의 훌륭한 데이터 분석 프로젝트를 완수할 수 있다!
-
-_첫째마당 | 파이썬이랑 친해지기
-__01 안녕, 파이썬?
-01-1 데이터 분석과 파이썬
-01-2 파이썬이 강력한 데이터 분석 도구인 이유
-
-__02 파이썬 데이터 분석 환경 만들기
-02-1 아나콘다로 파이썬과 주피터랩 설치하기
-02-2 주피터랩과 친해지기
-02-3 유용한 환경 설정
-
-__03 데이터 분석을 위한 연장 챙기기
-03-1 변하는 수, ‘변수’ 이해하기
-03-2 파이썬이 강력한 데이터 분석 도구인 이유
-03-3 함수 꾸러미, ‘패키지’ 이해하기
-
-_둘째마당 | 본격 실습! 데이터 갖고 놀기
-__04 데이터 프레임의 세계로!
-04-1 데이터는 어떻게 생겼나? - 데이터 프레임 이해하기
-04-2 데이터 프레임 만들기 - 시험 성적 데이터를 만들어 보자!
-04-3 외부 데이터 이용하기 - 축적된 시험 성적 데이터를 불러오자!
-
-__05 데이터 분석 기초! - 데이터 파악하기, 다루기 쉽게 수정하기
-05-1 데이터 파악하기
-05-2 변수명 바꾸기
-05-3 파생변수 만들기
-
-__06 자유자재로 데이터 가공하기
-06-1 데이터 전처리 - 원하는 형태로 데이터 가공하기
-06-2 조건에 맞는 데이터만 추출하기
-06-3 필요한 변수만 추출하기
-06-4 순서대로 정렬하기
-06-5 파생변수 추가하기
-06-6 집단별로 요약하기
-06-7 데이터 합치기
-
-__07 데이터 정제 - 빠진 데이터, 이상한 데이터 제거하기
-07-1 빠진 데이터를 찾아라! - 결측치 정제하기
-07-2 이상한 데이터를 찾아라! - 이상치 정제하기
-
-__08 그래프 만들기
-08-1 파이썬으로 만들 수 있는 그래프 살펴보기
-08-2 산점도 - 변수 간 관계 표현하기
-08-3 막대 그래프 - 집단 간 차이 표현하기
-08-4 그래프 - 시간에 따라 달라지는 데이터 표현하기
-08-5 상자 그림 - 집단 간 분포 차이 표현하기
-
-_셋째마당 | 실전! 데이터 분석 프로젝트
-__09 데이터 분석 프로젝트 - 한국인의 삶을 파악하라!
-09-1 한국복지패널 데이터 분석 준비하기
-09-2 성별에 따른 월급 차이 - 성별에 따라 월급이 다를까?
-09-3 나이와 월급의 관계 - 몇 살 때 월급을 가장 많이 받을까?
-09-4 연령대에 따른 월급 차이 - 어떤 연령대의 월급이 가장 많을까?
-09-5 연령대 및 성별 월급 차이...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 데이터베이스 프로그래밍 > 데이터베이스 구축
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론
-국내도서 > 수험서/자격증 > 민간자격 > 데이터분석]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
