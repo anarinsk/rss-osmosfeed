@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-22T00:03:14.734Z</id>
+    <id>urn:2022-05-22T03:18:53.371Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-22T00:03:14.734Z</updated>
+    <updated>2022-05-22T03:18:53.371Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rising cereal prices and political violence in the croplands of Africa]]></title>
+        <id>https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa</id>
+        <link href="https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa"/>
+        <updated>2022-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We tend to associate rioting and mass protest with cities, but a surge in agricultural commodity prices can incite social unrest in rural areas as well. This column shows that rising cereal prices pose an elevated risk of violence in Africa, where agriculture represents a large share of the economy. The authors find that attacks on civilians increase during the harvest season and dissipate as the year progresses – findings that can help pinpoint, on a yearly basis, when conflicts will worsen and where enhanced food security and civilian protections should be deployed.]]></summary>
+        <author>
+            <name>David  Ubilava, Justin V. Hastings, Kadir  Atalay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Energy sanctions: IGM Forum survey]]></title>
         <id>https://voxeu.org/article/energy-sanctions-igm-forum-survey</id>
@@ -676,16 +686,6 @@ __문자열 자르...
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using historical newspaper data to deal with measurement error]]></title>
-        <id>https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error</id>
-        <link href="https://voxeu.org/article/using-historical-newspaper-data-deal-measurement-error"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers typically collect newspaper-based data for use as outcome, treatment, or control variables in statistical analysis. This column argues that data generated from historical newspaper articles can also be used as a low-cost alternative for resolving measurement errors. The authors illustrate their framework by replicating two recent studies of how the boll weevil – a beetle that infests cotton crops – affected economic outcomes in the US South from 1892 to 1922. The newspaper-based replications increase the effect sizes and strengthen the results obtained in both papers using US Department of Agriculture maps.]]></summary>
-        <author>
-            <name>Andreas Ferrara, Joung Yeob Ha, Randall Walsh</name>
         </author>
     </entry>
     <entry>
