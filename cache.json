@@ -526,12 +526,32 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/education-innovation-gap",
+          "author": "Barbara Biasi, Song Ma",
+          "description": "Higher education programmes are essential for innovation and economic growth. This column introduces the education–innovation gap, a metric that captures the distance between education content and the knowledge frontier. Among US higher education institutions, the education–innovation gap is significantly lower for courses taught by instructors who are more active in producing research. The gap is higher in schools with students from lower socioeconomic status. On average, exposure to frontier knowledge is associated with better student outcomes.",
+          "link": "https://voxeu.org/article/education-innovation-gap",
+          "publishedOn": "2022-05-23T00:00:00.000Z",
+          "wordCount": 2569,
+          "title": "The education–innovation gap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19",
+          "author": "Bruno Albuquerque, Alexandra  Varadi",
+          "description": "Mortgage payment holidays were introduced in the UK March 2020 to help households who might have struggled with mortgage payments during the Covid-19 pandemic. Using transaction-level data, this column finds that payment holidays supported consumption during the pandemic for more financially vulnerable households, while more financially stable households on a payment holiday increased their savings instead. These results suggests that payment holidays may have been instrumental in supporting household balance-sheets following the negative aggregate shock triggered by Covid-19.",
+          "link": "https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19",
+          "publishedOn": "2022-05-23T00:00:00.000Z",
+          "wordCount": 2606,
+          "title": "Consumption effects of mortgage payment holidays during Covid-19",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa",
           "author": "David  Ubilava, Justin V. Hastings, Kadir  Atalay",
           "description": "We tend to associate rioting and mass protest with cities, but a surge in agricultural commodity prices can incite social unrest in rural areas as well. This column shows that rising cereal prices pose an elevated risk of violence in Africa, where agriculture represents a large share of the economy. The authors find that attacks on civilians increase during the harvest season and dissipate as the year progresses – findings that can help pinpoint, on a yearly basis, when conflicts will worsen and where enhanced food security and civilian protections should be deployed.",
           "link": "https://voxeu.org/article/rising-cereal-prices-and-political-violence-croplands-africa",
           "publishedOn": "2022-05-22T00:00:00.000Z",
-          "wordCount": 1588,
+          "wordCount": null,
           "title": "Rising cereal prices and political violence in the croplands of Africa",
           "imageUrl": null
         },
@@ -541,7 +561,7 @@
           "description": "As Russia’s invasion of Ukraine continues and many call for a strengthening of sanctions, an alternative to a full energy embargo has been discussed in the form of EU tariffs on imports of Russian gas. The IGM Forum at Chicago Booth invited its panels of leading US and European economists to express their views. As this column reports, nearly three-quarters of the experts consider that high tariffs would be an effective measure to reduce the flow of revenues to Russia while limiting disruption to supplies to Europe. Several panellists suggest the significance of the elasticities of demand for and supply of Russian gas, as well as the mechanisms by which prices are set.",
           "link": "https://voxeu.org/article/energy-sanctions-igm-forum-survey",
           "publishedOn": "2022-05-21T00:00:00.000Z",
-          "wordCount": 1907,
+          "wordCount": null,
           "title": "Energy sanctions: IGM Forum survey",
           "imageUrl": null
         },
@@ -551,7 +571,7 @@
           "description": "A pessimistic view of Chinese agriculture development is based on a Malthusian trap, characterised by diminishing returns to agriculture and a declining land-labour ratio. This column presents stylised empirical facts of 19th and 20th century Chinese agriculture, focusing on the seasonality of labour demand and the resulting rise of sideline employment, to challenge the implications of this view. The reallocation of labour across idle seasons facilitated commercialisation and higher population densities, yet it was industrialisation, occurring outside the agriculture sector, which enabled modernisation.",
           "link": "https://voxeu.org/article/new-perspective-chinese-agricultural-development",
           "publishedOn": "2022-05-21T00:00:00.000Z",
-          "wordCount": 2218,
+          "wordCount": null,
           "title": "A new perspective on Chinese agricultural development",
           "imageUrl": null
         },
@@ -561,7 +581,7 @@
           "description": "This week António Guterres, secretary-general of the UN, warned that the war in Ukraine would tip tens of millions into food insecurity. Guido Porto and Bob Rijkers tell Tim Phillips about who suffers and how much from food price inflation.",
           "link": "https://voxeu.org/vox-talks/food-crisis-has-no-respect-borders",
           "publishedOn": "2022-05-20T00:00:00.000Z",
-          "wordCount": 631,
+          "wordCount": null,
           "title": "The food crisis has no respect for borders",
           "imageUrl": null
         },
@@ -571,7 +591,7 @@
           "description": "Russia’s invasion of Ukraine has led the European Commission to revise its EU growth outlook downwards, and the forecast for inflation upwards. As this column discusses, by exerting further upward pressures on commodity prices, causing renewed supply disruptions and increasing uncertainty, the war is exacerbating pre-existing headwinds to growth, which were previously expected to subside. Nevertheless, the economy is expected to keep expanding, and inflation is set to gradually decline towards, though remain above, 2% throughout the forecast horizon. Should further disruptions in energy markets occur, the economy would not escape stagflation.",
           "link": "https://voxeu.org/article/russian-invasion-tests-eu-economic-resilience",
           "publishedOn": "2022-05-20T00:00:00.000Z",
-          "wordCount": 2300,
+          "wordCount": null,
           "title": "Russian invasion tests EU economic resilience",
           "imageUrl": null
         },
@@ -581,7 +601,7 @@
           "description": "A large part of the world operates under oligarchic and authoritarian regimes, where access to economic opportunities is not offered to all citizens. This column discusses the impact of such ‘extractive institutions’ in stifling innovation and future economic growth. Using novel hand-collected data, it documents that ‘inclusive institutions’, which promote equal access to economic opportunities, are a first-order determinant of innovation. Geographical regions with more inclusive institutions are able to produce more than twice as much innovation (proxied with patents per capita) as regions with worse institutions.",
           "link": "https://voxeu.org/article/impact-institutions-innovation",
           "publishedOn": "2022-05-20T00:00:00.000Z",
-          "wordCount": 2203,
+          "wordCount": null,
           "title": "The impact of institutions on innovation",
           "imageUrl": null
         },
@@ -591,7 +611,7 @@
           "description": "Participation in global value chains is commonly seen as an important driver of productivity growth. This column uses Japanese firm-level data to estimate the productivity-enhancing impacts of participation. On average, firms that form part of global value chains are found to exhibit higher productivity than non-participating firms. In addition, longer participation strengthens the productivity-enhancing effects. Policymakers should support firms by protecting intellectual property rights, ensuring competition, and lowering costs and risks associated with global value chain participation.",
           "link": "https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity",
           "publishedOn": "2022-05-20T00:00:00.000Z",
-          "wordCount": 1762,
+          "wordCount": null,
           "title": "Impacts of firm global value chain participation on productivity",
           "imageUrl": null
         },
@@ -603,26 +623,6 @@
           "publishedOn": "2022-05-19T00:00:00.000Z",
           "wordCount": 2733,
           "title": "Russia’s e-commerce trade in the aftermath of the 2022 invasion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/measuring-robot-quality",
-          "author": "Ippei Fujiwara, Ryo Kimoto, Shigenori  Shiratsuka, Toyoichiro Shirota",
-          "description": "A large literature explores the implications of the introduction of robots into the workplace for the labour market, yet few studies exist which measure robot quality over time.  This column uses data from the Japan Robot Association and the Bank of Japan to document a significant decline in the improvement in robot quality in Japan in the last decade. The differences in the growth rates of robot quality between the 2000s and 2010s are large, at around -3 percentage points per year.",
-          "link": "https://voxeu.org/article/measuring-robot-quality",
-          "publishedOn": "2022-05-19T00:00:00.000Z",
-          "wordCount": 1382,
-          "title": "Measuring robot quality",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/remote-wages-globalised-labour-market",
-          "author": "Agostina Brinatti, Alberto Cavallo, Javier Cravino,  Andres Drenik",
-          "description": "Web-based job platforms that match employers and workers around the world to trade tasks which are delivered online are becoming increasingly popular. This column uses a new dataset from one of the largest job platforms to examine remote wages across locations and offshorability of work. Remote wages are more equalised than local wages across countries, but wage gaps across locations are still large. Outside the US, local-currency remote wages are strongly affected by fluctuations in the dollar exchange rate. Whether a job is performed remotely is an imperfect proxy for whether a job can be easily offshored.",
-          "link": "https://voxeu.org/article/remote-wages-globalised-labour-market",
-          "publishedOn": "2022-05-19T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Remote wages in a globalised labour market",
           "imageUrl": null
         }
       ]
