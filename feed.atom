@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T00:03:17.872Z</id>
+    <id>urn:2022-05-24T03:28:39.273Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-24T00:03:17.872Z</updated>
+    <updated>2022-05-24T03:28:39.273Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Effects of an embargo on Russian gas]]></title>
+        <id>https://voxeu.org/article/effects-embargo-russian-gas</id>
+        <link href="https://voxeu.org/article/effects-embargo-russian-gas"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The April 2022 CfM survey asked members of its European panel to assess the effects of an embargo on Russian gas on the German and EU economies. The majority of panellists assesses that an embargo on Russian gas would cut one to three percentage points from German GDP growth in 2022-3, if the German government offsets the costs with well-targeted fiscal policy. Estimates increase if the German government were to take no offsetting action. Additionally, a large majority thinks that the EU could weather such a ban with costs in the one to three percentage point range, even absent offsetting fiscal or monetary measures.]]></summary>
+        <author>
+            <name>Marina Feliciano, Ethan Ilzetzki, Borui Niklas Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monopsony makes firms not only small but also unproductive]]></title>
+        <id>https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive</id>
+        <link href="https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Differences in labour market outcomes between East and West Germany persist, 30 years after reunification. Using high-quality administrative data from Germany, this column documents that East German plants face a steeper size–wage curve than West German ones, invest less in marketing, remain smaller, and, on average, pay lower wages. A model with labour market monopsony, product market power, and customer acquisition matching these features of the data predicts 10% lower aggregate labour productivity in East Germany, partially explaining the persistent productivity gap between West and East Germany even 30 years after reunification.]]></summary>
+        <author>
+            <name>Rüdiger Bachmann, Christian Bayer, Heiko  Stüber, Felix Wellschmied</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Childcare and inequality]]></title>
         <id>https://www.aeaweb.org/research/charts/mothers-socioeconomic-status-time-spent</id>
@@ -16,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Consumption effects of mortgage payment holidays during Covid-19]]></title>
-        <id>https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19</id>
-        <link href="https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mortgage payment holidays were introduced in the UK March 2020 to help households who might have struggled with mortgage payments during the Covid-19 pandemic. Using transaction-level data, this column finds that payment holidays supported consumption during the pandemic for more financially vulnerable households, while more financially stable households on a payment holiday increased their savings instead. These results suggests that payment holidays may have been instrumental in supporting household balance-sheets following the negative aggregate shock triggered by Covid-19.]]></summary>
-        <author>
-            <name>Bruno Albuquerque, Alexandra  Varadi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The education–innovation gap]]></title>
         <id>https://voxeu.org/article/education-innovation-gap</id>
         <link href="https://voxeu.org/article/education-innovation-gap"/>
@@ -33,6 +43,16 @@
         <summary type="html"><![CDATA[Higher education programmes are essential for innovation and economic growth. This column introduces the education–innovation gap, a metric that captures the distance between education content and the knowledge frontier. Among US higher education institutions, the education–innovation gap is significantly lower for courses taught by instructors who are more active in producing research. The gap is higher in schools with students from lower socioeconomic status. On average, exposure to frontier knowledge is associated with better student outcomes.]]></summary>
         <author>
             <name>Barbara Biasi, Song Ma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consumption effects of mortgage payment holidays during Covid-19]]></title>
+        <id>https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19</id>
+        <link href="https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19"/>
+        <updated>2022-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mortgage payment holidays were introduced in the UK March 2020 to help households who might have struggled with mortgage payments during the Covid-19 pandemic. Using transaction-level data, this column finds that payment holidays supported consumption during the pandemic for more financially vulnerable households, while more financially stable households on a payment holiday increased their savings instead. These results suggests that payment holidays may have been instrumental in supporting household balance-sheets following the negative aggregate shock triggered by Covid-19.]]></summary>
+        <author>
+            <name>Bruno Albuquerque, Alexandra  Varadi</name>
         </author>
     </entry>
     <entry>
@@ -93,16 +113,6 @@
         <summary type="html"><![CDATA[A large part of the world operates under oligarchic and authoritarian regimes, where access to economic opportunities is not offered to all citizens. This column discusses the impact of such ‘extractive institutions’ in stifling innovation and future economic growth. Using novel hand-collected data, it documents that ‘inclusive institutions’, which promote equal access to economic opportunities, are a first-order determinant of innovation. Geographical regions with more inclusive institutions are able to produce more than twice as much innovation (proxied with patents per capita) as regions with worse institutions.]]></summary>
         <author>
             <name>Alexander Donges, Jean-Marie Meier, Rui Silva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impacts of firm global value chain participation on productivity]]></title>
-        <id>https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity</id>
-        <link href="https://voxeu.org/article/impacts-firm-global-value-chain-participation-productivity"/>
-        <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Participation in global value chains is commonly seen as an important driver of productivity growth. This column uses Japanese firm-level data to estimate the productivity-enhancing impacts of participation. On average, firms that form part of global value chains are found to exhibit higher productivity than non-participating firms. In addition, longer participation strengthens the productivity-enhancing effects. Policymakers should support firms by protecting intellectual property rights, ensuring competition, and lowering costs and risks associated with global value chain participation.]]></summary>
-        <author>
-            <name>Shujiro Urata, Youngmin  Baek</name>
         </author>
     </entry>
     <entry>
@@ -346,16 +356,6 @@ PART 3. 가상자산
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia’s e-commerce trade in the aftermath of the 2022 invasion]]></title>
-        <id>https://voxeu.org/article/russia-s-e-commerce-trade-aftermath-2022-invasion</id>
-        <link href="https://voxeu.org/article/russia-s-e-commerce-trade-aftermath-2022-invasion"/>
-        <updated>2022-05-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether economic sanctions against Russia have real effects has been increasingly called into question. This column suggests that changes in e-commerce can demonstrate whether and how the 2022 Western sanctions contributed to de-linking Russia from the West. An analysis of trends in cross-border international online retail based on digitally recorded daily transactions data from 2,288 international and Russian companies shows substantial declines in Russia’s e-commerce transactions. About five weeks after the war started, revenues from e-commerce imports to Russia had fallen by half, with no signs of compensation by Russian retailers in the sample studied.]]></summary>
-        <author>
-            <name>Alexandra Avdeenko, Maximilian Kaiser, Krisztina Kis-Katos</name>
         </author>
     </entry>
     <entry>
