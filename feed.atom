@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T06:01:53.930Z</id>
+    <id>urn:2022-05-24T09:01:51.354Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-24T06:01:53.930Z</updated>
+    <updated>2022-05-24T09:01:51.354Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[The April 2022 CfM survey asked members of its European panel to assess the effects of an embargo on Russian gas on the German and EU economies. The majority of panellists assesses that an embargo on Russian gas would cut one to three percentage points from German GDP growth in 2022-3, if the German government offsets the costs with well-targeted fiscal policy. Estimates increase if the German government were to take no offsetting action. Additionally, a large majority thinks that the EU could weather such a ban with costs in the one to three percentage point range, even absent offsetting fiscal or monetary measures.]]></summary>
         <author>
             <name>Marina Feliciano, Ethan Ilzetzki, Borui Niklas Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning the hard way. The effect of conflict on education]]></title>
+        <id>https://voxeu.org/content/learning-hard-way-effect-conflict-education</id>
+        <link href="https://voxeu.org/content/learning-hard-way-effect-conflict-education"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.]]></summary>
+        <author>
+            <name>Michele Di Maio, Tilman Brück</name>
         </author>
     </entry>
     <entry>
@@ -36,16 +46,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The education–innovation gap]]></title>
-        <id>https://voxeu.org/article/education-innovation-gap</id>
-        <link href="https://voxeu.org/article/education-innovation-gap"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Higher education programmes are essential for innovation and economic growth. This column introduces the education–innovation gap, a metric that captures the distance between education content and the knowledge frontier. Among US higher education institutions, the education–innovation gap is significantly lower for courses taught by instructors who are more active in producing research. The gap is higher in schools with students from lower socioeconomic status. On average, exposure to frontier knowledge is associated with better student outcomes.]]></summary>
-        <author>
-            <name>Barbara Biasi, Song Ma</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Consumption effects of mortgage payment holidays during Covid-19]]></title>
         <id>https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19</id>
         <link href="https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19"/>
@@ -53,6 +53,16 @@
         <summary type="html"><![CDATA[Mortgage payment holidays were introduced in the UK March 2020 to help households who might have struggled with mortgage payments during the Covid-19 pandemic. Using transaction-level data, this column finds that payment holidays supported consumption during the pandemic for more financially vulnerable households, while more financially stable households on a payment holiday increased their savings instead. These results suggests that payment holidays may have been instrumental in supporting household balance-sheets following the negative aggregate shock triggered by Covid-19.]]></summary>
         <author>
             <name>Bruno Albuquerque, Alexandra  Varadi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The education–innovation gap]]></title>
+        <id>https://voxeu.org/article/education-innovation-gap</id>
+        <link href="https://voxeu.org/article/education-innovation-gap"/>
+        <updated>2022-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Higher education programmes are essential for innovation and economic growth. This column introduces the education–innovation gap, a metric that captures the distance between education content and the knowledge frontier. Among US higher education institutions, the education–innovation gap is significantly lower for courses taught by instructors who are more active in producing research. The gap is higher in schools with students from lower socioeconomic status. On average, exposure to frontier knowledge is associated with better student outcomes.]]></summary>
+        <author>
+            <name>Barbara Biasi, Song Ma</name>
         </author>
     </entry>
     <entry>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Russia’s invasion of Ukraine has led the European Commission to revise its EU growth outlook downwards, and the forecast for inflation upwards. As this column discusses, by exerting further upward pressures on commodity prices, causing renewed supply disruptions and increasing uncertainty, the war is exacerbating pre-existing headwinds to growth, which were previously expected to subside. Nevertheless, the economy is expected to keep expanding, and inflation is set to gradually decline towards, though remain above, 2% throughout the forecast horizon. Should further disruptions in energy markets occur, the economy would not escape stagflation.]]></summary>
         <author>
             <name>Maarten Verwey, Laura  Bardone, Kristian Orsini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The impact of institutions on innovation]]></title>
-        <id>https://voxeu.org/article/impact-institutions-innovation</id>
-        <link href="https://voxeu.org/article/impact-institutions-innovation"/>
-        <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A large part of the world operates under oligarchic and authoritarian regimes, where access to economic opportunities is not offered to all citizens. This column discusses the impact of such ‘extractive institutions’ in stifling innovation and future economic growth. Using novel hand-collected data, it documents that ‘inclusive institutions’, which promote equal access to economic opportunities, are a first-order determinant of innovation. Geographical regions with more inclusive institutions are able to produce more than twice as much innovation (proxied with patents per capita) as regions with worse institutions.]]></summary>
-        <author>
-            <name>Alexander Donges, Jean-Marie Meier, Rui Silva</name>
         </author>
     </entry>
     <entry>
