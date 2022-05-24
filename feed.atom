@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T18:02:02.472Z</id>
+    <id>urn:2022-05-24T21:02:10.891Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-24T18:02:02.472Z</updated>
+    <updated>2022-05-24T21:02:10.891Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,16 +16,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monopsony makes firms not only small but also unproductive]]></title>
-        <id>https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive</id>
-        <link href="https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive"/>
-        <updated>2022-05-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Differences in labour market outcomes between East and West Germany persist, 30 years after reunification. Using high-quality administrative data from Germany, this column documents that East German plants face a steeper size–wage curve than West German ones, invest less in marketing, remain smaller, and, on average, pay lower wages. A model with labour market monopsony, product market power, and customer acquisition matching these features of the data predicts 10% lower aggregate labour productivity in East Germany, partially explaining the persistent productivity gap between West and East Germany even 30 years after reunification.]]></summary>
-        <author>
-            <name>Rüdiger Bachmann, Christian Bayer, Heiko  Stüber, Felix Wellschmied</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learning the hard way. The effect of conflict on education]]></title>
         <id>https://voxeu.org/content/learning-hard-way-effect-conflict-education</id>
         <link href="https://voxeu.org/content/learning-hard-way-effect-conflict-education"/>
@@ -33,6 +23,16 @@
         <summary type="html"><![CDATA[The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.]]></summary>
         <author>
             <name>Michele Di Maio, Tilman Brück</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monopsony makes firms not only small but also unproductive]]></title>
+        <id>https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive</id>
+        <link href="https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Differences in labour market outcomes between East and West Germany persist, 30 years after reunification. Using high-quality administrative data from Germany, this column documents that East German plants face a steeper size–wage curve than West German ones, invest less in marketing, remain smaller, and, on average, pay lower wages. A model with labour market monopsony, product market power, and customer acquisition matching these features of the data predicts 10% lower aggregate labour productivity in East Germany, partially explaining the persistent productivity gap between West and East Germany even 30 years after reunification.]]></summary>
+        <author>
+            <name>Rüdiger Bachmann, Christian Bayer, Heiko  Stüber, Felix Wellschmied</name>
         </author>
     </entry>
     <entry>
@@ -46,16 +46,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The education–innovation gap]]></title>
-        <id>https://voxeu.org/article/education-innovation-gap</id>
-        <link href="https://voxeu.org/article/education-innovation-gap"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Higher education programmes are essential for innovation and economic growth. This column introduces the education–innovation gap, a metric that captures the distance between education content and the knowledge frontier. Among US higher education institutions, the education–innovation gap is significantly lower for courses taught by instructors who are more active in producing research. The gap is higher in schools with students from lower socioeconomic status. On average, exposure to frontier knowledge is associated with better student outcomes.]]></summary>
-        <author>
-            <name>Barbara Biasi, Song Ma</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Consumption effects of mortgage payment holidays during Covid-19]]></title>
         <id>https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19</id>
         <link href="https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19"/>
@@ -63,6 +53,16 @@
         <summary type="html"><![CDATA[Mortgage payment holidays were introduced in the UK March 2020 to help households who might have struggled with mortgage payments during the Covid-19 pandemic. Using transaction-level data, this column finds that payment holidays supported consumption during the pandemic for more financially vulnerable households, while more financially stable households on a payment holiday increased their savings instead. These results suggests that payment holidays may have been instrumental in supporting household balance-sheets following the negative aggregate shock triggered by Covid-19.]]></summary>
         <author>
             <name>Bruno Albuquerque, Alexandra  Varadi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The education–innovation gap]]></title>
+        <id>https://voxeu.org/article/education-innovation-gap</id>
+        <link href="https://voxeu.org/article/education-innovation-gap"/>
+        <updated>2022-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Higher education programmes are essential for innovation and economic growth. This column introduces the education–innovation gap, a metric that captures the distance between education content and the knowledge frontier. Among US higher education institutions, the education–innovation gap is significantly lower for courses taught by instructors who are more active in producing research. The gap is higher in schools with students from lower socioeconomic status. On average, exposure to frontier knowledge is associated with better student outcomes.]]></summary>
+        <author>
+            <name>Barbara Biasi, Song Ma</name>
         </author>
     </entry>
     <entry>
