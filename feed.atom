@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T12:02:05.182Z</id>
+    <id>urn:2022-05-24T15:01:21.517Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-24T12:02:05.182Z</updated>
+    <updated>2022-05-24T15:01:21.517Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,16 +16,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning the hard way. The effect of conflict on education]]></title>
-        <id>https://voxeu.org/content/learning-hard-way-effect-conflict-education</id>
-        <link href="https://voxeu.org/content/learning-hard-way-effect-conflict-education"/>
-        <updated>2022-05-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.]]></summary>
-        <author>
-            <name>Michele Di Maio, Tilman Brück</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monopsony makes firms not only small but also unproductive]]></title>
         <id>https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive</id>
         <link href="https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive"/>
@@ -33,6 +23,16 @@
         <summary type="html"><![CDATA[Differences in labour market outcomes between East and West Germany persist, 30 years after reunification. Using high-quality administrative data from Germany, this column documents that East German plants face a steeper size–wage curve than West German ones, invest less in marketing, remain smaller, and, on average, pay lower wages. A model with labour market monopsony, product market power, and customer acquisition matching these features of the data predicts 10% lower aggregate labour productivity in East Germany, partially explaining the persistent productivity gap between West and East Germany even 30 years after reunification.]]></summary>
         <author>
             <name>Rüdiger Bachmann, Christian Bayer, Heiko  Stüber, Felix Wellschmied</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning the hard way. The effect of conflict on education]]></title>
+        <id>https://voxeu.org/content/learning-hard-way-effect-conflict-education</id>
+        <link href="https://voxeu.org/content/learning-hard-way-effect-conflict-education"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.]]></summary>
+        <author>
+            <name>Michele Di Maio, Tilman Brück</name>
         </author>
     </entry>
     <entry>
@@ -46,16 +46,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Consumption effects of mortgage payment holidays during Covid-19]]></title>
-        <id>https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19</id>
-        <link href="https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mortgage payment holidays were introduced in the UK March 2020 to help households who might have struggled with mortgage payments during the Covid-19 pandemic. Using transaction-level data, this column finds that payment holidays supported consumption during the pandemic for more financially vulnerable households, while more financially stable households on a payment holiday increased their savings instead. These results suggests that payment holidays may have been instrumental in supporting household balance-sheets following the negative aggregate shock triggered by Covid-19.]]></summary>
-        <author>
-            <name>Bruno Albuquerque, Alexandra  Varadi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The education–innovation gap]]></title>
         <id>https://voxeu.org/article/education-innovation-gap</id>
         <link href="https://voxeu.org/article/education-innovation-gap"/>
@@ -63,6 +53,16 @@
         <summary type="html"><![CDATA[Higher education programmes are essential for innovation and economic growth. This column introduces the education–innovation gap, a metric that captures the distance between education content and the knowledge frontier. Among US higher education institutions, the education–innovation gap is significantly lower for courses taught by instructors who are more active in producing research. The gap is higher in schools with students from lower socioeconomic status. On average, exposure to frontier knowledge is associated with better student outcomes.]]></summary>
         <author>
             <name>Barbara Biasi, Song Ma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consumption effects of mortgage payment holidays during Covid-19]]></title>
+        <id>https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19</id>
+        <link href="https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19"/>
+        <updated>2022-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mortgage payment holidays were introduced in the UK March 2020 to help households who might have struggled with mortgage payments during the Covid-19 pandemic. Using transaction-level data, this column finds that payment holidays supported consumption during the pandemic for more financially vulnerable households, while more financially stable households on a payment holiday increased their savings instead. These results suggests that payment holidays may have been instrumental in supporting household balance-sheets following the negative aggregate shock triggered by Covid-19.]]></summary>
+        <author>
+            <name>Bruno Albuquerque, Alexandra  Varadi</name>
         </author>
     </entry>
     <entry>
@@ -3748,112 +3748,6 @@ _ 17-2. ArrayList
 _ 17-...
 
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 자바]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일잘러의 비밀, 엑셀 대신 파이썬으로 업무 자동화하기/포스코인재창조원 지음/한빛미디어]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293188515</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293188515"/>
-        <updated>2022-04-25T01:57:00.000Z</updated>
-        <summary type="html"><![CDATA[일잘러의 비밀, 엑셀 대신 파이썬으로 업무 자동화하기
-포스코인재창조원 지음 / 한빛미디어 / 2022년 05월 / ISBN:9791162245569
-정가: 24,000원 / 판매가: 21,600원 / 마일리지: 1,200원
-이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
-
-
-
-
-엑셀로 하던 업무를 파이썬으로 실행하여 더 쉽고 빠르게 업무 자동화를 실현시키는 방법을 안내한다. 파이썬 기초 지식과 함께 엑셀뿐만 아니라 파워포인트 문서를 파이썬으로 자동화하는 방법, 데이터의 그래프 시각화, 웹 크롤링으로 데이터를 수집하는 방법까지 다양한 업무 상황에서의 파이썬 응용 방법을 알아본다. 실전 예제를 따라하고 적용하다 보면 파이썬을 처음 배우는 직장인들도 코딩에 대한 두려움을 버리고 업무 자동화에 한걸음 더 다가갈 수 있을 것이다.
-
-____추천의 글
-____들어가는 글
-____이 책의 구성
-____학습을 시작하기 전에
-____주피터 노트북 단축키 안내
-
-PART 01 파이썬 기초
-CHAPTER 01 파이썬 개요
-1.1 파이썬이란?
-___코딩을 배워야 하는 이유 
-___파이썬의 특징
-
-1.2 파이썬 업무 활용
-___엑셀 대신 파이썬 
-___업무 자동화
-
-1.3 파이썬 개발 환경 준비
-___아나콘다로 파이썬 개발 환경 구축하기
-___주피터 노트북 살펴보기 
-마무리
-
-CHAPTER 02 자료형
-2.1 변수와 상수
-___변수 선언하기
-___변수명 규칙
-___상수 사용하기
-
-2.2 기본 자료형
-___숫자
-___문자열 
-___불
-
-2.3 복합 자료형
-___리스트 
-___튜플
-___딕셔너리
-___[좀 더 알아보기] 자료의 형 변환
-___딕셔너리
-___[좀 더 알아보기] 집합 자료형에 데이터 추가 및 삭제하기
-마무리
-
-CHAPTER 03 제어문과 함수
-3.1 제어문
-___if 문
-___while 문
-___for 문
-
-3.2 함수와 클래스
-___함수 만들기 
-___입력과 출력 함수 
-___[좀 더 알아보기] 입력값을 숫자로 변환하기
-___외부 파일 읽고 쓰기
-___내장 함수
-___클래스와 객체
-마무리
-
-PART 02 파이썬으로 엑셀하기
-CHAPTER 04 엑셀 기본 함수 구현하기
-4.1 파이썬으로 엑셀 파일 다루기
-___파이썬 패키지 설치
-___[좀 더 알아보기] 아나콘다 프롬프트에서 pip 명령어 사용하기
-___데이터 프레임 생성하기
-___행과 열 추가 및 삭제하기
-___엑셀 파일 읽고 쓰기
-
-4.2 텍스트 함수
-___실습 데이터 불러오기
-___[좀 더 알아보기] 특정 디렉토리에서 주피터 노트북 실행하기
-___여러 셀의 문자 합치기
-　ㄴ핵심 함수 | sum( )
-___몇 개의 문자만 추출하기 
-　ㄴ핵심 함수 | str[ ]
-___영문 대소문자 바꾸기
-　ㄴ핵심 함수 | upper( ), lower( ), capitalize( )
-___특정 문자 바꾸기
-　ㄴ핵심 함수 | replace( )
-___문자열 길이 구하기
-　ㄴ핵심 함수 | len( )
-___문자열 공백 삭제하기
-　ㄴ핵심 함수 | strip( ), lstrip( ), rstrip( )
-
-4.3 수학 및 통...
-
-국내도서 > 컴퓨터/모바일 > 오피스(엑셀/파워포인트) > 엑셀
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
-국내도서 > 컴퓨터/모바일 > 활용능력 > 사무자동화]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
