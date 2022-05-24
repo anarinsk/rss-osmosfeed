@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T15:01:21.517Z</id>
+    <id>urn:2022-05-24T18:02:02.472Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-24T15:01:21.517Z</updated>
+    <updated>2022-05-24T18:02:02.472Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -3634,122 +3634,6 @@ CHAPTER 11 파이썬의 자료구조
         <summary type="html"><![CDATA[When voters move across state lines, they adopt some of the same voting behaviors of their new communities, according to a paper in the American Economic Review.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자바 정복/김상형 지음/시대인]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=293210269</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=293210269"/>
-        <updated>2022-04-25T05:06:00.000Z</updated>
-        <summary type="html"><![CDATA[자바 정복
-김상형 지음 / 시대인 / 2022년 05월 / ISBN:9791138323666
-정가: 26,000원 / 판매가: 23,400원 / 마일리지: 1,300원
-이벤트: 컴퓨터/모바일_북스탠드, 플러스 펜 세트
-
-
-
-
-Java 17 버전을 기준으로 자바 문법을 총정리한 도서이다. 자바 문법을 체계적으로 안내하고 있으며 텍스트 블록, 패턴 매칭, 레코드 등을 최신 문법을 포함하였다. 자바 문법의 핵심을 파악할 수 있는 500여 개의 예제를 수록하여 자바 입문자도 혼자서 학습할 수 있다. 예제를 통해 핵심 문법과 응용을 실습한 후 클래스의 개념과 객체지향 등 이해하기 쉽지 않은 개념들을 알기 쉽게 설명한다. 또한, 실무에서 바로 활용할 수 있는 주요 클래스를 체계적으로 정리하고, 컬렉션과 고급 문법에 대한 레퍼런스를 제공하여 자바 개발자라면 항상 옆에 두고 참고할 만하다.
-
-Chapter 1. 자바
-_ 1-1. 프로그래밍 언어    
-_ 1-2. 자바
-연습문제 
-
-Chapter 2. 개발환경
-_ 2-1. JDK 설치와 명령행    
-_ 2-2. 이클립스
-_2-3. 실습 준비
-연습문제    
-
-Chapter 3. 변수
-_ 3-1. 자바의 특징 
-_ 3-2. 변수
-_ 3-3. 수치형
-_ 3-4. 문자 타입    
-연습문제
-
-Chapter 4. 조건문
-_ 4-1. 조건문    
-_ 4-2. 선택문
-연습문제
-
-Chapter 5. 반복문
-_ 5-1. 반복문
-_ 5-2. 루프
-_ 5-3. while 
-연습문제    
-
-Chapter 6. 연산자
-_ 6-1. 연산자    
-_ 6-2. 논리 연산자    
-_ 6-3. 캐스트 연산자
-_ 6-4. 우선순위
-연습문제    
-
-Chapter 7. 배열
-_ 7-1. 배열
-_ 7-2. 참조형
-_ 7-3. 배열의 활용
-연습문제
-
-Chapter 8. 메서드
-_ 8-1. 메서드
-_ 8-2. 인수의 활용
-연습문제
-
-Chapter 9. 클래스
-_ 9-1. 클래스
-_ 9-2. 생성자
-_ 9-3. 멤버 초기화    
-연습문제    
-
-Chapter 10. 캡슐화
-_ 10-1. 캡슐화
-_ 10-2. 정적 멤버    
-_ 10-3. 상수 멤버
-연습문제
-
-Chapter 11. 상속
-_ 11-1. 상속    
-_ 11-2. 멤버 재정의
-연습문제    
-
-Chapter 12. 다형성    
-_ 12-1. 다형성    
-_ 12-2. 다형성의 활용    
-연습문제    
-
-Chapter 13. 인터페이스    
-_ 13-1. 추상 클래스
-_ 13-2. 인터페이스    
-_ 13-3. 인터페이스 확장    
-연습문제
-
-Chapter 14. 패키지    
-_ 14-1. 패키지
-_ 14-2. 패키지 액세스    
-_ 14-3. 모듈화
-
-Chapter 15. 시스템 라이브러리
-_ 15-1. Object    
-_ 15-2. 박싱과 언박싱
-_ 15-3. System    
-
-Chapter 16. 유틸리티 클래스    
-_ 16-1. String    
-_ 16-2. Math    
-_ 16-3. 날짜와 시간
-_ 16-4. record
-
-Chapter 17. 컬렉션    
-_ 17-1. 컬렉션 프레임워크    
-_ 17-2. ArrayList    
-_ 17-...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 자바]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>
