@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T09:01:56.225Z</id>
+    <id>urn:2022-05-25T12:02:09.813Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-25T09:01:56.225Z</updated>
+    <updated>2022-05-25T12:02:09.813Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -417,16 +417,6 @@ PART 3 현실자산과 가상자산의 경계를 무너뜨리는 NFT
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Consumption effects of mortgage payment holidays during Covid-19]]></title>
-        <id>https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19</id>
-        <link href="https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mortgage payment holidays were introduced in the UK March 2020 to help households who might have struggled with mortgage payments during the Covid-19 pandemic. Using transaction-level data, this column finds that payment holidays supported consumption during the pandemic for more financially vulnerable households, while more financially stable households on a payment holiday increased their savings instead. These results suggests that payment holidays may have been instrumental in supporting household balance-sheets following the negative aggregate shock triggered by Covid-19.]]></summary>
-        <author>
-            <name>Bruno Albuquerque, Alexandra  Varadi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The education–innovation gap]]></title>
         <id>https://voxeu.org/article/education-innovation-gap</id>
         <link href="https://voxeu.org/article/education-innovation-gap"/>
@@ -434,6 +424,16 @@ PART 3 현실자산과 가상자산의 경계를 무너뜨리는 NFT
         <summary type="html"><![CDATA[Higher education programmes are essential for innovation and economic growth. This column introduces the education–innovation gap, a metric that captures the distance between education content and the knowledge frontier. Among US higher education institutions, the education–innovation gap is significantly lower for courses taught by instructors who are more active in producing research. The gap is higher in schools with students from lower socioeconomic status. On average, exposure to frontier knowledge is associated with better student outcomes.]]></summary>
         <author>
             <name>Barbara Biasi, Song Ma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consumption effects of mortgage payment holidays during Covid-19]]></title>
+        <id>https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19</id>
+        <link href="https://voxeu.org/article/consumption-effects-mortgage-payment-holidays-during-covid-19"/>
+        <updated>2022-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mortgage payment holidays were introduced in the UK March 2020 to help households who might have struggled with mortgage payments during the Covid-19 pandemic. Using transaction-level data, this column finds that payment holidays supported consumption during the pandemic for more financially vulnerable households, while more financially stable households on a payment holiday increased their savings instead. These results suggests that payment holidays may have been instrumental in supporting household balance-sheets following the negative aggregate shock triggered by Covid-19.]]></summary>
+        <author>
+            <name>Bruno Albuquerque, Alexandra  Varadi</name>
         </author>
     </entry>
     <entry>
