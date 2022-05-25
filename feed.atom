@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T00:02:59.085Z</id>
+    <id>urn:2022-05-25T03:26:19.799Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-25T00:02:59.085Z</updated>
+    <updated>2022-05-25T03:26:19.799Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An empirical analysis of budgetary follow-up in the EU]]></title>
+        <id>https://voxeu.org/article/empirical-analysis-budgetary-follow-eu</id>
+        <link href="https://voxeu.org/article/empirical-analysis-budgetary-follow-eu"/>
+        <updated>2022-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Macroeconomic projections are an essential building block of any budgetary plan. This column studies the one-year-ahead budgetary projections from the Stability and Convergence Programmes of EU member states and finds that the most important variable explaining budget balance errors is GDP growth. More optimism in GDP growth projections produces more optimistic budgetary projections. The findings call for delegating the construction of output projections to adequately equipped national independent fiscal institutions. Such institutions with high media impact producing or assessing the macroeconomic forecast appear to lead to actual budgetary improvement relative to projections.]]></summary>
+        <author>
+            <name>Roel Beetsma, Matthias Busse, Matthias Busse, Massimo Giuliodori, Martin Larch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reckoning with the growing demand for long-term care]]></title>
+        <id>https://voxeu.org/article/reckoning-growing-demand-long-term-care</id>
+        <link href="https://voxeu.org/article/reckoning-growing-demand-long-term-care"/>
+        <updated>2022-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Declining fertility rates and longer life expectancies are producing an ageing global population. This column investigates the challenges that rapidly ageing societies pose to systems of long-term care. To avoid shortages in the workforce, the long-term care industry should endeavour to improve working conditions while also recruiting workers from a larger pool. Investing in disability prevention and rehabilitation are also promising avenues to absorb pressure from growing long-term care needs.]]></summary>
+        <author>
+            <name>Rainer Kotschy, David Bloom</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Effects of an embargo on Russian gas]]></title>
         <id>https://voxeu.org/article/effects-embargo-russian-gas</id>
@@ -444,26 +464,6 @@ PART 3 현실자산과 가상자산의 경계를 무너뜨리는 NFT
         <summary type="html"><![CDATA[A pessimistic view of Chinese agriculture development is based on a Malthusian trap, characterised by diminishing returns to agriculture and a declining land-labour ratio. This column presents stylised empirical facts of 19th and 20th century Chinese agriculture, focusing on the seasonality of labour demand and the resulting rise of sideline employment, to challenge the implications of this view. The reallocation of labour across idle seasons facilitated commercialisation and higher population densities, yet it was industrialisation, occurring outside the agriculture sector, which enabled modernisation.]]></summary>
         <author>
             <name>Debin Ma, Kaixiang Peng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The food crisis has no respect for borders]]></title>
-        <id>https://voxeu.org/vox-talks/food-crisis-has-no-respect-borders</id>
-        <link href="https://voxeu.org/vox-talks/food-crisis-has-no-respect-borders"/>
-        <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This week António Guterres, secretary-general of the UN, warned that the war in Ukraine would tip tens of millions into food insecurity. Guido Porto and Bob Rijkers tell Tim Phillips about who suffers and how much from food price inflation.]]></summary>
-        <author>
-            <name>Guido Porto, Bob Rijkers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian invasion tests EU economic resilience]]></title>
-        <id>https://voxeu.org/article/russian-invasion-tests-eu-economic-resilience</id>
-        <link href="https://voxeu.org/article/russian-invasion-tests-eu-economic-resilience"/>
-        <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s invasion of Ukraine has led the European Commission to revise its EU growth outlook downwards, and the forecast for inflation upwards. As this column discusses, by exerting further upward pressures on commodity prices, causing renewed supply disruptions and increasing uncertainty, the war is exacerbating pre-existing headwinds to growth, which were previously expected to subside. Nevertheless, the economy is expected to keep expanding, and inflation is set to gradually decline towards, though remain above, 2% throughout the forecast horizon. Should further disruptions in energy markets occur, the economy would not escape stagflation.]]></summary>
-        <author>
-            <name>Maarten Verwey, Laura  Bardone, Kristian Orsini</name>
         </author>
     </entry>
     <entry>
@@ -3870,16 +3870,6 @@ CHAPTER 11 파이썬의 자료구조
 국내도서 > 컴퓨터/모바일 > 모바일 프로그래밍 > 안드로이드]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local politics]]></title>
-        <id>https://www.aeaweb.org/research/charts/geography-voting-behavior</id>
-        <link href="https://www.aeaweb.org/research/charts/geography-voting-behavior"/>
-        <updated>2022-04-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When voters move across state lines, they adopt some of the same voting behaviors of their new communities, according to a paper in the American Economic Review.]]></summary>
-        <author>
-            <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>

@@ -516,6 +516,26 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/empirical-analysis-budgetary-follow-eu",
+          "author": "Roel Beetsma, Matthias Busse, Matthias Busse, Massimo Giuliodori, Martin Larch",
+          "description": "Macroeconomic projections are an essential building block of any budgetary plan. This column studies the one-year-ahead budgetary projections from the Stability and Convergence Programmes of EU member states and finds that the most important variable explaining budget balance errors is GDP growth. More optimism in GDP growth projections produces more optimistic budgetary projections. The findings call for delegating the construction of output projections to adequately equipped national independent fiscal institutions. Such institutions with high media impact producing or assessing the macroeconomic forecast appear to lead to actual budgetary improvement relative to projections.",
+          "link": "https://voxeu.org/article/empirical-analysis-budgetary-follow-eu",
+          "publishedOn": "2022-05-25T00:00:00.000Z",
+          "wordCount": 2569,
+          "title": "An empirical analysis of budgetary follow-up in the EU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/reckoning-growing-demand-long-term-care",
+          "author": "Rainer Kotschy, David Bloom",
+          "description": "Declining fertility rates and longer life expectancies are producing an ageing global population. This column investigates the challenges that rapidly ageing societies pose to systems of long-term care. To avoid shortages in the workforce, the long-term care industry should endeavour to improve working conditions while also recruiting workers from a larger pool. Investing in disability prevention and rehabilitation are also promising avenues to absorb pressure from growing long-term care needs.",
+          "link": "https://voxeu.org/article/reckoning-growing-demand-long-term-care",
+          "publishedOn": "2022-05-25T00:00:00.000Z",
+          "wordCount": 2797,
+          "title": "Reckoning with the growing demand for long-term care",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/effects-embargo-russian-gas",
           "author": "Marina Feliciano, Ethan Ilzetzki, Borui Niklas Zhu",
           "description": "The April 2022 CfM survey asked members of its European panel to assess the effects of an embargo on Russian gas on the German and EU economies. The majority of panellists assesses that an embargo on Russian gas would cut one to three percentage points from German GDP growth in 2022-3, if the German government offsets the costs with well-targeted fiscal policy. Estimates increase if the German government were to take no offsetting action. Additionally, a large majority thinks that the EU could weather such a ban with costs in the one to three percentage point range, even absent offsetting fiscal or monetary measures.",
@@ -531,7 +551,7 @@
           "description": "The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.",
           "link": "https://voxeu.org/content/learning-hard-way-effect-conflict-education",
           "publishedOn": "2022-05-24T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 611,
           "title": "Learning the hard way. The effect of conflict on education",
           "imageUrl": null
         },
@@ -594,26 +614,6 @@
           "wordCount": 2212,
           "title": "A new perspective on Chinese agricultural development",
           "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/vox-talks/food-crisis-has-no-respect-borders",
-          "author": "Guido Porto, Bob Rijkers",
-          "description": "This week António Guterres, secretary-general of the UN, warned that the war in Ukraine would tip tens of millions into food insecurity. Guido Porto and Bob Rijkers tell Tim Phillips about who suffers and how much from food price inflation.",
-          "link": "https://voxeu.org/vox-talks/food-crisis-has-no-respect-borders",
-          "publishedOn": "2022-05-20T00:00:00.000Z",
-          "wordCount": 625,
-          "title": "The food crisis has no respect for borders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/russian-invasion-tests-eu-economic-resilience",
-          "author": "Maarten Verwey, Laura  Bardone, Kristian Orsini",
-          "description": "Russia’s invasion of Ukraine has led the European Commission to revise its EU growth outlook downwards, and the forecast for inflation upwards. As this column discusses, by exerting further upward pressures on commodity prices, causing renewed supply disruptions and increasing uncertainty, the war is exacerbating pre-existing headwinds to growth, which were previously expected to subside. Nevertheless, the economy is expected to keep expanding, and inflation is set to gradually decline towards, though remain above, 2% throughout the forecast horizon. Should further disruptions in energy markets occur, the economy would not escape stagflation.",
-          "link": "https://voxeu.org/article/russian-invasion-tests-eu-economic-resilience",
-          "publishedOn": "2022-05-20T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Russian invasion tests EU economic resilience",
-          "imageUrl": null
         }
       ]
     },
@@ -661,16 +661,6 @@
           "wordCount": 1465,
           "title": "Comparing 911 responses",
           "imageUrl": "https://www.aeaweb.org/content/file?id=16590"
-        },
-        {
-          "id": "https://www.aeaweb.org/research/charts/geography-voting-behavior",
-          "author": "Chris Fleisher (research.highlights@aeapubs.org)",
-          "description": "When voters move across state lines, they adopt some of the same voting behaviors of their new communities, according to a paper in the American Economic Review.",
-          "link": "https://www.aeaweb.org/research/charts/geography-voting-behavior",
-          "publishedOn": "2022-04-25T15:00:00.000Z",
-          "wordCount": 461,
-          "title": "Local politics",
-          "imageUrl": "https://www.aeaweb.org/content/file?id=16412"
         }
       ]
     },
