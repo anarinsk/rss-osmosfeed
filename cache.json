@@ -506,16 +506,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa",
-          "author": "Eoin McGuirk, Marshall Burke",
-          "description": "The humanitarian catastrophe unfolding in Ukraine has rightly commanded the attention of policymakers worldwide. However, Russia’s invasion of Ukraine will likely have consequences that echo far beyond the borders of either country. This column draws on recent research to discuss how the war’s impact on food commodity prices may shape the distribution of violent conflict in Africa. The authors predict an overall increase in inter-group conflict, yet this encompasses large spatial variation across countries, with the top agricultural producers exhibiting a decrease in conflict due to higher wages.",
-          "link": "https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa",
-          "publishedOn": "2022-05-26T00:00:00.000Z",
-          "wordCount": null,
-          "title": "War in Ukraine, world food prices, and conflict in Africa",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/eu-gas-purchasing-cartel-framework",
           "author": "Peter Cramton, François Lévêque, Axel  Ockenfels, Steven Stoft",
           "description": "“Instead of outbidding each other and driving prices up,” on 25 March, the 27 EU nations decided to “pool [their] purchasing power” for the “voluntary common purchase of gas”. In short, they decided to form a buyers’ cartel. So far, difficulties have been identified, but what is needed is a systematic design effort addressing those difficulties. This column proposes a simple, but fairly comprehensive framework for an EU gas-purchasing cartel.",
@@ -526,12 +516,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa",
+          "author": "Eoin McGuirk, Marshall Burke",
+          "description": "The humanitarian catastrophe unfolding in Ukraine has rightly commanded the attention of policymakers worldwide. However, Russia’s invasion of Ukraine will likely have consequences that echo far beyond the borders of either country. This column draws on recent research to discuss how the war’s impact on food commodity prices may shape the distribution of violent conflict in Africa. The authors predict an overall increase in inter-group conflict, yet this encompasses large spatial variation across countries, with the top agricultural producers exhibiting a decrease in conflict due to higher wages.",
+          "link": "https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa",
+          "publishedOn": "2022-05-26T00:00:00.000Z",
+          "wordCount": null,
+          "title": "War in Ukraine, world food prices, and conflict in Africa",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/foreign-work-permits-outrun-human-smugglers",
           "author": "Emmanuelle Auriol, Alice Mesnard, Tiffanie  Perrault",
           "description": "The current restrictive migration policies in industrialised countries are not efficient. They ignore the labour market needs for low-skilled foreign workers and favour human smuggling. This column examines whether temporary foreign work permits could help reduce human smuggling and control economic migration. Carefully designed temporary visa schemes can be effective if the wage differentials between origin and destination countries are not too large, but enforcing sanctions against illegal employment of undocumented workers in destination countries could offer a more promising tool to fight human smuggling.",
           "link": "https://voxeu.org/article/foreign-work-permits-outrun-human-smugglers",
           "publishedOn": "2022-05-26T00:00:00.000Z",
-          "wordCount": 2344,
+          "wordCount": null,
           "title": "Foreign work permits to outrun human smugglers",
           "imageUrl": null
         },
@@ -541,7 +541,7 @@
           "description": "Macroeconomic projections are an essential building block of any budgetary plan. This column studies the one-year-ahead budgetary projections from the Stability and Convergence Programmes of EU member states and finds that the most important variable explaining budget balance errors is GDP growth. More optimism in GDP growth projections produces more optimistic budgetary projections. The findings call for delegating the construction of output projections to adequately equipped national independent fiscal institutions. Such institutions with high media impact producing or assessing the macroeconomic forecast appear to lead to actual budgetary improvement relative to projections.",
           "link": "https://voxeu.org/article/empirical-analysis-budgetary-follow-eu",
           "publishedOn": "2022-05-25T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2580,
           "title": "An empirical analysis of budgetary follow-up in the EU",
           "imageUrl": null
         },
@@ -566,16 +566,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/content/learning-hard-way-effect-conflict-education",
-          "author": "Michele Di Maio, Tilman Brück",
-          "description": "The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.",
-          "link": "https://voxeu.org/content/learning-hard-way-effect-conflict-education",
-          "publishedOn": "2022-05-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Learning the hard way. The effect of conflict on education",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive",
           "author": "Rüdiger Bachmann, Christian Bayer, Heiko  Stüber, Felix Wellschmied",
           "description": "Differences in labour market outcomes between East and West Germany persist, 30 years after reunification. Using high-quality administrative data from Germany, this column documents that East German plants face a steeper size–wage curve than West German ones, invest less in marketing, remain smaller, and, on average, pay lower wages. A model with labour market monopsony, product market power, and customer acquisition matching these features of the data predicts 10% lower aggregate labour productivity in East Germany, partially explaining the persistent productivity gap between West and East Germany even 30 years after reunification.",
@@ -583,6 +573,16 @@
           "publishedOn": "2022-05-24T00:00:00.000Z",
           "wordCount": null,
           "title": "Monopsony makes firms not only small but also unproductive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/content/learning-hard-way-effect-conflict-education",
+          "author": "Michele Di Maio, Tilman Brück",
+          "description": "The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.",
+          "link": "https://voxeu.org/content/learning-hard-way-effect-conflict-education",
+          "publishedOn": "2022-05-24T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Learning the hard way. The effect of conflict on education",
           "imageUrl": null
         }
       ]

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-27T06:01:55.023Z</id>
+    <id>urn:2022-05-27T09:01:55.994Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-27T06:01:55.023Z</updated>
+    <updated>2022-05-27T09:01:55.994Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -37,16 +37,6 @@ The post The long-term benefits of better school lunches appeared first on Micro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[War in Ukraine, world food prices, and conflict in Africa]]></title>
-        <id>https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa</id>
-        <link href="https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa"/>
-        <updated>2022-05-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The humanitarian catastrophe unfolding in Ukraine has rightly commanded the attention of policymakers worldwide. However, Russia’s invasion of Ukraine will likely have consequences that echo far beyond the borders of either country. This column draws on recent research to discuss how the war’s impact on food commodity prices may shape the distribution of violent conflict in Africa. The authors predict an overall increase in inter-group conflict, yet this encompasses large spatial variation across countries, with the top agricultural producers exhibiting a decrease in conflict due to higher wages.]]></summary>
-        <author>
-            <name>Eoin McGuirk, Marshall Burke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An EU gas-purchasing cartel framework]]></title>
         <id>https://voxeu.org/article/eu-gas-purchasing-cartel-framework</id>
         <link href="https://voxeu.org/article/eu-gas-purchasing-cartel-framework"/>
@@ -54,6 +44,16 @@ The post The long-term benefits of better school lunches appeared first on Micro
         <summary type="html"><![CDATA[“Instead of outbidding each other and driving prices up,” on 25 March, the 27 EU nations decided to “pool [their] purchasing power” for the “voluntary common purchase of gas”. In short, they decided to form a buyers’ cartel. So far, difficulties have been identified, but what is needed is a systematic design effort addressing those difficulties. This column proposes a simple, but fairly comprehensive framework for an EU gas-purchasing cartel.]]></summary>
         <author>
             <name>Peter Cramton, François Lévêque, Axel  Ockenfels, Steven Stoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[War in Ukraine, world food prices, and conflict in Africa]]></title>
+        <id>https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa</id>
+        <link href="https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa"/>
+        <updated>2022-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The humanitarian catastrophe unfolding in Ukraine has rightly commanded the attention of policymakers worldwide. However, Russia’s invasion of Ukraine will likely have consequences that echo far beyond the borders of either country. This column draws on recent research to discuss how the war’s impact on food commodity prices may shape the distribution of violent conflict in Africa. The authors predict an overall increase in inter-group conflict, yet this encompasses large spatial variation across countries, with the top agricultural producers exhibiting a decrease in conflict due to higher wages.]]></summary>
+        <author>
+            <name>Eoin McGuirk, Marshall Burke</name>
         </author>
     </entry>
     <entry>
@@ -279,16 +279,6 @@ PART 5 모순에 흔들리는 리더를 위한 제언
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning the hard way. The effect of conflict on education]]></title>
-        <id>https://voxeu.org/content/learning-hard-way-effect-conflict-education</id>
-        <link href="https://voxeu.org/content/learning-hard-way-effect-conflict-education"/>
-        <updated>2022-05-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.]]></summary>
-        <author>
-            <name>Michele Di Maio, Tilman Brück</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monopsony makes firms not only small but also unproductive]]></title>
         <id>https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive</id>
         <link href="https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive"/>
@@ -296,6 +286,16 @@ PART 5 모순에 흔들리는 리더를 위한 제언
         <summary type="html"><![CDATA[Differences in labour market outcomes between East and West Germany persist, 30 years after reunification. Using high-quality administrative data from Germany, this column documents that East German plants face a steeper size–wage curve than West German ones, invest less in marketing, remain smaller, and, on average, pay lower wages. A model with labour market monopsony, product market power, and customer acquisition matching these features of the data predicts 10% lower aggregate labour productivity in East Germany, partially explaining the persistent productivity gap between West and East Germany even 30 years after reunification.]]></summary>
         <author>
             <name>Rüdiger Bachmann, Christian Bayer, Heiko  Stüber, Felix Wellschmied</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning the hard way. The effect of conflict on education]]></title>
+        <id>https://voxeu.org/content/learning-hard-way-effect-conflict-education</id>
+        <link href="https://voxeu.org/content/learning-hard-way-effect-conflict-education"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.]]></summary>
+        <author>
+            <name>Michele Di Maio, Tilman Brück</name>
         </author>
     </entry>
     <entry>
