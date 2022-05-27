@@ -486,12 +486,42 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/content/technology-and-finance",
+          "author": "Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives",
+          "description": "The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.",
+          "link": "https://voxeu.org/content/technology-and-finance",
+          "publishedOn": "2022-05-27T00:00:00.000Z",
+          "wordCount": 690,
+          "title": "Technology and Finance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/vox-talks/what-purpose-finance-professor",
+          "author": "Alex Edmans",
+          "description": "Alex Edmans asked this question in his keynote at the Financial Management Association Annual Meeting and offered some provocative answers. He tells Tim Phillips about passion, luck, originality, and the value of teaching.\nDownload the free DP and read more about the research behind this:\nEdmans, A. 2021. 'The Purpose of a Finance Professor'.CEPR.",
+          "link": "https://voxeu.org/vox-talks/what-purpose-finance-professor",
+          "publishedOn": "2022-05-27T00:00:00.000Z",
+          "wordCount": 563,
+          "title": "What is the purpose of a finance professor?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/impact-technology-finance-new-ebook",
+          "author": "Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives",
+          "description": "Recent cutting-edge technologies such as machine learning and artificial intelligence, as well as the expansion of FinTech and BigTech companies into finance, have accelerated the digitalisation of financial services. The fourth report in the The Future of Banking series from the IESE Business School and CEPR focuses on three aspects: (i) the disruption of payment systems due to the emergence of digital currencies, with a particular focus on central bank digital currency; (ii) the benefits and risks of the use of massive data for the provision of financial services; and (iii) the electronification of securities trading and its effect on trading costs and market quality.",
+          "link": "https://voxeu.org/article/impact-technology-finance-new-ebook",
+          "publishedOn": "2022-05-27T00:00:00.000Z",
+          "wordCount": 2100,
+          "title": "The impact of technology on finance: A new eBook",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/potential-intra-household-crisis-between-migrated-ukrainian-women-and-stay-behind-men",
           "author": "Philip Verwimp",
           "description": "Since February, more than six million Ukrainians have left their country and as many have been internally displaced. As the Ukrainian army is a male-only institution, the war has led to the separation of many men from their spouses and children. This column argues that this factor may have unintended, long-term consequences for the welfare of Ukrainian households. It warns that a protracted war creates risks of intra-household conflict and higher divorce rates among these transnational household units.",
           "link": "https://voxeu.org/article/potential-intra-household-crisis-between-migrated-ukrainian-women-and-stay-behind-men",
           "publishedOn": "2022-05-27T00:00:00.000Z",
-          "wordCount": 2304,
+          "wordCount": 2303,
           "title": "The potential for intra-household crisis between migrated Ukrainian women and stay-behind men",
           "imageUrl": null
         },
@@ -501,18 +531,8 @@
           "description": "Since the start of the pandemic, global demand for tradable goods relative to non-tradable services has been exceptionally high. This column argues that this unusual demand pattern can push the global economy into stagflation, driven by scarcity of tradable goods. Countries running trade deficits export high inflation abroad, while policies that boost production of tradable goods and current account surpluses act as a benign disinflationary force. Due to a free riding problem, national monetary authorities may fall into a coordination trap leading to excessively high unemployment. High energy prices exacerbate all these effects.",
           "link": "https://voxeu.org/article/understanding-global-rise-inflation",
           "publishedOn": "2022-05-27T00:00:00.000Z",
-          "wordCount": 2120,
+          "wordCount": 2119,
           "title": "Understanding the global rise in inflation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/eu-gas-purchasing-cartel-framework",
-          "author": "Peter Cramton, François Lévêque, Axel  Ockenfels, Steven Stoft",
-          "description": "“Instead of outbidding each other and driving prices up,” on 25 March, the 27 EU nations decided to “pool [their] purchasing power” for the “voluntary common purchase of gas”. In short, they decided to form a buyers’ cartel. So far, difficulties have been identified, but what is needed is a systematic design effort addressing those difficulties. This column proposes a simple, but fairly comprehensive framework for an EU gas-purchasing cartel.",
-          "link": "https://voxeu.org/article/eu-gas-purchasing-cartel-framework",
-          "publishedOn": "2022-05-26T00:00:00.000Z",
-          "wordCount": null,
-          "title": "An EU gas-purchasing cartel framework",
           "imageUrl": null
         },
         {
@@ -521,8 +541,18 @@
           "description": "The humanitarian catastrophe unfolding in Ukraine has rightly commanded the attention of policymakers worldwide. However, Russia’s invasion of Ukraine will likely have consequences that echo far beyond the borders of either country. This column draws on recent research to discuss how the war’s impact on food commodity prices may shape the distribution of violent conflict in Africa. The authors predict an overall increase in inter-group conflict, yet this encompasses large spatial variation across countries, with the top agricultural producers exhibiting a decrease in conflict due to higher wages.",
           "link": "https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa",
           "publishedOn": "2022-05-26T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2194,
           "title": "War in Ukraine, world food prices, and conflict in Africa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/eu-gas-purchasing-cartel-framework",
+          "author": "Peter Cramton, François Lévêque, Axel  Ockenfels, Steven Stoft",
+          "description": "“Instead of outbidding each other and driving prices up,” on 25 March, the 27 EU nations decided to “pool [their] purchasing power” for the “voluntary common purchase of gas”. In short, they decided to form a buyers’ cartel. So far, difficulties have been identified, but what is needed is a systematic design effort addressing those difficulties. This column proposes a simple, but fairly comprehensive framework for an EU gas-purchasing cartel.",
+          "link": "https://voxeu.org/article/eu-gas-purchasing-cartel-framework",
+          "publishedOn": "2022-05-26T00:00:00.000Z",
+          "wordCount": 2836,
+          "title": "An EU gas-purchasing cartel framework",
           "imageUrl": null
         },
         {
@@ -531,7 +561,7 @@
           "description": "The current restrictive migration policies in industrialised countries are not efficient. They ignore the labour market needs for low-skilled foreign workers and favour human smuggling. This column examines whether temporary foreign work permits could help reduce human smuggling and control economic migration. Carefully designed temporary visa schemes can be effective if the wage differentials between origin and destination countries are not too large, but enforcing sanctions against illegal employment of undocumented workers in destination countries could offer a more promising tool to fight human smuggling.",
           "link": "https://voxeu.org/article/foreign-work-permits-outrun-human-smugglers",
           "publishedOn": "2022-05-26T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2343,
           "title": "Foreign work permits to outrun human smugglers",
           "imageUrl": null
         },
@@ -541,7 +571,7 @@
           "description": "Macroeconomic projections are an essential building block of any budgetary plan. This column studies the one-year-ahead budgetary projections from the Stability and Convergence Programmes of EU member states and finds that the most important variable explaining budget balance errors is GDP growth. More optimism in GDP growth projections produces more optimistic budgetary projections. The findings call for delegating the construction of output projections to adequately equipped national independent fiscal institutions. Such institutions with high media impact producing or assessing the macroeconomic forecast appear to lead to actual budgetary improvement relative to projections.",
           "link": "https://voxeu.org/article/empirical-analysis-budgetary-follow-eu",
           "publishedOn": "2022-05-25T00:00:00.000Z",
-          "wordCount": 2580,
+          "wordCount": 2579,
           "title": "An empirical analysis of budgetary follow-up in the EU",
           "imageUrl": null
         },
@@ -551,38 +581,8 @@
           "description": "Declining fertility rates and longer life expectancies are producing an ageing global population. This column investigates the challenges that rapidly ageing societies pose to systems of long-term care. To avoid shortages in the workforce, the long-term care industry should endeavour to improve working conditions while also recruiting workers from a larger pool. Investing in disability prevention and rehabilitation are also promising avenues to absorb pressure from growing long-term care needs.",
           "link": "https://voxeu.org/article/reckoning-growing-demand-long-term-care",
           "publishedOn": "2022-05-25T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2796,
           "title": "Reckoning with the growing demand for long-term care",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/effects-embargo-russian-gas",
-          "author": "Marina Feliciano, Ethan Ilzetzki, Borui Niklas Zhu",
-          "description": "The April 2022 CfM survey asked members of its European panel to assess the effects of an embargo on Russian gas on the German and EU economies. The majority of panellists assesses that an embargo on Russian gas would cut one to three percentage points from German GDP growth in 2022-3, if the German government offsets the costs with well-targeted fiscal policy. Estimates increase if the German government were to take no offsetting action. Additionally, a large majority thinks that the EU could weather such a ban with costs in the one to three percentage point range, even absent offsetting fiscal or monetary measures.",
-          "link": "https://voxeu.org/article/effects-embargo-russian-gas",
-          "publishedOn": "2022-05-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Effects of an embargo on Russian gas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive",
-          "author": "Rüdiger Bachmann, Christian Bayer, Heiko  Stüber, Felix Wellschmied",
-          "description": "Differences in labour market outcomes between East and West Germany persist, 30 years after reunification. Using high-quality administrative data from Germany, this column documents that East German plants face a steeper size–wage curve than West German ones, invest less in marketing, remain smaller, and, on average, pay lower wages. A model with labour market monopsony, product market power, and customer acquisition matching these features of the data predicts 10% lower aggregate labour productivity in East Germany, partially explaining the persistent productivity gap between West and East Germany even 30 years after reunification.",
-          "link": "https://voxeu.org/article/monopsony-makes-firms-not-only-small-also-unproductive",
-          "publishedOn": "2022-05-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Monopsony makes firms not only small but also unproductive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/content/learning-hard-way-effect-conflict-education",
-          "author": "Michele Di Maio, Tilman Brück",
-          "description": "The war in Ukraine is destroying the educational opportunities of young people. Research from a conflict in the Middle East tells us about the likely scale and persistence of the loss.",
-          "link": "https://voxeu.org/content/learning-hard-way-effect-conflict-education",
-          "publishedOn": "2022-05-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Learning the hard way. The effect of conflict on education",
           "imageUrl": null
         }
       ]
