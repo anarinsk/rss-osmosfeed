@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T18:01:25.068Z</id>
+    <id>urn:2022-05-28T21:01:59.607Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-28T18:01:25.068Z</updated>
+    <updated>2022-05-28T21:01:59.607Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,6 +16,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Technology and Finance]]></title>
+        <id>https://voxeu.org/content/technology-and-finance</id>
+        <link href="https://voxeu.org/content/technology-and-finance"/>
+        <updated>2022-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.]]></summary>
+        <author>
+            <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What is the purpose of a finance professor?]]></title>
         <id>https://voxeu.org/vox-talks/what-purpose-finance-professor</id>
         <link href="https://voxeu.org/vox-talks/what-purpose-finance-professor"/>
@@ -25,16 +35,6 @@ Download the free DP and read more about the research behind this:
 Edmans, A. 2021. 'The Purpose of a Finance Professor'.CEPR.]]></summary>
         <author>
             <name>Alex Edmans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology and Finance]]></title>
-        <id>https://voxeu.org/content/technology-and-finance</id>
-        <link href="https://voxeu.org/content/technology-and-finance"/>
-        <updated>2022-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.]]></summary>
-        <author>
-            <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
         </author>
     </entry>
     <entry>
