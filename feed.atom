@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T06:01:45.658Z</id>
+    <id>urn:2022-05-28T09:01:41.237Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-28T06:01:45.659Z</updated>
+    <updated>2022-05-28T09:01:41.237Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,16 +16,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Technology and Finance]]></title>
-        <id>https://voxeu.org/content/technology-and-finance</id>
-        <link href="https://voxeu.org/content/technology-and-finance"/>
-        <updated>2022-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.]]></summary>
-        <author>
-            <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is the purpose of a finance professor?]]></title>
         <id>https://voxeu.org/vox-talks/what-purpose-finance-professor</id>
         <link href="https://voxeu.org/vox-talks/what-purpose-finance-professor"/>
@@ -35,6 +25,16 @@ Download the free DP and read more about the research behind this:
 Edmans, A. 2021. 'The Purpose of a Finance Professor'.CEPR.]]></summary>
         <author>
             <name>Alex Edmans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technology and Finance]]></title>
+        <id>https://voxeu.org/content/technology-and-finance</id>
+        <link href="https://voxeu.org/content/technology-and-finance"/>
+        <updated>2022-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.]]></summary>
+        <author>
+            <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
         </author>
     </entry>
     <entry>
@@ -396,16 +396,6 @@ The post The long-term benefits of better school lunches appeared first on Micro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An EU gas-purchasing cartel framework]]></title>
-        <id>https://voxeu.org/article/eu-gas-purchasing-cartel-framework</id>
-        <link href="https://voxeu.org/article/eu-gas-purchasing-cartel-framework"/>
-        <updated>2022-05-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Instead of outbidding each other and driving prices up,” on 25 March, the 27 EU nations decided to “pool [their] purchasing power” for the “voluntary common purchase of gas”. In short, they decided to form a buyers’ cartel. So far, difficulties have been identified, but what is needed is a systematic design effort addressing those difficulties. This column proposes a simple, but fairly comprehensive framework for an EU gas-purchasing cartel.]]></summary>
-        <author>
-            <name>Peter Cramton, François Lévêque, Axel  Ockenfels, Steven Stoft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[War in Ukraine, world food prices, and conflict in Africa]]></title>
         <id>https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa</id>
         <link href="https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa"/>
@@ -413,6 +403,16 @@ The post The long-term benefits of better school lunches appeared first on Micro
         <summary type="html"><![CDATA[The humanitarian catastrophe unfolding in Ukraine has rightly commanded the attention of policymakers worldwide. However, Russia’s invasion of Ukraine will likely have consequences that echo far beyond the borders of either country. This column draws on recent research to discuss how the war’s impact on food commodity prices may shape the distribution of violent conflict in Africa. The authors predict an overall increase in inter-group conflict, yet this encompasses large spatial variation across countries, with the top agricultural producers exhibiting a decrease in conflict due to higher wages.]]></summary>
         <author>
             <name>Eoin McGuirk, Marshall Burke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An EU gas-purchasing cartel framework]]></title>
+        <id>https://voxeu.org/article/eu-gas-purchasing-cartel-framework</id>
+        <link href="https://voxeu.org/article/eu-gas-purchasing-cartel-framework"/>
+        <updated>2022-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Instead of outbidding each other and driving prices up,” on 25 March, the 27 EU nations decided to “pool [their] purchasing power” for the “voluntary common purchase of gas”. In short, they decided to form a buyers’ cartel. So far, difficulties have been identified, but what is needed is a systematic design effort addressing those difficulties. This column proposes a simple, but fairly comprehensive framework for an EU gas-purchasing cartel.]]></summary>
+        <author>
+            <name>Peter Cramton, François Lévêque, Axel  Ockenfels, Steven Stoft</name>
         </author>
     </entry>
     <entry>
