@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T06:02:03.391Z</id>
+    <id>urn:2022-05-31T09:01:58.587Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-31T06:02:03.391Z</updated>
+    <updated>2022-05-31T09:01:58.587Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,13 +26,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rising inequality: Industries and mega firms]]></title>
-        <id>https://voxeu.org/article/rising-inequality-industries-and-mega-firms</id>
-        <link href="https://voxeu.org/article/rising-inequality-industries-and-mega-firms"/>
-        <updated>2022-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Earnings inequality has been increasing. This column uses individual US data to understand the causes of this phenomenon from the late 1990s to the late 2010s. Over 60% of the rise in labour earnings inequality is driven by growing inequality between industries, rather than within industries. Moreover, 30 out of a total of 301 industries account for nearly the entire rise in between-industry inequality. Among high-paying industries in this group, this is explained by strong increases in earnings, whereas among the low-paying industries it is driven by rising employment.]]></summary>
+        <title type="html"><![CDATA[Lost in the net? Broadband internet and mental health]]></title>
+        <id>https://voxeu.org/content/lost-net-broadband-internet-and-mental-health</id>
+        <link href="https://voxeu.org/content/lost-net-broadband-internet-and-mental-health"/>
+        <updated>2022-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How does the internet affect young people's mental health? A new paper based on the rollout of broadband internet in Italy comes to some alarming conclusions.
+Download the free DP and learn more about this research:
+Donati, D, Durante, R, Sobbrio, F and Zejcirovic, D. 2022. 'Lost in the Net? Broadband Internet and Youth Mental Health'. CEPR]]></summary>
         <author>
-            <name>John Haltiwanger, Henry Hyatt, Jim Spletzer</name>
+            <name>Dijana Zejcirovic</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +45,16 @@
         <summary type="html"><![CDATA[Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.]]></summary>
         <author>
             <name>Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rising inequality: Industries and mega firms]]></title>
+        <id>https://voxeu.org/article/rising-inequality-industries-and-mega-firms</id>
+        <link href="https://voxeu.org/article/rising-inequality-industries-and-mega-firms"/>
+        <updated>2022-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earnings inequality has been increasing. This column uses individual US data to understand the causes of this phenomenon from the late 1990s to the late 2010s. Over 60% of the rise in labour earnings inequality is driven by growing inequality between industries, rather than within industries. Moreover, 30 out of a total of 301 industries account for nearly the entire rise in between-industry inequality. Among high-paying industries in this group, this is explained by strong increases in earnings, whereas among the low-paying industries it is driven by rising employment.]]></summary>
+        <author>
+            <name>John Haltiwanger, Henry Hyatt, Jim Spletzer</name>
         </author>
     </entry>
     <entry>
@@ -278,16 +290,6 @@ Edmans, A. 2021. 'The Purpose of a Finance Professor'.CEPR.]]></summary>
         <summary type="html"><![CDATA[Recent cutting-edge technologies such as machine learning and artificial intelligence, as well as the expansion of FinTech and BigTech companies into finance, have accelerated the digitalisation of financial services. The fourth report in the The Future of Banking series from the IESE Business School and CEPR focuses on three aspects: (i) the disruption of payment systems due to the emergence of digital currencies, with a particular focus on central bank digital currency; (ii) the benefits and risks of the use of massive data for the provision of financial services; and (iii) the electronification of securities trading and its effect on trading costs and market quality.]]></summary>
         <author>
             <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the global rise in inflation]]></title>
-        <id>https://voxeu.org/article/understanding-global-rise-inflation</id>
-        <link href="https://voxeu.org/article/understanding-global-rise-inflation"/>
-        <updated>2022-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the start of the pandemic, global demand for tradable goods relative to non-tradable services has been exceptionally high. This column argues that this unusual demand pattern can push the global economy into stagflation, driven by scarcity of tradable goods. Countries running trade deficits export high inflation abroad, while policies that boost production of tradable goods and current account surpluses act as a benign disinflationary force. Due to a free riding problem, national monetary authorities may fall into a coordination trap leading to excessively high unemployment. High energy prices exacerbate all these effects.]]></summary>
-        <author>
-            <name>Luca Fornaro, Federica Romei</name>
         </author>
     </entry>
     <entry>
