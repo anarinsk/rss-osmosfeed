@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T03:28:17.066Z</id>
+    <id>urn:2022-05-31T06:02:03.391Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-05-31T03:28:17.066Z</updated>
+    <updated>2022-05-31T06:02:03.391Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ukraine’s recovery challenge]]></title>
+        <id>https://voxeu.org/article/ukraine-s-recovery-challenge</id>
+        <link href="https://voxeu.org/article/ukraine-s-recovery-challenge"/>
+        <updated>2022-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The economic damage in Ukraine in the wake of Russia’s invasion is on a scale not seen in Europe since WWII. This column compares Ukraine’s economic decline in 2022 to that of two other recent wars and outlines two phases in the recovery. Recent forecasts predict a sharp contraction in Ukraine’s GDP in 2022, following by a slow recovery. Rebuilding the economy will require large investments in both human and physical capital, with support from international institutions, as well as upgrading the institutional environment conducive to economic growth.]]></summary>
+        <author>
+            <name>Oleksiy Blinov, Simeon Djankov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Local labour market effects of offshoring]]></title>
         <id>https://voxeu.org/article/local-labour-market-effects-offshoring</id>
@@ -16,16 +26,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Globalisation, not localisation, is the key to post-pandemic prosperity]]></title>
-        <id>https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity</id>
-        <link href="https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity"/>
-        <updated>2022-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.]]></summary>
-        <author>
-            <name>Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rising inequality: Industries and mega firms]]></title>
         <id>https://voxeu.org/article/rising-inequality-industries-and-mega-firms</id>
         <link href="https://voxeu.org/article/rising-inequality-industries-and-mega-firms"/>
@@ -33,6 +33,16 @@
         <summary type="html"><![CDATA[Earnings inequality has been increasing. This column uses individual US data to understand the causes of this phenomenon from the late 1990s to the late 2010s. Over 60% of the rise in labour earnings inequality is driven by growing inequality between industries, rather than within industries. Moreover, 30 out of a total of 301 industries account for nearly the entire rise in between-industry inequality. Among high-paying industries in this group, this is explained by strong increases in earnings, whereas among the low-paying industries it is driven by rising employment.]]></summary>
         <author>
             <name>John Haltiwanger, Henry Hyatt, Jim Spletzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Globalisation, not localisation, is the key to post-pandemic prosperity]]></title>
+        <id>https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity</id>
+        <link href="https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity"/>
+        <updated>2022-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.]]></summary>
+        <author>
+            <name>Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe</name>
         </author>
     </entry>
     <entry>
@@ -239,6 +249,16 @@ CHAPTER 02 커뮤니티를 회사…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Technology and Finance]]></title>
+        <id>https://voxeu.org/content/technology-and-finance</id>
+        <link href="https://voxeu.org/content/technology-and-finance"/>
+        <updated>2022-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.]]></summary>
+        <author>
+            <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What is the purpose of a finance professor?]]></title>
         <id>https://voxeu.org/vox-talks/what-purpose-finance-professor</id>
         <link href="https://voxeu.org/vox-talks/what-purpose-finance-professor"/>
@@ -248,16 +268,6 @@ Download the free DP and read more about the research behind this:
 Edmans, A. 2021. 'The Purpose of a Finance Professor'.CEPR.]]></summary>
         <author>
             <name>Alex Edmans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology and Finance]]></title>
-        <id>https://voxeu.org/content/technology-and-finance</id>
-        <link href="https://voxeu.org/content/technology-and-finance"/>
-        <updated>2022-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.]]></summary>
-        <author>
-            <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
         </author>
     </entry>
     <entry>
@@ -606,16 +616,6 @@ The post The long-term benefits of better school lunches appeared first on Micro
 국내도서 > 경제경영 > [경제경영 사상가 20인] > 앨빈 토플러]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[War in Ukraine, world food prices, and conflict in Africa]]></title>
-        <id>https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa</id>
-        <link href="https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa"/>
-        <updated>2022-05-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The humanitarian catastrophe unfolding in Ukraine has rightly commanded the attention of policymakers worldwide. However, Russia’s invasion of Ukraine will likely have consequences that echo far beyond the borders of either country. This column draws on recent research to discuss how the war’s impact on food commodity prices may shape the distribution of violent conflict in Africa. The authors predict an overall increase in inter-group conflict, yet this encompasses large spatial variation across countries, with the top agricultural producers exhibiting a decrease in conflict due to higher wages.]]></summary>
-        <author>
-            <name>Eoin McGuirk, Marshall Burke</name>
         </author>
     </entry>
     <entry>

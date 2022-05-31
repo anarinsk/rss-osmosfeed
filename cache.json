@@ -516,6 +516,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/ukraine-s-recovery-challenge",
+          "author": "Oleksiy Blinov, Simeon Djankov",
+          "description": "The economic damage in Ukraine in the wake of Russia’s invasion is on a scale not seen in Europe since WWII. This column compares Ukraine’s economic decline in 2022 to that of two other recent wars and outlines two phases in the recovery. Recent forecasts predict a sharp contraction in Ukraine’s GDP in 2022, following by a slow recovery. Rebuilding the economy will require large investments in both human and physical capital, with support from international institutions, as well as upgrading the institutional environment conducive to economic growth.",
+          "link": "https://voxeu.org/article/ukraine-s-recovery-challenge",
+          "publishedOn": "2022-05-31T00:00:00.000Z",
+          "wordCount": 2549,
+          "title": "Ukraine’s recovery challenge",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/local-labour-market-effects-offshoring",
           "author": "Kozo Kiyota, Kentaro Nakajima, Miho Takizawa",
           "description": "Offshoring is a controversial aspect of globalisation, and its impact on source country welfare remains ambiguous. This column analyses the impacts of offshoring on local labour market outcomes in Japan. It finds that offshoring exposure led to higher local employment, and particularly for non-offshoring firms. Furthermore, offshoring helped mitigate the negative effects of Chinese import competition on manufacturing employment. It highlights the increase in production by domestic plants as a potential mechanism to explain the positive effects of offshoring.",
@@ -526,16 +536,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity",
-          "author": "Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe",
-          "description": "Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.",
-          "link": "https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity",
-          "publishedOn": "2022-05-30T00:00:00.000Z",
-          "wordCount": 2527,
-          "title": "Globalisation, not localisation, is the key to post-pandemic prosperity",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/rising-inequality-industries-and-mega-firms",
           "author": "John Haltiwanger, Henry Hyatt, Jim Spletzer",
           "description": "Earnings inequality has been increasing. This column uses individual US data to understand the causes of this phenomenon from the late 1990s to the late 2010s. Over 60% of the rise in labour earnings inequality is driven by growing inequality between industries, rather than within industries. Moreover, 30 out of a total of 301 industries account for nearly the entire rise in between-industry inequality. Among high-paying industries in this group, this is explained by strong increases in earnings, whereas among the low-paying industries it is driven by rising employment.",
@@ -543,6 +543,16 @@
           "publishedOn": "2022-05-30T00:00:00.000Z",
           "wordCount": 3069,
           "title": "Rising inequality: Industries and mega firms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity",
+          "author": "Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe",
+          "description": "Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.",
+          "link": "https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity",
+          "publishedOn": "2022-05-30T00:00:00.000Z",
+          "wordCount": 2527,
+          "title": "Globalisation, not localisation, is the key to post-pandemic prosperity",
           "imageUrl": null
         },
         {
@@ -566,16 +576,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/vox-talks/what-purpose-finance-professor",
-          "author": "Alex Edmans",
-          "description": "Alex Edmans asked this question in his keynote at the Financial Management Association Annual Meeting and offered some provocative answers. He tells Tim Phillips about passion, luck, originality, and the value of teaching.\nDownload the free DP and read more about the research behind this:\nEdmans, A. 2021. 'The Purpose of a Finance Professor'.CEPR.",
-          "link": "https://voxeu.org/vox-talks/what-purpose-finance-professor",
-          "publishedOn": "2022-05-27T00:00:00.000Z",
-          "wordCount": 563,
-          "title": "What is the purpose of a finance professor?",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/content/technology-and-finance",
           "author": "Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives",
           "description": "The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.",
@@ -583,6 +583,16 @@
           "publishedOn": "2022-05-27T00:00:00.000Z",
           "wordCount": 690,
           "title": "Technology and Finance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/vox-talks/what-purpose-finance-professor",
+          "author": "Alex Edmans",
+          "description": "Alex Edmans asked this question in his keynote at the Financial Management Association Annual Meeting and offered some provocative answers. He tells Tim Phillips about passion, luck, originality, and the value of teaching.\nDownload the free DP and read more about the research behind this:\nEdmans, A. 2021. 'The Purpose of a Finance Professor'.CEPR.",
+          "link": "https://voxeu.org/vox-talks/what-purpose-finance-professor",
+          "publishedOn": "2022-05-27T00:00:00.000Z",
+          "wordCount": 563,
+          "title": "What is the purpose of a finance professor?",
           "imageUrl": null
         },
         {
@@ -603,16 +613,6 @@
           "publishedOn": "2022-05-27T00:00:00.000Z",
           "wordCount": 2119,
           "title": "Understanding the global rise in inflation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa",
-          "author": "Eoin McGuirk, Marshall Burke",
-          "description": "The humanitarian catastrophe unfolding in Ukraine has rightly commanded the attention of policymakers worldwide. However, Russia’s invasion of Ukraine will likely have consequences that echo far beyond the borders of either country. This column draws on recent research to discuss how the war’s impact on food commodity prices may shape the distribution of violent conflict in Africa. The authors predict an overall increase in inter-group conflict, yet this encompasses large spatial variation across countries, with the top agricultural producers exhibiting a decrease in conflict due to higher wages.",
-          "link": "https://voxeu.org/article/war-ukraine-world-food-prices-and-conflict-africa",
-          "publishedOn": "2022-05-26T00:00:00.000Z",
-          "wordCount": 2194,
-          "title": "War in Ukraine, world food prices, and conflict in Africa",
           "imageUrl": null
         }
       ]
