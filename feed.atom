@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T12:02:09.379Z</id>
+    <id>urn:2022-06-01T15:01:35.814Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-01T12:02:09.379Z</updated>
+    <updated>2022-06-01T15:01:35.814Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[The great carbon arbitrage]]></title>
-        <id>https://voxeu.org/article/great-carbon-arbitrage</id>
-        <link href="https://voxeu.org/article/great-carbon-arbitrage"/>
-        <updated>2022-06-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attempts to phase out coal have faltered amid fears that the transition to renewable energy would be too costly. By comparing the present value of avoided emissions with the present costs of replacing coal with renewable energy, this column estimates that the world can realise a net gain of $77.89 trillion by shifting to renewable energy. The benefits from ending coal are so large that carbon pricing and the other financing policies discussed here merit sustained attention.]]></summary>
-        <author>
-            <name>Tobias Adrian, Patrick Bolton, Alissa Kleinnijenhuis</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Explaining the trade reform wave of 1985–1995]]></title>
         <id>https://voxeu.org/article/explaining-trade-reform-wave-1985-1995</id>
@@ -23,6 +13,16 @@
         <summary type="html"><![CDATA[The decade from 1985 to 1995 saw the greatest reduction in global trade barriers in world history. This column explores the sudden burst of unilateral trade reforms adopted by many developing countries in that period. Ideas were changing about the merits of exchange rate adjustment over import controls. As more economists were appointed as senior policymakers around the world, they sought to shift policy to earning more foreign exchange, favouring devaluation and liberalisation of import controls. The ‘third wave’ of democratisation also played a role.]]></summary>
         <author>
             <name>Douglas Irwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The great carbon arbitrage]]></title>
+        <id>https://voxeu.org/article/great-carbon-arbitrage</id>
+        <link href="https://voxeu.org/article/great-carbon-arbitrage"/>
+        <updated>2022-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Attempts to phase out coal have faltered amid fears that the transition to renewable energy would be too costly. By comparing the present value of avoided emissions with the present costs of replacing coal with renewable energy, this column estimates that the world can realise a net gain of $77.89 trillion by shifting to renewable energy. The benefits from ending coal are so large that carbon pricing and the other financing policies discussed here merit sustained attention.]]></summary>
+        <author>
+            <name>Tobias Adrian, Patrick Bolton, Alissa Kleinnijenhuis</name>
         </author>
     </entry>
     <entry>
@@ -46,16 +46,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Local labour market effects of offshoring]]></title>
-        <id>https://voxeu.org/article/local-labour-market-effects-offshoring</id>
-        <link href="https://voxeu.org/article/local-labour-market-effects-offshoring"/>
-        <updated>2022-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Offshoring is a controversial aspect of globalisation, and its impact on source country welfare remains ambiguous. This column analyses the impacts of offshoring on local labour market outcomes in Japan. It finds that offshoring exposure led to higher local employment, and particularly for non-offshoring firms. Furthermore, offshoring helped mitigate the negative effects of Chinese import competition on manufacturing employment. It highlights the increase in production by domestic plants as a potential mechanism to explain the positive effects of offshoring.]]></summary>
-        <author>
-            <name>Kozo Kiyota, Kentaro Nakajima, Miho Takizawa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lost in the net? Broadband internet and mental health]]></title>
         <id>https://voxeu.org/content/lost-net-broadband-internet-and-mental-health</id>
         <link href="https://voxeu.org/content/lost-net-broadband-internet-and-mental-health"/>
@@ -65,6 +55,16 @@ Download the free DP and learn more about this research:
 Donati, D, Durante, R, Sobbrio, F and Zejcirovic, D. 2022. 'Lost in the Net? Broadband Internet and Youth Mental Health'. CEPR]]></summary>
         <author>
             <name>Dijana Zejcirovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local labour market effects of offshoring]]></title>
+        <id>https://voxeu.org/article/local-labour-market-effects-offshoring</id>
+        <link href="https://voxeu.org/article/local-labour-market-effects-offshoring"/>
+        <updated>2022-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Offshoring is a controversial aspect of globalisation, and its impact on source country welfare remains ambiguous. This column analyses the impacts of offshoring on local labour market outcomes in Japan. It finds that offshoring exposure led to higher local employment, and particularly for non-offshoring firms. Furthermore, offshoring helped mitigate the negative effects of Chinese import competition on manufacturing employment. It highlights the increase in production by domestic plants as a potential mechanism to explain the positive effects of offshoring.]]></summary>
+        <author>
+            <name>Kozo Kiyota, Kentaro Nakajima, Miho Takizawa</name>
         </author>
     </entry>
     <entry>
@@ -536,16 +536,6 @@ Build Back Better (더 나은 재건再建)
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Globalisation, not localisation, is the key to post-pandemic prosperity]]></title>
-        <id>https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity</id>
-        <link href="https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity"/>
-        <updated>2022-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.]]></summary>
-        <author>
-            <name>Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rising inequality: Industries and mega firms]]></title>
         <id>https://voxeu.org/article/rising-inequality-industries-and-mega-firms</id>
         <link href="https://voxeu.org/article/rising-inequality-industries-and-mega-firms"/>
@@ -553,6 +543,16 @@ Build Back Better (더 나은 재건再建)
         <summary type="html"><![CDATA[Earnings inequality has been increasing. This column uses individual US data to understand the causes of this phenomenon from the late 1990s to the late 2010s. Over 60% of the rise in labour earnings inequality is driven by growing inequality between industries, rather than within industries. Moreover, 30 out of a total of 301 industries account for nearly the entire rise in between-industry inequality. Among high-paying industries in this group, this is explained by strong increases in earnings, whereas among the low-paying industries it is driven by rising employment.]]></summary>
         <author>
             <name>John Haltiwanger, Henry Hyatt, Jim Spletzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Globalisation, not localisation, is the key to post-pandemic prosperity]]></title>
+        <id>https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity</id>
+        <link href="https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity"/>
+        <updated>2022-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.]]></summary>
+        <author>
+            <name>Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe</name>
         </author>
     </entry>
     <entry>
@@ -759,15 +759,13 @@ CHAPTER 02 커뮤니티를 회사에…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is the purpose of a finance professor?]]></title>
-        <id>https://voxeu.org/vox-talks/what-purpose-finance-professor</id>
-        <link href="https://voxeu.org/vox-talks/what-purpose-finance-professor"/>
+        <title type="html"><![CDATA[Technology and Finance]]></title>
+        <id>https://voxeu.org/content/technology-and-finance</id>
+        <link href="https://voxeu.org/content/technology-and-finance"/>
         <updated>2022-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alex Edmans asked this question in his keynote at the Financial Management Association Annual Meeting and offered some provocative answers. He tells Tim Phillips about passion, luck, originality, and the value of teaching.
-Download the free DP and read more about the research behind this:
-Edmans, A. 2021. 'The Purpose of a Finance Professor'.CEPR.]]></summary>
+        <summary type="html"><![CDATA[The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.]]></summary>
         <author>
-            <name>Alex Edmans</name>
+            <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
         </author>
     </entry>
     <entry>
