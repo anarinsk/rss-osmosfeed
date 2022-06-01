@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T00:03:30.604Z</id>
+    <id>urn:2022-06-01T03:44:49.390Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-01T00:03:30.604Z</updated>
+    <updated>2022-06-01T03:44:49.390Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The great carbon arbitrage]]></title>
+        <id>https://voxeu.org/article/great-carbon-arbitrage</id>
+        <link href="https://voxeu.org/article/great-carbon-arbitrage"/>
+        <updated>2022-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Attempts to phase out coal have faltered amid fears that the transition to renewable energy would be too costly. By comparing the present value of avoided emissions with the present costs of replacing coal with renewable energy, this column estimates that the world can realise a net gain of $77.89 trillion by shifting to renewable energy. The benefits from ending coal are so large that carbon pricing and the other financing policies discussed here merit sustained attention.]]></summary>
+        <author>
+            <name>Tobias Adrian, Patrick Bolton, Alissa Kleinnijenhuis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining the trade reform wave of 1985–1995]]></title>
+        <id>https://voxeu.org/article/explaining-trade-reform-wave-1985-1995</id>
+        <link href="https://voxeu.org/article/explaining-trade-reform-wave-1985-1995"/>
+        <updated>2022-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The decade from 1985 to 1995 saw the greatest reduction in global trade barriers in world history. This column explores the sudden burst of unilateral trade reforms adopted by many developing countries in that period. Ideas were changing about the merits of exchange rate adjustment over import controls. As more economists were appointed as senior policymakers around the world, they sought to shift policy to earning more foreign exchange, favouring devaluation and liberalisation of import controls. The ‘third wave’ of democratisation also played a role.]]></summary>
+        <author>
+            <name>Douglas Irwin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The returns to an economics degree]]></title>
         <id>https://www.aeaweb.org/research/returns-college-major-economics-rich</id>
@@ -739,16 +759,6 @@ CHAPTER 02 커뮤니티를 회사에…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Technology and Finance]]></title>
-        <id>https://voxeu.org/content/technology-and-finance</id>
-        <link href="https://voxeu.org/content/technology-and-finance"/>
-        <updated>2022-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.]]></summary>
-        <author>
-            <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is the purpose of a finance professor?]]></title>
         <id>https://voxeu.org/vox-talks/what-purpose-finance-professor</id>
         <link href="https://voxeu.org/vox-talks/what-purpose-finance-professor"/>
@@ -758,16 +768,6 @@ Download the free DP and read more about the research behind this:
 Edmans, A. 2021. 'The Purpose of a Finance Professor'.CEPR.]]></summary>
         <author>
             <name>Alex Edmans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The impact of technology on finance: A new eBook]]></title>
-        <id>https://voxeu.org/article/impact-technology-finance-new-ebook</id>
-        <link href="https://voxeu.org/article/impact-technology-finance-new-ebook"/>
-        <updated>2022-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recent cutting-edge technologies such as machine learning and artificial intelligence, as well as the expansion of FinTech and BigTech companies into finance, have accelerated the digitalisation of financial services. The fourth report in the The Future of Banking series from the IESE Business School and CEPR focuses on three aspects: (i) the disruption of payment systems due to the emergence of digital currencies, with a particular focus on central bank digital currency; (ii) the benefits and risks of the use of massive data for the provision of financial services; and (iii) the electronification of securities trading and its effect on trading costs and market quality.]]></summary>
-        <author>
-            <name>Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives</name>
         </author>
     </entry>
     <entry>
@@ -3865,16 +3865,6 @@ CHAPTER 02 인공지능 자율주행 자동차 체험하기
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing 911 responses]]></title>
-        <id>https://www.aeaweb.org/research/race-police-force-911-calls</id>
-        <link href="https://www.aeaweb.org/research/race-police-force-911-calls"/>
-        <updated>2022-05-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In two US cities, White officers used force more frequently than Black officers, especially in Black neighborhoods, according to a paper in the American Economic Review. We spoke with author CarlyWill Sloan of Claremont Graduate University about the findings.]]></summary>
-        <author>
-            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
         </author>
     </entry>
 </feed>
