@@ -526,6 +526,26 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/learning-using-free-trade-agreements",
+          "author": "Jonas Kasteng, Ari  Kokko, Nils  Norell, Patrik  Tingvall",
+          "description": "Free trade agreements bring questions about how long it takes for firms to acquire the knowledge needed to utilise tariff preferences, and what determines learning outcomes. This column uses Swedish import transaction-level and firm-level data for the EU–South Korea free trade agreement from 2008 to 2018 to answer these questions. The authors find that firms learn about preference utilisation mainly by carrying out repeated import transactions; the number of years as an importer does not seem to matter.",
+          "link": "https://voxeu.org/article/learning-using-free-trade-agreements",
+          "publishedOn": "2022-06-02T00:00:00.000Z",
+          "wordCount": 2640,
+          "title": "Learning by using free trade agreements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/welfare-implications-electric-bike-subsidies",
+          "author": "Anders Anderson, Harrison Hong",
+          "description": "Electric bikes are a viable alternative to cars in urban areas, but how effective they are at reducing carbon emissions is unclear. This column finds that a 2018 Swedish e-bike subsidy programme was successful in persuading people to buy an e-bike, and there was considerable substitution of biking for driving. However, for the programme to be cost-effective, the social cost of carbon much higher than the $50 to $100 estimates frequently discussed. Other social benefits, such as stimulating adoption, promoting health or reducing congestion, are needed to motivate these interventions.",
+          "link": "https://voxeu.org/article/welfare-implications-electric-bike-subsidies",
+          "publishedOn": "2022-06-02T00:00:00.000Z",
+          "wordCount": 1820,
+          "title": "Welfare implications of electric bike subsidies",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/explaining-trade-reform-wave-1985-1995",
           "author": "Douglas Irwin",
           "description": "The decade from 1985 to 1995 saw the greatest reduction in global trade barriers in world history. This column explores the sudden burst of unilateral trade reforms adopted by many developing countries in that period. Ideas were changing about the merits of exchange rate adjustment over import controls. As more economists were appointed as senior policymakers around the world, they sought to shift policy to earning more foreign exchange, favouring devaluation and liberalisation of import controls. The ‘third wave’ of democratisation also played a role.",
@@ -556,16 +576,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/content/lost-net-broadband-internet-and-mental-health",
-          "author": "Dijana Zejcirovic",
-          "description": "How does the internet affect young people's mental health? A new paper based on the rollout of broadband internet in Italy comes to some alarming conclusions.\nDownload the free DP and learn more about this research:\nDonati, D, Durante, R, Sobbrio, F and Zejcirovic, D. 2022. 'Lost in the Net? Broadband Internet and Youth Mental Health'. CEPR",
-          "link": "https://voxeu.org/content/lost-net-broadband-internet-and-mental-health",
-          "publishedOn": "2022-05-31T00:00:00.000Z",
-          "wordCount": 552,
-          "title": "Lost in the net? Broadband internet and mental health",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/local-labour-market-effects-offshoring",
           "author": "Kozo Kiyota, Kentaro Nakajima, Miho Takizawa",
           "description": "Offshoring is a controversial aspect of globalisation, and its impact on source country welfare remains ambiguous. This column analyses the impacts of offshoring on local labour market outcomes in Japan. It finds that offshoring exposure led to higher local employment, and particularly for non-offshoring firms. Furthermore, offshoring helped mitigate the negative effects of Chinese import competition on manufacturing employment. It highlights the increase in production by domestic plants as a potential mechanism to explain the positive effects of offshoring.",
@@ -576,13 +586,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity",
-          "author": "Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe",
-          "description": "Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.",
-          "link": "https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity",
-          "publishedOn": "2022-05-30T00:00:00.000Z",
-          "wordCount": 2521,
-          "title": "Globalisation, not localisation, is the key to post-pandemic prosperity",
+          "id": "https://voxeu.org/content/lost-net-broadband-internet-and-mental-health",
+          "author": "Dijana Zejcirovic",
+          "description": "How does the internet affect young people's mental health? A new paper based on the rollout of broadband internet in Italy comes to some alarming conclusions.\nDownload the free DP and learn more about this research:\nDonati, D, Durante, R, Sobbrio, F and Zejcirovic, D. 2022. 'Lost in the Net? Broadband Internet and Youth Mental Health'. CEPR",
+          "link": "https://voxeu.org/content/lost-net-broadband-internet-and-mental-health",
+          "publishedOn": "2022-05-31T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Lost in the net? Broadband internet and mental health",
           "imageUrl": null
         },
         {
@@ -596,6 +606,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity",
+          "author": "Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe",
+          "description": "Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.",
+          "link": "https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity",
+          "publishedOn": "2022-05-30T00:00:00.000Z",
+          "wordCount": 2521,
+          "title": "Globalisation, not localisation, is the key to post-pandemic prosperity",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/external-military-threats-help-create-stronger-european-identity-and-cooperation",
           "author": "Kai Gehring",
           "description": "The response of EU member states to war in Ukraine has been significant and largely coordinated. Will this outside threat have lasting effects on common identity and cooperation? This column shows that the 2014 Russian invasion of Ukraine had a persistent positive effect on a EU common identity, translating into greater trust in EU institutions and greater support for cooperation at the EU level. Given the extent of the 2022 invasion of Ukraine and the perceived threat to the EU, it is also likely to have a sizeable effect.",
@@ -603,26 +623,6 @@
           "publishedOn": "2022-05-29T00:00:00.000Z",
           "wordCount": 2444,
           "title": "External military threats help to create a stronger European identity and cooperation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/spanish-christmas-lottery-unconventional-fiscal-policy-tool",
-          "author": "Morteza Ghomi, Isabel Micó-Millán, Evi Pappa",
-          "description": "Financing the green transition while consolidating fiscal budgets is a challenging task for many European countries. This column argues that the Spanish Christmas Lottery – with its high level of participation, large prizes, and geographic clustering of winners – offers an example of an unconventional fiscal policy tool for increasing aggregate revenues and stimulating local demand without crowding out aggregate activity. Lottery winnings reduce unemployment and increase job creation and CPI prices, especially during recessions. Even households in winning provinces that do not win themselves significantly increase their durable consumption six months after the shock.",
-          "link": "https://voxeu.org/article/spanish-christmas-lottery-unconventional-fiscal-policy-tool",
-          "publishedOn": "2022-05-28T00:00:00.000Z",
-          "wordCount": 2457,
-          "title": "The Spanish Christmas Lottery as an unconventional fiscal policy tool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/content/technology-and-finance",
-          "author": "Darrell Duffie, Thierry Foucault, Laura Veldkamp, Xavier Vives",
-          "description": "The digitalisation of financial services presents formidable tests for incumbent financial intermediaries, firms, exchanges and regulators. The fourth report in the series on The Future of Banking examines the growing impact of technology on financial markets and institutions and identifies the key challenges in payment systems, the use of big data and trading in markets.",
-          "link": "https://voxeu.org/content/technology-and-finance",
-          "publishedOn": "2022-05-27T00:00:00.000Z",
-          "wordCount": 684,
-          "title": "Technology and Finance",
           "imageUrl": null
         }
       ]
