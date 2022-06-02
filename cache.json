@@ -501,16 +501,6 @@
           "wordCount": null,
           "title": "구글 엔지니어는 이렇게 일한다/타이터스 윈터스.톰 맨쉬렉.하이럼 라이트 지음, 개앞맵시 옮김/한빛미디어",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294118558",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "머신러닝 딥러닝을 이용한 A.I. 자율주행 RC카 프로젝트 with 파이썬+아두이노\n서민우 지음 / 앤써북 / 2022년 05월 / ISBN:9791185553979\n정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원\n이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치\n\n\n\n\n자동차는 인공지능을 학습하기에 아주 좋은 조건을 제공한다. 인공지능 학습에 필요한 데이터 수집이 용이하기 때문이다. 예를 들어, 이 책에서는 ESP32 아두이노 RC카를 5분 정도 주행하여 4,000장 정도의 사진 데이터를 모은다. 4,000장의 데이터를 독자 여러분이 직접 모으려면 많은 노력이 필요할 것이다. 또, ESP32 아두이노 RC카 자제가 학습에 흥미를 더해주는 요소가 되어 인공지능을 공부하는데 재미를 더해준다.\r\n\r\n<머신러닝 딥러닝을 이용한 A.I. 자율주행 RC카 프로젝트 with 파이썬+아두이노> 책은 동키카와 ESP32 아두이노 자율주행 자동차를 통해 재미있게 인공지능을 체험할 수 있고, 조금 더 깊이 있는 인공지능 내용도 배울 수 있는 지침서가 될 것이다.\n\nCHAPTER 01 인공지능 자율주행 자동차 체험하기 \r\n01_ 자율주행 자동차의 이해 \r\n 01_1 자율주행 자동차 기술 \r\n 01_2 자율주행 자동차와 모터 \r\n 01_3 인공지능 자율주행 RC카 살펴보기 \r\n  DonkeyCar(동키카)\r\n  DeepPiCar(딥파이카) \r\n  DeepRacer(딥레이서) \r\n\r\n02_ 자동차 게임으로 인공지능 체험하기 \r\n 02_1 Windows에 동키카 설치하기 \r\n  파이썬 설치하기 \r\n  파이썬 편집기 설치하기 \r\n  Git 설치하기 \r\n  관리자 권한으로 cmd 실행하기 \r\n  동키카 패키지 설치하기 \r\n 02_2동키카 시뮬레이터 설치하기 \r\n  짐 동키카 설치하기 \r\n  동키카 시뮬레이터 설치하기 \r\n 02_3 동키카 시뮬레이터 설정하기 \r\n 02_4 동키카 시뮬레이터 실행하기 \r\n 02_5 동키카 조종하기 \r\n 02_6 수집된 데이터 확인하기 \r\n 02_7 동키카 학습시키기 \r\n 02_8 동키카 자율주행 시키기 \r\n 02_9 동키카 CNN 소스 확인하기 \r\n 02_10 동키카 강화학습 체험하기 \r\n\r\n03_ 인공지능 자율주행 RC카 조립하기 \r\n 03_1 부품 살펴보기 \r\n  전자부품 \r\n  레고부품, 도로용 테이프 \r\n 03_2 인공지능 자율주행 RC카 조립하기 \r\n  RC카 몸체부 조립하기 \r\n  카메라 부 조립하기 \r\n  배터리 장착하기 \r\n\r\n\r\nCHAPTER 02 인공지능 자율주행 자동차 체험하기 \r\n01_ 인공지능 자율주행 RC카 살펴보기 \r\n 01_1 ESP32 아두이노 살펴보기 \r\n  모터 제어 부 아두이노 : ESP32-D1-R32 \r\n  ESP-WROOM-32 모듈 살펴보기 \r\n  영상 수집 부 아두이노 : ESP32-CAM \r\n 01_2 인공지능 자율주행 RC카 쉴드 핀 살펴보기 \r\n\r\n02_ 아두이노 개발 환경 구성하기 \r\n 02_1 아두이노 소프트웨어 설치하기 \r\n 02_2 ESP32 아두이노 패키기 설치하기 \r\n 02_3 USB 드라이버 설치하기 \r\n 02_4 ESP32 보드 컴퓨터에 연결하기 \r\n 02_5 아두이노 스케치 작성해 보기 \r\n  스케치 작성하기 \r\n  스케치 저장하기\r\n  스케치 컴파일하기\r\n  스케치 업로드하기\r\n  시리얼 모니터 확인하기\r\n\r\n03_ 인공지능 자율주행 RC카 체험하기 \r\n 03_1 주행 도로 만들기 \r\n 03_2 Windows 10 모바일 핫스팟 설정하기 \r\n 03_3 카메라 모듈 펌웨어 업로드하기 \r\n 03_4 모터...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 마이크로프로세서\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=294118558",
-          "publishedOn": "2022-05-04T01:40:00.000Z",
-          "wordCount": null,
-          "title": "머신러닝 딥러닝을 이용한 A.I. 자율주행 RC카 프로젝트 with 파이썬+아두이노/서민우 지음/앤써북",
-          "imageUrl": null
         }
       ]
     },
@@ -591,7 +581,7 @@
           "description": "How does the internet affect young people's mental health? A new paper based on the rollout of broadband internet in Italy comes to some alarming conclusions.\nDownload the free DP and learn more about this research:\nDonati, D, Durante, R, Sobbrio, F and Zejcirovic, D. 2022. 'Lost in the Net? Broadband Internet and Youth Mental Health'. CEPR",
           "link": "https://voxeu.org/content/lost-net-broadband-internet-and-mental-health",
           "publishedOn": "2022-05-31T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 552,
           "title": "Lost in the net? Broadband internet and mental health",
           "imageUrl": null
         },
