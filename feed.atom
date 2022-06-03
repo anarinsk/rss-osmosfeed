@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T21:02:05.125Z</id>
+    <id>urn:2022-06-03T00:03:08.534Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-02T21:02:05.125Z</updated>
+    <updated>2022-06-03T00:03:08.534Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The ‘WTO rising’ imperative]]></title>
+        <id>https://voxeu.org/article/wto-rising-imperative</id>
+        <link href="https://voxeu.org/article/wto-rising-imperative"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Climate change, the pandemic, and persistent economic and social inequalities threaten untold millions of lives. While trade alone cannot solve these threats, this column argues that viable solutions require more trade, and stronger multilateral trade governance. This means that world leaders must reimagine the WTO as critical to saving lives, not just livelihoods – a vital tool in the struggle against humanity’s existential threats.]]></summary>
+        <author>
+            <name>Richard Baldwin, Dmitry Grozoubinski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EU’s short ‘romance’ with the debt reduction rule]]></title>
+        <id>https://voxeu.org/article/eu-s-short-romance-debt-reduction-rule</id>
+        <link href="https://voxeu.org/article/eu-s-short-romance-debt-reduction-rule"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The notion that fiscal rules are necessary to safeguard fiscal responsibility is a widely accepted tenet of fiscal policy. However, experience with the implementation of EU fiscal rules has been mixed, driving a wedge between initial ambitions and outcomes. This column uses the latest update of the European Commission’s compliance tracker to shed some light on the debate. In particular, it points out that if consistently followed over time, all numerical rules are equally demanding.]]></summary>
+        <author>
+            <name>Martin Larch, Janis Malzubris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning by using free trade agreements]]></title>
         <id>https://voxeu.org/article/learning-using-free-trade-agreements</id>
@@ -26,16 +46,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explaining the trade reform wave of 1985–1995]]></title>
-        <id>https://voxeu.org/article/explaining-trade-reform-wave-1985-1995</id>
-        <link href="https://voxeu.org/article/explaining-trade-reform-wave-1985-1995"/>
-        <updated>2022-06-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The decade from 1985 to 1995 saw the greatest reduction in global trade barriers in world history. This column explores the sudden burst of unilateral trade reforms adopted by many developing countries in that period. Ideas were changing about the merits of exchange rate adjustment over import controls. As more economists were appointed as senior policymakers around the world, they sought to shift policy to earning more foreign exchange, favouring devaluation and liberalisation of import controls. The ‘third wave’ of democratisation also played a role.]]></summary>
-        <author>
-            <name>Douglas Irwin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The great carbon arbitrage]]></title>
         <id>https://voxeu.org/article/great-carbon-arbitrage</id>
         <link href="https://voxeu.org/article/great-carbon-arbitrage"/>
@@ -43,6 +53,16 @@
         <summary type="html"><![CDATA[Attempts to phase out coal have faltered amid fears that the transition to renewable energy would be too costly. By comparing the present value of avoided emissions with the present costs of replacing coal with renewable energy, this column estimates that the world can realise a net gain of $77.89 trillion by shifting to renewable energy. The benefits from ending coal are so large that carbon pricing and the other financing policies discussed here merit sustained attention.]]></summary>
         <author>
             <name>Tobias Adrian, Patrick Bolton, Alissa Kleinnijenhuis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining the trade reform wave of 1985–1995]]></title>
+        <id>https://voxeu.org/article/explaining-trade-reform-wave-1985-1995</id>
+        <link href="https://voxeu.org/article/explaining-trade-reform-wave-1985-1995"/>
+        <updated>2022-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The decade from 1985 to 1995 saw the greatest reduction in global trade barriers in world history. This column explores the sudden burst of unilateral trade reforms adopted by many developing countries in that period. Ideas were changing about the merits of exchange rate adjustment over import controls. As more economists were appointed as senior policymakers around the world, they sought to shift policy to earning more foreign exchange, favouring devaluation and liberalisation of import controls. The ‘third wave’ of democratisation also played a role.]]></summary>
+        <author>
+            <name>Douglas Irwin</name>
         </author>
     </entry>
     <entry>
@@ -832,26 +852,6 @@ Build Back Better (더 나은 재건再建)
         <summary type="html"><![CDATA[Earnings inequality has been increasing. This column uses individual US data to understand the causes of this phenomenon from the late 1990s to the late 2010s. Over 60% of the rise in labour earnings inequality is driven by growing inequality between industries, rather than within industries. Moreover, 30 out of a total of 301 industries account for nearly the entire rise in between-industry inequality. Among high-paying industries in this group, this is explained by strong increases in earnings, whereas among the low-paying industries it is driven by rising employment.]]></summary>
         <author>
             <name>John Haltiwanger, Henry Hyatt, Jim Spletzer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Globalisation, not localisation, is the key to post-pandemic prosperity]]></title>
-        <id>https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity</id>
-        <link href="https://voxeu.org/article/globalisation-not-localisation-key-post-pandemic-prosperity"/>
-        <updated>2022-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Growing economic nationalism and protectionism in recent years have tested the resilience of global value chains. This column argues that policies that are supportive of rather than hostile to trade could prove critical to strengthen a recovery from the pandemic and reduce extreme poverty in developing countries. Measures to enhance trade could boost integration into global value chains, increase incomes, and lift over 21 million additional people out of poverty by 2030. A more supportive environment for trade also boosts resilience to future supply shocks by supporting diversification and widening access to raw materials, goods, and services.]]></summary>
-        <author>
-            <name>Maksym  Chepeliev, Maryla Maliszewska, Israel Osorio Rodarte, Maria Filipa Seara e Pereira, Dominique van der Mensbrugghe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[External military threats help to create a stronger European identity and cooperation]]></title>
-        <id>https://voxeu.org/article/external-military-threats-help-create-stronger-european-identity-and-cooperation</id>
-        <link href="https://voxeu.org/article/external-military-threats-help-create-stronger-european-identity-and-cooperation"/>
-        <updated>2022-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The response of EU member states to war in Ukraine has been significant and largely coordinated. Will this outside threat have lasting effects on common identity and cooperation? This column shows that the 2014 Russian invasion of Ukraine had a persistent positive effect on a EU common identity, translating into greater trust in EU institutions and greater support for cooperation at the EU level. Given the extent of the 2022 invasion of Ukraine and the perceived threat to the EU, it is also likely to have a sizeable effect.]]></summary>
-        <author>
-            <name>Kai Gehring</name>
         </author>
     </entry>
     <entry>
