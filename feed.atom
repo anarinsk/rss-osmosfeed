@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T12:02:11.806Z</id>
+    <id>urn:2022-06-03T15:01:59.202Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-03T12:02:11.806Z</updated>
+    <updated>2022-06-03T15:01:59.202Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The price of war]]></title>
+        <id>https://voxeu.org/vox-talks/price-war</id>
+        <link href="https://voxeu.org/vox-talks/price-war"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How hard will sanctions on Russia bite? Anna Pestova and Mikhail Mamonov tell Tim Phillips about the depth of the economic hardship that the Russian people will suffer in 2022.]]></summary>
+        <author>
+            <name>Anna Pestova, Mikhail Mamonov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The ‘WTO rising’ imperative]]></title>
         <id>https://voxeu.org/article/wto-rising-imperative</id>
@@ -46,16 +56,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The great carbon arbitrage]]></title>
-        <id>https://voxeu.org/article/great-carbon-arbitrage</id>
-        <link href="https://voxeu.org/article/great-carbon-arbitrage"/>
-        <updated>2022-06-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attempts to phase out coal have faltered amid fears that the transition to renewable energy would be too costly. By comparing the present value of avoided emissions with the present costs of replacing coal with renewable energy, this column estimates that the world can realise a net gain of $77.89 trillion by shifting to renewable energy. The benefits from ending coal are so large that carbon pricing and the other financing policies discussed here merit sustained attention.]]></summary>
-        <author>
-            <name>Tobias Adrian, Patrick Bolton, Alissa Kleinnijenhuis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Explaining the trade reform wave of 1985–1995]]></title>
         <id>https://voxeu.org/article/explaining-trade-reform-wave-1985-1995</id>
         <link href="https://voxeu.org/article/explaining-trade-reform-wave-1985-1995"/>
@@ -63,6 +63,16 @@
         <summary type="html"><![CDATA[The decade from 1985 to 1995 saw the greatest reduction in global trade barriers in world history. This column explores the sudden burst of unilateral trade reforms adopted by many developing countries in that period. Ideas were changing about the merits of exchange rate adjustment over import controls. As more economists were appointed as senior policymakers around the world, they sought to shift policy to earning more foreign exchange, favouring devaluation and liberalisation of import controls. The ‘third wave’ of democratisation also played a role.]]></summary>
         <author>
             <name>Douglas Irwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The great carbon arbitrage]]></title>
+        <id>https://voxeu.org/article/great-carbon-arbitrage</id>
+        <link href="https://voxeu.org/article/great-carbon-arbitrage"/>
+        <updated>2022-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Attempts to phase out coal have faltered amid fears that the transition to renewable energy would be too costly. By comparing the present value of avoided emissions with the present costs of replacing coal with renewable energy, this column estimates that the world can realise a net gain of $77.89 trillion by shifting to renewable energy. The benefits from ending coal are so large that carbon pricing and the other financing policies discussed here merit sustained attention.]]></summary>
+        <author>
+            <name>Tobias Adrian, Patrick Bolton, Alissa Kleinnijenhuis</name>
         </author>
     </entry>
     <entry>
@@ -842,16 +852,6 @@ Build Back Better (더 나은 재건再建)
 국내도서 > 사회과학 > 정치학/외교학/행정학 > 정치학 일반]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rising inequality: Industries and mega firms]]></title>
-        <id>https://voxeu.org/article/rising-inequality-industries-and-mega-firms</id>
-        <link href="https://voxeu.org/article/rising-inequality-industries-and-mega-firms"/>
-        <updated>2022-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Earnings inequality has been increasing. This column uses individual US data to understand the causes of this phenomenon from the late 1990s to the late 2010s. Over 60% of the rise in labour earnings inequality is driven by growing inequality between industries, rather than within industries. Moreover, 30 out of a total of 301 industries account for nearly the entire rise in between-industry inequality. Among high-paying industries in this group, this is explained by strong increases in earnings, whereas among the low-paying industries it is driven by rising employment.]]></summary>
-        <author>
-            <name>John Haltiwanger, Henry Hyatt, Jim Spletzer</name>
         </author>
     </entry>
     <entry>
