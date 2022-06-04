@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-04T15:02:04.031Z</id>
+    <id>urn:2022-06-04T18:01:55.189Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-04T15:02:04.031Z</updated>
+    <updated>2022-06-04T18:01:55.189Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Mobile internet access and the desire to emigrate]]></title>
-        <id>https://voxeu.org/article/mobile-internet-access-and-desire-emigrate</id>
-        <link href="https://voxeu.org/article/mobile-internet-access-and-desire-emigrate"/>
-        <updated>2022-06-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mobile internet has changed how people live, work, and exchange information. Fast broadband can boost household income and affect political awareness. This column examines how 3G mobile internet rollout affects people’s desire and plans to emigrate. Increases in 3G coverage raise individuals’ desire and plans to emigrate, especially for those who do not have networks abroad, while it negatively affects perceptions of relative financial wellbeing and trust in the government. Internet access may be boosting the desire to emigrate while reducing the costs of finding information on opportunities abroad.]]></summary>
-        <author>
-            <name>Joop Adema, Cevat Giray Aksoy, Panu Poutvaara</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Public school funding, school quality, and adult crime]]></title>
         <id>https://voxeu.org/article/public-school-funding-school-quality-and-adult-crime</id>
@@ -23,6 +13,16 @@
         <summary type="html"><![CDATA[Policymakers often propose better funding for public schools as an early intervention to reduce adult crime, yet little causal evidence of its effectiveness exists. This column uses novel data on over one million students in Michigan to study this relationship, finding that greater school funding has a large causal effect on the likelihood of adult arrest. This is most likely driven by the positive effects of greater school funding on school quality, including better paid and more experienced teachers, and is not due to peer effects. The increase in school funding pays for itself, creating social benefits that exceed the cost.]]></summary>
         <author>
             <name>Jason Baron, Joshua  Hyman, Brittany Vasquez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile internet access and the desire to emigrate]]></title>
+        <id>https://voxeu.org/article/mobile-internet-access-and-desire-emigrate</id>
+        <link href="https://voxeu.org/article/mobile-internet-access-and-desire-emigrate"/>
+        <updated>2022-06-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The mobile internet has changed how people live, work, and exchange information. Fast broadband can boost household income and affect political awareness. This column examines how 3G mobile internet rollout affects people’s desire and plans to emigrate. Increases in 3G coverage raise individuals’ desire and plans to emigrate, especially for those who do not have networks abroad, while it negatively affects perceptions of relative financial wellbeing and trust in the government. Internet access may be boosting the desire to emigrate while reducing the costs of finding information on opportunities abroad.]]></summary>
+        <author>
+            <name>Joop Adema, Cevat Giray Aksoy, Panu Poutvaara</name>
         </author>
     </entry>
     <entry>
