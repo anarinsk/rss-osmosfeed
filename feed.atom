@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-04T12:01:28.689Z</id>
+    <id>urn:2022-06-04T15:02:04.031Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-04T12:01:28.689Z</updated>
+    <updated>2022-06-04T15:02:04.031Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -3506,99 +3506,6 @@ Chapter6 행과 열을 조작한다
 6-5 ...
 
 국내도서 > 컴퓨터/모바일 > 오피스(엑셀/파워포인트) > 엑셀
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do it! 점프 투 파이썬 : 라이브러리 예제 편/박응용 지음/이지스퍼블리싱]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294237489</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294237489"/>
-        <updated>2022-05-06T02:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Do it! 점프 투 파이썬 : 라이브러리 예제 편
-박응용 지음 / 이지스퍼블리싱 / 2022년 05월 / ISBN:9791163033554
-정가: 26,000원 / 판매가: 23,400원 / 마일리지: 1,300원
-이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치
-
-
-
-
-《Do it! 점프 투 파이썬》의 박응용 저자가 그동안 수많은 독자에게 받았던 ‘이제 무엇을 공부해야 할까요?’, ‘파이썬으로 무엇을 해볼 수 있을까요?’와 같은 질문에 대한 대답이다. 파이썬의 가장 큰 장점은 여러 분야에 걸쳐 방대한 라이브러리가 이미 만들어져 있다는 것이다. 하지만 어떤 라이브러리가 있는지 모른다면 제대로 쓸 수 없다. 즉, 파이썬 라이브러리 지식이 많을수록 파이썬을 자유자재로 사용할 수 있다. 이 책은 여러분이 파이썬이라는 넓은 바다를 자유롭게 항해할 때 꼭 필요한 나침반이 되고자 한다.
-
-효율적으로 공부할 수 있도록 실무에서 자주 쓰는 파이썬 라이브러리 122개를 엄선했다. 라이브러리마다 스토리가 담긴 예제가 있어 라이브러리를 언제 어떻게 사용해야 하는지 배울 수 있다. 문제를 해결하는 경험을 하나씩 쌓다 보면 파이썬으로 무엇을 할 수 있고, 그중 하고 싶은 게 무엇인지 스스로 깨닫게 될 것이다.
-
-이 책을 읽기 전에
-
-01 텍스트 다루기
-
-001 문자열을 줄여 표시하려면? ― textwrap.shorten
-
-002 긴 문장을 줄 바꿈하려면? ― textwrap.wrap
-
-003 정규표현식으로 개인정보를 보호하려면? ― re
-
-02 바이너리 데이터 다루기
-
-004 C로 만든 데이터를 출력하려면? ― struct
-
-03 다양한 데이터 다루기
-
-005 날짜를 계산하고 요일을 알려면? ― datetime.date
-
-006 두 날짜의 차이를 알려면? ― datetime.timedelta
-
-007 2월이 29일인 해를 알려면? ― calendar.isleap
-
-008 앞뒤에서 자료를 넣고 빼려면? ― collections.deque
-
-009 자료에 이름을 붙이려면? ― collections.namedtuple
-
-010 사용한 단어 개수를 구하려면? ― collections.Counter
-
-011 딕셔너리를 한 번에 초기화하려면? ― collections.defaultdict
-
-012 수상자 3명을 선정하려면? ― heapq
-
-013 데이터를 보기 좋게 출력하려면? ― pprint
-
-014 점수에 따른 학점을 구하려면? ― bisect
-
-015 숫자에 이름을 붙여 사용하려면? ― enum
-
-016 수강할 과목의 순서를 구하려면? ― graphlib.TopologicalSorter
-
-04 수학과 숫자 다루기
-
-017 과자를 똑같이 나누어 담으려면? ― math.gcd
-
-018 버스가 동시에 도착할 시각을 알려면? ― math.lcm
-
-019 소수점을 정확하게 계산하려면? ― decimal.Decimal
-
-020 분수를 정확하게 계산하려면? ― fractions
-
-021 로또 번호를 뽑으려면? ― random
-
-022 시험 결과의 평균값과 중앙값을 알려면? ― statistics
-
-023 상담원을 순서대로 배정하려면? ― itertools.cycle
-
-05 함수형 프로그래밍 다루기
-
-024 연간 매출액을 계산하려면? ― itertools.accumulate
-
-025 키값으로 데이터를 묶으려면? ― itertools.groupby
-
-026 부족한 것을 채워 묶으려면? ― itertools.zip_longest
-
-027 순서를 생각하며 카드를 뽑으려면? ― itertools.permutations
-
-028 로또의 모든 가짓수를 구하려면? ― itertools.combinations
-
-029 순서대로 좌표를 정...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
