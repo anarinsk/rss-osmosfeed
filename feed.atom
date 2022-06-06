@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-06T06:01:42.139Z</id>
+    <id>urn:2022-06-06T09:01:36.892Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-06T06:01:42.139Z</updated>
+    <updated>2022-06-06T09:01:36.892Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Targeted income support to mitigate the impact of high energy prices]]></title>
-        <id>https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices</id>
-        <link href="https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices"/>
-        <updated>2022-06-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The surge of energy prices is significantly affecting the purchasing power of European households, in particular poorer ones. EU member states have adopted various measures to mitigate this impact, with discretionary measures adopted by late April amounting to about 0.6% of EU GDP. This column uses the E-QUEST model to compare price measures (tax subsidies) to targeted and non-targeted income measures (transfers) in terms of social impact and impact on greenhouse gas emissions. Targeted income measures – combating energy poverty – are preferred on both accounts.]]></summary>
-        <author>
-            <name>Gerrit  Bethuyne, Arianna Cima, Björn Döhring, Åsa Johannesson Lindén, Ruben Kasdorp, Janos Varga</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Why central banks should aim for a positive inflation target]]></title>
         <id>https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target</id>
@@ -23,6 +13,16 @@
         <summary type="html"><![CDATA[The rate of inflation has a bearing on the relative price of individual products and therefore on demand for those products. Using new micro price data, this column investigates how high the optimal inflation rate must be to prevent relative product demand from being distorted. In contrast to a common claim, it finds that the optimal rate is not zero for a large part of the euro area, but is, in fact, clearly in positive territory.]]></summary>
         <author>
             <name>Klaus Adam, Erwan Gautier, Henning Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Targeted income support to mitigate the impact of high energy prices]]></title>
+        <id>https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices</id>
+        <link href="https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices"/>
+        <updated>2022-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The surge of energy prices is significantly affecting the purchasing power of European households, in particular poorer ones. EU member states have adopted various measures to mitigate this impact, with discretionary measures adopted by late April amounting to about 0.6% of EU GDP. This column uses the E-QUEST model to compare price measures (tax subsidies) to targeted and non-targeted income measures (transfers) in terms of social impact and impact on greenhouse gas emissions. Targeted income measures – combating energy poverty – are preferred on both accounts.]]></summary>
+        <author>
+            <name>Gerrit  Bethuyne, Arianna Cima, Björn Döhring, Åsa Johannesson Lindén, Ruben Kasdorp, Janos Varga</name>
         </author>
     </entry>
     <entry>
@@ -36,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public school funding, school quality, and adult crime]]></title>
-        <id>https://voxeu.org/article/public-school-funding-school-quality-and-adult-crime</id>
-        <link href="https://voxeu.org/article/public-school-funding-school-quality-and-adult-crime"/>
-        <updated>2022-06-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Policymakers often propose better funding for public schools as an early intervention to reduce adult crime, yet little causal evidence of its effectiveness exists. This column uses novel data on over one million students in Michigan to study this relationship, finding that greater school funding has a large causal effect on the likelihood of adult arrest. This is most likely driven by the positive effects of greater school funding on school quality, including better paid and more experienced teachers, and is not due to peer effects. The increase in school funding pays for itself, creating social benefits that exceed the cost.]]></summary>
-        <author>
-            <name>Jason Baron, Joshua  Hyman, Brittany Vasquez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mobile internet access and the desire to emigrate]]></title>
         <id>https://voxeu.org/article/mobile-internet-access-and-desire-emigrate</id>
         <link href="https://voxeu.org/article/mobile-internet-access-and-desire-emigrate"/>
@@ -53,6 +43,16 @@
         <summary type="html"><![CDATA[The mobile internet has changed how people live, work, and exchange information. Fast broadband can boost household income and affect political awareness. This column examines how 3G mobile internet rollout affects people’s desire and plans to emigrate. Increases in 3G coverage raise individuals’ desire and plans to emigrate, especially for those who do not have networks abroad, while it negatively affects perceptions of relative financial wellbeing and trust in the government. Internet access may be boosting the desire to emigrate while reducing the costs of finding information on opportunities abroad.]]></summary>
         <author>
             <name>Joop Adema, Cevat Giray Aksoy, Panu Poutvaara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public school funding, school quality, and adult crime]]></title>
+        <id>https://voxeu.org/article/public-school-funding-school-quality-and-adult-crime</id>
+        <link href="https://voxeu.org/article/public-school-funding-school-quality-and-adult-crime"/>
+        <updated>2022-06-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Policymakers often propose better funding for public schools as an early intervention to reduce adult crime, yet little causal evidence of its effectiveness exists. This column uses novel data on over one million students in Michigan to study this relationship, finding that greater school funding has a large causal effect on the likelihood of adult arrest. This is most likely driven by the positive effects of greater school funding on school quality, including better paid and more experienced teachers, and is not due to peer effects. The increase in school funding pays for itself, creating social benefits that exceed the cost.]]></summary>
+        <author>
+            <name>Jason Baron, Joshua  Hyman, Brittany Vasquez</name>
         </author>
     </entry>
     <entry>
@@ -80,7 +80,7 @@
         <id>https://voxeu.org/article/eu-s-short-romance-debt-reduction-rule</id>
         <link href="https://voxeu.org/article/eu-s-short-romance-debt-reduction-rule"/>
         <updated>2022-06-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The notion that fiscal rules are necessary to safeguard fiscal responsibility is a widely accepted tenet of fiscal policy. However, experience with the implementation of EU fiscal rules has been mixed, driving a wedge between initial ambitions and outcomes. This column uses the latest update of the European Commission’s compliance tracker to shed some light on the debate. In particular, it points out that if consistently followed over time, all numerical rules are equally demanding.]]></summary>
+        <summary type="html"><![CDATA[The notion that fiscal rules are necessary to safeguard fiscal responsibility is a widely accepted tenet of fiscal policy. However, experience with the implementation of EU fiscal rules has been mixed, driving a wedge between initial ambitions and outcomes. This column uses the latest update of the compliance tracker of the European Fiscal Board secretariat to shed some light on the debate. In particular, it points out that if consistently followed over time, all numerical rules are equally demanding.]]></summary>
         <author>
             <name>Martin Larch, Janis Malzubris</name>
         </author>
