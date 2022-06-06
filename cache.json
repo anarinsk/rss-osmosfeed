@@ -486,16 +486,6 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target",
-          "author": "Klaus Adam, Erwan Gautier, Henning Weber",
-          "description": "The rate of inflation has a bearing on the relative price of individual products and therefore on demand for those products. Using new micro price data, this column investigates how high the optimal inflation rate must be to prevent relative product demand from being distorted. In contrast to a common claim, it finds that the optimal rate is not zero for a large part of the euro area, but is, in fact, clearly in positive territory.",
-          "link": "https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target",
-          "publishedOn": "2022-06-06T00:00:00.000Z",
-          "wordCount": 2061,
-          "title": "Why central banks should aim for a positive inflation target",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices",
           "author": "Gerrit  Bethuyne, Arianna Cima, Björn Döhring, Åsa Johannesson Lindén, Ruben Kasdorp, Janos Varga",
           "description": "The surge of energy prices is significantly affecting the purchasing power of European households, in particular poorer ones. EU member states have adopted various measures to mitigate this impact, with discretionary measures adopted by late April amounting to about 0.6% of EU GDP. This column uses the E-QUEST model to compare price measures (tax subsidies) to targeted and non-targeted income measures (transfers) in terms of social impact and impact on greenhouse gas emissions. Targeted income measures – combating energy poverty – are preferred on both accounts.",
@@ -503,6 +493,16 @@
           "publishedOn": "2022-06-06T00:00:00.000Z",
           "wordCount": 2672,
           "title": "Targeted income support to mitigate the impact of high energy prices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target",
+          "author": "Klaus Adam, Erwan Gautier, Henning Weber",
+          "description": "The rate of inflation has a bearing on the relative price of individual products and therefore on demand for those products. Using new micro price data, this column investigates how high the optimal inflation rate must be to prevent relative product demand from being distorted. In contrast to a common claim, it finds that the optimal rate is not zero for a large part of the euro area, but is, in fact, clearly in positive territory.",
+          "link": "https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target",
+          "publishedOn": "2022-06-06T00:00:00.000Z",
+          "wordCount": 2061,
+          "title": "Why central banks should aim for a positive inflation target",
           "imageUrl": null
         },
         {
@@ -592,6 +592,16 @@
       "feedUrl": "https://www.aeaweb.org/research/rss-feed",
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
+        {
+          "id": "https://www.aeaweb.org/research/charts/disrupted-trade-conflict-china",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "The historic closure of China's Grand Canal illustrates how the breakdown of trade routes can fuel social conflict, according to a paper in the American Economic Review.",
+          "link": "https://www.aeaweb.org/research/charts/disrupted-trade-conflict-china",
+          "publishedOn": "2022-06-06T15:00:00.000Z",
+          "wordCount": 547,
+          "title": "China’s Grand Canal",
+          "imageUrl": "https://www.aeaweb.org/content/file?id=16886"
+        },
         {
           "id": "https://www.aeaweb.org/research/returns-college-major-economics-rich",
           "author": "Tyler Smith (research.highlights@aeapubs.org)",
