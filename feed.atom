@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-07T09:01:54.662Z</id>
+    <id>urn:2022-06-07T12:06:25.214Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-07T09:01:54.662Z</updated>
+    <updated>2022-06-07T12:06:25.214Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,16 +48,6 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Targeted income support to mitigate the impact of high energy prices]]></title>
-        <id>https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices</id>
-        <link href="https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices"/>
-        <updated>2022-06-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The surge of energy prices is significantly affecting the purchasing power of European households, in particular poorer ones. EU member states have adopted various measures to mitigate this impact, with discretionary measures adopted by late April amounting to about 0.6% of EU GDP. This column uses the E-QUEST model to compare price measures (tax subsidies) to targeted and non-targeted income measures (transfers) in terms of social impact and impact on greenhouse gas emissions. Targeted income measures – combating energy poverty – are preferred on both accounts.]]></summary>
-        <author>
-            <name>Gerrit  Bethuyne, Arianna Cima, Björn Döhring, Åsa Johannesson Lindén, Ruben Kasdorp, Janos Varga</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why central banks should aim for a positive inflation target]]></title>
         <id>https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target</id>
         <link href="https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target"/>
@@ -65,6 +55,16 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         <summary type="html"><![CDATA[The rate of inflation has a bearing on the relative price of individual products and therefore on demand for those products. Using new micro price data, this column investigates how high the optimal inflation rate must be to prevent relative product demand from being distorted. In contrast to a common claim, it finds that the optimal rate is not zero for a large part of the euro area, but is, in fact, clearly in positive territory.]]></summary>
         <author>
             <name>Klaus Adam, Erwan Gautier, Henning Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Targeted income support to mitigate the impact of high energy prices]]></title>
+        <id>https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices</id>
+        <link href="https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices"/>
+        <updated>2022-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The surge of energy prices is significantly affecting the purchasing power of European households, in particular poorer ones. EU member states have adopted various measures to mitigate this impact, with discretionary measures adopted by late April amounting to about 0.6% of EU GDP. This column uses the E-QUEST model to compare price measures (tax subsidies) to targeted and non-targeted income measures (transfers) in terms of social impact and impact on greenhouse gas emissions. Targeted income measures – combating energy poverty – are preferred on both accounts.]]></summary>
+        <author>
+            <name>Gerrit  Bethuyne, Arianna Cima, Björn Döhring, Åsa Johannesson Lindén, Ruben Kasdorp, Janos Varga</name>
         </author>
     </entry>
     <entry>
