@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T18:01:19.670Z</id>
+    <id>urn:2022-06-08T21:02:09.877Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-08T18:01:19.670Z</updated>
+    <updated>2022-06-08T21:02:09.877Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,6 +36,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Corporate indebtedness during COVID-19]]></title>
+        <id>https://voxeu.org/article/corporate-indebtedness-during-covid-19</id>
+        <link href="https://voxeu.org/article/corporate-indebtedness-during-covid-19"/>
+        <updated>2022-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The pandemic is leaving behind a legacy of highly indebted firms that do not all look alike. Pockets of vulnerability are concentrated in the hardest-hit sectors, and there is a significant risk that these sectors will delay the recovery by exerting a drag on investment when policy support is withdrawn. This column calls for (1) improving insolvency and restructuring proceedings, and (2) scaling up efforts in the collection of real-time data on firms’ balance sheets to better target fiscal support to viable firms. These two policies should help limit the risk of long-term scarring.]]></summary>
+        <author>
+            <name>Silvia Albrizio, Jean-Marc  Natal, Evgenia Pugacheva</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The education-innovation gap. Where is it widest?]]></title>
         <id>https://voxeu.org/content/education-innovation-gap-where-it-widest</id>
         <link href="https://voxeu.org/content/education-innovation-gap-where-it-widest"/>
@@ -58,16 +68,6 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corporate indebtedness during COVID-19]]></title>
-        <id>https://voxeu.org/article/corporate-indebtedness-during-covid-19</id>
-        <link href="https://voxeu.org/article/corporate-indebtedness-during-covid-19"/>
-        <updated>2022-06-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The pandemic is leaving behind a legacy of highly indebted firms that do not all look alike. Pockets of vulnerability are concentrated in the hardest-hit sectors, and there is a significant risk that these sectors will delay the recovery by exerting a drag on investment when policy support is withdrawn. This column calls for (1) improving insolvency and restructuring proceedings, and (2) scaling up efforts in the collection of real-time data on firms’ balance sheets to better target fiscal support to viable firms. These two policies should help limit the risk of long-term scarring.]]></summary>
-        <author>
-            <name>Silvia Albrizio, Jean-Marc  Natal, Evgenia Pugacheva</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[China’s Grand Canal]]></title>
         <id>https://www.aeaweb.org/research/charts/disrupted-trade-conflict-china</id>
         <link href="https://www.aeaweb.org/research/charts/disrupted-trade-conflict-china"/>
@@ -75,16 +75,6 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         <summary type="html"><![CDATA[The historic closure of China's Grand Canal illustrates how the breakdown of trade routes can fuel social conflict, according to a paper in the American Economic Review.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why central banks should aim for a positive inflation target]]></title>
-        <id>https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target</id>
-        <link href="https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target"/>
-        <updated>2022-06-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The rate of inflation has a bearing on the relative price of individual products and therefore on demand for those products. Using new micro price data, this column investigates how high the optimal inflation rate must be to prevent relative product demand from being distorted. In contrast to a common claim, it finds that the optimal rate is not zero for a large part of the euro area, but is, in fact, clearly in positive territory.]]></summary>
-        <author>
-            <name>Klaus Adam, Erwan Gautier, Henning Weber</name>
         </author>
     </entry>
     <entry>
@@ -98,6 +88,16 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why central banks should aim for a positive inflation target]]></title>
+        <id>https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target</id>
+        <link href="https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target"/>
+        <updated>2022-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The rate of inflation has a bearing on the relative price of individual products and therefore on demand for those products. Using new micro price data, this column investigates how high the optimal inflation rate must be to prevent relative product demand from being distorted. In contrast to a common claim, it finds that the optimal rate is not zero for a large part of the euro area, but is, in fact, clearly in positive territory.]]></summary>
+        <author>
+            <name>Klaus Adam, Erwan Gautier, Henning Weber</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rebelling against a new state: Evidence from the Italian unification]]></title>
         <id>https://voxeu.org/article/rebelling-against-new-state-evidence-italian-unification</id>
         <link href="https://voxeu.org/article/rebelling-against-new-state-evidence-italian-unification"/>
@@ -108,13 +108,13 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public school funding, school quality, and adult crime]]></title>
-        <id>https://voxeu.org/article/public-school-funding-school-quality-and-adult-crime</id>
-        <link href="https://voxeu.org/article/public-school-funding-school-quality-and-adult-crime"/>
+        <title type="html"><![CDATA[Mobile internet access and the desire to emigrate]]></title>
+        <id>https://voxeu.org/article/mobile-internet-access-and-desire-emigrate</id>
+        <link href="https://voxeu.org/article/mobile-internet-access-and-desire-emigrate"/>
         <updated>2022-06-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Policymakers often propose better funding for public schools as an early intervention to reduce adult crime, yet little causal evidence of its effectiveness exists. This column uses novel data on over one million students in Michigan to study this relationship, finding that greater school funding has a large causal effect on the likelihood of adult arrest. This is most likely driven by the positive effects of greater school funding on school quality, including better paid and more experienced teachers, and is not due to peer effects. The increase in school funding pays for itself, creating social benefits that exceed the cost.]]></summary>
+        <summary type="html"><![CDATA[The mobile internet has changed how people live, work, and exchange information. Fast broadband can boost household income and affect political awareness. This column examines how 3G mobile internet rollout affects people’s desire and plans to emigrate. Increases in 3G coverage raise individuals’ desire and plans to emigrate, especially for those who do not have networks abroad, while it negatively affects perceptions of relative financial wellbeing and trust in the government. Internet access may be boosting the desire to emigrate while reducing the costs of finding information on opportunities abroad.]]></summary>
         <author>
-            <name>Jason Baron, Joshua  Hyman, Brittany Vasquez</name>
+            <name>Joop Adema, Cevat Giray Aksoy, Panu Poutvaara</name>
         </author>
     </entry>
     <entry>
@@ -3109,162 +3109,6 @@ __실전에서의 교차 엔트로피
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백엔드를 위한 Django REST Framework with 파이썬/권태형 지음/영진.com(영진닷컴)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294505763</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294505763"/>
-        <updated>2022-05-10T08:06:00.000Z</updated>
-        <summary type="html"><![CDATA[백엔드를 위한 Django REST Framework with 파이썬
-권태형 지음 / 영진.com(영진닷컴) / 2022년 05월 / ISBN:9788931466195
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
-이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치
-
-
-
-
-파이썬과 Django 기반의 기술로 웹과 앱에 전부 대응하는 REST 서버를 만들어 볼 수 있다. 기반 기술을 모르더라도 비전공자도 다룰 수 있도록 웹 개발 개념부터 데이터베이스 쿼리, Django 프로젝트 구조 등을 쉽게 설명한다. 더 나아가 백엔드의 기초, 실제 개발, 배포까지 전 과정을 배울 수 있어 백엔드와 API 서버 개발의 기본기를 충실하게 쌓을 수 있다. 백엔드와 서버 지식이 없는 사람도 쉽게 이해할 수 있도록 새로운 용어나 기술을 상세히 소개하고 있다. 다양한 예시를 통해 개념을 잡고 난 뒤에는 실제로 코드를 작성하며 간단한 기능 구현부터 프로젝트까지 한 번에 배울 수 있을 것이다.
-
-Chapter 1. 웹 & 파이썬 기초	
-1.1 웹 개발 기초 개념
-1.1.1 웹 개발이란
-1.1.2 프론트엔드와 백엔드·
-1.1.3 REST API란
-1.1.4 JSON
-1.2 데이터베이스와 쿼리
-1.2.1 관계형 데이터베이스
-1.2.2 테이블의 키
-1.2.3 쿼리
-1.3 파이썬 기초
-	1.3.1 시작하기 가장 좋은 언어, 파이썬
-1.3.2 파이썬 설치 (윈도우/맥)
-1.3.3 변수 & 자료형
-1.3.4 출력 & 입력
-1.3.5 조건문 & 반복문
-1.3.6 자료구조(list, dictionary, tuple)
-1.3.7 함수
-1.3.8 클래스와 객체지향 프로그래밍 맛보기
-
-Chapter 2. Django 기본 컨셉 익히기
-2.1 Django 시작하기
-2.1.1 Django란
-2.1.2 개발 환경 세팅
-2.1.3 프로젝트 시작하기
-2.2 Django 프로젝트 구조 살펴보기
-2.2.1 Django 프로젝트와 앱
-2.2.2 Django 프로젝트 설정 마무리하기
-2.2.3 Django 프로젝트 구성요소 살펴보기
-2.2.4 Django 앱 구조로 알아보는 MTV 패턴
-2.3 Django Model 알아보기
-2.3.1 Migration 에러 수정하기
-2.3.2 어드민 페이지 들어가보기
-2.3.3 모델이란
-2.3.4 Django 모델 만들기
-2.3.5 Django 모델 적용시키기
-2.3.6 Django 모델 어드민 페이지 적용
-2.4 Django Template 알아보기
-2.4.1 Django Template이란
-2.4.2 Django Template의 특징
-2.5 Django View, URL 알아보기
-2.5.1 Django View란
-2.5.2 Django URL이란
-2.6 서비스 기능 하나씩 구현하기
-2.6.1 사진 목록 화면 만들기
-2.6.2 사진 게시물 보기 화면 만들기
-2.6.3 사진 게시물 작성 기능 만들기
-2.6.4 사진 게시물 수정 기능 만들기
-2.6.5 예시 마무리 하기
-
-Chapter 3. Django로 Todo 목록 웹 서비스 만들기
-3.1 Todo 목록 웹 서비스 시작하기
-3.1.1 프로젝트 기능 정리하기
-3.1.2 프로젝트 생성하기
-3.1.3 Todo 프로젝트 설정하기
-3.1.4 Todo 모델 생성하기
-3.2 Todo 전체 조회 기능 만들기
-3.2.1 Todo 전체 조회 기능 컨셉
-3.2.2 Bootstrap으로 좀 더 멋진 템플릿 만들기
-3.2.3 Todo 전체 조회 템플릿 만들기
-3.2.4 Todo 전체 조회 뷰 만들기
-3.2.5 Todo 전체 조회 URL 연결하기
-3.3 Todo 상세 조회...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼자 공부하는 얄팍한 코딩 지식/고현민 지음/한빛미디어]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294465447</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294465447"/>
-        <updated>2022-05-10T07:04:00.000Z</updated>
-        <summary type="html"><![CDATA[혼자 공부하는 얄팍한 코딩 지식
-고현민 지음 / 한빛미디어 / 2022년 05월 / ISBN:9791162245552
-정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원
-이벤트: 6월의 주목도서 + 북스탠드, 3단 우양산(이벤트 도서 포함 국내서 2만5천원 이상)
-
-
-
-
-독학으로 IT 지식을 배우는 입문자가 ‘꼭 필요한 내용을 제대로 학습’할 수 있도록 구성했다. 뭘 모르는지조차 모르는 입문자의 막연한 마음에 십분 공감하여 과외 선생님이 알려주듯 친절하게, 핵심 내용만 콕콕 집어 준다. 
-
-1장에서는 IT 업계 용어를 알아보며 개발과 개발자를 이해하고, 2장에서는 개발자가 실제로 사용하는 용어를 배우며 개발자와 소통할 수 있는 발판을 마련해 준다. 마지막 3장에서는 여러 가지 개발 용어를 바탕으로 개발자의 길로 들어설 수 있도록 친절하게 알려 준다. '개발이 뭔지 궁금했지만', '개발자와 소통해야 하지만', '개발자가 되고 싶지만' 기존 IT 지식서에서는 시원하게 알 수 없었던 진짜 코딩 지식을 만나 보자.
-
-Chapter 01 개발자 이해하기: 개발과 개발자 용어 알기
-01-1 개발자는 대체 뭐하는 사람인가요?
-__개발자는 누구인가요?: 개발자 vs 작가 easy
-__웹사이트를 만드는 개발자: 웹 개발자 easy
-__손 안의 앱을 만드는 개발자: 모바일 개발자 easy
-__게임을 만드는 개발자: 게임 개발자 easy
-__컴퓨터 프로그램을 만드는 개발자: 응용 소프트웨어 개발자 easy
-__하드웨어를 제어하는 개발자: 임베디드 개발자 easy
-__빈틈없는 정보 파수꾼: 정보 보안 전문가 easy
-__기계를 가르치는 개발자: AI 개발자 easy
-[7가지 키워드로 정리하는 핵심 포인트]
-[확인 문제]
-
-01-2 코딩과 프로그래밍, 앱과 프로그램
-__프로그래밍 언어로 코드 작성하기: 코딩 easy
-__컴퓨터가 할 일 설계하기: 프로그래밍 easy
-__소프트웨어를 만들고 운영하는 과정: 개발 medium
-__컴퓨터의 보이지 않는 요소: 소프트웨어 vs 프로그램 vs 애플리케이션 medium
-[7가지 키워드로 정리하는 핵심 포인트]
-[확인 문제]
-
-01-3 프로그래밍 언어도 외국어인가요?
-__컴퓨터에 명령을 내릴 때 사용하는 언어: 프로그래밍 언어 easy
-__배우기 쉬운 언어는 없을까?: 프로그래밍 언어가 다양한 이유 easy
-__프로그래밍 언어의 계층: 고수준 언어와 저수준 언어 medium 
-__개발자들의 워드 프로세서: IDE easy
-[8가지 키워드로 정리하는 핵심 포인트]
-[확인 문제]
-
-01-4 디버깅 중인데, 빌드 해보고 이상 없으면 릴리스할게요
-__프로그램의 간 보기: 디버깅 easy
-__소스 코드를 프로그램으로 포장하기: 빌드 easy
-__몇 번 테스트하고 몇 번 업그레이드했는지 확인하기: 빌드 번호와 버전 번호 medium
-__프로그램을 사용자에게 서빙하기: 배포 easy
-__출시했다고 끝이 아닙니다!: 유지 보수 easy
-__맛은 같게, 레시피는 다르게: 리팩토링 easy
-__함께 맛보고 피드백하기: 코드 리뷰 easy
-__레시피 정리해 두기: 문서화 easy
-[7가지 키워드로 정리하는 핵심 포인트]
-[확인 문제]
-
-Chapter 02 개발자와 소통하기: IT 업계 용어 알기
-02-1 서버는 뭐고 AWS는 뭔가요?
-__주는 컴퓨터와 받는 컴퓨터 : 서버와 클라이언트 easy
-__서버들이 모여 있는 ...
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 컴퓨터공학/전산학 개론
-국내도서 > 컴퓨터/모바일 > 웹디자인/홈페이지 > HTML/JavaScript
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
