@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T06:02:11.776Z</id>
+    <id>urn:2022-06-09T09:01:51.008Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-09T06:02:11.776Z</updated>
+    <updated>2022-06-09T09:01:51.008Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[The Russian invasion of Ukraine and the subsequent sanctions imposed on Russia are adding strains to already disrupted global supply chains. This column introduces a new indicator to show that the war is already rattling global supply chains. It also argues that despite the modest share of Russia and Ukraine in global trade, the ramifications for global activity can be sizeable as both countries are among the top global exporters of energy products and raw materials that enter upstream in the production processes of several manufactured goods and that may be hard to substitute in the short term.]]></summary>
         <author>
             <name>Maria Grazia  Attinasi, Rinalds  Gerinovics, Vanessa Gunnella, Michele  Mancini, Luca Metelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fostering soft skills in active labour market programmes]]></title>
+        <id>https://voxeu.org/article/fostering-soft-skills-active-labour-market-programmes</id>
+        <link href="https://voxeu.org/article/fostering-soft-skills-active-labour-market-programmes"/>
+        <updated>2022-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Active labour market programmes typically target hard skills, yet soft skills are also important determinants of labour market outcomes. This column examines the impact on employment and earnings of an Israeli randomised control trial that focused exclusively on soft skills training. The programme increased employment rates by 24% and lessened participants’ income support dependency by 26% for the group receiving the training, relative to the mean of the control group. The positive effects were found to be persistent, even during the Covid-19 pandemic.]]></summary>
+        <author>
+            <name>Analia  Schlosser, Yannay  Shanan</name>
         </author>
     </entry>
     <entry>
@@ -166,16 +176,6 @@ Part 3 실현하기
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corporate indebtedness during COVID-19]]></title>
-        <id>https://voxeu.org/article/corporate-indebtedness-during-covid-19</id>
-        <link href="https://voxeu.org/article/corporate-indebtedness-during-covid-19"/>
-        <updated>2022-06-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The pandemic is leaving behind a legacy of highly indebted firms that do not all look alike. Pockets of vulnerability are concentrated in the hardest-hit sectors, and there is a significant risk that these sectors will delay the recovery by exerting a drag on investment when policy support is withdrawn. This column calls for (1) improving insolvency and restructuring proceedings, and (2) scaling up efforts in the collection of real-time data on firms’ balance sheets to better target fiscal support to viable firms. These two policies should help limit the risk of long-term scarring.]]></summary>
-        <author>
-            <name>Silvia Albrizio, Jean-Marc  Natal, Evgenia Pugacheva</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The education-innovation gap. Where is it widest?]]></title>
         <id>https://voxeu.org/content/education-innovation-gap-where-it-widest</id>
         <link href="https://voxeu.org/content/education-innovation-gap-where-it-widest"/>
@@ -198,6 +198,16 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Corporate indebtedness during COVID-19]]></title>
+        <id>https://voxeu.org/article/corporate-indebtedness-during-covid-19</id>
+        <link href="https://voxeu.org/article/corporate-indebtedness-during-covid-19"/>
+        <updated>2022-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The pandemic is leaving behind a legacy of highly indebted firms that do not all look alike. Pockets of vulnerability are concentrated in the hardest-hit sectors, and there is a significant risk that these sectors will delay the recovery by exerting a drag on investment when policy support is withdrawn. This column calls for (1) improving insolvency and restructuring proceedings, and (2) scaling up efforts in the collection of real-time data on firms’ balance sheets to better target fiscal support to viable firms. These two policies should help limit the risk of long-term scarring.]]></summary>
+        <author>
+            <name>Silvia Albrizio, Jean-Marc  Natal, Evgenia Pugacheva</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[China’s Grand Canal]]></title>
         <id>https://www.aeaweb.org/research/charts/disrupted-trade-conflict-china</id>
         <link href="https://www.aeaweb.org/research/charts/disrupted-trade-conflict-china"/>
@@ -205,16 +215,6 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         <summary type="html"><![CDATA[The historic closure of China's Grand Canal illustrates how the breakdown of trade routes can fuel social conflict, according to a paper in the American Economic Review.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Targeted income support to mitigate the impact of high energy prices]]></title>
-        <id>https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices</id>
-        <link href="https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices"/>
-        <updated>2022-06-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The surge of energy prices is significantly affecting the purchasing power of European households, in particular poorer ones. EU member states have adopted various measures to mitigate this impact, with discretionary measures adopted by late April amounting to about 0.6% of EU GDP. This column uses the E-QUEST model to compare price measures (tax subsidies) to targeted and non-targeted income measures (transfers) in terms of social impact and impact on greenhouse gas emissions. Targeted income measures – combating energy poverty – are preferred on both accounts.]]></summary>
-        <author>
-            <name>Gerrit  Bethuyne, Arianna Cima, Björn Döhring, Åsa Johannesson Lindén, Ruben Kasdorp, Janos Varga</name>
         </author>
     </entry>
     <entry>
@@ -228,13 +228,13 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rebelling against a new state: Evidence from the Italian unification]]></title>
-        <id>https://voxeu.org/article/rebelling-against-new-state-evidence-italian-unification</id>
-        <link href="https://voxeu.org/article/rebelling-against-new-state-evidence-italian-unification"/>
-        <updated>2022-06-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Successful state formation processes are a crucial element for the development of well-functioning institutions. However, there are many instances of state building encountering resistance by local communities. This column uses Italian unification as a historical case study to investigate how cultural proximity to the new ruler may promote successful state building. The authors find that communities culturally closer to the new ruler have a lower propensity to rebel, and discuss two possible cultural mechanisms: social identification with the new ruler, and ‘goodness of fit’ of the new institutions with local values.]]></summary>
+        <title type="html"><![CDATA[Targeted income support to mitigate the impact of high energy prices]]></title>
+        <id>https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices</id>
+        <link href="https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices"/>
+        <updated>2022-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The surge of energy prices is significantly affecting the purchasing power of European households, in particular poorer ones. EU member states have adopted various measures to mitigate this impact, with discretionary measures adopted by late April amounting to about 0.6% of EU GDP. This column uses the E-QUEST model to compare price measures (tax subsidies) to targeted and non-targeted income measures (transfers) in terms of social impact and impact on greenhouse gas emissions. Targeted income measures – combating energy poverty – are preferred on both accounts.]]></summary>
         <author>
-            <name>Giampaolo Lecce, Laura Ogliari, Tommaso Orlando</name>
+            <name>Gerrit  Bethuyne, Arianna Cima, Björn Döhring, Åsa Johannesson Lindén, Ruben Kasdorp, Janos Varga</name>
         </author>
     </entry>
     <entry>
