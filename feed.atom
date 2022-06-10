@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T03:26:23.695Z</id>
+    <id>urn:2022-06-10T06:01:31.390Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-10T03:26:23.695Z</updated>
+    <updated>2022-06-10T06:01:31.390Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learning-by-doing and productivity growth among high-skilled workers]]></title>
+        <id>https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers</id>
+        <link href="https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learning-by-doing is believed to be a major source of economic growth, human capital, and comparative advantage, but documenting learning curves has proven difficult since workers are usually not randomly assigned to tasks. This column explores learning-by-doing among Swedish cardiologists, who were quasi-randomly assigned to heart attack patients during night-time shifts. The results provide rare evidence on the existence of prolonged learning curves in a high-skilled task and support the notion that learning-by-doing can be a powerful engine for productivity growth.]]></summary>
+        <author>
+            <name>Petter Lundborg, Stefan James, Bo  Lagerqvist, Johan  Vikström</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restarting Ukraine’s agricultural exports]]></title>
+        <id>https://voxeu.org/article/restarting-ukraine-s-agricultural-exports</id>
+        <link href="https://voxeu.org/article/restarting-ukraine-s-agricultural-exports"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Russia has imposed a naval blockade on Ukraine, suffocating the country’s agricultural exports. The last time that Ukraine experienced an export crisis of similar proportions was during the collapse of the Soviet Union. This column estimates that losses of agricultural producers reached $200 million a day in March through May 2022, with the next harvest at even higher risk due to lack of storage facilities and trading routes.]]></summary>
+        <author>
+            <name>Oleksiy Blinov, Simeon Djankov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The fear of technology-driven unemployment and its empirical base]]></title>
+        <id>https://voxeu.org/article/fear-technology-driven-unemployment-and-its-empirical-base</id>
+        <link href="https://voxeu.org/article/fear-technology-driven-unemployment-and-its-empirical-base"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New technologies may replace human labour, but can simultaneously create jobs if workers are needed to use these technologies or if new economic activities emerge. At the same time, technology-driven productivity growth may increase disposable income, stimulating a demand-induced employment expansion. Based on a systematic review of the empirical literature on technological change and its impact on employment published in the past four decades, this column suggests that the empirical support for the labour-creating effects of technological change dominates that for labour-replacement.]]></summary>
+        <author>
+            <name>Kerstin Hötte, Melline Somers, Angelos Theodorakopoulos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Global supply chains rattled by winds of war]]></title>
         <id>https://voxeu.org/article/global-supply-chains-rattled-winds-war</id>
@@ -403,16 +433,6 @@ Part 3 실현하기
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finance and climate change risk: Managing expectations]]></title>
-        <id>https://voxeu.org/article/finance-and-climate-change-risk-managing-expectations</id>
-        <link href="https://voxeu.org/article/finance-and-climate-change-risk-managing-expectations"/>
-        <updated>2022-06-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The financial sector has a key role to play in supporting the green transition, but it is unrealistic to expect that it can drive the required reallocation of resources in the absence of adequate environmental policymaking in the real economy. This column argues that such unrealistic expectations could undermine financial stability and may derail the green transition itself. Moreover, the risks to financial stability are two-sided. Next to the risks that have attracted the bulk of the attention – those linked to exposures against overvalued emissions-intensive assets – one should not underestimate those linked to exposures to overvalued ’green’ assets or assets that purport to be green.]]></summary>
-        <author>
-            <name>Claudio Borio, Stijn  Claessens, Nikola Tarashev</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Corporate indebtedness during COVID-19]]></title>
         <id>https://voxeu.org/article/corporate-indebtedness-during-covid-19</id>
         <link href="https://voxeu.org/article/corporate-indebtedness-during-covid-19"/>
@@ -442,26 +462,6 @@ Biasi, B and Ma, S. 2022. 'The Education-Innovation Gap'. CEPR]]></summary>
         <summary type="html"><![CDATA[The historic closure of China's Grand Canal illustrates how the breakdown of trade routes can fuel social conflict, according to a paper in the American Economic Review.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Targeted income support to mitigate the impact of high energy prices]]></title>
-        <id>https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices</id>
-        <link href="https://voxeu.org/article/targeted-income-support-mitigate-impact-high-energy-prices"/>
-        <updated>2022-06-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The surge of energy prices is significantly affecting the purchasing power of European households, in particular poorer ones. EU member states have adopted various measures to mitigate this impact, with discretionary measures adopted by late April amounting to about 0.6% of EU GDP. This column uses the E-QUEST model to compare price measures (tax subsidies) to targeted and non-targeted income measures (transfers) in terms of social impact and impact on greenhouse gas emissions. Targeted income measures – combating energy poverty – are preferred on both accounts.]]></summary>
-        <author>
-            <name>Gerrit  Bethuyne, Arianna Cima, Björn Döhring, Åsa Johannesson Lindén, Ruben Kasdorp, Janos Varga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why central banks should aim for a positive inflation target]]></title>
-        <id>https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target</id>
-        <link href="https://voxeu.org/article/why-central-banks-should-aim-positive-inflation-target"/>
-        <updated>2022-06-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The rate of inflation has a bearing on the relative price of individual products and therefore on demand for those products. Using new micro price data, this column investigates how high the optimal inflation rate must be to prevent relative product demand from being distorted. In contrast to a common claim, it finds that the optimal rate is not zero for a large part of the euro area, but is, in fact, clearly in positive territory.]]></summary>
-        <author>
-            <name>Klaus Adam, Erwan Gautier, Henning Weber</name>
         </author>
     </entry>
     <entry>
