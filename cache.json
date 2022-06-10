@@ -401,16 +401,6 @@
           "wordCount": null,
           "title": "좋은 코드, 나쁜 코드/톰 롱 지음, 차건회 옮김/제이펍",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294626669",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "그림으로 배우는 딥러닝\n앤드류 글래스너 지음, 김창엽 외 옮김 / 에이콘출판 / 2022년 05월 / ISBN:9791161756448\n정가: 60,000원 / 판매가: 54,000원 / 마일리지: 3,000원\n이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치\n\n\n\n\n복잡한 수식과 코드 없이 머신러닝과 딥러닝을 배우는 데 꼭 필요한 이론을 배울 수 있도록 구성했다. 필수로 익혀야 하는 통계 이론과 머신러닝의 기초 지식, 여러 딥러닝 구조와 응용 분야를 최대한 쉽게 풀어냈다. 딥러닝 입문자가 핵심적인 이론을 이해할 수 있도록 그림 설명을 제공하며, 코드를 작성할 준비가 됐을 때 활용할 수 있는 파이썬 예제를 별도로 제공한다.\n\n1부. 기본 개념\r\n\r\n1장. 머신러닝 개요\r\n전문가 시스템\r\n지도학습\r\n비지도학습\r\n강화학습\r\n딥러닝\r\n요약\r\n\r\n2장. 필수 통계\r\n무작위성 설명\r\n확률 변수와 확률 분포\r\n몇 가지 일반적인 분포\r\n__연속 분포\r\n__이산 분포\r\n확률 변수의 집합\r\n__기댓값\r\n__의존성\r\n__독립 항등 분포된 변수\r\n추출과 복원\r\n__복원 추출\r\n__비복원 추출\r\n부트스트랩\r\n공분산과 상관관계\r\n__공분산\r\n__상관관계\r\n통계가 모든 것을 말해주지는 않는다\r\n고차원 공간\r\n요약\r\n\r\n3장. 성능 측정\r\n확률의 여러 유형\r\n__다트 던지기\r\n__단순 확률\r\n__조건부 확률\r\n__결합 확률\r\n__주변 확률\r\n정확도 측정\r\n__샘플 분류\r\n__혼동 행렬\r\n__잘못된 예측값 특성화\r\n__옳고 그름의 측정\r\n__정확도\r\n__정밀도\r\n__재현율\r\n__정밀도-재현율 트레이드오프\r\n__오해의 소지가 있는 측정지표\r\n__f1 점수\r\n__용어\r\n__기타 측정지표\r\n혼동 행렬을 올바르게 구성하기\r\n요약\r\n\r\n4장. 베이즈 규칙\r\n빈도주의와 베이지안 확률\r\n__빈도주의적 접근\r\n__베이지안 접근법\r\n__빈도주의자 대 베이지안 주의자\r\n빈도주의자의 동전 던지기\r\n베이지안의 동전 던지기\r\n__동기 부여 예제\r\n__동전 확률 그리기\r\n__동전 던지기를 확률로 표현하기\r\n__베이즈 규칙\r\n__베이즈 규칙에 대한 논의\r\n베이즈 규칙과 혼동 행렬\r\n베이즈 규칙 반복\r\n__사후 확률-사전 확률 루프\r\n__베이즈 루프 실습\r\n다중 가설\r\n요약\r\n\r\n5장. 곡선과 표면\r\n함수의 본질\r\n미분\r\n__최댓값과 최솟값\r\n__접선\r\n__미분으로 최솟값과 최댓값 찾기\r\n그래디언트\r\n__물, 중력, 그래디언트\r\n__경사도로 최댓값과 최솟값 찾기\r\n__안장점\r\n요약\r\n\r\n6장. 정보 이론\r\n놀라움과 맥락\r\n__놀라움 이해\r\n__맥락 풀기\r\n정보 측정\r\n적응형 코드\r\n__모스 말하기\r\n__모스 부호 커스터마이징\r\n엔트로피\r\n교차 엔트로피\r\n__두 개의 적응형 코드\r\n__코드 사용\r\n__실전에서의 교차 엔트로피\r\n쿨백-라이블러 발산\r\n요약\r\n\r\n\r\n2부....\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=294626669",
-          "publishedOn": "2022-05-12T02:46:00.000Z",
-          "wordCount": null,
-          "title": "그림으로 배우는 딥러닝/앤드류 글래스너 지음, 김창엽 외 옮김/에이콘출판",
-          "imageUrl": null
         }
       ]
     },
@@ -426,6 +416,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers",
+          "author": "Petter Lundborg, Stefan James, Bo  Lagerqvist, Johan  Vikström",
+          "description": "Learning-by-doing is believed to be a major source of economic growth, human capital, and comparative advantage, but documenting learning curves has proven difficult since workers are usually not randomly assigned to tasks. This column explores learning-by-doing among Swedish cardiologists, who were quasi-randomly assigned to heart attack patients during night-time shifts. The results provide rare evidence on the existence of prolonged learning curves in a high-skilled task and support the notion that learning-by-doing can be a powerful engine for productivity growth.",
+          "link": "https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers",
+          "publishedOn": "2022-06-10T00:00:00.000Z",
+          "wordCount": 2363,
+          "title": "Learning-by-doing and productivity growth among high-skilled workers",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/vox-talks/male-and-female-voices-economics",
           "author": "Sarah Smith",
           "description": "We know women are under-represented in economics. But if male economists are more comfortable expressing a strong opinion, does this increase the perceived imbalance? Sarah Smith tells Tim Phillips about new research into the difference between male and female voices in economics.\nLearn more about the research behind this Vox Talk and download the free DP:\nSievertsen, H and Smith, S. 2022. 'Male and female voices in economics'. CEPR",
@@ -436,13 +436,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers",
-          "author": "Petter Lundborg, Stefan James, Bo  Lagerqvist, Johan  Vikström",
-          "description": "Learning-by-doing is believed to be a major source of economic growth, human capital, and comparative advantage, but documenting learning curves has proven difficult since workers are usually not randomly assigned to tasks. This column explores learning-by-doing among Swedish cardiologists, who were quasi-randomly assigned to heart attack patients during night-time shifts. The results provide rare evidence on the existence of prolonged learning curves in a high-skilled task and support the notion that learning-by-doing can be a powerful engine for productivity growth.",
-          "link": "https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers",
+          "id": "https://voxeu.org/article/central-banks-climate-change-and-economic-efficiency",
+          "author": "Philipp Hartmann, Agnese Leonello, Simone  Manganelli, Melina Papoutsi, Isabel Schnabel, Jean-David Sigaux",
+          "description": "Market imperfections strongly influence the volume of greenhouse gas emissions, which is a key driver of climate change. While governments should lead climate policies in the first place, a broad coalition of actors across society, including central banks, needs to contribute to transition to a carbon-neutral economy in a timely and orderly fashion. The ECB’s mandate states that it must pursue its primary and secondary objectives in conformity with an open market economy, favouring an efficient allocation of resources. This column argues that this provision clarifies how the ECB shall take climate considerations into account, including but going beyond climate-related financial risks. This is relevant, for example, for monetary policy operations and supervisory policies.",
+          "link": "https://voxeu.org/article/central-banks-climate-change-and-economic-efficiency",
           "publishedOn": "2022-06-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Learning-by-doing and productivity growth among high-skilled workers",
+          "wordCount": 5414,
+          "title": "Central banks, climate change, and economic efficiency",
           "imageUrl": null
         },
         {
@@ -481,7 +481,7 @@
           "description": "Active labour market programmes typically target hard skills, yet soft skills are also important determinants of labour market outcomes. This column examines the impact on employment and earnings of an Israeli randomised control trial that focused exclusively on soft skills training. The programme increased employment rates by 24% and lessened participants’ income support dependency by 26% for the group receiving the training, relative to the mean of the control group. The positive effects were found to be persistent, even during the Covid-19 pandemic.",
           "link": "https://voxeu.org/article/fostering-soft-skills-active-labour-market-programmes",
           "publishedOn": "2022-06-09T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2185,
           "title": "Fostering soft skills in active labour market programmes",
           "imageUrl": null
         },
@@ -491,7 +491,7 @@
           "description": "The war in Ukraine is having immediate and stark humanitarian and economic impacts, yet its long-term consequences are challenging to predict. This column revisits the evidence on the long-term impact of conflict and presents preliminary evidence for the continued invasion of Ukraine by Russia. The after-effects of bombing campaigns and those of violence against civilians can be substantial and are typically, although not exclusively, damaging. The authors find a strong positive correlation between the presence of ethnic Russians historically and current conflict, as well as a negative relationship between modern conflict and Holodomor famine deaths, both within Ukraine.",
           "link": "https://voxeu.org/article/sound-and-fury-ukraine",
           "publishedOn": "2022-06-08T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3354,
           "title": "The Sound and the Fury in Ukraine",
           "imageUrl": null
         },
@@ -501,7 +501,7 @@
           "description": "The May 2022 CfM survey asked the members of its UK panel to forecast the prospects for UK economic growth and propose policies that might improve the UK’s economic performance in the upcoming decade. The panellists are nearly unanimous that UK income growth will be low in the upcoming decade. The majority believe that this will be due to structural factors. According to the panel, the most effective policies to improve UK economic performance are raising public investment and improving trade relations with the EU and other trading partners.",
           "link": "https://voxeu.org/article/prospects-uk-economic-growth",
           "publishedOn": "2022-06-08T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2057,
           "title": "Prospects for UK economic growth",
           "imageUrl": null
         },
@@ -511,18 +511,8 @@
           "description": "Central banks have begun integrating climate-related risks into their financial stability assessments, but estimating risks to the financial system more broadly remains a work in progress. This column summarises recent scenario-based analyses of the risks thatdecarbonisation poses to UK banks, insurers, and pension funds. Though no imminent threats to financial stability are observed, the authors believe an abrupt switch to an ambitious decarbonisation scenario could result in non-negligible losses, particularly in a ‘disorderly’ transition.",
           "link": "https://voxeu.org/article/financial-stability-climate-minsky-point",
           "publishedOn": "2022-06-08T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2289,
           "title": "Financial stability at the ‘climate Minsky point’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/finance-and-climate-change-risk-managing-expectations",
-          "author": "Claudio Borio, Stijn  Claessens, Nikola Tarashev",
-          "description": "The financial sector has a key role to play in supporting the green transition, but it is unrealistic to expect that it can drive the required reallocation of resources in the absence of adequate environmental policymaking in the real economy. This column argues that such unrealistic expectations could undermine financial stability and may derail the green transition itself. Moreover, the risks to financial stability are two-sided. Next to the risks that have attracted the bulk of the attention – those linked to exposures against overvalued emissions-intensive assets – one should not underestimate those linked to exposures to overvalued ’green’ assets or assets that purport to be green.",
-          "link": "https://voxeu.org/article/finance-and-climate-change-risk-managing-expectations",
-          "publishedOn": "2022-06-07T00:00:00.000Z",
-          "wordCount": 2649,
-          "title": "Finance and climate change risk: Managing expectations",
           "imageUrl": null
         }
       ]
