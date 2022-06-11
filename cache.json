@@ -406,16 +406,6 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/new-era-economics-fertility",
-          "author": "Matthias Doepke, Anne Hannusch, Fabian Kindermann, Michèle Tertilt",
-          "description": "As fertility rates have declined in high-income countries, the cross-country relationship between women’s labour supply and fertility has reversed. Today, in countries where more women are working, more babies are born. This column suggests that classic models of fertility no longer explain ultra-low fertility rates in high-income countries, where the compatibility of women’s career and family goals are now a key driver of fertility decisions. The authors highlight four factors that facilitate combining a career and childbirth: family policy, cooperative fathers, favourable social norms, and flexible labour markets.",
-          "link": "https://voxeu.org/article/new-era-economics-fertility",
-          "publishedOn": "2022-06-11T00:00:00.000Z",
-          "wordCount": 2515,
-          "title": "A new era in the economics of fertility",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network",
           "author": "Yoshiyuki Arata, Daisuke Miyakawa",
           "description": "Previous studies report the propagation of shocks via supply chains from downstream, but little is known about the propagation from customers to suppliers driven by demand shocks. This column uses Japanese firm-level input-output data to fill this gap. The authors find that negative demand shocks only propagated from large exporters to larger suppliers during the global financial crisis, but were transmitted from small customers even to their small suppliers during the COVID-19 pandemic. Identifying the propagation route helps in the design of targeted policies.",
@@ -423,6 +413,16 @@
           "publishedOn": "2022-06-11T00:00:00.000Z",
           "wordCount": 2083,
           "title": "How demand shocks propagate through an input-output network",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/new-era-economics-fertility",
+          "author": "Matthias Doepke, Anne Hannusch, Fabian Kindermann, Michèle Tertilt",
+          "description": "As fertility rates have declined in high-income countries, the cross-country relationship between women’s labour supply and fertility has reversed. Today, in countries where more women are working, more babies are born. This column suggests that classic models of fertility no longer explain ultra-low fertility rates in high-income countries, where the compatibility of women’s career and family goals are now a key driver of fertility decisions. The authors highlight four factors that facilitate combining a career and childbirth: family policy, cooperative fathers, favourable social norms, and flexible labour markets.",
+          "link": "https://voxeu.org/article/new-era-economics-fertility",
+          "publishedOn": "2022-06-11T00:00:00.000Z",
+          "wordCount": 2515,
+          "title": "A new era in the economics of fertility",
           "imageUrl": null
         },
         {
