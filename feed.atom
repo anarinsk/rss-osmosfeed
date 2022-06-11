@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-11T00:02:53.885Z</id>
+    <id>urn:2022-06-11T03:23:57.014Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-11T00:02:53.885Z</updated>
+    <updated>2022-06-11T03:23:57.014Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How demand shocks propagate through an input-output network]]></title>
+        <id>https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network</id>
+        <link href="https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network"/>
+        <updated>2022-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Previous studies report the propagation of shocks via supply chains from downstream, but little is known about the propagation from customers to suppliers driven by demand shocks. This column uses Japanese firm-level input-output data to fill this gap. The authors find that negative demand shocks only propagated from large exporters to larger suppliers during the global financial crisis, but were transmitted from small customers even to their small suppliers during the COVID-19 pandemic. Identifying the propagation route helps in the design of targeted policies.]]></summary>
+        <author>
+            <name>Yoshiyuki Arata, Daisuke Miyakawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new era in the economics of fertility]]></title>
+        <id>https://voxeu.org/article/new-era-economics-fertility</id>
+        <link href="https://voxeu.org/article/new-era-economics-fertility"/>
+        <updated>2022-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As fertility rates have declined in high-income countries, the cross-country relationship between women’s labour supply and fertility has reversed. Today, in countries where more women are working, more babies are born. This column suggests that classic models of fertility no longer explain ultra-low fertility rates in high-income countries, where the compatibility of women’s career and family goals are now a key driver of fertility decisions. The authors highlight four factors that facilitate combining a career and childbirth: family policy, cooperative fathers, favourable social norms, and flexible labour markets.]]></summary>
+        <author>
+            <name>Matthias Doepke, Anne Hannusch, Fabian Kindermann, Michèle Tertilt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning-by-doing and productivity growth among high-skilled workers]]></title>
         <id>https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers</id>
@@ -407,26 +427,6 @@ Sievertsen, H and Smith, S. 2022. 'Male and female voices in economics'. CEPR]]>
         <summary type="html"><![CDATA[The war in Ukraine is having immediate and stark humanitarian and economic impacts, yet its long-term consequences are challenging to predict. This column revisits the evidence on the long-term impact of conflict and presents preliminary evidence for the continued invasion of Ukraine by Russia. The after-effects of bombing campaigns and those of violence against civilians can be substantial and are typically, although not exclusively, damaging. The authors find a strong positive correlation between the presence of ethnic Russians historically and current conflict, as well as a negative relationship between modern conflict and Holodomor famine deaths, both within Ukraine.]]></summary>
         <author>
             <name>Ellen Munroe, Anastasiia Nosach, Juan Felipe  Riaño, Ana Tur-Prats, Felipe Valencia Caicedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prospects for UK economic growth]]></title>
-        <id>https://voxeu.org/article/prospects-uk-economic-growth</id>
-        <link href="https://voxeu.org/article/prospects-uk-economic-growth"/>
-        <updated>2022-06-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The May 2022 CfM survey asked the members of its UK panel to forecast the prospects for UK economic growth and propose policies that might improve the UK’s economic performance in the upcoming decade. The panellists are nearly unanimous that UK income growth will be low in the upcoming decade. The majority believe that this will be due to structural factors. According to the panel, the most effective policies to improve UK economic performance are raising public investment and improving trade relations with the EU and other trading partners.]]></summary>
-        <author>
-            <name>Ethan Ilzetzki, James  P Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Financial stability at the ‘climate Minsky point’]]></title>
-        <id>https://voxeu.org/article/financial-stability-climate-minsky-point</id>
-        <link href="https://voxeu.org/article/financial-stability-climate-minsky-point"/>
-        <updated>2022-06-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Central banks have begun integrating climate-related risks into their financial stability assessments, but estimating risks to the financial system more broadly remains a work in progress. This column summarises recent scenario-based analyses of the risks thatdecarbonisation poses to UK banks, insurers, and pension funds. Though no imminent threats to financial stability are observed, the authors believe an abrupt switch to an ambitious decarbonisation scenario could result in non-negligible losses, particularly in a ‘disorderly’ transition.]]></summary>
-        <author>
-            <name>Udaibir Das, Pierpaolo Grippa, Timo  Broszeit</name>
         </author>
     </entry>
     <entry>
