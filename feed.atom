@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-12T03:27:14.758Z</id>
+    <id>urn:2022-06-12T06:02:53.264Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-12T03:27:14.758Z</updated>
+    <updated>2022-06-12T06:02:53.264Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How demand shocks propagate through an input-output network]]></title>
-        <id>https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network</id>
-        <link href="https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network"/>
-        <updated>2022-06-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Previous studies report the propagation of shocks via supply chains from downstream, but little is known about the propagation from customers to suppliers driven by demand shocks. This column uses Japanese firm-level input-output data to fill this gap. The authors find that negative demand shocks only propagated from large exporters to larger suppliers during the global financial crisis, but were transmitted from small customers even to their small suppliers during the COVID-19 pandemic. Identifying the propagation route helps in the design of targeted policies.]]></summary>
+        <title type="html"><![CDATA[The foster care-to-prison pipeline]]></title>
+        <id>https://voxeu.org/article/foster-care-prison-pipeline</id>
+        <link href="https://voxeu.org/article/foster-care-prison-pipeline"/>
+        <updated>2022-06-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is a well-documented correlation between foster care and crime, but little evidence on the long-term consequences of placing a child into foster care or leaving them with their family. Using data from the state of Michigan, this column estimates the causal effect of foster care placement on adult crime. Foster care placement reduced later-in-life crime, especially for male children and younger children. Foster care protects children from subsequent abuse and neglect and improves school performance. Birth parents also make improvements while their children are temporarily in foster care.]]></summary>
         <author>
-            <name>Yoshiyuki Arata, Daisuke Miyakawa</name>
+            <name>Jason Baron, Max Gross</name>
         </author>
     </entry>
     <entry>
@@ -23,6 +23,16 @@
         <summary type="html"><![CDATA[As fertility rates have declined in high-income countries, the cross-country relationship between women’s labour supply and fertility has reversed. Today, in countries where more women are working, more babies are born. This column suggests that classic models of fertility no longer explain ultra-low fertility rates in high-income countries, where the compatibility of women’s career and family goals are now a key driver of fertility decisions. The authors highlight four factors that facilitate combining a career and childbirth: family policy, cooperative fathers, favourable social norms, and flexible labour markets.]]></summary>
         <author>
             <name>Matthias Doepke, Anne Hannusch, Fabian Kindermann, Michèle Tertilt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How demand shocks propagate through an input-output network]]></title>
+        <id>https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network</id>
+        <link href="https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network"/>
+        <updated>2022-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Previous studies report the propagation of shocks via supply chains from downstream, but little is known about the propagation from customers to suppliers driven by demand shocks. This column uses Japanese firm-level input-output data to fill this gap. The authors find that negative demand shocks only propagated from large exporters to larger suppliers during the global financial crisis, but were transmitted from small customers even to their small suppliers during the COVID-19 pandemic. Identifying the propagation route helps in the design of targeted policies.]]></summary>
+        <author>
+            <name>Yoshiyuki Arata, Daisuke Miyakawa</name>
         </author>
     </entry>
     <entry>
@@ -258,16 +268,6 @@ De-Fi와 NFT의 등장, 그리고 사람을 위한 기술
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning-by-doing and productivity growth among high-skilled workers]]></title>
-        <id>https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers</id>
-        <link href="https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers"/>
-        <updated>2022-06-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learning-by-doing is believed to be a major source of economic growth, human capital, and comparative advantage, but documenting learning curves has proven difficult since workers are usually not randomly assigned to tasks. This column explores learning-by-doing among Swedish cardiologists, who were quasi-randomly assigned to heart attack patients during night-time shifts. The results provide rare evidence on the existence of prolonged learning curves in a high-skilled task and support the notion that learning-by-doing can be a powerful engine for productivity growth.]]></summary>
-        <author>
-            <name>Petter Lundborg, Stefan James, Bo  Lagerqvist, Johan  Vikström</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Male and female voices in economics]]></title>
         <id>https://voxeu.org/vox-talks/male-and-female-voices-economics</id>
         <link href="https://voxeu.org/vox-talks/male-and-female-voices-economics"/>
@@ -277,6 +277,16 @@ Learn more about the research behind this Vox Talk and download the free DP:
 Sievertsen, H and Smith, S. 2022. 'Male and female voices in economics'. CEPR]]></summary>
         <author>
             <name>Sarah Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning-by-doing and productivity growth among high-skilled workers]]></title>
+        <id>https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers</id>
+        <link href="https://voxeu.org/article/learning-doing-and-productivity-growth-among-high-skilled-workers"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learning-by-doing is believed to be a major source of economic growth, human capital, and comparative advantage, but documenting learning curves has proven difficult since workers are usually not randomly assigned to tasks. This column explores learning-by-doing among Swedish cardiologists, who were quasi-randomly assigned to heart attack patients during night-time shifts. The results provide rare evidence on the existence of prolonged learning curves in a high-skilled task and support the notion that learning-by-doing can be a powerful engine for productivity growth.]]></summary>
+        <author>
+            <name>Petter Lundborg, Stefan James, Bo  Lagerqvist, Johan  Vikström</name>
         </author>
     </entry>
     <entry>
@@ -649,16 +659,6 @@ Sievertsen, H and Smith, S. 2022. 'Male and female voices in economics'. CEPR]]>
 국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sound and the Fury in Ukraine]]></title>
-        <id>https://voxeu.org/article/sound-and-fury-ukraine</id>
-        <link href="https://voxeu.org/article/sound-and-fury-ukraine"/>
-        <updated>2022-06-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The war in Ukraine is having immediate and stark humanitarian and economic impacts, yet its long-term consequences are challenging to predict. This column revisits the evidence on the long-term impact of conflict and presents preliminary evidence for the continued invasion of Ukraine by Russia. The after-effects of bombing campaigns and those of violence against civilians can be substantial and are typically, although not exclusively, damaging. The authors find a strong positive correlation between the presence of ethnic Russians historically and current conflict, as well as a negative relationship between modern conflict and Holodomor famine deaths, both within Ukraine.]]></summary>
-        <author>
-            <name>Ellen Munroe, Anastasiia Nosach, Juan Felipe  Riaño, Ana Tur-Prats, Felipe Valencia Caicedo</name>
         </author>
     </entry>
     <entry>
