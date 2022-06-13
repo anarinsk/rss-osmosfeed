@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-13T09:01:29.680Z</id>
+    <id>urn:2022-06-13T12:02:17.586Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-13T09:01:29.681Z</updated>
+    <updated>2022-06-13T12:02:17.586Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[For climate economics, preferences can and should be treated as endogenous]]></title>
-        <id>https://voxeu.org/article/climate-economics-preferences-can-and-should-be-treated-endogenous</id>
-        <link href="https://voxeu.org/article/climate-economics-preferences-can-and-should-be-treated-endogenous"/>
-        <updated>2022-06-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In economic analysis, preferences are usually assumed to be fixed. This column analyses the impacts of climate mitigation policies when preferences can change. It argues that carbon taxes can change climate preferences by affecting social norms and influencing preferences in social networks. Changes in preferences can increase the effectiveness of a carbon tax by 30%. Ultimately, the implementation of instruments complementary to pricing that affect preferences should be part of the toolkit used in formal economic analysis.]]></summary>
-        <author>
-            <name>Théo Konc, Linus Mattauch, Nicholas Stern</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Western sanctions on Russia are working, an energy embargo now is a costly distraction]]></title>
         <id>https://voxeu.org/article/western-sanctions-russia-are-working-energy-embargo-now-costly-distraction</id>
@@ -23,6 +13,16 @@
         <summary type="html"><![CDATA[The path to an EU embargo on Russian energy has now been agreed, but with an opt-out for Hungary. This column argues that Russia exporting one seventh of its national income to the rest of the world is weakening, not strengthening, its war effort. Rather than ‘paying for Putin’s war’, Russia’s exports are paying for the accumulation of idle balances of foreign currency. Sanctions are working, and we should not be distracted by worries about the distant financial implications of continuing to buy and pay for Russian energy for as long as we can.]]></summary>
         <author>
             <name>Mark Harrison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For climate economics, preferences can and should be treated as endogenous]]></title>
+        <id>https://voxeu.org/article/climate-economics-preferences-can-and-should-be-treated-endogenous</id>
+        <link href="https://voxeu.org/article/climate-economics-preferences-can-and-should-be-treated-endogenous"/>
+        <updated>2022-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In economic analysis, preferences are usually assumed to be fixed. This column analyses the impacts of climate mitigation policies when preferences can change. It argues that carbon taxes can change climate preferences by affecting social norms and influencing preferences in social networks. Changes in preferences can increase the effectiveness of a carbon tax by 38%. Ultimately, the implementation of instruments complementary to pricing that affect preferences should be part of the toolkit used in formal economic analysis.]]></summary>
+        <author>
+            <name>Théo Konc, Linus Mattauch, Nicholas Stern</name>
         </author>
     </entry>
     <entry>
@@ -36,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A new era in the economics of fertility]]></title>
-        <id>https://voxeu.org/article/new-era-economics-fertility</id>
-        <link href="https://voxeu.org/article/new-era-economics-fertility"/>
-        <updated>2022-06-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As fertility rates have declined in high-income countries, the cross-country relationship between women’s labour supply and fertility has reversed. Today, in countries where more women are working, more babies are born. This column suggests that classic models of fertility no longer explain ultra-low fertility rates in high-income countries, where the compatibility of women’s career and family goals are now a key driver of fertility decisions. The authors highlight four factors that facilitate combining a career and childbirth: family policy, cooperative fathers, favourable social norms, and flexible labour markets.]]></summary>
-        <author>
-            <name>Matthias Doepke, Anne Hannusch, Fabian Kindermann, Michèle Tertilt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How demand shocks propagate through an input-output network]]></title>
         <id>https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network</id>
         <link href="https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network"/>
@@ -53,6 +43,16 @@
         <summary type="html"><![CDATA[Previous studies report the propagation of shocks via supply chains from downstream, but little is known about the propagation from customers to suppliers driven by demand shocks. This column uses Japanese firm-level input-output data to fill this gap. The authors find that negative demand shocks only propagated from large exporters to larger suppliers during the global financial crisis, but were transmitted from small customers even to their small suppliers during the COVID-19 pandemic. Identifying the propagation route helps in the design of targeted policies.]]></summary>
         <author>
             <name>Yoshiyuki Arata, Daisuke Miyakawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new era in the economics of fertility]]></title>
+        <id>https://voxeu.org/article/new-era-economics-fertility</id>
+        <link href="https://voxeu.org/article/new-era-economics-fertility"/>
+        <updated>2022-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As fertility rates have declined in high-income countries, the cross-country relationship between women’s labour supply and fertility has reversed. Today, in countries where more women are working, more babies are born. This column suggests that classic models of fertility no longer explain ultra-low fertility rates in high-income countries, where the compatibility of women’s career and family goals are now a key driver of fertility decisions. The authors highlight four factors that facilitate combining a career and childbirth: family policy, cooperative fathers, favourable social norms, and flexible labour markets.]]></summary>
+        <author>
+            <name>Matthias Doepke, Anne Hannusch, Fabian Kindermann, Michèle Tertilt</name>
         </author>
     </entry>
     <entry>
