@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-13T12:02:17.586Z</id>
+    <id>urn:2022-06-13T15:01:57.116Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-13T12:02:17.586Z</updated>
+    <updated>2022-06-13T15:01:57.116Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The agricultural roots of economic growth]]></title>
+        <id>https://www.aeaweb.org/research/agricultural-diversity-long-run-development-us</id>
+        <link href="https://www.aeaweb.org/research/agricultural-diversity-long-run-development-us"/>
+        <updated>2022-06-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The diversity of agricultural production in America before the Second Industrial Revolution played a critical role in the country’s long-run development, according to a paper in the American Economic Journal: Macroeconomics.]]></summary>
+        <author>
+            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Western sanctions on Russia are working, an energy embargo now is a costly distraction]]></title>
         <id>https://voxeu.org/article/western-sanctions-russia-are-working-energy-embargo-now-costly-distraction</id>
