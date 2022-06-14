@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T15:02:05.343Z</id>
+    <id>urn:2022-06-14T18:02:04.886Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-14T15:02:05.343Z</updated>
+    <updated>2022-06-14T18:02:04.886Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Insights on distributive politics from a new way to measure aridity]]></title>
-        <id>https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity</id>
-        <link href="https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity"/>
-        <updated>2022-06-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Economic studies of drought episodes typically use rainfall as a proxy for water scarcity, yet this is likely to lead to an endogeneity problem due to the correlation of variables that affect water scarcity (such as temperature and soil moisture) with relevant economic choices (such as which crops to grow or where to settle). This column presents an index that overcomes endogeneity by combining precipitation and potential water loss from the soil. The index can be used to improve our understanding of distributive politics and, in particular, of how political bias affects the assignment of drought-motivated aid relief.]]></summary>
-        <author>
-            <name>Federico Boffa, Francisco Cavalcanti, Christian Fons-Rosen, Amedeo  Piolatto</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The sobering story of the website that attempted to bring unemployment down]]></title>
         <id>https://voxeu.org/article/sobering-story-website-attempted-bring-unemployment-down</id>
@@ -35,6 +25,16 @@ Read more about the research behind this video and download the free DP:
 Cejka, T and Waseem, M. 2022. 'Long-Run Impacts of In-Utero Ramadan Exposure: Evidence from Administrative Tax Records'. CEPR]]></summary>
         <author>
             <name>Mazhar Waseem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insights on distributive politics from a new way to measure aridity]]></title>
+        <id>https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity</id>
+        <link href="https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity"/>
+        <updated>2022-06-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Economic studies of drought episodes typically use rainfall as a proxy for water scarcity, yet this is likely to lead to an endogeneity problem due to the correlation of variables that affect water scarcity (such as temperature and soil moisture) with relevant economic choices (such as which crops to grow or where to settle). This column presents an index that overcomes endogeneity by combining precipitation and potential water loss from the soil. The index can be used to improve our understanding of distributive politics and, in particular, of how political bias affects the assignment of drought-motivated aid relief.]]></summary>
+        <author>
+            <name>Federico Boffa, Francisco Cavalcanti, Christian Fons-Rosen, Amedeo  Piolatto</name>
         </author>
     </entry>
     <entry>
@@ -2956,106 +2956,6 @@ Scanner 클래스, String 클래스]
         <summary type="html"><![CDATA[A school-based program had lasting impacts on the gender attitudes of adolescents in India, providing optimism for changing regressive ideas that restrict women’s freedom, according to a paper in the American Economic Review.]]></summary>
         <author>
             <name>Chris Fleisher (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑똑한 코드 작성을 위한 실전 알고리즘/조지 하이네만 지음, 윤대석 옮김/한빛미디어]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294848641</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=294848641"/>
-        <updated>2022-05-16T03:18:00.000Z</updated>
-        <summary type="html"><![CDATA[똑똑한 코드 작성을 위한 실전 알고리즘
-조지 하이네만 지음, 윤대석 옮김 / 한빛미디어 / 2022년 05월 / ISBN:9791162245644
-정가: 19,800원 / 판매가: 17,820원 / 마일리지: 990원
-이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치
-
-
-
-
-소프트웨어 개발에서 가장 많이 활용되는 핵심 알고리즘을 각각 언제, 어떻게 사용하면 좋은지 단계별로 상세히 알려준다. 알고리즘 진행 과정을 시각화한 그림과 함께 예제 코드를 한 줄씩 알기 쉽게 설명하며, 성능을 직접 측정해볼 수 있도록 실행 가능한 코드를 제공한다. 장마다 수록한 연습 문제는 문제 해결 능력을 향상해 코딩 인터뷰를 준비하는 데도 도움이 된다.
-
-전문 개발자뿐 아니라 자신의 연구 분야에 알고리즘을 적용하려는 사람 모두에게 유용하다. 컴퓨터 과학에 관한 배경지식이 없어도 프로그래밍 언어를 다뤄본 경험이 있으면 충분하다. 예제 설명과 샘플 코드는 직관적이고 접근성이 높은 파이썬으로 작성되었다. 다양한 문제에 대한 접근 방식과 풀이법을 살펴보면서 알고리즘의 원리부터 응용 방법까지 확실하게 익혀보자.
-
-CHAPTER 1 문제 해결
-1.1 알고리즘이란
-1.2 리스트에서 가장 큰 값 찾기
-1.3 주요 연산 횟수 계산하기
-1.4 모델로 알고리즘 성능 예측하기
-1.5 리스트에서 가장 큰 두 수 찾기
-1.6 토너먼트 알고리즘
-1.7 시간 복잡도와 공간 복잡도
-1.8 요약
-1.9 연습 문제
-
-CHAPTER 2 알고리즘 분석
-2.1 경험적 모델로 성능 예측하기
-2.2 곱셈 성능 예측하기
-2.3 성능 클래스
-2.4 점근적 분석
-2.5 모든 수행 계산하기
-2.6 모든 바이트 계산하기
-2.7 이진 배열 탐색
-2.8 이진 배열 탐색으로 리스트에서 값 찾기
-2.9 이진 배열 탐색의 또 다른 기능
-2.10 알고리즘 성능 비교
-2.11 곡선 피팅 vs. 상/하한
-2.12 요약
-2.13 연습 문제
-
-CHAPTER 3 해싱
-3.1 키와 연관된 값
-3.2 해시 함수와 해시 코드
-3.3 (키, 값) 쌍에 대한 해시 테이블 구조
-3.4 선형 조사로 충돌 검출 및 해결하기
-3.5 연결 리스트를 사용한 분리 연쇄법
-3.6 연결 리스트에서 엔트리 삭제하기
-3.7 개방 주소법과 분리 연쇄법 평가하기
-3.8 동적 해시 테이블
-3.9 동적 해시 테이블 성능 분석하기
-3.10 완벽한 해싱
-3.11 (키, 값) 쌍 순회하기
-3.12 요약
-3.13 연습 문제
-
-CHAPTER 4 힙
-4.1 최대 이진 힙
-4.2 (값, 우선순위) 삽입하기
-4.3 우선순위가 가장 높은 값 제거하기
-4.4 배열로 이진 힙 구성하기
-4.5 엔트리 이동의 구현
-4.6 요약
-4.7 연습 문제
-
-CHAPTER 5 정렬
-5.1 교환을 통한 정렬
-5.2 선택 정렬
-5.3 성능이 O(N2)인 정렬 알고리즘의 구조
-5.4 삽입 정렬과 선택 정렬의 성능
-5.5 재귀와 분할 정복
-5.6 병합 정렬
-5.7 퀵 정렬
-5.8 힙 정렬
-5.9 O(NlogN) 알고리즘의 성능 비교하기
-5.10 팀 정렬
-5.11 요약
-5.12 연습 문제
-
-CHAPTER 6 이진 트리
-6.1 시작하기
-6.2 이진 탐색 트리
-6.3 이진 탐색 트리에서 값 탐색하기
-6.4 이진 탐색 트리에서 값 제거하기
-6.5 이진 탐색 트리 순회하기
-6.6 이진 탐색 트리 성능 분석하기
-6.7 자가 균형 이진 트리
-6.8 자가 균형 이진 트리 성능 분석하기
-6.9 이진 탐...
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
-국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
-국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 알고리즘]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
 </feed>

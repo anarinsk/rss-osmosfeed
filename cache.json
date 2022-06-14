@@ -391,16 +391,6 @@
           "wordCount": null,
           "title": "자바 객체지향 프로그래밍 입문 2/e/음두헌 지음/에이콘출판",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=294848641",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "똑똑한 코드 작성을 위한 실전 알고리즘\n조지 하이네만 지음, 윤대석 옮김 / 한빛미디어 / 2022년 05월 / ISBN:9791162245644\n정가: 19,800원 / 판매가: 17,820원 / 마일리지: 990원\n이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치\n\n\n\n\n소프트웨어 개발에서 가장 많이 활용되는 핵심 알고리즘을 각각 언제, 어떻게 사용하면 좋은지 단계별로 상세히 알려준다. 알고리즘 진행 과정을 시각화한 그림과 함께 예제 코드를 한 줄씩 알기 쉽게 설명하며, 성능을 직접 측정해볼 수 있도록 실행 가능한 코드를 제공한다. 장마다 수록한 연습 문제는 문제 해결 능력을 향상해 코딩 인터뷰를 준비하는 데도 도움이 된다.\r\n\r\n전문 개발자뿐 아니라 자신의 연구 분야에 알고리즘을 적용하려는 사람 모두에게 유용하다. 컴퓨터 과학에 관한 배경지식이 없어도 프로그래밍 언어를 다뤄본 경험이 있으면 충분하다. 예제 설명과 샘플 코드는 직관적이고 접근성이 높은 파이썬으로 작성되었다. 다양한 문제에 대한 접근 방식과 풀이법을 살펴보면서 알고리즘의 원리부터 응용 방법까지 확실하게 익혀보자.\n\nCHAPTER 1 문제 해결\r\n1.1 알고리즘이란\r\n1.2 리스트에서 가장 큰 값 찾기\r\n1.3 주요 연산 횟수 계산하기\r\n1.4 모델로 알고리즘 성능 예측하기\r\n1.5 리스트에서 가장 큰 두 수 찾기\r\n1.6 토너먼트 알고리즘\r\n1.7 시간 복잡도와 공간 복잡도\r\n1.8 요약\r\n1.9 연습 문제\r\n\r\nCHAPTER 2 알고리즘 분석\r\n2.1 경험적 모델로 성능 예측하기\r\n2.2 곱셈 성능 예측하기\r\n2.3 성능 클래스\r\n2.4 점근적 분석\r\n2.5 모든 수행 계산하기\r\n2.6 모든 바이트 계산하기\r\n2.7 이진 배열 탐색\r\n2.8 이진 배열 탐색으로 리스트에서 값 찾기\r\n2.9 이진 배열 탐색의 또 다른 기능\r\n2.10 알고리즘 성능 비교\r\n2.11 곡선 피팅 vs. 상/하한\r\n2.12 요약\r\n2.13 연습 문제\r\n\r\nCHAPTER 3 해싱\r\n3.1 키와 연관된 값\r\n3.2 해시 함수와 해시 코드\r\n3.3 (키, 값) 쌍에 대한 해시 테이블 구조\r\n3.4 선형 조사로 충돌 검출 및 해결하기\r\n3.5 연결 리스트를 사용한 분리 연쇄법\r\n3.6 연결 리스트에서 엔트리 삭제하기\r\n3.7 개방 주소법과 분리 연쇄법 평가하기\r\n3.8 동적 해시 테이블\r\n3.9 동적 해시 테이블 성능 분석하기\r\n3.10 완벽한 해싱\r\n3.11 (키, 값) 쌍 순회하기\r\n3.12 요약\r\n3.13 연습 문제\r\n\r\nCHAPTER 4 힙\r\n4.1 최대 이진 힙\r\n4.2 (값, 우선순위) 삽입하기\r\n4.3 우선순위가 가장 높은 값 제거하기\r\n4.4 배열로 이진 힙 구성하기\r\n4.5 엔트리 이동의 구현\r\n4.6 요약\r\n4.7 연습 문제\r\n\r\nCHAPTER 5 정렬\r\n5.1 교환을 통한 정렬\r\n5.2 선택 정렬\r\n5.3 성능이 O(N2)인 정렬 알고리즘의 구조\r\n5.4 삽입 정렬과 선택 정렬의 성능\r\n5.5 재귀와 분할 정복\r\n5.6 병합 정렬\r\n5.7 퀵 정렬\r\n5.8 힙 정렬\r\n5.9 O(NlogN) 알고리즘의 성능 비교하기\r\n5.10 팀 정렬\r\n5.11 요약\r\n5.12 연습 문제\r\n\r\nCHAPTER 6 이진 트리\r\n6.1 시작하기\r\n6.2 이진 탐색 트리\r\n6.3 이진 탐색 트리에서 값 탐색하기\r\n6.4 이진 탐색 트리에서 값 제거하기\r\n6.5 이진 탐색 트리 순회하기\r\n6.6 이진 탐색 트리 성능 분석하기\r\n6.7 자가 균형 이진 트리\r\n6.8 자가 균형 이진 트리 성능 분석하기\r\n6.9 이진 탐...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 알고리즘",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=294848641",
-          "publishedOn": "2022-05-16T03:18:00.000Z",
-          "wordCount": null,
-          "title": "똑똑한 코드 작성을 위한 실전 알고리즘/조지 하이네만 지음, 윤대석 옮김/한빛미디어",
-          "imageUrl": null
         }
       ]
     },
@@ -415,16 +405,6 @@
       "feedUrl": "https://voxeu.org/rss.xml",
       "siteUrl": "https://voxeu.org/",
       "articles": [
-        {
-          "id": "https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity",
-          "author": "Federico Boffa, Francisco Cavalcanti, Christian Fons-Rosen, Amedeo  Piolatto",
-          "description": "Economic studies of drought episodes typically use rainfall as a proxy for water scarcity, yet this is likely to lead to an endogeneity problem due to the correlation of variables that affect water scarcity (such as temperature and soil moisture) with relevant economic choices (such as which crops to grow or where to settle). This column presents an index that overcomes endogeneity by combining precipitation and potential water loss from the soil. The index can be used to improve our understanding of distributive politics and, in particular, of how political bias affects the assignment of drought-motivated aid relief.",
-          "link": "https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity",
-          "publishedOn": "2022-06-14T00:00:00.000Z",
-          "wordCount": 2733,
-          "title": "Insights on distributive politics from a new way to measure aridity",
-          "imageUrl": null
-        },
         {
           "id": "https://voxeu.org/article/sobering-story-website-attempted-bring-unemployment-down",
           "author": "Aïcha Ben Dhia, Bruno Crépon, Esther Mbih, Louise Paul-Delvaux,  Bertille Picard, Vincent Pons, Vestal McIntyre",
@@ -441,8 +421,18 @@
           "description": "During Ramadan, observant Muslims do not eat or drink from sunrise to sunset. If pregnant women observe this ritual, might there be an effect on their child’s future prospects?\nRead more about the research behind this video and download the free DP:\nCejka, T and Waseem, M. 2022. 'Long-Run Impacts of In-Utero Ramadan Exposure: Evidence from Administrative Tax Records'. CEPR",
           "link": "https://voxeu.org/content/utero-effects-ramadan-fasting-estimating-long-term-outcomes",
           "publishedOn": "2022-06-14T00:00:00.000Z",
-          "wordCount": 556,
+          "wordCount": null,
           "title": "In-utero effects of Ramadan fasting. Estimating the long-term outcomes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity",
+          "author": "Federico Boffa, Francisco Cavalcanti, Christian Fons-Rosen, Amedeo  Piolatto",
+          "description": "Economic studies of drought episodes typically use rainfall as a proxy for water scarcity, yet this is likely to lead to an endogeneity problem due to the correlation of variables that affect water scarcity (such as temperature and soil moisture) with relevant economic choices (such as which crops to grow or where to settle). This column presents an index that overcomes endogeneity by combining precipitation and potential water loss from the soil. The index can be used to improve our understanding of distributive politics and, in particular, of how political bias affects the assignment of drought-motivated aid relief.",
+          "link": "https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity",
+          "publishedOn": "2022-06-14T00:00:00.000Z",
+          "wordCount": 2733,
+          "title": "Insights on distributive politics from a new way to measure aridity",
           "imageUrl": null
         },
         {
