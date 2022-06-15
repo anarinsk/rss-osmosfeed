@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-15T09:02:06.376Z</id>
+    <id>urn:2022-06-15T12:01:54.034Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-15T09:02:06.376Z</updated>
+    <updated>2022-06-15T12:01:54.034Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,16 +26,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Insights on distributive politics from a new way to measure aridity]]></title>
-        <id>https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity</id>
-        <link href="https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity"/>
-        <updated>2022-06-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Economic studies of drought episodes typically use rainfall as a proxy for water scarcity, yet this is likely to lead to an endogeneity problem due to the correlation of variables that affect water scarcity (such as temperature and soil moisture) with relevant economic choices (such as which crops to grow or where to settle). This column presents an index that overcomes endogeneity by combining precipitation and potential water loss from the soil. The index can be used to improve our understanding of distributive politics and, in particular, of how political bias affects the assignment of drought-motivated aid relief.]]></summary>
-        <author>
-            <name>Federico Boffa, Francisco Cavalcanti, Christian Fons-Rosen, Amedeo  Piolatto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The sobering story of the website that attempted to bring unemployment down]]></title>
         <id>https://voxeu.org/article/sobering-story-website-attempted-bring-unemployment-down</id>
         <link href="https://voxeu.org/article/sobering-story-website-attempted-bring-unemployment-down"/>
@@ -55,6 +45,16 @@ Read more about the research behind this video and download the free DP:
 Cejka, T and Waseem, M. 2022. 'Long-Run Impacts of In-Utero Ramadan Exposure: Evidence from Administrative Tax Records'. CEPR]]></summary>
         <author>
             <name>Mazhar Waseem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insights on distributive politics from a new way to measure aridity]]></title>
+        <id>https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity</id>
+        <link href="https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity"/>
+        <updated>2022-06-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Economic studies of drought episodes typically use rainfall as a proxy for water scarcity, yet this is likely to lead to an endogeneity problem due to the correlation of variables that affect water scarcity (such as temperature and soil moisture) with relevant economic choices (such as which crops to grow or where to settle). This column presents an index that overcomes endogeneity by combining precipitation and potential water loss from the soil. The index can be used to improve our understanding of distributive politics and, in particular, of how political bias affects the assignment of drought-motivated aid relief.]]></summary>
+        <author>
+            <name>Federico Boffa, Francisco Cavalcanti, Christian Fons-Rosen, Amedeo  Piolatto</name>
         </author>
     </entry>
     <entry>
@@ -191,16 +191,6 @@ __4.8 여전히 잘못된 데이터를 가진 ...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How demand shocks propagate through an input-output network]]></title>
-        <id>https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network</id>
-        <link href="https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network"/>
-        <updated>2022-06-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Previous studies report the propagation of shocks via supply chains from downstream, but little is known about the propagation from customers to suppliers driven by demand shocks. This column uses Japanese firm-level input-output data to fill this gap. The authors find that negative demand shocks only propagated from large exporters to larger suppliers during the global financial crisis, but were transmitted from small customers even to their small suppliers during the COVID-19 pandemic. Identifying the propagation route helps in the design of targeted policies.]]></summary>
-        <author>
-            <name>Yoshiyuki Arata, Daisuke Miyakawa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A new era in the economics of fertility]]></title>
         <id>https://voxeu.org/article/new-era-economics-fertility</id>
         <link href="https://voxeu.org/article/new-era-economics-fertility"/>
@@ -208,6 +198,16 @@ __4.8 여전히 잘못된 데이터를 가진 ...
         <summary type="html"><![CDATA[As fertility rates have declined in high-income countries, the cross-country relationship between women’s labour supply and fertility has reversed. Today, in countries where more women are working, more babies are born. This column suggests that classic models of fertility no longer explain ultra-low fertility rates in high-income countries, where the compatibility of women’s career and family goals are now a key driver of fertility decisions. The authors highlight four factors that facilitate combining a career and childbirth: family policy, cooperative fathers, favourable social norms, and flexible labour markets.]]></summary>
         <author>
             <name>Matthias Doepke, Anne Hannusch, Fabian Kindermann, Michèle Tertilt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How demand shocks propagate through an input-output network]]></title>
+        <id>https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network</id>
+        <link href="https://voxeu.org/article/how-demand-shocks-propagate-through-input-output-network"/>
+        <updated>2022-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Previous studies report the propagation of shocks via supply chains from downstream, but little is known about the propagation from customers to suppliers driven by demand shocks. This column uses Japanese firm-level input-output data to fill this gap. The authors find that negative demand shocks only propagated from large exporters to larger suppliers during the global financial crisis, but were transmitted from small customers even to their small suppliers during the COVID-19 pandemic. Identifying the propagation route helps in the design of targeted policies.]]></summary>
+        <author>
+            <name>Yoshiyuki Arata, Daisuke Miyakawa</name>
         </author>
     </entry>
     <entry>
