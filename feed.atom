@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T09:01:56.721Z</id>
+    <id>urn:2022-06-16T12:02:12.655Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-16T09:01:56.721Z</updated>
+    <updated>2022-06-16T12:02:12.655Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,16 +26,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Women in early modern academia: A Catholic phenomenon]]></title>
-        <id>https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon</id>
-        <link href="https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Academia has seen remarkable progress in gender equality over the last 50 years, but has yet to achieve parity – particularly in economics and STEM disciplines. This column documents the participation of women in European academia from the first universities to the eve of the Industrial Revolution, with unexpected results. Of the 108 women who taught at universities or belonged to academies, most were in Catholic southern Europe, challenging the idea that Protestantism was more liberal than Catholicism, at least where the participation of women in upper-tail human capital was concerned.]]></summary>
-        <author>
-            <name>David de la Croix, Mara Vitale</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Revisiting the anticompetitive effects of common ownership]]></title>
         <id>https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership</id>
         <link href="https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership"/>
@@ -43,6 +33,16 @@
         <summary type="html"><![CDATA[The rise of common ownership of publicly traded companies has important implications for competition in product markets. This column argues that it is important to distinguish inter-industry from intra-industry effects of common ownership. Using data from the airline industry, it shows that intra-industry common ownership is positively associated with prices, while inter-industry common ownership is negatively associated with prices. Antitrust regulation should take into account the procompetitive inter-industry effects of common ownership.]]></summary>
         <author>
             <name>José Azar, Xavier Vives</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Women in early modern academia: A Catholic phenomenon]]></title>
+        <id>https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon</id>
+        <link href="https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon"/>
+        <updated>2022-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Academia has seen remarkable progress in gender equality over the last 50 years, but has yet to achieve parity – particularly in economics and STEM disciplines. This column documents the participation of women in European academia from the first universities to the eve of the Industrial Revolution, with unexpected results. Of the 108 women who taught at universities or belonged to academies, most were in Catholic southern Europe, challenging the idea that Protestantism was more liberal than Catholicism, at least where the participation of women in upper-tail human capital was concerned.]]></summary>
+        <author>
+            <name>David de la Croix, Mara Vitale</name>
         </author>
     </entry>
     <entry>
@@ -746,16 +746,6 @@ __4.8 여전히 잘못된 데이터를 가진 ...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[For climate economics, preferences can and should be treated as endogenous]]></title>
-        <id>https://voxeu.org/article/climate-economics-preferences-can-and-should-be-treated-endogenous</id>
-        <link href="https://voxeu.org/article/climate-economics-preferences-can-and-should-be-treated-endogenous"/>
-        <updated>2022-06-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In economic analysis, preferences are usually assumed to be fixed. This column analyses the impacts of climate mitigation policies when preferences can change. It argues that carbon taxes can change climate preferences by affecting social norms and influencing preferences in social networks. Changes in preferences can increase the effectiveness of a carbon tax by 38%. Ultimately, the implementation of instruments complementary to pricing that affect preferences should be part of the toolkit used in formal economic analysis.]]></summary>
-        <author>
-            <name>Théo Konc, Linus Mattauch, Nicholas Stern</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Western sanctions on Russia are working, an energy embargo now is a costly distraction]]></title>
         <id>https://voxeu.org/article/western-sanctions-russia-are-working-energy-embargo-now-costly-distraction</id>
         <link href="https://voxeu.org/article/western-sanctions-russia-are-working-energy-embargo-now-costly-distraction"/>
@@ -763,6 +753,16 @@ __4.8 여전히 잘못된 데이터를 가진 ...
         <summary type="html"><![CDATA[The path to an EU embargo on Russian energy has now been agreed, but with an opt-out for Hungary. This column argues that Russia exporting one seventh of its national income to the rest of the world is weakening, not strengthening, its war effort. Rather than ‘paying for Putin’s war’, Russia’s exports are paying for the accumulation of idle balances of foreign currency. Sanctions are working, and we should not be distracted by worries about the distant financial implications of continuing to buy and pay for Russian energy for as long as we can.]]></summary>
         <author>
             <name>Mark Harrison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For climate economics, preferences can and should be treated as endogenous]]></title>
+        <id>https://voxeu.org/article/climate-economics-preferences-can-and-should-be-treated-endogenous</id>
+        <link href="https://voxeu.org/article/climate-economics-preferences-can-and-should-be-treated-endogenous"/>
+        <updated>2022-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In economic analysis, preferences are usually assumed to be fixed. This column analyses the impacts of climate mitigation policies when preferences can change. It argues that carbon taxes can change climate preferences by affecting social norms and influencing preferences in social networks. Changes in preferences can increase the effectiveness of a carbon tax by 38%. Ultimately, the implementation of instruments complementary to pricing that affect preferences should be part of the toolkit used in formal economic analysis.]]></summary>
+        <author>
+            <name>Théo Konc, Linus Mattauch, Nicholas Stern</name>
         </author>
     </entry>
     <entry>
