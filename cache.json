@@ -391,16 +391,6 @@
           "wordCount": null,
           "title": "실전 파이썬 핸즈온 프로젝트/리 본 지음, 오현석 옮김/책만",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=295028512",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "Do it! 공공데이터로 배우는 R 데이터 분석 with 샤이니\n김철민 지음 / 이지스퍼블리싱 / 2022년 05월 / ISBN:9791163033639\n정가: 18,000원 / 판매가: 16,200원 / 마일리지: 900원\n이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치\n\n\n\n\n데이터를 분석하는 전체 과정으로 R을 배운다. 실제 공모전이나 국책 사업에 선정된 수준 높은 프로젝트를 기반으로 학습하여 데이터 분석 실무를 체험해 볼 수 있다. 특히 아파트 실거래 분석 과정은 공공데이터포털(data.go.kr)에서 데이터를 자동으로 수집하는 방법부터 전처리, 분석, 시각화를 거쳐 애플리케이션으로 만들어 배포하기까지 전 과정을 자세하게 담았다. \r\n\r\nR만으로 웹 애플리케이션을 만들 수 있는 샤이니(Shiny) 패키지 사용법도 자세하게 다룬다. 또한 지역별, 요인별 아파트 가격의 상관관계, 한반도 지진 발생, 커피 전문점 접근성, 최적의 버스노선 제시 등 일상생활과 밀접한 분석 주제도 포함하였다.\n\n=======================\r\n01 데이터 분석가로 성장하기\r\n=======================\r\n01-1 경쟁력 있는 데이터 분석가 되기\r\n01-2 데이터 분석 환경 만들기\r\n01-3 R 스크립트 실행해 보기\r\n01-4 프로젝트 수행 과정 훑어보기\r\n\r\n==========================\r\n02 자료 수집 전에 알아야 할 내용\r\n==========================\r\n\r\n02-1 자료는 어디서 구할까?\r\n02-2 API 인증키 얻기\r\n02-3 API에 자료 요청하기\r\n02-4 API 응답 확인하기\r\n\r\n=========================\r\n03 자료 수집: API 크롤러 만들기\r\n=========================\r\n03-1 크롤링 준비: 무엇을 준비할까?\r\n03-2 요청 목록 생성: 자료를 어떻게 요청할까?\r\n03-3 크롤러 제작: 자동으로 자료 수집하기\r\n03-4 자료 정리: 자료 통합하기\r\n\r\n=====================\r\n04 전처리: 데이터를 알맞게\r\n=====================\r\n04-1 불필요한 정보 지우기\r\n04-2 항목별 데이터 다듬기\r\n04-3 전처리 데이터 저장하기\r\n\r\n==========================\r\n05 카카오맵 API로 지오 코딩하기\r\n==========================\r\n05-1 지오 코딩 준비하기\r\n05-2 주소를 좌표로 변환하는 지오 코딩\r\n\r\n=======================\r\n06 지오 데이터 프레임 만들기\r\n=======================\r\n06-1 좌표계와 지오 데이터 포맷\r\n06-2 주소와 좌표 결합하기\r\n06-3 지오 데이터프레임 만들기\r\n\r\n==========================\r\n07 분석 주제를 지도로 시각화하기\r\n==========================\r\n07-1 어느 지역이 제일 비쌀까?\r\n07-2 요즘 뜨는 지역은 어디일까?\r\n07-3 우리 동네가 옆 동네보다 비쌀까?\r\n\r\n=================\r\n08 통계 분석과 시각화\r\n=================\r\n08-1 관심 지역 데이터만 추출하기\r\n08-2 확률 밀도 함수: 이 지역 아파트는 비싼 편일까?\r\n08-3 회귀 분석: 이 지역은 일년에 얼마나 오를까?\r\n08-4 주성분 분석: 이 동네 단지별 특징은 무엇일까?\r\n\r\n===============\r\n09 샤이니 입문하기\r\n===============\r\n09-1 처음 만나는 샤이니\r\n09-2 입력과 출력하기\r\n09-3 반응형 웹 애플리케이션 만들기\r\n09-4 레이아웃 정의...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 데이터베이스 프로그래밍 > 데이터베이스 구축\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 네트워크/데이터 통신\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타\n국내도서 > 수험서/자격증 > 민간자격 > 데이터분석",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=295028512",
-          "publishedOn": "2022-05-19T02:38:00.000Z",
-          "wordCount": null,
-          "title": "Do it! 공공데이터로 배우는 R 데이터 분석 with 샤이니/김철민 지음/이지스퍼블리싱",
-          "imageUrl": null
         }
       ]
     },
@@ -421,7 +411,7 @@
           "description": "Recorded live at CEPR Paris Symposium 2022: Thomas Piketty’s short new book promises A brief history of equality. He tells Tim Phillips about why institutions are precarious, why policymakers should consider the consequences for inequality before they intervene – but also why we should be optimistic about the long-term trends in equality.",
           "link": "https://voxeu.org/vox-talks/piketty-equality",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": 540,
+          "wordCount": null,
           "title": "Piketty on equality",
           "imageUrl": null
         },
@@ -451,7 +441,7 @@
           "description": "Responsible investing has become an increasingly popular practice, with the blanket exclusion of ‘brown’ industries – such as tobacco, gambling, and fossil fuels – widely regarded as its purest form. This column suggests that in some cases, ‘tilting’ (leaning away from a brown sector but keeping an industry leader) is a more effective strategy than shunning the industry outright. Though exclusion may work best for such industries as controversial weapons, tilting is preferable for an industry, such as fossil fuels, in which managers can be pressured to take corrective action.",
           "link": "https://voxeu.org/article/socially-responsible-divestment",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": 2437,
+          "wordCount": null,
           "title": "Socially responsible divestment",
           "imageUrl": null
         },
@@ -476,16 +466,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon",
-          "author": "David de la Croix, Mara Vitale",
-          "description": "Academia has seen remarkable progress in gender equality over the last 50 years, but has yet to achieve parity – particularly in economics and STEM disciplines. This column documents the participation of women in European academia from the first universities to the eve of the Industrial Revolution, with unexpected results. Of the 108 women who taught at universities or belonged to academies, most were in Catholic southern Europe, challenging the idea that Protestantism was more liberal than Catholicism, at least where the participation of women in upper-tail human capital was concerned.",
-          "link": "https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon",
-          "publishedOn": "2022-06-15T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Women in early modern academia: A Catholic phenomenon",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership",
           "author": "José Azar, Xavier Vives",
           "description": "The rise of common ownership of publicly traded companies has important implications for competition in product markets. This column argues that it is important to distinguish inter-industry from intra-industry effects of common ownership. Using data from the airline industry, it shows that intra-industry common ownership is positively associated with prices, while inter-industry common ownership is negatively associated with prices. Antitrust regulation should take into account the procompetitive inter-industry effects of common ownership.",
@@ -493,6 +473,16 @@
           "publishedOn": "2022-06-15T00:00:00.000Z",
           "wordCount": null,
           "title": "Revisiting the anticompetitive effects of common ownership",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon",
+          "author": "David de la Croix, Mara Vitale",
+          "description": "Academia has seen remarkable progress in gender equality over the last 50 years, but has yet to achieve parity – particularly in economics and STEM disciplines. This column documents the participation of women in European academia from the first universities to the eve of the Industrial Revolution, with unexpected results. Of the 108 women who taught at universities or belonged to academies, most were in Catholic southern Europe, challenging the idea that Protestantism was more liberal than Catholicism, at least where the participation of women in upper-tail human capital was concerned.",
+          "link": "https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon",
+          "publishedOn": "2022-06-15T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Women in early modern academia: A Catholic phenomenon",
           "imageUrl": null
         },
         {
