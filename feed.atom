@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T09:01:58.313Z</id>
+    <id>urn:2022-06-17T12:02:08.598Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-17T09:01:58.313Z</updated>
+    <updated>2022-06-17T12:02:08.598Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Piketty on equality]]></title>
+        <id>https://voxeu.org/vox-talks/piketty-equality</id>
+        <link href="https://voxeu.org/vox-talks/piketty-equality"/>
+        <updated>2022-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022: Thomas Piketty’s short new book promises A brief history of equality. He tells Tim Phillips about why institutions are precarious, why policymakers should consider the consequences for inequality before they intervene – but also why we should be optimistic about the long-term trends in equality.]]></summary>
+        <author>
+            <name>Thomas Piketty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Searching for ‘optimal’ sanctions on Russia]]></title>
         <id>https://voxeu.org/article/searching-optimal-sanctions-russia</id>
@@ -369,16 +379,6 @@ Part 03 아두이노를 활용한 제어
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revisiting the anticompetitive effects of common ownership]]></title>
-        <id>https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership</id>
-        <link href="https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The rise of common ownership of publicly traded companies has important implications for competition in product markets. This column argues that it is important to distinguish inter-industry from intra-industry effects of common ownership. Using data from the airline industry, it shows that intra-industry common ownership is positively associated with prices, while inter-industry common ownership is negatively associated with prices. Antitrust regulation should take into account the procompetitive inter-industry effects of common ownership.]]></summary>
-        <author>
-            <name>José Azar, Xavier Vives</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Women in early modern academia: A Catholic phenomenon]]></title>
         <id>https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon</id>
         <link href="https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon"/>
@@ -386,6 +386,16 @@ Part 03 아두이노를 활용한 제어
         <summary type="html"><![CDATA[Academia has seen remarkable progress in gender equality over the last 50 years, but has yet to achieve parity – particularly in economics and STEM disciplines. This column documents the participation of women in European academia from the first universities to the eve of the Industrial Revolution, with unexpected results. Of the 108 women who taught at universities or belonged to academies, most were in Catholic southern Europe, challenging the idea that Protestantism was more liberal than Catholicism, at least where the participation of women in upper-tail human capital was concerned.]]></summary>
         <author>
             <name>David de la Croix, Mara Vitale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revisiting the anticompetitive effects of common ownership]]></title>
+        <id>https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership</id>
+        <link href="https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership"/>
+        <updated>2022-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The rise of common ownership of publicly traded companies has important implications for competition in product markets. This column argues that it is important to distinguish inter-industry from intra-industry effects of common ownership. Using data from the airline industry, it shows that intra-industry common ownership is positively associated with prices, while inter-industry common ownership is negatively associated with prices. Antitrust regulation should take into account the procompetitive inter-industry effects of common ownership.]]></summary>
+        <author>
+            <name>José Azar, Xavier Vives</name>
         </author>
     </entry>
     <entry>
@@ -1092,16 +1102,6 @@ Read more about the research behind this video and download the free DP:
 Cejka, T and Waseem, M. 2022. 'Long-Run Impacts of In-Utero Ramadan Exposure: Evidence from Administrative Tax Records'. CEPR]]></summary>
         <author>
             <name>Mazhar Waseem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insights on distributive politics from a new way to measure aridity]]></title>
-        <id>https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity</id>
-        <link href="https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity"/>
-        <updated>2022-06-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Economic studies of drought episodes typically use rainfall as a proxy for water scarcity, yet this is likely to lead to an endogeneity problem due to the correlation of variables that affect water scarcity (such as temperature and soil moisture) with relevant economic choices (such as which crops to grow or where to settle). This column presents an index that overcomes endogeneity by combining precipitation and potential water loss from the soil. The index can be used to improve our understanding of distributive politics and, in particular, of how political bias affects the assignment of drought-motivated aid relief.]]></summary>
-        <author>
-            <name>Federico Boffa, Francisco Cavalcanti, Christian Fons-Rosen, Amedeo  Piolatto</name>
         </author>
     </entry>
     <entry>
