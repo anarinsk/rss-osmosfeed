@@ -456,23 +456,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/socially-responsible-divestment",
-          "author": "Alex Edmans, Doron Levit, Jan  Schneemeier",
-          "description": "Responsible investing has become an increasingly popular practice, with the blanket exclusion of ‘brown’ industries – such as tobacco, gambling, and fossil fuels – widely regarded as its purest form. This column suggests that in some cases, ‘tilting’ (leaning away from a brown sector but keeping an industry leader) is a more effective strategy than shunning the industry outright. Though exclusion may work best for such industries as controversial weapons, tilting is preferable for an industry, such as fossil fuels, in which managers can be pressured to take corrective action.",
-          "link": "https://voxeu.org/article/socially-responsible-divestment",
-          "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Socially responsible divestment",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/why-climate-change-relevant-monetary-policy",
           "author": "Lena  Boneva, Gianluigi  Ferrucci, Francesco Paolo Mongelli",
           "description": "While the implications of climate change for financial stability and prudential supervision are widely recognised, those for monetary policy have received less attention until recently. This column, the first in a two-part series, reviews the key mechanisms through which climate change influences monetary policy. Climate change impacts the objective, conduct, and transmission of monetary policy and could bear implications for the design of the monetary policy framework. To ensure price stability, central banks have a clear interest, in some cases an obligation, to incorporate climate change considerations into their policymaking.",
           "link": "https://voxeu.org/article/why-climate-change-relevant-monetary-policy",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2475,
           "title": "Why climate change is relevant for monetary policy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/socially-responsible-divestment",
+          "author": "Alex Edmans, Doron Levit, Jan  Schneemeier",
+          "description": "Responsible investing has become an increasingly popular practice, with the blanket exclusion of ‘brown’ industries – such as tobacco, gambling, and fossil fuels – widely regarded as its purest form. This column suggests that in some cases, ‘tilting’ (leaning away from a brown sector but keeping an industry leader) is a more effective strategy than shunning the industry outright. Though exclusion may work best for such industries as controversial weapons, tilting is preferable for an industry, such as fossil fuels, in which managers can be pressured to take corrective action.",
+          "link": "https://voxeu.org/article/socially-responsible-divestment",
+          "publishedOn": "2022-06-17T00:00:00.000Z",
+          "wordCount": 2736,
+          "title": "Socially responsible divestment",
           "imageUrl": null
         },
         {
@@ -496,16 +496,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership",
-          "author": "José Azar, Xavier Vives",
-          "description": "The rise of common ownership of publicly traded companies has important implications for competition in product markets. This column argues that it is important to distinguish inter-industry from intra-industry effects of common ownership. Using data from the airline industry, it shows that intra-industry common ownership is positively associated with prices, while inter-industry common ownership is negatively associated with prices. Antitrust regulation should take into account the procompetitive inter-industry effects of common ownership.",
-          "link": "https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership",
-          "publishedOn": "2022-06-15T00:00:00.000Z",
-          "wordCount": 2385,
-          "title": "Revisiting the anticompetitive effects of common ownership",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon",
           "author": "David de la Croix, Mara Vitale",
           "description": "Academia has seen remarkable progress in gender equality over the last 50 years, but has yet to achieve parity – particularly in economics and STEM disciplines. This column documents the participation of women in European academia from the first universities to the eve of the Industrial Revolution, with unexpected results. Of the 108 women who taught at universities or belonged to academies, most were in Catholic southern Europe, challenging the idea that Protestantism was more liberal than Catholicism, at least where the participation of women in upper-tail human capital was concerned.",
@@ -513,6 +503,16 @@
           "publishedOn": "2022-06-15T00:00:00.000Z",
           "wordCount": 2521,
           "title": "Women in early modern academia: A Catholic phenomenon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership",
+          "author": "José Azar, Xavier Vives",
+          "description": "The rise of common ownership of publicly traded companies has important implications for competition in product markets. This column argues that it is important to distinguish inter-industry from intra-industry effects of common ownership. Using data from the airline industry, it shows that intra-industry common ownership is positively associated with prices, while inter-industry common ownership is negatively associated with prices. Antitrust regulation should take into account the procompetitive inter-industry effects of common ownership.",
+          "link": "https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership",
+          "publishedOn": "2022-06-15T00:00:00.000Z",
+          "wordCount": 2385,
+          "title": "Revisiting the anticompetitive effects of common ownership",
           "imageUrl": null
         }
       ]

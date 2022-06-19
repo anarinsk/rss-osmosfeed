@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-19T15:01:49.876Z</id>
+    <id>urn:2022-06-19T18:02:03.894Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-19T15:01:49.876Z</updated>
+    <updated>2022-06-19T18:02:03.895Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -188,16 +188,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Socially responsible divestment]]></title>
-        <id>https://voxeu.org/article/socially-responsible-divestment</id>
-        <link href="https://voxeu.org/article/socially-responsible-divestment"/>
-        <updated>2022-06-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Responsible investing has become an increasingly popular practice, with the blanket exclusion of ‘brown’ industries – such as tobacco, gambling, and fossil fuels – widely regarded as its purest form. This column suggests that in some cases, ‘tilting’ (leaning away from a brown sector but keeping an industry leader) is a more effective strategy than shunning the industry outright. Though exclusion may work best for such industries as controversial weapons, tilting is preferable for an industry, such as fossil fuels, in which managers can be pressured to take corrective action.]]></summary>
-        <author>
-            <name>Alex Edmans, Doron Levit, Jan  Schneemeier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why climate change is relevant for monetary policy]]></title>
         <id>https://voxeu.org/article/why-climate-change-relevant-monetary-policy</id>
         <link href="https://voxeu.org/article/why-climate-change-relevant-monetary-policy"/>
@@ -205,6 +195,16 @@
         <summary type="html"><![CDATA[While the implications of climate change for financial stability and prudential supervision are widely recognised, those for monetary policy have received less attention until recently. This column, the first in a two-part series, reviews the key mechanisms through which climate change influences monetary policy. Climate change impacts the objective, conduct, and transmission of monetary policy and could bear implications for the design of the monetary policy framework. To ensure price stability, central banks have a clear interest, in some cases an obligation, to incorporate climate change considerations into their policymaking.]]></summary>
         <author>
             <name>Lena  Boneva, Gianluigi  Ferrucci, Francesco Paolo Mongelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Socially responsible divestment]]></title>
+        <id>https://voxeu.org/article/socially-responsible-divestment</id>
+        <link href="https://voxeu.org/article/socially-responsible-divestment"/>
+        <updated>2022-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Responsible investing has become an increasingly popular practice, with the blanket exclusion of ‘brown’ industries – such as tobacco, gambling, and fossil fuels – widely regarded as its purest form. This column suggests that in some cases, ‘tilting’ (leaning away from a brown sector but keeping an industry leader) is a more effective strategy than shunning the industry outright. Though exclusion may work best for such industries as controversial weapons, tilting is preferable for an industry, such as fossil fuels, in which managers can be pressured to take corrective action.]]></summary>
+        <author>
+            <name>Alex Edmans, Doron Levit, Jan  Schneemeier</name>
         </author>
     </entry>
     <entry>
@@ -578,16 +578,6 @@ Part 03 아두이노를 활용한 제어
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revisiting the anticompetitive effects of common ownership]]></title>
-        <id>https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership</id>
-        <link href="https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The rise of common ownership of publicly traded companies has important implications for competition in product markets. This column argues that it is important to distinguish inter-industry from intra-industry effects of common ownership. Using data from the airline industry, it shows that intra-industry common ownership is positively associated with prices, while inter-industry common ownership is negatively associated with prices. Antitrust regulation should take into account the procompetitive inter-industry effects of common ownership.]]></summary>
-        <author>
-            <name>José Azar, Xavier Vives</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Women in early modern academia: A Catholic phenomenon]]></title>
         <id>https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon</id>
         <link href="https://voxeu.org/article/women-early-modern-academia-catholic-phenomenon"/>
@@ -595,6 +585,16 @@ Part 03 아두이노를 활용한 제어
         <summary type="html"><![CDATA[Academia has seen remarkable progress in gender equality over the last 50 years, but has yet to achieve parity – particularly in economics and STEM disciplines. This column documents the participation of women in European academia from the first universities to the eve of the Industrial Revolution, with unexpected results. Of the 108 women who taught at universities or belonged to academies, most were in Catholic southern Europe, challenging the idea that Protestantism was more liberal than Catholicism, at least where the participation of women in upper-tail human capital was concerned.]]></summary>
         <author>
             <name>David de la Croix, Mara Vitale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revisiting the anticompetitive effects of common ownership]]></title>
+        <id>https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership</id>
+        <link href="https://voxeu.org/article/revisiting-anticompetitive-effects-common-ownership"/>
+        <updated>2022-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The rise of common ownership of publicly traded companies has important implications for competition in product markets. This column argues that it is important to distinguish inter-industry from intra-industry effects of common ownership. Using data from the airline industry, it shows that intra-industry common ownership is positively associated with prices, while inter-industry common ownership is negatively associated with prices. Antitrust regulation should take into account the procompetitive inter-industry effects of common ownership.]]></summary>
+        <author>
+            <name>José Azar, Xavier Vives</name>
         </author>
     </entry>
     <entry>
