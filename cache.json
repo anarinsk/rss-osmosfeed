@@ -416,16 +416,6 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
-          "author": "Spencer  Bastani, Daniel Waldenström",
-          "description": "How does people’s ability influence their taxpaying behavior? This column links administrative tax and military enlistment registers in Sweden to measure how cognitive ability matters for income tax responsiveness. The authors find that individuals in the top decile of the ability distribution react twice as strong to a large and salient kink point in the tax code than the average individual, and three times as strong as individuals in the bottom ability decile. This ability gradient reflects both income shifting among high-ability businesses owners and labour supply responses among high-ability wage earners.",
-          "link": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
-          "publishedOn": "2022-06-20T00:00:00.000Z",
-          "wordCount": 2099,
-          "title": "The ability gradient in tax responsiveness",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/banks-and-their-interest-rate-risk-sensitivity",
           "author": "Katarzyna  Budnik, Jiri Panos, Cosimo Pancaro, Aurea Ponte Marques",
           "description": "Interest rate risks on banks’ balance sheets represent a relevant financial stability concern with a view to the normalisation of monetary policy. This column explores how a parallel shift in the euro area yield curve, or its steepening, might impact banking sector profitability and solvency. Leveraging on two distinct ECB stress-testing frameworks, it finds that banks are overall well equipped to face the interest rate normalisation as it brings a positive profitability outlook with a hardly affected system-wide solvency forecast.",
@@ -436,12 +426,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
+          "author": "Spencer  Bastani, Daniel Waldenström",
+          "description": "How does people’s ability influence their taxpaying behavior? This column links administrative tax and military enlistment registers in Sweden to measure how cognitive ability matters for income tax responsiveness. The authors find that individuals in the top decile of the ability distribution react twice as strong to a large and salient kink point in the tax code than the average individual, and three times as strong as individuals in the bottom ability decile. This ability gradient reflects both income shifting among high-ability businesses owners and labour supply responses among high-ability wage earners.",
+          "link": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
+          "publishedOn": "2022-06-20T00:00:00.000Z",
+          "wordCount": 2099,
+          "title": "The ability gradient in tax responsiveness",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/technology-and-local-state-capacity",
-          "author": "James  Dzansi, Anders Jensen, David  Lagakos , Henry Telli",
+          "author": "James  Dzansi, Anders Jensen, David  Lagakos, Henry Telli",
           "description": "Studies show that investing in a government’s capacity to collect tax revenues is beneficial for economic development of low-income countries. This column uses new census data from local governments in Ghana to provide descriptive and experimental evidence on the role of technology in improving government tax capacity. The pre-existing infrastructure for tax collection in the country is poor, and the technology increases the number of delivered tax bills by 27% and increases the amount of revenue collected by 103%. Despite these favourable impacts, the technology also increases the incidence of bribes, qualifying the policy rationale.",
           "link": "https://voxeu.org/article/technology-and-local-state-capacity",
           "publishedOn": "2022-06-19T00:00:00.000Z",
-          "wordCount": 2779,
+          "wordCount": 2778,
           "title": "Technology and local state capacity",
           "imageUrl": null
         },
@@ -496,16 +496,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/combating-climate-change-role-female-managers",
-          "author": "Yener Altunbaş, Leonardo Gambacorta, Alessio Reghezza, Giulio Velliscig",
-          "description": "Given the scale of climate risks, achieving carbon neutrality by 2050 represents an urgent priority. This column examines the link between female managers in a firm and corporate carbon emissions. It finds that after the Paris Agreement in December 2015, firms with more women involved in the decision-making process reduced carbon dioxide emissions more than firms with a predominance of male managers. The finding suggests that gender diversity within organisations can have a significant impact on combating climate change.",
-          "link": "https://voxeu.org/article/combating-climate-change-role-female-managers",
-          "publishedOn": "2022-06-16T00:00:00.000Z",
-          "wordCount": 1910,
-          "title": "Combating climate change: The role of female managers",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/patent-publication-and-innovation",
           "author": "Deepak Hegde, Kyle  Herkenhoff, Chenqi Zhu",
           "description": "Patents seek to trade off the benefits to the inventor of exclusivity with the social benefits of disclosure to the public. Most studies of the patent system focus on the benefits of exclusivity. This column analyses the broader impacts of patents on innovation, leveraging a change in patent disclosure requirements in the US in 1999. Accelerating patent publication by two years increases future patent citations by 15% relative to the baseline, suggesting a significant impact on knowledge diffusion. This finding is contrary to historical arguments that patent disclosure stifles innovation or does not reveal useful information.",
@@ -513,6 +503,16 @@
           "publishedOn": "2022-06-16T00:00:00.000Z",
           "wordCount": 2071,
           "title": "Patent publication and innovation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/combating-climate-change-role-female-managers",
+          "author": "Yener Altunbaş, Leonardo Gambacorta, Alessio Reghezza, Giulio Velliscig",
+          "description": "Given the scale of climate risks, achieving carbon neutrality by 2050 represents an urgent priority. This column examines the link between female managers in a firm and corporate carbon emissions. It finds that after the Paris Agreement in December 2015, firms with more women involved in the decision-making process reduced carbon dioxide emissions more than firms with a predominance of male managers. The finding suggests that gender diversity within organisations can have a significant impact on combating climate change.",
+          "link": "https://voxeu.org/article/combating-climate-change-role-female-managers",
+          "publishedOn": "2022-06-16T00:00:00.000Z",
+          "wordCount": 1910,
+          "title": "Combating climate change: The role of female managers",
           "imageUrl": null
         }
       ]
