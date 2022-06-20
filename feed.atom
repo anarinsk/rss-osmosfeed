@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-20T12:02:05.845Z</id>
+    <id>urn:2022-06-20T15:02:00.243Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-20T12:02:05.845Z</updated>
+    <updated>2022-06-20T15:02:00.243Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lockdowns and depression]]></title>
+        <id>https://www.aeaweb.org/research/charts/mental-health-lockdowns-turkey</id>
+        <link href="https://www.aeaweb.org/research/charts/mental-health-lockdowns-turkey"/>
+        <updated>2022-06-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While restrictions on movement may be necessary to stop the spread of COVID-19, strict lockdowns can lead to significant mental distress, according to a paper in the American Economic Journal: Applied Economics.]]></summary>
+        <author>
+            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Banks and their interest rate risk sensitivity]]></title>
         <id>https://voxeu.org/article/banks-and-their-interest-rate-risk-sensitivity</id>

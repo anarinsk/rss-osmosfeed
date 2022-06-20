@@ -421,7 +421,7 @@
           "description": "Interest rate risks on banks’ balance sheets represent a relevant financial stability concern with a view to the normalisation of monetary policy. This column explores how a parallel shift in the euro area yield curve, or its steepening, might impact banking sector profitability and solvency. Leveraging on two distinct ECB stress-testing frameworks, it finds that banks are overall well equipped to face the interest rate normalisation as it brings a positive profitability outlook with a hardly affected system-wide solvency forecast.",
           "link": "https://voxeu.org/article/banks-and-their-interest-rate-risk-sensitivity",
           "publishedOn": "2022-06-20T00:00:00.000Z",
-          "wordCount": 2489,
+          "wordCount": null,
           "title": "Banks and their interest rate risk sensitivity",
           "imageUrl": null
         },
@@ -431,7 +431,7 @@
           "description": "How does people’s ability influence their taxpaying behavior? This column links administrative tax and military enlistment registers in Sweden to measure how cognitive ability matters for income tax responsiveness. The authors find that individuals in the top decile of the ability distribution react twice as strong to a large and salient kink point in the tax code than the average individual, and three times as strong as individuals in the bottom ability decile. This ability gradient reflects both income shifting among high-ability businesses owners and labour supply responses among high-ability wage earners.",
           "link": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
           "publishedOn": "2022-06-20T00:00:00.000Z",
-          "wordCount": 2099,
+          "wordCount": null,
           "title": "The ability gradient in tax responsiveness",
           "imageUrl": null
         },
@@ -451,7 +451,7 @@
           "description": "Central banks are increasingly being called upon to engage in climate change issues, not only in their financial stability capacity but also with monetary policy measures. This second column in a two-part series reviews some measures that central banks could consider to internalise climate change objectives into their monetary policy frameworks. These range from protective actions to more proactive measures aimed at mitigating climate change and supporting green finance and the transition to a low-carbon economy. It also discusses the constraints and trade-offs central banks face.",
           "link": "https://voxeu.org/article/role-monetary-policy-green-transition",
           "publishedOn": "2022-06-18T00:00:00.000Z",
-          "wordCount": 2656,
+          "wordCount": null,
           "title": "The role for monetary policy in the green transition",
           "imageUrl": null
         },
@@ -461,7 +461,7 @@
           "description": "Recorded live at CEPR Paris Symposium 2022: Thomas Piketty’s short new book promises A brief history of equality. He tells Tim Phillips about why institutions are precarious, why policymakers should consider the consequences for inequality before they intervene – but also why we should be optimistic about the long-term trends in equality.",
           "link": "https://voxeu.org/vox-talks/piketty-equality",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": 828,
+          "wordCount": null,
           "title": "Piketty on equality",
           "imageUrl": null
         },
@@ -471,7 +471,7 @@
           "description": "Import tariffs on Russian exports are an important tool available to the international coalition of sanctioning countries (the ‘Allies’). This column analyses the optimal sanctions in terms of the scope of sectors targeted, the magnitude of import tariff increases, and the disbursement of tariff revenues. Rather than an all-out import ban, the Allies would fare better by limiting import sanctions to the eight most-imported Russian sectors and raising tariffs by 20 to 25 percentage points. Burden-sharing arrangements, in which proceeds generated from tariff rents are redistributed among Allies, could help distribute the self-harm of sanctions.",
           "link": "https://voxeu.org/article/searching-optimal-sanctions-russia",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": 4068,
+          "wordCount": null,
           "title": "Searching for ‘optimal’ sanctions on Russia",
           "imageUrl": null
         },
@@ -481,7 +481,7 @@
           "description": "Responsible investing has become an increasingly popular practice, with the blanket exclusion of ‘brown’ industries – such as tobacco, gambling, and fossil fuels – widely regarded as its purest form. This column suggests that in some cases, ‘tilting’ (leaning away from a brown sector but keeping an industry leader) is a more effective strategy than shunning the industry outright. Though exclusion may work best for such industries as controversial weapons, tilting is preferable for an industry, such as fossil fuels, in which managers can be pressured to take corrective action.",
           "link": "https://voxeu.org/article/socially-responsible-divestment",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": 2736,
+          "wordCount": null,
           "title": "Socially responsible divestment",
           "imageUrl": null
         },
@@ -491,7 +491,7 @@
           "description": "While the implications of climate change for financial stability and prudential supervision are widely recognised, those for monetary policy have received less attention until recently. This column, the first in a two-part series, reviews the key mechanisms through which climate change influences monetary policy. Climate change impacts the objective, conduct, and transmission of monetary policy and could bear implications for the design of the monetary policy framework. To ensure price stability, central banks have a clear interest, in some cases an obligation, to incorporate climate change considerations into their policymaking.",
           "link": "https://voxeu.org/article/why-climate-change-relevant-monetary-policy",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": 2475,
+          "wordCount": null,
           "title": "Why climate change is relevant for monetary policy",
           "imageUrl": null
         },
@@ -522,6 +522,16 @@
       "feedUrl": "https://www.aeaweb.org/research/rss-feed",
       "siteUrl": "https://www.aeaweb.org/research",
       "articles": [
+        {
+          "id": "https://www.aeaweb.org/research/charts/mental-health-lockdowns-turkey",
+          "author": "Tyler Smith (research.highlights@aeapubs.org)",
+          "description": "While restrictions on movement may be necessary to stop the spread of COVID-19, strict lockdowns can lead to significant mental distress, according to a paper in the American Economic Journal: Applied Economics.",
+          "link": "https://www.aeaweb.org/research/charts/mental-health-lockdowns-turkey",
+          "publishedOn": "2022-06-20T15:00:00.000Z",
+          "wordCount": 891,
+          "title": "Lockdowns and depression",
+          "imageUrl": "https://www.aeaweb.org/content/file?id=4660"
+        },
         {
           "id": "https://www.aeaweb.org/research/agricultural-diversity-long-run-development-us",
           "author": "Tyler Smith (research.highlights@aeapubs.org)",
