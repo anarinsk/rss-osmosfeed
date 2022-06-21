@@ -391,16 +391,6 @@
           "wordCount": null,
           "title": "개발자가 되기 위해 꼭 알아야 하는 IT 용어/고승원 외 지음/비제이퍼블릭",
           "imageUrl": "http://image.aladin.co.kr/img/footer/2011/aladin_logo.gif"
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=295233396",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "실전 파이썬 핸즈온 프로젝트\n리 본 지음, 오현석 옮김 / 책만 / 2022년 05월 / ISBN:9791189909406\n정가: 28,000원 / 판매가: 25,200원 / 마일리지: 118원\n이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치\n\n\n\n\n통계학, 물리학, 천문학 등 흥미로운 실생활의 16가지 프로젝트로 접근하는, 완전하게 동작 가능한 파이썬 애플리케이션 만들기 대작전! OpenCV, NLTK, 넘파이, 판다스 등을 활용해 컴퓨터 비전, NLP(자연어 처리)를 비롯한 풍부한 프로젝트를 직접 해결하며 배우는 실전 파이썬 학습서다.\r\n\r\n각 장은 명확히 프로젝트의 목표를 정의하면서 시작하고, 문제를 공략하는 방법을 논의한 다음, 전문 프로그래머처럼 생각하도록 고안된 16가지 실습 과제를 다뤄본다. 이 책에서 함께 해안 경비대의 수색 및 구조 작업을 돕고, 나사(NASA)의 달 비행을 계획하고 실행하며, 얼굴 인식을 사용해 보안이 필요한 실험실의 출입을 제한하는 등의 과업을 수행해보자.\r\n\r\n이 책의 실습 프로그램은 초보자도 쉽게 이해할 수 있다. 하지만, 단계가 진행됨에 따라 점차 수준 높은 기법을 배울 수 있으며, 그에 따라 여러분의 코딩 능력도 향상될 것이다. 이 책에서 주어진 과업을 모두 달성하고 나면, 파이썬을 활용해 실생활의 여러 문제를 풀 수 있는 역량을 갖추게 될 것이다.\n\n1장\t베이즈 확률로 위치 예측하기 - “실종된 난파선 선원을 찾아라”\r\n베이즈 규칙\r\n[프로젝트#1] 수색과 구조\r\n__전략\r\n__파이썬 라이브러리 설치\r\n__베이즈 코드\r\n__게임 플레이\r\n[도전 프로젝트] 더 영리한 수색 방법\r\n[도전 프로젝트] 몬테카를로 시뮬레이션으로 최선의 전략 찾기\r\n[도전 프로젝트] 탐지 확률 계산하기\r\n\r\n2장\tNLTK로 문서 간 유사도 측정하기 - “이 소설의 원작자는 누구일까”\r\n[프로젝트#2] 사냥개, 전쟁, 잃어버린 세계\r\n__전략\r\n__NLTK 설치\r\n__코퍼스\t\r\n__스타일로메트리 코드\r\n[실습 프로젝트] 분산도 그래프를 사용한 개 사냥\r\n[실습 프로젝트] 구두점 히트맵\r\n[도전 프로젝트] 빈도수 고정\r\n\r\n3장\tNLTK로 텍스트 요약하기 - “핵심 문장을 뽑아내고 단어 구름을 만들어보자”\r\n[프로젝트#3] 나에게는 꿈이 있습니다… 연설을 요약하고픈!\r\n__전략\r\n__웹 스크레이핑\r\n__‘나에게는 꿈이 있습니다’ 코드\r\n[프로젝트#4] gensim을 사용한 연설문 요약\r\n__gensim 설치\r\n__‘침대부터 정리하라’ 코드\r\n[프로젝트#5] 단어 구름을 활용한 텍스트 요약\r\n__PIL 모듈과 단어 구름 모듈\r\n__단어 구름 코드\r\n__단어 구름 미세 조정하기\r\n[도전 프로젝트] 친목의 밤을 위한 단어 구름 게임 만들기\r\n[도전 프로젝트] 요약본 더 간추리기\r\n[도전 프로젝트] 소설 요약\r\n[도전 프로젝트] 요약에 들어갈 문장만큼 순서도 중요하다!\r\n\r\n4장\t암호화 기법으로 안전한 메시지 전송하기 ? “해독 불가능한 암호문을 작성해보자”\r\n원타임 패드\r\n레베카 암호\r\n[프로젝트#6] 레베카의 ‘디지털’ 열쇠\r\n__전략\r\n__암호화 코드\r\n__메시지 보내기\r\n[실습 프로젝트] 문자 빈도 그래프 그리기\r\n[실습 프로젝트] 2차 세계대전 방식으로 비밀 메시지 보내기\r\n\r\n5장\tOpenCV로 이미지 차이 분석하기 - “천체 이미지로 명왕성을 찾아보자”\r\n[프로젝트#7] 반짝 비교정 복제품 만들기\r\n__전략\r\n__데이터\r\n__반짝 비교정 코드\r\n__반짝 비교정 사용하기\r\n[프로젝트#8] 이미지 차이를 판별해 일시적 천체 감지하기\r\n__전략\r\n__일시적 천체 감지기 코드\r\n__일시적 천체 감지기 사용\r\n[실습 프로젝트] 궤도...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 알고리즘",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=295233396",
-          "publishedOn": "2022-05-23T04:43:00.000Z",
-          "wordCount": null,
-          "title": "실전 파이썬 핸즈온 프로젝트/리 본 지음, 오현석 옮김/책만",
-          "imageUrl": "http://image.aladin.co.kr/img/footer/2011/aladin_logo.gif"
         }
       ]
     },
@@ -421,7 +411,7 @@
           "description": "The war in Ukraine has severely limited the ability to gather statistical information and assess the impact on the country’s economy. This column uses high-frequency data from night lights, online search behaviour, and social media activity to estimate the economic impact on Ukrainian regions. It suggests that economic activity decreased by 45% at the beginning of the war, but recovered to around 85% of pre-war levels in April. Timely assessments of human and capital losses will be crucial in the discussion of optimal post-war redevelopment strategies.",
           "link": "https://voxeu.org/article/short-term-impact-war-economic-activity-ukraine",
           "publishedOn": "2022-06-21T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2755,
           "title": "The short-term impact of war on economic activity in Ukraine",
           "imageUrl": null
         },
@@ -431,8 +421,18 @@
           "description": "During the COVID-19 pandemic, there was a large drop in labour-force participation. Some of it was due to early retirement. But how much can we attribute to a more disturbing cause: a rise in substance abuse?\nRead more about this study by downloading the free CEPR discussion paper:\nGreenwood, J, Guner, N and Kopecky, K. 2022. 'Substance Abuse during the Pandemic: Implications for Labor-Force Participation'. CEPR",
           "link": "https://voxeu.org/content/substance-abuse-during-pandemic-impact-labour-force-participation",
           "publishedOn": "2022-06-21T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 824,
           "title": "Substance abuse during the pandemic. The impact on labour-force participation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
+          "author": "Spencer  Bastani, Daniel Waldenström",
+          "description": "How does people’s ability influence their taxpaying behavior? This column links administrative tax and military enlistment registers in Sweden to measure how cognitive ability matters for income tax responsiveness. The authors find that individuals in the top decile of the ability distribution react twice as strong to a large and salient kink point in the tax code than the average individual, and three times as strong as individuals in the bottom ability decile. This ability gradient reflects both income shifting among high-ability businesses owners and labour supply responses among high-ability wage earners.",
+          "link": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
+          "publishedOn": "2022-06-20T00:00:00.000Z",
+          "wordCount": 2100,
+          "title": "The ability gradient in tax responsiveness",
           "imageUrl": null
         },
         {
@@ -446,22 +446,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
-          "author": "Spencer  Bastani, Daniel Waldenström",
-          "description": "How does people’s ability influence their taxpaying behavior? This column links administrative tax and military enlistment registers in Sweden to measure how cognitive ability matters for income tax responsiveness. The authors find that individuals in the top decile of the ability distribution react twice as strong to a large and salient kink point in the tax code than the average individual, and three times as strong as individuals in the bottom ability decile. This ability gradient reflects both income shifting among high-ability businesses owners and labour supply responses among high-ability wage earners.",
-          "link": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
-          "publishedOn": "2022-06-20T00:00:00.000Z",
-          "wordCount": null,
-          "title": "The ability gradient in tax responsiveness",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/technology-and-local-state-capacity",
           "author": "James  Dzansi, Anders Jensen, David  Lagakos, Henry Telli",
           "description": "Studies show that investing in a government’s capacity to collect tax revenues is beneficial for economic development of low-income countries. This column uses new census data from local governments in Ghana to provide descriptive and experimental evidence on the role of technology in improving government tax capacity. The pre-existing infrastructure for tax collection in the country is poor, and the technology increases the number of delivered tax bills by 27% and increases the amount of revenue collected by 103%. Despite these favourable impacts, the technology also increases the incidence of bribes, qualifying the policy rationale.",
           "link": "https://voxeu.org/article/technology-and-local-state-capacity",
           "publishedOn": "2022-06-19T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2779,
           "title": "Technology and local state capacity",
           "imageUrl": null
         },
@@ -471,7 +461,7 @@
           "description": "Central banks are increasingly being called upon to engage in climate change issues, not only in their financial stability capacity but also with monetary policy measures. This second column in a two-part series reviews some measures that central banks could consider to internalise climate change objectives into their monetary policy frameworks. These range from protective actions to more proactive measures aimed at mitigating climate change and supporting green finance and the transition to a low-carbon economy. It also discusses the constraints and trade-offs central banks face.",
           "link": "https://voxeu.org/article/role-monetary-policy-green-transition",
           "publishedOn": "2022-06-18T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2657,
           "title": "The role for monetary policy in the green transition",
           "imageUrl": null
         },
@@ -481,7 +471,7 @@
           "description": "Recorded live at CEPR Paris Symposium 2022: Thomas Piketty’s short new book promises A brief history of equality. He tells Tim Phillips about why institutions are precarious, why policymakers should consider the consequences for inequality before they intervene – but also why we should be optimistic about the long-term trends in equality.",
           "link": "https://voxeu.org/vox-talks/piketty-equality",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 829,
           "title": "Piketty on equality",
           "imageUrl": null
         },
@@ -491,7 +481,7 @@
           "description": "Import tariffs on Russian exports are an important tool available to the international coalition of sanctioning countries (the ‘Allies’). This column analyses the optimal sanctions in terms of the scope of sectors targeted, the magnitude of import tariff increases, and the disbursement of tariff revenues. Rather than an all-out import ban, the Allies would fare better by limiting import sanctions to the eight most-imported Russian sectors and raising tariffs by 20 to 25 percentage points. Burden-sharing arrangements, in which proceeds generated from tariff rents are redistributed among Allies, could help distribute the self-harm of sanctions.",
           "link": "https://voxeu.org/article/searching-optimal-sanctions-russia",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4085,
           "title": "Searching for ‘optimal’ sanctions on Russia",
           "imageUrl": null
         },
@@ -511,7 +501,7 @@
           "description": "While the implications of climate change for financial stability and prudential supervision are widely recognised, those for monetary policy have received less attention until recently. This column, the first in a two-part series, reviews the key mechanisms through which climate change influences monetary policy. Climate change impacts the objective, conduct, and transmission of monetary policy and could bear implications for the design of the monetary policy framework. To ensure price stability, central banks have a clear interest, in some cases an obligation, to incorporate climate change considerations into their policymaking.",
           "link": "https://voxeu.org/article/why-climate-change-relevant-monetary-policy",
           "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2476,
           "title": "Why climate change is relevant for monetary policy",
           "imageUrl": null
         }
