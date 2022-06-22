@@ -406,6 +406,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/vox-talks/consequences-war-eu",
+          "author": "Philippe Martin, Lucrezia Reichlin",
+          "description": "Recorded live at CEPR Paris Symposium 2022.\nWhat are the long-term consequences of the conflict in Ukraine for the EU? Lucrezia Reichlin and Philippe Martin discuss the impact of the war on trade, energy security, fiscal policy, and green transition with Tim Phillips.",
+          "link": "https://voxeu.org/vox-talks/consequences-war-eu",
+          "publishedOn": "2022-06-22T00:00:00.000Z",
+          "wordCount": 898,
+          "title": "The consequences of war for the EU",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/past-and-present-inflation-are-more-similar-you-think",
           "author": "Marijn A. Bolhuis, Judd N. L. Cramer, Lawrence H. Summers",
           "description": "Housing inflation in the US before 1983 was measured in a way that made the Consumer Price Index (CPI) mechanically responsive to Fed policy, leading to artificially high peaks and fast declines in CPI inflation. To better contextualise the current run-up in inflation to a 40-year high, this column presents new historical series for CPI headline and core inflation that are more consistent with current practices and expenditure shares for the post-war period. Using these series, the authors find that current inflation levels are much closer to past inflation peaks than the official series would suggest.",
@@ -493,16 +503,6 @@
           "publishedOn": "2022-06-17T00:00:00.000Z",
           "wordCount": 4100,
           "title": "Searching for ‘optimal’ sanctions on Russia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/socially-responsible-divestment",
-          "author": "Alex Edmans, Doron Levit, Jan  Schneemeier",
-          "description": "Responsible investing has become an increasingly popular practice, with the blanket exclusion of ‘brown’ industries – such as tobacco, gambling, and fossil fuels – widely regarded as its purest form. This column suggests that in some cases, ‘tilting’ (leaning away from a brown sector but keeping an industry leader) is a more effective strategy than shunning the industry outright. Though exclusion may work best for such industries as controversial weapons, tilting is preferable for an industry, such as fossil fuels, in which managers can be pressured to take corrective action.",
-          "link": "https://voxeu.org/article/socially-responsible-divestment",
-          "publishedOn": "2022-06-17T00:00:00.000Z",
-          "wordCount": 2752,
-          "title": "Socially responsible divestment",
           "imageUrl": null
         }
       ]

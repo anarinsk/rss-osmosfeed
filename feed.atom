@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-22T12:02:23.071Z</id>
+    <id>urn:2022-06-22T15:01:58.080Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-22T12:02:23.072Z</updated>
+    <updated>2022-06-22T15:01:58.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The consequences of war for the EU]]></title>
+        <id>https://voxeu.org/vox-talks/consequences-war-eu</id>
+        <link href="https://voxeu.org/vox-talks/consequences-war-eu"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022.
+What are the long-term consequences of the conflict in Ukraine for the EU? Lucrezia Reichlin and Philippe Martin discuss the impact of the war on trade, energy security, fiscal policy, and green transition with Tim Phillips.]]></summary>
+        <author>
+            <name>Philippe Martin, Lucrezia Reichlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Past and present inflation are more similar than you think]]></title>
         <id>https://voxeu.org/article/past-and-present-inflation-are-more-similar-you-think</id>
@@ -372,16 +383,6 @@ Investment and Business Cycles: Focusing on Firms ' Capital Adjustment Costs
         <summary type="html"><![CDATA[Import tariffs on Russian exports are an important tool available to the international coalition of sanctioning countries (the ‘Allies’). This column analyses the optimal sanctions in terms of the scope of sectors targeted, the magnitude of import tariff increases, and the disbursement of tariff revenues. Rather than an all-out import ban, the Allies would fare better by limiting import sanctions to the eight most-imported Russian sectors and raising tariffs by 20 to 25 percentage points. Burden-sharing arrangements, in which proceeds generated from tariff rents are redistributed among Allies, could help distribute the self-harm of sanctions.]]></summary>
         <author>
             <name>Simon Schropp, Marinos Tsigas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Socially responsible divestment]]></title>
-        <id>https://voxeu.org/article/socially-responsible-divestment</id>
-        <link href="https://voxeu.org/article/socially-responsible-divestment"/>
-        <updated>2022-06-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Responsible investing has become an increasingly popular practice, with the blanket exclusion of ‘brown’ industries – such as tobacco, gambling, and fossil fuels – widely regarded as its purest form. This column suggests that in some cases, ‘tilting’ (leaning away from a brown sector but keeping an industry leader) is a more effective strategy than shunning the industry outright. Though exclusion may work best for such industries as controversial weapons, tilting is preferable for an industry, such as fossil fuels, in which managers can be pressured to take corrective action.]]></summary>
-        <author>
-            <name>Alex Edmans, Doron Levit, Jan  Schneemeier</name>
         </author>
     </entry>
     <entry>
