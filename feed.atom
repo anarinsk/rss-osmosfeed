@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-22T09:01:43.244Z</id>
+    <id>urn:2022-06-22T12:02:23.071Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-22T09:01:43.244Z</updated>
+    <updated>2022-06-22T12:02:23.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Past and present inflation are more similar than you think]]></title>
+        <id>https://voxeu.org/article/past-and-present-inflation-are-more-similar-you-think</id>
+        <link href="https://voxeu.org/article/past-and-present-inflation-are-more-similar-you-think"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Housing inflation in the US before 1983 was measured in a way that made the Consumer Price Index (CPI) mechanically responsive to Fed policy, leading to artificially high peaks and fast declines in CPI inflation. To better contextualise the current run-up in inflation to a 40-year high, this column presents new historical series for CPI headline and core inflation that are more consistent with current practices and expenditure shares for the post-war period. Using these series, the authors find that current inflation levels are much closer to past inflation peaks than the official series would suggest.]]></summary>
+        <author>
+            <name>Marijn A. Bolhuis, Judd N. L. Cramer, Lawrence H. Summers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The short-term impact of war on economic activity in Ukraine]]></title>
         <id>https://voxeu.org/article/short-term-impact-war-economic-activity-ukraine</id>
@@ -372,16 +382,6 @@ Investment and Business Cycles: Focusing on Firms ' Capital Adjustment Costs
         <summary type="html"><![CDATA[Responsible investing has become an increasingly popular practice, with the blanket exclusion of ‘brown’ industries – such as tobacco, gambling, and fossil fuels – widely regarded as its purest form. This column suggests that in some cases, ‘tilting’ (leaning away from a brown sector but keeping an industry leader) is a more effective strategy than shunning the industry outright. Though exclusion may work best for such industries as controversial weapons, tilting is preferable for an industry, such as fossil fuels, in which managers can be pressured to take corrective action.]]></summary>
         <author>
             <name>Alex Edmans, Doron Levit, Jan  Schneemeier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why climate change is relevant for monetary policy]]></title>
-        <id>https://voxeu.org/article/why-climate-change-relevant-monetary-policy</id>
-        <link href="https://voxeu.org/article/why-climate-change-relevant-monetary-policy"/>
-        <updated>2022-06-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While the implications of climate change for financial stability and prudential supervision are widely recognised, those for monetary policy have received less attention until recently. This column, the first in a two-part series, reviews the key mechanisms through which climate change influences monetary policy. Climate change impacts the objective, conduct, and transmission of monetary policy and could bear implications for the design of the monetary policy framework. To ensure price stability, central banks have a clear interest, in some cases an obligation, to incorporate climate change considerations into their policymaking.]]></summary>
-        <author>
-            <name>Lena  Boneva, Gianluigi  Ferrucci, Francesco Paolo Mongelli</name>
         </author>
     </entry>
     <entry>
