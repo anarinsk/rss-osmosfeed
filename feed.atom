@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-23T09:01:51.512Z</id>
+    <id>urn:2022-06-23T12:02:00.572Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-23T09:01:51.512Z</updated>
+    <updated>2022-06-23T12:02:00.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Economics of Brexit]]></title>
+        <id>https://voxeu.org/vox-talks/economics-brexit-0</id>
+        <link href="https://voxeu.org/vox-talks/economics-brexit-0"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The latest CEPR ebook investigates the impact of Brexit so far on the economies of the UK and EU. Tim Phillips talks to three of the authors: Jonathan Portes, Thomas Sampson and Sarah Hall.
+Download the eBook: The Economics of Brexit: What Have We Learned?]]></summary>
+        <author>
+            <name>Jonathan  Portes, Thomas Sampson, Sarah Hall</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Economics of Brexit: What Have We Learned?]]></title>
         <id>https://voxeu.org/content/economics-brexit-what-have-we-learned</id>
@@ -16,16 +27,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Temporary work contracts and female labour market outcomes]]></title>
-        <id>https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes</id>
-        <link href="https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes"/>
-        <updated>2022-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.]]></summary>
-        <author>
-            <name>Yukiko Asai, Dmitri Koustas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spending effects of fiscal transfers in a pandemic]]></title>
         <id>https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic</id>
         <link href="https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic"/>
@@ -33,6 +34,16 @@
         <summary type="html"><![CDATA[Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.]]></summary>
         <author>
             <name>Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporary work contracts and female labour market outcomes]]></title>
+        <id>https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes</id>
+        <link href="https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.]]></summary>
+        <author>
+            <name>Yukiko Asai, Dmitri Koustas</name>
         </author>
     </entry>
     <entry>
@@ -566,16 +577,6 @@ Investment and Business Cycles: Focusing on Firms ' Capital Adjustment Costs
 국내도서 > 대학교재/전문서적 > 경상계열 > 경제학]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banks and their interest rate risk sensitivity]]></title>
-        <id>https://voxeu.org/article/banks-and-their-interest-rate-risk-sensitivity</id>
-        <link href="https://voxeu.org/article/banks-and-their-interest-rate-risk-sensitivity"/>
-        <updated>2022-06-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interest rate risks on banks’ balance sheets represent a relevant financial stability concern with a view to the normalisation of monetary policy. This column explores how a parallel shift in the euro area yield curve, or its steepening, might impact banking sector profitability and solvency. Leveraging on two distinct ECB stress-testing frameworks, it finds that banks are overall well equipped to face the interest rate normalisation as it brings a positive profitability outlook with a hardly affected system-wide solvency forecast.]]></summary>
-        <author>
-            <name>Katarzyna  Budnik, Jiri Panos, Cosimo Pancaro, Aurea Ponte Marques</name>
         </author>
     </entry>
     <entry>
