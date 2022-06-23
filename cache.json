@@ -431,18 +431,8 @@
           "description": "This eBook, produced by VoxEU/CEPR and UK in a Changing Europe, brings together leading academic researchers on trade, immigration and political economy to assess what we have learned, 18 months on from its implementation, about the impacts of Brexit on the UK economy",
           "link": "https://voxeu.org/content/economics-brexit-what-have-we-learned",
           "publishedOn": "2022-06-23T00:00:00.000Z",
-          "wordCount": 910,
-          "title": "The Economics of Brexit: What Have We Learned?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes",
-          "author": "Yukiko Asai, Dmitri Koustas",
-          "description": "Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.",
-          "link": "https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes",
-          "publishedOn": "2022-06-23T00:00:00.000Z",
           "wordCount": null,
-          "title": "Temporary work contracts and female labour market outcomes",
+          "title": "The Economics of Brexit: What Have We Learned?",
           "imageUrl": null
         },
         {
@@ -453,6 +443,16 @@
           "publishedOn": "2022-06-23T00:00:00.000Z",
           "wordCount": null,
           "title": "Spending effects of fiscal transfers in a pandemic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes",
+          "author": "Yukiko Asai, Dmitri Koustas",
+          "description": "Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.",
+          "link": "https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes",
+          "publishedOn": "2022-06-23T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Temporary work contracts and female labour market outcomes",
           "imageUrl": null
         },
         {
@@ -471,7 +471,7 @@
           "description": "Housing inflation in the US before 1983 was measured in a way that made the Consumer Price Index (CPI) mechanically responsive to Fed policy, leading to artificially high peaks and fast declines in CPI inflation. To better contextualise the current run-up in inflation to a 40-year high, this column presents new historical series for CPI headline and core inflation that are more consistent with current practices and expenditure shares for the post-war period. Using these series, the authors find that current inflation levels are much closer to past inflation peaks than the official series would suggest.",
           "link": "https://voxeu.org/article/past-and-present-inflation-are-more-similar-you-think",
           "publishedOn": "2022-06-22T00:00:00.000Z",
-          "wordCount": 2903,
+          "wordCount": null,
           "title": "Past and present inflation are more similar than you think",
           "imageUrl": null
         },
@@ -496,13 +496,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/banks-and-their-interest-rate-risk-sensitivity",
-          "author": "Katarzyna  Budnik, Jiri Panos, Cosimo Pancaro, Aurea Ponte Marques",
-          "description": "Interest rate risks on banks’ balance sheets represent a relevant financial stability concern with a view to the normalisation of monetary policy. This column explores how a parallel shift in the euro area yield curve, or its steepening, might impact banking sector profitability and solvency. Leveraging on two distinct ECB stress-testing frameworks, it finds that banks are overall well equipped to face the interest rate normalisation as it brings a positive profitability outlook with a hardly affected system-wide solvency forecast.",
-          "link": "https://voxeu.org/article/banks-and-their-interest-rate-risk-sensitivity",
+          "id": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
+          "author": "Spencer  Bastani, Daniel Waldenström",
+          "description": "How does people’s ability influence their taxpaying behavior? This column links administrative tax and military enlistment registers in Sweden to measure how cognitive ability matters for income tax responsiveness. The authors find that individuals in the top decile of the ability distribution react twice as strong to a large and salient kink point in the tax code than the average individual, and three times as strong as individuals in the bottom ability decile. This ability gradient reflects both income shifting among high-ability businesses owners and labour supply responses among high-ability wage earners.",
+          "link": "https://voxeu.org/article/ability-gradient-tax-responsiveness",
           "publishedOn": "2022-06-20T00:00:00.000Z",
           "wordCount": null,
-          "title": "Banks and their interest rate risk sensitivity",
+          "title": "The ability gradient in tax responsiveness",
           "imageUrl": null
         }
       ]

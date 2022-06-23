@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-23T18:01:59.741Z</id>
+    <id>urn:2022-06-23T21:01:57.172Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-23T18:01:59.741Z</updated>
+    <updated>2022-06-23T21:01:57.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -27,16 +27,6 @@ Download the eBook: The Economics of Brexit: What Have We Learned?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Temporary work contracts and female labour market outcomes]]></title>
-        <id>https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes</id>
-        <link href="https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes"/>
-        <updated>2022-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.]]></summary>
-        <author>
-            <name>Yukiko Asai, Dmitri Koustas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spending effects of fiscal transfers in a pandemic]]></title>
         <id>https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic</id>
         <link href="https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic"/>
@@ -44,6 +34,16 @@ Download the eBook: The Economics of Brexit: What Have We Learned?]]></summary>
         <summary type="html"><![CDATA[Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.]]></summary>
         <author>
             <name>Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporary work contracts and female labour market outcomes]]></title>
+        <id>https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes</id>
+        <link href="https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.]]></summary>
+        <author>
+            <name>Yukiko Asai, Dmitri Koustas</name>
         </author>
     </entry>
     <entry>
@@ -580,13 +580,13 @@ Investment and Business Cycles: Focusing on Firms ' Capital Adjustment Costs
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Banks and their interest rate risk sensitivity]]></title>
-        <id>https://voxeu.org/article/banks-and-their-interest-rate-risk-sensitivity</id>
-        <link href="https://voxeu.org/article/banks-and-their-interest-rate-risk-sensitivity"/>
+        <title type="html"><![CDATA[The ability gradient in tax responsiveness]]></title>
+        <id>https://voxeu.org/article/ability-gradient-tax-responsiveness</id>
+        <link href="https://voxeu.org/article/ability-gradient-tax-responsiveness"/>
         <updated>2022-06-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interest rate risks on banks’ balance sheets represent a relevant financial stability concern with a view to the normalisation of monetary policy. This column explores how a parallel shift in the euro area yield curve, or its steepening, might impact banking sector profitability and solvency. Leveraging on two distinct ECB stress-testing frameworks, it finds that banks are overall well equipped to face the interest rate normalisation as it brings a positive profitability outlook with a hardly affected system-wide solvency forecast.]]></summary>
+        <summary type="html"><![CDATA[How does people’s ability influence their taxpaying behavior? This column links administrative tax and military enlistment registers in Sweden to measure how cognitive ability matters for income tax responsiveness. The authors find that individuals in the top decile of the ability distribution react twice as strong to a large and salient kink point in the tax code than the average individual, and three times as strong as individuals in the bottom ability decile. This ability gradient reflects both income shifting among high-ability businesses owners and labour supply responses among high-ability wage earners.]]></summary>
         <author>
-            <name>Katarzyna  Budnik, Jiri Panos, Cosimo Pancaro, Aurea Ponte Marques</name>
+            <name>Spencer  Bastani, Daniel Waldenström</name>
         </author>
     </entry>
     <entry>
