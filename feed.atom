@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-23T06:01:31.623Z</id>
+    <id>urn:2022-06-23T09:01:51.512Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-23T06:01:31.623Z</updated>
+    <updated>2022-06-23T09:01:51.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Economics of Brexit: What Have We Learned?]]></title>
+        <id>https://voxeu.org/content/economics-brexit-what-have-we-learned</id>
+        <link href="https://voxeu.org/content/economics-brexit-what-have-we-learned"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This eBook, produced by VoxEU/CEPR and UK in a Changing Europe, brings together leading academic researchers on trade, immigration and political economy to assess what we have learned, 18 months on from its implementation, about the impacts of Brexit on the UK economy]]></summary>
+        <author>
+            <name>Jonathan  Portes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Temporary work contracts and female labour market outcomes]]></title>
         <id>https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes</id>
@@ -576,26 +586,6 @@ Investment and Business Cycles: Focusing on Firms ' Capital Adjustment Costs
         <summary type="html"><![CDATA[How does people’s ability influence their taxpaying behavior? This column links administrative tax and military enlistment registers in Sweden to measure how cognitive ability matters for income tax responsiveness. The authors find that individuals in the top decile of the ability distribution react twice as strong to a large and salient kink point in the tax code than the average individual, and three times as strong as individuals in the bottom ability decile. This ability gradient reflects both income shifting among high-ability businesses owners and labour supply responses among high-ability wage earners.]]></summary>
         <author>
             <name>Spencer  Bastani, Daniel Waldenström</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology and local state capacity]]></title>
-        <id>https://voxeu.org/article/technology-and-local-state-capacity</id>
-        <link href="https://voxeu.org/article/technology-and-local-state-capacity"/>
-        <updated>2022-06-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Studies show that investing in a government’s capacity to collect tax revenues is beneficial for economic development of low-income countries. This column uses new census data from local governments in Ghana to provide descriptive and experimental evidence on the role of technology in improving government tax capacity. The pre-existing infrastructure for tax collection in the country is poor, and the technology increases the number of delivered tax bills by 27% and increases the amount of revenue collected by 103%. Despite these favourable impacts, the technology also increases the incidence of bribes, qualifying the policy rationale.]]></summary>
-        <author>
-            <name>James  Dzansi, Anders Jensen, David  Lagakos, Henry Telli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The role for monetary policy in the green transition]]></title>
-        <id>https://voxeu.org/article/role-monetary-policy-green-transition</id>
-        <link href="https://voxeu.org/article/role-monetary-policy-green-transition"/>
-        <updated>2022-06-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Central banks are increasingly being called upon to engage in climate change issues, not only in their financial stability capacity but also with monetary policy measures. This second column in a two-part series reviews some measures that central banks could consider to internalise climate change objectives into their monetary policy frameworks. These range from protective actions to more proactive measures aimed at mitigating climate change and supporting green finance and the transition to a low-carbon economy. It also discusses the constraints and trade-offs central banks face.]]></summary>
-        <author>
-            <name>Lena  Boneva, Gianluigi  Ferrucci, Francesco Paolo Mongelli</name>
         </author>
     </entry>
     <entry>
