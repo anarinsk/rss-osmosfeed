@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T09:01:49.436Z</id>
+    <id>urn:2022-06-24T12:02:07.724Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-24T09:01:49.436Z</updated>
+    <updated>2022-06-24T12:02:07.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Real-time food price inflation in Germany]]></title>
-        <id>https://voxeu.org/article/real-time-food-price-inflation-germany</id>
-        <link href="https://voxeu.org/article/real-time-food-price-inflation-germany"/>
+        <title type="html"><![CDATA[Inflation and Europe’s public finances]]></title>
+        <id>https://voxeu.org/vox-talks/inflation-and-europe-s-public-finances</id>
+        <link href="https://voxeu.org/vox-talks/inflation-and-europe-s-public-finances"/>
         <updated>2022-06-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.]]></summary>
+        <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022: What are the consequences of an extended period of above-target inflation for the euro area? Agnès Bénassy-Quéré and Giancarlo Corsetti discuss policy options with Tim Phillips.]]></summary>
         <author>
-            <name>Guenter W. Beck, Kai Carstensen, Jan-Oliver Menz, Richard Schnorrenberger, Elisabeth Wieland</name>
+            <name>Agnès Bénassy-Quéré, Giancarlo Corsetti</name>
         </author>
     </entry>
     <entry>
@@ -23,6 +23,16 @@
         <summary type="html"><![CDATA[Dale Jorgenson, who passed away in June 2022, was a central contributor to a wide range of economic and policy issues over a long and productive career. This column, written by three of his friends and colleagues, outlines some of his most notable intellectual contributions, including changing how economists think about investment, implementing better ways to measure productivity, and pushing national accountants to update how they measure economies around the world. The authors note that a characteristic of his work was a tight integration of economic theory, appropriate data that matches the theory, and sound econometrics.]]></summary>
         <author>
             <name>John Fernald, Robert Inklaar, Bart van Ark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-time food price inflation in Germany]]></title>
+        <id>https://voxeu.org/article/real-time-food-price-inflation-germany</id>
+        <link href="https://voxeu.org/article/real-time-food-price-inflation-germany"/>
+        <updated>2022-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.]]></summary>
+        <author>
+            <name>Guenter W. Beck, Kai Carstensen, Jan-Oliver Menz, Richard Schnorrenberger, Elisabeth Wieland</name>
         </author>
     </entry>
     <entry>
@@ -57,16 +67,6 @@ Download the eBook: The Economics of Brexit: What Have We Learned?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Temporary work contracts and female labour market outcomes]]></title>
-        <id>https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes</id>
-        <link href="https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes"/>
-        <updated>2022-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.]]></summary>
-        <author>
-            <name>Yukiko Asai, Dmitri Koustas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spending effects of fiscal transfers in a pandemic]]></title>
         <id>https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic</id>
         <link href="https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic"/>
@@ -74,6 +74,16 @@ Download the eBook: The Economics of Brexit: What Have We Learned?]]></summary>
         <summary type="html"><![CDATA[Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.]]></summary>
         <author>
             <name>Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporary work contracts and female labour market outcomes]]></title>
+        <id>https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes</id>
+        <link href="https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.]]></summary>
+        <author>
+            <name>Yukiko Asai, Dmitri Koustas</name>
         </author>
     </entry>
     <entry>
@@ -594,16 +604,6 @@ Lesson 13. 조지프 스티글리츠
 What are the long-term consequences of the conflict in Ukraine for the EU? Lucrezia Reichlin and Philippe Martin discuss the impact of the war on trade, energy security, fiscal policy, and green transition with Tim Phillips.]]></summary>
         <author>
             <name>Philippe Martin, Lucrezia Reichlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Past and present inflation are more similar than you think]]></title>
-        <id>https://voxeu.org/article/past-and-present-inflation-are-more-similar-you-think</id>
-        <link href="https://voxeu.org/article/past-and-present-inflation-are-more-similar-you-think"/>
-        <updated>2022-06-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Housing inflation in the US before 1983 was measured in a way that made the Consumer Price Index (CPI) mechanically responsive to Fed policy, leading to artificially high peaks and fast declines in CPI inflation. To better contextualise the current run-up in inflation to a 40-year high, this column presents new historical series for CPI headline and core inflation that are more consistent with current practices and expenditure shares for the post-war period. Using these series, the authors find that current inflation levels are much closer to past inflation peaks than the official series would suggest.]]></summary>
-        <author>
-            <name>Marijn A. Bolhuis, Judd N. L. Cramer, Lawrence H. Summers</name>
         </author>
     </entry>
     <entry>
@@ -3086,92 +3086,6 @@ The post The long-term benefits of better school lunches appeared first on Micro
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
 국내도서 > 어린이 > 과학/수학/컴퓨터 > 컴퓨터와 코딩
 국내도서 > 컴퓨터/모바일 > 초중고 소프트웨어 교육/코딩 > 초등]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플로우가 보이는 머신러닝 프로젝트/임선집.채호창.곽랑주 지음/루비페이퍼]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=295409608</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=295409608"/>
-        <updated>2022-05-25T23:55:00.000Z</updated>
-        <summary type="html"><![CDATA[플로우가 보이는 머신러닝 프로젝트
-임선집.채호창.곽랑주 지음 / 루비페이퍼 / 2022년 05월 / ISBN:9791186710807
-정가: 32,000원 / 판매가: 28,800원 / 마일리지: 1,600원
-이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치
-
-
-
-
-내가 만든 머신러닝은 왜 항상 엉뚱한 결과가 나올까? 이 책은 머신러닝 프로젝트의 난이도를 초급, 중급, 고급으로 나누어 데이터 분석과 데이터 처리부터 머신러닝 실행까지 체계적으로 보여준다. 그리고 단계마다 제시하는 프로젝트 흐름도는 프로젝트 전체 과정 중에 어디를 실행 중인지, 해당 과정을 왜 해야 하는지를 이해하여 머신러닝을 바라보는 시야가 확 트이도록 도와준다.
-
-Part 01 머신러닝과 딥러닝을 배우기 전에
-Chapter 01 유용한 사전 지식
-_1.1 교수님! 강의 순서가 바뀌었어요
-_1.2 머신러닝 모델을 먼저 돌려 봐?
-_1.3 이 책의 구성
-
-Chapter 02 머신러닝과 딥러닝 소개
-_2.1 머신러닝과 딥러닝
-_2.2 머신러닝의 종류
-__2.2.1 지도 학습
-__2.2.2 비지도 학습
-__2.2.3 강화 학습
-_2.3 파이썬
-_2.4 라이브러리
-__2.4.1 넘파이
-__2.4.2 판다스
-__2.4.3 사이킷런
-_2.5 텐서플로와 케라스
-_2.6 이 책의 실습 환경
-__2.6.1 주피터 노트북
-__2.6.2 코랩
-__2.6.3 실습 자료 다운받기
-
-Part 02 머신러닝 프로젝트
-Chapter 03 뇌졸중 예측 분석(초급 프로젝트)
-_3.1 뇌졸중은 어떻게 발병하지?
-_3.2 뇌졸중과 관련된 데이터를 모으자
-_3.3 그전에도 뇌졸중이 발병한 적이 있을까?
-_3.4 0.08세도 뇌졸중이 온다고?
-__3.4.1 데이터 불러오기
-__3.4.2 ID 변수 설정
-__3.4.3 타깃 변수 생성
-__3.4.4 기타 변수 데이터 처리
-_3.5 어떤 요인이 뇌졸중에 영향을 미칠까?
-__3.5.1 결측값이 50% 초과인 변수 제거
-__3.5.2 요약 통계 및 도수분포표 검토
-__3.5.3 이상값 제거
-__3.5.4 상관계수 검토
-__3.5.5 시각화
-__3.5.6 t-검정
-_3.6 어떤 머신러닝 모델을 사용할까?
-_3.7 드디어 머신러닝 모델을 돌려보자
-__3.7.1 데이터 추가 처리
-__3.7.2 데이터 분할 및 대체
-__3.7.3 결정 트리 모델
-__3.7.4 로지스틱 회귀 모델
-__3.7.5 사이킷런 신경망 모델
-__3.7.6 K-최근접 이웃 모델
-_3.8 그래서 뇌졸중을 예방할 수 있을까?
-
-Chapter 04 주택 가격 분석(중급 프로젝트)
-_4.1 주택 가격은 어떻게 형성될까?
-_4.2 주택 가격에 관련된 데이터를 구하자
-_4.3 주변 주택 가격이 얼마지?
-_4.4 주택과 인구 통계를 함께 활용하자
-__4.4.1 데이터 불러오기
-__4.4.2 ID 변수 설정
-__4.4.3 데이터 병합
-__4.4.4 타깃 변수 생성
-__4.4.5 기타 변수 데이터 처리 1
-__4.4.6 기타 변수 데이터 처리 2
-_4.5 어떤 요인이 주택 가격에 영향을 미칠까?
-__4.5.1 결측값이 50% 초과인 변수 제거
-__4.5....
-
-국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>

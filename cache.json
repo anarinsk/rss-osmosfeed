@@ -431,16 +431,6 @@
           "wordCount": null,
           "title": "송쌤의 엔트리 인공지능 학교/송상수 지음/제이펍",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=295409608",
-          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
-          "description": "플로우가 보이는 머신러닝 프로젝트\n임선집.채호창.곽랑주 지음 / 루비페이퍼 / 2022년 05월 / ISBN:9791186710807\n정가: 32,000원 / 판매가: 28,800원 / 마일리지: 1,600원\n이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치\n\n\n\n\n내가 만든 머신러닝은 왜 항상 엉뚱한 결과가 나올까? 이 책은 머신러닝 프로젝트의 난이도를 초급, 중급, 고급으로 나누어 데이터 분석과 데이터 처리부터 머신러닝 실행까지 체계적으로 보여준다. 그리고 단계마다 제시하는 프로젝트 흐름도는 프로젝트 전체 과정 중에 어디를 실행 중인지, 해당 과정을 왜 해야 하는지를 이해하여 머신러닝을 바라보는 시야가 확 트이도록 도와준다.\n\nPart 01 머신러닝과 딥러닝을 배우기 전에\r\nChapter 01 유용한 사전 지식\r\n_1.1 교수님! 강의 순서가 바뀌었어요\r\n_1.2 머신러닝 모델을 먼저 돌려 봐?\r\n_1.3 이 책의 구성\r\n\r\nChapter 02 머신러닝과 딥러닝 소개\r\n_2.1 머신러닝과 딥러닝\r\n_2.2 머신러닝의 종류\r\n__2.2.1 지도 학습\r\n__2.2.2 비지도 학습\r\n__2.2.3 강화 학습\r\n_2.3 파이썬\r\n_2.4 라이브러리\r\n__2.4.1 넘파이\r\n__2.4.2 판다스\r\n__2.4.3 사이킷런\r\n_2.5 텐서플로와 케라스\r\n_2.6 이 책의 실습 환경\r\n__2.6.1 주피터 노트북\r\n__2.6.2 코랩\r\n__2.6.3 실습 자료 다운받기\r\n\r\nPart 02 머신러닝 프로젝트\r\nChapter 03 뇌졸중 예측 분석(초급 프로젝트)\r\n_3.1 뇌졸중은 어떻게 발병하지?\r\n_3.2 뇌졸중과 관련된 데이터를 모으자\r\n_3.3 그전에도 뇌졸중이 발병한 적이 있을까?\r\n_3.4 0.08세도 뇌졸중이 온다고?\r\n__3.4.1 데이터 불러오기\r\n__3.4.2 ID 변수 설정\r\n__3.4.3 타깃 변수 생성\r\n__3.4.4 기타 변수 데이터 처리\r\n_3.5 어떤 요인이 뇌졸중에 영향을 미칠까?\r\n__3.5.1 결측값이 50% 초과인 변수 제거\r\n__3.5.2 요약 통계 및 도수분포표 검토\r\n__3.5.3 이상값 제거\r\n__3.5.4 상관계수 검토\r\n__3.5.5 시각화\r\n__3.5.6 t-검정\r\n_3.6 어떤 머신러닝 모델을 사용할까?\r\n_3.7 드디어 머신러닝 모델을 돌려보자\r\n__3.7.1 데이터 추가 처리\r\n__3.7.2 데이터 분할 및 대체\r\n__3.7.3 결정 트리 모델\r\n__3.7.4 로지스틱 회귀 모델\r\n__3.7.5 사이킷런 신경망 모델\r\n__3.7.6 K-최근접 이웃 모델\r\n_3.8 그래서 뇌졸중을 예방할 수 있을까?\r\n\r\nChapter 04 주택 가격 분석(중급 프로젝트)\r\n_4.1 주택 가격은 어떻게 형성될까?\r\n_4.2 주택 가격에 관련된 데이터를 구하자\r\n_4.3 주변 주택 가격이 얼마지?\r\n_4.4 주택과 인구 통계를 함께 활용하자\r\n__4.4.1 데이터 불러오기\r\n__4.4.2 ID 변수 설정\r\n__4.4.3 데이터 병합\r\n__4.4.4 타깃 변수 생성\r\n__4.4.5 기타 변수 데이터 처리 1\r\n__4.4.6 기타 변수 데이터 처리 2\r\n_4.5 어떤 요인이 주택 가격에 영향을 미칠까?\r\n__4.5.1 결측값이 50% 초과인 변수 제거\r\n__4.5....\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬",
-          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=295409608",
-          "publishedOn": "2022-05-25T23:55:00.000Z",
-          "wordCount": null,
-          "title": "플로우가 보이는 머신러닝 프로젝트/임선집.채호창.곽랑주 지음/루비페이퍼",
-          "imageUrl": null
         }
       ]
     },
@@ -456,13 +446,13 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/real-time-food-price-inflation-germany",
-          "author": "Guenter W. Beck, Kai Carstensen, Jan-Oliver Menz, Richard Schnorrenberger, Elisabeth Wieland",
-          "description": "Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.",
-          "link": "https://voxeu.org/article/real-time-food-price-inflation-germany",
+          "id": "https://voxeu.org/vox-talks/inflation-and-europe-s-public-finances",
+          "author": "Agnès Bénassy-Quéré, Giancarlo Corsetti",
+          "description": "Recorded live at CEPR Paris Symposium 2022: What are the consequences of an extended period of above-target inflation for the euro area? Agnès Bénassy-Quéré and Giancarlo Corsetti discuss policy options with Tim Phillips.",
+          "link": "https://voxeu.org/vox-talks/inflation-and-europe-s-public-finances",
           "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 2606,
-          "title": "Real-time food price inflation in Germany",
+          "wordCount": 788,
+          "title": "Inflation and Europe’s public finances",
           "imageUrl": null
         },
         {
@@ -476,12 +466,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/real-time-food-price-inflation-germany",
+          "author": "Guenter W. Beck, Kai Carstensen, Jan-Oliver Menz, Richard Schnorrenberger, Elisabeth Wieland",
+          "description": "Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.",
+          "link": "https://voxeu.org/article/real-time-food-price-inflation-germany",
+          "publishedOn": "2022-06-24T00:00:00.000Z",
+          "wordCount": 2606,
+          "title": "Real-time food price inflation in Germany",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/logic-behind-australia-s-news-media-bargaining-code",
           "author": "Rod Sims",
           "description": "Australia’s news media bargaining code has been successful in achieving the single objective set for it: to address the imbalance in bargaining power between the country’s news media businesses and the digital platforms of Big Tech. The code is largely being copied in Canada, and its key components are in essence replicated in draft legislation under discussion in the UK and the US. Yet it is both misunderstood, because it is novel, and misrepresented, by those who do not wish to see the model extended beyond Australia. This column explains the economics behind the code’s inception and implementation, and deals with some of the misconceptions and misrepresentations.",
           "link": "https://voxeu.org/article/logic-behind-australia-s-news-media-bargaining-code",
           "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 2925,
+          "wordCount": 2928,
           "title": "The logic behind Australia’s news media bargaining code",
           "imageUrl": null
         },
@@ -506,16 +506,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes",
-          "author": "Yukiko Asai, Dmitri Koustas",
-          "description": "Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.",
-          "link": "https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes",
-          "publishedOn": "2022-06-23T00:00:00.000Z",
-          "wordCount": 3011,
-          "title": "Temporary work contracts and female labour market outcomes",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic",
           "author": "Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer",
           "description": "Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.",
@@ -526,6 +516,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes",
+          "author": "Yukiko Asai, Dmitri Koustas",
+          "description": "Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.",
+          "link": "https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes",
+          "publishedOn": "2022-06-23T00:00:00.000Z",
+          "wordCount": 3011,
+          "title": "Temporary work contracts and female labour market outcomes",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/vox-talks/consequences-war-eu",
           "author": "Philippe Martin, Lucrezia Reichlin",
           "description": "Recorded live at CEPR Paris Symposium 2022.\nWhat are the long-term consequences of the conflict in Ukraine for the EU? Lucrezia Reichlin and Philippe Martin discuss the impact of the war on trade, energy security, fiscal policy, and green transition with Tim Phillips.",
@@ -533,16 +533,6 @@
           "publishedOn": "2022-06-22T00:00:00.000Z",
           "wordCount": 894,
           "title": "The consequences of war for the EU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/past-and-present-inflation-are-more-similar-you-think",
-          "author": "Marijn A. Bolhuis, Judd N. L. Cramer, Lawrence H. Summers",
-          "description": "Housing inflation in the US before 1983 was measured in a way that made the Consumer Price Index (CPI) mechanically responsive to Fed policy, leading to artificially high peaks and fast declines in CPI inflation. To better contextualise the current run-up in inflation to a 40-year high, this column presents new historical series for CPI headline and core inflation that are more consistent with current practices and expenditure shares for the post-war period. Using these series, the authors find that current inflation levels are much closer to past inflation peaks than the official series would suggest.",
-          "link": "https://voxeu.org/article/past-and-present-inflation-are-more-similar-you-think",
-          "publishedOn": "2022-06-22T00:00:00.000Z",
-          "wordCount": 2903,
-          "title": "Past and present inflation are more similar than you think",
           "imageUrl": null
         }
       ]
