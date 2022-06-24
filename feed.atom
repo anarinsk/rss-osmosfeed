@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T03:31:09.849Z</id>
+    <id>urn:2022-06-24T06:02:16.295Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-24T03:31:09.849Z</updated>
+    <updated>2022-06-24T06:02:16.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dale Jorgenson: Investment, growth accounting, and economic measurement]]></title>
+        <id>https://voxeu.org/article/dale-jorgenson-investment-growth-accounting-and-economic-measurement</id>
+        <link href="https://voxeu.org/article/dale-jorgenson-investment-growth-accounting-and-economic-measurement"/>
+        <updated>2022-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dale Jorgenson, who passed away in June 2022, was a central contributor to a wide range of economic and policy issues over a long and productive career. This column, written by three of his friends and colleagues, outlines some of his most notable intellectual contributions, including changing how economists think about investment, implementing better ways to measure productivity, and pushing national accountants to update how they measure economies around the world. The authors note that a characteristic of his work was a tight integration of economic theory, appropriate data that matches the theory, and sound econometrics.]]></summary>
+        <author>
+            <name>John Fernald, Robert Inklaar, Bart van Ark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The logic behind Australia’s news media bargaining code]]></title>
+        <id>https://voxeu.org/article/logic-behind-australia-s-news-media-bargaining-code</id>
+        <link href="https://voxeu.org/article/logic-behind-australia-s-news-media-bargaining-code"/>
+        <updated>2022-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Australia’s news media bargaining code has been successful in achieving the single objective set for it: to address the imbalance in bargaining power between the country’s news media businesses and the digital platforms of Big Tech. The code is largely being copied in Canada, and its key components are in essence replicated in draft legislation under discussion in the UK and the US. Yet it is both misunderstood, because it is novel, and misrepresented, by those who do not wish to see the model extended beyond Australia. This column explains the economics behind the code’s inception and implementation, and deals with some of the misconceptions and misrepresentations.]]></summary>
+        <author>
+            <name>Rod Sims</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-time food price inflation in Germany]]></title>
+        <id>https://voxeu.org/article/real-time-food-price-inflation-germany</id>
+        <link href="https://voxeu.org/article/real-time-food-price-inflation-germany"/>
+        <updated>2022-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.]]></summary>
+        <author>
+            <name>Guenter W. Beck, Kai Carstensen, Jan-Oliver Menz, Richard Schnorrenberger, Elisabeth Wieland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Economics of Brexit]]></title>
         <id>https://voxeu.org/vox-talks/economics-brexit-0</id>
@@ -932,28 +962,6 @@ CHAPTER 10 검정
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The short-term impact of war on economic activity in Ukraine]]></title>
-        <id>https://voxeu.org/article/short-term-impact-war-economic-activity-ukraine</id>
-        <link href="https://voxeu.org/article/short-term-impact-war-economic-activity-ukraine"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The war in Ukraine has severely limited the ability to gather statistical information and assess the impact on the country’s economy. This column uses high-frequency data from night lights, online search behaviour, and social media activity to estimate the economic impact on Ukrainian regions. It suggests that economic activity decreased by 45% at the beginning of the war, but recovered to around 85% of pre-war levels in April. Timely assessments of human and capital losses will be crucial in the discussion of optimal post-war redevelopment strategies.]]></summary>
-        <author>
-            <name>Mihnea Constantinescu, Kalle Kappner, Nikodem Szumilo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance abuse during the pandemic. The impact on labour-force participation]]></title>
-        <id>https://voxeu.org/content/substance-abuse-during-pandemic-impact-labour-force-participation</id>
-        <link href="https://voxeu.org/content/substance-abuse-during-pandemic-impact-labour-force-participation"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[During the COVID-19 pandemic, there was a large drop in labour-force participation. Some of it was due to early retirement. But how much can we attribute to a more disturbing cause: a rise in substance abuse?
-Read more about this study by downloading the free CEPR discussion paper:
-Greenwood, J, Guner, N and Kopecky, K. 2022. 'Substance Abuse during the Pandemic: Implications for Labor-Force Participation'. CEPR]]></summary>
-        <author>
-            <name>Nezih Guner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lockdowns and depression]]></title>
         <id>https://www.aeaweb.org/research/charts/mental-health-lockdowns-turkey</id>
         <link href="https://www.aeaweb.org/research/charts/mental-health-lockdowns-turkey"/>
@@ -1086,16 +1094,6 @@ Investment and Business Cycles: Focusing on Firms ' Capital Adjustment Costs
 국내도서 > 대학교재/전문서적 > 경상계열 > 경제학]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ability gradient in tax responsiveness]]></title>
-        <id>https://voxeu.org/article/ability-gradient-tax-responsiveness</id>
-        <link href="https://voxeu.org/article/ability-gradient-tax-responsiveness"/>
-        <updated>2022-06-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How does people’s ability influence their taxpaying behavior? This column links administrative tax and military enlistment registers in Sweden to measure how cognitive ability matters for income tax responsiveness. The authors find that individuals in the top decile of the ability distribution react twice as strong to a large and salient kink point in the tax code than the average individual, and three times as strong as individuals in the bottom ability decile. This ability gradient reflects both income shifting among high-ability businesses owners and labour supply responses among high-ability wage earners.]]></summary>
-        <author>
-            <name>Spencer  Bastani, Daniel Waldenström</name>
         </author>
     </entry>
     <entry>
