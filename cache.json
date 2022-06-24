@@ -456,6 +456,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/real-time-food-price-inflation-germany",
+          "author": "Guenter W. Beck, Kai Carstensen, Jan-Oliver Menz, Richard Schnorrenberger, Elisabeth Wieland",
+          "description": "Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.",
+          "link": "https://voxeu.org/article/real-time-food-price-inflation-germany",
+          "publishedOn": "2022-06-24T00:00:00.000Z",
+          "wordCount": 2606,
+          "title": "Real-time food price inflation in Germany",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/dale-jorgenson-investment-growth-accounting-and-economic-measurement",
           "author": "John Fernald, Robert Inklaar, Bart van Ark",
           "description": "Dale Jorgenson, who passed away in June 2022, was a central contributor to a wide range of economic and policy issues over a long and productive career. This column, written by three of his friends and colleagues, outlines some of his most notable intellectual contributions, including changing how economists think about investment, implementing better ways to measure productivity, and pushing national accountants to update how they measure economies around the world. The authors note that a characteristic of his work was a tight integration of economic theory, appropriate data that matches the theory, and sound econometrics.",
@@ -476,16 +486,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/real-time-food-price-inflation-germany",
-          "author": "Guenter W. Beck, Kai Carstensen, Jan-Oliver Menz, Richard Schnorrenberger, Elisabeth Wieland",
-          "description": "Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.",
-          "link": "https://voxeu.org/article/real-time-food-price-inflation-germany",
-          "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 2606,
-          "title": "Real-time food price inflation in Germany",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/vox-talks/economics-brexit-0",
           "author": "Jonathan  Portes, Thomas Sampson, Sarah Hall",
           "description": "The latest CEPR ebook investigates the impact of Brexit so far on the economies of the UK and EU. Tim Phillips talks to three of the authors: Jonathan Portes, Thomas Sampson and Sarah Hall.\nDownload the eBook: The Economics of Brexit: What Have We Learned?",
@@ -501,18 +501,8 @@
           "description": "This eBook, produced by VoxEU/CEPR and UK in a Changing Europe, brings together leading academic researchers on trade, immigration and political economy to assess what we have learned, 18 months on from its implementation, about the impacts of Brexit on the UK economy",
           "link": "https://voxeu.org/content/economics-brexit-what-have-we-learned",
           "publishedOn": "2022-06-23T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 910,
           "title": "The Economics of Brexit: What Have We Learned?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic",
-          "author": "Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer",
-          "description": "Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.",
-          "link": "https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic",
-          "publishedOn": "2022-06-23T00:00:00.000Z",
-          "wordCount": 2436,
-          "title": "Spending effects of fiscal transfers in a pandemic",
           "imageUrl": null
         },
         {
@@ -523,6 +513,16 @@
           "publishedOn": "2022-06-23T00:00:00.000Z",
           "wordCount": 3011,
           "title": "Temporary work contracts and female labour market outcomes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic",
+          "author": "Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer",
+          "description": "Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.",
+          "link": "https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic",
+          "publishedOn": "2022-06-23T00:00:00.000Z",
+          "wordCount": 2436,
+          "title": "Spending effects of fiscal transfers in a pandemic",
           "imageUrl": null
         },
         {

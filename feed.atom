@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T06:02:16.295Z</id>
+    <id>urn:2022-06-24T09:01:49.436Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-24T06:02:16.295Z</updated>
+    <updated>2022-06-24T09:01:49.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Real-time food price inflation in Germany]]></title>
+        <id>https://voxeu.org/article/real-time-food-price-inflation-germany</id>
+        <link href="https://voxeu.org/article/real-time-food-price-inflation-germany"/>
+        <updated>2022-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.]]></summary>
+        <author>
+            <name>Guenter W. Beck, Kai Carstensen, Jan-Oliver Menz, Richard Schnorrenberger, Elisabeth Wieland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dale Jorgenson: Investment, growth accounting, and economic measurement]]></title>
         <id>https://voxeu.org/article/dale-jorgenson-investment-growth-accounting-and-economic-measurement</id>
@@ -23,16 +33,6 @@
         <summary type="html"><![CDATA[Australia’s news media bargaining code has been successful in achieving the single objective set for it: to address the imbalance in bargaining power between the country’s news media businesses and the digital platforms of Big Tech. The code is largely being copied in Canada, and its key components are in essence replicated in draft legislation under discussion in the UK and the US. Yet it is both misunderstood, because it is novel, and misrepresented, by those who do not wish to see the model extended beyond Australia. This column explains the economics behind the code’s inception and implementation, and deals with some of the misconceptions and misrepresentations.]]></summary>
         <author>
             <name>Rod Sims</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-time food price inflation in Germany]]></title>
-        <id>https://voxeu.org/article/real-time-food-price-inflation-germany</id>
-        <link href="https://voxeu.org/article/real-time-food-price-inflation-germany"/>
-        <updated>2022-06-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.]]></summary>
-        <author>
-            <name>Guenter W. Beck, Kai Carstensen, Jan-Oliver Menz, Richard Schnorrenberger, Elisabeth Wieland</name>
         </author>
     </entry>
     <entry>
@@ -57,16 +57,6 @@ Download the eBook: The Economics of Brexit: What Have We Learned?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spending effects of fiscal transfers in a pandemic]]></title>
-        <id>https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic</id>
-        <link href="https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic"/>
-        <updated>2022-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.]]></summary>
-        <author>
-            <name>Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Temporary work contracts and female labour market outcomes]]></title>
         <id>https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes</id>
         <link href="https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes"/>
@@ -74,6 +64,16 @@ Download the eBook: The Economics of Brexit: What Have We Learned?]]></summary>
         <summary type="html"><![CDATA[Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.]]></summary>
         <author>
             <name>Yukiko Asai, Dmitri Koustas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spending effects of fiscal transfers in a pandemic]]></title>
+        <id>https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic</id>
+        <link href="https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.]]></summary>
+        <author>
+            <name>Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer</name>
         </author>
     </entry>
     <entry>
