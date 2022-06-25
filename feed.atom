@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-25T09:01:38.406Z</id>
+    <id>urn:2022-06-25T12:01:48.529Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-25T09:01:38.406Z</updated>
+    <updated>2022-06-25T12:01:48.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -384,16 +384,6 @@ CHAPTER 3 데이터 다루기
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Economics of Brexit: What Have We Learned?]]></title>
-        <id>https://voxeu.org/content/economics-brexit-what-have-we-learned</id>
-        <link href="https://voxeu.org/content/economics-brexit-what-have-we-learned"/>
-        <updated>2022-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This eBook, produced by VoxEU/CEPR and UK in a Changing Europe, brings together leading academic researchers on trade, immigration and political economy to assess what we have learned, 18 months on from its implementation, about the impacts of Brexit on the UK economy]]></summary>
-        <author>
-            <name>Jonathan  Portes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Economics of Brexit]]></title>
         <id>https://voxeu.org/vox-talks/economics-brexit-0</id>
         <link href="https://voxeu.org/vox-talks/economics-brexit-0"/>
@@ -402,6 +392,16 @@ CHAPTER 3 데이터 다루기
 Download the eBook: The Economics of Brexit: What Have We Learned?]]></summary>
         <author>
             <name>Jonathan  Portes, Thomas Sampson, Sarah Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Economics of Brexit: What Have We Learned?]]></title>
+        <id>https://voxeu.org/content/economics-brexit-what-have-we-learned</id>
+        <link href="https://voxeu.org/content/economics-brexit-what-have-we-learned"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This eBook, produced by VoxEU/CEPR and UK in a Changing Europe, brings together leading academic researchers on trade, immigration and political economy to assess what we have learned, 18 months on from its implementation, about the impacts of Brexit on the UK economy]]></summary>
+        <author>
+            <name>Jonathan  Portes</name>
         </author>
     </entry>
     <entry>
