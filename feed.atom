@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-26T00:03:14.684Z</id>
+    <id>urn:2022-06-26T03:29:53.580Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-26T00:03:14.684Z</updated>
+    <updated>2022-06-26T03:29:53.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Social pressure in football matches]]></title>
+        <id>https://voxeu.org/article/social-pressure-football-matches</id>
+        <link href="https://voxeu.org/article/social-pressure-football-matches"/>
+        <updated>2022-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our behaviours are highly influenced by social pressure. This column takes as a natural experiment the 2020 season of the Japanese professional football league, which held matches without spectators due to the COVID-19 pandemic, to examine whether the presence of spectators puts pressure on referees’ decisions. The authors find that the home team advantage is real: the number of fouls decided against the home team decreased significantly in matches with spectators. The absolute number of home-team supporters mattered.]]></summary>
+        <author>
+            <name>Hiroshi Morita, Shota Araki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin isn’t much of a macro hedge]]></title>
         <id>https://voxeu.org/article/bitcoin-isn-t-much-macro-hedge</id>
@@ -654,16 +664,6 @@ Download the eBook: The Economics of Brexit: What Have We Learned?]]></summary>
         <summary type="html"><![CDATA[Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.]]></summary>
         <author>
             <name>Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporary work contracts and female labour market outcomes]]></title>
-        <id>https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes</id>
-        <link href="https://voxeu.org/article/temporary-work-contracts-and-female-labour-market-outcomes"/>
-        <updated>2022-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Little is known about the effects of being a temporary contract holder on young workers’ subsequent labour market and family outcomes. This column provides insight into this question by studying a unique set of natural experiments in the Japanese airline industry, which changed the nature of the contract for flight attendants in the mid-1990s and then again in the mid-2010s. The authors find that workers starting on temporary contracts were less likely to remain with the firm over time and were significantly less likely to have children within ten years of starting the job.]]></summary>
-        <author>
-            <name>Yukiko Asai, Dmitri Koustas</name>
         </author>
     </entry>
     <entry>
