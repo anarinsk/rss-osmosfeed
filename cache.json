@@ -466,12 +466,32 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/crypto-currencies-and-digital-money-taking-stock",
+          "author": "Jean-Pierre Landau",
+          "description": "The crash in crypto currency valuations may trigger a radical reassessment. But, just as excessive hype fuelled speculation, a collapse in valuations may lead to an indiscriminate condemnation of digital money and an underestimation of its potential benefits. This column takes stock of developments over the last five years in an attempt to separate fact from exaggeration and fiction.",
+          "link": "https://voxeu.org/article/crypto-currencies-and-digital-money-taking-stock",
+          "publishedOn": "2022-06-27T00:00:00.000Z",
+          "wordCount": 3092,
+          "title": "Crypto currencies and digital money: Taking stock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/fiscal-policy-staying-course-troubled-times",
+          "author": "Niels  Thygesen, Roel Beetsma, Massimo Bordignon, Xavier Debrun, Mateusz Szczurek, Martin Larch, Matthias Busse, Mateja Gabrijelcic, Laszlo Jankovics, Janis Malzubris",
+          "description": "The war in Ukraine has clouded the near-term economic outlook. However, the European Fiscal Board concludes that current policy plans for 2023 amount to a broadly appropriate fiscal stance for the euro area as a whole. A moderate fiscal contraction appears adequate despite the war. Indeed, the terms-of-trade shock magnified by the war amounts to an overall income loss that cannot be buffered by additional public debt accumulation. A fiscal stimulus would also undermine the ECB’s effort to better align aggregate demand with aggregate supply to tame inflationary pressures. Instead, fiscal policy should focus on targeted and temporary support to vulnerable households without prejudice of medium-term debt sustainability.",
+          "link": "https://voxeu.org/article/fiscal-policy-staying-course-troubled-times",
+          "publishedOn": "2022-06-27T00:00:00.000Z",
+          "wordCount": 2249,
+          "title": "Fiscal policy staying the course in troubled times",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/social-pressure-football-matches",
           "author": "Hiroshi Morita, Shota Araki",
           "description": "Our behaviours are highly influenced by social pressure. This column takes as a natural experiment the 2020 season of the Japanese professional football league, which held matches without spectators due to the COVID-19 pandemic, to examine whether the presence of spectators puts pressure on referees’ decisions. The authors find that the home team advantage is real: the number of fouls decided against the home team decreased significantly in matches with spectators. The absolute number of home-team supporters mattered.",
           "link": "https://voxeu.org/article/social-pressure-football-matches",
           "publishedOn": "2022-06-26T00:00:00.000Z",
-          "wordCount": 1991,
+          "wordCount": null,
           "title": "Social pressure in football matches",
           "imageUrl": null
         },
@@ -481,7 +501,7 @@
           "description": "Bitcoin is often sold as protection against adverse macroeconomic outcomes. This column argues that this depiction as a macro hedge does not stand up to scrutiny. Recent events – from Covid and inflation to war – provide a window into what sort of asset bitcoin actually is. It if were a true macro hedge, bitcoin would be positively correlated with macroeconomic uncertainty. Instead, it acts as a leveraged bet for speculators. And unlike gold, which has been trusted as a macro hedge for millennia, bitcoin requires access to electricity and the internet, precarious services in times of turmoil.",
           "link": "https://voxeu.org/article/bitcoin-isn-t-much-macro-hedge",
           "publishedOn": "2022-06-25T00:00:00.000Z",
-          "wordCount": 2238,
+          "wordCount": null,
           "title": "Bitcoin isn’t much of a macro hedge",
           "imageUrl": null
         },
@@ -491,7 +511,7 @@
           "description": "Recorded live at CEPR Paris Symposium 2022: What are the consequences of an extended period of above-target inflation for the euro area? Agnès Bénassy-Quéré and Giancarlo Corsetti discuss policy options with Tim Phillips.",
           "link": "https://voxeu.org/vox-talks/inflation-and-europe-s-public-finances",
           "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 788,
+          "wordCount": null,
           "title": "Inflation and Europe’s public finances",
           "imageUrl": null
         },
@@ -501,7 +521,7 @@
           "description": "Unprecedented events, including the Covid-19 pandemic and the Russian invasion of Ukraine, have boosted the demand for real-time measures of consumer price inflation. This column demonstrates the usefulness of high-frequency retail scanner data to document the dynamics of both prices and quantities of German food products in the aftermath of the invasion of Ukraine. Immediate price and quantity responses can be detected and quantified and their subsequent dynamics can be tracked on a continuous base. Both prices and quantities rose for oil and flour due to stockpiling behaviour by consumers, whereas only prices rose for other goods.",
           "link": "https://voxeu.org/article/real-time-food-price-inflation-germany",
           "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 2606,
+          "wordCount": null,
           "title": "Real-time food price inflation in Germany",
           "imageUrl": null
         },
@@ -511,7 +531,7 @@
           "description": "Australia’s news media bargaining code has been successful in achieving the single objective set for it: to address the imbalance in bargaining power between the country’s news media businesses and the digital platforms of Big Tech. The code is largely being copied in Canada, and its key components are in essence replicated in draft legislation under discussion in the UK and the US. Yet it is both misunderstood, because it is novel, and misrepresented, by those who do not wish to see the model extended beyond Australia. This column explains the economics behind the code’s inception and implementation, and deals with some of the misconceptions and misrepresentations.",
           "link": "https://voxeu.org/article/logic-behind-australia-s-news-media-bargaining-code",
           "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 2928,
+          "wordCount": null,
           "title": "The logic behind Australia’s news media bargaining code",
           "imageUrl": null
         },
@@ -521,7 +541,7 @@
           "description": "Dale Jorgenson, who passed away in June 2022, was a central contributor to a wide range of economic and policy issues over a long and productive career. This column, written by three of his friends and colleagues, outlines some of his most notable intellectual contributions, including changing how economists think about investment, implementing better ways to measure productivity, and pushing national accountants to update how they measure economies around the world. The authors note that a characteristic of his work was a tight integration of economic theory, appropriate data that matches the theory, and sound econometrics.",
           "link": "https://voxeu.org/article/dale-jorgenson-investment-growth-accounting-and-economic-measurement",
           "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 3081,
+          "wordCount": null,
           "title": "Dale Jorgenson: Investment, growth accounting, and economic measurement",
           "imageUrl": null
         },
@@ -531,28 +551,8 @@
           "description": "The latest CEPR ebook investigates the impact of Brexit so far on the economies of the UK and EU. Tim Phillips talks to three of the authors: Jonathan Portes, Thomas Sampson and Sarah Hall.\nDownload the eBook: The Economics of Brexit: What Have We Learned?",
           "link": "https://voxeu.org/vox-talks/economics-brexit-0",
           "publishedOn": "2022-06-23T00:00:00.000Z",
-          "wordCount": 877,
+          "wordCount": null,
           "title": "The Economics of Brexit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/content/economics-brexit-what-have-we-learned",
-          "author": "Jonathan  Portes",
-          "description": "This eBook, produced by VoxEU/CEPR and UK in a Changing Europe, brings together leading academic researchers on trade, immigration and political economy to assess what we have learned, 18 months on from its implementation, about the impacts of Brexit on the UK economy",
-          "link": "https://voxeu.org/content/economics-brexit-what-have-we-learned",
-          "publishedOn": "2022-06-23T00:00:00.000Z",
-          "wordCount": 910,
-          "title": "The Economics of Brexit: What Have We Learned?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic",
-          "author": "Olga Goldfayn-Frank, Vivien  Lewis, Nils  Wehrhöfer",
-          "description": "Similar to many other government policies around the world, Germany's fiscal response to the Covid-19 pandemic included direct fiscal transfers to households. This column evaluates the spending effects of three payments to families with children and their effectiveness. It finds a significant but small spending effect of the first transfer which is higher for low-income and liquidity-constrained households, and in areas with lower infection rates. The second and third payments failed to increase spending. These results suggest that the effectiveness of fiscal transfers is muted during a pandemic.",
-          "link": "https://voxeu.org/article/spending-effects-fiscal-transfers-pandemic",
-          "publishedOn": "2022-06-23T00:00:00.000Z",
-          "wordCount": 2436,
-          "title": "Spending effects of fiscal transfers in a pandemic",
           "imageUrl": null
         }
       ]
