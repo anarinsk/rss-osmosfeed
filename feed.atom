@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-28T15:01:58.399Z</id>
+    <id>urn:2022-06-28T18:02:02.151Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-28T15:01:58.399Z</updated>
+    <updated>2022-06-28T18:02:02.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A green industrial revolution is coming]]></title>
-        <id>https://voxeu.org/article/green-industrial-revolution-coming</id>
-        <link href="https://voxeu.org/article/green-industrial-revolution-coming"/>
-        <updated>2022-06-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pressing social and environmental concerns are leading many to question the usefulness of economic growth. This column argues that there is nothing intrinsic in the concept of growth that makes it incompatible with environmental protection. Growth and technological progress are two sides of the same coin. The green transition can contribute to the creation of ‘good jobs’ that are less prone to geographical concentration, dehumanising repetitive tasks, and automation or delocalisation. It can usher in prosperity for the combined benefit of people and planet.]]></summary>
-        <author>
-            <name>Alessio Terzi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can lottery winnings raise the GDP? Evidence from Spanish Christmas Lottery]]></title>
         <id>https://voxeu.org/content/can-lottery-winnings-raise-gdp-evidence-spanish-christmas-lottery</id>
         <link href="https://voxeu.org/content/can-lottery-winnings-raise-gdp-evidence-spanish-christmas-lottery"/>
@@ -56,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A green industrial revolution is coming]]></title>
+        <id>https://voxeu.org/article/green-industrial-revolution-coming</id>
+        <link href="https://voxeu.org/article/green-industrial-revolution-coming"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pressing social and environmental concerns are leading many to question the usefulness of economic growth. This column argues that there is nothing intrinsic in the concept of growth that makes it incompatible with environmental protection. Growth and technological progress are two sides of the same coin. The green transition can contribute to the creation of ‘good jobs’ that are less prone to geographical concentration, dehumanising repetitive tasks, and automation or delocalisation. It can usher in prosperity for the combined benefit of people and planet.]]></summary>
+        <author>
+            <name>Alessio Terzi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Just what the doctor ordered?]]></title>
         <id>https://www.aeaweb.org/research/antidepressant-advertising-wellness-waste</id>
         <link href="https://www.aeaweb.org/research/antidepressant-advertising-wellness-waste"/>
@@ -63,16 +63,6 @@
         <summary type="html"><![CDATA[Many worry that advertising prescription drugs directly to consumers does little more than promote wasteful spending. But the benefits of marketing antidepressants far outweigh the costs, according to a paper in the American Economic Journal: Microeconomics.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fiscal policy staying the course in troubled times]]></title>
-        <id>https://voxeu.org/article/fiscal-policy-staying-course-troubled-times</id>
-        <link href="https://voxeu.org/article/fiscal-policy-staying-course-troubled-times"/>
-        <updated>2022-06-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The war in Ukraine has clouded the near-term economic outlook. However, the European Fiscal Board concludes that current policy plans for 2023 amount to a broadly appropriate fiscal stance for the euro area as a whole. A moderate fiscal contraction appears adequate despite the war. Indeed, the terms-of-trade shock magnified by the war amounts to an overall income loss that cannot be buffered by additional public debt accumulation. A fiscal stimulus would also undermine the ECB’s effort to better align aggregate demand with aggregate supply to tame inflationary pressures. Instead, fiscal policy should focus on targeted and temporary support to vulnerable households without prejudice of medium-term debt sustainability.]]></summary>
-        <author>
-            <name>Niels  Thygesen, Roel Beetsma, Massimo Bordignon, Xavier Debrun, Mateusz Szczurek, Martin Larch, Matthias Busse, Mateja Gabrijelcic, Laszlo Jankovics, Janis Malzubris</name>
         </author>
     </entry>
     <entry>
@@ -93,6 +83,16 @@
         <summary type="html"><![CDATA[Political economy is an important source of distortions in financial markets. For example, state ownership may either lower capital costs due to implicit or explicit bailout guarantees or raise them due to the politicisation of business decisions. This column uses cross-country data on 4 million firms to show that state ownership is negatively correlated with leverage on average, and this effect is stronger in countries with weaker rule of law. The relationship is positive, however, for very large firms, suggesting that the perception of bailout guarantees may be strongest for ‘national champions’.]]></summary>
         <author>
             <name>Ralph De Haas, Sergei Guriev, Alexander  Stepanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiscal policy staying the course in troubled times]]></title>
+        <id>https://voxeu.org/article/fiscal-policy-staying-course-troubled-times</id>
+        <link href="https://voxeu.org/article/fiscal-policy-staying-course-troubled-times"/>
+        <updated>2022-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The war in Ukraine has clouded the near-term economic outlook. However, the European Fiscal Board concludes that current policy plans for 2023 amount to a broadly appropriate fiscal stance for the euro area as a whole. A moderate fiscal contraction appears adequate despite the war. Indeed, the terms-of-trade shock magnified by the war amounts to an overall income loss that cannot be buffered by additional public debt accumulation. A fiscal stimulus would also undermine the ECB’s effort to better align aggregate demand with aggregate supply to tame inflationary pressures. Instead, fiscal policy should focus on targeted and temporary support to vulnerable households without prejudice of medium-term debt sustainability.]]></summary>
+        <author>
+            <name>Niels  Thygesen, Roel Beetsma, Massimo Bordignon, Xavier Debrun, Mateusz Szczurek, Martin Larch, Matthias Busse, Mateja Gabrijelcic, Laszlo Jankovics, Janis Malzubris</name>
         </author>
     </entry>
     <entry>
