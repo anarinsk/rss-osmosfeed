@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-28T09:01:56.599Z</id>
+    <id>urn:2022-06-28T12:02:02.497Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-28T09:01:56.599Z</updated>
+    <updated>2022-06-28T12:02:02.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,6 +23,16 @@
         <summary type="html"><![CDATA[Standard macro models with rational expectations struggle to explain the 2008 global crisis. This column provides a theoretical foundation for recurrent booms and busts within a dynamic rational expectations model with capital and land. The interaction between capital and land prices generates endogenous ‘phase transitions’, which lead to macroeconomic fluctuations. Furthermore, it shows that appropriately designed government policy, for example by guaranteeing a certain return on capital, can ensure stability and increase social welfare.]]></summary>
         <author>
             <name>Tomohiro Hirano, Joseph Stiglitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commercial policies and regulations now fragment the digital economy]]></title>
+        <id>https://voxeu.org/article/commercial-policies-and-regulations-now-fragment-digital-economy</id>
+        <link href="https://voxeu.org/article/commercial-policies-and-regulations-now-fragment-digital-economy"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The last inventory of digital economy policies was published in 2018. Since then, officials have gone into overdrive, acting unilaterally to regulate and to promote digital activities. Drawing upon an up-to-date inventory of over 15,000 state acts, a new report assesses whether unilaterally determined policy is fragmenting the digital economy along national and regional lines.]]></summary>
+        <author>
+            <name>Simon Evenett, Johannes Fritz</name>
         </author>
     </entry>
     <entry>
@@ -345,16 +355,6 @@ PART4. 말레이시아에서 잘 먹고 잘 사는 법
 국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 아시아 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflation and Europe’s public finances]]></title>
-        <id>https://voxeu.org/vox-talks/inflation-and-europe-s-public-finances</id>
-        <link href="https://voxeu.org/vox-talks/inflation-and-europe-s-public-finances"/>
-        <updated>2022-06-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022: What are the consequences of an extended period of above-target inflation for the euro area? Agnès Bénassy-Quéré and Giancarlo Corsetti discuss policy options with Tim Phillips.]]></summary>
-        <author>
-            <name>Agnès Bénassy-Quéré, Giancarlo Corsetti</name>
         </author>
     </entry>
     <entry>
