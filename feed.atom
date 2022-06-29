@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T15:21:18.382Z</id>
+    <id>urn:2022-06-29T18:04:52.667Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-29T15:21:18.382Z</updated>
+    <updated>2022-06-29T18:04:52.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,16 +26,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring business openings and closures in real time]]></title>
-        <id>https://voxeu.org/article/measuring-business-openings-and-closures-real-time</id>
-        <link href="https://voxeu.org/article/measuring-business-openings-and-closures-real-time"/>
-        <updated>2022-06-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The COVID-19 pandemic highlighted the need for near real-time statistics to monitor rapidly changing business health conditions. This column introduces a new timely estimation of business opening and closure rates using data from Google Places – the dataset behind the Google Maps service. The method tracks the appearance and disappearance of ‘pins’ that represent unique businesses. The authors find that the lifting of COVID-19 restrictions in Canada coincides with a wave of re-entry of temporarily closed businesses, suggesting that government support may have facilitated the survival of hibernating businesses.]]></summary>
-        <author>
-            <name>Thibaut Duprey, Artur  Kotlicki, Daniel  Rigobon, Philip Schnattinger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sustaining relationships under the threat of expropriation]]></title>
         <id>https://voxeu.org/article/sustaining-relationships-under-threat-expropriation</id>
         <link href="https://voxeu.org/article/sustaining-relationships-under-threat-expropriation"/>
@@ -43,6 +33,16 @@
         <summary type="html"><![CDATA[The poor formal enforcement of contracts in countries with weak institutions can deter firms from investing. This column explores how multinational firms manage their relationships with governments in response to the threat of expropriation, focusing on the oil and gas industry. The results suggest that to decrease the risk of expropriation, multinationals delay investment, production, and tax payments by more than five years in countries with weak institutions relative to those with strong institutions. This may be a second-best outcome in the absence of formal enforcement.]]></summary>
         <author>
             <name>Elena Paltseva, Gerhard Toews, Marta Troya-Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring business openings and closures in real time]]></title>
+        <id>https://voxeu.org/article/measuring-business-openings-and-closures-real-time</id>
+        <link href="https://voxeu.org/article/measuring-business-openings-and-closures-real-time"/>
+        <updated>2022-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The COVID-19 pandemic highlighted the need for near real-time statistics to monitor rapidly changing business health conditions. This column introduces a new timely estimation of business opening and closure rates using data from Google Places – the dataset behind the Google Maps service. The method tracks the appearance and disappearance of ‘pins’ that represent unique businesses. The authors find that the lifting of COVID-19 restrictions in Canada coincides with a wave of re-entry of temporarily closed businesses, suggesting that government support may have facilitated the survival of hibernating businesses.]]></summary>
+        <author>
+            <name>Thibaut Duprey, Artur  Kotlicki, Daniel  Rigobon, Philip Schnattinger</name>
         </author>
     </entry>
     <entry>
@@ -76,16 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can lottery winnings raise the GDP? Evidence from Spanish Christmas Lottery]]></title>
-        <id>https://voxeu.org/content/can-lottery-winnings-raise-gdp-evidence-spanish-christmas-lottery</id>
-        <link href="https://voxeu.org/content/can-lottery-winnings-raise-gdp-evidence-spanish-christmas-lottery"/>
-        <updated>2022-06-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since 1812, the Spanish Christmas lottery has been delivering joy to a few lucky winners every year. But does it have a measurable economic effect on Spain’s economy?]]></summary>
-        <author>
-            <name>Evi Pappa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A green industrial revolution is coming]]></title>
         <id>https://voxeu.org/article/green-industrial-revolution-coming</id>
         <link href="https://voxeu.org/article/green-industrial-revolution-coming"/>
@@ -93,6 +83,16 @@
         <summary type="html"><![CDATA[Pressing social and environmental concerns are leading many to question the usefulness of economic growth. This column argues that there is nothing intrinsic in the concept of growth that makes it incompatible with environmental protection. Growth and technological progress are two sides of the same coin. The green transition can contribute to the creation of ‘good jobs’ that are less prone to geographical concentration, dehumanising repetitive tasks, and automation or delocalisation. It can usher in prosperity for the combined benefit of people and planet.]]></summary>
         <author>
             <name>Alessio Terzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can lottery winnings raise the GDP? Evidence from Spanish Christmas Lottery]]></title>
+        <id>https://voxeu.org/content/can-lottery-winnings-raise-gdp-evidence-spanish-christmas-lottery</id>
+        <link href="https://voxeu.org/content/can-lottery-winnings-raise-gdp-evidence-spanish-christmas-lottery"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since 1812, the Spanish Christmas lottery has been delivering joy to a few lucky winners every year. But does it have a measurable economic effect on Spain’s economy?]]></summary>
+        <author>
+            <name>Evi Pappa</name>
         </author>
     </entry>
     <entry>
@@ -311,13 +311,13 @@ Chapter05 선택문
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto currencies and digital money: Taking stock]]></title>
-        <id>https://voxeu.org/article/crypto-currencies-and-digital-money-taking-stock</id>
-        <link href="https://voxeu.org/article/crypto-currencies-and-digital-money-taking-stock"/>
+        <title type="html"><![CDATA[State ownership and corporate leverage]]></title>
+        <id>https://voxeu.org/article/state-ownership-and-corporate-leverage</id>
+        <link href="https://voxeu.org/article/state-ownership-and-corporate-leverage"/>
         <updated>2022-06-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The crash in crypto currency valuations may trigger a radical reassessment. But, just as excessive hype fuelled speculation, a collapse in valuations may lead to an indiscriminate condemnation of digital money and an underestimation of its potential benefits. This column takes stock of developments over the last five years in an attempt to separate fact from exaggeration and fiction.]]></summary>
+        <summary type="html"><![CDATA[Political economy is an important source of distortions in financial markets. For example, state ownership may either lower capital costs due to implicit or explicit bailout guarantees or raise them due to the politicisation of business decisions. This column uses cross-country data on 4 million firms to show that state ownership is negatively correlated with leverage on average, and this effect is stronger in countries with weaker rule of law. The relationship is positive, however, for very large firms, suggesting that the perception of bailout guarantees may be strongest for ‘national champions’.]]></summary>
         <author>
-            <name>Jean-Pierre Landau</name>
+            <name>Ralph De Haas, Sergei Guriev, Alexander  Stepanov</name>
         </author>
     </entry>
     <entry>
