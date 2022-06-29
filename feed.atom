@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T03:35:06.775Z</id>
+    <id>urn:2022-06-29T06:01:42.392Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-29T03:35:06.775Z</updated>
+    <updated>2022-06-29T06:01:42.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Measuring the impact of the Russian invasion on firm default probabilities]]></title>
+        <id>https://voxeu.org/article/measuring-impact-russian-invasion-firm-default-probabilities</id>
+        <link href="https://voxeu.org/article/measuring-impact-russian-invasion-firm-default-probabilities"/>
+        <updated>2022-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s invasion of Ukraine has led to disruptions in important sectors, such as energy, food, and commodities, with significant ramifications for aggregate economic activity. To capture the heterogeneous effects of the war on firms in Europe, this column discusses the impact on default probabilities using a quantile regression model application. The approach combines country-specific macroeconomic shocks with heterogeneous sectoral characteristics under two tail scenarios to project probabilities of default over a three-year horizon. Results suggest that especially vulnerable sectors contribute relatively more to an increase in euro area default probabilities, leading to an overall decrease of banks’ common equity tier 1 capital.]]></summary>
+        <author>
+            <name>Paul Konietschke, Julian Metzler, Aurea Ponte Marques</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sustaining relationships under the threat of expropriation]]></title>
+        <id>https://voxeu.org/article/sustaining-relationships-under-threat-expropriation</id>
+        <link href="https://voxeu.org/article/sustaining-relationships-under-threat-expropriation"/>
+        <updated>2022-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The poor formal enforcement of contracts in countries with weak institutions can deter firms from investing. This column explores how multinational firms manage their relationships with governments in response to the threat of expropriation, focusing on the oil and gas industry. The results suggest that to decrease the risk of expropriation, multinationals delay investment, production, and tax payments by more than five years in countries with weak institutions relative to those with strong institutions. This may be a second-best outcome in the absence of formal enforcement.]]></summary>
+        <author>
+            <name>Elena Paltseva, Gerhard Toews, Marta Troya-Martinez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ukraine’s deepening population challenge]]></title>
         <id>https://voxeu.org/article/ukraine-s-deepening-population-challenge</id>
@@ -271,6 +291,16 @@ Chapter05 선택문
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fiscal policy staying the course in troubled times]]></title>
+        <id>https://voxeu.org/article/fiscal-policy-staying-course-troubled-times</id>
+        <link href="https://voxeu.org/article/fiscal-policy-staying-course-troubled-times"/>
+        <updated>2022-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The war in Ukraine has clouded the near-term economic outlook. However, the European Fiscal Board concludes that current policy plans for 2023 amount to a broadly appropriate fiscal stance for the euro area as a whole. A moderate fiscal contraction appears adequate despite the war. Indeed, the terms-of-trade shock magnified by the war amounts to an overall income loss that cannot be buffered by additional public debt accumulation. A fiscal stimulus would also undermine the ECB’s effort to better align aggregate demand with aggregate supply to tame inflationary pressures. Instead, fiscal policy should focus on targeted and temporary support to vulnerable households without prejudice of medium-term debt sustainability.]]></summary>
+        <author>
+            <name>Niels  Thygesen, Roel Beetsma, Massimo Bordignon, Xavier Debrun, Mateusz Szczurek, Martin Larch, Matthias Busse, Mateja Gabrijelcic, Laszlo Jankovics, Janis Malzubris</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Crypto currencies and digital money: Taking stock]]></title>
         <id>https://voxeu.org/article/crypto-currencies-and-digital-money-taking-stock</id>
         <link href="https://voxeu.org/article/crypto-currencies-and-digital-money-taking-stock"/>
@@ -288,36 +318,6 @@ Chapter05 선택문
         <summary type="html"><![CDATA[Political economy is an important source of distortions in financial markets. For example, state ownership may either lower capital costs due to implicit or explicit bailout guarantees or raise them due to the politicisation of business decisions. This column uses cross-country data on 4 million firms to show that state ownership is negatively correlated with leverage on average, and this effect is stronger in countries with weaker rule of law. The relationship is positive, however, for very large firms, suggesting that the perception of bailout guarantees may be strongest for ‘national champions’.]]></summary>
         <author>
             <name>Ralph De Haas, Sergei Guriev, Alexander  Stepanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fiscal policy staying the course in troubled times]]></title>
-        <id>https://voxeu.org/article/fiscal-policy-staying-course-troubled-times</id>
-        <link href="https://voxeu.org/article/fiscal-policy-staying-course-troubled-times"/>
-        <updated>2022-06-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The war in Ukraine has clouded the near-term economic outlook. However, the European Fiscal Board concludes that current policy plans for 2023 amount to a broadly appropriate fiscal stance for the euro area as a whole. A moderate fiscal contraction appears adequate despite the war. Indeed, the terms-of-trade shock magnified by the war amounts to an overall income loss that cannot be buffered by additional public debt accumulation. A fiscal stimulus would also undermine the ECB’s effort to better align aggregate demand with aggregate supply to tame inflationary pressures. Instead, fiscal policy should focus on targeted and temporary support to vulnerable households without prejudice of medium-term debt sustainability.]]></summary>
-        <author>
-            <name>Niels  Thygesen, Roel Beetsma, Massimo Bordignon, Xavier Debrun, Mateusz Szczurek, Martin Larch, Matthias Busse, Mateja Gabrijelcic, Laszlo Jankovics, Janis Malzubris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social pressure in football matches]]></title>
-        <id>https://voxeu.org/article/social-pressure-football-matches</id>
-        <link href="https://voxeu.org/article/social-pressure-football-matches"/>
-        <updated>2022-06-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our behaviours are highly influenced by social pressure. This column takes as a natural experiment the 2020 season of the Japanese professional football league, which held matches without spectators due to the COVID-19 pandemic, to examine whether the presence of spectators puts pressure on referees’ decisions. The authors find that the home team advantage is real: the number of fouls decided against the home team decreased significantly in matches with spectators. The absolute number of home-team supporters mattered.]]></summary>
-        <author>
-            <name>Hiroshi Morita, Shota Araki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin isn’t much of a macro hedge]]></title>
-        <id>https://voxeu.org/article/bitcoin-isn-t-much-macro-hedge</id>
-        <link href="https://voxeu.org/article/bitcoin-isn-t-much-macro-hedge"/>
-        <updated>2022-06-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is often sold as protection against adverse macroeconomic outcomes. This column argues that this depiction as a macro hedge does not stand up to scrutiny. Recent events – from Covid and inflation to war – provide a window into what sort of asset bitcoin actually is. It if were a true macro hedge, bitcoin would be positively correlated with macroeconomic uncertainty. Instead, it acts as a leveraged bet for speculators. And unlike gold, which has been trusted as a macro hedge for millennia, bitcoin requires access to electricity and the internet, precarious services in times of turmoil.]]></summary>
-        <author>
-            <name>Jon Danielsson, Robert Macrae</name>
         </author>
     </entry>
     <entry>
