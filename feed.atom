@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T06:01:42.392Z</id>
+    <id>urn:2022-06-29T09:02:03.180Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-06-29T06:01:42.393Z</updated>
+    <updated>2022-06-29T09:02:03.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Measuring the impact of the Russian invasion on firm default probabilities]]></title>
+        <title type="html"><![CDATA[The impact of the Russian invasion on firm default probabilities]]></title>
         <id>https://voxeu.org/article/measuring-impact-russian-invasion-firm-default-probabilities</id>
         <link href="https://voxeu.org/article/measuring-impact-russian-invasion-firm-default-probabilities"/>
         <updated>2022-06-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Russia’s invasion of Ukraine has led to disruptions in important sectors, such as energy, food, and commodities, with significant ramifications for aggregate economic activity. To capture the heterogeneous effects of the war on firms in Europe, this column discusses the impact on default probabilities using a quantile regression model application. The approach combines country-specific macroeconomic shocks with heterogeneous sectoral characteristics under two tail scenarios to project probabilities of default over a three-year horizon. Results suggest that especially vulnerable sectors contribute relatively more to an increase in euro area default probabilities, leading to an overall decrease of banks’ common equity tier 1 capital.]]></summary>
         <author>
             <name>Paul Konietschke, Julian Metzler, Aurea Ponte Marques</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring business openings and closures in real time]]></title>
+        <id>https://voxeu.org/article/measuring-business-openings-and-closures-real-time</id>
+        <link href="https://voxeu.org/article/measuring-business-openings-and-closures-real-time"/>
+        <updated>2022-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The COVID-19 pandemic highlighted the need for near real-time statistics to monitor rapidly changing business health conditions. This column introduces a new timely estimation of business opening and closure rates using data from Google Places – the dataset behind the Google Maps service. The method tracks the appearance and disappearance of ‘pins’ that represent unique businesses. The authors find that the lifting of COVID-19 restrictions in Canada coincides with a wave of re-entry of temporarily closed businesses, suggesting that government support may have facilitated the survival of hibernating businesses.]]></summary>
+        <author>
+            <name>Thibaut Duprey, Artur  Kotlicki, Daniel  Rigobon, Philip Schnattinger</name>
         </author>
     </entry>
     <entry>
@@ -308,16 +318,6 @@ Chapter05 선택문
         <summary type="html"><![CDATA[The crash in crypto currency valuations may trigger a radical reassessment. But, just as excessive hype fuelled speculation, a collapse in valuations may lead to an indiscriminate condemnation of digital money and an underestimation of its potential benefits. This column takes stock of developments over the last five years in an attempt to separate fact from exaggeration and fiction.]]></summary>
         <author>
             <name>Jean-Pierre Landau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State ownership and corporate leverage]]></title>
-        <id>https://voxeu.org/article/state-ownership-and-corporate-leverage</id>
-        <link href="https://voxeu.org/article/state-ownership-and-corporate-leverage"/>
-        <updated>2022-06-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Political economy is an important source of distortions in financial markets. For example, state ownership may either lower capital costs due to implicit or explicit bailout guarantees or raise them due to the politicisation of business decisions. This column uses cross-country data on 4 million firms to show that state ownership is negatively correlated with leverage on average, and this effect is stronger in countries with weaker rule of law. The relationship is positive, however, for very large firms, suggesting that the perception of bailout guarantees may be strongest for ‘national champions’.]]></summary>
-        <author>
-            <name>Ralph De Haas, Sergei Guriev, Alexander  Stepanov</name>
         </author>
     </entry>
     <entry>
