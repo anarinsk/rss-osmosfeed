@@ -466,6 +466,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/vox-talks/curing-covid-inflation",
+          "author": "Sebnem Kalemli-Ozcan",
+          "description": "Recorded live at CEPR Paris Symposium 2022: Supply chain disruption caused by Covid-19 has fed inflation and hobbled stimulus policies. Sebnem Kalemli Özcan tells Tim Phillips about the only solution to this economic long Covid.",
+          "link": "https://voxeu.org/vox-talks/curing-covid-inflation",
+          "publishedOn": "2022-07-01T00:00:00.000Z",
+          "wordCount": 812,
+          "title": "Curing Covid inflation",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/energy-balancing-act-between-security-and-transition",
           "author": "Rabah Arezki, Stephen Paduano",
           "description": "The invasion of Ukraine has produced a global energy crisis not seen since the 1970s. Policymakers are struggling to regain energy security and losing sight of the energy transition. This column argues that in the long run, however, policymakers will fail to achieve the former without committing to the latter.",
@@ -501,7 +511,7 @@
           "description": "A significant body of evidence has established the effects of air pollution on diagnosable health outcomes, ranging from breathing problems and low birth weights to hospitalisations and deaths. But the burden of disease is not the only economic cost arising from poor air quality. This column discusses an emerging body of work that suggests air pollution may have significant effects on day-to-day functioning, economic output, and individual wellbeing in cities around the world, even for people with none of the observable health problems typically attributed to pollution exposure.",
           "link": "https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor",
           "publishedOn": "2022-06-30T00:00:00.000Z",
-          "wordCount": 3290,
+          "wordCount": null,
           "title": "Damage from air pollutants you won’t hear about from your doctor",
           "imageUrl": null
         },
@@ -521,7 +531,7 @@
           "description": "Russia’s invasion of Ukraine has led to disruptions in important sectors, such as energy, food, and commodities, with significant ramifications for aggregate economic activity. To capture the heterogeneous effects of the war on firms in Europe, this column discusses the impact on default probabilities using a quantile regression model application. The approach combines country-specific macroeconomic shocks with heterogeneous sectoral characteristics under two tail scenarios to project probabilities of default over a three-year horizon. Results suggest that especially vulnerable sectors contribute relatively more to an increase in euro area default probabilities, leading to an overall decrease of banks’ common equity tier 1 capital.",
           "link": "https://voxeu.org/article/measuring-impact-russian-invasion-firm-default-probabilities",
           "publishedOn": "2022-06-29T00:00:00.000Z",
-          "wordCount": 2867,
+          "wordCount": null,
           "title": "The impact of the Russian invasion on firm default probabilities",
           "imageUrl": null
         },
@@ -553,16 +563,6 @@
           "publishedOn": "2022-06-28T00:00:00.000Z",
           "wordCount": null,
           "title": "Ukraine’s deepening population challenge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/land-speculation-booms-and-busts-endogenous-phase-transitions",
-          "author": "Tomohiro Hirano, Joseph Stiglitz",
-          "description": "Standard macro models with rational expectations struggle to explain the 2008 global crisis. This column provides a theoretical foundation for recurrent booms and busts within a dynamic rational expectations model with capital and land. The interaction between capital and land prices generates endogenous ‘phase transitions’, which lead to macroeconomic fluctuations. Furthermore, it shows that appropriately designed government policy, for example by guaranteeing a certain return on capital, can ensure stability and increase social welfare.",
-          "link": "https://voxeu.org/article/land-speculation-booms-and-busts-endogenous-phase-transitions",
-          "publishedOn": "2022-06-28T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Land speculation, booms, and busts with endogenous phase transitions",
           "imageUrl": null
         }
       ]

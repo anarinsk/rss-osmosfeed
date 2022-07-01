@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-01T12:02:33.268Z</id>
+    <id>urn:2022-07-01T15:02:37.004Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-01T12:02:33.268Z</updated>
+    <updated>2022-07-01T15:02:37.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curing Covid inflation]]></title>
+        <id>https://voxeu.org/vox-talks/curing-covid-inflation</id>
+        <link href="https://voxeu.org/vox-talks/curing-covid-inflation"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022: Supply chain disruption caused by Covid-19 has fed inflation and hobbled stimulus policies. Sebnem Kalemli Özcan tells Tim Phillips about the only solution to this economic long Covid.]]></summary>
+        <author>
+            <name>Sebnem Kalemli-Ozcan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The energy balancing act between security and transition]]></title>
         <id>https://voxeu.org/article/energy-balancing-act-between-security-and-transition</id>
@@ -605,16 +615,6 @@ PART 3. 환경과 자연 그리고 기술
         <summary type="html"><![CDATA[War lowers income by reducing the size of the population and reducing total factor productivity through the destruction of physical and human capital. This column describes the demographic trends in Ukraine and the impact of the 2022 war. Covid-19 worsened the downward long-term demographic trend in Ukraine, and Russia’s invasion of Ukraine has added to this through substantial outward migration, especially of women. A faster end to the war in Ukraine would minimise further population damage sustained by this refugee crisis. Other remedies are needed to ameliorate the demographic toll on the Ukrainian economy.]]></summary>
         <author>
             <name>Oleksiy Blinov, Simeon Djankov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Land speculation, booms, and busts with endogenous phase transitions]]></title>
-        <id>https://voxeu.org/article/land-speculation-booms-and-busts-endogenous-phase-transitions</id>
-        <link href="https://voxeu.org/article/land-speculation-booms-and-busts-endogenous-phase-transitions"/>
-        <updated>2022-06-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Standard macro models with rational expectations struggle to explain the 2008 global crisis. This column provides a theoretical foundation for recurrent booms and busts within a dynamic rational expectations model with capital and land. The interaction between capital and land prices generates endogenous ‘phase transitions’, which lead to macroeconomic fluctuations. Furthermore, it shows that appropriately designed government policy, for example by guaranteeing a certain return on capital, can ensure stability and increase social welfare.]]></summary>
-        <author>
-            <name>Tomohiro Hirano, Joseph Stiglitz</name>
         </author>
     </entry>
     <entry>
