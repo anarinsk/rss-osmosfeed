@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-01T03:41:30.207Z</id>
+    <id>urn:2022-07-01T06:01:49.304Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-01T03:41:30.207Z</updated>
+    <updated>2022-07-01T06:01:49.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[University education, intelligence, and disadvantage]]></title>
-        <id>https://voxeu.org/article/university-education-intelligence-and-disadvantage</id>
-        <link href="https://voxeu.org/article/university-education-intelligence-and-disadvantage"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Access to university has expanded significantly in the US and Europe over the last five decades, and plans for further growth figure prominently on many policy agendas. This column examines the enlargement of post-secondary education in the UK after 1970. The authors argue that expanding university access corresponded with a decline in both the average intelligence of graduates and the wage premium across cohorts. Those who benefited from the expansion were primarily less-intelligent students from advantaged socioeconomic backgrounds, not the high-ability students from disadvantaged backgrounds the policy was designed to reach.]]></summary>
+        <title type="html"><![CDATA[The energy balancing act between security and transition]]></title>
+        <id>https://voxeu.org/article/energy-balancing-act-between-security-and-transition</id>
+        <link href="https://voxeu.org/article/energy-balancing-act-between-security-and-transition"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The invasion of Ukraine has produced a global energy crisis not seen since the 1970s. Policymakers are struggling to regain energy security and losing sight of the energy transition. This column argues that in the long run, however, policymakers will fail to achieve the former without committing to the latter.]]></summary>
         <author>
-            <name>Andrea Ichino, Aldo Rustichini, Giulio  Zanella</name>
+            <name>Rabah Arezki, Stephen Paduano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The macroeconomic effects of structural reforms]]></title>
+        <id>https://voxeu.org/article/macroeconomic-effects-structural-reforms</id>
+        <link href="https://voxeu.org/article/macroeconomic-effects-structural-reforms"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Structural reforms have been at the centre of the economic policy debate in advanced economies, and in Europe in particular, in the past two decades. This column assesses the macroeconomic effects of three economic policy packages introduced in Italy between 2011 and 2017, obtained using both microeconomic estimates and model-based simulations. The three reforms induced a progressive, sizeable increase in total factor productivity and reduction in firms’ market power. By the end of the current decade, Italian GDP could be about 6% higher than it would have been absent the reforms (and any other shocks), with positive effects on the labour market.]]></summary>
+        <author>
+            <name>Emanuela Ciapanna, Sauro Mocetti, Alessandro Notarpietro</name>
         </author>
     </entry>
     <entry>
@@ -23,6 +33,16 @@
         <summary type="html"><![CDATA[A significant body of evidence has established the effects of air pollution on diagnosable health outcomes, ranging from breathing problems and low birth weights to hospitalisations and deaths. But the burden of disease is not the only economic cost arising from poor air quality. This column discusses an emerging body of work that suggests air pollution may have significant effects on day-to-day functioning, economic output, and individual wellbeing in cities around the world, even for people with none of the observable health problems typically attributed to pollution exposure.]]></summary>
         <author>
             <name>Sandra Aguilar-Gomez, Holt Dwyer, Joshua Graff Zivin, Matthew  Neidell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[University education, intelligence, and disadvantage]]></title>
+        <id>https://voxeu.org/article/university-education-intelligence-and-disadvantage</id>
+        <link href="https://voxeu.org/article/university-education-intelligence-and-disadvantage"/>
+        <updated>2022-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Access to university has expanded significantly in the US and Europe over the last five decades, and plans for further growth figure prominently on many policy agendas. This column examines the enlargement of post-secondary education in the UK after 1970. The authors argue that expanding university access corresponded with a decline in both the average intelligence of graduates and the wage premium across cohorts. Those who benefited from the expansion were primarily less-intelligent students from advantaged socioeconomic backgrounds, not the high-ability students from disadvantaged backgrounds the policy was designed to reach.]]></summary>
+        <author>
+            <name>Andrea Ichino, Aldo Rustichini, Giulio  Zanella</name>
         </author>
     </entry>
     <entry>
@@ -360,16 +380,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring business openings and closures in real time]]></title>
-        <id>https://voxeu.org/article/measuring-business-openings-and-closures-real-time</id>
-        <link href="https://voxeu.org/article/measuring-business-openings-and-closures-real-time"/>
-        <updated>2022-06-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The COVID-19 pandemic highlighted the need for near real-time statistics to monitor rapidly changing business health conditions. This column introduces a new timely estimation of business opening and closure rates using data from Google Places – the dataset behind the Google Maps service. The method tracks the appearance and disappearance of ‘pins’ that represent unique businesses. The authors find that the lifting of COVID-19 restrictions in Canada coincides with a wave of re-entry of temporarily closed businesses, suggesting that government support may have facilitated the survival of hibernating businesses.]]></summary>
-        <author>
-            <name>Thibaut Duprey, Artur  Kotlicki, Daniel  Rigobon, Philip Schnattinger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sustaining relationships under the threat of expropriation]]></title>
         <id>https://voxeu.org/article/sustaining-relationships-under-threat-expropriation</id>
         <link href="https://voxeu.org/article/sustaining-relationships-under-threat-expropriation"/>
@@ -377,6 +387,16 @@
         <summary type="html"><![CDATA[The poor formal enforcement of contracts in countries with weak institutions can deter firms from investing. This column explores how multinational firms manage their relationships with governments in response to the threat of expropriation, focusing on the oil and gas industry. The results suggest that to decrease the risk of expropriation, multinationals delay investment, production, and tax payments by more than five years in countries with weak institutions relative to those with strong institutions. This may be a second-best outcome in the absence of formal enforcement.]]></summary>
         <author>
             <name>Elena Paltseva, Gerhard Toews, Marta Troya-Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring business openings and closures in real time]]></title>
+        <id>https://voxeu.org/article/measuring-business-openings-and-closures-real-time</id>
+        <link href="https://voxeu.org/article/measuring-business-openings-and-closures-real-time"/>
+        <updated>2022-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The COVID-19 pandemic highlighted the need for near real-time statistics to monitor rapidly changing business health conditions. This column introduces a new timely estimation of business opening and closure rates using data from Google Places – the dataset behind the Google Maps service. The method tracks the appearance and disappearance of ‘pins’ that represent unique businesses. The authors find that the lifting of COVID-19 restrictions in Canada coincides with a wave of re-entry of temporarily closed businesses, suggesting that government support may have facilitated the survival of hibernating businesses.]]></summary>
+        <author>
+            <name>Thibaut Duprey, Artur  Kotlicki, Daniel  Rigobon, Philip Schnattinger</name>
         </author>
     </entry>
     <entry>
@@ -588,16 +608,6 @@ PART 3. 환경과 자연 그리고 기술
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Land speculation, booms, and busts with endogenous phase transitions]]></title>
-        <id>https://voxeu.org/article/land-speculation-booms-and-busts-endogenous-phase-transitions</id>
-        <link href="https://voxeu.org/article/land-speculation-booms-and-busts-endogenous-phase-transitions"/>
-        <updated>2022-06-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Standard macro models with rational expectations struggle to explain the 2008 global crisis. This column provides a theoretical foundation for recurrent booms and busts within a dynamic rational expectations model with capital and land. The interaction between capital and land prices generates endogenous ‘phase transitions’, which lead to macroeconomic fluctuations. Furthermore, it shows that appropriately designed government policy, for example by guaranteeing a certain return on capital, can ensure stability and increase social welfare.]]></summary>
-        <author>
-            <name>Tomohiro Hirano, Joseph Stiglitz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Commercial policies and regulations now fragment the digital economy]]></title>
         <id>https://voxeu.org/article/commercial-policies-and-regulations-now-fragment-digital-economy</id>
         <link href="https://voxeu.org/article/commercial-policies-and-regulations-now-fragment-digital-economy"/>
@@ -605,16 +615,6 @@ PART 3. 환경과 자연 그리고 기술
         <summary type="html"><![CDATA[The last inventory of digital economy policies was published in 2018. Since then, officials have gone into overdrive, acting unilaterally to regulate and to promote digital activities. Drawing upon an up-to-date inventory of over 15,000 state acts, a new report assesses whether unilaterally determined policy is fragmenting the digital economy along national and regional lines.]]></summary>
         <author>
             <name>Simon Evenett, Johannes Fritz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can lottery winnings raise the GDP? Evidence from Spanish Christmas Lottery]]></title>
-        <id>https://voxeu.org/content/can-lottery-winnings-raise-gdp-evidence-spanish-christmas-lottery</id>
-        <link href="https://voxeu.org/content/can-lottery-winnings-raise-gdp-evidence-spanish-christmas-lottery"/>
-        <updated>2022-06-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since 1812, the Spanish Christmas lottery has been delivering joy to a few lucky winners every year. But does it have a measurable economic effect on Spain’s economy?]]></summary>
-        <author>
-            <name>Evi Pappa</name>
         </author>
     </entry>
     <entry>
