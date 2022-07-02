@@ -476,6 +476,26 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/reducing-unavailability-stem-cell-donors",
+          "author": "Michael Haylock, Patrick Kampkötter, Mario Macis, Robert Slonim, Daniel Wiesen",
+          "description": "For patients suffering from leukaemia or other blood diseases, a hematopoietic stem cell transplant from a matching, unrelated donor offers the best chance of survival. But unlike other medical donations, a stem-cell donation is a multi-stage process that can take years to complete, and many donors fail to follow through on their initial commitment. This column investigates the impact of a German stem-cell donor registry initiative, and finds that an invitation to the initiative itself increased donors’ future availability, while participation had a direct and positive eﬀect on donor readiness.",
+          "link": "https://voxeu.org/article/reducing-unavailability-stem-cell-donors",
+          "publishedOn": "2022-07-02T00:00:00.000Z",
+          "wordCount": 2561,
+          "title": "Reducing the unavailability of stem cell donors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/faith-and-assimilation",
+          "author": "Stefano Gagliarducci, Marco Tabellini",
+          "description": "How ethnic religious organisations influence immigrants’ assimilation in host societies has been surprisingly understudied. This column looks at the effect of Italian Catholic churches in the US between 1890 and 1920 when four million Italians moved to America and anti-Catholic sentiments were widespread. Italian churches reduced social assimilation of Italian immigrants, lowering intermarriage, residential integration, and naturalisation rates. However, the churches had ambiguous effects on immigrants’ economic outcomes and increased children’s literacy and ability to speak English.",
+          "link": "https://voxeu.org/article/faith-and-assimilation",
+          "publishedOn": "2022-07-02T00:00:00.000Z",
+          "wordCount": 2681,
+          "title": "Faith and assimilation",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/vox-talks/curing-covid-inflation",
           "author": "Sebnem Kalemli-Ozcan",
           "description": "Recorded live at CEPR Paris Symposium 2022: Supply chain disruption caused by Covid-19 has fed inflation and hobbled stimulus policies. Sebnem Kalemli Özcan tells Tim Phillips about the only solution to this economic long Covid.",
@@ -501,7 +521,7 @@
           "description": "Structural reforms have been at the centre of the economic policy debate in advanced economies, and in Europe in particular, in the past two decades. This column assesses the macroeconomic effects of three economic policy packages introduced in Italy between 2011 and 2017, obtained using both microeconomic estimates and model-based simulations. The three reforms induced a progressive, sizeable increase in total factor productivity and reduction in firms’ market power. By the end of the current decade, Italian GDP could be about 6% higher than it would have been absent the reforms (and any other shocks), with positive effects on the labour market.",
           "link": "https://voxeu.org/article/macroeconomic-effects-structural-reforms",
           "publishedOn": "2022-07-01T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2469,
           "title": "The macroeconomic effects of structural reforms",
           "imageUrl": null
         },
@@ -531,7 +551,7 @@
           "description": "Recorded live at CEPR Paris Symposium 2022:  Sanctions against Russia have sent the price of oil and gas rocketing – triggering more, not less, fossil fuel extraction, and some giant projects that have been called “carbon bombs”. Mar Réguant and Rick van der Ploeg tell Tim Phillips that these bombs will explode the climate commitments agreed in Paris in 2015.",
           "link": "https://voxeu.org/vox-talks/defusing-carbon-bombs",
           "publishedOn": "2022-06-29T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 889,
           "title": "Defusing the carbon bombs",
           "imageUrl": null
         },
@@ -541,7 +561,7 @@
           "description": "Russia’s invasion of Ukraine has led to disruptions in important sectors, such as energy, food, and commodities, with significant ramifications for aggregate economic activity. To capture the heterogeneous effects of the war on firms in Europe, this column discusses the impact on default probabilities using a quantile regression model application. The approach combines country-specific macroeconomic shocks with heterogeneous sectoral characteristics under two tail scenarios to project probabilities of default over a three-year horizon. Results suggest that especially vulnerable sectors contribute relatively more to an increase in euro area default probabilities, leading to an overall decrease of banks’ common equity tier 1 capital.",
           "link": "https://voxeu.org/article/measuring-impact-russian-invasion-firm-default-probabilities",
           "publishedOn": "2022-06-29T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2867,
           "title": "The impact of the Russian invasion on firm default probabilities",
           "imageUrl": null
         },
@@ -553,26 +573,6 @@
           "publishedOn": "2022-06-29T00:00:00.000Z",
           "wordCount": 2844,
           "title": "Measuring business openings and closures in real time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/sustaining-relationships-under-threat-expropriation",
-          "author": "Elena Paltseva, Gerhard Toews, Marta Troya-Martinez",
-          "description": "The poor formal enforcement of contracts in countries with weak institutions can deter firms from investing. This column explores how multinational firms manage their relationships with governments in response to the threat of expropriation, focusing on the oil and gas industry. The results suggest that to decrease the risk of expropriation, multinationals delay investment, production, and tax payments by more than five years in countries with weak institutions relative to those with strong institutions. This may be a second-best outcome in the absence of formal enforcement.",
-          "link": "https://voxeu.org/article/sustaining-relationships-under-threat-expropriation",
-          "publishedOn": "2022-06-29T00:00:00.000Z",
-          "wordCount": 2964,
-          "title": "Sustaining relationships under the threat of expropriation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/ukraine-s-deepening-population-challenge",
-          "author": "Oleksiy Blinov, Simeon Djankov",
-          "description": "War lowers income by reducing the size of the population and reducing total factor productivity through the destruction of physical and human capital. This column describes the demographic trends in Ukraine and the impact of the 2022 war. Covid-19 worsened the downward long-term demographic trend in Ukraine, and Russia’s invasion of Ukraine has added to this through substantial outward migration, especially of women. A faster end to the war in Ukraine would minimise further population damage sustained by this refugee crisis. Other remedies are needed to ameliorate the demographic toll on the Ukrainian economy.",
-          "link": "https://voxeu.org/article/ukraine-s-deepening-population-challenge",
-          "publishedOn": "2022-06-28T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Ukraine’s deepening population challenge",
           "imageUrl": null
         }
       ]
