@@ -476,16 +476,6 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/reducing-unavailability-stem-cell-donors",
-          "author": "Michael Haylock, Patrick Kampkötter, Mario Macis, Robert Slonim, Daniel Wiesen",
-          "description": "For patients suffering from leukaemia or other blood diseases, a hematopoietic stem cell transplant from a matching, unrelated donor offers the best chance of survival. But unlike other medical donations, a stem-cell donation is a multi-stage process that can take years to complete, and many donors fail to follow through on their initial commitment. This column investigates the impact of a German stem-cell donor registry initiative, and finds that an invitation to the initiative itself increased donors’ future availability, while participation had a direct and positive eﬀect on donor readiness.",
-          "link": "https://voxeu.org/article/reducing-unavailability-stem-cell-donors",
-          "publishedOn": "2022-07-02T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Reducing the unavailability of stem cell donors",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/faith-and-assimilation",
           "author": "Stefano Gagliarducci, Marco Tabellini",
           "description": "How ethnic religious organisations influence immigrants’ assimilation in host societies has been surprisingly understudied. This column looks at the effect of Italian Catholic churches in the US between 1890 and 1920 when four million Italians moved to America and anti-Catholic sentiments were widespread. Italian churches reduced social assimilation of Italian immigrants, lowering intermarriage, residential integration, and naturalisation rates. However, the churches had ambiguous effects on immigrants’ economic outcomes and increased children’s literacy and ability to speak English.",
@@ -496,12 +486,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/reducing-unavailability-stem-cell-donors",
+          "author": "Michael Haylock, Patrick Kampkötter, Mario Macis, Robert Slonim, Daniel Wiesen",
+          "description": "For patients suffering from leukaemia or other blood diseases, a hematopoietic stem cell transplant from a matching, unrelated donor offers the best chance of survival. But unlike other medical donations, a stem-cell donation is a multi-stage process that can take years to complete, and many donors fail to follow through on their initial commitment. This column investigates the impact of a German stem-cell donor registry initiative, and finds that an invitation to the initiative itself increased donors’ future availability, while participation had a direct and positive eﬀect on donor readiness.",
+          "link": "https://voxeu.org/article/reducing-unavailability-stem-cell-donors",
+          "publishedOn": "2022-07-02T00:00:00.000Z",
+          "wordCount": 2561,
+          "title": "Reducing the unavailability of stem cell donors",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/vox-talks/curing-covid-inflation",
           "author": "Sebnem Kalemli-Ozcan",
           "description": "Recorded live at CEPR Paris Symposium 2022: Supply chain disruption caused by Covid-19 has fed inflation and hobbled stimulus policies. Sebnem Kalemli Özcan tells Tim Phillips about the only solution to this economic long Covid.",
           "link": "https://voxeu.org/vox-talks/curing-covid-inflation",
           "publishedOn": "2022-07-01T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 812,
           "title": "Curing Covid inflation",
           "imageUrl": null
         },
@@ -526,16 +526,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/university-education-intelligence-and-disadvantage",
-          "author": "Andrea Ichino, Aldo Rustichini, Giulio  Zanella",
-          "description": "Access to university has expanded significantly in the US and Europe over the last five decades, and plans for further growth figure prominently on many policy agendas. This column examines the enlargement of post-secondary education in the UK after 1970. The authors argue that expanding university access corresponded with a decline in both the average intelligence of graduates and the wage premium across cohorts. Those who benefited from the expansion were primarily less-intelligent students from advantaged socioeconomic backgrounds, not the high-ability students from disadvantaged backgrounds the policy was designed to reach.",
-          "link": "https://voxeu.org/article/university-education-intelligence-and-disadvantage",
-          "publishedOn": "2022-06-30T00:00:00.000Z",
-          "wordCount": null,
-          "title": "University education, intelligence, and disadvantage",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor",
           "author": "Sandra Aguilar-Gomez, Holt Dwyer, Joshua Graff Zivin, Matthew  Neidell",
           "description": "A significant body of evidence has established the effects of air pollution on diagnosable health outcomes, ranging from breathing problems and low birth weights to hospitalisations and deaths. But the burden of disease is not the only economic cost arising from poor air quality. This column discusses an emerging body of work that suggests air pollution may have significant effects on day-to-day functioning, economic output, and individual wellbeing in cities around the world, even for people with none of the observable health problems typically attributed to pollution exposure.",
@@ -546,12 +536,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/university-education-intelligence-and-disadvantage",
+          "author": "Andrea Ichino, Aldo Rustichini, Giulio  Zanella",
+          "description": "Access to university has expanded significantly in the US and Europe over the last five decades, and plans for further growth figure prominently on many policy agendas. This column examines the enlargement of post-secondary education in the UK after 1970. The authors argue that expanding university access corresponded with a decline in both the average intelligence of graduates and the wage premium across cohorts. Those who benefited from the expansion were primarily less-intelligent students from advantaged socioeconomic backgrounds, not the high-ability students from disadvantaged backgrounds the policy was designed to reach.",
+          "link": "https://voxeu.org/article/university-education-intelligence-and-disadvantage",
+          "publishedOn": "2022-06-30T00:00:00.000Z",
+          "wordCount": 3078,
+          "title": "University education, intelligence, and disadvantage",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/vox-talks/defusing-carbon-bombs",
           "author": "Mar  Reguant, Rick van der Ploeg",
           "description": "Recorded live at CEPR Paris Symposium 2022:  Sanctions against Russia have sent the price of oil and gas rocketing – triggering more, not less, fossil fuel extraction, and some giant projects that have been called “carbon bombs”. Mar Réguant and Rick van der Ploeg tell Tim Phillips that these bombs will explode the climate commitments agreed in Paris in 2015.",
           "link": "https://voxeu.org/vox-talks/defusing-carbon-bombs",
           "publishedOn": "2022-06-29T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 889,
           "title": "Defusing the carbon bombs",
           "imageUrl": null
         },
@@ -561,18 +561,18 @@
           "description": "Russia’s invasion of Ukraine has led to disruptions in important sectors, such as energy, food, and commodities, with significant ramifications for aggregate economic activity. To capture the heterogeneous effects of the war on firms in Europe, this column discusses the impact on default probabilities using a quantile regression model application. The approach combines country-specific macroeconomic shocks with heterogeneous sectoral characteristics under two tail scenarios to project probabilities of default over a three-year horizon. Results suggest that especially vulnerable sectors contribute relatively more to an increase in euro area default probabilities, leading to an overall decrease of banks’ common equity tier 1 capital.",
           "link": "https://voxeu.org/article/measuring-impact-russian-invasion-firm-default-probabilities",
           "publishedOn": "2022-06-29T00:00:00.000Z",
-          "wordCount": 2867,
+          "wordCount": null,
           "title": "The impact of the Russian invasion on firm default probabilities",
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/measuring-business-openings-and-closures-real-time",
-          "author": "Thibaut Duprey, Artur  Kotlicki, Daniel  Rigobon, Philip Schnattinger",
-          "description": "The COVID-19 pandemic highlighted the need for near real-time statistics to monitor rapidly changing business health conditions. This column introduces a new timely estimation of business opening and closure rates using data from Google Places – the dataset behind the Google Maps service. The method tracks the appearance and disappearance of ‘pins’ that represent unique businesses. The authors find that the lifting of COVID-19 restrictions in Canada coincides with a wave of re-entry of temporarily closed businesses, suggesting that government support may have facilitated the survival of hibernating businesses.",
-          "link": "https://voxeu.org/article/measuring-business-openings-and-closures-real-time",
+          "id": "https://voxeu.org/article/sustaining-relationships-under-threat-expropriation",
+          "author": "Elena Paltseva, Gerhard Toews, Marta Troya-Martinez",
+          "description": "The poor formal enforcement of contracts in countries with weak institutions can deter firms from investing. This column explores how multinational firms manage their relationships with governments in response to the threat of expropriation, focusing on the oil and gas industry. The results suggest that to decrease the risk of expropriation, multinationals delay investment, production, and tax payments by more than five years in countries with weak institutions relative to those with strong institutions. This may be a second-best outcome in the absence of formal enforcement.",
+          "link": "https://voxeu.org/article/sustaining-relationships-under-threat-expropriation",
           "publishedOn": "2022-06-29T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Measuring business openings and closures in real time",
+          "wordCount": 2964,
+          "title": "Sustaining relationships under the threat of expropriation",
           "imageUrl": null
         }
       ]
