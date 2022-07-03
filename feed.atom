@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-03T00:03:16.199Z</id>
+    <id>urn:2022-07-03T03:29:26.419Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-03T00:03:16.199Z</updated>
+    <updated>2022-07-03T03:29:26.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The null result penalty]]></title>
+        <id>https://voxeu.org/article/null-result-penalty</id>
+        <link href="https://voxeu.org/article/null-result-penalty"/>
+        <updated>2022-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are growing concerns about publication bias in academic studies, particularly against papers with small effects that are not statistically significant. Using a large-scale survey of academic economists, this column finds a substantial perceived penalty against null results. Respondents believe studies with a null result have a lower chance of being published and perceive those studies as having lower quality. Further analysis suggests the communication of statistical uncertainty and perceptions of statistical precision are important factors affecting the null result penalty, but finds no evidence of a bias towards surprising findings in the publication process.]]></summary>
+        <author>
+            <name>Felix Chopra, Ingar  Haaland, Chris Roth, Andreas Stegmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using machine learning to study parenting styles]]></title>
+        <id>https://voxeu.org/article/using-machine-learning-study-parenting-styles</id>
+        <link href="https://voxeu.org/article/using-machine-learning-study-parenting-styles"/>
+        <updated>2022-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Parental time invested in the early years has an outsized impact on a child’s future. But measuring the effects of different parenting styles remains an elusive task, in part because self-reported survey questions are susceptible to misreporting bias. This column uses unsupervised machine learning to measure parenting styles applied to a panel of Canadian children from age five months to just over two years. The topic model classifies parenting into two styles – warm and cold – and finds that children of ‘warm’ parents achieve higher cognitive and non-cognitive scores at later ages.]]></summary>
+        <author>
+            <name>Christopher Rauh, Laëtitia Renée</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reducing the unavailability of stem cell donors]]></title>
         <id>https://voxeu.org/article/reducing-unavailability-stem-cell-donors</id>
@@ -664,26 +684,6 @@ Chapter 06 중요한 특성 사용하기
         <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022:  Sanctions against Russia have sent the price of oil and gas rocketing – triggering more, not less, fossil fuel extraction, and some giant projects that have been called “carbon bombs”. Mar Réguant and Rick van der Ploeg tell Tim Phillips that these bombs will explode the climate commitments agreed in Paris in 2015.]]></summary>
         <author>
             <name>Mar  Reguant, Rick van der Ploeg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The impact of the Russian invasion on firm default probabilities]]></title>
-        <id>https://voxeu.org/article/measuring-impact-russian-invasion-firm-default-probabilities</id>
-        <link href="https://voxeu.org/article/measuring-impact-russian-invasion-firm-default-probabilities"/>
-        <updated>2022-06-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s invasion of Ukraine has led to disruptions in important sectors, such as energy, food, and commodities, with significant ramifications for aggregate economic activity. To capture the heterogeneous effects of the war on firms in Europe, this column discusses the impact on default probabilities using a quantile regression model application. The approach combines country-specific macroeconomic shocks with heterogeneous sectoral characteristics under two tail scenarios to project probabilities of default over a three-year horizon. Results suggest that especially vulnerable sectors contribute relatively more to an increase in euro area default probabilities, leading to an overall decrease of banks’ common equity tier 1 capital.]]></summary>
-        <author>
-            <name>Paul Konietschke, Julian Metzler, Aurea Ponte Marques</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring business openings and closures in real time]]></title>
-        <id>https://voxeu.org/article/measuring-business-openings-and-closures-real-time</id>
-        <link href="https://voxeu.org/article/measuring-business-openings-and-closures-real-time"/>
-        <updated>2022-06-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The COVID-19 pandemic highlighted the need for near real-time statistics to monitor rapidly changing business health conditions. This column introduces a new timely estimation of business opening and closure rates using data from Google Places – the dataset behind the Google Maps service. The method tracks the appearance and disappearance of ‘pins’ that represent unique businesses. The authors find that the lifting of COVID-19 restrictions in Canada coincides with a wave of re-entry of temporarily closed businesses, suggesting that government support may have facilitated the survival of hibernating businesses.]]></summary>
-        <author>
-            <name>Thibaut Duprey, Artur  Kotlicki, Daniel  Rigobon, Philip Schnattinger</name>
         </author>
     </entry>
     <entry>
