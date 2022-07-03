@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-03T15:01:45.010Z</id>
+    <id>urn:2022-07-03T18:01:47.984Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-03T15:01:45.010Z</updated>
+    <updated>2022-07-03T18:01:47.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Using machine learning to study parenting styles]]></title>
-        <id>https://voxeu.org/article/using-machine-learning-study-parenting-styles</id>
-        <link href="https://voxeu.org/article/using-machine-learning-study-parenting-styles"/>
-        <updated>2022-07-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Parental time invested in the early years has an outsized impact on a child’s future. But measuring the effects of different parenting styles remains an elusive task, in part because self-reported survey questions are susceptible to misreporting bias. This column uses unsupervised machine learning to measure parenting styles applied to a panel of Canadian children from age five months to just over two years. The topic model classifies parenting into two styles – warm and cold – and finds that children of ‘warm’ parents achieve higher cognitive and non-cognitive scores at later ages.]]></summary>
-        <author>
-            <name>Christopher Rauh, Laëtitia Renée</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The null result penalty]]></title>
         <id>https://voxeu.org/article/null-result-penalty</id>
@@ -23,6 +13,16 @@
         <summary type="html"><![CDATA[There are growing concerns about publication bias in academic studies, particularly against papers with small effects that are not statistically significant. Using a large-scale survey of academic economists, this column finds a substantial perceived penalty against null results. Respondents believe studies with a null result have a lower chance of being published and perceive those studies as having lower quality. Further analysis suggests the communication of statistical uncertainty and perceptions of statistical precision are important factors affecting the null result penalty, but finds no evidence of a bias towards surprising findings in the publication process.]]></summary>
         <author>
             <name>Felix Chopra, Ingar  Haaland, Chris Roth, Andreas Stegmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using machine learning to study parenting styles]]></title>
+        <id>https://voxeu.org/article/using-machine-learning-study-parenting-styles</id>
+        <link href="https://voxeu.org/article/using-machine-learning-study-parenting-styles"/>
+        <updated>2022-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Parental time invested in the early years has an outsized impact on a child’s future. But measuring the effects of different parenting styles remains an elusive task, in part because self-reported survey questions are susceptible to misreporting bias. This column uses unsupervised machine learning to measure parenting styles applied to a panel of Canadian children from age five months to just over two years. The topic model classifies parenting into two styles – warm and cold – and finds that children of ‘warm’ parents achieve higher cognitive and non-cognitive scores at later ages.]]></summary>
+        <author>
+            <name>Christopher Rauh, Laëtitia Renée</name>
         </author>
     </entry>
     <entry>
@@ -343,16 +343,6 @@ Chapter 06 중요한 특성 사용하기
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Damage from air pollutants you won’t hear about from your doctor]]></title>
-        <id>https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor</id>
-        <link href="https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A significant body of evidence has established the effects of air pollution on diagnosable health outcomes, ranging from breathing problems and low birth weights to hospitalisations and deaths. But the burden of disease is not the only economic cost arising from poor air quality. This column discusses an emerging body of work that suggests air pollution may have significant effects on day-to-day functioning, economic output, and individual wellbeing in cities around the world, even for people with none of the observable health problems typically attributed to pollution exposure.]]></summary>
-        <author>
-            <name>Sandra Aguilar-Gomez, Holt Dwyer, Joshua Graff Zivin, Matthew  Neidell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[University education, intelligence, and disadvantage]]></title>
         <id>https://voxeu.org/article/university-education-intelligence-and-disadvantage</id>
         <link href="https://voxeu.org/article/university-education-intelligence-and-disadvantage"/>
@@ -360,6 +350,16 @@ Chapter 06 중요한 특성 사용하기
         <summary type="html"><![CDATA[Access to university has expanded significantly in the US and Europe over the last five decades, and plans for further growth figure prominently on many policy agendas. This column examines the enlargement of post-secondary education in the UK after 1970. The authors argue that expanding university access corresponded with a decline in both the average intelligence of graduates and the wage premium across cohorts. Those who benefited from the expansion were primarily less-intelligent students from advantaged socioeconomic backgrounds, not the high-ability students from disadvantaged backgrounds the policy was designed to reach.]]></summary>
         <author>
             <name>Andrea Ichino, Aldo Rustichini, Giulio  Zanella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Damage from air pollutants you won’t hear about from your doctor]]></title>
+        <id>https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor</id>
+        <link href="https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor"/>
+        <updated>2022-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A significant body of evidence has established the effects of air pollution on diagnosable health outcomes, ranging from breathing problems and low birth weights to hospitalisations and deaths. But the burden of disease is not the only economic cost arising from poor air quality. This column discusses an emerging body of work that suggests air pollution may have significant effects on day-to-day functioning, economic output, and individual wellbeing in cities around the world, even for people with none of the observable health problems typically attributed to pollution exposure.]]></summary>
+        <author>
+            <name>Sandra Aguilar-Gomez, Holt Dwyer, Joshua Graff Zivin, Matthew  Neidell</name>
         </author>
     </entry>
     <entry>
