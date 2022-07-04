@@ -486,13 +486,13 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/using-machine-learning-study-parenting-styles",
-          "author": "Christopher Rauh, Laëtitia Renée",
-          "description": "Parental time invested in the early years has an outsized impact on a child’s future. But measuring the effects of different parenting styles remains an elusive task, in part because self-reported survey questions are susceptible to misreporting bias. This column uses unsupervised machine learning to measure parenting styles applied to a panel of Canadian children from age five months to just over two years. The topic model classifies parenting into two styles – warm and cold – and finds that children of ‘warm’ parents achieve higher cognitive and non-cognitive scores at later ages.",
-          "link": "https://voxeu.org/article/using-machine-learning-study-parenting-styles",
-          "publishedOn": "2022-07-03T00:00:00.000Z",
-          "wordCount": 2791,
-          "title": "Using machine learning to study parenting styles",
+          "id": "https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis",
+          "author": "David Turner, Balázs  Égert, Jarmila  Botev",
+          "description": "The cost of living crisis is very apparent in the latest forecasts published by the OECD. This column identifies structural reforms, including raising in-kind family benefits and reducing the labour-income tax wedge, that tend to boost adjusted household disposable income more than GDP in the long run. In reaction to the unfolding cost of living crisis, governments should consider implementing these reforms to supplement fiscal support to vulnerable households.",
+          "link": "https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis",
+          "publishedOn": "2022-07-04T00:00:00.000Z",
+          "wordCount": 2066,
+          "title": "Structural reforms to help address the cost of living crisis",
           "imageUrl": null
         },
         {
@@ -506,13 +506,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/faith-and-assimilation",
-          "author": "Stefano Gagliarducci, Marco Tabellini",
-          "description": "How ethnic religious organisations influence immigrants’ assimilation in host societies has been surprisingly understudied. This column looks at the effect of Italian Catholic churches in the US between 1890 and 1920 when four million Italians moved to America and anti-Catholic sentiments were widespread. Italian churches reduced social assimilation of Italian immigrants, lowering intermarriage, residential integration, and naturalisation rates. However, the churches had ambiguous effects on immigrants’ economic outcomes and increased children’s literacy and ability to speak English.",
-          "link": "https://voxeu.org/article/faith-and-assimilation",
-          "publishedOn": "2022-07-02T00:00:00.000Z",
-          "wordCount": 2681,
-          "title": "Faith and assimilation",
+          "id": "https://voxeu.org/article/using-machine-learning-study-parenting-styles",
+          "author": "Christopher Rauh, Laëtitia Renée",
+          "description": "Parental time invested in the early years has an outsized impact on a child’s future. But measuring the effects of different parenting styles remains an elusive task, in part because self-reported survey questions are susceptible to misreporting bias. This column uses unsupervised machine learning to measure parenting styles applied to a panel of Canadian children from age five months to just over two years. The topic model classifies parenting into two styles – warm and cold – and finds that children of ‘warm’ parents achieve higher cognitive and non-cognitive scores at later ages.",
+          "link": "https://voxeu.org/article/using-machine-learning-study-parenting-styles",
+          "publishedOn": "2022-07-03T00:00:00.000Z",
+          "wordCount": 2791,
+          "title": "Using machine learning to study parenting styles",
           "imageUrl": null
         },
         {
@@ -526,12 +526,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/faith-and-assimilation",
+          "author": "Stefano Gagliarducci, Marco Tabellini",
+          "description": "How ethnic religious organisations influence immigrants’ assimilation in host societies has been surprisingly understudied. This column looks at the effect of Italian Catholic churches in the US between 1890 and 1920 when four million Italians moved to America and anti-Catholic sentiments were widespread. Italian churches reduced social assimilation of Italian immigrants, lowering intermarriage, residential integration, and naturalisation rates. However, the churches had ambiguous effects on immigrants’ economic outcomes and increased children’s literacy and ability to speak English.",
+          "link": "https://voxeu.org/article/faith-and-assimilation",
+          "publishedOn": "2022-07-02T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Faith and assimilation",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/vox-talks/curing-covid-inflation",
           "author": "Sebnem Kalemli-Ozcan",
           "description": "Recorded live at CEPR Paris Symposium 2022: Supply chain disruption caused by Covid-19 has fed inflation and hobbled stimulus policies. Sebnem Kalemli Özcan tells Tim Phillips about the only solution to this economic long Covid.",
           "link": "https://voxeu.org/vox-talks/curing-covid-inflation",
           "publishedOn": "2022-07-01T00:00:00.000Z",
-          "wordCount": 812,
+          "wordCount": null,
           "title": "Curing Covid inflation",
           "imageUrl": null
         },
@@ -541,7 +551,7 @@
           "description": "The invasion of Ukraine has produced a global energy crisis not seen since the 1970s. Policymakers are struggling to regain energy security and losing sight of the energy transition. This column argues that in the long run, however, policymakers will fail to achieve the former without committing to the latter.",
           "link": "https://voxeu.org/article/energy-balancing-act-between-security-and-transition",
           "publishedOn": "2022-07-01T00:00:00.000Z",
-          "wordCount": 3136,
+          "wordCount": null,
           "title": "The energy balancing act between security and transition",
           "imageUrl": null
         },
@@ -551,18 +561,8 @@
           "description": "Structural reforms have been at the centre of the economic policy debate in advanced economies, and in Europe in particular, in the past two decades. This column assesses the macroeconomic effects of three economic policy packages introduced in Italy between 2011 and 2017, obtained using both microeconomic estimates and model-based simulations. The three reforms induced a progressive, sizeable increase in total factor productivity and reduction in firms’ market power. By the end of the current decade, Italian GDP could be about 6% higher than it would have been absent the reforms (and any other shocks), with positive effects on the labour market.",
           "link": "https://voxeu.org/article/macroeconomic-effects-structural-reforms",
           "publishedOn": "2022-07-01T00:00:00.000Z",
-          "wordCount": 2469,
+          "wordCount": null,
           "title": "The macroeconomic effects of structural reforms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor",
-          "author": "Sandra Aguilar-Gomez, Holt Dwyer, Joshua Graff Zivin, Matthew  Neidell",
-          "description": "A significant body of evidence has established the effects of air pollution on diagnosable health outcomes, ranging from breathing problems and low birth weights to hospitalisations and deaths. But the burden of disease is not the only economic cost arising from poor air quality. This column discusses an emerging body of work that suggests air pollution may have significant effects on day-to-day functioning, economic output, and individual wellbeing in cities around the world, even for people with none of the observable health problems typically attributed to pollution exposure.",
-          "link": "https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor",
-          "publishedOn": "2022-06-30T00:00:00.000Z",
-          "wordCount": 3290,
-          "title": "Damage from air pollutants you won’t hear about from your doctor",
           "imageUrl": null
         },
         {
@@ -571,18 +571,18 @@
           "description": "Access to university has expanded significantly in the US and Europe over the last five decades, and plans for further growth figure prominently on many policy agendas. This column examines the enlargement of post-secondary education in the UK after 1970. The authors argue that expanding university access corresponded with a decline in both the average intelligence of graduates and the wage premium across cohorts. Those who benefited from the expansion were primarily less-intelligent students from advantaged socioeconomic backgrounds, not the high-ability students from disadvantaged backgrounds the policy was designed to reach.",
           "link": "https://voxeu.org/article/university-education-intelligence-and-disadvantage",
           "publishedOn": "2022-06-30T00:00:00.000Z",
-          "wordCount": 3078,
+          "wordCount": null,
           "title": "University education, intelligence, and disadvantage",
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/vox-talks/defusing-carbon-bombs",
-          "author": "Mar  Reguant, Rick van der Ploeg",
-          "description": "Recorded live at CEPR Paris Symposium 2022:  Sanctions against Russia have sent the price of oil and gas rocketing – triggering more, not less, fossil fuel extraction, and some giant projects that have been called “carbon bombs”. Mar Réguant and Rick van der Ploeg tell Tim Phillips that these bombs will explode the climate commitments agreed in Paris in 2015.",
-          "link": "https://voxeu.org/vox-talks/defusing-carbon-bombs",
-          "publishedOn": "2022-06-29T00:00:00.000Z",
-          "wordCount": 889,
-          "title": "Defusing the carbon bombs",
+          "id": "https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor",
+          "author": "Sandra Aguilar-Gomez, Holt Dwyer, Joshua Graff Zivin, Matthew  Neidell",
+          "description": "A significant body of evidence has established the effects of air pollution on diagnosable health outcomes, ranging from breathing problems and low birth weights to hospitalisations and deaths. But the burden of disease is not the only economic cost arising from poor air quality. This column discusses an emerging body of work that suggests air pollution may have significant effects on day-to-day functioning, economic output, and individual wellbeing in cities around the world, even for people with none of the observable health problems typically attributed to pollution exposure.",
+          "link": "https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor",
+          "publishedOn": "2022-06-30T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Damage from air pollutants you won’t hear about from your doctor",
           "imageUrl": null
         }
       ]
