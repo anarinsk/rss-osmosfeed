@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T06:01:57.440Z</id>
+    <id>urn:2022-07-04T09:02:23.819Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-04T06:01:57.440Z</updated>
+    <updated>2022-07-04T09:02:23.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[The cost of living crisis is very apparent in the latest forecasts published by the OECD. This column identifies structural reforms, including raising in-kind family benefits and reducing the labour-income tax wedge, that tend to boost adjusted household disposable income more than GDP in the long run. In reaction to the unfolding cost of living crisis, governments should consider implementing these reforms to supplement fiscal support to vulnerable households.]]></summary>
         <author>
             <name>David Turner, Balázs  Égert, Jarmila  Botev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US racial wealth gap, 1860-2020]]></title>
+        <id>https://voxeu.org/article/us-racial-wealth-gap-1860-2020</id>
+        <link href="https://voxeu.org/article/us-racial-wealth-gap-1860-2020"/>
+        <updated>2022-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Large and persistent wealth gaps between Black and white Americans have attracted considerable attention from researchers and policymakers. This column presents a new long-run time series of the per capita wealth gap, from before the Civil War to 2020. A key finding is that severe racial differences in initial conditions after Emancipation have contributed greatly to today’s stalled progress in c thelosing racial wealth gap. The authors discuss the implications of these findings for policies that seek to foster greater racial wealth equality in the near future.]]></summary>
+        <author>
+            <name>Ellora Derenoncourt, Chi Hyun Kim, Moritz Kuhn, Moritz Schularick</name>
         </author>
     </entry>
     <entry>
@@ -360,16 +370,6 @@ Chapter 06 중요한 특성 사용하기
         <summary type="html"><![CDATA[Access to university has expanded significantly in the US and Europe over the last five decades, and plans for further growth figure prominently on many policy agendas. This column examines the enlargement of post-secondary education in the UK after 1970. The authors argue that expanding university access corresponded with a decline in both the average intelligence of graduates and the wage premium across cohorts. Those who benefited from the expansion were primarily less-intelligent students from advantaged socioeconomic backgrounds, not the high-ability students from disadvantaged backgrounds the policy was designed to reach.]]></summary>
         <author>
             <name>Andrea Ichino, Aldo Rustichini, Giulio  Zanella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Damage from air pollutants you won’t hear about from your doctor]]></title>
-        <id>https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor</id>
-        <link href="https://voxeu.org/article/damage-air-pollutants-you-won-t-hear-about-your-doctor"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A significant body of evidence has established the effects of air pollution on diagnosable health outcomes, ranging from breathing problems and low birth weights to hospitalisations and deaths. But the burden of disease is not the only economic cost arising from poor air quality. This column discusses an emerging body of work that suggests air pollution may have significant effects on day-to-day functioning, economic output, and individual wellbeing in cities around the world, even for people with none of the observable health problems typically attributed to pollution exposure.]]></summary>
-        <author>
-            <name>Sandra Aguilar-Gomez, Holt Dwyer, Joshua Graff Zivin, Matthew  Neidell</name>
         </author>
     </entry>
     <entry>
