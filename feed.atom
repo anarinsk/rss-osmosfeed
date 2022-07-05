@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T12:02:04.374Z</id>
+    <id>urn:2022-07-05T15:06:08.019Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-05T12:02:04.374Z</updated>
+    <updated>2022-07-05T15:06:08.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Exporting US gangs]]></title>
+        <id>https://www.aeaweb.org/research/charts/exporting-criminal-capital-el-salvador-us</id>
+        <link href="https://www.aeaweb.org/research/charts/exporting-criminal-capital-el-salvador-us"/>
+        <updated>2022-07-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[America's deportation policies may be fueling a cycle of gang-related violence in El Salvador which in turn drives more immigration back to the United States, according to a paper in the American Economic Review.]]></summary>
+        <author>
+            <name>Tyler Smith (research.highlights@aeapubs.org)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welfare can discourage crime more than it discourages work]]></title>
         <id>https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work</id>
