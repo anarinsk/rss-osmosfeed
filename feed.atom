@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T09:01:51.021Z</id>
+    <id>urn:2022-07-05T12:02:04.374Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-05T09:01:51.021Z</updated>
+    <updated>2022-07-05T12:02:04.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Structural reforms to help address the cost of living crisis]]></title>
-        <id>https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis</id>
-        <link href="https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis"/>
-        <updated>2022-07-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The cost of living crisis is very apparent in the latest forecasts published by the OECD. This column identifies structural reforms, including raising in-kind family benefits and reducing the labour-income tax wedge, that tend to boost adjusted household disposable income more than GDP in the long run. In reaction to the unfolding cost of living crisis, governments should consider implementing these reforms to supplement fiscal support to vulnerable households.]]></summary>
-        <author>
-            <name>David Turner, Balázs  Égert, Jarmila  Botev</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The US racial wealth gap, 1860-2020]]></title>
         <id>https://voxeu.org/article/us-racial-wealth-gap-1860-2020</id>
         <link href="https://voxeu.org/article/us-racial-wealth-gap-1860-2020"/>
@@ -56,13 +46,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using machine learning to study parenting styles]]></title>
-        <id>https://voxeu.org/article/using-machine-learning-study-parenting-styles</id>
-        <link href="https://voxeu.org/article/using-machine-learning-study-parenting-styles"/>
-        <updated>2022-07-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Parental time invested in the early years has an outsized impact on a child’s future. But measuring the effects of different parenting styles remains an elusive task, in part because self-reported survey questions are susceptible to misreporting bias. This column uses unsupervised machine learning to measure parenting styles applied to a panel of Canadian children from age five months to just over two years. The topic model classifies parenting into two styles – warm and cold – and finds that children of ‘warm’ parents achieve higher cognitive and non-cognitive scores at later ages.]]></summary>
+        <title type="html"><![CDATA[Structural reforms to help address the cost of living crisis]]></title>
+        <id>https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis</id>
+        <link href="https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis"/>
+        <updated>2022-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The cost of living crisis is very apparent in the latest forecasts published by the OECD. This column identifies structural reforms, including raising in-kind family benefits and reducing the labour-income tax wedge, that tend to boost adjusted household disposable income more than GDP in the long run. In reaction to the unfolding cost of living crisis, governments should consider implementing these reforms to supplement fiscal support to vulnerable households.]]></summary>
         <author>
-            <name>Christopher Rauh, Laëtitia Renée</name>
+            <name>David Turner, Balázs  Égert, Jarmila  Botev</name>
         </author>
     </entry>
     <entry>
@@ -76,13 +66,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reducing the unavailability of stem cell donors]]></title>
-        <id>https://voxeu.org/article/reducing-unavailability-stem-cell-donors</id>
-        <link href="https://voxeu.org/article/reducing-unavailability-stem-cell-donors"/>
-        <updated>2022-07-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For patients suffering from leukaemia or other blood diseases, a hematopoietic stem cell transplant from a matching, unrelated donor offers the best chance of survival. But unlike other medical donations, a stem-cell donation is a multi-stage process that can take years to complete, and many donors fail to follow through on their initial commitment. This column investigates the impact of a German stem-cell donor registry initiative, and finds that an invitation to the initiative itself increased donors’ future availability, while participation had a direct and positive eﬀect on donor readiness.]]></summary>
+        <title type="html"><![CDATA[Using machine learning to study parenting styles]]></title>
+        <id>https://voxeu.org/article/using-machine-learning-study-parenting-styles</id>
+        <link href="https://voxeu.org/article/using-machine-learning-study-parenting-styles"/>
+        <updated>2022-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Parental time invested in the early years has an outsized impact on a child’s future. But measuring the effects of different parenting styles remains an elusive task, in part because self-reported survey questions are susceptible to misreporting bias. This column uses unsupervised machine learning to measure parenting styles applied to a panel of Canadian children from age five months to just over two years. The topic model classifies parenting into two styles – warm and cold – and finds that children of ‘warm’ parents achieve higher cognitive and non-cognitive scores at later ages.]]></summary>
         <author>
-            <name>Michael Haylock, Patrick Kampkötter, Mario Macis, Robert Slonim, Daniel Wiesen</name>
+            <name>Christopher Rauh, Laëtitia Renée</name>
         </author>
     </entry>
     <entry>
@@ -93,6 +83,16 @@
         <summary type="html"><![CDATA[How ethnic religious organisations influence immigrants’ assimilation in host societies has been surprisingly understudied. This column looks at the effect of Italian Catholic churches in the US between 1890 and 1920 when four million Italians moved to America and anti-Catholic sentiments were widespread. Italian churches reduced social assimilation of Italian immigrants, lowering intermarriage, residential integration, and naturalisation rates. However, the churches had ambiguous effects on immigrants’ economic outcomes and increased children’s literacy and ability to speak English.]]></summary>
         <author>
             <name>Stefano Gagliarducci, Marco Tabellini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing the unavailability of stem cell donors]]></title>
+        <id>https://voxeu.org/article/reducing-unavailability-stem-cell-donors</id>
+        <link href="https://voxeu.org/article/reducing-unavailability-stem-cell-donors"/>
+        <updated>2022-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For patients suffering from leukaemia or other blood diseases, a hematopoietic stem cell transplant from a matching, unrelated donor offers the best chance of survival. But unlike other medical donations, a stem-cell donation is a multi-stage process that can take years to complete, and many donors fail to follow through on their initial commitment. This column investigates the impact of a German stem-cell donor registry initiative, and finds that an invitation to the initiative itself increased donors’ future availability, while participation had a direct and positive eﬀect on donor readiness.]]></summary>
+        <author>
+            <name>Michael Haylock, Patrick Kampkötter, Mario Macis, Robert Slonim, Daniel Wiesen</name>
         </author>
     </entry>
     <entry>
