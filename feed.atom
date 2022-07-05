@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T15:06:08.019Z</id>
+    <id>urn:2022-07-05T18:02:10.810Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-05T15:06:08.019Z</updated>
+    <updated>2022-07-05T18:02:10.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,16 +16,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welfare can discourage crime more than it discourages work]]></title>
-        <id>https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work</id>
-        <link href="https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work"/>
-        <updated>2022-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cuts to welfare programmes have historically been motivated by concerns that they can discourage educational achievement and work. This column uses the natural experiment of the 1996 welfare reform law in the US to examine the effect of welfare programmes on a different type of ‘work’: criminal activity intended to generate income. The authors find that removing young adults from the US Supplemental Security Income programme increases criminal justice involvement, and especially illicit income-generating activity. While the programme does indeed discourage formal employment among young adults, its much larger effect is to discourage criminal activity.]]></summary>
-        <author>
-            <name>Manasi Deshpande, Michael Mueller-Smith</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A treaty for sanctions on the pre-emptive use of nuclear weapons]]></title>
         <id>https://voxeu.org/article/treaty-sanctions-pre-emptive-use-nuclear-weapons</id>
         <link href="https://voxeu.org/article/treaty-sanctions-pre-emptive-use-nuclear-weapons"/>
@@ -33,6 +23,28 @@
         <summary type="html"><![CDATA[The war in Ukraine has brought the use of nuclear weapons into the realm of possibility. This column points out weaknesses in the logic of mutually assured destruction that underlies nuclear deterrence strategies. Instead, it proposes a treaty to impose sanctions on pre-emptive uses of nuclear weapons to establish a new international norm in which all citizens of the world share the power to decide the fate of the planet.]]></summary>
         <author>
             <name>Keiichiro  Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can we reduce the UK's Debt-GDP ratio?]]></title>
+        <id>https://voxeu.org/content/how-can-we-reduce-uks-debt-gdp-ratio</id>
+        <link href="https://voxeu.org/content/how-can-we-reduce-uks-debt-gdp-ratio"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The UK’s debt-to-GDP ratio was 40% in 2007. At the beginning of 2022 it was 95%. How can this be reduced, and what level of debt to GDP is sustainable? Evidence from 120 years of policymaking gives us some clues about what works -- and what doesn’t.
+Download the free DP and read more about this research:
+Wickens, M. 2022. 'How might the UK's Debt-GDP ratio be reduced? Evidence from the last 120 years'. CEPR]]></summary>
+        <author>
+            <name>Mike Wickens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welfare can discourage crime more than it discourages work]]></title>
+        <id>https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work</id>
+        <link href="https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cuts to welfare programmes have historically been motivated by concerns that they can discourage educational achievement and work. This column uses the natural experiment of the 1996 welfare reform law in the US to examine the effect of welfare programmes on a different type of ‘work’: criminal activity intended to generate income. The authors find that removing young adults from the US Supplemental Security Income programme increases criminal justice involvement, and especially illicit income-generating activity. While the programme does indeed discourage formal employment among young adults, its much larger effect is to discourage criminal activity.]]></summary>
+        <author>
+            <name>Manasi Deshpande, Michael Mueller-Smith</name>
         </author>
     </entry>
     <entry>
@@ -46,16 +58,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The US racial wealth gap, 1860-2020]]></title>
-        <id>https://voxeu.org/article/us-racial-wealth-gap-1860-2020</id>
-        <link href="https://voxeu.org/article/us-racial-wealth-gap-1860-2020"/>
-        <updated>2022-07-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large and persistent wealth gaps between Black and white Americans have attracted considerable attention from researchers and policymakers. This column presents a new long-run time series of the per capita wealth gap, from before the Civil War to 2020. A key finding is that severe racial differences in initial conditions after Emancipation have contributed greatly to today’s stalled progress in closing the racial wealth gap. The authors discuss the implications of these findings for policies that seek to foster greater racial wealth equality in the near future.]]></summary>
-        <author>
-            <name>Ellora Derenoncourt, Chi Hyun Kim, Moritz Kuhn, Moritz Schularick</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Structural reforms to help address the cost of living crisis]]></title>
         <id>https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis</id>
         <link href="https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis"/>
@@ -63,6 +65,16 @@
         <summary type="html"><![CDATA[The cost of living crisis is very apparent in the latest forecasts published by the OECD. This column identifies structural reforms, including raising in-kind family benefits and reducing the labour-income tax wedge, that tend to boost adjusted household disposable income more than GDP in the long run. In reaction to the unfolding cost of living crisis, governments should consider implementing these reforms to supplement fiscal support to vulnerable households.]]></summary>
         <author>
             <name>David Turner, Balázs  Égert, Jarmila  Botev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US racial wealth gap, 1860-2020]]></title>
+        <id>https://voxeu.org/article/us-racial-wealth-gap-1860-2020</id>
+        <link href="https://voxeu.org/article/us-racial-wealth-gap-1860-2020"/>
+        <updated>2022-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Large and persistent wealth gaps between Black and white Americans have attracted considerable attention from researchers and policymakers. This column presents a new long-run time series of the per capita wealth gap, from before the Civil War to 2020. A key finding is that severe racial differences in initial conditions after Emancipation have contributed greatly to today’s stalled progress in closing the racial wealth gap. The authors discuss the implications of these findings for policies that seek to foster greater racial wealth equality in the near future.]]></summary>
+        <author>
+            <name>Ellora Derenoncourt, Chi Hyun Kim, Moritz Kuhn, Moritz Schularick</name>
         </author>
     </entry>
     <entry>
@@ -86,16 +98,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faith and assimilation]]></title>
-        <id>https://voxeu.org/article/faith-and-assimilation</id>
-        <link href="https://voxeu.org/article/faith-and-assimilation"/>
-        <updated>2022-07-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How ethnic religious organisations influence immigrants’ assimilation in host societies has been surprisingly understudied. This column looks at the effect of Italian Catholic churches in the US between 1890 and 1920 when four million Italians moved to America and anti-Catholic sentiments were widespread. Italian churches reduced social assimilation of Italian immigrants, lowering intermarriage, residential integration, and naturalisation rates. However, the churches had ambiguous effects on immigrants’ economic outcomes and increased children’s literacy and ability to speak English.]]></summary>
-        <author>
-            <name>Stefano Gagliarducci, Marco Tabellini</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reducing the unavailability of stem cell donors]]></title>
         <id>https://voxeu.org/article/reducing-unavailability-stem-cell-donors</id>
         <link href="https://voxeu.org/article/reducing-unavailability-stem-cell-donors"/>
@@ -103,6 +105,16 @@
         <summary type="html"><![CDATA[For patients suffering from leukaemia or other blood diseases, a hematopoietic stem cell transplant from a matching, unrelated donor offers the best chance of survival. But unlike other medical donations, a stem-cell donation is a multi-stage process that can take years to complete, and many donors fail to follow through on their initial commitment. This column investigates the impact of a German stem-cell donor registry initiative, and finds that an invitation to the initiative itself increased donors’ future availability, while participation had a direct and positive eﬀect on donor readiness.]]></summary>
         <author>
             <name>Michael Haylock, Patrick Kampkötter, Mario Macis, Robert Slonim, Daniel Wiesen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faith and assimilation]]></title>
+        <id>https://voxeu.org/article/faith-and-assimilation</id>
+        <link href="https://voxeu.org/article/faith-and-assimilation"/>
+        <updated>2022-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How ethnic religious organisations influence immigrants’ assimilation in host societies has been surprisingly understudied. This column looks at the effect of Italian Catholic churches in the US between 1890 and 1920 when four million Italians moved to America and anti-Catholic sentiments were widespread. Italian churches reduced social assimilation of Italian immigrants, lowering intermarriage, residential integration, and naturalisation rates. However, the churches had ambiguous effects on immigrants’ economic outcomes and increased children’s literacy and ability to speak English.]]></summary>
+        <author>
+            <name>Stefano Gagliarducci, Marco Tabellini</name>
         </author>
     </entry>
     <entry>
@@ -257,16 +269,6 @@ Chapter 12 Matplotlib에 입문하기
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curing Covid inflation]]></title>
-        <id>https://voxeu.org/vox-talks/curing-covid-inflation</id>
-        <link href="https://voxeu.org/vox-talks/curing-covid-inflation"/>
-        <updated>2022-07-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022: Supply chain disruption caused by Covid-19 has fed inflation and hobbled stimulus policies. Sebnem Kalemli Özcan tells Tim Phillips about the only solution to this economic long Covid.]]></summary>
-        <author>
-            <name>Sebnem Kalemli-Ozcan</name>
         </author>
     </entry>
     <entry>
