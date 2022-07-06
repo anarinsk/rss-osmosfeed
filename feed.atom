@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-06T03:36:06.237Z</id>
+    <id>urn:2022-07-06T06:01:53.296Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-06T03:36:06.237Z</updated>
+    <updated>2022-07-06T06:01:53.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[It is commonly assumed that market participants are all equally and highly sophisticated and know the exact relationship between fundamentals and prices. But this ignores the reality that investors spend millions of dollars analysing market data to better understand and hopefully profit from any patterns in stock charts. This column presents a framework to relax these assumptions and explore how investor sophistication can affect market prices and trading volumes. The framework provides theoretical underpinnings to some of the most well-known anomalies in finance and can help explain trends in the asset management industry.]]></summary>
         <author>
             <name>Jordi  Mondria, Xavier Vives, Liyan  Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capturing top incomes and measuring inequality in Europe]]></title>
+        <id>https://voxeu.org/article/capturing-top-incomes-and-measuring-inequality-europe</id>
+        <link href="https://voxeu.org/article/capturing-top-incomes-and-measuring-inequality-europe"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The problem of the ‘missing top’ in household income surveys has been highlighted by tax-based estimates of top income shares. This column shows that tax-based top income adjustments to EU Statistics on Income and Social Conditions surveys often make a substantial difference, but to an extent that varies widely across European countries and over time. Incorporating data from administrative sources in the surveys themselves helps to reduce the need for post-survey adjustment but may not eliminate it, and the nature of the country’s tax system and data are highly relevant for how best to combine data from both sources.]]></summary>
+        <author>
+            <name>Rafael Carranza, Marc Morgan, Brian Nolan</name>
         </author>
     </entry>
     <entry>
@@ -36,18 +46,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How can we reduce the UK's Debt-GDP ratio?]]></title>
-        <id>https://voxeu.org/content/how-can-we-reduce-uks-debt-gdp-ratio</id>
-        <link href="https://voxeu.org/content/how-can-we-reduce-uks-debt-gdp-ratio"/>
-        <updated>2022-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The UK’s debt-to-GDP ratio was 40% in 2007. At the beginning of 2022 it was 95%. How can this be reduced, and what level of debt to GDP is sustainable? Evidence from 120 years of policymaking gives us some clues about what works -- and what doesn’t.
-Download the free DP and read more about this research:
-Wickens, M. 2022. 'How might the UK's Debt-GDP ratio be reduced? Evidence from the last 120 years'. CEPR]]></summary>
-        <author>
-            <name>Mike Wickens</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Welfare can discourage crime more than it discourages work]]></title>
         <id>https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work</id>
         <link href="https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work"/>
@@ -65,6 +63,18 @@ Wickens, M. 2022. 'How might the UK's Debt-GDP ratio be reduced? Evidence from t
         <summary type="html"><![CDATA[The war in Ukraine has brought the use of nuclear weapons into the realm of possibility. This column points out weaknesses in the logic of mutually assured destruction that underlies nuclear deterrence strategies. Instead, it proposes a treaty to impose sanctions on pre-emptive uses of nuclear weapons to establish a new international norm in which all citizens of the world share the power to decide the fate of the planet.]]></summary>
         <author>
             <name>Keiichiro  Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can we reduce the UK's Debt-GDP ratio?]]></title>
+        <id>https://voxeu.org/content/how-can-we-reduce-uks-debt-gdp-ratio</id>
+        <link href="https://voxeu.org/content/how-can-we-reduce-uks-debt-gdp-ratio"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The UK’s debt-to-GDP ratio was 40% in 2007. At the beginning of 2022 it was 95%. How can this be reduced, and what level of debt to GDP is sustainable? Evidence from 120 years of policymaking gives us some clues about what works -- and what doesn’t.
+Download the free DP and read more about this research:
+Wickens, M. 2022. 'How might the UK's Debt-GDP ratio be reduced? Evidence from the last 120 years'. CEPR]]></summary>
+        <author>
+            <name>Mike Wickens</name>
         </author>
     </entry>
     <entry>
@@ -644,16 +654,6 @@ PART 3. 기계 학습
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The US racial wealth gap, 1860-2020]]></title>
-        <id>https://voxeu.org/article/us-racial-wealth-gap-1860-2020</id>
-        <link href="https://voxeu.org/article/us-racial-wealth-gap-1860-2020"/>
-        <updated>2022-07-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large and persistent wealth gaps between Black and white Americans have attracted considerable attention from researchers and policymakers. This column presents a new long-run time series of the per capita wealth gap, from before the Civil War to 2020. A key finding is that severe racial differences in initial conditions after Emancipation have contributed greatly to today’s stalled progress in closing the racial wealth gap. The authors discuss the implications of these findings for policies that seek to foster greater racial wealth equality in the near future.]]></summary>
-        <author>
-            <name>Ellora Derenoncourt, Chi Hyun Kim, Moritz Kuhn, Moritz Schularick</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Structural reforms to help address the cost of living crisis]]></title>
         <id>https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis</id>
         <link href="https://voxeu.org/article/structural-reforms-help-address-cost-living-crisis"/>
@@ -664,13 +664,13 @@ PART 3. 기계 학습
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using machine learning to study parenting styles]]></title>
-        <id>https://voxeu.org/article/using-machine-learning-study-parenting-styles</id>
-        <link href="https://voxeu.org/article/using-machine-learning-study-parenting-styles"/>
-        <updated>2022-07-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Parental time invested in the early years has an outsized impact on a child’s future. But measuring the effects of different parenting styles remains an elusive task, in part because self-reported survey questions are susceptible to misreporting bias. This column uses unsupervised machine learning to measure parenting styles applied to a panel of Canadian children from age five months to just over two years. The topic model classifies parenting into two styles – warm and cold – and finds that children of ‘warm’ parents achieve higher cognitive and non-cognitive scores at later ages.]]></summary>
+        <title type="html"><![CDATA[The US racial wealth gap, 1860-2020]]></title>
+        <id>https://voxeu.org/article/us-racial-wealth-gap-1860-2020</id>
+        <link href="https://voxeu.org/article/us-racial-wealth-gap-1860-2020"/>
+        <updated>2022-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Large and persistent wealth gaps between Black and white Americans have attracted considerable attention from researchers and policymakers. This column presents a new long-run time series of the per capita wealth gap, from before the Civil War to 2020. A key finding is that severe racial differences in initial conditions after Emancipation have contributed greatly to today’s stalled progress in closing the racial wealth gap. The authors discuss the implications of these findings for policies that seek to foster greater racial wealth equality in the near future.]]></summary>
         <author>
-            <name>Christopher Rauh, Laëtitia Renée</name>
+            <name>Ellora Derenoncourt, Chi Hyun Kim, Moritz Kuhn, Moritz Schularick</name>
         </author>
     </entry>
     <entry>
