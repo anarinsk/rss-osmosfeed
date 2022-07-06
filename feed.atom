@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-06T09:02:10.260Z</id>
+    <id>urn:2022-07-06T12:02:05.705Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-06T09:02:10.260Z</updated>
+    <updated>2022-07-06T12:02:05.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Learning from prices does not come for free]]></title>
-        <id>https://voxeu.org/article/learning-prices-does-not-come-free</id>
-        <link href="https://voxeu.org/article/learning-prices-does-not-come-free"/>
+        <title type="html"><![CDATA[Closing the European data gap]]></title>
+        <id>https://voxeu.org/vox-talks/closing-european-data-gap</id>
+        <link href="https://voxeu.org/vox-talks/closing-european-data-gap"/>
         <updated>2022-07-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is commonly assumed that market participants are all equally and highly sophisticated and know the exact relationship between fundamentals and prices. But this ignores the reality that investors spend millions of dollars analysing market data to better understand and hopefully profit from any patterns in stock charts. This column presents a framework to relax these assumptions and explore how investor sophistication can affect market prices and trading volumes. The framework provides theoretical underpinnings to some of the most well-known anomalies in finance and can help explain trends in the asset management industry.]]></summary>
+        <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022: Researchers and policymakers need data, but in Europe, they often cannot access the right data at the right time. Filippo di Mauro and Ugo Panizza invite Tim Phillips for coffee to explain how these problems hold back research and decision-making – and suggest what can be done to close the economic data gap.]]></summary>
         <author>
-            <name>Jordi  Mondria, Xavier Vives, Liyan  Yang</name>
+            <name>Ugo Panizza, Filippo di Mauro</name>
         </author>
     </entry>
     <entry>
@@ -36,6 +36,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Learning from prices does not come for free]]></title>
+        <id>https://voxeu.org/article/learning-prices-does-not-come-free</id>
+        <link href="https://voxeu.org/article/learning-prices-does-not-come-free"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is commonly assumed that market participants are all equally and highly sophisticated and know the exact relationship between fundamentals and prices. But this ignores the reality that investors spend millions of dollars analysing market data to better understand and hopefully profit from any patterns in stock charts. This column presents a framework to relax these assumptions and explore how investor sophistication can affect market prices and trading volumes. The framework provides theoretical underpinnings to some of the most well-known anomalies in finance and can help explain trends in the asset management industry.]]></summary>
+        <author>
+            <name>Jordi  Mondria, Xavier Vives, Liyan  Yang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Exporting US gangs]]></title>
         <id>https://www.aeaweb.org/research/charts/exporting-criminal-capital-el-salvador-us</id>
         <link href="https://www.aeaweb.org/research/charts/exporting-criminal-capital-el-salvador-us"/>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[America's deportation policies may be fueling a cycle of gang-related violence in El Salvador which in turn drives more immigration back to the United States, according to a paper in the American Economic Review.]]></summary>
         <author>
             <name>Tyler Smith (research.highlights@aeapubs.org)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welfare can discourage crime more than it discourages work]]></title>
-        <id>https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work</id>
-        <link href="https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work"/>
-        <updated>2022-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cuts to welfare programmes have historically been motivated by concerns that they can discourage educational achievement and work. This column uses the natural experiment of the 1996 welfare reform law in the US to examine the effect of welfare programmes on a different type of ‘work’: criminal activity intended to generate income. The authors find that removing young adults from the US Supplemental Security Income programme increases criminal justice involvement, and especially illicit income-generating activity. While the programme does indeed discourage formal employment among young adults, its much larger effect is to discourage criminal activity.]]></summary>
-        <author>
-            <name>Manasi Deshpande, Michael Mueller-Smith</name>
         </author>
     </entry>
     <entry>
@@ -75,6 +75,16 @@ Download the free DP and read more about this research:
 Wickens, M. 2022. 'How might the UK's Debt-GDP ratio be reduced? Evidence from the last 120 years'. CEPR]]></summary>
         <author>
             <name>Mike Wickens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welfare can discourage crime more than it discourages work]]></title>
+        <id>https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work</id>
+        <link href="https://voxeu.org/article/welfare-can-discourage-crime-more-it-discourages-work"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cuts to welfare programmes have historically been motivated by concerns that they can discourage educational achievement and work. This column uses the natural experiment of the 1996 welfare reform law in the US to examine the effect of welfare programmes on a different type of ‘work’: criminal activity intended to generate income. The authors find that removing young adults from the US Supplemental Security Income programme increases criminal justice involvement, and especially illicit income-generating activity. While the programme does indeed discourage formal employment among young adults, its much larger effect is to discourage criminal activity.]]></summary>
+        <author>
+            <name>Manasi Deshpande, Michael Mueller-Smith</name>
         </author>
     </entry>
     <entry>
@@ -671,16 +681,6 @@ PART 3. 기계 학습
         <summary type="html"><![CDATA[Large and persistent wealth gaps between Black and white Americans have attracted considerable attention from researchers and policymakers. This column presents a new long-run time series of the per capita wealth gap, from before the Civil War to 2020. A key finding is that severe racial differences in initial conditions after Emancipation have contributed greatly to today’s stalled progress in closing the racial wealth gap. The authors discuss the implications of these findings for policies that seek to foster greater racial wealth equality in the near future.]]></summary>
         <author>
             <name>Ellora Derenoncourt, Chi Hyun Kim, Moritz Kuhn, Moritz Schularick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The null result penalty]]></title>
-        <id>https://voxeu.org/article/null-result-penalty</id>
-        <link href="https://voxeu.org/article/null-result-penalty"/>
-        <updated>2022-07-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are growing concerns about publication bias in academic studies, particularly against papers with small effects that are not statistically significant. Using a large-scale survey of academic economists, this column finds a substantial perceived penalty against null results. Respondents believe studies with a null result have a lower chance of being published and perceive those studies as having lower quality. Further analysis suggests the communication of statistical uncertainty and perceptions of statistical precision are important factors affecting the null result penalty, but finds no evidence of a bias towards surprising findings in the publication process.]]></summary>
-        <author>
-            <name>Felix Chopra, Ingar  Haaland, Chris Roth, Andreas Stegmann</name>
         </author>
     </entry>
     <entry>
