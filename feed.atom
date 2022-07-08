@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T09:11:47.464Z</id>
+    <id>urn:2022-07-08T12:02:09.580Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-08T09:11:47.464Z</updated>
+    <updated>2022-07-08T12:02:09.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022: Inequality isn’t just between individuals, but between regions too. Henry Overman explains to Tim Phillips why these disparities exist, why they are so persistent, and whether regional policies to “level up” left-behind places will succeed.]]></summary>
         <author>
             <name>Henry Overman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using machine learning to assess the impact of deep trade agreements]]></title>
+        <id>https://voxeu.org/article/using-machine-learning-assess-impact-deep-trade-agreements</id>
+        <link href="https://voxeu.org/article/using-machine-learning-assess-impact-deep-trade-agreements"/>
+        <updated>2022-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern preferential trade agreements contain a host of provisions that go beyond tariff liberalisation. By adapting techniques from the machine learning literature, this column develops data-driven methods for selecting the most trade-increasing provisions and quantifying their impact on trade. The results suggest that provisions related to technical barriers to trade, anti-dumping, trade facilitation, subsidies, and competition policy are associated with enhancing the trade-increasing effect of preferential trade agreements. Based on these findings, the effects of individual agreements can be estimated.]]></summary>
+        <author>
+            <name>Holger Breinlich, valentina corradi, Nadia Rocha, João M.C. Santos Silva, Thomas Zylkin</name>
         </author>
     </entry>
     <entry>
@@ -392,16 +402,6 @@ COVID-19 전염병으로 인한 중국의 총부채 비율 상승 / 157
         <summary type="html"><![CDATA[Cuts to welfare programmes have historically been motivated by concerns that they can discourage educational achievement and work. This column uses the natural experiment of the 1996 welfare reform law in the US to examine the effect of welfare programmes on a different type of ‘work’: criminal activity intended to generate income. The authors find that removing young adults from the US Supplemental Security Income programme increases criminal justice involvement, and especially illicit income-generating activity. While the programme does indeed discourage formal employment among young adults, its much larger effect is to discourage criminal activity.]]></summary>
         <author>
             <name>Manasi Deshpande, Michael Mueller-Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A treaty for sanctions on the pre-emptive use of nuclear weapons]]></title>
-        <id>https://voxeu.org/article/treaty-sanctions-pre-emptive-use-nuclear-weapons</id>
-        <link href="https://voxeu.org/article/treaty-sanctions-pre-emptive-use-nuclear-weapons"/>
-        <updated>2022-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The war in Ukraine has brought the use of nuclear weapons into the realm of possibility. This column points out weaknesses in the logic of mutually assured destruction that underlies nuclear deterrence strategies. Instead, it proposes a treaty to impose sanctions on pre-emptive uses of nuclear weapons to establish a new international norm in which all citizens of the world share the power to decide the fate of the planet.]]></summary>
-        <author>
-            <name>Keiichiro  Kobayashi</name>
         </author>
     </entry>
     <entry>
