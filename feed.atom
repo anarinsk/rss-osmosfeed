@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-09T15:01:58.870Z</id>
+    <id>urn:2022-07-09T18:02:01.598Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-09T15:01:58.870Z</updated>
+    <updated>2022-07-09T18:02:01.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -253,16 +253,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Financial crises as drivers of populism]]></title>
-        <id>https://voxeu.org/article/financial-crises-drivers-populism</id>
-        <link href="https://voxeu.org/article/financial-crises-drivers-populism"/>
-        <updated>2022-07-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Financial crises have severe economic costs. This column shows that they also entail major political costs. It argues that the global financial crisis, and associated Great Recession, represents a watershed for populism in Europe, changing people’s views and the rhetoric of all parties. The crisis brought economic insecurity to  the middle classes, which had largely remained untouched by the globalisation and immigration shocks. Disillusionment with the status quo prompted parties to enter the political arena on populist platforms.]]></summary>
-        <author>
-            <name>Luigi Guiso, Massimo Morelli, Tommaso Sonno, Helios Herrera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The advance of the private sector among China’s largest companies under Xi Jinping]]></title>
         <id>https://voxeu.org/article/advance-private-sector-among-china-s-largest-companies-under-xi-jinping</id>
         <link href="https://voxeu.org/article/advance-private-sector-among-china-s-largest-companies-under-xi-jinping"/>
@@ -270,6 +260,16 @@
         <summary type="html"><![CDATA[Widespread narratives for China under Xi Jinping, especially in the past half-decade, emphasise a ‘pivot to the state’ and increasing repression of the private sector, in contrast with previous decades of more dynamic private sector development. But is China's private sector truly being crushed? This column uses company-level data for China’s largest companies, ranked by either revenue or (for listed ones) market capitalisation, to show that, in fact, the share of the private sector in that group has expanded rapidly and near-continuously over the past decade.]]></summary>
         <author>
             <name>Tianlei Huang, Nicolas Véron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial crises as drivers of populism]]></title>
+        <id>https://voxeu.org/article/financial-crises-drivers-populism</id>
+        <link href="https://voxeu.org/article/financial-crises-drivers-populism"/>
+        <updated>2022-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Financial crises have severe economic costs. This column shows that they also entail major political costs. It argues that the global financial crisis, and associated Great Recession, represents a watershed for populism in Europe, changing people’s views and the rhetoric of all parties. The crisis brought economic insecurity to  the middle classes, which had largely remained untouched by the globalisation and immigration shocks. Disillusionment with the status quo prompted parties to enter the political arena on populist platforms.]]></summary>
+        <author>
+            <name>Luigi Guiso, Massimo Morelli, Tommaso Sonno, Helios Herrera</name>
         </author>
     </entry>
     <entry>
