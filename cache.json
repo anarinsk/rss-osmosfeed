@@ -551,17 +551,17 @@
           "description": "Recorded live at CEPR Paris Symposium 2022: Inequality isn’t just between individuals, but between regions too. Henry Overman explains to Tim Phillips why these disparities exist, why they are so persistent, and whether regional policies to “level up” left-behind places will succeed.",
           "link": "https://voxeu.org/vox-talks/levelling-europe-s-left-behind-places",
           "publishedOn": "2022-07-08T00:00:00.000Z",
-          "wordCount": 854,
+          "wordCount": null,
           "title": "Levelling up Europe’s left-behind places",
           "imageUrl": null
         },
         {
           "id": "https://voxeu.org/article/using-machine-learning-assess-impact-deep-trade-agreements",
-          "author": "Holger Breinlich, valentina corradi, Nadia Rocha, João M.C. Santos Silva, Thomas Zylkin",
+          "author": "Holger Breinlich, Valentina Corradi, Nadia Rocha, Michele Ruta, João M.C. Santos Silva, Thomas Zylkin",
           "description": "Modern preferential trade agreements contain a host of provisions that go beyond tariff liberalisation. By adapting techniques from the machine learning literature, this column develops data-driven methods for selecting the most trade-increasing provisions and quantifying their impact on trade. The results suggest that provisions related to technical barriers to trade, anti-dumping, trade facilitation, subsidies, and competition policy are associated with enhancing the trade-increasing effect of preferential trade agreements. Based on these findings, the effects of individual agreements can be estimated.",
           "link": "https://voxeu.org/article/using-machine-learning-assess-impact-deep-trade-agreements",
           "publishedOn": "2022-07-08T00:00:00.000Z",
-          "wordCount": 2919,
+          "wordCount": null,
           "title": "Using machine learning to assess the impact of deep trade agreements",
           "imageUrl": null
         },
@@ -571,18 +571,8 @@
           "description": "Historically, only very large firms issued in the European corporate bond market. However, recent years have seen the entry of many new players: small, private, and unrated issuers. This column uses firm-level data to show these new players face different game dynamics. They are disconnected from aggregate market movements and still depend heavily on banks. A better understanding of the differences between new and more established corporate bond issuers could help identify policy implications for financial stability, capital markets development, and growth.",
           "link": "https://voxeu.org/article/europe-s-growing-league-small-corporate-bond-issuers",
           "publishedOn": "2022-07-08T00:00:00.000Z",
-          "wordCount": 2959,
+          "wordCount": null,
           "title": "Europe’s growing league of small corporate bond issuers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/advance-private-sector-among-china-s-largest-companies-under-xi-jinping",
-          "author": "Tianlei Huang, Nicolas Véron",
-          "description": "Widespread narratives for China under Xi Jinping, especially in the past half-decade, emphasise a ‘pivot to the state’ and increasing repression of the private sector, in contrast with previous decades of more dynamic private sector development. But is China's private sector truly being crushed? This column uses company-level data for China’s largest companies, ranked by either revenue or (for listed ones) market capitalisation, to show that, in fact, the share of the private sector in that group has expanded rapidly and near-continuously over the past decade.",
-          "link": "https://voxeu.org/article/advance-private-sector-among-china-s-largest-companies-under-xi-jinping",
-          "publishedOn": "2022-07-07T00:00:00.000Z",
-          "wordCount": 2755,
-          "title": "The advance of the private sector among China’s largest companies under Xi Jinping",
           "imageUrl": null
         },
         {
@@ -591,8 +581,18 @@
           "description": "Financial crises have severe economic costs. This column shows that they also entail major political costs. It argues that the global financial crisis, and associated Great Recession, represents a watershed for populism in Europe, changing people’s views and the rhetoric of all parties. The crisis brought economic insecurity to  the middle classes, which had largely remained untouched by the globalisation and immigration shocks. Disillusionment with the status quo prompted parties to enter the political arena on populist platforms.",
           "link": "https://voxeu.org/article/financial-crises-drivers-populism",
           "publishedOn": "2022-07-07T00:00:00.000Z",
-          "wordCount": 3011,
+          "wordCount": null,
           "title": "Financial crises as drivers of populism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/advance-private-sector-among-china-s-largest-companies-under-xi-jinping",
+          "author": "Tianlei Huang, Nicolas Véron",
+          "description": "Widespread narratives for China under Xi Jinping, especially in the past half-decade, emphasise a ‘pivot to the state’ and increasing repression of the private sector, in contrast with previous decades of more dynamic private sector development. But is China's private sector truly being crushed? This column uses company-level data for China’s largest companies, ranked by either revenue or (for listed ones) market capitalisation, to show that, in fact, the share of the private sector in that group has expanded rapidly and near-continuously over the past decade.",
+          "link": "https://voxeu.org/article/advance-private-sector-among-china-s-largest-companies-under-xi-jinping",
+          "publishedOn": "2022-07-07T00:00:00.000Z",
+          "wordCount": null,
+          "title": "The advance of the private sector among China’s largest companies under Xi Jinping",
           "imageUrl": null
         },
         {
@@ -606,23 +606,23 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/capturing-top-incomes-and-measuring-inequality-europe",
+          "author": "Rafael Carranza, Marc Morgan, Brian Nolan",
+          "description": "The problem of the ‘missing top’ in household income surveys has been highlighted by tax-based estimates of top income shares. This column shows that tax-based top income adjustments to EU Statistics on Income and Social Conditions surveys often make a substantial difference, but to an extent that varies widely across European countries and over time. Incorporating data from administrative sources in the surveys themselves helps to reduce the need for post-survey adjustment but may not eliminate it, and the nature of the country’s tax system and data are highly relevant for how best to combine data from both sources.",
+          "link": "https://voxeu.org/article/capturing-top-incomes-and-measuring-inequality-europe",
+          "publishedOn": "2022-07-06T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Capturing top incomes and measuring inequality in Europe",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/trade-family-formation-and-fertility-low-fertility-settings",
           "author": "Osea  Giuntella, Lorenzo Rotunno, Luca  Stella",
           "description": "Germany's low natality rate has been a major source of concern for politicians for decades. Using longitudinal data from the German Socio-Economic Panel, this column analyses the effects of trade integration on family choices in Germany. The authors find that exposure to greater import competition from Eastern Europe led to worse labour market outcomes and lower fertility rates. The trade effects are concentrated among men, low-educated, and full-time employees.",
           "link": "https://voxeu.org/article/trade-family-formation-and-fertility-low-fertility-settings",
           "publishedOn": "2022-07-06T00:00:00.000Z",
-          "wordCount": 3122,
+          "wordCount": null,
           "title": "Trade, family formation, and fertility in low-fertility settings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/learning-prices-does-not-come-free",
-          "author": "Jordi  Mondria, Xavier Vives, Liyan  Yang",
-          "description": "It is commonly assumed that market participants are all equally and highly sophisticated and know the exact relationship between fundamentals and prices. But this ignores the reality that investors spend millions of dollars analysing market data to better understand and hopefully profit from any patterns in stock charts. This column presents a framework to relax these assumptions and explore how investor sophistication can affect market prices and trading volumes. The framework provides theoretical underpinnings to some of the most well-known anomalies in finance and can help explain trends in the asset management industry.",
-          "link": "https://voxeu.org/article/learning-prices-does-not-come-free",
-          "publishedOn": "2022-07-06T00:00:00.000Z",
-          "wordCount": 2300,
-          "title": "Learning from prices does not come for free",
           "imageUrl": null
         }
       ]
