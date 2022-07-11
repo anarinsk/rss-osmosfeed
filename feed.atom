@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-11T09:03:31.047Z</id>
+    <id>urn:2022-07-11T12:12:17.216Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-11T09:03:31.047Z</updated>
+    <updated>2022-07-11T12:12:17.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,6 +23,16 @@
         <summary type="html"><![CDATA[Across four major Covid-19 relief bills, the US federal government allocated about $900 billion to state and local governments. This column exploits the fact that allocations of aid were more generous in states more favourably represented in Congress to analyse the consequences of this federal assistance. It finds modest positive effects of federal aid on local and state government employment, and almost no effects on broader economy outcomes. Still, it finds positive effects of federal aid on Covid-19 testing operations and more equitable vaccination patterns.]]></summary>
         <author>
             <name>Jeffrey Clemens, Philip  Hoxie, Stan Veuger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How tariffs can stop Putin's war]]></title>
+        <id>https://voxeu.org/content/how-tariffs-can-stop-putins-war</id>
+        <link href="https://voxeu.org/content/how-tariffs-can-stop-putins-war"/>
+        <updated>2022-07-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago, the European Union adopted a sixth package of sanctions against Russia which includes a partial embargo on Russian oil. Recorded at CEPR’s June 2022 Paris Symposium, Luis Garicano suggests a more efficient and faster solution to end Putin’s war would be to impose a tariff on oil and gas imported from Russia.]]></summary>
+        <author>
+            <name>Luis Garicano</name>
         </author>
     </entry>
     <entry>
@@ -274,16 +284,6 @@ Intro 대한민국 바이오 유망주로 성장할 바이오기업 비상장사
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Europe’s growing league of small corporate bond issuers]]></title>
-        <id>https://voxeu.org/article/europe-s-growing-league-small-corporate-bond-issuers</id>
-        <link href="https://voxeu.org/article/europe-s-growing-league-small-corporate-bond-issuers"/>
-        <updated>2022-07-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Historically, only very large firms issued in the European corporate bond market. However, recent years have seen the entry of many new players: small, private, and unrated issuers. This column uses firm-level data to show these new players face different game dynamics. They are disconnected from aggregate market movements and still depend heavily on banks. A better understanding of the differences between new and more established corporate bond issuers could help identify policy implications for financial stability, capital markets development, and growth.]]></summary>
-        <author>
-            <name>Olivier  Darmouni, Melina Papoutsi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using machine learning to assess the impact of deep trade agreements]]></title>
         <id>https://voxeu.org/article/using-machine-learning-assess-impact-deep-trade-agreements</id>
         <link href="https://voxeu.org/article/using-machine-learning-assess-impact-deep-trade-agreements"/>
@@ -291,6 +291,16 @@ Intro 대한민국 바이오 유망주로 성장할 바이오기업 비상장사
         <summary type="html"><![CDATA[Modern preferential trade agreements contain a host of provisions that go beyond tariff liberalisation. By adapting techniques from the machine learning literature, this column develops data-driven methods for selecting the most trade-increasing provisions and quantifying their impact on trade. The results suggest that provisions related to technical barriers to trade, anti-dumping, trade facilitation, subsidies, and competition policy are associated with enhancing the trade-increasing effect of preferential trade agreements. Based on these findings, the effects of individual agreements can be estimated.]]></summary>
         <author>
             <name>Holger Breinlich, Valentina Corradi, Nadia Rocha, Michele Ruta, João M.C. Santos Silva, Thomas Zylkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe’s growing league of small corporate bond issuers]]></title>
+        <id>https://voxeu.org/article/europe-s-growing-league-small-corporate-bond-issuers</id>
+        <link href="https://voxeu.org/article/europe-s-growing-league-small-corporate-bond-issuers"/>
+        <updated>2022-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Historically, only very large firms issued in the European corporate bond market. However, recent years have seen the entry of many new players: small, private, and unrated issuers. This column uses firm-level data to show these new players face different game dynamics. They are disconnected from aggregate market movements and still depend heavily on banks. A better understanding of the differences between new and more established corporate bond issuers could help identify policy implications for financial stability, capital markets development, and growth.]]></summary>
+        <author>
+            <name>Olivier  Darmouni, Melina Papoutsi</name>
         </author>
     </entry>
     <entry>
@@ -654,16 +664,6 @@ Intro 대한민국 바이오 유망주로 성장할 바이오기업 비상장사
 국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closing the European data gap]]></title>
-        <id>https://voxeu.org/vox-talks/closing-european-data-gap</id>
-        <link href="https://voxeu.org/vox-talks/closing-european-data-gap"/>
-        <updated>2022-07-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recorded live at CEPR Paris Symposium 2022: Researchers and policymakers need data, but in Europe, they often cannot access the right data at the right time. Filippo di Mauro and Ugo Panizza invite Tim Phillips for coffee to explain how these problems hold back research and decision-making – and suggest what can be done to close the economic data gap.]]></summary>
-        <author>
-            <name>Ugo Panizza, Filippo di Mauro</name>
         </author>
     </entry>
     <entry>
