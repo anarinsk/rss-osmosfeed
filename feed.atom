@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-12T09:01:47.651Z</id>
+    <id>urn:2022-07-12T12:02:12.347Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-12T09:01:47.651Z</updated>
+    <updated>2022-07-12T12:02:12.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From stagflation to debt crises]]></title>
+        <id>https://voxeu.org/article/stagflation-debt-crises</id>
+        <link href="https://voxeu.org/article/stagflation-debt-crises"/>
+        <updated>2022-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The global economy is experiencing a toxic mix of slowing growth and rising inflation, bringing echoes of the stagflation of the 1970s. This column discusses how the resolution of that episode required steep increases in interest rates that marked the beginning of a decade of debt crises in emerging market and developing economies. If current stagflationary pressures intensify, some of these economies would likely face severe challenges again in rolling over their debt due to elevated financial vulnerabilities and weakening growth fundamentals.]]></summary>
+        <author>
+            <name>Jongrim Ha,  M. Ayhan Kose, Franziska Ohnsorge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Declining within- and across-village risk sharing in rural China]]></title>
         <id>https://voxeu.org/article/declining-within-and-across-village-risk-sharing-rural-china</id>
@@ -16,13 +26,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From stagflation to debt crises]]></title>
-        <id>https://voxeu.org/article/stagflation-debt-crises</id>
-        <link href="https://voxeu.org/article/stagflation-debt-crises"/>
-        <updated>2022-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The global economy is experiencing a toxic mix of slowing growth and rising inflation, bringing echoes of the stagflation of the 1970s. This column discusses how the resolution of that episode required steep increases in interest rates that marked the beginning of a decade of debt crises in emerging market and developing economies. If current stagflationary pressures intensify, some of these economies would likely face severe challenges again in rolling over their debt due to elevated financial vulnerabilities and weakening growth fundamentals.]]></summary>
+        <title type="html"><![CDATA[How tariffs can stop Putin's war]]></title>
+        <id>https://voxeu.org/content/how-tariffs-can-stop-putins-war</id>
+        <link href="https://voxeu.org/content/how-tariffs-can-stop-putins-war"/>
+        <updated>2022-07-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago, the European Union adopted a sixth package of sanctions against Russia which includes a partial embargo on Russian oil. Recorded at CEPR’s June 2022 Paris Symposium, Luis Garicano suggests a more efficient and faster solution to end Putin’s war would be to impose a tariff on oil and gas imported from Russia.]]></summary>
         <author>
-            <name>Jongrim Ha,  M. Ayhan Kose, Franziska Ohnsorge</name>
+            <name>Luis Garicano</name>
         </author>
     </entry>
     <entry>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Across four major Covid-19 relief bills, the US federal government allocated about $900 billion to state and local governments. This column exploits the fact that allocations of aid were more generous in states more favourably represented in Congress to analyse the consequences of this federal assistance. It finds modest positive effects of federal aid on local and state government employment, and almost no effects on broader economy outcomes. Still, it finds positive effects of federal aid on Covid-19 testing operations and more equitable vaccination patterns.]]></summary>
         <author>
             <name>Jeffrey Clemens, Philip  Hoxie, Stan Veuger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How tariffs can stop Putin's war]]></title>
-        <id>https://voxeu.org/content/how-tariffs-can-stop-putins-war</id>
-        <link href="https://voxeu.org/content/how-tariffs-can-stop-putins-war"/>
-        <updated>2022-07-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago, the European Union adopted a sixth package of sanctions against Russia which includes a partial embargo on Russian oil. Recorded at CEPR’s June 2022 Paris Symposium, Luis Garicano suggests a more efficient and faster solution to end Putin’s war would be to impose a tariff on oil and gas imported from Russia.]]></summary>
-        <author>
-            <name>Luis Garicano</name>
         </author>
     </entry>
     <entry>

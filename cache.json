@@ -526,23 +526,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/declining-within-and-across-village-risk-sharing-rural-china",
-          "author": "Orazio Attanasio, Costas Meghir, Corina Mommaerts, Yu Zheng",
-          "description": "Previous research has shown a substantial increase in income inequality between rural and urban China as well as across and within regions in China during its growth process. Focusing on rural China, this column provides further evidence that the formal and informal mechanisms that previously protected households against unanticipated income changes weakened considerably from the late 1980s to the late 2000s, especially those that help to insure against village-level aggregate income risk. Potential explanations for the weakening of within-village consumption insurance include declining collective productive activities and increased migration, while fiscal decentralisation is a potential explanation for the erosion of insurance against village-aggregate risk.",
-          "link": "https://voxeu.org/article/declining-within-and-across-village-risk-sharing-rural-china",
-          "publishedOn": "2022-07-12T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Declining within- and across-village risk sharing in rural China",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/stagflation-debt-crises",
           "author": "Jongrim Ha,  M. Ayhan Kose, Franziska Ohnsorge",
           "description": "The global economy is experiencing a toxic mix of slowing growth and rising inflation, bringing echoes of the stagflation of the 1970s. This column discusses how the resolution of that episode required steep increases in interest rates that marked the beginning of a decade of debt crises in emerging market and developing economies. If current stagflationary pressures intensify, some of these economies would likely face severe challenges again in rolling over their debt due to elevated financial vulnerabilities and weakening growth fundamentals.",
           "link": "https://voxeu.org/article/stagflation-debt-crises",
           "publishedOn": "2022-07-12T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2414,
           "title": "From stagflation to debt crises",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/declining-within-and-across-village-risk-sharing-rural-china",
+          "author": "Orazio Attanasio, Costas Meghir, Corina Mommaerts, Yu Zheng",
+          "description": "Previous research has shown a substantial increase in income inequality between rural and urban China as well as across and within regions in China during its growth process. Focusing on rural China, this column provides further evidence that the formal and informal mechanisms that previously protected households against unanticipated income changes weakened considerably from the late 1980s to the late 2000s, especially those that help to insure against village-level aggregate income risk. Potential explanations for the weakening of within-village consumption insurance include declining collective productive activities and increased migration, while fiscal decentralisation is a potential explanation for the erosion of insurance against village-aggregate risk.",
+          "link": "https://voxeu.org/article/declining-within-and-across-village-risk-sharing-rural-china",
+          "publishedOn": "2022-07-12T00:00:00.000Z",
+          "wordCount": 2812,
+          "title": "Declining within- and across-village risk sharing in rural China",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/content/how-tariffs-can-stop-putins-war",
+          "author": "Luis Garicano",
+          "description": "A few weeks ago, the European Union adopted a sixth package of sanctions against Russia which includes a partial embargo on Russian oil. Recorded at CEPR’s June 2022 Paris Symposium, Luis Garicano suggests a more efficient and faster solution to end Putin’s war would be to impose a tariff on oil and gas imported from Russia.",
+          "link": "https://voxeu.org/content/how-tariffs-can-stop-putins-war",
+          "publishedOn": "2022-07-11T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How tariffs can stop Putin's war",
           "imageUrl": null
         },
         {
@@ -566,22 +576,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/content/how-tariffs-can-stop-putins-war",
-          "author": "Luis Garicano",
-          "description": "A few weeks ago, the European Union adopted a sixth package of sanctions against Russia which includes a partial embargo on Russian oil. Recorded at CEPR’s June 2022 Paris Symposium, Luis Garicano suggests a more efficient and faster solution to end Putin’s war would be to impose a tariff on oil and gas imported from Russia.",
-          "link": "https://voxeu.org/content/how-tariffs-can-stop-putins-war",
-          "publishedOn": "2022-07-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How tariffs can stop Putin's war",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/economic-incentives-and-cognitive-skill",
           "author": "Santiago Hermo, Miika Päällysaho, David Seim, Jesse Shapiro",
           "description": "A longstanding puzzle in cognitive science is the secular rise in cognitive skill across generations. Cognitive scientists emphasise explanations such as improvements in health and nutrition. This column describes research using an economic model and population administrative data from Sweden to argue that this ‘Flynn effect’ may originate in part from changes in economic incentives. Estimates suggest about a third of the rise in reasoning skill over the period studied is attributable to changes in labour market returns to different skills, with analytically intensive occupations having grown in relative importance.",
           "link": "https://voxeu.org/article/economic-incentives-and-cognitive-skill",
           "publishedOn": "2022-07-10T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3049,
           "title": "Economic incentives and cognitive skill",
           "imageUrl": null
         },
@@ -601,7 +601,7 @@
           "description": "Recorded live at CEPR Paris Symposium 2022: Inequality isn’t just between individuals, but between regions too. Henry Overman explains to Tim Phillips why these disparities exist, why they are so persistent, and whether regional policies to “level up” left-behind places will succeed.",
           "link": "https://voxeu.org/vox-talks/levelling-europe-s-left-behind-places",
           "publishedOn": "2022-07-08T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 835,
           "title": "Levelling up Europe’s left-behind places",
           "imageUrl": null
         },
@@ -621,7 +621,7 @@
           "description": "Historically, only very large firms issued in the European corporate bond market. However, recent years have seen the entry of many new players: small, private, and unrated issuers. This column uses firm-level data to show these new players face different game dynamics. They are disconnected from aggregate market movements and still depend heavily on banks. A better understanding of the differences between new and more established corporate bond issuers could help identify policy implications for financial stability, capital markets development, and growth.",
           "link": "https://voxeu.org/article/europe-s-growing-league-small-corporate-bond-issuers",
           "publishedOn": "2022-07-08T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2940,
           "title": "Europe’s growing league of small corporate bond issuers",
           "imageUrl": null
         }
