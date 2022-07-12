@@ -4948,104 +4948,12 @@ CHAPTER 13 모폴로...
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >분야별 신간 - 프로그래밍 언어</button>
-                  <a class="source-heading__link" href="http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid&#x3D;437&amp;rssType&#x3D;2&amp;type&#x3D;title">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.aladin.co.kr/shop/wproduct.aspx?itemID&#x3D;296396864"
-                        open
-                      >
-                        <summary class="article-expander__title">딥러닝을 이용한 정형 데이터 분석/마크 라이언 지음, 박찬성 옮김/책만</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType&#x3D;2&amp;type&#x3D;item&amp;itemId&#x3D;296396864">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>딥러닝을 이용한 정형 데이터 분석
-마크 라이언 지음, 박찬성 옮김 / 책만 / 2022년 06월 / ISBN:9791189909420
-정가: 28,000원 / 판매가: 25,200원 / 마일리지: 1,400원
-이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치
-
-
-
-
-기업과 공공기관 등 현실에서 맞닥뜨리는 숫자와 표 형식의 정형 데이터셋, 이제는 딥러닝으로 분석하고 풀어내보자. 실세계 정형 데이터셋을 정리하고 케라스 프레임워크로 딥러닝 모델을 훈련시켜, 웹 페이지와 페이스북 메신저용 챗봇으로 배포해본다. 테이블 데이터의 전처리와 가공부터 딥러닝 모델의 훈련, 구축, 배포까지, 케라스, 판다스, 사이킷런, 텐서플로2.0, 주피터 노트북을 활용한 엔드투엔드 프로젝트를 다룬다.
-
-1장 정형 데이터를 딥러닝으로 다뤄야 하는 이유
-__1.1 딥러닝 개요
-__1.2 딥러닝의 장단점
-__1.3 딥러닝 소프트웨어 스택
-__1.4 정형 데이터와 비정형 데이터
-__1.5 정형 데이터에 딥러닝을 사용하는 것에 대한 부정적 시각
-__1.6 정형 데이터 문제로 딥러닝을 살펴보는 이유
-__1.7 이 책에서 제공하는 코드 소개
-__1.8 알아둘 내용
-__1.9 정리
-
-2장 판다스 데이터프레임과 책 전반에서 사용할 예제 소개
-__2.1 다양한 종류의 딥러닝 개발 환경
-__2.2 판다스를 살펴보기 위한 코드
-__2.3 파이썬의 판다스 데이터프레임
-__2.4 CSV 파일을 판다스 데이터프레임으로 만들기
-__2.5 판다스를 사용한 SQL 등의 작업 수행
-__2.6 주요 예제: 경전철의 지연 예측
-__2.7 딥러닝을 배우는 데 현실의 데이터셋을 사용해야 하는 이유
-__2.8 입력 데이터셋의 형식과 범위
-__2.9 최종 목표: 엔드투엔드 솔루션
-__2.10 솔루션 코드에 대한 상세한 설명
-__2.11 개발 환경: 일반적인 환경과 딥러닝이 가능한 환경
-__2.12 딥러닝을 배척하는 의견들
-__2.13 딥러닝의 접근성이 좋아진 까닭
-__2.14 딥러닝 모델 훈련 과정 맛보기
-__2.15 정리
-
-3장 데이터 준비 (1) 데이터의 탐색과 정리
-__3.1 데이터 탐색 및 정리를 위한 코드
-__3.2 파이썬에서 설정 파일을 사용하는 방법
-__3.3 XLS 파일을 판다스 데이터프레임으로 변환하기
-__3.4 판다스 데이터프레임을 피클링된 파일로 저장하여 세션 간 공유하기
-__3.5 데이터 탐색
-__3.6 데이터를 연속형, 범주형, 텍스트로 분류하기
-__3.7 데이터셋에 내재된 문제 정돈: 누락된 데이터, 오류, 추측성 문제
-__3.8 딥러닝에 필요한 데이터 규모의 산정
-__3.9 정리
-
-4장 데이터 준비 (2) 데이터 변형
-4.1 데이터 준비와 변형을 위한 코드
-__4.2 바르지 못한 값 다루기: Route
-__4.3 유효하지 않은 값에 대해 하나의 대쳇값만 사용하는 이유
-__4.4 올바르지 않은 값 다루기: Vehicle
-__4.5 일관성 없는 값 다루기: Location
-__4.6 공간 데이터 다루기: Location
-__4.7 자료형 불일치 문제 다루기
-__4.8 여전히 잘못된 데이터를 가진 ...
-
-국내도서 &gt; 컴퓨터/모바일 &gt; 컴퓨터 공학 &gt; 자료구조/알고리즘
-국내도서 &gt; 컴퓨터/모바일 &gt; 프로그래밍 언어 &gt; 파이썬
-국내도서 &gt; 컴퓨터/모바일 &gt; 컴퓨터 공학 &gt; 데이터베이스 개론</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/anarinsk/rss-osmosfeed/actions/runs/2657443582">
-        <time id="build-timestamp" datetime="2022-07-12T15:01:39.422Z">2022-07-12T15:01:39.422Z</time>
+      <a class="footer-link" href="https://github.com/anarinsk/rss-osmosfeed/actions/runs/2658452232">
+        <time id="build-timestamp" datetime="2022-07-12T18:02:02.694Z">2022-07-12T18:02:02.694Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
