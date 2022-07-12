@@ -526,13 +526,23 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/content/how-tariffs-can-stop-putins-war",
-          "author": "Luis Garicano",
-          "description": "A few weeks ago, the European Union adopted a sixth package of sanctions against Russia which includes a partial embargo on Russian oil. Recorded at CEPR’s June 2022 Paris Symposium, Luis Garicano suggests a more efficient and faster solution to end Putin’s war would be to impose a tariff on oil and gas imported from Russia.",
-          "link": "https://voxeu.org/content/how-tariffs-can-stop-putins-war",
-          "publishedOn": "2022-07-11T00:00:00.000Z",
-          "wordCount": 818,
-          "title": "How tariffs can stop Putin's war",
+          "id": "https://voxeu.org/article/declining-within-and-across-village-risk-sharing-rural-china",
+          "author": "Orazio Attanasio, Costas Meghir, Corina Mommaerts, Yu Zheng",
+          "description": "Previous research has shown a substantial increase in income inequality between rural and urban China as well as across and within regions in China during its growth process. Focusing on rural China, this column provides further evidence that the formal and informal mechanisms that previously protected households against unanticipated income changes weakened considerably from the late 1980s to the late 2000s, especially those that help to insure against village-level aggregate income risk. Potential explanations for the weakening of within-village consumption insurance include declining collective productive activities and increased migration, while fiscal decentralisation is a potential explanation for the erosion of insurance against village-aggregate risk.",
+          "link": "https://voxeu.org/article/declining-within-and-across-village-risk-sharing-rural-china",
+          "publishedOn": "2022-07-12T00:00:00.000Z",
+          "wordCount": 2812,
+          "title": "Declining within- and across-village risk sharing in rural China",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/stagflation-debt-crises",
+          "author": "Jongrim Ha,  M. Ayhan Kose, Franziska Ohnsorge",
+          "description": "The global economy is experiencing a toxic mix of slowing growth and rising inflation, bringing echoes of the stagflation of the 1970s. This column discusses how the resolution of that episode required steep increases in interest rates that marked the beginning of a decade of debt crises in emerging market and developing economies. If current stagflationary pressures intensify, some of these economies would likely face severe challenges again in rolling over their debt due to elevated financial vulnerabilities and weakening growth fundamentals.",
+          "link": "https://voxeu.org/article/stagflation-debt-crises",
+          "publishedOn": "2022-07-12T00:00:00.000Z",
+          "wordCount": 2414,
+          "title": "From stagflation to debt crises",
           "imageUrl": null
         },
         {
@@ -553,6 +563,16 @@
           "publishedOn": "2022-07-11T00:00:00.000Z",
           "wordCount": 2833,
           "title": "Covid-19 federal assistance to state and local governments and its consequences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/content/how-tariffs-can-stop-putins-war",
+          "author": "Luis Garicano",
+          "description": "A few weeks ago, the European Union adopted a sixth package of sanctions against Russia which includes a partial embargo on Russian oil. Recorded at CEPR’s June 2022 Paris Symposium, Luis Garicano suggests a more efficient and faster solution to end Putin’s war would be to impose a tariff on oil and gas imported from Russia.",
+          "link": "https://voxeu.org/content/how-tariffs-can-stop-putins-war",
+          "publishedOn": "2022-07-11T00:00:00.000Z",
+          "wordCount": 818,
+          "title": "How tariffs can stop Putin's war",
           "imageUrl": null
         },
         {
@@ -603,26 +623,6 @@
           "publishedOn": "2022-07-08T00:00:00.000Z",
           "wordCount": 2940,
           "title": "Europe’s growing league of small corporate bond issuers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/advance-private-sector-among-china-s-largest-companies-under-xi-jinping",
-          "author": "Tianlei Huang, Nicolas Véron",
-          "description": "Widespread narratives for China under Xi Jinping, especially in the past half-decade, emphasise a ‘pivot to the state’ and increasing repression of the private sector, in contrast with previous decades of more dynamic private sector development. But is China's private sector truly being crushed? This column uses company-level data for China’s largest companies, ranked by either revenue or (for listed ones) market capitalisation, to show that, in fact, the share of the private sector in that group has expanded rapidly and near-continuously over the past decade.",
-          "link": "https://voxeu.org/article/advance-private-sector-among-china-s-largest-companies-under-xi-jinping",
-          "publishedOn": "2022-07-07T00:00:00.000Z",
-          "wordCount": 2736,
-          "title": "The advance of the private sector among China’s largest companies under Xi Jinping",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/financial-crises-drivers-populism",
-          "author": "Luigi Guiso, Massimo Morelli, Tommaso Sonno, Helios Herrera",
-          "description": "Financial crises have severe economic costs. This column shows that they also entail major political costs. It argues that the global financial crisis, and associated Great Recession, represents a watershed for populism in Europe, changing people’s views and the rhetoric of all parties. The crisis brought economic insecurity to  the middle classes, which had largely remained untouched by the globalisation and immigration shocks. Disillusionment with the status quo prompted parties to enter the political arena on populist platforms.",
-          "link": "https://voxeu.org/article/financial-crises-drivers-populism",
-          "publishedOn": "2022-07-07T00:00:00.000Z",
-          "wordCount": 2992,
-          "title": "Financial crises as drivers of populism",
           "imageUrl": null
         }
       ]
