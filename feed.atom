@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T15:03:11.997Z</id>
+    <id>urn:2022-07-21T18:03:34.082Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-21T15:03:11.997Z</updated>
+    <updated>2022-07-21T18:03:34.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -3235,103 +3235,6 @@ __2.5.3 스프링 부트 애플리케이션 부팅하기: 부트스트랩 클래
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 소프트웨어 공학
 국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍
 국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새내기 파이썬/천인국 지음/생능]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=296873798</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=296873798"/>
-        <updated>2022-06-22T03:11:00.000Z</updated>
-        <summary type="html"><![CDATA[새내기 파이썬
-천인국 지음 / 생능 / 2022년 06월 / ISBN:9788970505558
-정가: 30,000원 / 판매가: 30,000원 / 마일리지: 900원
-이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치
-
-
-
-
-파이썬은 현재 가장 각광받는 언어라고 말할 수 있다. 최근에 인공지능이나 데이터 과학, 영상처리, 업무 자동화 분야는 파이썬으로 프로그램을 작성하는 것이 거의 표준으로 되어 있다. 해가 갈수록 각 분야에서 파이썬 활용이 폭발적으로 늘어나고 있다. 이 책은 다양한 전공의 학생들에게 파이썬을 소개하고, 해당 전공에서 파이썬을 활용하기 위한 목적으로 기획되었다.
-
-Chapter 01 파이썬 소개
-1. 프로그래밍 언어란? 
-2. 파이썬의 설치 
-3. 파이썬 실행 
-4. 스크립트 모드 
-   [Lab] 간단한 계산을 해 보자 
-   [Lab] 오류를 처리해 보자 
-5. 터틀 그래픽 
-   [Lab] 터틀 그래픽으로 삼각형을 그려보자 
-   [Lab] 예제 프로그램 실행해보기 
-   [Mini Project] 터틀 그래픽으로 집 그리기 
-■ 요약 
-■ 연습문제 
-■ Programming 
-
-Chapter 02 변수와 자료형
-1. 이번 장에서 작성할 프로그램 
-2. 변수 
-3. 변수의 이름 
-4. 자료형 
-5. 사용자로부터 입력받기 
-   [Lab] 간단한 계산기 
-6. 주석과 상수 
-   [Lab] 로봇 기자 만들기 
-   [Lab] 사각형 그리기 
-   [Solution] 사각형 그리기 
-   [Mini Project] 거북이 조종하기 
-■ 요약 
-■ 연습문제 
-■ Programming 
-
-Chapter 03 수식과 연산자
-1. 이번 장에서 작성할 프로그램 
-2. 산술 연산자 
-3. 할당 연산자 
-4. 관계 연산자 
-5. 비트 연산자 
-6. 연산자의 우선순위 
-7. 타입 변환과 반올림 
-   [Lab] 산수 퀴즈 프로그램 Ver.1 
-   [Lab] 단답형 문제 채점 프로그램 
-   [Lab] 명왕성까지의 시간 계산하기 
-   [Lab] 상점 계산기 만들기 
-   [Lab] 복리 계산 
-   [Lab] 자동판매기 프로그램 
-   [Mini Project] 상점 계산기의 최종 버전 작성 
-■ 요약 
-■ 연습문제 
-■ Programming 
-
-Chapter 04 조건문
-1. 이번 장에서 만들 프로그램 
-2. 제어문 
-3. if-else 문 
-4. 논리 연산자 
-5. 조건 연산자 
-   [Lab] 산술 퀴즈 프로그램 
-   [Lab] 동전 던지기 게임 
-   [Lab] 로그인 프로그램 
-6. 중첩 if 문 
-7. 연속 if 문 
-   [Lab] 지진 상황 출력하기 
-   [Lab] 오늘의 운세 출력하기 
-   [Lab] 도형 그리기 
-   [Mini Project] 가위, 바위, 보 게임 
-■ 요약 
-■ 연습문제 
-■ Programming 
-
-Chapter 05 반복문
-1. 이번 장에서 만들 프로그램 
-2. 왜 반복이 중요한가? 
-3. 리스트란? 
-4. 횟수 제어 반복 
-   [Lab] 팩토리얼 계산하기 
-   [Lab] n-각형 그리...
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
