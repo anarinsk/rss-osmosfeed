@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T12:03:39.686Z</id>
+    <id>urn:2022-07-21T15:03:11.997Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-21T12:03:39.686Z</updated>
+    <updated>2022-07-21T15:03:11.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.]]></summary>
         <author>
             <name>Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is climate change affecting your investment?]]></title>
+        <id>https://voxeu.org/content/climate-change-affecting-your-investment</id>
+        <link href="https://voxeu.org/content/climate-change-affecting-your-investment"/>
+        <updated>2022-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How are carbon emissions affecting market valuations of listed companies? Interviewed at the CEPR’s June 2022 Paris Symposium, Patrick Bolton compares stock returns and carbon emissions of companies in the time period between 2005-2018 and finds investors in all sectors are already integrating risks associated with the carbon transition into their investments.]]></summary>
+        <author>
+            <name>Patrick Bolton</name>
         </author>
     </entry>
     <entry>
@@ -580,16 +590,6 @@ GTX는 과연 모두 개통될까?
         <summary type="html"><![CDATA[Since the Russian invasion of Ukrainian territories in February 2022, many politicians around the world have pledged to support Ukraine. But what are the numbers behind this support? Christoph Trebesch compiled press releases by governments, political statements and media reports to create the most comprehensive database on support for Ukraine. Interviewed at the CEPR’s June 2022 Paris Symposium, he shows how the United States is the largest supporter of Ukraine. But he also calls on European governments to do more and stand up to the challenge.]]></summary>
         <author>
             <name>Christoph Trebesch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fighting populism on its own turf]]></title>
-        <id>https://voxeu.org/article/fighting-populism-its-own-turf</id>
-        <link href="https://voxeu.org/article/fighting-populism-its-own-turf"/>
-        <updated>2022-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How should traditional political parties counter narratives from populist parties? This column reports on an experiment during a constitutional referendum held in Italy in 2020 in which two different videos ads were broadcast to voters. A video with a direct attack on the credibility of the populist politicians was more effective in capturing viewers’ attention and in affecting the electoral results than a video providing partisan informational content. Given the low cost of advertising compared with the cost of face-to-face or phone canvassing for more votes, when devising their strategy to respond to populist parties on populist issues, traditional parties may wish to consider demobilisation rather than persuasion.]]></summary>
-        <author>
-            <name>Vincenzo Galasso, Massimo Morelli, Tommaso Nannicini, Piero Stanig</name>
         </author>
     </entry>
     <entry>
