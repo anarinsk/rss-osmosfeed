@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T03:32:12.025Z</id>
+    <id>urn:2022-07-21T06:03:00.493Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-21T03:32:12.025Z</updated>
+    <updated>2022-07-21T06:03:00.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The end of the crypto-diversification myth]]></title>
+        <id>https://voxeu.org/article/end-crypto-diversification-myth</id>
+        <link href="https://voxeu.org/article/end-crypto-diversification-myth"/>
+        <updated>2022-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.]]></summary>
+        <author>
+            <name>Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The optimal inflation target: Views from 600 economists]]></title>
+        <id>https://voxeu.org/article/optimal-inflation-target-views-600-economists</id>
+        <link href="https://voxeu.org/article/optimal-inflation-target-views-600-economists"/>
+        <updated>2022-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.]]></summary>
+        <author>
+            <name>Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The global real interest rate]]></title>
         <id>https://voxeu.org/vox-talks/global-real-interest-rate</id>
@@ -16,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Levelling up productivity gaps in the UK]]></title>
-        <id>https://voxeu.org/article/levelling-productivity-gaps-uk</id>
-        <link href="https://voxeu.org/article/levelling-productivity-gaps-uk"/>
-        <updated>2022-07-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are significant regional disparities in productivity levels across the UK. The June 2022 CfM survey asked the members of its UK panel to evaluate the reasons for these disparities and policies that might close the gaps. A majority of the panel believe that the productivity differences are attributable to either agglomeration effects or sorting, self-reinforcing phenomena that lead some regions to become productivity powerhouses and others to fall behind, while just under a third think that the differences are due to fundamental factors such as education, local infrastructure, or poor transportation links across regions. The productivity gaps should be addressed with a combination of public investments, incentives for private investment, and investments in skills and education.]]></summary>
-        <author>
-            <name>Ethan Ilzetzki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The net foreign asset position of the US]]></title>
         <id>https://voxeu.org/article/net-foreign-asset-position-us</id>
         <link href="https://voxeu.org/article/net-foreign-asset-position-us"/>
@@ -33,6 +43,16 @@
         <summary type="html"><![CDATA[The US net foreign asset position – measuring the difference between its foreign assets and liabilities – was negative, yet small, until 2007. This column shows that since then, it has deteriorated sharply to negative 65% of GDP, mostly as a result of changes in the market value of US-owned assets abroad and foreign-owned assets in the US. These valuation effects are explained by rising US equity values disproportionately benefitting foreign owners of US firms. Whether this is beneficial for Americans depends on whether the profit rises are due to higher productivity or lower competition.]]></summary>
         <author>
             <name>Andy Atkeson, Jonathan Heathcote, Fabrizio Perri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Levelling up productivity gaps in the UK]]></title>
+        <id>https://voxeu.org/article/levelling-productivity-gaps-uk</id>
+        <link href="https://voxeu.org/article/levelling-productivity-gaps-uk"/>
+        <updated>2022-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are significant regional disparities in productivity levels across the UK. The June 2022 CfM survey asked the members of its UK panel to evaluate the reasons for these disparities and policies that might close the gaps. A majority of the panel believe that the productivity differences are attributable to either agglomeration effects or sorting, self-reinforcing phenomena that lead some regions to become productivity powerhouses and others to fall behind, while just under a third think that the differences are due to fundamental factors such as education, local infrastructure, or poor transportation links across regions. The productivity gaps should be addressed with a combination of public investments, incentives for private investment, and investments in skills and education.]]></summary>
+        <author>
+            <name>Ethan Ilzetzki</name>
         </author>
     </entry>
     <entry>
@@ -187,16 +207,6 @@ __모...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gains from trade: International transport costs still matter]]></title>
-        <id>https://voxeu.org/article/gains-trade-international-transport-costs-still-matter</id>
-        <link href="https://voxeu.org/article/gains-trade-international-transport-costs-still-matter"/>
-        <updated>2022-07-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Although transport costs have decreased substantially over the past two centuries, they are still far from negligible. This column argues that in addition to standard ad-valorem transport costs, there is an important role for additive costs in trade models. The authors estimate that over the period 1974 to 2019, additive costs represented between 35% (in air transport) and 45% (in vessel) of total transport costs. Furthermore, accounting for additive transport costs helps characterise the downward trend in total transport costs since the 1970s and suggests that the gains from trade over the period have been larger than generally assumed.]]></summary>
-        <author>
-            <name>Guillaume Daudin, Jérôme Héricourt, Lise Patureau</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The regional development trap in Europe]]></title>
         <id>https://voxeu.org/article/regional-development-trap-europe</id>
         <link href="https://voxeu.org/article/regional-development-trap-europe"/>
@@ -204,6 +214,16 @@ __모...
         <summary type="html"><![CDATA[Many regions in Europe are stuck in a development trap and face significant structural challenges in retrieving past dynamism or improving prosperity for their residents. This column conceptualises what constitutes a development trap at a regional level in Europe and identifies which regions have been trapped or at risk of becoming trapped in recent years. Regional development traps can arise at many different levels of income. Springing these traps would improve overall European competitiveness and help quell the discontent and resentment of citizens living in these areas.]]></summary>
         <author>
             <name>Andreas Diemer, Simona Iammarino, Andrés Rodríguez-Pose, Michael  Storper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gains from trade: International transport costs still matter]]></title>
+        <id>https://voxeu.org/article/gains-trade-international-transport-costs-still-matter</id>
+        <link href="https://voxeu.org/article/gains-trade-international-transport-costs-still-matter"/>
+        <updated>2022-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although transport costs have decreased substantially over the past two centuries, they are still far from negligible. This column argues that in addition to standard ad-valorem transport costs, there is an important role for additive costs in trade models. The authors estimate that over the period 1974 to 2019, additive costs represented between 35% (in air transport) and 45% (in vessel) of total transport costs. Furthermore, accounting for additive transport costs helps characterise the downward trend in total transport costs since the 1970s and suggests that the gains from trade over the period have been larger than generally assumed.]]></summary>
+        <author>
+            <name>Guillaume Daudin, Jérôme Héricourt, Lise Patureau</name>
         </author>
     </entry>
     <entry>
@@ -553,26 +573,6 @@ GTX는 과연 모두 개통될까?
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How much are governments actually supporting Ukraine?]]></title>
-        <id>https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine</id>
-        <link href="https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine"/>
-        <updated>2022-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the Russian invasion of Ukrainian territories in February 2022, many politicians around the world have pledged to support Ukraine. But what are the numbers behind this support? Christoph Trebesch compiled press releases by governments, political statements and media reports to create the most comprehensive database on support for Ukraine. Interviewed at the CEPR’s June 2022 Paris Symposium, he shows how the United States is the largest supporter of Ukraine. But he also calls on European governments to do more and stand up to the challenge.]]></summary>
-        <author>
-            <name>Christoph Trebesch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fighting populism on its own turf]]></title>
-        <id>https://voxeu.org/article/fighting-populism-its-own-turf</id>
-        <link href="https://voxeu.org/article/fighting-populism-its-own-turf"/>
-        <updated>2022-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How should traditional political parties counter narratives from populist parties? This column reports on an experiment during a constitutional referendum held in Italy in 2020 in which two different videos ads were broadcast to voters. A video with a direct attack on the credibility of the populist politicians was more effective in capturing viewers’ attention and in affecting the electoral results than a video providing partisan informational content. Given the low cost of advertising compared with the cost of face-to-face or phone canvassing for more votes, when devising their strategy to respond to populist parties on populist issues, traditional parties may wish to consider demobilisation rather than persuasion.]]></summary>
-        <author>
-            <name>Vincenzo Galasso, Massimo Morelli, Tommaso Nannicini, Piero Stanig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Central banks and climate policies]]></title>
         <id>https://voxeu.org/article/central-banks-and-climate-policies</id>
         <link href="https://voxeu.org/article/central-banks-and-climate-policies"/>
@@ -583,13 +583,13 @@ GTX는 과연 모두 개통될까?
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The impact of mechanisation on wages and employment]]></title>
-        <id>https://voxeu.org/article/impact-mechanisation-wages-and-employment</id>
-        <link href="https://voxeu.org/article/impact-mechanisation-wages-and-employment"/>
-        <updated>2022-07-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fears about the effects of mechanisation on societies are not new; technology has always generated cultural anxiety throughout history. This column considers one of the most significant waves of mechanisation in history – the rise and spread of steam power in 19th century France – to examine the influence of mechanisation on labour outcomes. Rather than cutting jobs and wages, the authors find that that steam-adopting industries ended up employing up to 94% more workers than their non-steam-adopting counterparts and paid wages that were up to 5% higher on average.]]></summary>
+        <title type="html"><![CDATA[How much are governments actually supporting Ukraine?]]></title>
+        <id>https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine</id>
+        <link href="https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine"/>
+        <updated>2022-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the Russian invasion of Ukrainian territories in February 2022, many politicians around the world have pledged to support Ukraine. But what are the numbers behind this support? Christoph Trebesch compiled press releases by governments, political statements and media reports to create the most comprehensive database on support for Ukraine. Interviewed at the CEPR’s June 2022 Paris Symposium, he shows how the United States is the largest supporter of Ukraine. But he also calls on European governments to do more and stand up to the challenge.]]></summary>
         <author>
-            <name>Leonardo  Ridolfi, Carla  Salvo, Jacob  Weisdorf</name>
+            <name>Christoph Trebesch</name>
         </author>
     </entry>
     <entry>
