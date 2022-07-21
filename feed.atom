@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T09:03:02.374Z</id>
+    <id>urn:2022-07-21T12:03:39.686Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-21T09:03:02.374Z</updated>
+    <updated>2022-07-21T12:03:39.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[The end of the crypto-diversification myth]]></title>
-        <id>https://voxeu.org/article/end-crypto-diversification-myth</id>
-        <link href="https://voxeu.org/article/end-crypto-diversification-myth"/>
-        <updated>2022-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.]]></summary>
-        <author>
-            <name>Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The optimal inflation target: Views from 600 economists]]></title>
         <id>https://voxeu.org/article/optimal-inflation-target-views-600-economists</id>
@@ -23,6 +13,16 @@
         <summary type="html"><![CDATA[A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.]]></summary>
         <author>
             <name>Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The end of the crypto-diversification myth]]></title>
+        <id>https://voxeu.org/article/end-crypto-diversification-myth</id>
+        <link href="https://voxeu.org/article/end-crypto-diversification-myth"/>
+        <updated>2022-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.]]></summary>
+        <author>
+            <name>Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza</name>
         </author>
     </entry>
     <entry>
@@ -207,16 +207,6 @@ __모...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The regional development trap in Europe]]></title>
-        <id>https://voxeu.org/article/regional-development-trap-europe</id>
-        <link href="https://voxeu.org/article/regional-development-trap-europe"/>
-        <updated>2022-07-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many regions in Europe are stuck in a development trap and face significant structural challenges in retrieving past dynamism or improving prosperity for their residents. This column conceptualises what constitutes a development trap at a regional level in Europe and identifies which regions have been trapped or at risk of becoming trapped in recent years. Regional development traps can arise at many different levels of income. Springing these traps would improve overall European competitiveness and help quell the discontent and resentment of citizens living in these areas.]]></summary>
-        <author>
-            <name>Andreas Diemer, Simona Iammarino, Andrés Rodríguez-Pose, Michael  Storper</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gains from trade: International transport costs still matter]]></title>
         <id>https://voxeu.org/article/gains-trade-international-transport-costs-still-matter</id>
         <link href="https://voxeu.org/article/gains-trade-international-transport-costs-still-matter"/>
@@ -224,6 +214,16 @@ __모...
         <summary type="html"><![CDATA[Although transport costs have decreased substantially over the past two centuries, they are still far from negligible. This column argues that in addition to standard ad-valorem transport costs, there is an important role for additive costs in trade models. The authors estimate that over the period 1974 to 2019, additive costs represented between 35% (in air transport) and 45% (in vessel) of total transport costs. Furthermore, accounting for additive transport costs helps characterise the downward trend in total transport costs since the 1970s and suggests that the gains from trade over the period have been larger than generally assumed.]]></summary>
         <author>
             <name>Guillaume Daudin, Jérôme Héricourt, Lise Patureau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The regional development trap in Europe]]></title>
+        <id>https://voxeu.org/article/regional-development-trap-europe</id>
+        <link href="https://voxeu.org/article/regional-development-trap-europe"/>
+        <updated>2022-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many regions in Europe are stuck in a development trap and face significant structural challenges in retrieving past dynamism or improving prosperity for their residents. This column conceptualises what constitutes a development trap at a regional level in Europe and identifies which regions have been trapped or at risk of becoming trapped in recent years. Regional development traps can arise at many different levels of income. Springing these traps would improve overall European competitiveness and help quell the discontent and resentment of citizens living in these areas.]]></summary>
+        <author>
+            <name>Andreas Diemer, Simona Iammarino, Andrés Rodríguez-Pose, Michael  Storper</name>
         </author>
     </entry>
     <entry>
@@ -573,16 +573,6 @@ GTX는 과연 모두 개통될까?
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Central banks and climate policies]]></title>
-        <id>https://voxeu.org/article/central-banks-and-climate-policies</id>
-        <link href="https://voxeu.org/article/central-banks-and-climate-policies"/>
-        <updated>2022-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Central banks in developed countries have launched cautious investigations into whether, how, and to what extent they should intervene in climate policy. This column shows that central banks would face trade-offs if they were to start tackling climate change, as the instruments overlap with those already used in their monetary and macroprudential mandates. Using a using a principal–agent setting, the authors argue that central banks’ effectiveness in addressing climate change will depend on capture risk and  calibration risk.]]></summary>
-        <author>
-            <name>Donato Masciandaro, Riccardo Russo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How much are governments actually supporting Ukraine?]]></title>
         <id>https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine</id>
         <link href="https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine"/>
@@ -590,6 +580,16 @@ GTX는 과연 모두 개통될까?
         <summary type="html"><![CDATA[Since the Russian invasion of Ukrainian territories in February 2022, many politicians around the world have pledged to support Ukraine. But what are the numbers behind this support? Christoph Trebesch compiled press releases by governments, political statements and media reports to create the most comprehensive database on support for Ukraine. Interviewed at the CEPR’s June 2022 Paris Symposium, he shows how the United States is the largest supporter of Ukraine. But he also calls on European governments to do more and stand up to the challenge.]]></summary>
         <author>
             <name>Christoph Trebesch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fighting populism on its own turf]]></title>
+        <id>https://voxeu.org/article/fighting-populism-its-own-turf</id>
+        <link href="https://voxeu.org/article/fighting-populism-its-own-turf"/>
+        <updated>2022-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How should traditional political parties counter narratives from populist parties? This column reports on an experiment during a constitutional referendum held in Italy in 2020 in which two different videos ads were broadcast to voters. A video with a direct attack on the credibility of the populist politicians was more effective in capturing viewers’ attention and in affecting the electoral results than a video providing partisan informational content. Given the low cost of advertising compared with the cost of face-to-face or phone canvassing for more votes, when devising their strategy to respond to populist parties on populist issues, traditional parties may wish to consider demobilisation rather than persuasion.]]></summary>
+        <author>
+            <name>Vincenzo Galasso, Massimo Morelli, Tommaso Nannicini, Piero Stanig</name>
         </author>
     </entry>
     <entry>

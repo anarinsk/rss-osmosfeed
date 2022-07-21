@@ -486,16 +486,6 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/end-crypto-diversification-myth",
-          "author": "Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza",
-          "description": "Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.",
-          "link": "https://voxeu.org/article/end-crypto-diversification-myth",
-          "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": 2275,
-          "title": "The end of the crypto-diversification myth",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/optimal-inflation-target-views-600-economists",
           "author": "Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen",
           "description": "A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.",
@@ -503,6 +493,16 @@
           "publishedOn": "2022-07-21T00:00:00.000Z",
           "wordCount": 2889,
           "title": "The optimal inflation target: Views from 600 economists",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/end-crypto-diversification-myth",
+          "author": "Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza",
+          "description": "Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.",
+          "link": "https://voxeu.org/article/end-crypto-diversification-myth",
+          "publishedOn": "2022-07-21T00:00:00.000Z",
+          "wordCount": 2275,
+          "title": "The end of the crypto-diversification myth",
           "imageUrl": null
         },
         {
@@ -536,16 +536,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/regional-development-trap-europe",
-          "author": "Andreas Diemer, Simona Iammarino, Andrés Rodríguez-Pose, Michael  Storper",
-          "description": "Many regions in Europe are stuck in a development trap and face significant structural challenges in retrieving past dynamism or improving prosperity for their residents. This column conceptualises what constitutes a development trap at a regional level in Europe and identifies which regions have been trapped or at risk of becoming trapped in recent years. Regional development traps can arise at many different levels of income. Springing these traps would improve overall European competitiveness and help quell the discontent and resentment of citizens living in these areas.",
-          "link": "https://voxeu.org/article/regional-development-trap-europe",
-          "publishedOn": "2022-07-19T00:00:00.000Z",
-          "wordCount": 2480,
-          "title": "The regional development trap in Europe",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/gains-trade-international-transport-costs-still-matter",
           "author": "Guillaume Daudin, Jérôme Héricourt, Lise Patureau",
           "description": "Although transport costs have decreased substantially over the past two centuries, they are still far from negligible. This column argues that in addition to standard ad-valorem transport costs, there is an important role for additive costs in trade models. The authors estimate that over the period 1974 to 2019, additive costs represented between 35% (in air transport) and 45% (in vessel) of total transport costs. Furthermore, accounting for additive transport costs helps characterise the downward trend in total transport costs since the 1970s and suggests that the gains from trade over the period have been larger than generally assumed.",
@@ -556,23 +546,23 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/regional-development-trap-europe",
+          "author": "Andreas Diemer, Simona Iammarino, Andrés Rodríguez-Pose, Michael  Storper",
+          "description": "Many regions in Europe are stuck in a development trap and face significant structural challenges in retrieving past dynamism or improving prosperity for their residents. This column conceptualises what constitutes a development trap at a regional level in Europe and identifies which regions have been trapped or at risk of becoming trapped in recent years. Regional development traps can arise at many different levels of income. Springing these traps would improve overall European competitiveness and help quell the discontent and resentment of citizens living in these areas.",
+          "link": "https://voxeu.org/article/regional-development-trap-europe",
+          "publishedOn": "2022-07-19T00:00:00.000Z",
+          "wordCount": null,
+          "title": "The regional development trap in Europe",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/russia-s-war-worsens-outlook-commission-s-summer-interim-forecast",
           "author": "Maarten Verwey, Reuben Borg, Kristian Orsini",
           "description": "The shocks unleashed by Russia’s war on Ukraine are hitting the EU economy hard, setting it on a path of lower growth and higher inflation than expected in the previous European Commission forecast. Further upward pressures on energy prices, and even an outright cut in gas supply, represent concrete risks to the forecast. Against this backdrop, this column argues that EU Member States should implement the right policies to support vulnerable households while investing in measures to frontload the energy transition.",
           "link": "https://voxeu.org/article/russia-s-war-worsens-outlook-commission-s-summer-interim-forecast",
           "publishedOn": "2022-07-18T00:00:00.000Z",
-          "wordCount": 2766,
+          "wordCount": null,
           "title": "Russia’s war worsens the outlook: The Commission’s Summer Interim Forecast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/central-banks-and-climate-policies",
-          "author": "Donato Masciandaro, Riccardo Russo",
-          "description": "Central banks in developed countries have launched cautious investigations into whether, how, and to what extent they should intervene in climate policy. This column shows that central banks would face trade-offs if they were to start tackling climate change, as the instruments overlap with those already used in their monetary and macroprudential mandates. Using a using a principal–agent setting, the authors argue that central banks’ effectiveness in addressing climate change will depend on capture risk and  calibration risk.",
-          "link": "https://voxeu.org/article/central-banks-and-climate-policies",
-          "publishedOn": "2022-07-18T00:00:00.000Z",
-          "wordCount": 2756,
-          "title": "Central banks and climate policies",
           "imageUrl": null
         },
         {
@@ -583,6 +573,16 @@
           "publishedOn": "2022-07-18T00:00:00.000Z",
           "wordCount": null,
           "title": "How much are governments actually supporting Ukraine?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/fighting-populism-its-own-turf",
+          "author": "Vincenzo Galasso, Massimo Morelli, Tommaso Nannicini, Piero Stanig",
+          "description": "How should traditional political parties counter narratives from populist parties? This column reports on an experiment during a constitutional referendum held in Italy in 2020 in which two different videos ads were broadcast to voters. A video with a direct attack on the credibility of the populist politicians was more effective in capturing viewers’ attention and in affecting the electoral results than a video providing partisan informational content. Given the low cost of advertising compared with the cost of face-to-face or phone canvassing for more votes, when devising their strategy to respond to populist parties on populist issues, traditional parties may wish to consider demobilisation rather than persuasion.",
+          "link": "https://voxeu.org/article/fighting-populism-its-own-turf",
+          "publishedOn": "2022-07-18T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Fighting populism on its own turf",
           "imageUrl": null
         }
       ]
