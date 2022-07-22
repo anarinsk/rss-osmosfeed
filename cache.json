@@ -456,23 +456,33 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
-          "id": "https://voxeu.org/article/optimal-inflation-target-views-600-economists",
-          "author": "Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen",
-          "description": "A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.",
-          "link": "https://voxeu.org/article/optimal-inflation-target-views-600-economists",
-          "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": 2882,
-          "title": "The optimal inflation target: Views from 600 economists",
+          "id": "https://voxeu.org/article/impact-foreign-sanctions-firm-performance-russia",
+          "author": "Khanh Hoang, Toan L.D. Huynh, Steven Ongena",
+          "description": "Russia’s invasion of Ukraine in February 2022 has provoked wide-ranging financial and economic sanctions from the US, Europe, and various other countries worldwide. This column assesses the economic effects of almost two decades of earlier sanctions on Russian firms to shed light on the impacts of this new wave of sanctions. Sanctions adversely affect firm performance in general, yet there is no clear impact on energy and oligarch-related firms. Evidence of preparedness for sanctions by these firms during the Crimea event in 2014 suggests one mechanism by which the impact of sanctions may be muted.",
+          "link": "https://voxeu.org/article/impact-foreign-sanctions-firm-performance-russia",
+          "publishedOn": "2022-07-22T00:00:00.000Z",
+          "wordCount": 2606,
+          "title": "The impact of foreign sanctions on firm performance in Russia",
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/content/climate-change-affecting-your-investment",
-          "author": "Patrick Bolton",
-          "description": "How are carbon emissions affecting market valuations of listed companies? Interviewed at the CEPR’s June 2022 Paris Symposium, Patrick Bolton compares stock returns and carbon emissions of companies in the time period between 2005-2018 and finds investors in all sectors are already integrating risks associated with the carbon transition into their investments.",
-          "link": "https://voxeu.org/content/climate-change-affecting-your-investment",
-          "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": 778,
-          "title": "Is climate change affecting your investment?",
+          "id": "https://voxeu.org/article/social-media-and-mental-health",
+          "author": "Luca Braghieri, Ro'ee Levy,  Alexey Makarin",
+          "description": "Over the last two decades, the mental health of adolescents and young adults in many countries has worsened considerably. This column looks at the role that social media has played in this, focusing on Facebook. Using the gradual expansion of the website across US colleges as a natural experiment, the authors find that students were more likely to report that mental health issues negatively affected their academic performance after Facebook was introduced at their college, with evidence suggesting that the effects operated through unfavourable social comparison.",
+          "link": "https://voxeu.org/article/social-media-and-mental-health",
+          "publishedOn": "2022-07-22T00:00:00.000Z",
+          "wordCount": 2908,
+          "title": "Social media and mental health",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/how-design-carbon-pricing-schemes",
+          "author": "Ian Parry, Simon Black, Karlygash Zhunussova",
+          "description": "Carbon pricing, in the form of carbon taxes and emissions trading systems, is increasingly a centrepiece of countries’ emissions reductions strategies, but policymakers face a bewildering array of options and considerations. Getting the design basics right is critical, and entails ensuring pricing is robust in level and coverage, practical in administration, and addresses fiscal, distributional, and political economy objectives. This column discusses key design issues and to what extent they can be addressed under carbon taxes and emissions trading systems.",
+          "link": "https://voxeu.org/article/how-design-carbon-pricing-schemes",
+          "publishedOn": "2022-07-22T00:00:00.000Z",
+          "wordCount": 2549,
+          "title": "How to design carbon pricing schemes",
           "imageUrl": null
         },
         {
@@ -481,8 +491,28 @@
           "description": "Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.",
           "link": "https://voxeu.org/article/end-crypto-diversification-myth",
           "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": 2268,
+          "wordCount": 2277,
           "title": "The end of the crypto-diversification myth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/content/climate-change-affecting-your-investment",
+          "author": "Patrick Bolton",
+          "description": "How are carbon emissions affecting market valuations of listed companies? Interviewed at the CEPR’s June 2022 Paris Symposium, Patrick Bolton compares stock returns and carbon emissions of companies in the time period between 2005-2018 and finds investors in all sectors are already integrating risks associated with the carbon transition into their investments.",
+          "link": "https://voxeu.org/content/climate-change-affecting-your-investment",
+          "publishedOn": "2022-07-21T00:00:00.000Z",
+          "wordCount": 787,
+          "title": "Is climate change affecting your investment?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/optimal-inflation-target-views-600-economists",
+          "author": "Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen",
+          "description": "A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.",
+          "link": "https://voxeu.org/article/optimal-inflation-target-views-600-economists",
+          "publishedOn": "2022-07-21T00:00:00.000Z",
+          "wordCount": 2891,
+          "title": "The optimal inflation target: Views from 600 economists",
           "imageUrl": null
         },
         {
@@ -491,7 +521,7 @@
           "description": "Global real rates are stuck at a low level, and until recently policy rates everywhere were effectively zero. Can we use historical data to explain why this happened, and to predict whether we will be back at the ZLB when inflation falls? Pierre-Olivier Gourinchas and Ricardo Reis talk to Tim Phillips.",
           "link": "https://voxeu.org/vox-talks/global-real-interest-rate",
           "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 850,
+          "wordCount": 859,
           "title": "The global real interest rate",
           "imageUrl": null
         },
@@ -501,7 +531,7 @@
           "description": "The US net foreign asset position – measuring the difference between its foreign assets and liabilities – was negative, yet small, until 2007. This column shows that since then, it has deteriorated sharply to negative 65% of GDP, mostly as a result of changes in the market value of US-owned assets abroad and foreign-owned assets in the US. These valuation effects are explained by rising US equity values disproportionately benefitting foreign owners of US firms. Whether this is beneficial for Americans depends on whether the profit rises are due to higher productivity or lower competition.",
           "link": "https://voxeu.org/article/net-foreign-asset-position-us",
           "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 2664,
+          "wordCount": 2673,
           "title": "The net foreign asset position of the US",
           "imageUrl": null
         },
@@ -511,18 +541,8 @@
           "description": "There are significant regional disparities in productivity levels across the UK. The June 2022 CfM survey asked the members of its UK panel to evaluate the reasons for these disparities and policies that might close the gaps. A majority of the panel believe that the productivity differences are attributable to either agglomeration effects or sorting, self-reinforcing phenomena that lead some regions to become productivity powerhouses and others to fall behind, while just under a third think that the differences are due to fundamental factors such as education, local infrastructure, or poor transportation links across regions. The productivity gaps should be addressed with a combination of public investments, incentives for private investment, and investments in skills and education.",
           "link": "https://voxeu.org/article/levelling-productivity-gaps-uk",
           "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 3006,
+          "wordCount": 3015,
           "title": "Levelling up productivity gaps in the UK",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/gains-trade-international-transport-costs-still-matter",
-          "author": "Guillaume Daudin, Jérôme Héricourt, Lise Patureau",
-          "description": "Although transport costs have decreased substantially over the past two centuries, they are still far from negligible. This column argues that in addition to standard ad-valorem transport costs, there is an important role for additive costs in trade models. The authors estimate that over the period 1974 to 2019, additive costs represented between 35% (in air transport) and 45% (in vessel) of total transport costs. Furthermore, accounting for additive transport costs helps characterise the downward trend in total transport costs since the 1970s and suggests that the gains from trade over the period have been larger than generally assumed.",
-          "link": "https://voxeu.org/article/gains-trade-international-transport-costs-still-matter",
-          "publishedOn": "2022-07-19T00:00:00.000Z",
-          "wordCount": 2740,
-          "title": "Gains from trade: International transport costs still matter",
           "imageUrl": null
         },
         {
@@ -531,28 +551,8 @@
           "description": "Many regions in Europe are stuck in a development trap and face significant structural challenges in retrieving past dynamism or improving prosperity for their residents. This column conceptualises what constitutes a development trap at a regional level in Europe and identifies which regions have been trapped or at risk of becoming trapped in recent years. Regional development traps can arise at many different levels of income. Springing these traps would improve overall European competitiveness and help quell the discontent and resentment of citizens living in these areas.",
           "link": "https://voxeu.org/article/regional-development-trap-europe",
           "publishedOn": "2022-07-19T00:00:00.000Z",
-          "wordCount": 2473,
+          "wordCount": 2482,
           "title": "The regional development trap in Europe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/russia-s-war-worsens-outlook-commission-s-summer-interim-forecast",
-          "author": "Maarten Verwey, Reuben Borg, Kristian Orsini",
-          "description": "The shocks unleashed by Russia’s war on Ukraine are hitting the EU economy hard, setting it on a path of lower growth and higher inflation than expected in the previous European Commission forecast. Further upward pressures on energy prices, and even an outright cut in gas supply, represent concrete risks to the forecast. Against this backdrop, this column argues that EU Member States should implement the right policies to support vulnerable households while investing in measures to frontload the energy transition.",
-          "link": "https://voxeu.org/article/russia-s-war-worsens-outlook-commission-s-summer-interim-forecast",
-          "publishedOn": "2022-07-18T00:00:00.000Z",
-          "wordCount": 2759,
-          "title": "Russia’s war worsens the outlook: The Commission’s Summer Interim Forecast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine",
-          "author": "Christoph Trebesch",
-          "description": "Since the Russian invasion of Ukrainian territories in February 2022, many politicians around the world have pledged to support Ukraine. But what are the numbers behind this support? Christoph Trebesch compiled press releases by governments, political statements and media reports to create the most comprehensive database on support for Ukraine. Interviewed at the CEPR’s June 2022 Paris Symposium, he shows how the United States is the largest supporter of Ukraine. But he also calls on European governments to do more and stand up to the challenge.",
-          "link": "https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine",
-          "publishedOn": "2022-07-18T00:00:00.000Z",
-          "wordCount": 865,
-          "title": "How much are governments actually supporting Ukraine?",
           "imageUrl": null
         }
       ]

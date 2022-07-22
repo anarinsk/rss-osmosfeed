@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T00:09:13.597Z</id>
+    <id>urn:2022-07-22T03:36:53.973Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-22T00:09:13.597Z</updated>
+    <updated>2022-07-22T03:36:53.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The optimal inflation target: Views from 600 economists]]></title>
-        <id>https://voxeu.org/article/optimal-inflation-target-views-600-economists</id>
-        <link href="https://voxeu.org/article/optimal-inflation-target-views-600-economists"/>
-        <updated>2022-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.]]></summary>
+        <title type="html"><![CDATA[The impact of foreign sanctions on firm performance in Russia]]></title>
+        <id>https://voxeu.org/article/impact-foreign-sanctions-firm-performance-russia</id>
+        <link href="https://voxeu.org/article/impact-foreign-sanctions-firm-performance-russia"/>
+        <updated>2022-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s invasion of Ukraine in February 2022 has provoked wide-ranging financial and economic sanctions from the US, Europe, and various other countries worldwide. This column assesses the economic effects of almost two decades of earlier sanctions on Russian firms to shed light on the impacts of this new wave of sanctions. Sanctions adversely affect firm performance in general, yet there is no clear impact on energy and oligarch-related firms. Evidence of preparedness for sanctions by these firms during the Crimea event in 2014 suggests one mechanism by which the impact of sanctions may be muted.]]></summary>
         <author>
-            <name>Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen</name>
+            <name>Khanh Hoang, Toan L.D. Huynh, Steven Ongena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social media and mental health]]></title>
+        <id>https://voxeu.org/article/social-media-and-mental-health</id>
+        <link href="https://voxeu.org/article/social-media-and-mental-health"/>
+        <updated>2022-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the last two decades, the mental health of adolescents and young adults in many countries has worsened considerably. This column looks at the role that social media has played in this, focusing on Facebook. Using the gradual expansion of the website across US colleges as a natural experiment, the authors find that students were more likely to report that mental health issues negatively affected their academic performance after Facebook was introduced at their college, with evidence suggesting that the effects operated through unfavourable social comparison.]]></summary>
+        <author>
+            <name>Luca Braghieri, Ro'ee Levy,  Alexey Makarin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to design carbon pricing schemes]]></title>
+        <id>https://voxeu.org/article/how-design-carbon-pricing-schemes</id>
+        <link href="https://voxeu.org/article/how-design-carbon-pricing-schemes"/>
+        <updated>2022-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Carbon pricing, in the form of carbon taxes and emissions trading systems, is increasingly a centrepiece of countries’ emissions reductions strategies, but policymakers face a bewildering array of options and considerations. Getting the design basics right is critical, and entails ensuring pricing is robust in level and coverage, practical in administration, and addresses fiscal, distributional, and political economy objectives. This column discusses key design issues and to what extent they can be addressed under carbon taxes and emissions trading systems.]]></summary>
+        <author>
+            <name>Ian Parry, Simon Black, Karlygash Zhunussova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The end of the crypto-diversification myth]]></title>
+        <id>https://voxeu.org/article/end-crypto-diversification-myth</id>
+        <link href="https://voxeu.org/article/end-crypto-diversification-myth"/>
+        <updated>2022-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.]]></summary>
+        <author>
+            <name>Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza</name>
         </author>
     </entry>
     <entry>
@@ -26,13 +56,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The end of the crypto-diversification myth]]></title>
-        <id>https://voxeu.org/article/end-crypto-diversification-myth</id>
-        <link href="https://voxeu.org/article/end-crypto-diversification-myth"/>
+        <title type="html"><![CDATA[The optimal inflation target: Views from 600 economists]]></title>
+        <id>https://voxeu.org/article/optimal-inflation-target-views-600-economists</id>
+        <link href="https://voxeu.org/article/optimal-inflation-target-views-600-economists"/>
         <updated>2022-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.]]></summary>
+        <summary type="html"><![CDATA[A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.]]></summary>
         <author>
-            <name>Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza</name>
+            <name>Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen</name>
         </author>
     </entry>
     <entry>
@@ -296,16 +326,6 @@ __모...
 국내도서 > 사회과학 > 사회학 > 사회학 일반]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gains from trade: International transport costs still matter]]></title>
-        <id>https://voxeu.org/article/gains-trade-international-transport-costs-still-matter</id>
-        <link href="https://voxeu.org/article/gains-trade-international-transport-costs-still-matter"/>
-        <updated>2022-07-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Although transport costs have decreased substantially over the past two centuries, they are still far from negligible. This column argues that in addition to standard ad-valorem transport costs, there is an important role for additive costs in trade models. The authors estimate that over the period 1974 to 2019, additive costs represented between 35% (in air transport) and 45% (in vessel) of total transport costs. Furthermore, accounting for additive transport costs helps characterise the downward trend in total transport costs since the 1970s and suggests that the gains from trade over the period have been larger than generally assumed.]]></summary>
-        <author>
-            <name>Guillaume Daudin, Jérôme Héricourt, Lise Patureau</name>
         </author>
     </entry>
     <entry>
@@ -652,26 +672,6 @@ GTX는 과연 모두 개통될까?
 국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia’s war worsens the outlook: The Commission’s Summer Interim Forecast]]></title>
-        <id>https://voxeu.org/article/russia-s-war-worsens-outlook-commission-s-summer-interim-forecast</id>
-        <link href="https://voxeu.org/article/russia-s-war-worsens-outlook-commission-s-summer-interim-forecast"/>
-        <updated>2022-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The shocks unleashed by Russia’s war on Ukraine are hitting the EU economy hard, setting it on a path of lower growth and higher inflation than expected in the previous European Commission forecast. Further upward pressures on energy prices, and even an outright cut in gas supply, represent concrete risks to the forecast. Against this backdrop, this column argues that EU Member States should implement the right policies to support vulnerable households while investing in measures to frontload the energy transition.]]></summary>
-        <author>
-            <name>Maarten Verwey, Reuben Borg, Kristian Orsini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How much are governments actually supporting Ukraine?]]></title>
-        <id>https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine</id>
-        <link href="https://voxeu.org/content/how-much-are-governments-actually-supporting-ukraine"/>
-        <updated>2022-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the Russian invasion of Ukrainian territories in February 2022, many politicians around the world have pledged to support Ukraine. But what are the numbers behind this support? Christoph Trebesch compiled press releases by governments, political statements and media reports to create the most comprehensive database on support for Ukraine. Interviewed at the CEPR’s June 2022 Paris Symposium, he shows how the United States is the largest supporter of Ukraine. But he also calls on European governments to do more and stand up to the challenge.]]></summary>
-        <author>
-            <name>Christoph Trebesch</name>
         </author>
     </entry>
     <entry>
