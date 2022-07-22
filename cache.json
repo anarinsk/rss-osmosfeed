@@ -466,16 +466,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/end-crypto-diversification-myth",
-          "author": "Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza",
-          "description": "Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.",
-          "link": "https://voxeu.org/article/end-crypto-diversification-myth",
-          "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": 2277,
-          "title": "The end of the crypto-diversification myth",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/content/climate-change-affecting-your-investment",
           "author": "Patrick Bolton",
           "description": "How are carbon emissions affecting market valuations of listed companies? Interviewed at the CEPR’s June 2022 Paris Symposium, Patrick Bolton compares stock returns and carbon emissions of companies in the time period between 2005-2018 and finds investors in all sectors are already integrating risks associated with the carbon transition into their investments.",
@@ -496,23 +486,23 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/end-crypto-diversification-myth",
+          "author": "Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza",
+          "description": "Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.",
+          "link": "https://voxeu.org/article/end-crypto-diversification-myth",
+          "publishedOn": "2022-07-21T00:00:00.000Z",
+          "wordCount": null,
+          "title": "The end of the crypto-diversification myth",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/vox-talks/global-real-interest-rate",
           "author": "Pierre-Olivier Gourinchas, Ricardo Reis",
           "description": "Global real rates are stuck at a low level, and until recently policy rates everywhere were effectively zero. Can we use historical data to explain why this happened, and to predict whether we will be back at the ZLB when inflation falls? Pierre-Olivier Gourinchas and Ricardo Reis talk to Tim Phillips.",
           "link": "https://voxeu.org/vox-talks/global-real-interest-rate",
           "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 859,
+          "wordCount": null,
           "title": "The global real interest rate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/levelling-productivity-gaps-uk",
-          "author": "Ethan Ilzetzki",
-          "description": "There are significant regional disparities in productivity levels across the UK. The June 2022 CfM survey asked the members of its UK panel to evaluate the reasons for these disparities and policies that might close the gaps. A majority of the panel believe that the productivity differences are attributable to either agglomeration effects or sorting, self-reinforcing phenomena that lead some regions to become productivity powerhouses and others to fall behind, while just under a third think that the differences are due to fundamental factors such as education, local infrastructure, or poor transportation links across regions. The productivity gaps should be addressed with a combination of public investments, incentives for private investment, and investments in skills and education.",
-          "link": "https://voxeu.org/article/levelling-productivity-gaps-uk",
-          "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 3015,
-          "title": "Levelling up productivity gaps in the UK",
           "imageUrl": null
         },
         {
@@ -521,18 +511,28 @@
           "description": "The US net foreign asset position – measuring the difference between its foreign assets and liabilities – was negative, yet small, until 2007. This column shows that since then, it has deteriorated sharply to negative 65% of GDP, mostly as a result of changes in the market value of US-owned assets abroad and foreign-owned assets in the US. These valuation effects are explained by rising US equity values disproportionately benefitting foreign owners of US firms. Whether this is beneficial for Americans depends on whether the profit rises are due to higher productivity or lower competition.",
           "link": "https://voxeu.org/article/net-foreign-asset-position-us",
           "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 2673,
+          "wordCount": null,
           "title": "The net foreign asset position of the US",
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/regional-development-trap-europe",
-          "author": "Andreas Diemer, Simona Iammarino, Andrés Rodríguez-Pose, Michael  Storper",
-          "description": "Many regions in Europe are stuck in a development trap and face significant structural challenges in retrieving past dynamism or improving prosperity for their residents. This column conceptualises what constitutes a development trap at a regional level in Europe and identifies which regions have been trapped or at risk of becoming trapped in recent years. Regional development traps can arise at many different levels of income. Springing these traps would improve overall European competitiveness and help quell the discontent and resentment of citizens living in these areas.",
-          "link": "https://voxeu.org/article/regional-development-trap-europe",
+          "id": "https://voxeu.org/article/levelling-productivity-gaps-uk",
+          "author": "Ethan Ilzetzki",
+          "description": "There are significant regional disparities in productivity levels across the UK. The June 2022 CfM survey asked the members of its UK panel to evaluate the reasons for these disparities and policies that might close the gaps. A majority of the panel believe that the productivity differences are attributable to either agglomeration effects or sorting, self-reinforcing phenomena that lead some regions to become productivity powerhouses and others to fall behind, while just under a third think that the differences are due to fundamental factors such as education, local infrastructure, or poor transportation links across regions. The productivity gaps should be addressed with a combination of public investments, incentives for private investment, and investments in skills and education.",
+          "link": "https://voxeu.org/article/levelling-productivity-gaps-uk",
+          "publishedOn": "2022-07-20T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Levelling up productivity gaps in the UK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/gains-trade-international-transport-costs-still-matter",
+          "author": "Guillaume Daudin, Jérôme Héricourt, Lise Patureau",
+          "description": "Although transport costs have decreased substantially over the past two centuries, they are still far from negligible. This column argues that in addition to standard ad-valorem transport costs, there is an important role for additive costs in trade models. The authors estimate that over the period 1974 to 2019, additive costs represented between 35% (in air transport) and 45% (in vessel) of total transport costs. Furthermore, accounting for additive transport costs helps characterise the downward trend in total transport costs since the 1970s and suggests that the gains from trade over the period have been larger than generally assumed.",
+          "link": "https://voxeu.org/article/gains-trade-international-transport-costs-still-matter",
           "publishedOn": "2022-07-19T00:00:00.000Z",
-          "wordCount": 2482,
-          "title": "The regional development trap in Europe",
+          "wordCount": null,
+          "title": "Gains from trade: International transport costs still matter",
           "imageUrl": null
         }
       ]
