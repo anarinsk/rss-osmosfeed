@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T21:03:43.922Z</id>
+    <id>urn:2022-07-22T00:09:13.597Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-21T21:03:43.922Z</updated>
+    <updated>2022-07-22T00:09:13.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,6 +33,88 @@
         <summary type="html"><![CDATA[Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.]]></summary>
         <author>
             <name>Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안녕, 트랜스포머/이진기 지음/에이콘출판]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=298358837</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=298358837"/>
+        <updated>2022-07-20T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[안녕, 트랜스포머
+이진기 지음 / 에이콘출판 / 2022년 07월 / ISBN:9791161756325
+정가: 24,000원 / 판매가: 21,600원 / 마일리지: 1,200원
+이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치
+
+
+
+
+자연어 처리를 위한 AI 모델의 핵심 기술과 활용법에 대해서 다룬다. N-gram으로 접근하는 전통적인 모델 방식의 한계를 설명하고, AI 모델이 그 문제를 어떻게 해결할 수 있는지 설명한다. 어텐션 네트워크의 배경과 핵심 원리를 자세하게 설명하고 있고, 이 구조를 통해서 트랜스포머나 BERT 등의 구조를 설명한다. 또한 자연어 처리에 있어서 메타학습 방법도 간략하게 소개한다.
+
+1장 다음 단어는요? 언어 모델 
+__1.1. 언어 모델은 확률 게임
+__1.2. N-gram 언어 모델 
+____1.2.1. 텍스트 전처리 
+____1.2.2. 제로 카운트 해결하기 
+____1.2.3. N-gram 모델 학습하기 
+____1.2.4. N-gram 언어 모델의 한계 
+__1.3. Word2Vec 기반의 언어 모델 
+__1.4. RNN 기반의 언어 모델 
+__1.4.1. RNN의 구조 
+__1.4.2. GRU 언어 모델 구현하기 
+__1.4.3. GRU 언어 모델로 문장 생성하기 
+
+
+2장 집중해 보자! 어텐션 
+__2.1. 하나의 벡터로 모든 정보를 담는 RNN 
+__2.2. 왜 어텐션(Attention)하지 않지? 
+__2.3. 어떻게 어텐션(Attention)하지? 
+____2.3.1. 묻고 참고하고 답하기 
+____2.3.2. 어텐션 계산해 보기 
+____2.3.3. 어텐션 구현하기 
+____2.3.4 모델링 학습하기 
+
+
+3장 안녕, 트랜스포머 
+__3.1. 트랜스포머의 구조 
+__3.2. 트랜스포머 구현하기 
+____3.2.1. 인코더 
+__3.3. Why Transformer 
+__3.4. 트랜스포머 학습 결과 
+____3.4.1. Perplexity(PPL) 
+____3.4.2. BLEU 스코어 
+
+
+4장 중간부터 학습하자! 사전학습과 파인튜닝 
+__4.1. 사전학습과 Fine-Tuning 
+__4.2. BERT 
+____4.2.1. BERT의 모델 구조와 이해하기 
+____4.2.2. BERT 모델의 입력 이해하기 
+____4.2.3. 사전학습 이해하기 
+____4.2.4. Masked Language Model(MLM) 
+____4.2.5. Next Sentence Prediction(NSP) 
+____4.2.6. 사전학습을 위한 데이터셋 준비와 Self-supervised Learning 
+____4.2.7. 사전학습 파헤치기 
+____4.2.8. 사전학습 정리하기 
+____4.2.9. Fine-Tuning 이해하기 
+____4.2.10. 텍스트 분류 모델로 파인튜닝하기 
+____4.2.11. 질의응답 모델로 파인튜닝하기 
+__4.3. GPT 
+____4.3.1. GPT의 사전학습 
+____4.3.2. Masked Self-Attention 
+__4.4. RoBERTa 
+____4.4.1. 정적 또는 동적 마스킹 전략 
+____4.4.2. NSP 전략 
+____4.4.3. 배치 사이즈와 데이터셋 크기 
+__4.5. ALBERT 
+____4.5.1. Factorized Embedding Parameterization 
+____4.5.2. Cross-layer Parameter Sharing 
+____4.5.3. Sentence Order Prediction(SOP) ...
+
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
+국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
     </entry>
     <entry>

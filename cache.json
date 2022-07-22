@@ -263,6 +263,16 @@
       "siteUrl": "http://www.aladin.co.kr/rsscenter/go.aspx/www.aladin.co.kr/shop/book/wnewbook.aspx?cid=437&rssType=2&type=title",
       "articles": [
         {
+          "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=298358837",
+          "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
+          "description": "안녕, 트랜스포머\n이진기 지음 / 에이콘출판 / 2022년 07월 / ISBN:9791161756325\n정가: 24,000원 / 판매가: 21,600원 / 마일리지: 1,200원\n이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치\n\n\n\n\n자연어 처리를 위한 AI 모델의 핵심 기술과 활용법에 대해서 다룬다. N-gram으로 접근하는 전통적인 모델 방식의 한계를 설명하고, AI 모델이 그 문제를 어떻게 해결할 수 있는지 설명한다. 어텐션 네트워크의 배경과 핵심 원리를 자세하게 설명하고 있고, 이 구조를 통해서 트랜스포머나 BERT 등의 구조를 설명한다. 또한 자연어 처리에 있어서 메타학습 방법도 간략하게 소개한다.\n\n1장 다음 단어는요? 언어 모델 \r\n__1.1. 언어 모델은 확률 게임\r\n__1.2. N-gram 언어 모델 \r\n____1.2.1. 텍스트 전처리 \r\n____1.2.2. 제로 카운트 해결하기 \r\n____1.2.3. N-gram 모델 학습하기 \r\n____1.2.4. N-gram 언어 모델의 한계 \r\n__1.3. Word2Vec 기반의 언어 모델 \r\n__1.4. RNN 기반의 언어 모델 \r\n__1.4.1. RNN의 구조 \r\n__1.4.2. GRU 언어 모델 구현하기 \r\n__1.4.3. GRU 언어 모델로 문장 생성하기 \r\n\r\n\r\n2장 집중해 보자! 어텐션 \r\n__2.1. 하나의 벡터로 모든 정보를 담는 RNN \r\n__2.2. 왜 어텐션(Attention)하지 않지? \r\n__2.3. 어떻게 어텐션(Attention)하지? \r\n____2.3.1. 묻고 참고하고 답하기 \r\n____2.3.2. 어텐션 계산해 보기 \r\n____2.3.3. 어텐션 구현하기 \r\n____2.3.4 모델링 학습하기 \r\n\r\n\r\n3장 안녕, 트랜스포머 \r\n__3.1. 트랜스포머의 구조 \r\n__3.2. 트랜스포머 구현하기 \r\n____3.2.1. 인코더 \r\n__3.3. Why Transformer \r\n__3.4. 트랜스포머 학습 결과 \r\n____3.4.1. Perplexity(PPL) \r\n____3.4.2. BLEU 스코어 \r\n\r\n\r\n4장 중간부터 학습하자! 사전학습과 파인튜닝 \r\n__4.1. 사전학습과 Fine-Tuning \r\n__4.2. BERT \r\n____4.2.1. BERT의 모델 구조와 이해하기 \r\n____4.2.2. BERT 모델의 입력 이해하기 \r\n____4.2.3. 사전학습 이해하기 \r\n____4.2.4. Masked Language Model(MLM) \r\n____4.2.5. Next Sentence Prediction(NSP) \r\n____4.2.6. 사전학습을 위한 데이터셋 준비와 Self-supervised Learning \r\n____4.2.7. 사전학습 파헤치기 \r\n____4.2.8. 사전학습 정리하기 \r\n____4.2.9. Fine-Tuning 이해하기 \r\n____4.2.10. 텍스트 분류 모델로 파인튜닝하기 \r\n____4.2.11. 질의응답 모델로 파인튜닝하기 \r\n__4.3. GPT \r\n____4.3.1. GPT의 사전학습 \r\n____4.3.2. Masked Self-Attention \r\n__4.4. RoBERTa \r\n____4.4.1. 정적 또는 동적 마스킹 전략 \r\n____4.4.2. NSP 전략 \r\n____4.4.3. 배치 사이즈와 데이터셋 크기 \r\n__4.5. ALBERT \r\n____4.5.1. Factorized Embedding Parameterization \r\n____4.5.2. Cross-layer Parameter Sharing \r\n____4.5.3. Sentence Order Prediction(SOP) ...\n\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
+          "link": "http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&type=item&itemId=298358837",
+          "publishedOn": "2022-07-20T08:06:00.000Z",
+          "wordCount": null,
+          "title": "안녕, 트랜스포머/이진기 지음/에이콘출판",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.aladin.co.kr/shop/wproduct.aspx?itemID=298259461",
           "author": "알라딘 <noSpam.rss@aladdin.co.kr>",
           "description": "실전 알고리듬 트레이딩 레벨업\n안드레아스 F. 클레노우 지음, 이기홍 옮김 / 에이콘출판 / 2022년 07월 / ISBN:9791161756509\n정가: 40,000원 / 판매가: 36,000원 / 마일리지: 2,000원\n이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치\n\n\n\n\n실전 트레이딩의 기초부터 고급 전략까지 총망라해서 다룬다. 전략을 테스트하는 최첨단 파이썬 백테스트 기법(Zipline)을 제공해 독자들이 자신만의 트레이딩 전략을 구축하고 검증할 수 있도록 돕는다. 이 책은 미국 개발자들이 트레이딩 전략 개발에 자주 인용하는 참고서로, 주식, ETF, 상품 선물 등의 다양한 자산 클래스를 다루고 있으며, 평균 회귀, 모멘텀, 추세 추종 및 역추세 추종 등의 전략의 실전 적용 예시를 보여준다. 더 나아가 투자자들이 흔히 간과하는 트레이딩의 위험 관리와 진입 및 청산 규칙에 대한 지침도 같이 제공한다.\n\n1장. 이 책에 대해\r\n__이 책에서의 트레이딩 전략\r\n__책을 읽는 법\r\n__이 책의 저술 방식\r\n__코드가 쓰여진 방식\r\n\r\n\r\n2장. 시스템 트레이딩 \r\n__트레이딩 방법 검증\r\n__과학적 접근법\r\n__일관성 있는 방법론\r\n__시간 관리\r\n\r\n\r\n3장. 트레이딩 모델의 개발 \r\n__모델 목적\r\n__규칙과 변형\r\n__데이터 취급\r\n__자산 클래스\r\n__투자 유니버스\r\n__배분과 리스크 수준\r\n__진입과 청산 규칙\r\n__리밸런싱\r\n\r\n\r\n4장. 금융 리스크 \r\n__리스크의 계량화\r\n__시가 평가\r\n__공통 리스크의 논리적 오류\r\n__성과를 내기 위해 지불해야 하는 대가로서의 리스크\r\n\r\n\r\n5장. 파이썬 소개\r\n__몇 가지 필요한 이야기들\r\n__파이썬은 논리적 선택으로 등장한다\r\n__프로그래밍 교육 방법\r\n__컴퓨터에 파이썬 설치하기\r\n__코드 몇 개 실행하기\r\n__주피터 노트북으로 작업하기\r\n__딕셔너리 룩업\r\n__주피터 노트북을 시작할 때의 가능한 문제\r\n__조건부 논리\r\n__공통 실수\r\n__라이브러리 설치\r\n\r\n\r\n6장. 판다스 등장\r\n__설명서와 도움말\r\n__간단한 파이썬 시뮬레이션\r\n__상관관계 그래프 만들기\r\n__더 예쁜 그래프\r\n\r\n\r\n7장. 트레이딩 전략 백테스트\r\n__파이썬 백테스트 엔진\r\n__집라인과 퀀토피안\r\n__찬성과 반대\r\n__Zipline Reloaded\r\n__집라인과 데이터\r\n__퀀들 번들의 인제스트\r\n__유용한 라이브러리 설치\r\n__백테스트 알고리듬 작성 위치\r\n__최초의 집라인 백테스트\r\n__포트폴리오 백테스트\r\n__이 책에 사용된 데이터\r\n\r\n\r\n8장. 백테스트 결과 분석 \r\n__PyFolio 설치\r\n__분석할 포트폴리오 알고리듬\r\n__PyFolio를 통한 성과 분석\r\n__맞춤형 분석\r\n__일별 스냅샷\r\n__맞춤형 시계열 분석\r\n\r\n\r\n9장. ETF\r\n__좋은 ETF\r\n__나쁜 ETF\r\n__최악의 ETF\r\n__ETF의 공매도\r\n\r\n\r\n10장. ETF 모델 구축\r\n__자산 배분 모델\r\n\r\n\r\n11장. 주식 \r\n__가장 어려운 자산 클래스\r\n__방법론에 대한 한마디\r\n__주식 투자 유니버스\r\n__배당금\r\n\r\n\r\n12장. 시스템 모멘텀\r\n__모델 복제\r\n__모...\n\n국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 데이터베이스 프로그래밍 > 데이터베이스 구축\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 자료구조/알고리즘\n국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬\n국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론",
@@ -461,7 +471,7 @@
           "description": "How are carbon emissions affecting market valuations of listed companies? Interviewed at the CEPR’s June 2022 Paris Symposium, Patrick Bolton compares stock returns and carbon emissions of companies in the time period between 2005-2018 and finds investors in all sectors are already integrating risks associated with the carbon transition into their investments.",
           "link": "https://voxeu.org/content/climate-change-affecting-your-investment",
           "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 778,
           "title": "Is climate change affecting your investment?",
           "imageUrl": null
         },
@@ -491,7 +501,7 @@
           "description": "The US net foreign asset position – measuring the difference between its foreign assets and liabilities – was negative, yet small, until 2007. This column shows that since then, it has deteriorated sharply to negative 65% of GDP, mostly as a result of changes in the market value of US-owned assets abroad and foreign-owned assets in the US. These valuation effects are explained by rising US equity values disproportionately benefitting foreign owners of US firms. Whether this is beneficial for Americans depends on whether the profit rises are due to higher productivity or lower competition.",
           "link": "https://voxeu.org/article/net-foreign-asset-position-us",
           "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2664,
           "title": "The net foreign asset position of the US",
           "imageUrl": null
         },
@@ -501,7 +511,7 @@
           "description": "There are significant regional disparities in productivity levels across the UK. The June 2022 CfM survey asked the members of its UK panel to evaluate the reasons for these disparities and policies that might close the gaps. A majority of the panel believe that the productivity differences are attributable to either agglomeration effects or sorting, self-reinforcing phenomena that lead some regions to become productivity powerhouses and others to fall behind, while just under a third think that the differences are due to fundamental factors such as education, local infrastructure, or poor transportation links across regions. The productivity gaps should be addressed with a combination of public investments, incentives for private investment, and investments in skills and education.",
           "link": "https://voxeu.org/article/levelling-productivity-gaps-uk",
           "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3006,
           "title": "Levelling up productivity gaps in the UK",
           "imageUrl": null
         },
@@ -511,7 +521,7 @@
           "description": "Although transport costs have decreased substantially over the past two centuries, they are still far from negligible. This column argues that in addition to standard ad-valorem transport costs, there is an important role for additive costs in trade models. The authors estimate that over the period 1974 to 2019, additive costs represented between 35% (in air transport) and 45% (in vessel) of total transport costs. Furthermore, accounting for additive transport costs helps characterise the downward trend in total transport costs since the 1970s and suggests that the gains from trade over the period have been larger than generally assumed.",
           "link": "https://voxeu.org/article/gains-trade-international-transport-costs-still-matter",
           "publishedOn": "2022-07-19T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2740,
           "title": "Gains from trade: International transport costs still matter",
           "imageUrl": null
         },
@@ -521,7 +531,7 @@
           "description": "Many regions in Europe are stuck in a development trap and face significant structural challenges in retrieving past dynamism or improving prosperity for their residents. This column conceptualises what constitutes a development trap at a regional level in Europe and identifies which regions have been trapped or at risk of becoming trapped in recent years. Regional development traps can arise at many different levels of income. Springing these traps would improve overall European competitiveness and help quell the discontent and resentment of citizens living in these areas.",
           "link": "https://voxeu.org/article/regional-development-trap-europe",
           "publishedOn": "2022-07-19T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2473,
           "title": "The regional development trap in Europe",
           "imageUrl": null
         },
