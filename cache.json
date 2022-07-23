@@ -441,7 +441,7 @@
           "description": "Committees are often tasked with key decision making, yet a committee is not a singular unit but a group of individuals. This column provides a framework to assess the effect of making public individual votes in committees where members differ in competence and bias, and are concerned about external perceptions of their competence. While public voting attenuates the potential biases of competent members, secret voting attenuates the potential biases of incompetent members. Hence, transparency leads to better decisions when members are highly influenced by ideological or self-interested motives, and secret voting performs better otherwise.",
           "link": "https://voxeu.org/article/public-versus-secret-voting-committees",
           "publishedOn": "2022-07-23T00:00:00.000Z",
-          "wordCount": 2825,
+          "wordCount": null,
           "title": "Public versus secret voting in committees",
           "imageUrl": null
         },
@@ -471,18 +471,8 @@
           "description": "Carbon pricing, in the form of carbon taxes and emissions trading systems, is increasingly a centrepiece of countries’ emissions reductions strategies, but policymakers face a bewildering array of options and considerations. Getting the design basics right is critical, and entails ensuring pricing is robust in level and coverage, practical in administration, and addresses fiscal, distributional, and political economy objectives. This column discusses key design issues and to what extent they can be addressed under carbon taxes and emissions trading systems.",
           "link": "https://voxeu.org/article/how-design-carbon-pricing-schemes",
           "publishedOn": "2022-07-22T00:00:00.000Z",
-          "wordCount": 2542,
+          "wordCount": null,
           "title": "How to design carbon pricing schemes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/optimal-inflation-target-views-600-economists",
-          "author": "Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen",
-          "description": "A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.",
-          "link": "https://voxeu.org/article/optimal-inflation-target-views-600-economists",
-          "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": 2882,
-          "title": "The optimal inflation target: Views from 600 economists",
           "imageUrl": null
         },
         {
@@ -503,6 +493,16 @@
           "publishedOn": "2022-07-21T00:00:00.000Z",
           "wordCount": null,
           "title": "Is climate change affecting your investment?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://voxeu.org/article/optimal-inflation-target-views-600-economists",
+          "author": "Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen",
+          "description": "A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.",
+          "link": "https://voxeu.org/article/optimal-inflation-target-views-600-economists",
+          "publishedOn": "2022-07-21T00:00:00.000Z",
+          "wordCount": 2882,
+          "title": "The optimal inflation target: Views from 600 economists",
           "imageUrl": null
         },
         {
