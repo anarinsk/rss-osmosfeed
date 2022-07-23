@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-23T06:02:37.426Z</id>
+    <id>urn:2022-07-23T09:02:52.958Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-23T06:02:37.426Z</updated>
+    <updated>2022-07-23T09:02:52.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -121,6 +121,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The optimal inflation target: Views from 600 economists]]></title>
+        <id>https://voxeu.org/article/optimal-inflation-target-views-600-economists</id>
+        <link href="https://voxeu.org/article/optimal-inflation-target-views-600-economists"/>
+        <updated>2022-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.]]></summary>
+        <author>
+            <name>Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The end of the crypto-diversification myth]]></title>
         <id>https://voxeu.org/article/end-crypto-diversification-myth</id>
         <link href="https://voxeu.org/article/end-crypto-diversification-myth"/>
@@ -138,16 +148,6 @@
         <summary type="html"><![CDATA[How are carbon emissions affecting market valuations of listed companies? Interviewed at the CEPR’s June 2022 Paris Symposium, Patrick Bolton compares stock returns and carbon emissions of companies in the time period between 2005-2018 and finds investors in all sectors are already integrating risks associated with the carbon transition into their investments.]]></summary>
         <author>
             <name>Patrick Bolton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The optimal inflation target: Views from 600 economists]]></title>
-        <id>https://voxeu.org/article/optimal-inflation-target-views-600-economists</id>
-        <link href="https://voxeu.org/article/optimal-inflation-target-views-600-economists"/>
-        <updated>2022-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A key question for any inflation-targeting framework is what the inflation target should be. This column reports findings from a survey of leading economists from around the world on the inflation target and related monetary policy issues. Overall, there was a strong preference for the status quo, with participants seeming to perceive high costs in terms of credibility from changing the current inflation target. However, participants concerned about the zero lower bound on the nominal interest rate were more likely to favour raising the target.]]></summary>
-        <author>
-            <name>Gene Ambrocio, Andrea Ferrero, Esa Jokivuolle, Kim Ristolainen</name>
         </author>
     </entry>
     <entry>
