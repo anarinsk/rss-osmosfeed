@@ -426,6 +426,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/crime-effect-refugees",
+          "author": "Mevlude Akbulut-Yuksel, Naci  Mocan, Semih  Tumen, Belgi  Turan",
+          "description": "The impact of refugees on socioeconomic outcomes in destination countries, including crime, can be significant. This column finds that the increase in the refugee population in Turkey led to an increase in the incidence of crime of between 2% and 4.75% per year, correspondsingto about 75,000-150,000 additional crimes per year. These results highlight the need to strengthen the social safety systems, take actions to counter the impact on the labour market, and provide support to the criminal justice system to mitigate the repercussions of massive refugee inflows.",
+          "link": "https://voxeu.org/article/crime-effect-refugees",
+          "publishedOn": "2022-07-24T00:00:00.000Z",
+          "wordCount": 2923,
+          "title": "The crime effect of refugees",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/winter-coming-energy-policy-towards-russia",
           "author": "Philippe Martin, Beatrice Weder di Mauro",
           "description": "The EU's response to Russia’s invasion of Ukraine has been divided on energy, which may pose challenges for European unity. This column discusses several proposals to make sanctions more effective and cheaper for European households and firms. It argues that a temporary import tariff on Russian oil along with a price cap on Russian gas would be an effective and feasible option. The import tariff would promote substitution to alternative sources, while the price cap would remove the high uncertainty about future price spikes. To get through the winter, common energy buying, saving, and sharing arrangements need to be agreed and tested now.",
@@ -491,7 +501,7 @@
           "description": "How are carbon emissions affecting market valuations of listed companies? Interviewed at the CEPR’s June 2022 Paris Symposium, Patrick Bolton compares stock returns and carbon emissions of companies in the time period between 2005-2018 and finds investors in all sectors are already integrating risks associated with the carbon transition into their investments.",
           "link": "https://voxeu.org/content/climate-change-affecting-your-investment",
           "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": 787,
+          "wordCount": null,
           "title": "Is climate change affecting your investment?",
           "imageUrl": null
         },
@@ -513,16 +523,6 @@
           "publishedOn": "2022-07-20T00:00:00.000Z",
           "wordCount": 859,
           "title": "The global real interest rate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/levelling-productivity-gaps-uk",
-          "author": "Ethan Ilzetzki",
-          "description": "There are significant regional disparities in productivity levels across the UK. The June 2022 CfM survey asked the members of its UK panel to evaluate the reasons for these disparities and policies that might close the gaps. A majority of the panel believe that the productivity differences are attributable to either agglomeration effects or sorting, self-reinforcing phenomena that lead some regions to become productivity powerhouses and others to fall behind, while just under a third think that the differences are due to fundamental factors such as education, local infrastructure, or poor transportation links across regions. The productivity gaps should be addressed with a combination of public investments, incentives for private investment, and investments in skills and education.",
-          "link": "https://voxeu.org/article/levelling-productivity-gaps-uk",
-          "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 3015,
-          "title": "Levelling up productivity gaps in the UK",
           "imageUrl": null
         }
       ]

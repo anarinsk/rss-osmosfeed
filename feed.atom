@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-24T03:31:35.849Z</id>
+    <id>urn:2022-07-24T06:03:09.657Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-24T03:31:35.849Z</updated>
+    <updated>2022-07-24T06:03:09.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The crime effect of refugees]]></title>
+        <id>https://voxeu.org/article/crime-effect-refugees</id>
+        <link href="https://voxeu.org/article/crime-effect-refugees"/>
+        <updated>2022-07-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The impact of refugees on socioeconomic outcomes in destination countries, including crime, can be significant. This column finds that the increase in the refugee population in Turkey led to an increase in the incidence of crime of between 2% and 4.75% per year, correspondsingto about 75,000-150,000 additional crimes per year. These results highlight the need to strengthen the social safety systems, take actions to counter the impact on the labour market, and provide support to the criminal justice system to mitigate the repercussions of massive refugee inflows.]]></summary>
+        <author>
+            <name>Mevlude Akbulut-Yuksel, Naci  Mocan, Semih  Tumen, Belgi  Turan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winter is coming: Energy policy towards Russia]]></title>
         <id>https://voxeu.org/article/winter-coming-energy-policy-towards-russia</id>
@@ -382,16 +392,6 @@ ____4.5.3. Sentence Order Prediction(SOP) ...
         <summary type="html"><![CDATA[Global real rates are stuck at a low level, and until recently policy rates everywhere were effectively zero. Can we use historical data to explain why this happened, and to predict whether we will be back at the ZLB when inflation falls? Pierre-Olivier Gourinchas and Ricardo Reis talk to Tim Phillips.]]></summary>
         <author>
             <name>Pierre-Olivier Gourinchas, Ricardo Reis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levelling up productivity gaps in the UK]]></title>
-        <id>https://voxeu.org/article/levelling-productivity-gaps-uk</id>
-        <link href="https://voxeu.org/article/levelling-productivity-gaps-uk"/>
-        <updated>2022-07-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are significant regional disparities in productivity levels across the UK. The June 2022 CfM survey asked the members of its UK panel to evaluate the reasons for these disparities and policies that might close the gaps. A majority of the panel believe that the productivity differences are attributable to either agglomeration effects or sorting, self-reinforcing phenomena that lead some regions to become productivity powerhouses and others to fall behind, while just under a third think that the differences are due to fundamental factors such as education, local infrastructure, or poor transportation links across regions. The productivity gaps should be addressed with a combination of public investments, incentives for private investment, and investments in skills and education.]]></summary>
-        <author>
-            <name>Ethan Ilzetzki</name>
         </author>
     </entry>
     <entry>
