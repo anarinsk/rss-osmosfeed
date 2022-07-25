@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-24T21:03:09.515Z</id>
+    <id>urn:2022-07-25T00:10:13.280Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-24T21:03:09.515Z</updated>
+    <updated>2022-07-25T00:10:13.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ruble payments: Shielding the ruble from financial sanctions]]></title>
+        <id>https://voxeu.org/article/ruble-payments-shielding-ruble-financial-sanctions</id>
+        <link href="https://voxeu.org/article/ruble-payments-shielding-ruble-financial-sanctions"/>
+        <updated>2022-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There has been much debate over the intentions behind Russia’s March 2022 Presential Decree requiring gas importers to settle gas payments in rubles. This column argues that the scheme is intended to protect the Moscow Stock Exchange from financial sanctions. The decree requires not only that gas payments are settled in rubles, but also that the rubles are obtained on the exchange, making it indispensable to the transactions. This prevents the exchange being placed under sanctions without gas supplies being cut off. This demonstrates the development of not only sanctions, but also sanction defences, that exploit interdependencies between countries.]]></summary>
+        <author>
+            <name>Michele Savini Zangrandi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Ukraine’s private consumption during the war]]></title>
+        <id>https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war</id>
+        <link href="https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war"/>
+        <updated>2022-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Russia’s invasion continues to ravage many parts Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.]]></summary>
+        <author>
+            <name>Oleksiy Blinov, Simeon Djankov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The crime effect of refugees]]></title>
         <id>https://voxeu.org/article/crime-effect-refugees</id>
@@ -273,16 +293,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The end of the crypto-diversification myth]]></title>
-        <id>https://voxeu.org/article/end-crypto-diversification-myth</id>
-        <link href="https://voxeu.org/article/end-crypto-diversification-myth"/>
-        <updated>2022-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.]]></summary>
-        <author>
-            <name>Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is climate change affecting your investment?]]></title>
         <id>https://voxeu.org/content/climate-change-affecting-your-investment</id>
         <link href="https://voxeu.org/content/climate-change-affecting-your-investment"/>
@@ -382,16 +392,6 @@ ____4.5.3. Sentence Order Prediction(SOP) ...
 국내도서 > 컴퓨터/모바일 > 컴퓨터 공학 > 데이터베이스 개론]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The global real interest rate]]></title>
-        <id>https://voxeu.org/vox-talks/global-real-interest-rate</id>
-        <link href="https://voxeu.org/vox-talks/global-real-interest-rate"/>
-        <updated>2022-07-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Global real rates are stuck at a low level, and until recently policy rates everywhere were effectively zero. Can we use historical data to explain why this happened, and to predict whether we will be back at the ZLB when inflation falls? Pierre-Olivier Gourinchas and Ricardo Reis talk to Tim Phillips.]]></summary>
-        <author>
-            <name>Pierre-Olivier Gourinchas, Ricardo Reis</name>
         </author>
     </entry>
     <entry>
