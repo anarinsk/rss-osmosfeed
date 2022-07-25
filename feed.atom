@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-25T15:03:06.205Z</id>
+    <id>urn:2022-07-25T18:03:08.399Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-25T15:03:06.205Z</updated>
+    <updated>2022-07-25T18:03:08.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -40,7 +40,7 @@
         <id>https://voxeu.org/article/crime-effect-refugees</id>
         <link href="https://voxeu.org/article/crime-effect-refugees"/>
         <updated>2022-07-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The impact of refugees on socioeconomic outcomes in destination countries, including crime, can be significant. This column finds that the increase in the refugee population in Turkey led to an increase in the incidence of crime of between 2% and 4.75% per year, correspondsingto about 75,000-150,000 additional crimes per year. These results highlight the need to strengthen the social safety systems, take actions to counter the impact on the labour market, and provide support to the criminal justice system to mitigate the repercussions of massive refugee inflows.]]></summary>
+        <summary type="html"><![CDATA[The impact of refugees on socioeconomic outcomes in destination countries, including crime, can be significant. This column finds that the increase in the refugee population in Turkey led to an increase in the incidence of crime of between 2% and 4.75% per year, correspondsing to about 75,000-150,000 additional crimes per year. These results highlight the need to strengthen the social safety systems, take actions to counter the impact on the labour market, and provide support to the criminal justice system to mitigate the repercussions of massive refugee inflows.]]></summary>
         <author>
             <name>Mevlude Akbulut-Yuksel, Naci  Mocan, Semih  Tumen, Belgi  Turan</name>
         </author>
@@ -218,16 +218,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Social media and mental health]]></title>
-        <id>https://voxeu.org/article/social-media-and-mental-health</id>
-        <link href="https://voxeu.org/article/social-media-and-mental-health"/>
-        <updated>2022-07-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the last two decades, the mental health of adolescents and young adults in many countries has worsened considerably. This column looks at the role that social media has played in this, focusing on Facebook. Using the gradual expansion of the website across US colleges as a natural experiment, the authors find that students were more likely to report that mental health issues negatively affected their academic performance after Facebook was introduced at their college, with evidence suggesting that the effects operated through unfavourable social comparison.]]></summary>
-        <author>
-            <name>Luca Braghieri, Ro'ee Levy,  Alexey Makarin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to design carbon pricing schemes]]></title>
         <id>https://voxeu.org/article/how-design-carbon-pricing-schemes</id>
         <link href="https://voxeu.org/article/how-design-carbon-pricing-schemes"/>
@@ -235,6 +225,16 @@
         <summary type="html"><![CDATA[Carbon pricing, in the form of carbon taxes and emissions trading systems, is increasingly a centrepiece of countries’ emissions reductions strategies, but policymakers face a bewildering array of options and considerations. Getting the design basics right is critical, and entails ensuring pricing is robust in level and coverage, practical in administration, and addresses fiscal, distributional, and political economy objectives. This column discusses key design issues and to what extent they can be addressed under carbon taxes and emissions trading systems.]]></summary>
         <author>
             <name>Ian Parry, Simon Black, Karlygash Zhunussova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social media and mental health]]></title>
+        <id>https://voxeu.org/article/social-media-and-mental-health</id>
+        <link href="https://voxeu.org/article/social-media-and-mental-health"/>
+        <updated>2022-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the last two decades, the mental health of adolescents and young adults in many countries has worsened considerably. This column looks at the role that social media has played in this, focusing on Facebook. Using the gradual expansion of the website across US colleges as a natural experiment, the authors find that students were more likely to report that mental health issues negatively affected their academic performance after Facebook was introduced at their college, with evidence suggesting that the effects operated through unfavourable social comparison.]]></summary>
+        <author>
+            <name>Luca Braghieri, Ro'ee Levy,  Alexey Makarin</name>
         </author>
     </entry>
     <entry>

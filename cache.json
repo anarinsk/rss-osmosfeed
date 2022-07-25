@@ -441,7 +441,7 @@
           "description": "As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.",
           "link": "https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war",
           "publishedOn": "2022-07-25T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2734,
           "title": "Measuring Ukraine’s private consumption during the war",
           "imageUrl": null
         },
@@ -458,7 +458,7 @@
         {
           "id": "https://voxeu.org/article/crime-effect-refugees",
           "author": "Mevlude Akbulut-Yuksel, Naci  Mocan, Semih  Tumen, Belgi  Turan",
-          "description": "The impact of refugees on socioeconomic outcomes in destination countries, including crime, can be significant. This column finds that the increase in the refugee population in Turkey led to an increase in the incidence of crime of between 2% and 4.75% per year, correspondsingto about 75,000-150,000 additional crimes per year. These results highlight the need to strengthen the social safety systems, take actions to counter the impact on the labour market, and provide support to the criminal justice system to mitigate the repercussions of massive refugee inflows.",
+          "description": "The impact of refugees on socioeconomic outcomes in destination countries, including crime, can be significant. This column finds that the increase in the refugee population in Turkey led to an increase in the incidence of crime of between 2% and 4.75% per year, correspondsing to about 75,000-150,000 additional crimes per year. These results highlight the need to strengthen the social safety systems, take actions to counter the impact on the labour market, and provide support to the criminal justice system to mitigate the repercussions of massive refugee inflows.",
           "link": "https://voxeu.org/article/crime-effect-refugees",
           "publishedOn": "2022-07-24T00:00:00.000Z",
           "wordCount": 2917,
@@ -481,7 +481,7 @@
           "description": "Committees are often tasked with key decision making, yet a committee is not a singular unit but a group of individuals. This column provides a framework to assess the effect of making public individual votes in committees where members differ in competence and bias, and are concerned about external perceptions of their competence. While public voting attenuates the potential biases of competent members, secret voting attenuates the potential biases of incompetent members. Hence, transparency leads to better decisions when members are highly influenced by ideological or self-interested motives, and secret voting performs better otherwise.",
           "link": "https://voxeu.org/article/public-versus-secret-voting-committees",
           "publishedOn": "2022-07-23T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2827,
           "title": "Public versus secret voting in committees",
           "imageUrl": null
         },
@@ -491,18 +491,8 @@
           "description": "Russia’s invasion of Ukraine in February 2022 has provoked wide-ranging financial and economic sanctions from the US, Europe, and various other countries worldwide. This column assesses the economic effects of almost two decades of earlier sanctions on Russian firms to shed light on the impacts of this new wave of sanctions. Sanctions adversely affect firm performance in general, yet there is no clear impact on energy and oligarch-related firms. Evidence of preparedness for sanctions by these firms during the Crimea event in 2014 suggests one mechanism by which the impact of sanctions may be muted.",
           "link": "https://voxeu.org/article/impact-foreign-sanctions-firm-performance-russia",
           "publishedOn": "2022-07-22T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2601,
           "title": "The impact of foreign sanctions on firm performance in Russia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/social-media-and-mental-health",
-          "author": "Luca Braghieri, Ro'ee Levy,  Alexey Makarin",
-          "description": "Over the last two decades, the mental health of adolescents and young adults in many countries has worsened considerably. This column looks at the role that social media has played in this, focusing on Facebook. Using the gradual expansion of the website across US colleges as a natural experiment, the authors find that students were more likely to report that mental health issues negatively affected their academic performance after Facebook was introduced at their college, with evidence suggesting that the effects operated through unfavourable social comparison.",
-          "link": "https://voxeu.org/article/social-media-and-mental-health",
-          "publishedOn": "2022-07-22T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Social media and mental health",
           "imageUrl": null
         },
         {
@@ -516,12 +506,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/social-media-and-mental-health",
+          "author": "Luca Braghieri, Ro'ee Levy,  Alexey Makarin",
+          "description": "Over the last two decades, the mental health of adolescents and young adults in many countries has worsened considerably. This column looks at the role that social media has played in this, focusing on Facebook. Using the gradual expansion of the website across US colleges as a natural experiment, the authors find that students were more likely to report that mental health issues negatively affected their academic performance after Facebook was introduced at their college, with evidence suggesting that the effects operated through unfavourable social comparison.",
+          "link": "https://voxeu.org/article/social-media-and-mental-health",
+          "publishedOn": "2022-07-22T00:00:00.000Z",
+          "wordCount": 2901,
+          "title": "Social media and mental health",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/end-crypto-diversification-myth",
           "author": "Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza",
           "description": "Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.",
           "link": "https://voxeu.org/article/end-crypto-diversification-myth",
           "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2270,
           "title": "The end of the crypto-diversification myth",
           "imageUrl": null
         }
