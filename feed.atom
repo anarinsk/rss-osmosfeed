@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-25T21:02:42.782Z</id>
+    <id>urn:2022-07-26T00:07:35.552Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-25T21:02:42.782Z</updated>
+    <updated>2022-07-26T00:07:35.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Parsing disagreement about future short-term interest rates]]></title>
+        <id>https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates</id>
+        <link href="https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates"/>
+        <updated>2022-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Disagreement over future nominal interest rates is currently high, creating challenges for central banks. This column argues that the real neutral rate of interest has a slow-moving, long-run component as well as a short-run component. The long-run ‘natural rate’ is determined by demographic characteristics and income inequality, while the short-run ‘neutral rate’ can be affected by transitory economic shocks. In the current environment, the distinction might be important to explain part of the disagreement about future nominal short-term interest rates.]]></summary>
+        <author>
+            <name>Jesper  Lindé, Josef Platzer, Robin Tietz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The long-run labour market effects of the Canada–US Free Trade Agreement]]></title>
+        <id>https://voxeu.org/article/long-run-labour-market-effects-canada-us-free-trade-agreement</id>
+        <link href="https://voxeu.org/article/long-run-labour-market-effects-canada-us-free-trade-agreement"/>
+        <updated>2022-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Increased import competition has been found to depress labour market outcomes, leading to pessimism that classic gains from trade are worth the accompanying labour market disruptions. This column examines the effect of the 1989 Canada-US Free Trade Agreement. While Canadian workers suffered short-run displacement and earnings losses in response to increased import competition, long-run labour market outcomes, such as years worked and cumulative earnings, were largely unaffected. Canadian workers in industries that obtained increased access to US markets experienced short-run gains, but these effects had largely disappeared by 2004.]]></summary>
+        <author>
+            <name>Brian Kovak, Peter Morrow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ruble payments: Shielding the ruble from financial sanctions]]></title>
         <id>https://voxeu.org/article/ruble-payments-shielding-ruble-financial-sanctions</id>
@@ -218,16 +238,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to design carbon pricing schemes]]></title>
-        <id>https://voxeu.org/article/how-design-carbon-pricing-schemes</id>
-        <link href="https://voxeu.org/article/how-design-carbon-pricing-schemes"/>
-        <updated>2022-07-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Carbon pricing, in the form of carbon taxes and emissions trading systems, is increasingly a centrepiece of countries’ emissions reductions strategies, but policymakers face a bewildering array of options and considerations. Getting the design basics right is critical, and entails ensuring pricing is robust in level and coverage, practical in administration, and addresses fiscal, distributional, and political economy objectives. This column discusses key design issues and to what extent they can be addressed under carbon taxes and emissions trading systems.]]></summary>
-        <author>
-            <name>Ian Parry, Simon Black, Karlygash Zhunussova</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Social media and mental health]]></title>
         <id>https://voxeu.org/article/social-media-and-mental-health</id>
         <link href="https://voxeu.org/article/social-media-and-mental-health"/>
@@ -300,16 +310,6 @@
 국내도서 > 대학교재/전문서적 > 생활환경계열 > 식품영양학/조리]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The end of the crypto-diversification myth]]></title>
-        <id>https://voxeu.org/article/end-crypto-diversification-myth</id>
-        <link href="https://voxeu.org/article/end-crypto-diversification-myth"/>
-        <updated>2022-07-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the onset of the Covid-19 crisis in 2020, the correlation between cryptocurrency and equities went from low and negative to consistently high and positive. This column proposes a new mechanism to explain this new relationship. With investor-level holdings from a bank offering both trading accounts and cryptocurrency wallets, it shows that retail investors’ net trading volumes of stocks and cryptocurrencies are highly positively correlated. Theoretically, this micro-level pattern translates into a cross-asset class correlation. Evidence suggests that the pattern emerged in March 2020, and that stocks preferred by crypto-traders exhibit a stronger correlation with Bitcoin.]]></summary>
-        <author>
-            <name>Antoine  Didisheim, Serge  Kassibrakis, Luciano Somoza</name>
         </author>
     </entry>
     <entry>
@@ -1008,9 +1008,16 @@ Section 02. AWS EC2 인스턴스 보안 취약점 검사
 
 
 
-13년 넘게 이어진 초저금리와 대유동성 시대가 드디어 마감했다. 새로운 경제 사이클이 시작되고, 세계 각국은 경제 침체에 대한 대응책을 세우느라 바쁘다. 그렇다면 앞으로 한국 경제는 어떻게 될까? 이 책은 대한민국 대표 경제 전문가 선대인 소장이 2009년『위험한 경제학』, 2012년『문제는 경제다』 이후 10년 만에 내놓은 본격 한국 경제 전망서이다.
+오랜 시간 이어진 초저금리와 대유동성 시대가 드디어 마감했다. 새로운 경제 사이클이 시작되고, 세계 각국은 경기 하락에 대한 대응책을 세우느라 바쁘다. 그렇다면 앞으로 한국 경제는 어떻게 될까? 이 책은 대한민국 대표 경제 전문가 선대인 소장이 2009년『위험한 경제학』, 2012년『문제는 경제다』 이후 10년 만에 내놓은 본격 경제 전망서이다.
 
-1부. 인플레이션 시대의 시나리오
+인플레이션 시기에 어떤 자산이 살아남을까? 일본과 한국의 부동산 불황은 어떻게 다를까? 인구구조의 변화가 주는 충격은 언제부터 시작될까? 등 뉴사이클 시대를 이해하는 데 꼭 필요한 질문들. 한국 경제를 폭넓게 다루는 안목과 수많은 데이터에서 추출해 낸 70여 개의 자료를 바탕으로, 인플레와 금리, 부채, 부동산, 산업과 투자라는 4가지 분야를 전방위적으로 다룬다. 
+
+4,000여 명의 선대인경제연구소 회원들이 입증하고, 대한민국 경제 고수들이 앞다투어 추천하는 책. 뉴사이클 시대를 살아가야 하는 이들이라면 이 책부터 읽고 시작하자. 위기는 제대로 견뎌내고, 불황 속에 찾아올 절호의 찬스를 놓치지 말자. 당신의 생존을 좌우할 디테일한 전략들을 만나보자.
+
+추천의 말
+저자의 말
+
+1부. 인플레이션 시대가 오다
 
 1장. 초저금리와 대유동성 시대의 종말
 	13년의 시기가 끝나다
@@ -1020,27 +1027,28 @@ Section 02. AWS EC2 인스턴스 보안 취약점 검사
 
 2장. 엎친 데 덮친 격 : 인플레이션 촉발 요인
 	엎친 데 덮친 격 1. 코로나 유동성 폭격
-	채찍 효과와 돼지 사이클로 인플레이션 이해하기
+	채찍 효과와 돼지 사이클
 	엎친 데 덮친 격 2. 공급망 교란과 재편
 	엎친 데 덮친 격 3. 세계화의 쇠퇴와 거세지는 미중 경제 블록화
-	엎친 데 덮친 격 4. 러시아-우크라이나 전쟁이 불러온 에너지 지정학의 재편
+	엎친 데 덮친 격 4. 러시아-우크라이나 전쟁과 에너지 지정학
 	글로벌 공급망 위기, 얼마나 지속될까
 
 3장. 미국 인플레이션, 앞으로의 시나리오는
-	물가 상승률, 둔화될 수 있을까
+	물가 상승률, 잡을 수 있을까
 	4단계 물가 전망과 4가지 금리 인상 시나리오
 	글로벌 경기 침체는 올 것인가
 
-4장. 한국은 어떻게 움직이게 될까
+4장. 한국은 어떻게 움직일까
 	2008년 금융위기가 반복될까
-	한국이 보지 못하는 ‘회색 코뿔소’의 위험
+	‘회색 코뿔소’의 위험
+	경제 하강기, 기회는 어디에 있나
 
-2부. 부채 대국에서 살아남기
+2부. 부채 대국에서 살아가기
 
 1장. 부채 대국의 풍경
 	풍경 1. 서울 거주 직장인은 어떻게 30여 채의 집을 가지게 되었나
 	풍경 2. 갭 투기와 영끌족의 실체
-	풍경 3. 공포에 질려 청약에 들어간 세대들
+	풍경 3. 공포에 질려 청약을 넣다
 	풍경 4. 부모 세대와 자식 세대, 전 가구에 돌아올 ‘부채의 복수'
 
 2장. 대한민국 가계부채 대해부
@@ -1049,24 +1057,26 @@ Section 02. AWS EC2 인스턴스 보안 취약점 검사
 	가계부채, 보이는 것 이상을 보라
 	갭 투기 집주인을 조심해야
 
-3장. 거대 부채가 있어도 경제가 잘 돌아갈까
+3장. 빚이 있어도 경제가 잘 돌아갈까
 	한국의 가계부채가 초래할 경제적 후폭풍
-	대한민국 빚 증가의 역사
+	대한민국 빚의 역사
 	소득 주도 성장 vs 부채 주도 성장
 	부채 폭증 원인 1. 코로나 시기 유동성 과잉 
 	부채 폭증 원인 2. 실패한 재정 정책
 	부채 폭증 원인 3. 대출 구조와 후분양제
 	능력 있으면 빚이 있어도 되나?
-	앞으로 개인들은 어떻게 해야 하나
+	가계부채 문제, 어떻게 해야 하나
 
 3부. 부동산 공화국은 어디로
 
 1장. 한국은 일본의 길을 갈까
 	풍경 1. 플라자 합의와 일본 경제의 파산
 	풍경 2. 코로나 폭등기 한국 
- 	주택시장 사이클은 어디까지 와 있나
+ 	주택시장 사이클은 어디에 와 있나
 
 2장. 부동산은 어떤 수준인가
+	집값은 왜 ...
+
 국내도서 > 경제경영 > 경제학/경제일반 > 경제사/경제전망 > 한국 경제사/경제전망]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
@@ -2749,6 +2759,42 @@ Chapter 06 중요한 특성 사용하기
 
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 프로그래밍 언어 기타
 국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 프로그래밍 기초/개발 방법론]]></summary>
+        <author>
+            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고등학생과 풀어보면서 배우는 C++/J 지음/부크크(bookk)]]></title>
+        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=297220964</id>
+        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=297220964"/>
+        <updated>2022-06-29T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[고등학생과 풀어보면서 배우는 C++
+J 지음 / 부크크(bookk) / 2022년 06월 / ISBN:9791137285569
+정가: 7,500원 / 판매가: 7,500원 / 마일리지: 0원
+이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치
+
+
+
+
+작가의 말
+문제1 Hello, world! 출력하기(C++ 기초, 출력문)
+문제2 삼각형 넓이 구하기(입력문, 변수, 연산자)
+문제3 Hello, world! 100번 출력하기(반복문)
+문제4 화장실 봇 만들기(조건문)
+문제5 Hello, world! x번 출력하기(함수)
+문제6 주사위 게임 만들기(난수)
+문제7 숫자 정렬하기(배열)
+문제8 괄호검사 하기(STL)
+문제9 속력 왕 결승전(클래스)
+
+
+부록
+이스케이프
+연산자
+C++의 지옥이자 꽃 포인터
+
+
+국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > C++]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
