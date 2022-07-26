@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-26T09:03:02.789Z</id>
+    <id>urn:2022-07-26T12:03:43.895Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-26T09:03:02.789Z</updated>
+    <updated>2022-07-26T12:03:43.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Parsing disagreement about future short-term interest rates]]></title>
-        <id>https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates</id>
-        <link href="https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates"/>
-        <updated>2022-07-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Disagreement over future nominal interest rates is currently high, creating challenges for central banks. This column argues that the real neutral rate of interest has a slow-moving, long-run component as well as a short-run component. The long-run ‘natural rate’ is determined by demographic characteristics and income inequality, while the short-run ‘neutral rate’ can be affected by transitory economic shocks. In the current environment, the distinction might be important to explain part of the disagreement about future nominal short-term interest rates.]]></summary>
-        <author>
-            <name>Jesper  Lindé, Josef Platzer, Robin Tietz</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The long-run labour market effects of the Canada–US Free Trade Agreement]]></title>
         <id>https://voxeu.org/article/long-run-labour-market-effects-canada-us-free-trade-agreement</id>
@@ -26,13 +16,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Ukraine’s private consumption during the war]]></title>
-        <id>https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war</id>
-        <link href="https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war"/>
-        <updated>2022-07-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.]]></summary>
+        <title type="html"><![CDATA[Parsing disagreement about future short-term interest rates]]></title>
+        <id>https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates</id>
+        <link href="https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates"/>
+        <updated>2022-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Disagreement over future nominal interest rates is currently high, creating challenges for central banks. This column argues that the real neutral rate of interest has a slow-moving, long-run component as well as a short-run component. The long-run ‘natural rate’ is determined by demographic characteristics and income inequality, while the short-run ‘neutral rate’ can be affected by transitory economic shocks. In the current environment, the distinction might be important to explain part of the disagreement about future nominal short-term interest rates.]]></summary>
         <author>
-            <name>Oleksiy Blinov, Simeon Djankov</name>
+            <name>Jesper  Lindé, Josef Platzer, Robin Tietz</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +33,16 @@
         <summary type="html"><![CDATA[There has been much debate over the intentions behind Russia’s March 2022 Presential Decree requiring gas importers to settle gas payments in rubles. This column argues that the scheme is intended to protect the Moscow Stock Exchange from financial sanctions. The decree requires not only that gas payments are settled in rubles, but also that the rubles are obtained on the exchange, making it indispensable to the transactions. This prevents the exchange being placed under sanctions without gas supplies being cut off. This demonstrates the development of not only sanctions, but also sanction defences, that exploit interdependencies between countries.]]></summary>
         <author>
             <name>Michele Savini Zangrandi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Ukraine’s private consumption during the war]]></title>
+        <id>https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war</id>
+        <link href="https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war"/>
+        <updated>2022-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.]]></summary>
+        <author>
+            <name>Oleksiy Blinov, Simeon Djankov</name>
         </author>
     </entry>
     <entry>
