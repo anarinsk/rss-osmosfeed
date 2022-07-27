@@ -426,6 +426,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/vox-talks/distracted-donors-and-political-violence",
+          "author": "Dominic Rohner",
+          "description": "When aid donors are distracted by domestic concerns, do aid recipients take advantage to suppress political opposition? Data from Africa suggest that they do, Dominic Rohner tells Tim Phillips.",
+          "link": "https://voxeu.org/vox-talks/distracted-donors-and-political-violence",
+          "publishedOn": "2022-07-27T00:00:00.000Z",
+          "wordCount": 812,
+          "title": "Distracted donors and political violence",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed",
           "author": "Hans Koster, Jos van Ommeren",
           "description": "Recently, a range of countries have introduced laws prohibiting disadvantaged individuals from moving into public housing in specific areas, for example because they are unemployed or have too low an income, in an attempt to avoid the formation of ghettos and unwanted spatial disparities in the standards of living. This column studies one such law in the Netherlands and finds that it has not been effective in attracting households with higher income levels to targeted neighbourhoods. Moreover, it has had significant negative side effects due to the stigma attached to targeted neighbourhoods.",
@@ -466,16 +476,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war",
-          "author": "Oleksiy Blinov, Simeon Djankov",
-          "description": "As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.",
-          "link": "https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war",
-          "publishedOn": "2022-07-25T00:00:00.000Z",
-          "wordCount": 2734,
-          "title": "Measuring Ukraine’s private consumption during the war",
-          "imageUrl": null
-        },
-        {
           "id": "https://voxeu.org/article/ruble-payments-shielding-ruble-financial-sanctions",
           "author": "Michele Savini Zangrandi",
           "description": "There has been much debate over the intentions behind Russia’s March 2022 Presential Decree requiring gas importers to settle gas payments in rubles. This column argues that the scheme is intended to protect the Moscow Stock Exchange from financial sanctions. The decree requires not only that gas payments are settled in rubles, but also that the rubles are obtained on the exchange, making it indispensable to the transactions. This prevents the exchange being placed under sanctions without gas supplies being cut off. This demonstrates the development of not only sanctions, but also sanction defences, that exploit interdependencies between countries.",
@@ -486,12 +486,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war",
+          "author": "Oleksiy Blinov, Simeon Djankov",
+          "description": "As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.",
+          "link": "https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war",
+          "publishedOn": "2022-07-25T00:00:00.000Z",
+          "wordCount": 2734,
+          "title": "Measuring Ukraine’s private consumption during the war",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/content/rise-mobile-tech-and-populism",
           "author": "Sergei Guriev",
           "description": "The rise in populism, seen over the past decades, has reduced citizens’ confidence in governments. During the same time, 3G and 4G internet has become a widely accessible technology. Recorded at the CEPR’s June 2022 Paris Symposium, Sergei Guriev looks at whether mobile broadband internet is a liberation or disinformation technology.",
           "link": "https://voxeu.org/content/rise-mobile-tech-and-populism",
           "publishedOn": "2022-07-25T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 836,
           "title": "Rise in mobile tech and populism",
           "imageUrl": null
         },
@@ -513,16 +523,6 @@
           "publishedOn": "2022-07-23T00:00:00.000Z",
           "wordCount": 2809,
           "title": "Winter is coming: Energy policy towards Russia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/public-versus-secret-voting-committees",
-          "author": "Andrea Mattozzi, Marcos Y. Nakaguma",
-          "description": "Committees are often tasked with key decision making, yet a committee is not a singular unit but a group of individuals. This column provides a framework to assess the effect of making public individual votes in committees where members differ in competence and bias, and are concerned about external perceptions of their competence. While public voting attenuates the potential biases of competent members, secret voting attenuates the potential biases of incompetent members. Hence, transparency leads to better decisions when members are highly influenced by ideological or self-interested motives, and secret voting performs better otherwise.",
-          "link": "https://voxeu.org/article/public-versus-secret-voting-committees",
-          "publishedOn": "2022-07-23T00:00:00.000Z",
-          "wordCount": 2827,
-          "title": "Public versus secret voting in committees",
           "imageUrl": null
         }
       ]

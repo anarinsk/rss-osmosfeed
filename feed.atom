@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-27T06:03:03.201Z</id>
+    <id>urn:2022-07-27T09:03:12.839Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-27T06:03:03.201Z</updated>
+    <updated>2022-07-27T09:03:12.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Distracted donors and political violence]]></title>
+        <id>https://voxeu.org/vox-talks/distracted-donors-and-political-violence</id>
+        <link href="https://voxeu.org/vox-talks/distracted-donors-and-political-violence"/>
+        <updated>2022-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When aid donors are distracted by domestic concerns, do aid recipients take advantage to suppress political opposition? Data from Africa suggest that they do, Dominic Rohner tells Tim Phillips.]]></summary>
+        <author>
+            <name>Dominic Rohner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neighbourhoods won’t be improved by banning the unemployed]]></title>
         <id>https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed</id>
@@ -138,16 +148,6 @@ chapter 2. 블록체인 위에서 펼쳐지는 법률 오디세이
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Ukraine’s private consumption during the war]]></title>
-        <id>https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war</id>
-        <link href="https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war"/>
-        <updated>2022-07-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.]]></summary>
-        <author>
-            <name>Oleksiy Blinov, Simeon Djankov</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ruble payments: Shielding the ruble from financial sanctions]]></title>
         <id>https://voxeu.org/article/ruble-payments-shielding-ruble-financial-sanctions</id>
         <link href="https://voxeu.org/article/ruble-payments-shielding-ruble-financial-sanctions"/>
@@ -155,6 +155,16 @@ chapter 2. 블록체인 위에서 펼쳐지는 법률 오디세이
         <summary type="html"><![CDATA[There has been much debate over the intentions behind Russia’s March 2022 Presential Decree requiring gas importers to settle gas payments in rubles. This column argues that the scheme is intended to protect the Moscow Stock Exchange from financial sanctions. The decree requires not only that gas payments are settled in rubles, but also that the rubles are obtained on the exchange, making it indispensable to the transactions. This prevents the exchange being placed under sanctions without gas supplies being cut off. This demonstrates the development of not only sanctions, but also sanction defences, that exploit interdependencies between countries.]]></summary>
         <author>
             <name>Michele Savini Zangrandi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Ukraine’s private consumption during the war]]></title>
+        <id>https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war</id>
+        <link href="https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war"/>
+        <updated>2022-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.]]></summary>
+        <author>
+            <name>Oleksiy Blinov, Simeon Djankov</name>
         </author>
     </entry>
     <entry>
@@ -185,16 +195,6 @@ chapter 2. 블록체인 위에서 펼쳐지는 법률 오디세이
         <summary type="html"><![CDATA[The EU's response to Russia’s invasion of Ukraine has been divided on energy, which may pose challenges for European unity. This column discusses several proposals to make sanctions more effective and cheaper for European households and firms. It argues that a temporary import tariff on Russian oil along with a price cap on Russian gas would be an effective and feasible option. The import tariff would promote substitution to alternative sources, while the price cap would remove the high uncertainty about future price spikes. To get through the winter, common energy buying, saving, and sharing arrangements need to be agreed and tested now.]]></summary>
         <author>
             <name>Philippe Martin, Beatrice Weder di Mauro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public versus secret voting in committees]]></title>
-        <id>https://voxeu.org/article/public-versus-secret-voting-committees</id>
-        <link href="https://voxeu.org/article/public-versus-secret-voting-committees"/>
-        <updated>2022-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Committees are often tasked with key decision making, yet a committee is not a singular unit but a group of individuals. This column provides a framework to assess the effect of making public individual votes in committees where members differ in competence and bias, and are concerned about external perceptions of their competence. While public voting attenuates the potential biases of competent members, secret voting attenuates the potential biases of incompetent members. Hence, transparency leads to better decisions when members are highly influenced by ideological or self-interested motives, and secret voting performs better otherwise.]]></summary>
-        <author>
-            <name>Andrea Mattozzi, Marcos Y. Nakaguma</name>
         </author>
     </entry>
     <entry>
