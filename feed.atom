@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-28T09:02:39.702Z</id>
+    <id>urn:2022-07-28T12:03:44.013Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-28T09:02:39.702Z</updated>
+    <updated>2022-07-28T12:03:44.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[There is robust evidence that children lost ground academically as a consequence of the pandemic, but less research into how the effects varied by school district and household demographics. Using test data from 2.1 million students across the US, this column finds that remote instruction was a primary driver of widening achievement gaps by race and poverty. The authors argue that low-income districts that taught remotely in 2020-21 will need to spend nearly all of their federal aid on academic recovery to help students recover from pandemic-related achievement losses.]]></summary>
         <author>
             <name>Dan Goldhaber, Thomas  Kane, Andrew McEachin, Emily Morton, Tyler Patterson, Douglas Staiger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[River pollution: Combating cross-border externalities]]></title>
+        <id>https://voxeu.org/article/river-pollution-combating-cross-border-externalities</id>
+        <link href="https://voxeu.org/article/river-pollution-combating-cross-border-externalities"/>
+        <updated>2022-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In order to improve the water quality of the downstream stretch of the Xin’an River, in 2011 China implemented the Ecological Compensation Initiative, a pioneering policy establishing side payments between upstream and downstream provinces. This column shows that the initiative mitigates cross-border externalities by sharply reducing water pollutant emissions by upstream firms and also induces firms to relocate to neighbouring cities. The findings highlight the potential for bilateral compensation for ecosystem services to reduce pollution.]]></summary>
+        <author>
+            <name>Shiyi  Chen, Joshua Graff Zivin, Huanhuan Wang, Jiaxin Xiong</name>
         </author>
     </entry>
     <entry>
@@ -189,16 +199,6 @@ __연습문제
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsing disagreement about future short-term interest rates]]></title>
-        <id>https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates</id>
-        <link href="https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates"/>
-        <updated>2022-07-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Disagreement over future nominal interest rates is currently high, creating challenges for central banks. This column argues that the real neutral rate of interest has a slow-moving, long-run component as well as a short-run component. The long-run ‘natural rate’ is determined by demographic characteristics and income inequality, while the short-run ‘neutral rate’ can be affected by transitory economic shocks. In the current environment, the distinction might be important to explain part of the disagreement about future nominal short-term interest rates.]]></summary>
-        <author>
-            <name>Jesper  Lindé, Josef Platzer, Robin Tietz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The long-run labour market effects of the Canada–US Free Trade Agreement]]></title>
         <id>https://voxeu.org/article/long-run-labour-market-effects-canada-us-free-trade-agreement</id>
         <link href="https://voxeu.org/article/long-run-labour-market-effects-canada-us-free-trade-agreement"/>
@@ -206,6 +206,16 @@ __연습문제
         <summary type="html"><![CDATA[Increased import competition has been found to depress labour market outcomes, leading to pessimism that classic gains from trade are worth the accompanying labour market disruptions. This column examines the effect of the 1989 Canada-US Free Trade Agreement. While Canadian workers suffered short-run displacement and earnings losses in response to increased import competition, long-run labour market outcomes, such as years worked and cumulative earnings, were largely unaffected. Canadian workers in industries that obtained increased access to US markets experienced short-run gains, but these effects had largely disappeared by 2004.]]></summary>
         <author>
             <name>Brian Kovak, Peter Morrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsing disagreement about future short-term interest rates]]></title>
+        <id>https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates</id>
+        <link href="https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates"/>
+        <updated>2022-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Disagreement over future nominal interest rates is currently high, creating challenges for central banks. This column argues that the real neutral rate of interest has a slow-moving, long-run component as well as a short-run component. The long-run ‘natural rate’ is determined by demographic characteristics and income inequality, while the short-run ‘neutral rate’ can be affected by transitory economic shocks. In the current environment, the distinction might be important to explain part of the disagreement about future nominal short-term interest rates.]]></summary>
+        <author>
+            <name>Jesper  Lindé, Josef Platzer, Robin Tietz</name>
         </author>
     </entry>
     <entry>
@@ -301,16 +311,6 @@ chapter 2. 블록체인 위에서 펼쳐지는 법률 오디세이
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Ukraine’s private consumption during the war]]></title>
-        <id>https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war</id>
-        <link href="https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war"/>
-        <updated>2022-07-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.]]></summary>
-        <author>
-            <name>Oleksiy Blinov, Simeon Djankov</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ruble payments: Shielding the ruble from financial sanctions]]></title>
         <id>https://voxeu.org/article/ruble-payments-shielding-ruble-financial-sanctions</id>
         <link href="https://voxeu.org/article/ruble-payments-shielding-ruble-financial-sanctions"/>
@@ -318,6 +318,16 @@ chapter 2. 블록체인 위에서 펼쳐지는 법률 오디세이
         <summary type="html"><![CDATA[There has been much debate over the intentions behind Russia’s March 2022 Presential Decree requiring gas importers to settle gas payments in rubles. This column argues that the scheme is intended to protect the Moscow Stock Exchange from financial sanctions. The decree requires not only that gas payments are settled in rubles, but also that the rubles are obtained on the exchange, making it indispensable to the transactions. This prevents the exchange being placed under sanctions without gas supplies being cut off. This demonstrates the development of not only sanctions, but also sanction defences, that exploit interdependencies between countries.]]></summary>
         <author>
             <name>Michele Savini Zangrandi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Ukraine’s private consumption during the war]]></title>
+        <id>https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war</id>
+        <link href="https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war"/>
+        <updated>2022-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.]]></summary>
+        <author>
+            <name>Oleksiy Blinov, Simeon Djankov</name>
         </author>
     </entry>
     <entry>
