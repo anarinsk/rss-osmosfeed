@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T09:02:57.066Z</id>
+    <id>urn:2022-07-29T12:03:55.511Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-29T09:02:57.066Z</updated>
+    <updated>2022-07-29T12:03:55.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yellow vests and carbon taxes]]></title>
+        <id>https://voxeu.org/vox-talks/yellow-vests-and-carbon-taxes</id>
+        <link href="https://voxeu.org/vox-talks/yellow-vests-and-carbon-taxes"/>
+        <updated>2022-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Opposition to a carbon tax was at the root of the gilets jaunes protests in France. Did the protestors think the tax wouldn’t work, or that it wasn’t fair, or that they would personally lose out? Adrien Fabre talks to Tim Phillips about the link between tax and trust in government.]]></summary>
+        <author>
+            <name>Adrien Fabre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transatlantic economy policy responses to the pandemic and the road to recovery]]></title>
         <id>https://voxeu.org/article/transatlantic-economy-policy-responses-pandemic-and-road-recovery</id>
@@ -16,16 +26,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How can monetary policy combat crisis?]]></title>
-        <id>https://voxeu.org/content/how-can-monetary-policy-combat-crisis</id>
-        <link href="https://voxeu.org/content/how-can-monetary-policy-combat-crisis"/>
-        <updated>2022-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.]]></summary>
-        <author>
-            <name>Lucrezia Reichlin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Macroeconomic costs of conflict: Impact on GDP and refugee flows]]></title>
         <id>https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows</id>
         <link href="https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows"/>
@@ -33,6 +33,16 @@
         <summary type="html"><![CDATA[Analysis of large-scale conflicts over the past 30 years can shed light on the range of possible economic outcomes for Ukraine. This column shows that, in general, the impact on GDP is very large, persisting even ten years after conflict onset, and affects all sectors of the economy. This is overwhelmingly driven by declines in private consumption and official trade. In addition, large-scale conflicts often lead to persistent long-term refugee outflows to both neighbouring non-advanced economies (given the location of most conflict-affected countries) and non-neighbouring advanced economies. As such, policies to absorb refugees and facilitate post-war reconstruction need to be long-term as well.]]></summary>
         <author>
             <name>Natalija Novta, Evgenia Pugacheva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can monetary policy combat crisis?]]></title>
+        <id>https://voxeu.org/content/how-can-monetary-policy-combat-crisis</id>
+        <link href="https://voxeu.org/content/how-can-monetary-policy-combat-crisis"/>
+        <updated>2022-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.]]></summary>
+        <author>
+            <name>Lucrezia Reichlin</name>
         </author>
     </entry>
     <entry>
@@ -166,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Large firms react more strongly to macro shocks, and it matters]]></title>
-        <id>https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters</id>
-        <link href="https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters"/>
-        <updated>2022-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is important to understand the micro drivers of the economy’s reaction to large macro shocks. This column uses French firm-level data from 1993-2020 to study the contribution of the largest exporters to aggregate export fluctuations. The authors find that top exporters explained over 40% of aggregate fluctuations and drove the export collapses during the Global Crisis and the pandemic. Moreover, the 2020 collapse of French exports was driven by the higher sensitivity of large firms to demand shocks rather than disruptions to global value chains.]]></summary>
-        <author>
-            <name>Jean-Charles Bricongne, Juan Carluccio, Lionel Fontagné, Guillaume Gaulier, Sebastian Stumpner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neighbourhoods won’t be improved by banning the unemployed]]></title>
         <id>https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed</id>
         <link href="https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed"/>
@@ -183,6 +183,16 @@
         <summary type="html"><![CDATA[Recently, a range of countries have introduced laws prohibiting disadvantaged individuals from moving into public housing in specific areas, for example because they are unemployed or have too low an income, in an attempt to avoid the formation of ghettos and unwanted spatial disparities in the standards of living. This column studies one such law in the Netherlands and finds that it has not been effective in attracting households with higher income levels to targeted neighbourhoods. Moreover, it has had significant negative side effects due to the stigma attached to targeted neighbourhoods.]]></summary>
         <author>
             <name>Hans Koster, Jos van Ommeren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large firms react more strongly to macro shocks, and it matters]]></title>
+        <id>https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters</id>
+        <link href="https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters"/>
+        <updated>2022-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is important to understand the micro drivers of the economy’s reaction to large macro shocks. This column uses French firm-level data from 1993-2020 to study the contribution of the largest exporters to aggregate export fluctuations. The authors find that top exporters explained over 40% of aggregate fluctuations and drove the export collapses during the Global Crisis and the pandemic. Moreover, the 2020 collapse of French exports was driven by the higher sensitivity of large firms to demand shocks rather than disruptions to global value chains.]]></summary>
+        <author>
+            <name>Jean-Charles Bricongne, Juan Carluccio, Lionel Fontagné, Guillaume Gaulier, Sebastian Stumpner</name>
         </author>
     </entry>
     <entry>
@@ -326,16 +336,6 @@ __연습문제
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsing disagreement about future short-term interest rates]]></title>
-        <id>https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates</id>
-        <link href="https://voxeu.org/article/parsing-disagreement-about-future-short-term-interest-rates"/>
-        <updated>2022-07-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Disagreement over future nominal interest rates is currently high, creating challenges for central banks. This column argues that the real neutral rate of interest has a slow-moving, long-run component as well as a short-run component. The long-run ‘natural rate’ is determined by demographic characteristics and income inequality, while the short-run ‘neutral rate’ can be affected by transitory economic shocks. In the current environment, the distinction might be important to explain part of the disagreement about future nominal short-term interest rates.]]></summary>
-        <author>
-            <name>Jesper  Lindé, Josef Platzer, Robin Tietz</name>
         </author>
     </entry>
     <entry>
