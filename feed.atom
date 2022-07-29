@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T06:03:09.318Z</id>
+    <id>urn:2022-07-29T09:02:57.066Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-29T06:03:09.318Z</updated>
+    <updated>2022-07-29T09:02:57.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[In November 2021, the Federal Reserve Bank of New York, the European Commission, and CEPR brought together US- and European-based policymakers and economists from academia, think tanks, and international financial institutions to discuss issues that transatlantic policymakers are facing. This column summarises the principal themes and findings of the conference discussion on questions such as how to support growth while addressing inflationary pressures, facilitating the climate transition, and reducing economic inequalities; what the key changes are in the Federal Reserve’s and ECB’s new monetary policy frameworks; and how best to consolidate public finances.]]></summary>
         <author>
             <name>Moreno Bertoldi, Paolo Pesenti, Hélène Rey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can monetary policy combat crisis?]]></title>
+        <id>https://voxeu.org/content/how-can-monetary-policy-combat-crisis</id>
+        <link href="https://voxeu.org/content/how-can-monetary-policy-combat-crisis"/>
+        <updated>2022-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.]]></summary>
+        <author>
+            <name>Lucrezia Reichlin</name>
         </author>
     </entry>
     <entry>
@@ -428,16 +438,6 @@ chapter 2. 블록체인 위에서 펼쳐지는 법률 오디세이
 국내도서 > 경제경영 > 경제학/경제일반 > 경제이야기]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Ukraine’s private consumption during the war]]></title>
-        <id>https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war</id>
-        <link href="https://voxeu.org/article/measuring-ukraine-s-private-consumption-during-war"/>
-        <updated>2022-07-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As Russia’s invasion continues to ravage many parts of Ukraine, the flow of official statistical data has been erratic. This column outlines an alternative approach to measuring private consumption during war times, using aggregated bank micro-level data. Commercial banks have mostly remained operational during the war. Moreover, the electronic payment system has functioned unceasingly throughout the war period, providing stability of bank payments. Bank card activity suggests that private consumption fell in half during the first month of the war and plateaued by June 2022 at 70–74% of the previous year’s level.]]></summary>
-        <author>
-            <name>Oleksiy Blinov, Simeon Djankov</name>
         </author>
     </entry>
     <entry>
