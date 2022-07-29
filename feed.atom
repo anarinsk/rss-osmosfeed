@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T12:03:55.511Z</id>
+    <id>urn:2022-07-29T15:02:50.213Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-29T12:03:55.511Z</updated>
+    <updated>2022-07-29T15:02:50.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,6 +16,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Russia-Ukraine war, European financial integration, and crises]]></title>
+        <id>https://voxeu.org/article/russia-ukraine-war-european-financial-integration-and-crises</id>
+        <link href="https://voxeu.org/article/russia-ukraine-war-european-financial-integration-and-crises"/>
+        <updated>2022-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s invasion of Ukraine added another one to a series of crises affecting Europe over the last decade and a half. This column finds that fragmentation of euro area financial markets has been relatively limited, as policymakers have benefitted from reforms after and experiences with past crises, European countries and authorities reacted with quite some unity, and direct financial exposures to Russia and Ukraine are relatively small. Cross-country divergences of euro area asset prices appear to have been particularly driven by bond markets and related to the countries with the greatest energy and financial exposures as well as to changes in economic uncertainty.]]></summary>
+        <author>
+            <name>Philipp Hartmann, Philippe Molitor, Annachiara Tanzarella, Bruun de Jong</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Transatlantic economy policy responses to the pandemic and the road to recovery]]></title>
         <id>https://voxeu.org/article/transatlantic-economy-policy-responses-pandemic-and-road-recovery</id>
         <link href="https://voxeu.org/article/transatlantic-economy-policy-responses-pandemic-and-road-recovery"/>
@@ -26,16 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Macroeconomic costs of conflict: Impact on GDP and refugee flows]]></title>
-        <id>https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows</id>
-        <link href="https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows"/>
-        <updated>2022-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Analysis of large-scale conflicts over the past 30 years can shed light on the range of possible economic outcomes for Ukraine. This column shows that, in general, the impact on GDP is very large, persisting even ten years after conflict onset, and affects all sectors of the economy. This is overwhelmingly driven by declines in private consumption and official trade. In addition, large-scale conflicts often lead to persistent long-term refugee outflows to both neighbouring non-advanced economies (given the location of most conflict-affected countries) and non-neighbouring advanced economies. As such, policies to absorb refugees and facilitate post-war reconstruction need to be long-term as well.]]></summary>
-        <author>
-            <name>Natalija Novta, Evgenia Pugacheva</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How can monetary policy combat crisis?]]></title>
         <id>https://voxeu.org/content/how-can-monetary-policy-combat-crisis</id>
         <link href="https://voxeu.org/content/how-can-monetary-policy-combat-crisis"/>
@@ -43,6 +43,16 @@
         <summary type="html"><![CDATA[There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.]]></summary>
         <author>
             <name>Lucrezia Reichlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macroeconomic costs of conflict: Impact on GDP and refugee flows]]></title>
+        <id>https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows</id>
+        <link href="https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows"/>
+        <updated>2022-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Analysis of large-scale conflicts over the past 30 years can shed light on the range of possible economic outcomes for Ukraine. This column shows that, in general, the impact on GDP is very large, persisting even ten years after conflict onset, and affects all sectors of the economy. This is overwhelmingly driven by declines in private consumption and official trade. In addition, large-scale conflicts often lead to persistent long-term refugee outflows to both neighbouring non-advanced economies (given the location of most conflict-affected countries) and non-neighbouring advanced economies. As such, policies to absorb refugees and facilitate post-war reconstruction need to be long-term as well.]]></summary>
+        <author>
+            <name>Natalija Novta, Evgenia Pugacheva</name>
         </author>
     </entry>
     <entry>
@@ -176,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neighbourhoods won’t be improved by banning the unemployed]]></title>
-        <id>https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed</id>
-        <link href="https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed"/>
-        <updated>2022-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently, a range of countries have introduced laws prohibiting disadvantaged individuals from moving into public housing in specific areas, for example because they are unemployed or have too low an income, in an attempt to avoid the formation of ghettos and unwanted spatial disparities in the standards of living. This column studies one such law in the Netherlands and finds that it has not been effective in attracting households with higher income levels to targeted neighbourhoods. Moreover, it has had significant negative side effects due to the stigma attached to targeted neighbourhoods.]]></summary>
-        <author>
-            <name>Hans Koster, Jos van Ommeren</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Large firms react more strongly to macro shocks, and it matters]]></title>
         <id>https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters</id>
         <link href="https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters"/>
@@ -193,6 +193,16 @@
         <summary type="html"><![CDATA[It is important to understand the micro drivers of the economy’s reaction to large macro shocks. This column uses French firm-level data from 1993-2020 to study the contribution of the largest exporters to aggregate export fluctuations. The authors find that top exporters explained over 40% of aggregate fluctuations and drove the export collapses during the Global Crisis and the pandemic. Moreover, the 2020 collapse of French exports was driven by the higher sensitivity of large firms to demand shocks rather than disruptions to global value chains.]]></summary>
         <author>
             <name>Jean-Charles Bricongne, Juan Carluccio, Lionel Fontagné, Guillaume Gaulier, Sebastian Stumpner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neighbourhoods won’t be improved by banning the unemployed]]></title>
+        <id>https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed</id>
+        <link href="https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed"/>
+        <updated>2022-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, a range of countries have introduced laws prohibiting disadvantaged individuals from moving into public housing in specific areas, for example because they are unemployed or have too low an income, in an attempt to avoid the formation of ghettos and unwanted spatial disparities in the standards of living. This column studies one such law in the Netherlands and finds that it has not been effective in attracting households with higher income levels to targeted neighbourhoods. Moreover, it has had significant negative side effects due to the stigma attached to targeted neighbourhoods.]]></summary>
+        <author>
+            <name>Hans Koster, Jos van Ommeren</name>
         </author>
     </entry>
     <entry>
@@ -336,16 +346,6 @@ __연습문제
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The long-run labour market effects of the Canada–US Free Trade Agreement]]></title>
-        <id>https://voxeu.org/article/long-run-labour-market-effects-canada-us-free-trade-agreement</id>
-        <link href="https://voxeu.org/article/long-run-labour-market-effects-canada-us-free-trade-agreement"/>
-        <updated>2022-07-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Increased import competition has been found to depress labour market outcomes, leading to pessimism that classic gains from trade are worth the accompanying labour market disruptions. This column examines the effect of the 1989 Canada-US Free Trade Agreement. While Canadian workers suffered short-run displacement and earnings losses in response to increased import competition, long-run labour market outcomes, such as years worked and cumulative earnings, were largely unaffected. Canadian workers in industries that obtained increased access to US markets experienced short-run gains, but these effects had largely disappeared by 2004.]]></summary>
-        <author>
-            <name>Brian Kovak, Peter Morrow</name>
         </author>
     </entry>
     <entry>
