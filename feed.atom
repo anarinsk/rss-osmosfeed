@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T18:03:03.415Z</id>
+    <id>urn:2022-07-29T21:02:57.890Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-29T18:03:03.415Z</updated>
+    <updated>2022-07-29T21:02:57.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -186,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Large firms react more strongly to macro shocks, and it matters]]></title>
-        <id>https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters</id>
-        <link href="https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters"/>
-        <updated>2022-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is important to understand the micro drivers of the economy’s reaction to large macro shocks. This column uses French firm-level data from 1993-2020 to study the contribution of the largest exporters to aggregate export fluctuations. The authors find that top exporters explained over 40% of aggregate fluctuations and drove the export collapses during the Global Crisis and the pandemic. Moreover, the 2020 collapse of French exports was driven by the higher sensitivity of large firms to demand shocks rather than disruptions to global value chains.]]></summary>
-        <author>
-            <name>Jean-Charles Bricongne, Juan Carluccio, Lionel Fontagné, Guillaume Gaulier, Sebastian Stumpner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neighbourhoods won’t be improved by banning the unemployed]]></title>
         <id>https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed</id>
         <link href="https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed"/>
@@ -203,6 +193,16 @@
         <summary type="html"><![CDATA[Recently, a range of countries have introduced laws prohibiting disadvantaged individuals from moving into public housing in specific areas, for example because they are unemployed or have too low an income, in an attempt to avoid the formation of ghettos and unwanted spatial disparities in the standards of living. This column studies one such law in the Netherlands and finds that it has not been effective in attracting households with higher income levels to targeted neighbourhoods. Moreover, it has had significant negative side effects due to the stigma attached to targeted neighbourhoods.]]></summary>
         <author>
             <name>Hans Koster, Jos van Ommeren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large firms react more strongly to macro shocks, and it matters]]></title>
+        <id>https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters</id>
+        <link href="https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters"/>
+        <updated>2022-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is important to understand the micro drivers of the economy’s reaction to large macro shocks. This column uses French firm-level data from 1993-2020 to study the contribution of the largest exporters to aggregate export fluctuations. The authors find that top exporters explained over 40% of aggregate fluctuations and drove the export collapses during the Global Crisis and the pandemic. Moreover, the 2020 collapse of French exports was driven by the higher sensitivity of large firms to demand shocks rather than disruptions to global value chains.]]></summary>
+        <author>
+            <name>Jean-Charles Bricongne, Juan Carluccio, Lionel Fontagné, Guillaume Gaulier, Sebastian Stumpner</name>
         </author>
     </entry>
     <entry>
@@ -2748,42 +2748,6 @@ Chapter 12 Matplotlib에 입문하기
 07 파이 차트 그리기
 08 산점도 그리기
 국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬]]></summary>
-        <author>
-            <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이썬으로 배우는 머신러닝/김화종 지음/홍릉(홍릉과학출판사)]]></title>
-        <id>http://www.aladin.co.kr/shop/wproduct.aspx?itemID=297306412</id>
-        <link href="http://www.aladin.co.kr/rsscenter/go.aspx?rssType=2&amp;type=item&amp;itemId=297306412"/>
-        <updated>2022-06-30T08:08:00.000Z</updated>
-        <summary type="html"><![CDATA[파이썬으로 배우는 머신러닝
-김화종 지음 / 홍릉(홍릉과학출판사) / 2022년 06월 / ISBN:9791156000440
-정가: 26,000원 / 판매가: 26,000원 / 마일리지: 780원
-이벤트: 컴퓨터/모바일_본투리드 선풍기, 복조리 파우치
-
-
-
-
-이 책은 기업 현장에서 디지털 전환(Digital Transformation), 인공지능(AI) 도입, 데이터 분석을 담당하는 실무자를 위한 학습서이다. 현업에서 이러한 업무를 수행하는데 가장 필요한 기술은 파이썬 프로그래밍과 머신러닝이나 이를 학습하는데 많은 시간을 투입해야 한다. 이 책은 최소한의 시간에 현업에서 필요한 파이썬과 머신러닝을 배울 수 있는 입문서이다.
-
-독자들이 파이썬을 처음 배우는 것을 가정하여 파이썬의 기초부터 설명하였으며 특히 머신러닝의 주요 개념을 명확히 이해하는 것을 목표로 하였다. 무엇보다 실전에서 사용할 수 있는 핵심 예제들을 소개하였고 이를 바로 현업에서 활용하기 수월하도록 하였다.
-
-Chapter 01 머신러닝이 왜 중요한가
-
-Chapter 02 파이썬은 데이터 분석의 영어 
-
-Chapter 03 데이터 살펴보기 
-
-Chapter 04 데이터를 가공하는 방법 
-
-Chapter 05 머신러닝을 구현하는 방법 
-
-Chapter 06 중요한 특성 사용하기 
-
-
-국내도서 > 컴퓨터/모바일 > 프로그래밍 언어 > 파이썬
-국내도서 > 대학교재/전문서적 > 공학계열 > 컴퓨터공학 > 프로그래밍 언어]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
         </author>
