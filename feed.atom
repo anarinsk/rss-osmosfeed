@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-30T00:07:47.323Z</id>
+    <id>urn:2022-07-30T03:37:36.316Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-30T00:07:47.323Z</updated>
+    <updated>2022-07-30T03:37:36.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The role of venture capital and governments in clean energy]]></title>
+        <id>https://voxeu.org/article/role-venture-capital-and-governments-clean-energy</id>
+        <link href="https://voxeu.org/article/role-venture-capital-and-governments-clean-energy"/>
+        <updated>2022-07-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Large investments in low-carbon technologies are needed to limit global warming. This column uses data on US start-ups over the past 20 years to analyse how venture capital in clean technologies can address the funding gap. It argues that unsuccessful nationwide US climate policy has dampened demand for clean energy technologies in the past. Moving forward, governments need to implement persistent demand-side policies, such as a carbon tax, to improve the expected performance of early-stage investors in clean energy, before using targeted public investments to fund the cleantech start-ups with limited potential for outsized returns.]]></summary>
+        <author>
+            <name>Matthias van den Heuvel, David Popp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yellow vests and carbon taxes]]></title>
         <id>https://voxeu.org/vox-talks/yellow-vests-and-carbon-taxes</id>
@@ -268,16 +278,6 @@ __무상태에서...
         <summary type="html"><![CDATA[When aid donors are distracted by domestic concerns, do aid recipients take advantage to suppress political opposition? Data from Africa suggest that they do, Dominic Rohner tells Tim Phillips.]]></summary>
         <author>
             <name>Dominic Rohner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neighbourhoods won’t be improved by banning the unemployed]]></title>
-        <id>https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed</id>
-        <link href="https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed"/>
-        <updated>2022-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently, a range of countries have introduced laws prohibiting disadvantaged individuals from moving into public housing in specific areas, for example because they are unemployed or have too low an income, in an attempt to avoid the formation of ghettos and unwanted spatial disparities in the standards of living. This column studies one such law in the Netherlands and finds that it has not been effective in attracting households with higher income levels to targeted neighbourhoods. Moreover, it has had significant negative side effects due to the stigma attached to targeted neighbourhoods.]]></summary>
-        <author>
-            <name>Hans Koster, Jos van Ommeren</name>
         </author>
     </entry>
     <entry>
