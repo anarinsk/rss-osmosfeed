@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-30T15:02:51.398Z</id>
+    <id>urn:2022-07-30T18:03:02.494Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-30T15:02:51.398Z</updated>
+    <updated>2022-07-30T18:03:02.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -151,16 +151,6 @@ __무상태에서...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[River pollution: Combating cross-border externalities]]></title>
-        <id>https://voxeu.org/article/river-pollution-combating-cross-border-externalities</id>
-        <link href="https://voxeu.org/article/river-pollution-combating-cross-border-externalities"/>
-        <updated>2022-07-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In order to improve the water quality of the downstream stretch of the Xin’an River, in 2011 China implemented the Ecological Compensation Initiative, a pioneering policy establishing side payments between upstream and downstream provinces. This column shows that the initiative mitigates cross-border externalities by sharply reducing water pollutant emissions by upstream firms and also induces firms to relocate to neighbouring cities. The findings highlight the potential for bilateral compensation for ecosystem services to reduce pollution.]]></summary>
-        <author>
-            <name>Shiyi  Chen, Joshua Graff Zivin, Huanhuan Wang, Jiaxin Xiong</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Variability in the impacts of COVID-19 on student achievement]]></title>
         <id>https://voxeu.org/article/variability-impacts-covid-19-student-achievement</id>
         <link href="https://voxeu.org/article/variability-impacts-covid-19-student-achievement"/>
@@ -168,6 +158,16 @@ __무상태에서...
         <summary type="html"><![CDATA[There is robust evidence that children lost ground academically as a consequence of the pandemic, but less research into how the effects varied by school district and household demographics. Using test data from 2.1 million students across the US, this column finds that remote instruction was a primary driver of widening achievement gaps by race and poverty. The authors argue that low-income districts that taught remotely in 2020-21 will need to spend nearly all of their federal aid on academic recovery to help students recover from pandemic-related achievement losses.]]></summary>
         <author>
             <name>Dan Goldhaber, Thomas  Kane, Andrew McEachin, Emily Morton, Tyler Patterson, Douglas Staiger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[River pollution: Combating cross-border externalities]]></title>
+        <id>https://voxeu.org/article/river-pollution-combating-cross-border-externalities</id>
+        <link href="https://voxeu.org/article/river-pollution-combating-cross-border-externalities"/>
+        <updated>2022-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In order to improve the water quality of the downstream stretch of the Xin’an River, in 2011 China implemented the Ecological Compensation Initiative, a pioneering policy establishing side payments between upstream and downstream provinces. This column shows that the initiative mitigates cross-border externalities by sharply reducing water pollutant emissions by upstream firms and also induces firms to relocate to neighbouring cities. The findings highlight the potential for bilateral compensation for ecosystem services to reduce pollution.]]></summary>
+        <author>
+            <name>Shiyi  Chen, Joshua Graff Zivin, Huanhuan Wang, Jiaxin Xiong</name>
         </author>
     </entry>
     <entry>
@@ -281,13 +281,13 @@ __무상태에서...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neighbourhoods won’t be improved by banning the unemployed]]></title>
-        <id>https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed</id>
-        <link href="https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed"/>
+        <title type="html"><![CDATA[Large firms react more strongly to macro shocks, and it matters]]></title>
+        <id>https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters</id>
+        <link href="https://voxeu.org/article/large-firms-react-more-strongly-macro-shocks-and-it-matters"/>
         <updated>2022-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently, a range of countries have introduced laws prohibiting disadvantaged individuals from moving into public housing in specific areas, for example because they are unemployed or have too low an income, in an attempt to avoid the formation of ghettos and unwanted spatial disparities in the standards of living. This column studies one such law in the Netherlands and finds that it has not been effective in attracting households with higher income levels to targeted neighbourhoods. Moreover, it has had significant negative side effects due to the stigma attached to targeted neighbourhoods.]]></summary>
+        <summary type="html"><![CDATA[It is important to understand the micro drivers of the economy’s reaction to large macro shocks. This column uses French firm-level data from 1993-2020 to study the contribution of the largest exporters to aggregate export fluctuations. The authors find that top exporters explained over 40% of aggregate fluctuations and drove the export collapses during the Global Crisis and the pandemic. Moreover, the 2020 collapse of French exports was driven by the higher sensitivity of large firms to demand shocks rather than disruptions to global value chains.]]></summary>
         <author>
-            <name>Hans Koster, Jos van Ommeren</name>
+            <name>Jean-Charles Bricongne, Juan Carluccio, Lionel Fontagné, Guillaume Gaulier, Sebastian Stumpner</name>
         </author>
     </entry>
     <entry>
