@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-31T03:32:25.802Z</id>
+    <id>urn:2022-07-31T06:04:00.965Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-31T03:32:25.802Z</updated>
+    <updated>2022-07-31T06:04:00.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mainstream media and electoral outcomes]]></title>
+        <id>https://voxeu.org/article/mainstream-media-and-electoral-outcomes</id>
+        <link href="https://voxeu.org/article/mainstream-media-and-electoral-outcomes"/>
+        <updated>2022-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Citizens often seem to choose which political party to support by seeking out information based on their party affiliation, rather than based on informed opinion. Along with the explosion in new media in the US, trust in mainstream media has been decreasing, particularly amongst Republicans. This column presents a framework to analyse how beliefs regarding the mainstream media impact individual media choice and thereby influence electoral outcomes. A substantial political advantage accrues to the side with less exposure to or trust in mainstream media. This may provide one rationale for the fomenting of this distrust by party elites.]]></summary>
+        <author>
+            <name>Helios Herrera, Ravideep  Sethi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The role of venture capital and governments in clean energy]]></title>
         <id>https://voxeu.org/article/role-venture-capital-and-governments-clean-energy</id>
@@ -204,16 +214,6 @@ CHAPTER 4 파이썬과 다른 언어와의 비교 103
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Macroeconomic costs of conflict: Impact on GDP and refugee flows]]></title>
-        <id>https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows</id>
-        <link href="https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows"/>
-        <updated>2022-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Analysis of large-scale conflicts over the past 30 years can shed light on the range of possible economic outcomes for Ukraine. This column shows that, in general, the impact on GDP is very large, persisting even ten years after conflict onset, and affects all sectors of the economy. This is overwhelmingly driven by declines in private consumption and official trade. In addition, large-scale conflicts often lead to persistent long-term refugee outflows to both neighbouring non-advanced economies (given the location of most conflict-affected countries) and non-neighbouring advanced economies. As such, policies to absorb refugees and facilitate post-war reconstruction need to be long-term as well.]]></summary>
-        <author>
-            <name>Natalija Novta, Evgenia Pugacheva</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How can monetary policy combat crisis?]]></title>
         <id>https://voxeu.org/content/how-can-monetary-policy-combat-crisis</id>
         <link href="https://voxeu.org/content/how-can-monetary-policy-combat-crisis"/>
@@ -221,6 +221,16 @@ CHAPTER 4 파이썬과 다른 언어와의 비교 103
         <summary type="html"><![CDATA[There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.]]></summary>
         <author>
             <name>Lucrezia Reichlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macroeconomic costs of conflict: Impact on GDP and refugee flows]]></title>
+        <id>https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows</id>
+        <link href="https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows"/>
+        <updated>2022-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Analysis of large-scale conflicts over the past 30 years can shed light on the range of possible economic outcomes for Ukraine. This column shows that, in general, the impact on GDP is very large, persisting even ten years after conflict onset, and affects all sectors of the economy. This is overwhelmingly driven by declines in private consumption and official trade. In addition, large-scale conflicts often lead to persistent long-term refugee outflows to both neighbouring non-advanced economies (given the location of most conflict-affected countries) and non-neighbouring advanced economies. As such, policies to absorb refugees and facilitate post-war reconstruction need to be long-term as well.]]></summary>
+        <author>
+            <name>Natalija Novta, Evgenia Pugacheva</name>
         </author>
     </entry>
     <entry>
@@ -436,16 +446,6 @@ __무상태에서...
         <summary type="html"><![CDATA[When aid donors are distracted by domestic concerns, do aid recipients take advantage to suppress political opposition? Data from Africa suggest that they do, Dominic Rohner tells Tim Phillips.]]></summary>
         <author>
             <name>Dominic Rohner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neighbourhoods won’t be improved by banning the unemployed]]></title>
-        <id>https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed</id>
-        <link href="https://voxeu.org/article/neighbourhoods-won-t-be-improved-banning-unemployed"/>
-        <updated>2022-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently, a range of countries have introduced laws prohibiting disadvantaged individuals from moving into public housing in specific areas, for example because they are unemployed or have too low an income, in an attempt to avoid the formation of ghettos and unwanted spatial disparities in the standards of living. This column studies one such law in the Netherlands and finds that it has not been effective in attracting households with higher income levels to targeted neighbourhoods. Moreover, it has had significant negative side effects due to the stigma attached to targeted neighbourhoods.]]></summary>
-        <author>
-            <name>Hans Koster, Jos van Ommeren</name>
         </author>
     </entry>
     <entry>
