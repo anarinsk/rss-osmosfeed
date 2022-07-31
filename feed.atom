@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-31T09:03:01.569Z</id>
+    <id>urn:2022-07-31T12:04:27.199Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-31T09:03:01.569Z</updated>
+    <updated>2022-07-31T12:04:27.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -214,16 +214,6 @@ CHAPTER 4 파이썬과 다른 언어와의 비교 103
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How can monetary policy combat crisis?]]></title>
-        <id>https://voxeu.org/content/how-can-monetary-policy-combat-crisis</id>
-        <link href="https://voxeu.org/content/how-can-monetary-policy-combat-crisis"/>
-        <updated>2022-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.]]></summary>
-        <author>
-            <name>Lucrezia Reichlin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Macroeconomic costs of conflict: Impact on GDP and refugee flows]]></title>
         <id>https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows</id>
         <link href="https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows"/>
@@ -231,6 +221,16 @@ CHAPTER 4 파이썬과 다른 언어와의 비교 103
         <summary type="html"><![CDATA[Analysis of large-scale conflicts over the past 30 years can shed light on the range of possible economic outcomes for Ukraine. This column shows that, in general, the impact on GDP is very large, persisting even ten years after conflict onset, and affects all sectors of the economy. This is overwhelmingly driven by declines in private consumption and official trade. In addition, large-scale conflicts often lead to persistent long-term refugee outflows to both neighbouring non-advanced economies (given the location of most conflict-affected countries) and non-neighbouring advanced economies. As such, policies to absorb refugees and facilitate post-war reconstruction need to be long-term as well.]]></summary>
         <author>
             <name>Natalija Novta, Evgenia Pugacheva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can monetary policy combat crisis?]]></title>
+        <id>https://voxeu.org/content/how-can-monetary-policy-combat-crisis</id>
+        <link href="https://voxeu.org/content/how-can-monetary-policy-combat-crisis"/>
+        <updated>2022-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.]]></summary>
+        <author>
+            <name>Lucrezia Reichlin</name>
         </author>
     </entry>
     <entry>
