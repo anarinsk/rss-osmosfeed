@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-31T21:03:00.603Z</id>
+    <id>urn:2022-08-01T00:08:45.231Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-07-31T21:03:00.603Z</updated>
+    <updated>2022-08-01T00:08:45.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deciphering monetary policy shocks]]></title>
+        <id>https://voxeu.org/article/deciphering-monetary-policy-shocks</id>
+        <link href="https://voxeu.org/article/deciphering-monetary-policy-shocks"/>
+        <updated>2022-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Central banks around the globe face new challenges in the form of adverse supply shocks, rising inflation rates, and the consequential need to tighten monetary policy without causing dislocations in financial markets and the real economy. In addressing these, the accompanying communication of central banks is often seen to be as important as the actual policy actions. This column shows that market responses can be directly linked to topic-specific news revealed in the communication of central banks.]]></summary>
+        <author>
+            <name>Phillipp Gnan, Maximilian Schleritzko, Maik Schmeling, Christian Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adapting to flood risk: Evidence from global cities]]></title>
+        <id>https://voxeu.org/article/adapting-flood-risk-evidence-global-cities</id>
+        <link href="https://voxeu.org/article/adapting-flood-risk-evidence-global-cities"/>
+        <updated>2022-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Climate change is increasing the frequency and intensity of disasters, but the ability to cope varies widely across the globe. This column examines how city death tolls and economic activity are affected by flooding. Richer places with the resources and infrastructure to cope with disasters tend to be more resilient. Compared to cities in low-income countries, those in high-income countries suffered fewer deaths per disaster, adapted over the years to better mitigate the effects of flooding, and recovered faster from economic damage.]]></summary>
+        <author>
+            <name>Sahil  Gandhi, Matthew Kahn, Rajat  Kochhar, Somik  Lall, Vaidehi  Tandel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mainstream media and electoral outcomes]]></title>
         <id>https://voxeu.org/article/mainstream-media-and-electoral-outcomes</id>
@@ -214,16 +234,6 @@ CHAPTER 4 파이썬과 다른 언어와의 비교 103
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Macroeconomic costs of conflict: Impact on GDP and refugee flows]]></title>
-        <id>https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows</id>
-        <link href="https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows"/>
-        <updated>2022-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Analysis of large-scale conflicts over the past 30 years can shed light on the range of possible economic outcomes for Ukraine. This column shows that, in general, the impact on GDP is very large, persisting even ten years after conflict onset, and affects all sectors of the economy. This is overwhelmingly driven by declines in private consumption and official trade. In addition, large-scale conflicts often lead to persistent long-term refugee outflows to both neighbouring non-advanced economies (given the location of most conflict-affected countries) and non-neighbouring advanced economies. As such, policies to absorb refugees and facilitate post-war reconstruction need to be long-term as well.]]></summary>
-        <author>
-            <name>Natalija Novta, Evgenia Pugacheva</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How can monetary policy combat crisis?]]></title>
         <id>https://voxeu.org/content/how-can-monetary-policy-combat-crisis</id>
         <link href="https://voxeu.org/content/how-can-monetary-policy-combat-crisis"/>
@@ -231,6 +241,16 @@ CHAPTER 4 파이썬과 다른 언어와의 비교 103
         <summary type="html"><![CDATA[There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.]]></summary>
         <author>
             <name>Lucrezia Reichlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macroeconomic costs of conflict: Impact on GDP and refugee flows]]></title>
+        <id>https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows</id>
+        <link href="https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows"/>
+        <updated>2022-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Analysis of large-scale conflicts over the past 30 years can shed light on the range of possible economic outcomes for Ukraine. This column shows that, in general, the impact on GDP is very large, persisting even ten years after conflict onset, and affects all sectors of the economy. This is overwhelmingly driven by declines in private consumption and official trade. In addition, large-scale conflicts often lead to persistent long-term refugee outflows to both neighbouring non-advanced economies (given the location of most conflict-affected countries) and non-neighbouring advanced economies. As such, policies to absorb refugees and facilitate post-war reconstruction need to be long-term as well.]]></summary>
+        <author>
+            <name>Natalija Novta, Evgenia Pugacheva</name>
         </author>
     </entry>
     <entry>
@@ -316,16 +336,6 @@ __무상태에서...
 국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[River pollution: Combating cross-border externalities]]></title>
-        <id>https://voxeu.org/article/river-pollution-combating-cross-border-externalities</id>
-        <link href="https://voxeu.org/article/river-pollution-combating-cross-border-externalities"/>
-        <updated>2022-07-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In order to improve the water quality of the downstream stretch of the Xin’an River, in 2011 China implemented the Ecological Compensation Initiative, a pioneering policy establishing side payments between upstream and downstream provinces. This column shows that the initiative mitigates cross-border externalities by sharply reducing water pollutant emissions by upstream firms and also induces firms to relocate to neighbouring cities. The findings highlight the potential for bilateral compensation for ecosystem services to reduce pollution.]]></summary>
-        <author>
-            <name>Shiyi  Chen, Joshua Graff Zivin, Huanhuan Wang, Jiaxin Xiong</name>
         </author>
     </entry>
     <entry>
@@ -436,16 +446,6 @@ __무상태에서...
 국내도서 > 경제경영 > 경제학/경제일반 > 화폐/금융/재정]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distracted donors and political violence]]></title>
-        <id>https://voxeu.org/vox-talks/distracted-donors-and-political-violence</id>
-        <link href="https://voxeu.org/vox-talks/distracted-donors-and-political-violence"/>
-        <updated>2022-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When aid donors are distracted by domestic concerns, do aid recipients take advantage to suppress political opposition? Data from Africa suggest that they do, Dominic Rohner tells Tim Phillips.]]></summary>
-        <author>
-            <name>Dominic Rohner</name>
         </author>
     </entry>
     <entry>
