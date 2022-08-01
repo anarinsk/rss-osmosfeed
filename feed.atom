@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-01T18:03:03.778Z</id>
+    <id>urn:2022-08-01T21:02:57.587Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-08-01T18:03:03.778Z</updated>
+    <updated>2022-08-01T21:02:57.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Adapting to flood risk: Evidence from global cities]]></title>
-        <id>https://voxeu.org/article/adapting-flood-risk-evidence-global-cities</id>
-        <link href="https://voxeu.org/article/adapting-flood-risk-evidence-global-cities"/>
-        <updated>2022-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Climate change is increasing the frequency and intensity of disasters, but the ability to cope varies widely across the globe. This column examines how city death tolls and economic activity are affected by flooding. Richer places with the resources and infrastructure to cope with disasters tend to be more resilient. Compared to cities in low-income countries, those in high-income countries suffered fewer deaths per disaster, adapted over the years to better mitigate the effects of flooding, and recovered faster from economic damage.]]></summary>
-        <author>
-            <name>Sahil  Gandhi, Matthew Kahn, Rajat  Kochhar, Somik  Lall, Vaidehi  Tandel</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[How does climate change affect workers?]]></title>
         <id>https://voxeu.org/content/how-does-climate-change-affect-workers</id>
@@ -33,6 +23,16 @@
         <summary type="html"><![CDATA[Central banks around the globe face new challenges in the form of adverse supply shocks, rising inflation rates, and the consequential need to tighten monetary policy without causing dislocations in financial markets and the real economy. In addressing these, the accompanying communication of central banks is often seen to be as important as the actual policy actions. This column shows that market responses can be directly linked to topic-specific news revealed in the communication of central banks.]]></summary>
         <author>
             <name>Phillipp Gnan, Maximilian Schleritzko, Maik Schmeling, Christian Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adapting to flood risk: Evidence from global cities]]></title>
+        <id>https://voxeu.org/article/adapting-flood-risk-evidence-global-cities</id>
+        <link href="https://voxeu.org/article/adapting-flood-risk-evidence-global-cities"/>
+        <updated>2022-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Climate change is increasing the frequency and intensity of disasters, but the ability to cope varies widely across the globe. This column examines how city death tolls and economic activity are affected by flooding. Richer places with the resources and infrastructure to cope with disasters tend to be more resilient. Compared to cities in low-income countries, those in high-income countries suffered fewer deaths per disaster, adapted over the years to better mitigate the effects of flooding, and recovered faster from economic damage.]]></summary>
+        <author>
+            <name>Sahil  Gandhi, Matthew Kahn, Rajat  Kochhar, Somik  Lall, Vaidehi  Tandel</name>
         </author>
     </entry>
     <entry>
