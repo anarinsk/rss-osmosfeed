@@ -416,6 +416,16 @@
       "siteUrl": "https://voxeu.org/",
       "articles": [
         {
+          "id": "https://voxeu.org/article/adapting-flood-risk-evidence-global-cities",
+          "author": "Sahil  Gandhi, Matthew Kahn, Rajat  Kochhar, Somik  Lall, Vaidehi  Tandel",
+          "description": "Climate change is increasing the frequency and intensity of disasters, but the ability to cope varies widely across the globe. This column examines how city death tolls and economic activity are affected by flooding. Richer places with the resources and infrastructure to cope with disasters tend to be more resilient. Compared to cities in low-income countries, those in high-income countries suffered fewer deaths per disaster, adapted over the years to better mitigate the effects of flooding, and recovered faster from economic damage.",
+          "link": "https://voxeu.org/article/adapting-flood-risk-evidence-global-cities",
+          "publishedOn": "2022-08-01T00:00:00.000Z",
+          "wordCount": 2356,
+          "title": "Adapting to flood risk: Evidence from global cities",
+          "imageUrl": null
+        },
+        {
           "id": "https://voxeu.org/content/how-does-climate-change-affect-workers",
           "author": "Paula Bustos",
           "description": "Recorded at CEPR’s June 2022 Paris Symposium, Paula Bustos presents her recent research on the effects of both climate and climate change on the movement of people across sectors. When compared to past international shocks, climate change is seen to have a larger effect because it generates greater movement of people, in particular agricultural workers who are especially vulnerable to the consequences of adverse weather conditions.",
@@ -431,18 +441,8 @@
           "description": "Central banks around the globe face new challenges in the form of adverse supply shocks, rising inflation rates, and the consequential need to tighten monetary policy without causing dislocations in financial markets and the real economy. In addressing these, the accompanying communication of central banks is often seen to be as important as the actual policy actions. This column shows that market responses can be directly linked to topic-specific news revealed in the communication of central banks.",
           "link": "https://voxeu.org/article/deciphering-monetary-policy-shocks",
           "publishedOn": "2022-08-01T00:00:00.000Z",
-          "wordCount": 2570,
+          "wordCount": null,
           "title": "Deciphering monetary policy shocks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://voxeu.org/article/adapting-flood-risk-evidence-global-cities",
-          "author": "Sahil  Gandhi, Matthew Kahn, Rajat  Kochhar, Somik  Lall, Vaidehi  Tandel",
-          "description": "Climate change is increasing the frequency and intensity of disasters, but the ability to cope varies widely across the globe. This column examines how city death tolls and economic activity are affected by flooding. Richer places with the resources and infrastructure to cope with disasters tend to be more resilient. Compared to cities in low-income countries, those in high-income countries suffered fewer deaths per disaster, adapted over the years to better mitigate the effects of flooding, and recovered faster from economic damage.",
-          "link": "https://voxeu.org/article/adapting-flood-risk-evidence-global-cities",
-          "publishedOn": "2022-08-01T00:00:00.000Z",
-          "wordCount": 2356,
-          "title": "Adapting to flood risk: Evidence from global cities",
           "imageUrl": null
         },
         {
@@ -451,7 +451,7 @@
           "description": "Citizens often seem to choose which political party to support by seeking out information based on their party affiliation, rather than based on informed opinion. Along with the explosion in new media in the US, trust in mainstream media has been decreasing, particularly amongst Republicans. This column presents a framework to analyse how beliefs regarding the mainstream media impact individual media choice and thereby influence electoral outcomes. A substantial political advantage accrues to the side with less exposure to or trust in mainstream media. This may provide one rationale for the fomenting of this distrust by party elites.",
           "link": "https://voxeu.org/article/mainstream-media-and-electoral-outcomes",
           "publishedOn": "2022-07-31T00:00:00.000Z",
-          "wordCount": 2840,
+          "wordCount": null,
           "title": "Mainstream media and electoral outcomes",
           "imageUrl": null
         },
@@ -461,7 +461,7 @@
           "description": "Large investments in low-carbon technologies are needed to limit global warming. This column uses data on US start-ups over the past 20 years to analyse how venture capital in clean technologies can address the funding gap. It argues that unsuccessful nationwide US climate policy has dampened demand for clean energy technologies in the past. Moving forward, governments need to implement persistent demand-side policies, such as a carbon tax, to improve the expected performance of early-stage investors in clean energy, before using targeted public investments to fund the cleantech start-ups with limited potential for outsized returns.",
           "link": "https://voxeu.org/article/role-venture-capital-and-governments-clean-energy",
           "publishedOn": "2022-07-30T00:00:00.000Z",
-          "wordCount": 2847,
+          "wordCount": null,
           "title": "The role of venture capital and governments in clean energy",
           "imageUrl": null
         },
@@ -471,7 +471,7 @@
           "description": "Opposition to a carbon tax was at the root of the gilets jaunes protests in France. Did the protestors think the tax wouldn’t work, or that it wasn’t fair, or that they would personally lose out? Adrien Fabre talks to Tim Phillips about the link between tax and trust in government.",
           "link": "https://voxeu.org/vox-talks/yellow-vests-and-carbon-taxes",
           "publishedOn": "2022-07-29T00:00:00.000Z",
-          "wordCount": 833,
+          "wordCount": null,
           "title": "Yellow vests and carbon taxes",
           "imageUrl": null
         },
@@ -481,7 +481,7 @@
           "description": "Russia’s invasion of Ukraine added another one to a series of crises affecting Europe over the last decade and a half. This column finds that fragmentation of euro area financial markets has been relatively limited, as policymakers have benefitted from reforms after and experiences with past crises, European countries and authorities reacted with quite some unity, and direct financial exposures to Russia and Ukraine are relatively small. Cross-country divergences of euro area asset prices appear to have been particularly driven by bond markets and related to the countries with the greatest energy and financial exposures as well as to changes in economic uncertainty.",
           "link": "https://voxeu.org/article/russia-ukraine-war-european-financial-integration-and-crises",
           "publishedOn": "2022-07-29T00:00:00.000Z",
-          "wordCount": 5451,
+          "wordCount": null,
           "title": "The Russia-Ukraine war, European financial integration, and crises",
           "imageUrl": null
         },
@@ -501,7 +501,7 @@
           "description": "There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.",
           "link": "https://voxeu.org/content/how-can-monetary-policy-combat-crisis",
           "publishedOn": "2022-07-29T00:00:00.000Z",
-          "wordCount": 886,
+          "wordCount": null,
           "title": "How can monetary policy combat crisis?",
           "imageUrl": null
         },
