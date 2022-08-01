@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-01T09:03:11.820Z</id>
+    <id>urn:2022-08-01T12:03:40.114Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-08-01T09:03:11.820Z</updated>
+    <updated>2022-08-01T12:03:40.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How does climate change affect workers?]]></title>
+        <id>https://voxeu.org/content/how-does-climate-change-affect-workers</id>
+        <link href="https://voxeu.org/content/how-does-climate-change-affect-workers"/>
+        <updated>2022-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recorded at CEPR’s June 2022 Paris Symposium, Paula Bustos presents her recent research on the effects of both climate and climate change on the movement of people across sectors. When compared to past international shocks, climate change is seen to have a larger effect because it generates greater movement of people, in particular agricultural workers who are especially vulnerable to the consequences of adverse weather conditions.]]></summary>
+        <author>
+            <name>Paula Bustos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deciphering monetary policy shocks]]></title>
         <id>https://voxeu.org/article/deciphering-monetary-policy-shocks</id>
@@ -336,16 +346,6 @@ __무상태에서...
 국내도서 > 컴퓨터/모바일 > 프로그래밍 개발/방법론 > 웹 서비스/웹 프로그래밍]]></summary>
         <author>
             <name>알라딘 &lt;noSpam.rss@aladdin.co.kr&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variability in the impacts of COVID-19 on student achievement]]></title>
-        <id>https://voxeu.org/article/variability-impacts-covid-19-student-achievement</id>
-        <link href="https://voxeu.org/article/variability-impacts-covid-19-student-achievement"/>
-        <updated>2022-07-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There is robust evidence that children lost ground academically as a consequence of the pandemic, but less research into how the effects varied by school district and household demographics. Using test data from 2.1 million students across the US, this column finds that remote instruction was a primary driver of widening achievement gaps by race and poverty. The authors argue that low-income districts that taught remotely in 2020-21 will need to spend nearly all of their federal aid on academic recovery to help students recover from pandemic-related achievement losses.]]></summary>
-        <author>
-            <name>Dan Goldhaber, Thomas  Kane, Andrew McEachin, Emily Morton, Tyler Patterson, Douglas Staiger</name>
         </author>
     </entry>
     <entry>
