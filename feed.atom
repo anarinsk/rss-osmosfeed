@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T09:02:59.025Z</id>
+    <id>urn:2022-08-02T12:03:36.610Z</id>
     <title>anari: slimfeed</title>
-    <updated>2022-08-02T09:02:59.025Z</updated>
+    <updated>2022-08-02T12:03:36.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[How temperature dynamics affect the economy is key to understanding the impact of climate change on monetary policy. This column presents new evidence that local temperature fluctuations had aggregate effects on the US in the last 50 years. Results show that US-wide temperature shocks, constructed by weighting unexpected county-level temperature variations, reduced both GDP and consumer prices, inducing an expansionary monetary policy reaction and a revision of the Federal Reserve’s economic forecasts.]]></summary>
         <author>
             <name>Filippo Natoli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does climate change affect workers?]]></title>
+        <id>https://voxeu.org/content/how-does-climate-change-affect-workers</id>
+        <link href="https://voxeu.org/content/how-does-climate-change-affect-workers"/>
+        <updated>2022-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recorded at CEPR’s June 2022 Paris Symposium, Paula Bustos presents her recent research on the effects of both climate and climate change on the movement of people across sectors. When compared to past international shocks, climate change is seen to have a larger effect because it generates greater movement of people, in particular agricultural workers who are especially vulnerable to the consequences of adverse weather conditions.]]></summary>
+        <author>
+            <name>Paula Bustos</name>
         </author>
     </entry>
     <entry>
@@ -33,16 +43,6 @@
         <summary type="html"><![CDATA[Climate change is increasing the frequency and intensity of disasters, but the ability to cope varies widely across the globe. This column examines how city death tolls and economic activity are affected by flooding. Richer places with the resources and infrastructure to cope with disasters tend to be more resilient. Compared to cities in low-income countries, those in high-income countries suffered fewer deaths per disaster, adapted over the years to better mitigate the effects of flooding, and recovered faster from economic damage.]]></summary>
         <author>
             <name>Sahil  Gandhi, Matthew Kahn, Rajat  Kochhar, Somik  Lall, Vaidehi  Tandel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How does climate change affect workers?]]></title>
-        <id>https://voxeu.org/content/how-does-climate-change-affect-workers</id>
-        <link href="https://voxeu.org/content/how-does-climate-change-affect-workers"/>
-        <updated>2022-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recorded at CEPR’s June 2022 Paris Symposium, Paula Bustos presents her recent research on the effects of both climate and climate change on the movement of people across sectors. When compared to past international shocks, climate change is seen to have a larger effect because it generates greater movement of people, in particular agricultural workers who are especially vulnerable to the consequences of adverse weather conditions.]]></summary>
-        <author>
-            <name>Paula Bustos</name>
         </author>
     </entry>
     <entry>
@@ -254,13 +254,13 @@ CHAPTER 4 파이썬과 다른 언어와의 비교 103
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Macroeconomic costs of conflict: Impact on GDP and refugee flows]]></title>
-        <id>https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows</id>
-        <link href="https://voxeu.org/article/macroeconomic-costs-conflict-impact-gdp-and-refugee-flows"/>
+        <title type="html"><![CDATA[How can monetary policy combat crisis?]]></title>
+        <id>https://voxeu.org/content/how-can-monetary-policy-combat-crisis</id>
+        <link href="https://voxeu.org/content/how-can-monetary-policy-combat-crisis"/>
         <updated>2022-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Analysis of large-scale conflicts over the past 30 years can shed light on the range of possible economic outcomes for Ukraine. This column shows that, in general, the impact on GDP is very large, persisting even ten years after conflict onset, and affects all sectors of the economy. This is overwhelmingly driven by declines in private consumption and official trade. In addition, large-scale conflicts often lead to persistent long-term refugee outflows to both neighbouring non-advanced economies (given the location of most conflict-affected countries) and non-neighbouring advanced economies. As such, policies to absorb refugees and facilitate post-war reconstruction need to be long-term as well.]]></summary>
+        <summary type="html"><![CDATA[There have been many shocks to the Eurozone over the past 15 years: the financial crisis, the debt crisis, Covid, and the current war in Ukraine. Interviewed at CEPR’s June 2022 Paris Symposium, Lucrezia Reichlin tells us about her recent research into how best to use monetary and fiscal tools to respond to these and future shocks.]]></summary>
         <author>
-            <name>Natalija Novta, Evgenia Pugacheva</name>
+            <name>Lucrezia Reichlin</name>
         </author>
     </entry>
     <entry>
